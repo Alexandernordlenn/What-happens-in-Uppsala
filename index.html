@@ -1,0 +1,819 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Uppsala just nu – demo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#EEF2F0; --surface:#FFFFFF; --ink:#16262B; --muted:#5A6B70; --line:#D3DDD9;
+  --accent:#0E6166; --accent-ink:#FFFFFF; --weekend:#E1E9E6; --soft:#F6F8F7;
+  --c-musik:#2F54D6; --c-scen:#C0266A; --c-museum:#C98A00; --c-prat:#6D3FD1;
+  --c-sport:#178A57; --c-mat:#D9531E; --c-natt:#243066; --c-ovrigt:#7C6F5A;
+  --shadow:0 12px 40px rgba(14,40,44,.18);
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0F1A1C; --surface:#16252A; --ink:#E6EEEC; --muted:#93A6A9; --line:#2A3C40;
+    --accent:#4FB3B0; --accent-ink:#06201F; --weekend:#142226; --soft:#13211F;
+    --c-musik:#7C95F5; --c-scen:#F06FA4; --c-museum:#F2C14E; --c-prat:#A98AF2;
+    --c-sport:#4FC98E; --c-mat:#F4884F; --c-natt:#8C9BE0; --c-ovrigt:#BFB29B;
+    --shadow:0 12px 40px rgba(0,0,0,.5);
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0F1A1C; --surface:#16252A; --ink:#E6EEEC; --muted:#93A6A9; --line:#2A3C40;
+  --accent:#4FB3B0; --accent-ink:#06201F; --weekend:#142226; --soft:#13211F;
+  --c-musik:#7C95F5; --c-scen:#F06FA4; --c-museum:#F2C14E; --c-prat:#A98AF2;
+  --c-sport:#4FC98E; --c-mat:#F4884F; --c-natt:#8C9BE0; --c-ovrigt:#BFB29B;
+  --shadow:0 12px 40px rgba(0,0,0,.5);
+  color-scheme:dark;
+}
+html{scroll-padding-top:calc(env(safe-area-inset-top,0px) + 120px)}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Familjen Grotesk",ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;font-size:16px;line-height:1.45;-webkit-font-smoothing:antialiased}
+button,input{font:inherit;color:inherit}
+button{cursor:pointer}
+a{color:var(--accent)}
+:focus-visible{outline:2.5px solid var(--accent);outline-offset:2px;border-radius:4px}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* Header */
+.top{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:18px 0 6px}
+.brand{font-weight:700;font-size:1.05rem;letter-spacing:-.01em;display:flex;align-items:center;gap:10px}
+.brand-mark{display:inline-flex;align-items:flex-end;gap:2px;height:18px}
+.brand-mark i{display:block;width:4px;border-radius:1px;background:var(--accent)}
+.snap{font-size:.82rem;color:var(--muted)}
+.src-btn{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:7px 14px;font-weight:600;font-size:.9rem}
+.src-btn .dots{display:inline-flex;gap:3px}
+.src-btn .dots b{width:7px;height:7px;border-radius:50%;background:var(--accent);opacity:.9}
+.src-btn .dots b.off{background:var(--line)}
+
+/* Hero skyline */
+.hero{padding:18px 0 8px}
+.hero h1{font-size:clamp(1.7rem,4.6vw,2.9rem);line-height:1.08;letter-spacing:-.025em;font-weight:700;margin:0 0 10px;max-width:22ch}
+.hero p.sub{margin:0 0 22px;color:var(--muted);max-width:62ch;font-size:1.02rem}
+.sky{display:grid;grid-template-columns:repeat(14,minmax(0,1fr));gap:6px;align-items:end}
+.col{display:flex;flex-direction:column;align-items:stretch;gap:0;border:0;background:transparent;padding:6px 3px 4px;border-radius:8px;position:relative}
+.col.we{background:var(--weekend)}
+.col:hover .stack{filter:saturate(1.15)}
+.col.sel{background:var(--ink)}
+.col.sel .dl, .col.sel .dn, .col.sel .cnt{color:var(--bg)}
+.col.dim .stack{opacity:.28}
+.cnt{font-size:.78rem;font-weight:600;color:var(--muted);text-align:center;height:18px;font-variant-numeric:tabular-nums}
+.stack{display:flex;flex-direction:column-reverse;gap:2px;min-height:6px;height:var(--h,220px);justify-content:flex-start}
+.tile{height:9px;border-radius:2px;background:var(--c);transform-origin:bottom}
+.base{height:2px;background:var(--line);margin:5px 0 6px}
+.col.sel .base{background:var(--bg);opacity:.5}
+.dl{font-size:.72rem;color:var(--muted);text-align:center;line-height:1.1}
+.dn{font-size:1rem;font-weight:700;text-align:center;font-variant-numeric:tabular-nums;line-height:1.2}
+.col.today .dn{color:var(--accent)}
+.col.sel.today .dn{color:var(--bg)}
+.dl .ls{display:none}
+@media (max-width:520px){.sky{gap:3px}.col{padding:5px 1px 4px}.dl .lf{display:none}.dl .ls{display:inline}.tile{height:8px}}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;margin:14px 0 0;font-size:.82rem;color:var(--muted)}
+.legend span{display:inline-flex;align-items:center;gap:6px}
+.legend i{width:10px;height:10px;border-radius:2px;background:var(--c)}
+@media (prefers-reduced-motion: no-preference){
+  .sky.anim .tile{animation:rise .5s cubic-bezier(.2,.8,.2,1) both;animation-delay:calc(var(--d) * 28ms + var(--k) * 12ms)}
+  @keyframes rise{from{transform:scaleY(0);opacity:0}to{transform:scaleY(1);opacity:1}}
+}
+
+/* Controls */
+.controls{position:relative;z-index:20;background:var(--bg);padding:12px 0 10px;border-bottom:1px solid var(--line);margin-top:22px}
+@media (min-width:761px){.controls{position:sticky;top:0}}
+.row1{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.search{flex:1 1 220px;display:flex;align-items:center;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:0 12px;min-height:40px}
+.search input{border:0;background:transparent;outline:none;flex:1;min-width:0;padding:8px 0}
+.seg{display:inline-flex;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:3px}
+.seg button{border:0;background:transparent;padding:6px 11px;border-radius:7px;font-size:.9rem;font-weight:500;color:var(--muted)}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:10px 0 2px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 12px;font-size:.88rem;font-weight:500;white-space:nowrap}
+.chip i{width:9px;height:9px;border-radius:50%;background:var(--c,var(--muted))}
+.chip small{color:var(--muted);font-variant-numeric:tabular-nums}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip[aria-pressed="true"] small{color:var(--bg);opacity:.75}
+.chip.flag[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.divider{flex:0 0 1px;background:var(--line);margin:4px 2px}
+.viewbar{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:10px;flex-wrap:wrap}
+.status{font-size:.88rem;color:var(--muted)}
+.status button{border:0;background:none;color:var(--accent);font-weight:600;padding:0 0 0 6px;text-decoration:underline;text-underline-offset:2px}
+
+/* Ongoing rail */
+.ongoing{margin:22px 0 4px}
+.ongoing h2,.day h2{font-size:1.05rem;margin:0;letter-spacing:-.01em}
+.ongoing .hint{font-size:.85rem;color:var(--muted);margin:2px 0 10px}
+.rail{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px;scroll-snap-type:x proximity}
+.og{flex:0 0 230px;scroll-snap-align:start;text-align:left;border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:10px 12px 11px;border-top:4px solid var(--c)}
+.og b{display:block;font-weight:600;line-height:1.25;margin-bottom:4px}
+.og span{display:block;font-size:.84rem;color:var(--muted)}
+
+/* Agenda */
+.day{margin:26px 0 0}
+.dayhead{display:flex;align-items:baseline;justify-content:space-between;gap:10px;padding-bottom:8px;border-bottom:2px solid var(--ink)}
+.dayhead h2 span{color:var(--muted);font-weight:500}
+.dayhead .n{font-size:.85rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.ev{display:grid;grid-template-columns:58px 4px 1fr auto;gap:0 12px;align-items:center;border-bottom:1px solid var(--line)}
+.ev .open{grid-column:1 / 4;display:grid;grid-template-columns:58px 4px 1fr;gap:0 12px;align-items:center;border:0;background:transparent;text-align:left;padding:11px 0;min-height:56px}
+.ev .open:hover .t{text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
+.tm{font-weight:600;font-variant-numeric:tabular-nums;font-size:.95rem}
+.tm.none{color:var(--muted);font-weight:400}
+.cbar{width:4px;align-self:stretch;border-radius:2px;background:var(--c);margin:6px 0}
+.t{display:block;font-weight:600;line-height:1.28}
+.m{display:block;font-size:.86rem;color:var(--muted);margin-top:2px}
+.tags{display:inline-flex;flex-wrap:wrap;gap:5px;margin-top:5px}
+.tag{font-size:.74rem;font-weight:600;padding:2px 7px;border-radius:5px;background:var(--soft);border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.tag.free{color:var(--c-sport);border-color:color-mix(in srgb,var(--c-sport) 35%,transparent)}
+.tag.merge{color:var(--accent);border-color:color-mix(in srgb,var(--accent) 40%,transparent)}
+.tag.warn{color:var(--c-mat);border-color:color-mix(in srgb,var(--c-mat) 40%,transparent)}
+.fav{border:0;background:transparent;width:40px;height:40px;display:grid;place-items:center;border-radius:50%;color:var(--muted)}
+.fav svg{width:20px;height:20px}
+.fav[aria-pressed="true"]{color:var(--c-scen)}
+.fav[aria-pressed="true"] svg path{fill:currentColor}
+.empty{padding:40px 0;text-align:left}
+.empty h2{margin:0 0 6px;font-size:1.2rem}
+.empty p{margin:0 0 14px;color:var(--muted)}
+.btn{border:0;background:var(--accent);color:var(--accent-ink);font-weight:600;border-radius:9px;padding:9px 16px}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line)}
+
+/* Week */
+.weeknav{display:flex;align-items:center;gap:10px;margin:22px 0 12px}
+.weeknav h2{margin:0;font-size:1.15rem;flex:1}
+.weeknav button{border:1px solid var(--line);background:var(--surface);border-radius:8px;width:36px;height:36px;font-weight:700}
+.weeknav button:disabled{opacity:.35;cursor:default}
+.week{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:6px}
+.wd{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:8px 7px;min-height:220px}
+.wd.we{background:color-mix(in srgb,var(--surface) 70%,var(--weekend))}
+.wd.past{opacity:.5}
+.wd h3{margin:0 0 6px;font-size:.84rem;font-weight:600;display:flex;justify-content:space-between;gap:4px}
+.wd h3 span{color:var(--muted);font-weight:500}
+.wd.today h3{color:var(--accent)}
+.wi{display:block;width:100%;text-align:left;border:0;background:transparent;border-left:3px solid var(--c);padding:3px 0 3px 6px;margin:0 0 5px;font-size:.8rem;line-height:1.25}
+.wi b{display:block;font-weight:600;font-variant-numeric:tabular-nums;font-size:.72rem;color:var(--muted)}
+.wi:hover{background:var(--soft)}
+@media (max-width:760px){
+  .week{grid-template-columns:1fr}
+  .wd{min-height:0}
+}
+
+/* Places */
+.places{margin-top:22px}
+.pl{border-bottom:1px solid var(--line)}
+.pl summary{list-style:none;display:grid;grid-template-columns:1fr auto;gap:4px 12px;padding:13px 0;cursor:pointer}
+.pl summary::-webkit-details-marker{display:none}
+.pl summary b{font-weight:600}
+.pl summary .pc{font-variant-numeric:tabular-nums;color:var(--muted);font-size:.9rem}
+.pbar{grid-column:1 / 3;display:flex;height:6px;border-radius:3px;overflow:hidden;background:var(--line);max-width:420px}
+.pbar i{display:block;background:var(--c)}
+.pl .inner{padding:0 0 10px}
+.pl .inner .ev{border-bottom:1px dashed var(--line)}
+.alias{font-size:.8rem;color:var(--muted);grid-column:1 / 3}
+
+/* Drawer */
+.scrim{position:fixed;inset:0;background:rgba(8,20,22,.42);z-index:40;opacity:0;pointer-events:none;transition:opacity .18s}
+.scrim.on{opacity:1;pointer-events:auto}
+.drawer{position:fixed;z-index:50;background:var(--surface);color:var(--ink);box-shadow:var(--shadow);overflow:auto;
+  top:0;right:0;bottom:0;width:min(440px,100%);padding:calc(env(safe-area-inset-top,0px) + 18px) 22px calc(env(safe-area-inset-bottom,0px) + 22px);
+  transform:translateX(104%);transition:transform .22s cubic-bezier(.2,.8,.2,1)}
+.drawer.on{transform:none}
+@media (max-width:640px){
+  .drawer{top:auto;left:0;width:100%;max-height:86vh;border-radius:16px 16px 0 0;transform:translateY(104%);padding-top:18px}
+}
+@media (prefers-reduced-motion: reduce){.drawer,.scrim{transition:none}}
+.dx{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+.dx .cat{display:inline-flex;align-items:center;gap:7px;font-size:.85rem;font-weight:600;color:var(--muted)}
+.dx .cat i{width:10px;height:10px;border-radius:2px;background:var(--c)}
+.close{border:1px solid var(--line);background:transparent;border-radius:8px;height:34px;padding:0 12px;font-weight:600}
+.drawer h2{font-size:1.5rem;line-height:1.15;letter-spacing:-.02em;margin:4px 0 12px}
+.facts{display:grid;grid-template-columns:auto 1fr;gap:6px 14px;margin:0 0 18px;font-size:.95rem}
+.facts dt{color:var(--muted)}
+.facts dd{margin:0}
+.drawer h3{font-size:.95rem;margin:18px 0 8px}
+.srcl{list-style:none;margin:0;padding:0}
+.srcl li{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 0;border-top:1px solid var(--line)}
+.srcl li:last-child{border-bottom:1px solid var(--line)}
+.srcl .sn{font-weight:600}
+.srcl .sm{display:block;font-size:.82rem;color:var(--muted);font-weight:400}
+.srcl a{font-weight:600;white-space:nowrap}
+.note{font-size:.88rem;color:var(--muted);background:var(--soft);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-top:14px}
+.note b{color:var(--ink)}
+.dfav{margin-top:18px;display:inline-flex;align-items:center;gap:8px}
+.dfav svg{width:18px;height:18px}
+.dfav[aria-pressed="true"] svg path{fill:currentColor}
+
+/* Sources drawer */
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:6px 0 16px}
+.stats div{background:var(--soft);border:1px solid var(--line);border-radius:10px;padding:10px}
+.stats b{display:block;font-size:1.35rem;font-variant-numeric:tabular-nums;line-height:1.1}
+.stats span{font-size:.78rem;color:var(--muted)}
+.srow{padding:12px 0;border-top:1px solid var(--line)}
+.srow .h{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.srow .h b{font-weight:600}
+.srow .how{display:inline-block;font-size:.74rem;font-weight:600;border:1px solid var(--line);border-radius:5px;padding:1px 6px;color:var(--muted);margin-left:6px;vertical-align:1px}
+.srow p{margin:4px 0 0;font-size:.86rem;color:var(--muted)}
+.srow p.demo{color:var(--ink);opacity:.8}
+.switch{position:relative;width:44px;height:26px;border-radius:13px;border:0;background:var(--line);flex:0 0 auto;transition:background .15s}
+.switch::after{content:"";position:absolute;top:3px;left:3px;width:20px;height:20px;border-radius:50%;background:var(--surface);box-shadow:0 1px 3px rgba(0,0,0,.25);transition:transform .15s}
+.switch[aria-checked="true"]{background:var(--accent)}
+.switch[aria-checked="true"]::after{transform:translateX(18px)}
+.nc{opacity:.75}
+footer{margin:48px 0 40px;padding-top:16px;border-top:1px solid var(--line);font-size:.85rem;color:var(--muted);max-width:70ch}
+footer p{margin:0 0 8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <div class="brand"><span class="brand-mark" aria-hidden="true"><i style="height:8px"></i><i style="height:14px"></i><i style="height:18px"></i><i style="height:11px"></i></span>Uppsala just nu</div>
+      <div class="snap">Demo med riktig data, hämtad tisdag 22 september 2026</div>
+    </div>
+    <button class="src-btn" id="openSources" aria-haspopup="dialog"><span class="dots" id="srcDots" aria-hidden="true"></span>Källor</button>
+  </header>
+
+  <section class="hero" aria-labelledby="heroTitle">
+    <h1 id="heroTitle">…</h1>
+    <p class="sub" id="heroSub"></p>
+    <div class="sky anim" id="sky" role="group" aria-label="Antal evenemang per dag de kommande 14 dagarna. Välj en dag för att bara visa den."></div>
+    <div class="legend" id="legend"></div>
+  </section>
+
+  <div class="controls" id="controls">
+    <div class="row1">
+      <label class="search"><span class="sr">Sök</span>
+        <svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="M20 20l-4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input id="q" type="search" placeholder="Sök artist, plats eller evenemang" autocomplete="off">
+      </label>
+      <div class="seg" id="period" role="group" aria-label="Period">
+        <button data-p="today">Idag</button><button data-p="weekend">Helgen</button><button data-p="7">7 dagar</button><button data-p="14">14 dagar</button><button data-p="all">Allt</button>
+      </div>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Filter"></div>
+    <div class="viewbar">
+      <div class="seg" id="views" role="group" aria-label="Vy">
+        <button data-v="list">Lista</button><button data-v="week">Vecka</button><button data-v="places">Platser</button>
+      </div>
+      <div class="status" id="status" aria-live="polite"></div>
+    </div>
+  </div>
+
+  <main id="main"></main>
+
+  <footer>
+    <p>Det här är en demo. Evenemangen kommer från publika sidor hos Tickster, Heja Uppsala, Destination Uppsala, Svenska kyrkan, Bibliotek Uppsala och Uppsala stadsteater, hämtade 22 september 2026. Tider visas där de fanns i underlaget; i en skarp version kommer de från respektive källas API eller flöde. Två tider kommer från andra sidor än de listade källorna och är markerade i respektive evenemang.</p>
+    <p>Sidan visar bara fakta (titel, datum, tid och plats) och länkar alltid vidare till arrangören för beskrivning, bilder och biljetter.</p>
+  </footer>
+</div>
+
+<div class="scrim" id="scrim"></div>
+<aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-labelledby="dTitle" tabindex="-1"></aside>
+
+<script>
+(function(){
+"use strict";
+/* ---------- Källor ---------- */
+var SRC = {
+  t:{name:"Tickster", base:"https://www.tickster.com/se/sv/events/", how:"Officiellt API",
+     status:"Nyckel söks hos Tickster och godkänns manuellt. Ger tider, platser med koordinater, taggar och biljettlänkar. Täcker bland annat UKK, Katalin, Kaliber Live, konstmuseet, Biotopia, Sirius, Storvreta och Uppsala Basket (357 kommande evenemang i Uppsala just nu). Hämta per arrangör och spelplats, inte bara per stad, annars missas till exempel Storvretas matcher.",
+     demo:"I demon: publika evenemangssidor."},
+  h:{name:"Heja Uppsala", base:"https://hejauppsala.com/kalender/", how:"Partneravtal",
+     status:"Privat lokal kalender med många små arrangörer som bibliotek, kyrkor, föreningar och idrott. Återanvändning kräver avtal.",
+     demo:"I demon: kalenderns tre första sidor."},
+  d:{name:"Destination Uppsala", base:"https://destinationuppsala.se/event/", how:"Öppna data",
+     status:"Kommunalt bolag (Destination Uppsala AB). Datan kan begäras för vidareutnyttjande enligt öppna data-lagen. Bäst på utställningar och längre föreställningsperioder.",
+     demo:"I demon: eventkalenderns första sida."},
+  s:{name:"Uppsala stadsteater", base:"https://www.uppsalastadsteater.se/", how:"Samarbete",
+     status:"Kommunalt bolag. Webbplatsen tillåter inte automatiserad hämtning, så be teatern om ett flöde eller begär uppgifterna som offentlig verksamhet.",
+     demo:"I demon: en premiär från säsongssidan, inlagd för hand."},
+  k:{name:"Svenska kyrkan", base:"https://www.svenskakyrkan.se/", how:"Öppet API",
+     status:"Kalender-API för alla församlingar. Gratis nyckel via api.svenskakyrkan.se, oftast under CC BY 4.0, vilket betyder att källan ska anges. Uppsala pastorat har sex egna kalender-ID:n att filtrera på.",
+     demo:"I demon: konsertsidan för Uppsala pastorat, tills nyckeln är på plats."},
+  b:{name:"Bibliotek Uppsala", base:"https://bibliotekuppsala.se/", how:"Begär data",
+     status:"Kommunens bibliotek. Kalendern laddas med JavaScript och ser ut att ligga i ett bibliotekssystem med API bakom, så fråga biblioteket om åtkomst.",
+     demo:"I demon: länk hittad via Heja Uppsala."}
+};
+var SOURCE_MAP = [
+  {g:"Öppet API, skaffa nyckel direkt", items:[
+    {name:"Ticketmaster", status:"Gratis nyckel direkt, 5 000 anrop per dygn. Sök på stad eller koordinater. Täcker främst större turnéer."}
+  ]},
+  {g:"Offentlig verksamhet, begär datan", items:[
+    {name:"Kubik Uppsala", status:"Kommunens kalender för barn och unga, över 1 000 aktiviteter per år. Laddas med JavaScript, så be kulturförvaltningen om ett flöde."},
+    {name:"Reginateatern", status:"Drivs av kommunens kulturförvaltning. Program och tider är kommunala uppgifter och kan begäras ut."},
+    {name:"Musik i Uppland", status:"Regionens konsertverksamhet. Webbplatsen tillåter inte automatiserad hämtning, så fråga Region Uppsala."},
+    {name:"Kulturnatten", status:"Kommunens kulturnämnd äger evenemanget. Hela programmet kommer en gång om året och är värt en egen import."}
+  ]},
+  {g:"Strukturerade sidor och kalenderfiler", items:[
+    {name:"Uppsala universitet", status:"Varje evenemang har samma fält och en knapp för att lägga till i kalender. Filtrera på öppna föreläsningar och kultur, resten är interna seminarier."},
+    {name:"Föreningar med iCal", status:"Google Kalender, Luma och liknande ger prenumererbara kalenderlänkar. Låt föreningar klistra in sin länk i ett formulär."}
+  ]},
+  {g:"Kräver samarbete", items:[
+    {name:"Nortic", status:"Biljettsystem för bland annat Uppsala domkyrkas förköp och Botaniska trädgårdens teater. Inget publikt API hittat, fråga om partneråtkomst."},
+    {name:"Nationsguiden", status:"Nationernas officiella app för evenemang. Kontakta nationerna eller appens ägare."},
+    {name:"Heja Uppsala", status:"För de små arrangörerna som bara finns där. Ett avtal eller ett ömsesidigt utbyte är rimligare än att hämta deras kalender."}
+  ]},
+  {g:"Går inte att hämta", items:[
+    {name:"Facebook-evenemang", status:"Meta tillåter sedan flera år inte att man hämtar andras publika evenemang via API. Be arrangörerna lägga in evenemangen själva i stället."}
+  ]}
+];
+var CATS = {
+  musik:{label:"Musik"}, scen:{label:"Scen & film"}, museum:{label:"Konst & museum"}, prat:{label:"Föredrag & samtal"},
+  sport:{label:"Sport"}, mat:{label:"Mat & dryck"}, natt:{label:"Klubb & nattliv"}, ovrigt:{label:"Marknad & festival"}
+};
+var CAT_ORDER = ["musik","scen","museum","prat","sport","mat","natt","ovrigt"];
+var V = {
+  katalin:"Katalin", ukk:"Uppsala Konsert & Kongress", stadsbib:"Stadsbiblioteket", domkyrkan:"Uppsala domkyrka",
+  konstmuseum:"Uppsala konstmuseum", kaliber:"The Kaliber Room", blackbird:"Blackbird", ifu:"IFU Arena",
+  fyrishov:"Fyrishov", granby:"Gränby ishall", studenternas:"Studenternas", saluhall:"Uppsala Saluhall",
+  slott:"Uppsala slott", slottshist:"Uppsala slottshistoriska", brorhjorth:"Bror Hjorths Hus",
+  upplandsmuseet:"Upplandsmuseet", birgerjarl:"Birger Jarl", kulturoasen:"Kulturoasen", fyrisgarden:"Fyrisgården",
+  kulturpunkten:"Kulturpunkten, Gottsunda", stadsteatern:"Uppsala stadsteater", gottsundadt:"Gottsunda Dans & Teater",
+  biotopia:"Biotopia", vaksala:"Vaksala torg", brygghus:"Uppsala Brygghus", kaija:"KAIJA, Stallet",
+  nordisk:"Nordisk Film Gränbystaden", ulva:"Ulva kvarn", savja:"Sävja kulturhus", drabanten:"Drabanten",
+  auktion:"Uppsala Auktionskammare", usif:"USIF Arena", konstnarsklubb:"Uppsala Konstnärsklubb",
+  kottinsp:"Köttinspektionen", cube:"Cube of Art", innerstan:"Innerstaden", godeherden:"Gode Herdens kapell, Ulleråker", gottsundakyrka:"Gottsunda kyrka"
+};
+var ALIASES = {
+  katalin:["Katalin, Uppsala","Katalin and all that Jazz","Katalin & All That Jazz","Katalins Bakficka"],
+  ukk:["Uppsala Konsert & Kongress, Stora salen","UKK Sal B","Uppsala Gitarrfestival på UKK"],
+  ifu:["IFU Arena","Ifu Arena"], saluhall:["Uppsala Saluhall","Saluhallen"]
+};
+var DU_KONSERT = "https://destinationuppsala.se/event-kategori/konsert/";
+
+/* ---------- Evenemang (ögonblicksbild 22 sep 2026) ---------- */
+var E = [
+{t:"Thomas Lindroth (från Good Morning Blues)",d:"09-22",tm:"20:00",v:"katalin",r:"Bakfickan",c:"musik",n:"20 år",al:1,s:["t:fy7fdczveugkyrg/2026-09-22/thomas-lindroth-fran-good-morning-blues","h:thomas-lindroth-jazzbaren-2026/"]},
+{t:"Jazzlunch på Katalins Bakficka",d:"09-22",v:"katalin",r:"Bakfickan",c:"musik",free:1,s:["h:jazzlunch-pa-katalins-bakficka-2026-2-2-2-2/"]},
+{t:"Stadsvandring bortom normen",d:"09-22",tm:"18:00",v:"domkyrkan",r:"södra porten",c:"museum",n:"50 kr, max 20 personer",s:["h:stadsvandring-bortom-normen-2026/"]},
+{t:"Författarbesök: Iman Mersal",d:"09-22",tm:"18:00",v:"stadsbib",r:"Mallas sal",c:"prat",free:1,n:"På engelska, boka plats",s:["b:evenemang#/events/7c8a512f-ac65-4a5d-a695-c022783ec05c?location=Stadsbiblioteket","h:forfattarbesok-iman-mersal-2026/"]},
+{t:"Unik konstvandring i Uppsala",d:"09-22",e:"09-24",v:"innerstan",r:"Celsiustorget",c:"museum",s:["h:unik-konstvandring-i-uppsala-2026/"]},
+
+{t:"Svavar Knútur",d:"09-23",v:"katalin",r:"Bakfickan",c:"musik",al:1,s:["t:nlt3mfegh8j6xwx/2026-09-23/svavar-knutur","h:svavar-knutur-2026/"]},
+{t:"Storvreta – Linköping (herr)",d:"09-23",tm:"18:30",v:"ifu",c:"sport",n:"Hemmapremiär i Superligan",s:["t:https://secure.tickster.com/sv/uf3h4bcuc66cd2f/selectevent","h:storvreta-herr-linkoping-23-sept-2026/"]},
+{t:"Pianokonsert med Jacob Reif",d:"09-23",tm:"19:00",v:"godeherden",c:"musik",s:["k:uppsala/nyheter/pianokonsert-i-gode-herdens-kapell"]},
+{t:"Hemvägen",d:"09-23",tm:"20:00",v:"kaliber",c:"musik",s:["h:hemvagen-the-kaliber-room-2027-2/"]},
+{t:"Vi är Metal Dragon – förhandsvisning",d:"09-23",v:"nordisk",c:"scen",fam:1,s:["d:vi-ar-metal-dragon-forhandsvisning/"]},
+{t:"Jill Eriksson | Växtrum",d:"09-23",e:"09-27",v:"konstnarsklubb",r:"Galleri 1",c:"museum",s:["h:jill-eriksson-vaxtrum-2/"]},
+{t:"Kullen",d:"09-23",e:"09-27",v:"konstnarsklubb",r:"Galleri 2",c:"museum",s:["h:kullen-2/"]},
+
+{t:"The Undertones 50th Anniversary Tour",d:"09-24",tm:"20:00",v:"katalin",c:"musik",n:"495 kr, 20 år, ståplats",al:1,s:["t:97hf034d5vac340/2026-09-24/the-undertones-50th-anniversary-tour","h:the-undertones-50th-anniversary-tour-2026/"]},
+{t:"Gibrish – I spåren av Bob Dylan",d:"09-24",v:"katalin",r:"Bakfickan",c:"musik",s:["t:n57k008690b2llj/2026-09-24/gibrish-i-sparen-av-bob-dylan","h:gibrish-katalin-2026/"]},
+{t:"Älskade stråkar – Uppsala Kammarorkester",d:"09-24",tm:"19:00",v:"ukk",r:"Stora salen",c:"musik",n:"Tid enligt ukk.se",s:["t:appx671xcr443r6/2026-09-24/alskade-strakar-uppsala-kammarorkester","d:alskade-strakar-uppsala-kammarorkester/"]},
+{t:"Det idéala – Varför psykisk hälsa?",d:"09-24",v:"ukk",r:"Sal D",c:"prat",s:["t:er78xj5y7nvt527/2026-09-24/det-ideala-varfor-psykisk-halsa","h:det-ideala-september-2026/"]},
+{t:"Stadsvandring: Drottningarnas Uppsala",d:"09-24",v:"slottshist",c:"museum",s:["t:xccp1jpchfg3t7v/2026-09-24/stadsvandring-drottningarnas-uppsala"]},
+{t:"Skapa din egen pridebanderoll med Stuart Mayes",d:"09-24",v:"konstmuseum",c:"museum",s:["t:rjf8g47j3funguh/2026-09-24/skapa-din-egen-pridebanderoll-med-stuart-mayes"]},
+{t:"Konsert: Flamencokvartetten",d:"09-24",v:"konstmuseum",c:"musik",s:["t:cw3a275mmj1m1am/2026-09-24/konsert-flamencokvartetten"]},
+{t:"Art Night",d:"09-24",v:"konstmuseum",c:"museum",s:["h:art-night-2026-2-2/","d:art-night-2026/"]},
+{t:"Sirius – ESK (dam)",d:"09-24",v:"studenternas",c:"sport",free:1,s:["h:sirius-dam-esk-24-sept-2026/"]},
+{t:"A queer city walk",d:"09-24",v:"domkyrkan",r:"södra ingången",c:"museum",s:["h:a-queer-city-walk/"]},
+{t:"Författarbesök: Gustav Bergström",d:"09-24",v:"stadsbib",c:"prat",free:1,s:["h:forfattarbesok-gustav-bergstrom/"]},
+{t:"Författarbesök: Lars Tranvik",d:"09-24",v:"stadsbib",c:"prat",free:1,s:["h:forfattarbesok-lars-tranvik-2026/"]},
+{t:"Urtidsdjur",d:"09-24",v:"kaliber",c:"musik",s:["h:urtidsdjur-the-kaliber-room-2027/"]},
+{t:"250 dagars – Utsparken – College Party",d:"09-24",v:"birgerjarl",c:"natt",s:["t:ubx3vpg09zcx6zn/2026-09-24/250dagars-utsparken-college-party"]},
+{t:"Peaks of Presence – vernissage",d:"09-24",e:"09-27",v:"kottinsp",c:"museum",free:1,s:["h:peaks-of-presence-vernissage-2026-2/"]},
+
+{t:"Disco Inferno – Sveriges största discoshow",d:"09-25",tm:"20:00",v:"ukk",r:"Stora salen",c:"musik",s:["t:umrjh0jwppnczu4/2026-09-25/disco-inferno-sveriges-storsta-discoshow","h:disco-inferno-ukk-2026/","D:"+DU_KONSERT]},
+{t:"Division 7",d:"09-25",v:"katalin",c:"musik",al:1,s:["t:h4vu7w09xdvjcmg/2026-09-25/division-7","h:division-7/"]},
+{t:"Andreas Hellkvist Orgelparty",d:"09-25",v:"katalin",r:"Bakfickan",c:"musik",s:["t:f48j9c0cz2dkxpw/2026-09-25/andreas-hellkvist-orgelparty-katalins-bakficka","h:andreas-hellkvist-orgelparty-2026/"]},
+{t:"Sweet Emma & The Mood Swingers",d:"09-25",v:"blackbird",c:"musik",s:["t:egek091vjfcf2hh/2026-09-25/sweet-emma-and-the-mood-swingers"]},
+{t:"Uppsala Basket – Jämtland Basket",d:"09-25",v:"fyrishov",c:"sport",tw:"Uppsala basket H – Jämtland",s:["t:2mbhr2uxwmv0e4y/2026-09-25/uppsala-basket-jamtland-basket","h:uppsala-basket-h-jamtland-25-sept-2026/"]},
+{t:"Almtuna – Karlskoga",d:"09-25",v:"granby",c:"sport",s:["h:almtuna-karlskoga-25-sept-2026/"]},
+{t:"Oktoberfest",d:"09-25",v:"brygghus",c:"mat",s:["h:oktoberfest-2026/"]},
+{t:"1980-talets matkultur med Richard Tellström",d:"09-25",v:"slott",c:"mat",s:["h:1980-talets-matkultur-uppsala-slott-2026/"]},
+{t:"Pride Pre Party",d:"09-25",v:"kaliber",c:"natt",s:["h:pride-pre-party-kaliber-room-2026/"]},
+{t:"Uppsala:2030 – Från kris till konkurrenskraft",d:"09-25",v:"ifu",c:"prat",s:["h:uppsala2030-fran-kris-till-konkurrenskraft-25-september/"]},
+{t:"Asiatisk middagsupplevelse",d:"09-25",v:"kaija",c:"mat",s:["t:dgcbaadflnw611u/2026-09-25/asiatisk-middagsupplevelse"]},
+{t:"Skaldjurshelg",d:"09-25",e:"09-26",v:"saluhall",c:"mat",s:["h:skaldjurshelger-i-uppsala-saluhall-2026/"]},
+
+{t:"Uppsala Pride",d:"09-26",v:"ukk",c:"ovrigt",s:["h:uppsala-pride/"]},
+{t:"Uppsala Pride – efterfest",d:"09-26",v:"ukk",r:"Sal D",c:"natt",s:["t:rehgg4fglpakm09/2026-09-26/uppsala-pride-efterfest"]},
+{t:"Stadens ljus – Nordenpremiär",d:"09-26",v:"stadsteatern",r:"Stora scenen",c:"scen",s:["s:host-2026/"]},
+{t:"Aurell & Gullberg – Killarna mot tjejerna",d:"09-26",v:"katalin",c:"scen",s:["t:48kah1jlc4lm90g/2026-09-26/aurell-and-gullberg-killarna-mot-tjejerna","h:aurell-gullberg-killarna-mot-tjejerna-2026/"]},
+{t:"Joulin Younis",d:"09-26",v:"katalin",r:"Bakfickan",c:"musik",s:["t:1kg786em3z5u6pw/2026-09-26/joulin-younis-katalins-bakficka","h:joulin-younis-jazzbaren/"]},
+{t:"Trio X feat. Ulf Wakenius",d:"09-26",v:"blackbird",c:"musik",s:["t:2eyy143y25ckxbt/2026-09-26/trio-x-feat-ulf-wakenius"]},
+{t:"Lördagsjazz",d:"09-26",v:"katalin",c:"musik",s:["h:lordagsjazz-katalin-2026-2/"]},
+{t:"Ost- och vinprovning",d:"09-26",v:"saluhall",c:"mat",s:["h:ost-och-vinprovning-pa-saluhallen-26-september-2026/"]},
+{t:"Familjelördag på konstmuseet",d:"09-26",v:"konstmuseum",c:"museum",fam:1,s:["h:familjelordagar-uppsala-konstmuseum-2026-2-2/","d:familjelordagar-pa-uppsala-konstmuseum-2026/"]},
+{t:"Byt & Bevara – klädbytarträff",d:"09-26",v:"fyrisgarden",c:"ovrigt",free:1,fam:1,s:["h:byt-bevara-kladbytartraff-2026/"]},
+{t:"Storvreta – Lund (dam)",d:"09-26",v:"ifu",c:"sport",s:["h:storvreta-dam-lund-26-sept-2026/"]},
+{t:"Storvreta – Pixbo (herr)",d:"09-26",v:"ifu",c:"sport",s:["h:storvreta-herr-pixbo-26-sept-2026/"]},
+{t:"Lördagsmusik: Nicolas Haigh spelar Bach",d:"09-26",tm:"11:30",v:"domkyrkan",c:"musik",free:1,tw:"Lördagsmusik: orgelkonsert",s:["k:uppsaladomkyrka/nyheter/lordagsmusik-i-uppsala-domkyrka","h:lordagsmusik-orgelkonsert-16/"]},
+{t:"Rockatorium",d:"09-26",tm:"18:00",v:"gottsundakyrka",c:"musik",free:1,n:"Med Uppland Rock Choir",s:["k:uppsala/nyheter/rockatorium-i-gottsunda-kyrka"]},
+{t:"Rasmus V & Yellow Pages",d:"09-26",v:"kaliber",c:"musik",s:["h:rasmus-v-yellow-pages-kaliber-room-2026/"]},
+{t:"Kunskapslördag",d:"09-26",v:"auktion",c:"museum",s:["h:kunskapslordag-uppsala-auktionskammare-2026-2/"]},
+{t:"Time Machine – One more time!",d:"09-26",v:"birgerjarl",c:"natt",s:["t:c6nwv9krr64ppjy/2026-09-26/time-machine-one-more-time"]},
+{t:"Visning: Walmstedtska gården",d:"09-26",e:"09-27",v:"upplandsmuseet",c:"museum",s:["h:visning-walmstedtska-garden-2-2-2-2-2-2-2-2-2-3-2-2/"]},
+
+{t:"Babblarna & Klonks Klapp-kalas",d:"09-27",v:"ukk",r:"Stora salen",c:"scen",fam:1,occ:3,n:"3 föreställningar samma dag",s:["t:adg56dfbargar04/2026-09-27/babblarna-and-klonks-klapp-kalas","h:babblarna-klonks-klapp-kalas-2026/"]},
+{t:"Louisa Lyne & di Yiddishe Kapelye",d:"09-27",v:"ukk",r:"Sal B",c:"musik",s:["t:c5pmvhgxdrrryle/2026-09-27/louisa-lyne-and-di-yiddishe-kapelye","h:louisa-lyne-di-yiddishe-kapelye-2026/","D:"+DU_KONSERT]},
+{t:"Sirius – Hovslätt (innebandy)",d:"09-27",v:"ifu",c:"sport",s:["t:td5fdtkmmvfh6cn/2026-09-27/sirius-vs-hovslatt"]},
+{t:"Bakluckeloppis",d:"09-27",v:"ulva",c:"ovrigt",fam:1,s:["h:bakluckeloppis-ulva-kvarn-2026-27-sept/","d:bakluckeloppis-vid-ulva-kvarn-2026/"]},
+{t:"Musik, mode & moralpanik – med Kyllinge",d:"09-27",v:"kulturoasen",c:"musik",s:["h:musik-mode-moralpanik-med-kyllinge-2026/"]},
+{t:"Choral Evensong in English",d:"09-27",v:"domkyrkan",c:"musik",free:1,s:["h:choral-evensong-in-english-2026/"]},
+{t:"Öppet hus: yoga och danslektioner",d:"09-27",v:"drabanten",c:"scen",free:1,s:["h:oppet-hus-yoga-danslektioner-2026/"]},
+
+{t:"Älskade stråkar",d:"09-28",v:"savja",c:"musik",s:["h:alskade-strakar-savja-2026/"]},
+
+{t:"Klubb Uffe: Ward Hayden & The Outliers",d:"09-29",v:"katalin",r:"Bakfickan",c:"musik",s:["t:v06clb3zngk00z2/2026-09-29/ward-hayden-and-the-outliers-klubb-uffe","h:klubb-uffe-ward-hayden-the-outliers-2026/"]},
+{t:"Fyris Comedy med Özz Nûjen",d:"09-29",v:"kaliber",c:"scen",s:["h:fyris-comedy-med-ozz-nujen-2026/"]},
+{t:"Författarbesök: Noah van Dorpel",d:"09-29",v:"stadsbib",c:"prat",free:1,s:["h:forfattarbesok-noah-van-dorpel-2026/"]},
+{t:"Jazzlunch på Katalins Bakficka",d:"09-29",v:"katalin",r:"Bakfickan",c:"musik",free:1,s:["h:jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-3/"]},
+{t:"Resandefolkets högtidsdag",d:"09-29",v:"kulturpunkten",c:"prat",free:1,s:["h:resandefolkets-hogtidsdag/"]},
+
+{t:"Jävla karlar",d:"09-30",v:"ukk",r:"Stora salen",c:"scen",n:"Extraföreställning",s:["t:6y92736wkaa0l1j/2026-09-30/javla-karlar","h:javla-karlar-ukk-30-sept-2026/"]},
+{t:"Tanter på rymmen",d:"09-30",v:"kulturpunkten",c:"scen",s:["t:79vbn2md60wwgvn/2026-09-30/tanter-pa-rymmen"]},
+{t:"EP’s Trailer Park",d:"09-30",v:"katalin",r:"Bakfickan",c:"musik",s:["h:eps-trailer-park-jazzbaren-2026/"]},
+{t:"Almtuna – Södertälje",d:"09-30",v:"granby",c:"sport",s:["h:almtuna-sodertalje-30-sept-2026/"]},
+{t:"Pricken i Hagalund",d:"09-30",v:"brorhjorth",c:"prat",s:["h:pricken-i-hagalund/"]},
+{t:"Författarbesök: Hans-Olov Öberg",d:"09-30",v:"stadsbib",c:"prat",free:1,s:["h:hans-olov-oberg-2026/"]},
+
+{t:"Jävla karlar",d:"10-01",v:"ukk",r:"Stora salen",c:"scen",s:["t:ft35bnzyru36p53/2026-10-01/javla-karlar","h:javla-karlar-ukk/"]},
+{t:"Mårten Cvetkovic 2",d:"10-01",tm:"19:30",v:"ukk",r:"Sal B",c:"scen",n:"Tid enligt allevents.in",s:["t:kktbwen1vzdxggn/2026-10-01/marten-cvetkovic-2","h:marten-andersson-cvetkovic-ukk-2026/"]},
+{t:"Emil Ingmar – Polaroids",d:"10-01",v:"blackbird",c:"musik",s:["t:dm22vrfk24kdkzr/2026-10-01/emil-ingmar-polaroids"]},
+{t:"Jelly Crystal",d:"10-01",v:"katalin",c:"musik",s:["h:jelly-crystal/"]},
+{t:"Sopplunch: Värdet av konst",d:"10-01",v:"konstmuseum",c:"prat",s:["t:5xxc3hdf9n4ldzm/2026-10-01/sopplunch-vardet-av-konst"]},
+{t:"Konst och bar: Plats och landskap",d:"10-01",v:"konstmuseum",c:"museum",s:["t:11wtlpjbnh3g7gt/2026-10-01/konst-och-bar-plats-och-landskap"]},
+{t:"Workshop: Skapa kollage i textil",d:"10-01",v:"konstmuseum",c:"museum",s:["t:w5w62xctg8f6yg0/2026-10-01/workshop-skapa-kollage-i-textil"]},
+{t:"Torsdagskul: Baka bröd ute",d:"10-01",v:"biotopia",c:"museum",fam:1,s:["t:7vht8x5cvjpnbtk/2026-10-01/torsdagskul-tema-baka-brod-ute-1-10-and-8-10"]},
+{t:"Art Night",d:"10-01",v:"konstmuseum",c:"museum",s:["h:art-night-2026-2-2-2/","d:art-night-2026/"]},
+{t:"Författarbesök: Leif Zern och Ulrika Knutson",d:"10-01",v:"stadsbib",c:"prat",free:1,s:["h:forfattarbesok-leif-zern-och-ulrika-knutson-2026/"]},
+{t:"Kreativ verkstad",d:"10-01",v:"fyrisgarden",c:"museum",s:["h:kreativ-verkstad-2026-2/"]},
+
+{t:"Nisse Hallberg – 8 år senare",d:"10-02",v:"katalin",c:"scen",al:1,s:["t:cp9h0w9c5rdalm1/2026-10-02/nisse-hallberg-8-ar-senare","h:nisse-hallberg-2026-katalin/"]},
+{t:"Marco Mendoza",d:"10-02",v:"blackbird",c:"musik",s:["t:fvh9rnp656jenx4/2026-10-02/marco-mendoza"]},
+{t:"Markus Berjlund",d:"10-02",v:"katalin",r:"Bakfickan",c:"musik",s:["h:markus-berjlund-katalins-bakficka/"]},
+{t:"Väsen",d:"10-02",v:"brorhjorth",c:"musik",s:["h:vasen-2026-bror-hjorths-hus/"]},
+{t:"Uppsala Basket – Högsbo",d:"10-02",v:"fyrishov",c:"sport",s:["h:uppsala-basket-h-hogsbo-2-okt-2026/"]},
+{t:"Hagunda IF – Skälby IBK",d:"10-02",v:"ifu",c:"sport",s:["t:f9l7ac53fagg4xp/2026-10-02/hagunda-if-skalby-ibk"]},
+{t:"Förhandsvisning: Eija-Liisa Ahtila",d:"10-02",v:"konstmuseum",c:"museum",s:["t:va94ahzgnjk4bel/2026-10-02/forhandsvisning-preview-eija-liisa-ahtila"]},
+{t:"Skaldjurshelg",d:"10-02",e:"10-03",v:"saluhall",c:"mat",s:["h:skaldjurshelger-i-uppsala-saluhall-2026-2/"]},
+
+{t:"Luke Elliot – The King of Rock and Roll Tour",d:"10-03",v:"katalin",c:"musik",s:["t:rfml93e5btgucge/2026-10-03/luke-elliot-the-king-of-rock-and-roll-tour","h:luke-elliot-2026-katalin/"]},
+{t:"Tove Gustavsson – The Blues Uppsala",d:"10-03",v:"katalin",r:"Bakfickan",c:"musik",s:["t:69rn2rf0gzbkuhr/2026-10-03/tove-gustavsson-the-blues-uppsala","h:tove-gustavsson-the-blues-uppsala-2026/"]},
+{t:"Lördagsjazz",d:"10-03",v:"katalin",c:"musik",s:["h:lordagsjazz-katalin-2026-2-2/"]},
+{t:"Sirius – IBF Örebro (innebandy)",d:"10-03",v:"ifu",c:"sport",s:["t:vnw0x8lu5ek7gw8/2026-10-03/sirius-vs-ibf-orebro"]},
+{t:"Leo Lindberg",d:"10-03",v:"blackbird",c:"musik",s:["t:7j98l7xxlt66rge/2026-10-03/leo-lindberg"]},
+{t:"Matmilen Uppsala",d:"10-03",v:"innerstan",c:"mat",s:["h:matmilen-uppsala-3-okt-2026/"]},
+{t:"Klassisk vinprovning",d:"10-03",v:"saluhall",c:"mat",s:["h:vinprovning-pa-saluhallen/"]},
+{t:"Brahms pianokonsert nr 1",d:"10-03",tm:"18:00",v:"gottsundakyrka",c:"musik",free:1,s:["k:uppsala/nyheter/brahms-pianokonsert-nr-1"]},
+{t:"Jubileumsgudstjänst: Svenska kyrkan i utlandet 400 år",d:"10-03",tm:"17:00",v:"domkyrkan",c:"musik",n:"Med Uppsala Domkyrkokör",s:["k:https://uppsaladomkyrkokor.com/program/"]},
+{t:"Lördagsmusik: orgelkonsert",d:"10-03",v:"domkyrkan",c:"musik",free:1,s:["h:lordagsmusik-orgelkonsert-15/"]},
+{t:"Uppsala Basket – Södertälje (dam)",d:"10-03",v:"usif",c:"sport",s:["h:uppsala-basket-d-sodertalje-3-okt-2026/"]},
+{t:"Punkt",d:"10-03",e:"10-18",v:"konstnarsklubb",r:"Galleri 1 och 2",c:"museum",s:["h:punkt/"]},
+
+{t:"Poste Restante",d:"10-04",v:"ukk",r:"Sal B",c:"musik",s:["t:cku12ktwj2df8tz/2026-10-04/poste-restante-4-10","h:poste-restante-4-okt-2026/","D:"+DU_KONSERT]},
+{t:"ULV",d:"10-04",v:"kulturoasen",c:"musik",s:["h:ulv-2026/"]},
+{t:"Erika Lindgren Liljenstolpe och Täpp Ida Almlöf möter ULV",d:"10-04",v:"kulturoasen",c:"musik",pd:"ULV",s:["h:erika-lindgren-liljenstolpe-och-tapp-ida-almlof-moter-ulv-2026/"]},
+{t:"Samtal: Möt årets Art’n Fiber-residenskonstnär",d:"10-04",v:"konstmuseum",c:"prat",s:["t:t8bjj2e6u7w6arz/2026-10-04/samtal-mot-arets-art-n-fiber-residenskonstnar"]},
+{t:"Aftonsång",d:"10-04",v:"domkyrkan",c:"musik",free:1,s:["h:aftonsang-2026-2/"]},
+{t:"Storvreta – Lund (herr)",d:"10-04",v:"ifu",c:"sport",s:["h:storvreta-herr-lund-4-okt-2026/"]},
+{t:"Uppsala Marknad",d:"10-04",e:"10-06",v:"vaksala",c:"ovrigt",free:1,fam:1,s:["h:uppsala-marknad-2026/"]},
+
+{t:"Klubb Uffe: Tess Liautaud",d:"10-06",v:"katalin",r:"Bakfickan",c:"musik",s:["t:v9103ug80ax09zz/2026-10-06/tess-liautaud-klubb-uffe","h:tess-liautaud-klubb-uffe-2026/"]},
+{t:"Klubb Uffe: The Deep Dark Woods",d:"10-06",v:"katalin",r:"Bakfickan",c:"musik",s:["h:klubb-uffe-the-deep-dark-woodse-2026/"]},
+{t:"Jazzlunch på Katalins Bakficka",d:"10-06",v:"katalin",r:"Bakfickan",c:"musik",free:1,s:["h:jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2/"]},
+
+{t:"CD-release med Swingin’ Uppsala",d:"10-07",v:"blackbird",c:"musik",s:["t:z8bxwlz639kddy0/2026-10-07/cd-release-med-swingin-uppsala"]},
+{t:"Almtuna – Visby/Roma",d:"10-07",v:"granby",c:"sport",s:["h:almtuna-visby-roma-7-okt-2026/"]},
+{t:"Författarbesök: Elin Ylvasdotter",d:"10-07",v:"stadsbib",c:"prat",s:["h:forfattarbesok-elin-ylvasdotter-2026/"]},
+{t:"Storvreta – Täby (dam)",d:"10-07",v:"ifu",c:"sport",s:["h:storvreta-dam-taby-7-okt-2026/"]},
+
+{t:"Uppsala Internationella Gitarrfestival",d:"10-08",e:"10-10",v:"ukk",c:"musik",n:"Program på UKK och Katalin",s:["h:uppsala-internationella-gitarrfestival-2026/","t:pdm9n77v6cn2w73/2026-10-08/uppsala-internationella-gitarrfestival-katalin"]},
+{t:"Vetenskapsfestivalen SciFest",d:"10-08",e:"10-10",v:"fyrishov",c:"ovrigt",fam:1,s:["h:vetenskapsfestivalen-scifest/"]},
+{t:"Melodiquizet",d:"10-08",v:"blackbird",c:"natt",s:["t:wfeezykm0tu9xn7/2026-10-08/melodiquizet-8-10"]},
+{t:"Preview: Uppsala kortfilmfestival",d:"10-08",v:"konstmuseum",c:"scen",s:["t:9ubdj8rhd80rk5p/2026-10-08/preview-uppsala-kortfilmfestival"]},
+{t:"Samtal: Välgörande vyer",d:"10-08",v:"slottshist",c:"prat",s:["t:zwhvc6368jf7j55/2026-10-08/samtal-valgorande-vyer"]},
+{t:"Masterclass: Zoran Dukić",d:"10-08",v:"ukk",c:"musik",s:["t:1m6dgkj85wnyhbm/2026-10-08/masterclass-zoran-dukic"]},
+{t:"Art Night",d:"10-08",v:"konstmuseum",c:"museum",s:["h:art-night-2026-2-2-2-2/","d:art-night-2026/"]},
+{t:"Lunchkonsert med Jan Olof Anderson",d:"10-09",v:"ukk",c:"musik",s:["h:lunchkonsert-med-jan-olof-anderson-2026/"]},
+{t:"Zoran Dukić",d:"10-09",v:"ukk",c:"musik",s:["h:zoran-dukic-2026-ukk/"]},
+
+/* Pågår under längre tid */
+{t:"Katarina Jagellonica 500 år",d:"05-08",e:"11-08",v:"domkyrkan",c:"museum",free:1,fam:1,s:["d:katarina-jagellonica-500-ar/","h:katarina-jagellonica-sept-2026/"]},
+{t:"Her Story – The Coat",d:"06-06",e:"2027-01-17",v:"upplandsmuseet",c:"museum",s:["d:her-story-the-coat/"]},
+{t:"Life. Play. End. – digital konstutställning med Elsa Beskow",d:"2025-11-05",e:"10-18",v:"cube",c:"museum",fam:1,s:["d:life-play-end/"]},
+{t:"Stuart Mayes – Following Eugène: A Spring Outing",d:"08-29",e:"10-11",v:"konstmuseum",c:"museum",s:["d:stuart-mayes-following-eugene-a-spring-outing/"]},
+{t:"Sebastian Blind – Teckningsstipendiat 2026",d:"09-05",e:"10-04",v:"brorhjorth",c:"museum",s:["d:sebastian-blind-teckningsstipendiat-2026/","h:sebastian-blind-teckningsstipendiat-2026-2/"]},
+{t:"Takvandring på Uppsala slott",d:"05-30",e:"10-18",v:"slott",c:"museum",s:["d:takvandring-pa-uppsala-slott-2026/"]},
+{t:"Bara två stjärnor",d:"09-03",e:"10-22",v:"stadsteatern",c:"scen",s:["d:bara-tva-stjarnor/"]},
+{t:"Medan vi brinner",d:"09-19",e:"11-19",v:"stadsteatern",c:"scen",s:["d:medan-vi-brinner/"]},
+{t:"Jävla parasiter",d:"09-11",e:"10-16",v:"gottsundadt",c:"scen",s:["d:javla-parasiter/"]},
+{t:"Sommar – en musikalmonolog",d:"09-24",e:"09-30",v:"stadsteatern",c:"scen",s:["d:sommar-en-musikalmonolog/"]}
+];
+
+/* ---------- Hjälpfunktioner ---------- */
+var WD = ["söndag","måndag","tisdag","onsdag","torsdag","fredag","lördag"];
+var WDS = ["sön","mån","tis","ons","tor","fre","lör"];
+var MO = ["januari","februari","mars","april","maj","juni","juli","augusti","september","oktober","november","december"];
+var MOS = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+var TODAY = new Date(2026,8,22);
+function pd(s){ var p=s.split("-"); if(p.length===3) return new Date(+p[0],+p[1]-1,+p[2]); return new Date(2026,+p[0]-1,+p[1]); }
+function addDays(d,n){ var x=new Date(d); x.setDate(x.getDate()+n); return x; }
+function iso(d){ return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0"); }
+function diff(a,b){ return Math.round((b-a)/86400000); }
+function esc(s){ return String(s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];}); }
+function fold(s){ return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,""); }
+function cap(s){ return s.charAt(0).toUpperCase()+s.slice(1); }
+function dayLong(d){ return cap(WD[d.getDay()])+" "+d.getDate()+" "+MO[d.getMonth()]; }
+function dayShort(d){ return WDS[d.getDay()]+" "+d.getDate()+" "+MOS[d.getMonth()]; }
+function range(a,b){
+  if(a.getMonth()===b.getMonth() && a.getFullYear()===b.getFullYear()) return a.getDate()+"–"+b.getDate()+" "+MOS[a.getMonth()];
+  var y = a.getFullYear()!==b.getFullYear() ? " "+b.getFullYear() : "";
+  return a.getDate()+" "+MOS[a.getMonth()]+" – "+b.getDate()+" "+MOS[b.getMonth()]+y;
+}
+function isoWeek(d){ var t=new Date(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate())); var n=t.getUTCDay()||7; t.setUTCDate(t.getUTCDate()+4-n); var y0=new Date(Date.UTC(t.getUTCFullYear(),0,1)); return Math.ceil(((t-y0)/86400000+1)/7); }
+function srcUrl(s){ var k=s.charAt(0), p=s.slice(2); if(k==="D") return {k:"d",url:p}; if(p.indexOf("http")===0) return {k:k,url:p}; return {k:k,url:SRC[k].base+p}; }
+function venueName(e){ return V[e.v] + (e.r ? ", "+e.r : ""); }
+
+E.forEach(function(e,i){
+  e.id = "e"+i;
+  e.sd = pd(e.d); e.ed = e.e ? pd(e.e) : e.sd;
+  e.span = diff(e.sd,e.ed)+1;
+  e.long = e.span > 4;
+  e.src = e.s.map(srcUrl);
+  e.records = e.s.length + (e.occ ? e.occ-1 : 0);
+  e.hay = fold(e.t+" "+venueName(e)+" "+(ALIASES[e.v]||[]).join(" "));
+});
+
+/* ---------- Tillstånd ---------- */
+var FKEY="ujn-favs-v1", favs=[];
+try{ favs = JSON.parse(localStorage.getItem(FKEY)||"[]"); if(!Array.isArray(favs)) favs=[]; }catch(err){ favs=[]; }
+function saveFavs(){ try{ localStorage.setItem(FKEY, JSON.stringify(favs)); }catch(err){} }
+var st = { q:"", period:"14", view:"list", cats:[], free:false, fam:false, fav:false, day:null, week:0,
+           src:{t:true,h:true,d:true,s:true,k:true,b:true} };
+
+function srcOn(e){ return e.src.some(function(s){ return st.src[s.k]; }); }
+function activeSrc(e){ return e.src.filter(function(s){ return st.src[s.k]; }); }
+function passBase(e){
+  if(!srcOn(e)) return false;
+  if(st.cats.length && st.cats.indexOf(e.c)<0) return false;
+  if(st.free && !e.free) return false;
+  if(st.fam && !e.fam) return false;
+  if(st.fav && favs.indexOf(e.id)<0) return false;
+  if(st.q){ var q=fold(st.q.trim()); if(q && e.hay.indexOf(q)<0) return false; }
+  return true;
+}
+function activeOn(e,d){ return !e.long && e.sd<=d && e.ed>=d; }
+function periodDays(){
+  var n;
+  if(st.day) return [pd(st.day)];
+  if(st.period==="today") n=[0,0];
+  else if(st.period==="weekend"){ var off=(5-TODAY.getDay()+7)%7; n=[off,off+2]; }
+  else if(st.period==="7") n=[0,6];
+  else if(st.period==="14") n=[0,13];
+  else n=[0,17];
+  var out=[]; for(var i=n[0];i<=n[1];i++) out.push(addDays(TODAY,i)); return out;
+}
+function sortDay(a,b){
+  if(a.tm && b.tm) return a.tm<b.tm?-1:a.tm>b.tm?1:0;
+  if(a.tm) return -1; if(b.tm) return 1;
+  return a.t.localeCompare(b.t,"sv");
+}
+
+/* ---------- Rendering ---------- */
+var $ = function(id){ return document.getElementById(id); };
+var heart = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5s-7.5-4.4-7.5-10A4.5 4.5 0 0 1 12 7.6a4.5 4.5 0 0 1 7.5 2.9c0 5.6-7.5 10-7.5 10z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>';
+
+function renderSky(){
+  var days=[], max=1;
+  for(var i=0;i<14;i++){
+    var d=addDays(TODAY,i);
+    var list=E.filter(function(e){ return passBase(e) && activeOn(e,d); });
+    list.sort(function(a,b){ return CAT_ORDER.indexOf(a.c)-CAT_ORDER.indexOf(b.c); });
+    days.push({d:d,list:list}); if(list.length>max) max=list.length;
+  }
+  var pdSet = periodDays().map(iso);
+  var h = Math.max(120, Math.min(250, max*11));
+  $("sky").innerHTML = days.map(function(o,idx){
+    var d=o.d, key=iso(d), we=d.getDay()===0||d.getDay()===6;
+    var inPeriod = pdSet.indexOf(key)>=0;
+    var cls="col"+(we?" we":"")+(idx===0?" today":"")+(st.day===key?" sel":"")+(!inPeriod && !st.day?" dim":"")+(st.day && st.day!==key?" dim":"");
+    var tiles=o.list.map(function(e,k){ return '<span class="tile" style="--c:var(--c-'+e.c+');--d:'+idx+';--k:'+k+'"></span>'; }).join("");
+    var label = dayLong(d)+": "+o.list.length+" evenemang";
+    return '<button class="'+cls+'" data-day="'+key+'" aria-pressed="'+(st.day===key)+'" aria-label="'+esc(label)+'">'+
+      '<span class="cnt">'+(o.list.length||"")+'</span>'+
+      '<span class="stack" style="--h:'+h+'px">'+tiles+'</span><span class="base"></span>'+
+      '<span class="dl"><span class="lf">'+(idx===0?"idag":WDS[d.getDay()])+'</span><span class="ls">'+WDS[d.getDay()].slice(0,2)+'</span></span><span class="dn">'+d.getDate()+'</span></button>';
+  }).join("");
+  // Hero text
+  var total=0, places={}, busiest=null, quiet=null;
+  days.forEach(function(o){ o.list.forEach(function(e){ places[e.v]=1; });
+    if(!busiest || o.list.length>busiest.list.length) busiest=o;
+    if(!quiet || o.list.length<quiet.list.length) quiet=o; });
+  var uniq={}; days.forEach(function(o){ o.list.forEach(function(e){ uniq[e.id]=1; }); });
+  total=Object.keys(uniq).length;
+  var np=Object.keys(places).length;
+  $("heroTitle").textContent = total ? total+" evenemang i Uppsala de kommande två veckorna" : "Inga evenemang matchar dina filter";
+  $("heroSub").textContent = total ? ("På "+np+" platser. Flest händer "+WD[busiest.d.getDay()]+" "+busiest.d.getDate()+" "+MO[busiest.d.getMonth()]+" ("+busiest.list.length+" st), lugnast är "+WD[quiet.d.getDay()]+" "+quiet.d.getDate()+" "+MO[quiet.d.getMonth()]+". Tryck på en dag för att se bara den.") : "Ändra eller rensa filtren för att se evenemang igen.";
+}
+
+function renderLegend(){
+  $("legend").innerHTML = CAT_ORDER.map(function(c){ return '<span><i style="--c:var(--c-'+c+')"></i>'+CATS[c].label+'</span>'; }).join("");
+}
+
+function renderChips(){
+  var days=periodDays();
+  var counts={}; CAT_ORDER.forEach(function(c){counts[c]=0;});
+  E.forEach(function(e){
+    if(!srcOn(e)) return;
+    if(st.free && !e.free) return; if(st.fam && !e.fam) return;
+    if(st.fav && favs.indexOf(e.id)<0) return;
+    if(st.q && e.hay.indexOf(fold(st.q.trim()))<0) return;
+    if(days.some(function(d){ return activeOn(e,d); })) counts[e.c]++;
+  });
+  var html = '<button class="chip flag" data-f="free" aria-pressed="'+st.free+'">Gratis</button>'+
+    '<button class="chip flag" data-f="fam" aria-pressed="'+st.fam+'">Barn & familj</button>'+
+    '<button class="chip flag" data-f="fav" aria-pressed="'+st.fav+'">Sparade <small>'+favs.length+'</small></button>'+
+    '<span class="divider" aria-hidden="true"></span>';
+  html += CAT_ORDER.map(function(c){
+    return '<button class="chip" data-c="'+c+'" style="--c:var(--c-'+c+')" aria-pressed="'+(st.cats.indexOf(c)>=0)+'"><i></i>'+CATS[c].label+' <small>'+counts[c]+'</small></button>';
+  }).join("");
+  $("chips").innerHTML = html;
+  Array.prototype.forEach.call(document.querySelectorAll("#period button"),function(b){ b.setAttribute("aria-pressed", String(!st.day && b.dataset.p===st.period)); });
+  Array.prototype.forEach.call(document.querySelectorAll("#views button"),function(b){ b.setAttribute("aria-pressed", String(b.dataset.v===st.view)); });
+}
+
+function evRow(e,d){
+  var tags=[];
+  if(e.free) tags.push('<span class="tag free">Gratis</span>');
+  if(e.fam) tags.push('<span class="tag">Barn & familj</span>');
+  var a=activeSrc(e).length; if(a>1) tags.push('<span class="tag merge">'+a+' källor</span>');
+  if(e.occ) tags.push('<span class="tag">'+e.occ+' tillfällen</span>');
+  if(e.pd) tags.push('<span class="tag warn">Möjlig dubblett</span>');
+  var meta = esc(venueName(e));
+  if(e.span>1) meta += ", "+range(e.sd,e.ed);
+  var tm = e.tm ? '<span class="tm">'+e.tm+'</span>' : (e.span>1 ? '<span class="tm none" title="Pågår flera dagar">flera</span>' : '<span class="tm none" title="Tid saknas i underlaget">–</span>');
+  var fav = favs.indexOf(e.id)>=0;
+  return '<div class="ev" style="--c:var(--c-'+e.c+')">'+
+    '<button class="open" data-open="'+e.id+'">'+tm+'<span class="cbar"></span><span><span class="t">'+esc(e.t)+'</span><span class="m">'+meta+'</span>'+(tags.length?'<span class="tags">'+tags.join("")+'</span>':'')+'</span></button>'+
+    '<button class="fav" data-fav="'+e.id+'" aria-pressed="'+fav+'" aria-label="'+(fav?"Ta bort från sparade":"Spara")+': '+esc(e.t)+'">'+heart+'</button></div>';
+}
+
+function emptyState(){
+  return '<div class="empty"><h2>Inget matchar just nu</h2><p>Prova en längre period eller ta bort några filter.</p><button class="btn" data-reset="1">Rensa filter</button></div>';
+}
+
+function renderList(){
+  var days=periodDays(), html="";
+  var lo=days[0], hi=days[days.length-1];
+  var ongoing=E.filter(function(e){ return e.long && passBase(e) && e.sd<=hi && e.ed>=lo; });
+  if(ongoing.length){
+    html += '<section class="ongoing"><h2>Pågår under perioden</h2><p class="hint">Utställningar och föreställningar som går under längre tid.</p><div class="rail">'+
+      ongoing.map(function(e){ return '<button class="og" data-open="'+e.id+'" style="--c:var(--c-'+e.c+')"><b>'+esc(e.t)+'</b><span>'+esc(venueName(e))+'</span><span>t.o.m. '+e.ed.getDate()+' '+MOS[e.ed.getMonth()]+'</span></button>'; }).join("")+'</div></section>';
+  }
+  var any=false;
+  days.forEach(function(d,i){
+    var list=E.filter(function(e){ return passBase(e) && activeOn(e,d); }).sort(sortDay);
+    if(!list.length) return; any=true;
+    var rel = diff(TODAY,d)===0?" <span>idag</span>":diff(TODAY,d)===1?" <span>i morgon</span>":"";
+    html += '<section class="day" id="d-'+iso(d)+'"><div class="dayhead"><h2>'+dayLong(d)+rel+'</h2><span class="n">'+list.length+' st</span></div>'+
+      list.map(function(e){ return evRow(e,d); }).join("")+'</section>';
+  });
+  if(!any && !ongoing.length) html = emptyState();
+  else if(!any) html += '<div class="empty"><p>Inga enskilda evenemang matchar den här perioden.</p><button class="btn ghost" data-reset="1">Rensa filter</button></div>';
+  return html;
+}
+
+function renderWeek(){
+  var monday=addDays(TODAY,-((TODAY.getDay()+6)%7)+st.week*7);
+  var wk=isoWeek(monday), end=addDays(monday,6);
+  var html='<div class="weeknav"><button data-wk="-1" aria-label="Föregående vecka" '+(st.week<=0?"disabled":"")+'>‹</button><h2>Vecka '+wk+' <span style="color:var(--muted);font-weight:500">'+range(monday,end)+'</span></h2><button data-wk="1" aria-label="Nästa vecka" '+(st.week>=2?"disabled":"")+'>›</button></div><div class="week">';
+  for(var i=0;i<7;i++){
+    var d=addDays(monday,i), we=d.getDay()===0||d.getDay()===6, past=d<TODAY, today=diff(TODAY,d)===0;
+    var list=E.filter(function(e){ return passBase(e) && activeOn(e,d); }).sort(sortDay);
+    html+='<div class="wd'+(we?" we":"")+(past?" past":"")+(today?" today":"")+'"><h3>'+cap(WDS[d.getDay()])+' '+d.getDate()+'<span>'+(past?"":list.length)+'</span></h3>'+
+      (past?'':list.map(function(e){ return '<button class="wi" data-open="'+e.id+'" style="--c:var(--c-'+e.c+')">'+((e.tm||e.span>1)?'<b>'+(e.tm||"flera dagar")+'</b>':'')+esc(e.t)+'</button>'; }).join(""))+'</div>';
+  }
+  return html+'</div>';
+}
+
+function renderPlaces(){
+  var days=periodDays(), groups={};
+  E.forEach(function(e){
+    if(!passBase(e)) return;
+    var hit = e.long ? (e.sd<=days[days.length-1] && e.ed>=days[0]) : days.some(function(d){ return activeOn(e,d); });
+    if(!hit) return;
+    (groups[e.v]=groups[e.v]||[]).push(e);
+  });
+  var keys=Object.keys(groups).sort(function(a,b){ return groups[b].length-groups[a].length || V[a].localeCompare(V[b],"sv"); });
+  if(!keys.length) return emptyState();
+  return '<div class="places">'+keys.map(function(k){
+    var list=groups[k].sort(function(a,b){ return a.sd-b.sd || sortDay(a,b); });
+    var cc={}; list.forEach(function(e){ cc[e.c]=(cc[e.c]||0)+1; });
+    var bar=CAT_ORDER.filter(function(c){return cc[c];}).map(function(c){ return '<i style="--c:var(--c-'+c+');width:'+(cc[c]/list.length*100)+'%"></i>'; }).join("");
+    var al = ALIASES[k] ? '<span class="alias">Samma plats i källorna: '+ALIASES[k].map(esc).join(", ")+'</span>' : '';
+    return '<details class="pl"><summary><b>'+esc(V[k])+'</b><span class="pc">'+list.length+' st</span><span class="pbar">'+bar+'</span>'+al+'</summary><div class="inner">'+
+      list.map(function(e){ return evRow(e).replace('class="m">','class="m">'+(e.long?"":dayShort(e.sd)+", ")); }).join("")+'</div></details>';
+  }).join("")+'</div>';
+}
+
+function renderStatus(){
+  var parts=[];
+  if(st.day){ parts.push("Visar bara "+dayLong(pd(st.day)).toLowerCase()+'.<button data-clearday="1">Visa hela perioden</button>'); }
+  var off=Object.keys(st.src).filter(function(k){return !st.src[k];});
+  if(off.length) parts.push(off.length+" källa avstängd.");
+  $("status").innerHTML = parts.join(" ");
+}
+
+function renderMain(){
+  var html = st.view==="week" ? renderWeek() : st.view==="places" ? renderPlaces() : renderList();
+  $("main").innerHTML = html;
+}
+function renderDots(){
+  $("srcDots").innerHTML = Object.keys(SRC).map(function(k){ return '<b class="'+(st.src[k]?"":"off")+'"></b>'; }).join("");
+}
+function render(){ renderSky(); renderChips(); renderStatus(); renderMain(); renderDots(); }
+
+/* ---------- Drawer ---------- */
+var lastFocus=null;
+function openDrawer(html){
+  lastFocus=document.activeElement;
+  $("drawer").innerHTML=html; $("drawer").classList.add("on"); $("scrim").classList.add("on");
+  var c=$("drawer").querySelector(".close"); if(c) c.focus();
+}
+function closeDrawer(){
+  $("drawer").classList.remove("on"); $("scrim").classList.remove("on");
+  if(lastFocus && lastFocus.focus) lastFocus.focus();
+}
+function showEvent(id){
+  var e=E.filter(function(x){return x.id===id;})[0]; if(!e) return;
+  var when = e.span>1 ? range(e.sd,e.ed) : dayLong(e.sd);
+  var srcs=activeSrc(e);
+  var fav=favs.indexOf(e.id)>=0;
+  var html='<div class="dx"><span class="cat" style="--c:var(--c-'+e.c+')"><i></i>'+CATS[e.c].label+'</span><button class="close" data-close="1">Stäng</button></div>'+
+    '<h2 id="dTitle">'+esc(e.t)+'</h2><dl class="facts"><dt>När</dt><dd>'+when+'</dd><dt>Tid</dt><dd>'+(e.tm||(e.span>1?'Flera dagar, se arrangören':'<span style="color:var(--muted)">Saknas i underlaget</span>'))+'</dd><dt>Plats</dt><dd>'+esc(venueName(e))+'</dd>'+
+    (e.n?'<dt>Info</dt><dd>'+esc(e.n)+'</dd>':'')+(e.free?'<dt>Pris</dt><dd>Gratis</dd>':'')+'</dl>'+
+    '<h3>Läs mer och köp biljett</h3><ul class="srcl">'+srcs.map(function(s){
+      return '<li><span class="sn">'+SRC[s.k].name+'<span class="sm">'+SRC[s.k].how+'</span></span><a href="'+esc(s.url)+'" target="_blank" rel="noopener">Öppna hos '+SRC[s.k].name+'</a></li>';
+    }).join("")+'</ul>';
+  if(srcs.length>1){
+    html+='<div class="note"><b>Sammanslaget från '+srcs.length+' källor.</b> Samma datum, samma plats och liknande titel'+(e.tw?' (“'+esc(e.tw)+'” hos Heja Uppsala)':'')+'.'+(e.al?' Platsen heter olika i källorna, till exempel “Katalin and all that Jazz” hos Tickster, men räknas som samma ställe.':'')+'</div>';
+  }
+  if(e.occ) html+='<div class="note"><b>'+e.occ+' föreställningar samma dag</b> fanns som '+e.occ+' separata poster hos Tickster och visas här som ett evenemang.</div>';
+  if(e.pd) html+='<div class="note"><b>Möjlig dubblett av “'+esc(e.pd)+'”.</b> Samma dag och plats men olika titel, så systemet slår inte ihop dem automatiskt. En redaktör avgör.</div>';
+  if(!e.tm && e.span===1){
+    var viaT = e.src.some(function(s){return s.k==="t";});
+    html+='<div class="note">'+(viaT?'Tiden kommer via Tickster-API:t i en skarp version.':'Tiden finns på arrangörens sida och läses in när källan är ansluten.')+'</div>';
+  }
+  html+='<button class="btn ghost dfav" data-fav="'+e.id+'" aria-pressed="'+fav+'">'+heart+(fav?"Sparad":"Spara")+'</button>';
+  openDrawer(html);
+}
+function showSources(){
+  var recs=0, merged=0, evs=0;
+  E.forEach(function(e){ var a=activeSrc(e); if(!a.length) return; evs++; recs+=a.length+(e.occ?e.occ-1:0); });
+  merged=recs-evs;
+  var counts={}; Object.keys(SRC).forEach(function(k){counts[k]=0;});
+  E.forEach(function(e){ e.src.forEach(function(s){ counts[s.k]++; }); });
+  var html='<div class="dx"><span class="cat">Så samlas allt</span><button class="close" data-close="1">Stäng</button></div>'+
+    '<h2 id="dTitle">Källor</h2><p style="margin:0 0 12px;color:var(--muted);font-size:.92rem">Stäng av en källa för att se vad den bidrar med. Evenemang som finns i flera källor visas bara en gång.</p>'+
+    '<div class="stats"><div><b>'+recs+'</b><span>poster från källorna</span></div><div><b>'+evs+'</b><span>unika evenemang</span></div><div><b>'+merged+'</b><span>dubbletter sammanslagna</span></div></div>';
+  html+=Object.keys(SRC).map(function(k){ var s=SRC[k];
+    return '<div class="srow"><div class="h"><span><b>'+s.name+'</b><span class="how">'+s.how+'</span></span><button class="switch" role="switch" data-src="'+k+'" aria-checked="'+st.src[k]+'" aria-label="Visa evenemang från '+s.name+'"></button></div>'+
+      '<p>'+s.status+'</p><p class="demo">'+s.demo+' '+counts[k]+(counts[k]===1?' post.':' poster.')+'</p></div>';
+  }).join("");
+  html+='<h3>Källkarta för Uppsala</h3><p style="margin:0 0 4px;color:var(--muted);font-size:.86rem">Källor som inte finns i demon än, sorterade efter hur man får tillgång.</p>'+SOURCE_MAP.map(function(grp){
+    return '<p style="margin:16px 0 0;font-weight:600;font-size:.9rem">'+grp.g+'</p>'+grp.items.map(function(s){
+      return '<div class="srow nc"><div class="h"><span><b>'+s.name+'</b></span></div><p>'+s.status+'</p></div>'; }).join("");
+  }).join("");
+  openDrawer(html);
+}
+
+/* ---------- Händelser ---------- */
+document.addEventListener("click",function(ev){
+  var el=ev.target.closest("button, [data-open]"); if(!el) return;
+  if(el.dataset.day){ st.day = st.day===el.dataset.day ? null : el.dataset.day; if(st.view==="week") st.view="list"; render(); if(st.day){ var t=$("d-"+st.day); if(t) t.scrollIntoView({behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"}); } return; }
+  if(el.dataset.p){ st.period=el.dataset.p; st.day=null; render(); return; }
+  if(el.dataset.v){ st.view=el.dataset.v; render(); return; }
+  if(el.dataset.c){ var i=st.cats.indexOf(el.dataset.c); if(i>=0) st.cats.splice(i,1); else st.cats.push(el.dataset.c); render(); return; }
+  if(el.dataset.f){ st[el.dataset.f]=!st[el.dataset.f]; render(); return; }
+  if(el.dataset.fav){ var id=el.dataset.fav, j=favs.indexOf(id); if(j>=0) favs.splice(j,1); else favs.push(id); saveFavs(); render();
+    if($("drawer").classList.contains("on") && el.classList.contains("dfav")) showEvent(id); return; }
+  if(el.dataset.open){ showEvent(el.dataset.open); return; }
+  if(el.dataset.close){ closeDrawer(); return; }
+  if(el.dataset.wk){ st.week=Math.max(0,Math.min(2,st.week+ +el.dataset.wk)); render(); return; }
+  if(el.dataset.reset){ st.cats=[]; st.free=st.fam=st.fav=false; st.q=""; $("q").value=""; st.day=null; st.period="14"; render(); return; }
+  if(el.dataset.clearday){ st.day=null; render(); return; }
+  if(el.dataset.src){ st.src[el.dataset.src]=!st.src[el.dataset.src]; render(); showSources(); var sw=$("drawer").querySelector('[data-src="'+el.dataset.src+'"]'); if(sw) sw.focus(); return; }
+  if(el.id==="openSources"){ showSources(); return; }
+});
+$("scrim").addEventListener("click",closeDrawer);
+document.addEventListener("keydown",function(ev){ if(ev.key==="Escape" && $("drawer").classList.contains("on")) closeDrawer(); });
+var qt; $("q").addEventListener("input",function(ev){ clearTimeout(qt); qt=setTimeout(function(){ st.q=ev.target.value; render(); },120); });
+
+renderLegend();
+render();
+setTimeout(function(){ $("sky").classList.remove("anim"); }, 1400);
+})();
+</script>
+</body>
+</html>
