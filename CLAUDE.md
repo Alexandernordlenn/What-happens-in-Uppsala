@@ -77,19 +77,39 @@ Tider sparas med tidszon och visas i svensk tid.
 
 1. Spara `SVK_API_KEY` som hemlighet i GitHub.
 2. Skapa Firebase-projektet (Firestore i EU, Authentication med e-postlänk, GitHub Pages-adressen som tillåten domän).
-3. Hämtningsskript och workflow för Svenska kyrkan som skriver till Firestore och till en fil med de kommande två veckorna. **Byggt**, se nedan. Behöver provköras med riktig nyckel.
+3. Hämtningsskript och workflow som skriver till Firestore och till filer. **Byggt** för fem källor, se "Hämtningarna" nedan.
 4. Låt `index.html` läsa den filen i stället för den inbakade datan.
 5. Riktig inloggning och favoriter.
-6. Tickster när nyckeln kommer.
+6. Tickster: byt från webbsidorna till API:et när nyckeln kommer.
 
-## Hämtningen från Svenska kyrkan
+## Hämtningarna
 
-- `scripts/svenska-kyrkan/hamta.mjs` hämtar alla sidor, tar bort personuppgifter och sparar färdiga evenemang i `data/svenska-kyrkan.json`.
-- `scripts/svenska-kyrkan/regler.mjs` innehåller filtrering, kategorier, tidszon och sammanslagning av utställningar. Testerna ligger i `regler.test.mjs` och körs med `npm test`.
-- `scripts/svenska-kyrkan/firestore.mjs` skriver till Firestore, men bara om hemligheten `FIREBASE_SERVICE_ACCOUNT` finns.
-- `.github/workflows/hamta-svenska-kyrkan.yml` kör allt varje dag 04:13 UTC och kan startas för hand under Actions.
+Allt körs av `.github/workflows/hamta-evenemang.yml` varje dag 04:13 UTC, och kan startas för hand under Actions. Varje källa är ett eget steg, så att en trasig källa inte stoppar de andra. Resultatet hamnar i `data/<källa>.json`, som workflowet sparar i repot.
+
+| Källa | Mapp | Hur | Status |
+|---|---|---|---|
+| Svenska kyrkan | `scripts/svenska-kyrkan/` | Officiellt API med nyckel | Väntar på `SVK_API_KEY`. Fältnamnen är obekräftade. |
+| Uppsala stadsteater | `scripts/stadsteatern/` | Teaterns öppna WordPress-flöde (`performance-page`) | Provkörd, runt 200 föreställningar. |
+| Destination Uppsala | `scripts/destination-uppsala/` | Läser listan `/event/`, klockslag från evenemangens sidor | Provkörd, runt 160 evenemang. |
+| Tickster | `scripts/tickster/` | Läser listan per ort och evenemangens sidor (schema.org) | Provkörd, runt 360 evenemang. Byt till API när nyckeln kommer. |
+| Bibliotek Uppsala | `scripts/bibliotek/` | Axiells öppna API, samma som bibliotekets sida använder | Inte provkörd, eftersom `api.axiell.com` var blockerad i Claudes miljö. |
+| Heja Uppsala | – | Inte byggd | Deras RSS är låst med nyckel och kalendern är en betaltjänst. Fråga dem först. |
+
+Gemensamma delar i `scripts/gemensamt/`:
+
+- `webb.mjs`: schysst hämtning. Följer robots.txt, väntar minst 2 sekunder mellan anrop och säger vilka vi är.
+- `spara.mjs`: sparar en källa, sätter kanonisk plats och larmar vid noll eller halverat antal.
+- `platser.mjs`: platstabellen med alias och vanlig kategori per plats. Lägg till platser här.
+- `kategori.mjs`: gissar kategori från text. `tid.mjs`: svensk tid med tidszon. `text.mjs`: städar HTML.
+- `firestore.mjs`: skriver till Firestore om `FIREBASE_SERVICE_ACCOUNT` finns.
+
+Övrigt:
+
+- `start` är datum och tid med tidszon (`2026-09-24T19:00:00+02:00`), eller bara datum (`2026-09-24`) när källan inte anger klockslag.
+- `data/cache/` minns evenemangssidor vi redan läst, så att de inte hämtas varje dag.
 - Rådatan (`data/radata/`) läggs inte i repot. Den sparas i Firestore och som bilaga till varje körning i 14 dagar.
-- Fältnamnen i API-svaret är inte bekräftade än. Koden provar flera varianter. Justera efter första riktiga körningen.
+- Testerna körs med `npm test`. Varje källa har en `regler.test.mjs` med sparad exempeldata.
+- Dubbletter mellan källor (samma konsert hos Tickster och Destination Uppsala) slås inte ihop än. Det görs när sidan börjar läsa filerna.
 
 ## Att inte glömma
 

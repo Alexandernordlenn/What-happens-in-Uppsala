@@ -7,6 +7,7 @@
     "hamta:stadsteatern": "node scripts/stadsteatern/hamta.mjs",
     "hamta:destination-uppsala": "node scripts/destination-uppsala/hamta.mjs",
     "hamta:tickster": "node scripts/tickster/hamta.mjs",
+    "hamta:bibliotek": "node scripts/bibliotek/hamta.mjs",
     "test": "node --test scripts/**/*.test.mjs"
   },
   "engines": {

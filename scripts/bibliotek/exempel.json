@@ -1,0 +1,43 @@
+{
+  "_kommentar": "Påhittad exempeldata i samma form som bibliotekets API. Inte riktiga evenemang.",
+  "totalHits": 3,
+  "hits": [
+    {
+      "event": {
+        "id": "7c8a512f-ac65-4a5d-a695-c022783ec05c",
+        "title": "Författarbesök: Iman Mersal",
+        "description": "<p>Samtal på engelska. Boka plats.</p>",
+        "startDate": "2026-09-22T16:00:00.000Z",
+        "endDate": "2026-09-22T17:30:00.000Z",
+        "location": { "value": "Stadsbiblioteket" },
+        "room": { "value": "Mallas sal" },
+        "targetAudiences": [{ "value": "Vuxna" }],
+        "tags": ["Litteratur"],
+        "status": "PUBLISHED",
+        "createdBy": "Anna Andersson"
+      }
+    },
+    {
+      "event": {
+        "id": "00000000-0000-0000-0000-000000000002",
+        "title": "Sagostund",
+        "startDate": { "value": "2026-10-03T08:00:00.000Z" },
+        "endDate": { "value": "2026-10-03T08:30:00.000Z" },
+        "location": { "value": "Gottsunda bibliotek" },
+        "targetAudiences": [{ "value": "Barn 3-6 år" }],
+        "status": "PUBLISHED"
+      }
+    },
+    {
+      "event": {
+        "id": "00000000-0000-0000-0000-000000000003",
+        "title": "Kurs i släktforskning",
+        "description": "Kursen kostar 200 kr.",
+        "startDate": "2026-11-10T17:00:00.000Z",
+        "endDate": "2026-11-10T19:00:00.000Z",
+        "location": { "value": "Stadsbiblioteket" },
+        "status": "CANCELLED"
+      }
+    }
+  ]
+}
