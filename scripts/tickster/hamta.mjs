@@ -17,7 +17,7 @@ import { KALLA, ORTER, antalTraffar, iKommunen, lasEvenemangssida, lasLista, til
 const CACHE = "data/cache/tickster.json";
 const PER_SIDA = 100; // Mer än så ger Tickster inte per sida.
 const MAX_SIDOR_PER_ORT = 10;
-const MAX_NYA_EVENEMANGSSIDOR = 150; // Resten tas nästa dag.
+const MAX_NYA_EVENEMANGSSIDOR = 600; // Första körningen läser alla, sedan bara nya.
 
 const listadress = (ort, skip) =>
   `https://www.tickster.com/se/sv/events/in/${encodeURIComponent(ort)}?skip=${skip}&take=${PER_SIDA}&sort=eventstart`;
