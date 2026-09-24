@@ -31,3 +31,16 @@ test("kategori gissas från text", () => {
   assert.equal(gissaKategori("Musikal: Sommar"), "scen");
   assert.equal(gissaKategori("Något helt annat"), "ovrigt");
 });
+
+test("platser: alias blir samma plats, salen blir rum", async () => {
+  const { normaliseraPlats } = await import("./platser.mjs");
+  const p = (namn, kategori = "ovrigt") =>
+    normaliseraPlats({ plats: { namn, id: "x" }, kategori }, { kategoriFranPlats: true });
+  assert.equal(p("Katalin and all that Jazz").plats.id, "katalin");
+  assert.equal(p("Katalin, Uppsala").plats.id, "katalin");
+  assert.equal(p("Katalin, Uppsala").plats.rum, undefined);
+  assert.equal(p("Uppsala Konsert & Kongress, Stora salen").plats.rum, "Stora salen");
+  assert.equal(p("IFU Arena").kategori, "sport");
+  assert.equal(p("Katalin", "scen").kategori, "scen"); // Källans egen kategori vinner.
+  assert.equal(p("Annan plats").plats.namn, "Uppsala");
+});

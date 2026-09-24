@@ -8,6 +8,7 @@
 // över, och hälften så många som förra gången ger en varning.
 
 import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { normaliseraPlats } from "./platser.mjs";
 
 async function lasTidigareAntal(fil) {
   try {
@@ -17,7 +18,7 @@ async function lasTidigareAntal(fil) {
   }
 }
 
-// kalla = { id, namn, attribution?, licensUrl?, webbsida? }
+// kalla = { id, namn, attribution?, licensUrl?, webbsida?, kategoriFranPlats? }
 export async function sparaKalla(kalla, evenemang, radata = []) {
   const utfil = `data/${kalla.id}.json`;
   const rafil = `data/radata/${kalla.id}.json`;
@@ -30,7 +31,9 @@ export async function sparaKalla(kalla, evenemang, radata = []) {
   }
 
   const tidigare = await lasTidigareAntal(utfil);
-  const sorterade = [...evenemang].sort((a, b) => String(a.start).localeCompare(String(b.start)));
+  const sorterade = evenemang
+    .map((e) => normaliseraPlats(e, { kategoriFranPlats: kalla.kategoriFranPlats }))
+    .sort((a, b) => String(a.start).localeCompare(String(b.start)));
 
   await mkdir("data/radata", { recursive: true });
   await writeFile(rafil, JSON.stringify({ hamtad, antal: radata.length, poster: radata }, null, 2) + "\n");

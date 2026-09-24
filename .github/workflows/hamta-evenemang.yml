@@ -24,7 +24,7 @@ concurrency:
 jobs:
   hamta:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 40 # Första körningen läser många evenemangssidor.
     env:
       SVK_API_KEY: ${{ secrets.SVK_API_KEY }}
       FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
@@ -61,6 +61,11 @@ jobs:
         continue-on-error: true
         run: npm run hamta:destination-uppsala
 
+      - name: Tickster
+        id: tickster
+        continue-on-error: true
+        run: npm run hamta:tickster
+
       - name: Spara rådatan som bilaga till körningen
         if: always()
         uses: actions/upload-artifact@v4
@@ -86,7 +91,8 @@ jobs:
         run: |
           fel=0
           for kalla in "Svenska kyrkan:${{ steps.svk.outcome }}" "Uppsala stadsteater:${{ steps.stadsteatern.outcome }}" \
-                       "Destination Uppsala:${{ steps.destination.outcome }}"; do
+                       "Destination Uppsala:${{ steps.destination.outcome }}" \
+                       "Tickster:${{ steps.tickster.outcome }}"; do
             namn="${kalla%%:*}"; utfall="${kalla#*:}"
             echo "$namn: ${utfall:-hoppades över}"
             if [ "$utfall" = "failure" ]; then fel=1; fi
