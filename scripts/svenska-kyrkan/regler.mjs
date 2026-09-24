@@ -6,6 +6,7 @@
 
 import { tillSvenskTid } from "../gemensamt/tid.mjs";
 import { gissaKategori } from "../gemensamt/kategori.mjs";
+import { renText } from "../gemensamt/text.mjs";
 
 export { tillSvenskTid };
 
@@ -33,23 +34,6 @@ function forsta(obj, ...namn) {
 // Gör text jämförbar: små bokstäver, inga extra mellanslag.
 function normalisera(s) {
   return String(s || "").toLowerCase().replace(/\s+/g, " ").trim();
-}
-
-// Tar bort HTML-taggar ur beskrivningar.
-function renText(s) {
-  if (!s) return "";
-  return String(s)
-    .replace(/<br\s*\/?>/gi, "\n")
-    .replace(/<\/p>/gi, "\n\n")
-    .replace(/<[^>]+>/g, "")
-    .replace(/&nbsp;/g, " ")
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/\n{3,}/g, "\n\n")
-    .trim();
 }
 
 // Tar reda på vilka typer ett evenemang har, till exempel ["musikOchKor"].
