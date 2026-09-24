@@ -6,13 +6,14 @@
 // För att prova utan nyckel, med sparad exempeldata:
 //   node scripts/svenska-kyrkan/hamta.mjs --fran-fil scripts/svenska-kyrkan/exempel.json
 //
-// Skriptet gör fyra saker:
+// Skriptet gör så här:
 //   1. Hämtar alla sidor från API:et (via fältet "next").
-//   2. Sparar rådatan, utan personuppgifter, i data/radata/.
-//   3. Gör om rådatan till färdiga evenemang och sparar dem i data/svenska-kyrkan.json.
-//   4. Skriver båda till Firestore, om det finns en Firebase-nyckel.
+//   2. Tar bort personuppgifter.
+//   3. Gör om rådatan till färdiga evenemang (se regler.mjs).
+//   4. Sparar i data/svenska-kyrkan.json och Firestore (se gemensamt/spara.mjs).
 
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { readFile } from "node:fs/promises";
+import { sparaKalla, kor } from "../gemensamt/spara.mjs";
 import { KALLA, bearbeta, utanPersonuppgifter } from "./regler.mjs";
 
 const API = "https://svk-apim-prod.azure-api.net/calendar/v1/event/search";
@@ -25,9 +26,6 @@ const PARAMETRAR = {
   duration: "2w",
 };
 const MAX_SIDOR = 40; // Skydd mot en oändlig loop om något går fel.
-
-const UTFIL = "data/svenska-kyrkan.json";
-const RAFIL = "data/radata/svenska-kyrkan.json";
 
 // ---------- Hämtning ----------
 
@@ -93,14 +91,6 @@ async function hamtaAllt(nyckel) {
 
 // ---------- Huvudprogrammet ----------
 
-async function lasTidigareAntal() {
-  try {
-    return JSON.parse(await readFile(UTFIL, "utf8")).antal ?? null;
-  } catch {
-    return null;
-  }
-}
-
 async function main() {
   const i = process.argv.indexOf("--fran-fil");
   let radata;
@@ -115,53 +105,11 @@ async function main() {
 
   // Personuppgifter tas bort direkt, så att de aldrig sparas någonstans.
   radata = utanPersonuppgifter(radata);
-  const evenemang = bearbeta(radata);
-  const hamtad = new Date().toISOString();
-
-  console.log(`Totalt ${radata.length} poster från API:et, ${evenemang.length} evenemang efter filtrering.`);
-
-  // Larm: noll evenemang. Då stannar vi innan något skrivs över,
-  // så att sidan behåller förra hämtningen.
-  if (evenemang.length === 0) {
-    throw new Error("Svenska kyrkan gav noll evenemang. Något är troligen fel.");
-  }
-
-  const tidigare = await lasTidigareAntal();
-
-  await mkdir("data/radata", { recursive: true });
-  await writeFile(RAFIL, JSON.stringify({ hamtad, antal: radata.length, poster: radata }, null, 2) + "\n");
-  await writeFile(
-    UTFIL,
-    JSON.stringify(
-      {
-        kalla: KALLA.namn,
-        attribution: KALLA.attribution,
-        licensUrl: KALLA.licensUrl,
-        hamtad,
-        antal: evenemang.length,
-        evenemang,
-      },
-      null,
-      2,
-    ) + "\n",
+  await sparaKalla(
+    { id: KALLA.id, namn: KALLA.namn, attribution: KALLA.attribution, licensUrl: KALLA.licensUrl },
+    bearbeta(radata),
+    radata,
   );
-  console.log(`Sparade ${UTFIL} och ${RAFIL}.`);
-
-  if (process.env.FIREBASE_SERVICE_ACCOUNT) {
-    const { skrivTillFirestore } = await import("./firestore.mjs");
-    await skrivTillFirestore(radata, evenemang, hamtad);
-  } else {
-    console.log("Ingen FIREBASE_SERVICE_ACCOUNT, så Firestore hoppas över.");
-  }
-
-  // Larm: hälften så många som förra gången.
-  if (tidigare && evenemang.length < tidigare / 2) {
-    // ::warning:: gör att GitHub visar en gul varning på körningen.
-    console.log(`::warning::Bara ${evenemang.length} evenemang, förra gången ${tidigare}.`);
-  }
 }
 
-main().catch((fel) => {
-  console.error(`::error::${fel.message}`);
-  process.exit(1);
-});
+kor(main);

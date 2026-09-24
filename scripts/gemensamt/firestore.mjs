@@ -1,10 +1,10 @@
-// Skriver Svenska kyrkans evenemang till Firestore.
+// Skriver en källas evenemang till Firestore.
 //
 // Används bara om GitHub-hemligheten FIREBASE_SERVICE_ACCOUNT finns.
 // Den innehåller nyckelfilen (JSON) för ett tjänstekonto i Firebase-projektet.
 //
 // Så här ser det ut i databasen:
-//   radata/svenska-kyrkan/poster/{id}   rådatan, utan personuppgifter
+//   radata/{källa}/poster/{id}          rådatan, utan personuppgifter
 //   evenemang/{id}                      färdiga evenemang från alla källor
 
 import { initializeApp, cert } from "firebase-admin/app";
@@ -20,15 +20,15 @@ async function skrivIOmgangar(db, skrivningar) {
   }
 }
 
-export async function skrivTillFirestore(radata, evenemang, hamtad) {
+export async function skrivTillFirestore(kallaId, radata, evenemang, hamtad) {
   const konto = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
   initializeApp({ credential: cert(konto) });
   const db = getFirestore();
 
-  const kalla = db.collection("radata").doc("svenska-kyrkan");
+  const kalla = db.collection("radata").doc(kallaId);
   const raSkrivningar = radata
-    .filter((p) => p.id !== undefined)
-    .map((p) => [kalla.collection("poster").doc(String(p.id)), { ...p, _hamtad: hamtad }]);
+    .filter((p) => p && p.id !== undefined)
+    .map((p) => [kalla.collection("poster").doc(String(p.id).replace(/\//g, "_")), { ...p, _hamtad: hamtad }]);
   const evSkrivningar = evenemang.map((e) => [
     db.collection("evenemang").doc(e.id),
     { ...e, uppdaterad: hamtad },
