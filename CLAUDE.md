@@ -16,7 +16,13 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 - **Sida:** `index.html` i roten, publicerad med GitHub Pages. I dag ligger demodatan inbakad i filen.
 - **Backend:** Firebase. Firestore som databas, Authentication med inloggning via e-postlänk (magisk länk). Databasen ska ligga i en region i EU.
 - **Hämtningar:** GitHub Actions enligt schema, som skriver till Firestore. Inte Cloud Functions tills vidare, eftersom de kräver Blaze-planen.
-- **Princip:** bara officiella API:er och direkta flöden. Ingen skrapning. Små arrangörer ska senare kunna lägga in evenemang själva eller klistra in en iCal-länk.
+- **Princip:** officiella API:er och direkta flöden i första hand. Små arrangörer ska senare kunna lägga in evenemang själva eller klistra in en iCal-länk.
+- **Tillfälligt undantag (beslut sep 2026):** tills vi har API-nycklar eller avtal får vi hämta från källornas publika webbsidor. Villkor:
+  - Följ robots.txt. Säger den nej hoppar vi över sidan.
+  - Använd strukturerad data när den finns (iCal, RSS, WordPress-API, JSON-LD) före att läsa av HTML.
+  - Högst en hämtning per källa och dygn, lugn takt, och en User-Agent som säger vilka vi är.
+  - Spara bara fakta: titel, tid, plats, kategori och länk tillbaka. Inga beskrivningar och inga bilder.
+  - Byt till API eller flöde så fort ett sådant finns, och sluta direkt om en källa ber oss.
 
 ## Källor
 
