@@ -76,6 +76,11 @@ jobs:
         continue-on-error: true
         run: npm run hamta:heja
 
+      - name: Kubik Uppsala
+        id: kubik
+        continue-on-error: true
+        run: npm run hamta:kubik
+
       - name: Spara rådatan som bilaga till körningen
         if: always()
         uses: actions/upload-artifact@v4
@@ -104,7 +109,8 @@ jobs:
                        "Destination Uppsala:${{ steps.destination.outcome }}" \
                        "Tickster:${{ steps.tickster.outcome }}" \
                        "Bibliotek Uppsala:${{ steps.bibliotek.outcome }}" \
-                       "Heja Uppsala:${{ steps.heja.outcome }}"; do
+                       "Heja Uppsala:${{ steps.heja.outcome }}" \
+                       "Kubik Uppsala:${{ steps.kubik.outcome }}"; do
             namn="${kalla%%:*}"; utfall="${kalla#*:}"
             echo "$namn: ${utfall:-hoppades över}"
             if [ "$utfall" = "failure" ]; then fel=1; fi

@@ -9,6 +9,7 @@
     "hamta:tickster": "node scripts/tickster/hamta.mjs",
     "hamta:bibliotek": "node scripts/bibliotek/hamta.mjs",
     "hamta:heja": "node scripts/heja/hamta.mjs",
+    "hamta:kubik": "node scripts/kubik/hamta.mjs",
     "test": "node --test scripts/**/*.test.mjs"
   },
   "engines": {

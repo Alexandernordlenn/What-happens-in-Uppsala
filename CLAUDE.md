@@ -50,8 +50,8 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 ### Senare
 
 - Ticketmaster: öppen nyckel, täcker mest större turnéer.
-- Begära data från offentlig verksamhet: Destination Uppsala, Kubik, Bibliotek Uppsala, Reginateatern, Uppsala stadsteater, Musik i Uppland.
-- Heja Uppsala: hämtas inte. Eventuellt samarbete.
+- Begära data från offentlig verksamhet: Reginateatern, Musik i Uppland. (Destination Uppsala, Kubik, Bibliotek Uppsala och Uppsala stadsteater hämtas redan, se "Hämtningarna".)
+- Heja Uppsala: hämtas tillfälligt under testfasen. Eventuellt samarbete.
 
 ## Datamodell
 
@@ -92,8 +92,9 @@ Allt körs av `.github/workflows/hamta-evenemang.yml` varje dag 04:13 UTC, och k
 | Uppsala stadsteater | `scripts/stadsteatern/` | Teaterns öppna WordPress-flöde (`performance-page`) | Provkörd, runt 200 föreställningar. |
 | Destination Uppsala | `scripts/destination-uppsala/` | Läser listan `/event/`, klockslag från evenemangens sidor | Provkörd, runt 160 evenemang. |
 | Tickster | `scripts/tickster/` | Läser listan per ort och evenemangens sidor (schema.org) | Provkörd, runt 360 evenemang. Byt till API när nyckeln kommer. |
-| Bibliotek Uppsala | `scripts/bibliotek/` | Axiells öppna API, samma som bibliotekets sida använder | Inte provkörd, eftersom `api.axiell.com` var blockerad i Claudes miljö. |
-| Heja Uppsala | – | Inte byggd | Deras RSS är låst med nyckel och kalendern är en betaltjänst. Fråga dem först. |
+| Bibliotek Uppsala | `scripts/bibliotek/` | Axiells öppna API, samma som bibliotekets sida använder | Provkörd, runt 500 evenemang. Läxhjälp, IT-handledning och juridisk rådgivning tas bort. |
+| Heja Uppsala | `scripts/heja/` | Läser kalenderlistan och "När och var?" på evenemangens sidor | Provkörd, runt 460 evenemang. Tillfälligt under testfasen, enligt Alexanders beslut. Deras RSS är låst med nyckel och kalendern är en betaltjänst, så fråga dem innan sidan blir skarp. |
+| Kubik Uppsala | `scripts/kubik/` | Samma sökning som sidan hitta-aktiviteter gör (`/partials/events/search`) | Provkörd, runt 140 aktiviteter. Perioder (återkommande aktiviteter) blir långvariga evenemang. |
 
 Gemensamma delar i `scripts/gemensamt/`:
 
