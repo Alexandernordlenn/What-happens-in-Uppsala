@@ -81,6 +81,11 @@ jobs:
         continue-on-error: true
         run: npm run hamta:kubik
 
+      - name: Bygg filen som sidan läser (data/sida.json)
+        id: sida
+        continue-on-error: true
+        run: npm run bygg:sida
+
       - name: Spara rådatan som bilaga till körningen
         if: always()
         uses: actions/upload-artifact@v4
@@ -110,7 +115,8 @@ jobs:
                        "Tickster:${{ steps.tickster.outcome }}" \
                        "Bibliotek Uppsala:${{ steps.bibliotek.outcome }}" \
                        "Heja Uppsala:${{ steps.heja.outcome }}" \
-                       "Kubik Uppsala:${{ steps.kubik.outcome }}"; do
+                       "Kubik Uppsala:${{ steps.kubik.outcome }}" \
+                       "Sidans fil:${{ steps.sida.outcome }}"; do
             namn="${kalla%%:*}"; utfall="${kalla#*:}"
             echo "$namn: ${utfall:-hoppades över}"
             if [ "$utfall" = "failure" ]; then fel=1; fi

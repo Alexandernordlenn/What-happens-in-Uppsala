@@ -10,7 +10,8 @@
     "hamta:bibliotek": "node scripts/bibliotek/hamta.mjs",
     "hamta:heja": "node scripts/heja/hamta.mjs",
     "hamta:kubik": "node scripts/kubik/hamta.mjs",
-    "test": "node --test scripts/**/*.test.mjs"
+    "test": "node --test scripts/*.test.mjs scripts/**/*.test.mjs",
+    "bygg:sida": "node scripts/bygg-sida.mjs"
   },
   "engines": {
     "node": ">=20"
