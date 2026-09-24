@@ -143,8 +143,11 @@ a{color:var(--accent)}
 .seg{display:inline-flex;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:3px}
 .seg button{border:0;background:transparent;padding:6px 11px;border-radius:7px;font-size:.9rem;font-weight:500;color:var(--muted)}
 .seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
-.chips{display:flex;gap:8px;overflow-x:auto;padding:10px 0 2px;scrollbar-width:none}
-.chips::-webkit-scrollbar{display:none}
+/* Filter: på dator radbryts knapparna, i mobilen ligger de i en panel bakom knappen "Filter" */
+.chips{padding:10px 0 2px}
+.fgroups{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.fgroup,.fitems{display:contents}
+.flabel,.fbar,.fdone{display:none}
 .chip{flex:0 0 auto;display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 12px;font-size:.88rem;font-weight:500;white-space:nowrap}
 .chip i{width:9px;height:9px;border-radius:50%;background:var(--c,var(--muted))}
 .chip small{color:var(--muted);font-variant-numeric:tabular-nums}
@@ -152,6 +155,29 @@ a{color:var(--accent)}
 .chip[aria-pressed="true"] small{color:var(--bg);opacity:.75}
 .chip.flag[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .divider{flex:0 0 1px;background:var(--line);margin:4px 2px}
+@media (max-width:640px){
+  .row1 .seg{display:flex;width:100%}
+  .row1 .seg button{flex:1 1 0;padding:7px 4px;white-space:nowrap}
+  .fbar{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .ftoggle{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--ink);background:var(--surface);color:var(--ink);border-radius:999px;padding:8px 14px;font-weight:600;font-size:.92rem;min-height:40px}
+  .ftoggle b{display:inline-grid;place-items:center;min-width:1.4em;height:1.4em;padding:0 .35em;border-radius:999px;background:var(--ink);color:var(--bg);font-size:.78rem}
+  .ftoggle svg{transition:transform .15s}
+  .ftoggle[aria-expanded="true"] svg{transform:rotate(180deg)}
+  .factive{font-size:.86rem;color:var(--muted);flex:1 1 120px;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .fclear{border:0;background:none;color:var(--accent);font-weight:600;font-size:.88rem;padding:8px 2px;text-decoration:underline;text-underline-offset:2px}
+  .fgroups{display:none;margin-top:10px;padding:14px;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
+  .controls.fopen .fgroups{display:block}
+  .fgroup{display:block}
+  .fgroup + .fgroup{margin-top:14px}
+  .flabel{display:block;font-size:.76rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
+  .fitems{display:flex;flex-wrap:wrap;gap:8px}
+  .fitems.cats{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .fgroups .chip{min-height:42px;font-size:.92rem;background:var(--bg)}
+  .fitems.cats .chip{justify-content:flex-start;padding:8px 12px;border-radius:12px;white-space:normal;text-align:left;line-height:1.2}
+  .fitems.cats .chip small{margin-left:auto}
+  .fgroups .divider{display:none}
+  .fdone{display:block;width:100%;margin-top:14px;border:0;border-radius:10px;padding:11px 14px;background:var(--ink);color:var(--bg);font-weight:600;font-size:.95rem}
+}
 .viewbar{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:10px;flex-wrap:wrap}
 .status{font-size:.88rem;color:var(--muted)}
 .status button{border:0;background:none;color:var(--accent);font-weight:600;padding:0 0 0 6px;text-decoration:underline;text-underline-offset:2px}
@@ -598,7 +624,7 @@ function saveUser(){ try{ if(user) localStorage.setItem(UKEY, JSON.stringify(use
 var FKEY="ujn-favs-v1", favs=[];
 try{ favs = JSON.parse(localStorage.getItem(FKEY)||"[]"); if(!Array.isArray(favs)) favs=[]; }catch(err){ favs=[]; }
 function saveFavs(){ try{ localStorage.setItem(FKEY, JSON.stringify(favs)); }catch(err){} }
-var st = { q:"", period:"14", view:"list", cats:[], free:false, fam:false, fav:false, day:null, week:0,
+var st = { q:"", period:"14", view:"list", cats:[], free:false, fam:false, fav:false, day:null, week:0, fopen:false,
            src:{t:true,h:true,d:true,s:true,k:true,b:true} };
 
 function srcOn(e){ return e.src.some(function(s){ return st.src[s.k]; }); }
@@ -710,14 +736,31 @@ function renderChips(){
     if(st.q && e.hay.indexOf(fold(st.q.trim()))<0) return;
     if(days.some(function(d){ return activeOn(e,d); })) counts[e.c]++;
   });
-  var html = '<button class="chip flag" data-f="free" aria-pressed="'+st.free+'">Gratis</button>'+
-    '<button class="chip flag" data-f="fam" aria-pressed="'+st.fam+'">Barn & familj</button>'+
-    '<button class="chip flag" data-f="fav" aria-pressed="'+st.fav+'">Sparade <small>'+favs.length+'</small></button>'+
-    '<span class="divider" aria-hidden="true"></span>';
-  html += CAT_ORDER.map(function(c){
-    return '<button class="chip" data-c="'+c+'" style="--c:var(--c-'+c+')" aria-pressed="'+(st.cats.indexOf(c)>=0)+'"><i></i>'+CATS[c].label+' <small>'+counts[c]+'</small></button>';
-  }).join("");
+  // Valda filter i klartext, till knappraden i mobilen.
+  var valda=[]; if(st.free) valda.push("Gratis"); if(st.fam) valda.push("Barn & familj"); if(st.fav) valda.push("Sparade");
+  st.cats.forEach(function(c){ valda.push(CATS[c].label); });
+  var html = '<div class="fbar">'+
+      '<button class="ftoggle" data-fopen="1" aria-expanded="'+st.fopen+'" aria-controls="fgroups">Filter'+(valda.length?' <b>'+valda.length+'</b>':'')+
+        ' <svg width="12" height="12" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>'+
+      '<span class="factive">'+(valda.length?esc(valda.join(", ")):"Alla kategorier")+'</span>'+
+      (valda.length?'<button class="fclear" data-fclear="1">Rensa</button>':'')+
+    '</div>'+
+    '<div class="fgroups" id="fgroups">'+
+      '<div class="fgroup" role="group" aria-labelledby="fl-visa"><span class="flabel" id="fl-visa">Visa</span><div class="fitems">'+
+        '<button class="chip flag" data-f="free" aria-pressed="'+st.free+'">Gratis</button>'+
+        '<button class="chip flag" data-f="fam" aria-pressed="'+st.fam+'">Barn & familj</button>'+
+        '<button class="chip flag" data-f="fav" aria-pressed="'+st.fav+'">Sparade <small>'+favs.length+'</small></button>'+
+      '</div></div>'+
+      '<span class="divider" aria-hidden="true"></span>'+
+      '<div class="fgroup" role="group" aria-labelledby="fl-kat"><span class="flabel" id="fl-kat">Kategorier</span><div class="fitems cats">'+
+      CAT_ORDER.map(function(c){
+        return '<button class="chip" data-c="'+c+'" style="--c:var(--c-'+c+')" aria-pressed="'+(st.cats.indexOf(c)>=0)+'"><i></i>'+CATS[c].label+' <small>'+counts[c]+'</small></button>';
+      }).join("")+
+      '</div></div>'+
+      '<button class="fdone" data-fopen="0">Visa evenemangen</button>'+
+    '</div>';
   $("chips").innerHTML = html;
+  $("controls").classList.toggle("fopen", st.fopen);
   Array.prototype.forEach.call(document.querySelectorAll("#period button"),function(b){ b.setAttribute("aria-pressed", String(!st.day && b.dataset.p===st.period)); });
   Array.prototype.forEach.call(document.querySelectorAll("#views button"),function(b){ b.setAttribute("aria-pressed", String(b.dataset.v===st.view)); });
 }
@@ -914,13 +957,18 @@ function tickResend(){
 function scrollToCal(){ var c=$("cal"); if(c) c.scrollIntoView({behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"}); }
 
 /* ---------- Händelser ---------- */
+// Knapparna ritas om vid varje klick, så fokus flyttas tillbaka till samma knapp.
+function refocus(sel){ var b=$("chips").querySelector(sel); if(b) b.focus(); }
 document.addEventListener("click",function(ev){
   var el=ev.target.closest("button, [data-open]"); if(!el) return;
   if(el.dataset.day){ st.day = st.day===el.dataset.day ? null : el.dataset.day; if(st.view==="week") st.view="list"; render(); if(st.day){ var t=$("d-"+st.day); if(t) t.scrollIntoView({behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"}); } return; }
   if(el.dataset.p){ st.period=el.dataset.p; st.day=null; render(); return; }
   if(el.dataset.v){ st.view=el.dataset.v; render(); return; }
-  if(el.dataset.c){ var i=st.cats.indexOf(el.dataset.c); if(i>=0) st.cats.splice(i,1); else st.cats.push(el.dataset.c); render(); return; }
-  if(el.dataset.f){ st[el.dataset.f]=!st[el.dataset.f]; render(); return; }
+  if(el.dataset.c){ var i=st.cats.indexOf(el.dataset.c); if(i>=0) st.cats.splice(i,1); else st.cats.push(el.dataset.c); render(); refocus('[data-c="'+el.dataset.c+'"]'); return; }
+  if(el.dataset.f){ st[el.dataset.f]=!st[el.dataset.f]; render(); refocus('[data-f="'+el.dataset.f+'"]'); return; }
+  if(el.dataset.fopen){ st.fopen = el.dataset.fopen==="1" ? !st.fopen : false; render(); refocus(".ftoggle");
+    if(!st.fopen && el.classList.contains("fdone")) $("controls").scrollIntoView({block:"start"}); return; }
+  if(el.dataset.fclear){ st.cats=[]; st.free=st.fam=st.fav=false; render(); refocus(".ftoggle"); return; }
   if(el.dataset.fav){ var id=el.dataset.fav, j=favs.indexOf(id); if(j>=0) favs.splice(j,1); else favs.push(id); saveFavs(); render();
     if($("drawer").classList.contains("on") && el.classList.contains("dfav")) showEvent(id); return; }
   if(el.dataset.open){ showEvent(el.dataset.open); return; }
