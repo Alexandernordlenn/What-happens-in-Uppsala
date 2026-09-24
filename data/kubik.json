@@ -1,0 +1,5294 @@
+{
+  "kalla": "Kubik Uppsala",
+  "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
+  "hamtad": "2026-09-24T20:33:27.921Z",
+  "antal": 218,
+  "evenemang": [
+    {
+      "id": "kubik-4h-haeng-paa-saevja-arsta-och-graenby-4h-gaard",
+      "titel": "4H-häng på Sävja-, Årsta- och Gränby 4H-gård",
+      "plats": {
+        "namn": "Gränby-, Årsta- och Sävja 4H-gård",
+        "id": "kubik-plats-gränby-årsta-och-sävja-4h-gård"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/4h-haeng-paa-saevja-arsta-och-graenby-4h-gaard/",
+          "arrangor": "https://www.4h.se/uppsala/4h-lager-i-uppsala/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-01-07",
+      "slut": "2026-09-25",
+      "notering": "Återkommande, kl. 08:00–16:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
+      "titel": "Fotboll med Late Starters (för nybörjare 10-15 år)",
+      "plats": {
+        "namn": "Årsta IP",
+        "id": "kubik-plats-årsta-ip"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "10-12 år, 13-15 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fotboll-med-late-starters-foer-nyboerjare-10-15-aar/",
+          "arrangor": "https://www.vaksalask.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-02-01",
+      "slut": "2026-11-30",
+      "notering": "Återkommande, kl. 00:00–23:59. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-djurlaeger-paa-4h-gaardarna",
+      "titel": "Djurläger på 4H-gårdarna",
+      "plats": {
+        "namn": "Uppsala Läns 4H",
+        "id": "kubik-plats-uppsala-läns-4h"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/djurlaeger-paa-4h-gaardarna/",
+          "arrangor": "https://www.4h.se/uppsala/4h-lager-i-uppsala/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-02-16",
+      "slut": "2026-10-30",
+      "notering": "Återkommande, kl. 09:00–16:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-haestlaeger-paa-4h-gaardarna",
+      "titel": "Hästläger på 4H-gårdarna",
+      "plats": {
+        "namn": "Uppsala Läns 4H",
+        "id": "kubik-plats-uppsala-läns-4h"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/haestlaeger-paa-4h-gaardarna/",
+          "arrangor": "https://www.4h.se/uppsala/4h-lager-i-uppsala/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-02-17",
+      "slut": "2026-10-29",
+      "notering": "Återkommande, kl. 09:00–16:37. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hittaut",
+      "titel": "Hittaut",
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hittaut/",
+          "arrangor": "https://koncept.orientering.se/provapaaktiviteter/hittaut/uppsala/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-05-01",
+      "slut": "2026-10-31",
+      "notering": "Återkommande, kl. 00:00–23:59. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-designlabbet-i-savja-arskurs-4-9",
+      "titel": "DESIGNLABBET I SÄVJA, ÅRSKURS 4-9",
+      "plats": {
+        "namn": "Sävja kulturhus, ateljén (Bildsalen)",
+        "id": "kubik-plats-sävja-kulturhus-atelj-n-bildsalen-"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-savja-arskurs-4-9/",
+          "arrangor": "https://www.designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-07",
+      "slut": "2026-12-04",
+      "notering": "Återkommande, kl. 15:30–18:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-nattfotboll-i-stenhagen-med-procyon-bk",
+      "titel": "Nattfotboll i Stenhagen med Procyon BK",
+      "plats": {
+        "namn": "Västra Stenhagensskola Gymnastikhall",
+        "id": "kubik-plats-västra-stenhagensskola-gymnastikhall"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "13-15 år, 16-18 år, 19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/nattfotboll-i-stenhagen-med-procyon-bk/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-14",
+      "slut": "2027-04-01",
+      "notering": "Återkommande, kl. 20:00–20:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoestens-kurser-paa-graenby-4h-gaard",
+      "titel": "Höstens kurser på Gränby 4H-gård",
+      "plats": {
+        "namn": "Gränby 4H-gård",
+        "id": "kubik-plats-gränby-4h-gård"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestens-kurser-paa-graenby-4h-gaard/",
+          "arrangor": "https://www.4h.se/granby/kurser/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-17",
+      "slut": "2026-12-06",
+      "notering": "Återkommande, kl. 16:00–15:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoestens-kurser-paa-saevja-4h-gaard",
+      "titel": "Höstens kurser på Sävja 4H-gård",
+      "plats": {
+        "namn": "Sävja 4H-gård",
+        "id": "kubik-plats-sävja-4h-gård"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestens-kurser-paa-saevja-4h-gaard/",
+          "arrangor": "https://www.4h.se/savja/kurser/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-17",
+      "slut": "2026-12-06",
+      "notering": "Återkommande, kl. 16:00–20:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoestens-kurser-paa-arsta-4h-gaard",
+      "titel": "Höstens kurser på Årsta 4H-gård",
+      "plats": {
+        "namn": "Årsta 4H-gård",
+        "id": "kubik-plats-årsta-4h-gård"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestens-kurser-paa-arsta-4h-gaard/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-17",
+      "slut": "2026-12-06",
+      "notering": "Återkommande, kl. 16:00–20:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-nattfotboll-i-graenby",
+      "titel": "Nattfotboll i Gränby",
+      "plats": {
+        "namn": "Gränbyskolans idrottshall",
+        "id": "kubik-plats-gränbyskolans-idrottshall"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "13-15 år, 16-18 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/nattfotboll-i-graenby/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-21",
+      "slut": "2027-06-18",
+      "notering": "Återkommande, kl. 18:00–21:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-3d-ritning-i-blender",
+      "titel": "3D-ritning i Blender",
+      "plats": {
+        "namn": "Uppsala Makerspace",
+        "id": "kubik-plats-uppsala-makerspace"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år, 13-15 år, 16-18 år, 19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/3d-ritning-i-blender/",
+          "arrangor": "https://uppsala-makerspace.github.io/loerdagskurser/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-22",
+      "slut": "2027-07-31",
+      "notering": "Återkommande, kl. 10:15–12:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-arduino-kurs",
+      "titel": "Arduino-kurs",
+      "plats": {
+        "namn": "Uppsala Makerspace",
+        "id": "kubik-plats-uppsala-makerspace"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år, 13-15 år, 16-18 år, 19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/arduino-kurs/",
+          "arrangor": "https://uppsala-makerspace.github.io/loerdagskurser/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-22",
+      "slut": "2027-07-31",
+      "notering": "Återkommande, kl. 10:15–12:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-teater-och-dans-med-morias-unga-talanger",
+      "titel": "Teater och dans med Morias unga talanger",
+      "plats": {
+        "namn": "Gränbyskolans aula",
+        "id": "kubik-plats-gränbyskolans-aula"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år, 13-15 år, 16-18 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/teater-och-dans-med-morias-unga-talanger/",
+          "arrangor": "https://nej-lika.se/moria-1"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-23",
+      "slut": "2026-12-20",
+      "notering": "Återkommande, kl. 13:00–14:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-dans-och-teater-foer-vuxna",
+      "titel": "Dans och teater för vuxna",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": "19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/dans-och-teater-foer-vuxna/",
+          "arrangor": "https://nej-lika.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-23",
+      "slut": "2026-12-20",
+      "notering": "Återkommande, kl. 14:30–15:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-designlabbet-paa-graenby-allaktivitetshus",
+      "titel": "Designlabbet på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år, 13-15 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-24",
+      "slut": "2026-11-30",
+      "notering": "Återkommande, kl. 15:30–18:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-designlabbet-i-granby-arskurs-4-9",
+      "titel": "DESIGNLABBET I GRÄNBY, ÅRSKURS 4-9",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-granby-arskurs-4-9/",
+          "arrangor": "https://www.designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-24",
+      "slut": "2026-11-30",
+      "notering": "Återkommande, kl. 15:30–18:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-designlabbet-i-gottsunda-arskurs-1-3",
+      "titel": "DESIGNLABBET I GOTTSUNDA, ÅRSKURS 1-3",
+      "plats": {
+        "namn": "Gottsunda Centrum, Föreningshuset Kontakten/Ateljén",
+        "id": "kubik-plats-gottsunda-centrum-föreningshuset-kontakten-atelj-n"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-gottsunda-arskurs-1-3/",
+          "arrangor": "https://www.designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-24",
+      "slut": "2026-12-07",
+      "notering": "Återkommande, kl. 15:00–17:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-yoga-paa-graenby-allaktivitetshus",
+      "titel": "Yoga på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": "19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/yoga-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/granby-allaktivitetshus/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-24",
+      "slut": "2026-12-14",
+      "notering": "Återkommande, kl. 18:30–19:45. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-spraakcafe-paa-graenby-allaktivitetshus",
+      "titel": "Språkcafé på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": "19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spraakcafe-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-24",
+      "slut": "2026-12-14",
+      "notering": "Återkommande, kl. 18:00–20:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-designlabbet-i-almunge-arskurs-3-9",
+      "titel": "DESIGNLABBET I ALMUNGE, ÅRSKURS 3-9",
+      "plats": {
+        "namn": "Almunge skola",
+        "id": "kubik-plats-almunge-skola"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-almunge-arskurs-3-9/",
+          "arrangor": "https://www.designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-25",
+      "slut": "2026-12-01",
+      "notering": "Återkommande, kl. 14:00–16:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-soemnad-och-textil",
+      "titel": "Sömnad och textil",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": "19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/soemnad-och-textil/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-25",
+      "slut": "2026-12-15",
+      "notering": "Återkommande, kl. 15:30–17:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-bollyx-paa-graenby-allaktivitetshus",
+      "titel": "BollyX på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": "19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/bollyx-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-25",
+      "slut": "2026-12-15",
+      "notering": "Återkommande, kl. 18:30–19:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-syskonskap-midi-13-18-aar",
+      "titel": "SyskonSKAP Midi 13–18 år",
+      "plats": {
+        "namn": "Temaverkstaden, Gottsunda centrum",
+        "id": "kubik-plats-temaverkstaden-gottsunda-centrum"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "13-15 år, 16-18 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/syskonskap-midi-13-18-aar/",
+          "arrangor": "https://uppland.konstframjandet.se/projekt/syskonskap"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-25",
+      "slut": "2026-12-22",
+      "notering": "Återkommande, kl. 16:00–18:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-teater-elin-9-12-aar-lindbacken-kulturis",
+      "titel": "Teater Elin 9-12 år Lindbacken Kulturis",
+      "plats": {
+        "namn": "Musiksalen Lindbackens skola",
+        "id": "kubik-plats-musiksalen-lindbackens-skola"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/teater-elin-9-12-aar-lindbacken-kulturis/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-26",
+      "slut": "2026-12-02",
+      "notering": "Återkommande, kl. 15:00–17:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-designlabbet-i-stenhagen-arskurs-4-9",
+      "titel": "DESIGNLABBET I STENHAGEN, ÅRSKURS 4-9",
+      "plats": {
+        "namn": "Östra Stenhagenskolan (Bildsal i skolbarack nära skolan)",
+        "id": "kubik-plats-östra-stenhagenskolan-bildsal-i-skolbarack-nära-skolan-"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-stenhagen-arskurs-4-9/",
+          "arrangor": "https://www.designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-26",
+      "slut": "2026-12-02",
+      "notering": "Återkommande, kl. 16:00–18:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-onsdagspromenad-i-graenby",
+      "titel": "Onsdagspromenad i Gränby",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": "19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/onsdagspromenad-i-graenby/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-26",
+      "slut": "2026-12-16",
+      "notering": "Återkommande, kl. 13:00–14:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-skapa-film-filmkurs-paa-graenby-allaktivitetshus",
+      "titel": "Skapa film - filmkurs på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "13-15 år, 16-18 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/skapa-film-filmkurs-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-26",
+      "slut": "2026-12-16",
+      "notering": "Återkommande, kl. 16:00–19:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-magdans-paa-graenby-allaktivitetshus",
+      "titel": "Magdans på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/magdans-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-26",
+      "slut": "2026-12-16",
+      "notering": "Återkommande, kl. 18:00–20:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-kreativa-kvaellar-paa-graenby-allaktivitetshus",
+      "titel": "Kreativa kvällar på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": "19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/kreativa-kvaellar-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-26",
+      "slut": "2026-12-16",
+      "notering": "Återkommande, kl. 18:00–21:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-syskonskap-mini-7-12-aar",
+      "titel": "SyskonSKAP Mini 7–12 år",
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/syskonskap-mini-7-12-aar/",
+          "arrangor": "https://uppland.konstframjandet.se/projekt/syskonskap"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-26",
+      "slut": "2026-12-22",
+      "notering": "Återkommande, kl. 16:00–18:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-teater-elin-9-12-aar-torsdagar-lindbacken-kulturis",
+      "titel": "Teater Elin 9-12 år torsdagar Lindbacken Kulturis",
+      "plats": {
+        "namn": "Musiksalen Lindbackens skola",
+        "id": "kubik-plats-musiksalen-lindbackens-skola"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/teater-elin-9-12-aar-torsdagar-lindbacken-kulturis/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-27",
+      "slut": "2026-12-03",
+      "notering": "Återkommande, kl. 16:00–17:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-designlabbet-i-ekeby-bruk-arskurs-4-9",
+      "titel": "DESIGNLABBET I EKEBY BRUK, ÅRSKURS 4-9",
+      "plats": {
+        "namn": "Disponentvillan i Ekeby Bruk, nedre plan",
+        "id": "kubik-plats-disponentvillan-i-ekeby-bruk-nedre-plan"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-ekeby-bruk-arskurs-4-9/",
+          "arrangor": "https://www.designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-27",
+      "slut": "2026-12-03",
+      "notering": "Återkommande, kl. 15:30–18:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-skaparverkstad-paa-graenby-allaktivitetshus",
+      "titel": "Skaparverkstad på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/skaparverkstad-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-27",
+      "slut": "2026-12-17",
+      "notering": "Återkommande, kl. 15:00–16:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-musikalgrupp-foer-flerspraakiga-ungdomar-16-20-aar",
+      "titel": "Musikalgrupp för flerspråkiga ungdomar 16-20 år",
+      "plats": {
+        "namn": "Språkateatern",
+        "id": "sprakateatern"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "16-18 år, 19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/musikalgrupp-foer-flerspraakiga-ungdomar-16-20-aar/",
+          "arrangor": "http://teateraros.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-27",
+      "slut": "2027-05-27",
+      "notering": "Återkommande, kl. 18:30–20:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-designlabbet-i-stenhagen-arskurs-1-3",
+      "titel": "DESIGNLABBET I STENHAGEN, ÅRSKURS 1-3",
+      "plats": {
+        "namn": "Östra Stenhagenskolan (Bildsal i skolbarack nära skolan)",
+        "id": "kubik-plats-östra-stenhagenskolan-bildsal-i-skolbarack-nära-skolan-"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-stenhagen-arskurs-1-3/",
+          "arrangor": "https://www.designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-28",
+      "slut": "2026-12-04",
+      "notering": "Återkommande, kl. 16:00–18:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-designlabbet-i-savja-arskurs-1-3",
+      "titel": "DESIGNLABBET I SÄVJA, ÅRSKURS 1-3",
+      "plats": {
+        "namn": "Sävja kulturhus, ateljén (Bildsalen)",
+        "id": "kubik-plats-sävja-kulturhus-atelj-n-bildsalen-"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-savja-arskurs-1-3/",
+          "arrangor": "https://www.designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-28",
+      "slut": "2026-12-11",
+      "notering": "Återkommande, kl. 15:00–17:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-teater-elin-9-12-aar-almunge-kulturis",
+      "titel": "Teater Elin 9-12 år Almunge Kulturis",
+      "plats": {
+        "namn": "Almunge församlingsgård",
+        "id": "kubik-plats-almunge-församlingsgård"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/teater-elin-9-12-aar-almunge-kulturis/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-28",
+      "slut": "2026-12-11",
+      "notering": "Återkommande, kl. 16:00–18:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-braedspelsfredag-paa-graenby-allaktivitetshus",
+      "titel": "Brädspelsfredag på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "13-15 år, 16-18 år, 19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/braedspelsfredag-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-28",
+      "slut": "2026-12-18",
+      "notering": "Återkommande, kl. 15:00–17:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-teater-foer-mellanstadiet-i-stenhagen",
+      "titel": "Teater för mellanstadiet i Stenhagen",
+      "plats": {
+        "namn": "Lekrummet i Sankta Maria Kyrka. Stenhagen",
+        "id": "kubik-plats-lekrummet-i-sankta-maria-kyrka-stenhagen"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/teater-foer-mellanstadiet-i-stenhagen/",
+          "arrangor": "http://teateraros.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-28",
+      "slut": "2027-05-14",
+      "notering": "Återkommande, kl. 15:00–16:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-inomhusfotboll-i-liljeforsskolans-idrottshall",
+      "titel": "Inomhusfotboll i Liljeforsskolans idrottshall",
+      "plats": {
+        "namn": "Liljeforsskolans idrottshall",
+        "id": "kubik-plats-liljeforsskolans-idrottshall"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/inomhusfotboll-i-liljeforsskolans-idrottshall/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-31",
+      "slut": "2026-12-14",
+      "notering": "Återkommande, kl. 16:00–17:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-barndans-paa-graenby-allaktivitetshus",
+      "titel": "Barndans på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/barndans-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/granby-allaktivitetshus/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-31",
+      "slut": "2026-12-14",
+      "notering": "Återkommande, kl. 16:00–17:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-siriklubban-gottsunda-7-14-aar",
+      "titel": "Siriklubban Gottsunda 7-14 år",
+      "plats": {
+        "namn": "Nya Gottsundaskolans idrottshall",
+        "id": "kubik-plats-nya-gottsundaskolans-idrottshall"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år, 13-15 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/siriklubban-gottsunda-7-14-aar/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-08-31",
+      "slut": "2027-05-31",
+      "notering": "Återkommande, kl. 16:00–17:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-designlabbet-i-almunge-arskurs-1-2",
+      "titel": "DESIGNLABBET I ALMUNGE, ÅRSKURS 1-2",
+      "plats": {
+        "namn": "Almunge skola",
+        "id": "kubik-plats-almunge-skola"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-almunge-arskurs-1-2/",
+          "arrangor": "https://www.designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-01",
+      "slut": "2026-12-08",
+      "notering": "Återkommande, kl. 14:00–16:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-musiklek-6-9-aar-skyttorp-kulturis",
+      "titel": "Musiklek 6-9 år Skyttorp Kulturis",
+      "plats": {
+        "namn": "F klassrum Skyttorp skola",
+        "id": "kubik-plats-f-klassrum-skyttorp-skola"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/musiklek-6-9-aar-skyttorp-kulturis/",
+          "arrangor": "http://kulturskola.uppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-01",
+      "slut": "2026-12-15",
+      "notering": "Återkommande, kl. 12:00–15:10. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-dans-aak-1-3-gaavstad-kulturis",
+      "titel": "Dans åk 1-3 Gåvstad Kulturis",
+      "plats": {
+        "namn": "Gåvsta skola Hall 2000",
+        "id": "kubik-plats-gåvsta-skola-hall-2000"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/dans-aak-1-3-gaavstad-kulturis/",
+          "arrangor": "http://kulturskola.uppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-01",
+      "slut": "2026-12-15",
+      "notering": "Återkommande, kl. 14:50–15:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-teckna-manga",
+      "titel": "Teckna manga",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "13-15 år, 16-18 år, 19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/teckna-manga/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-01",
+      "slut": "2026-12-15",
+      "notering": "Återkommande, kl. 15:00–16:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-siriklubban-graenby-10-16-aar",
+      "titel": "Siriklubban Gränby 10-16 år",
+      "plats": {
+        "namn": "Gränbyskolans idrottshall",
+        "id": "kubik-plats-gränbyskolans-idrottshall"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år, 13-15 år, 16-18 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/siriklubban-graenby-10-16-aar/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-01",
+      "slut": "2027-06-01",
+      "notering": "Återkommande, kl. 15:30–16:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-nyhetsklubb",
+      "titel": "Nyhetsklubb",
+      "plats": {
+        "namn": "Gottsundabiblioteket, Sagorummet",
+        "id": "kubik-plats-gottsundabiblioteket-sagorummet"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/nyhetsklubb/",
+          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/56813ebb-d7ea-4eaf-88cd-c205c35a41e6?location=Gottsundabiblioteket"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-02",
+      "slut": "2026-11-25",
+      "notering": "Återkommande, kl. 15:00–15:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-teater-foer-hoegstadiet-i-graenby",
+      "titel": "Teater för högstadiet i Gränby",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "13-15 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/teater-foer-hoegstadiet-i-graenby/",
+          "arrangor": "http://teateraros.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-02",
+      "slut": "2026-12-09",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-teater-foer-aak-2-3-i-graenby",
+      "titel": "Teater för åk 2-3 i Gränby",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/teater-foer-aak-2-3-i-graenby/",
+          "arrangor": "http://teateraros.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-02",
+      "slut": "2026-12-09",
+      "notering": "Återkommande, kl. 14:00–15:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-dans-2019-2020-saevja-kulturis",
+      "titel": "Dans 2019-2020 Sävja Kulturis",
+      "plats": {
+        "namn": "Sävja Kulturhus",
+        "id": "kubik-plats-sävja-kulturhus"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/dans-2019-2020-saevja-kulturis/",
+          "arrangor": "https://kulturskola.uppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-02",
+      "slut": "2026-12-09",
+      "notering": "Återkommande, kl. 15:00–15:45. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-teater-foer-mellanstadiet-i-graenby",
+      "titel": "Teater för mellanstadiet i Gränby",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/teater-foer-mellanstadiet-i-graenby/",
+          "arrangor": "http://teateraros.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-02",
+      "slut": "2026-12-09",
+      "notering": "Återkommande, kl. 15:00–16:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-klarinett-6-9-aar-storvreta-kulturis",
+      "titel": "Klarinett 6-9 år Storvreta Kulturis",
+      "plats": {
+        "namn": "Pluggparadiset, grupprum åk 1, Storvreta",
+        "id": "kubik-plats-pluggparadiset-grupprum-åk-1-storvreta"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/klarinett-6-9-aar-storvreta-kulturis/",
+          "arrangor": "http://kulturskola.uppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-02",
+      "slut": "2026-12-16",
+      "notering": "Återkommande, kl. 14:00–14:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-gitarr-9-12-aar-allaktivitetshuset-gottsunda-kulturis",
+      "titel": "Gitarr 9-12 år Allaktivitetshuset Gottsunda Kulturis",
+      "plats": {
+        "namn": "Treklangens fritidsklubb Allaktivitetshuset Gottsunda",
+        "id": "kubik-plats-treklangens-fritidsklubb-allaktivitetshuset-gottsunda"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/gitarr-9-12-aar-allaktivitetshuset-gottsunda-kulturis/",
+          "arrangor": "http://kulturskola.uppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-02",
+      "slut": "2026-12-16",
+      "notering": "Återkommande, kl. 14:00–16:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-designlabbet-i-gottsunda-arskurs-4-9",
+      "titel": "DESIGNLABBET I GOTTSUNDA, ÅRSKURS 4-9",
+      "plats": {
+        "namn": "Gottsunda Centrum, Temaverkstan (Längst ned, bredvid teatern och biblioteket. )",
+        "id": "kubik-plats-gottsunda-centrum-temaverkstan-längst-ned-bredvid-teatern-och-biblioteket-"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-gottsunda-arskurs-4-9/",
+          "arrangor": "https://www.designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-02",
+      "slut": "2026-12-16",
+      "notering": "Återkommande, kl. 15:00–17:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-gitarr-9-12-aar-graenby-allaktivitetshus-kulturis",
+      "titel": "Gitarr 9-12 år Gränby Allaktivitetshus Kulturis",
+      "plats": {
+        "namn": "Allaktivitetshuset Gränby",
+        "id": "kubik-plats-allaktivitetshuset-gränby"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/gitarr-9-12-aar-graenby-allaktivitetshus-kulturis/",
+          "arrangor": "http://kulturskola.uppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-02",
+      "slut": "2026-12-16",
+      "notering": "Återkommande, kl. 17:00–18:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-gitarr-13-20-aar-allaktivitetshuset-graenby",
+      "titel": "Gitarr 13-20 år Allaktivitetshuset Gränby",
+      "plats": {
+        "namn": "Allaktivitetshuset Gränby",
+        "id": "kubik-plats-allaktivitetshuset-gränby"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "13-15 år, 16-18 år, 19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/gitarr-13-20-aar-allaktivitetshuset-graenby/",
+          "arrangor": "http://kulturskola.uppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-02",
+      "slut": "2026-12-16",
+      "notering": "Återkommande, kl. 18:00–19:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-siriklubban-graenby-7-9-aar",
+      "titel": "Siriklubban Gränby 7-9 år",
+      "plats": {
+        "namn": "Gränbyskolans idrottshall",
+        "id": "kubik-plats-gränbyskolans-idrottshall"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/siriklubban-graenby-7-9-aar/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-03",
+      "slut": "2027-06-03",
+      "notering": "Återkommande, kl. 15:00–16:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-dans-aak-1-3-funbo-kulturis",
+      "titel": "Dans åk 1-3 Funbo Kulturis",
+      "plats": {
+        "namn": "Funbo skola",
+        "id": "kubik-plats-funbo-skola"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/dans-aak-1-3-funbo-kulturis/",
+          "arrangor": "http://kulturskola.uppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-04",
+      "slut": "2026-12-11",
+      "notering": "Återkommande, kl. 14:15–14:55. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-loerdagsoeppet-paa-graenby-allaktivitetshus",
+      "titel": "Lördagsöppet på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/loerdagsoeppet-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-05",
+      "slut": "2026-12-12",
+      "notering": "Återkommande, kl. 11:00–16:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-laes-tillsammans",
+      "titel": "Läs tillsammans!",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/laes-tillsammans/",
+          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/b28ebd4e-9619-4aeb-83f1-aa115c97509d?location=Gottsundabiblioteket"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-07",
+      "slut": "2026-11-30",
+      "notering": "Återkommande, kl. 15:00–15:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-dans-aak-3-5-graenby-kulturis",
+      "titel": "Dans åk 3-5 Gränby Kulturis",
+      "plats": {
+        "namn": "Gränbyskolans aula ingång via Allaktivitetshuset",
+        "id": "kubik-plats-gränbyskolans-aula-ingång-via-allaktivitetshuset"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/dans-aak-3-5-graenby-kulturis/",
+          "arrangor": "http://kulturskola.uppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-07",
+      "slut": "2026-12-07",
+      "notering": "Återkommande, kl. 15:10–16:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-thaiboxning-foer-dig-12-18-aar",
+      "titel": "Thaiboxning för dig 12-18 år",
+      "plats": {
+        "namn": "Kvarngärdesskolans idrottshall, Lilla salen",
+        "id": "kubik-plats-kvarngärdesskolans-idrottshall-lilla-salen"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "13-15 år, 16-18 år, 19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/thaiboxning-foer-dig-12-18-aar/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-08",
+      "slut": "2026-12-15",
+      "notering": "Återkommande, kl. 16:00–18:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-dans-aak-2-5-naantuna-kulturis",
+      "titel": "Dans åk 2-5 Nåntuna Kulturis",
+      "plats": {
+        "namn": "Nåntunaskolan rörelserummet",
+        "id": "kubik-plats-nåntunaskolan-rörelserummet"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/dans-aak-2-5-naantuna-kulturis/",
+          "arrangor": "http://kulturskola.uppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-09",
+      "slut": "2026-12-09",
+      "notering": "Återkommande, kl. 15:00–15:45. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-torsdagskul-paa-biotopia",
+      "titel": "Torsdagskul på Biotopia",
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagskul-paa-biotopia/",
+          "arrangor": "https://biotopia.nu/torsdagskul"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-10",
+      "slut": "2026-12-10",
+      "notering": "Återkommande, kl. 14:30–15:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-designlabbet-funkis-pa-grand-fr-13-aar-m",
+      "titel": "DESIGNLABBET FUNKIS PÅ GRAND, Fr. 13 år m",
+      "plats": {
+        "namn": "Kulturhuset Grand",
+        "id": "kubik-plats-kulturhuset-grand"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-funkis-pa-grand-fr-13-aar-m/",
+          "arrangor": "https://www.designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-10",
+      "slut": "2026-12-17",
+      "notering": "Återkommande, kl. 15:30–17:15. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-ebru-pappersmarmorering-paa-graenby-allaktivitetshus",
+      "titel": "Ebru pappersmarmorering på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år, 13-15 år, 16-18 år, 19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/ebru-pappersmarmorering-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-12",
+      "slut": "2026-11-07",
+      "notering": "Återkommande, kl. 11:00–13:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-science-lab-paa-graenby-allaktivitetshus",
+      "titel": "Science Lab på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/science-lab-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-12",
+      "slut": "2026-11-14",
+      "notering": "Återkommande, kl. 13:00–15:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-juridisk-raadgivning-med-gatujuristerna",
+      "titel": "Juridisk rådgivning med Gatujuristerna",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": "19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/juridisk-raadgivning-med-gatujuristerna/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/granby-allaktivitetshus/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-14",
+      "slut": "2026-12-14",
+      "notering": "Återkommande, kl. 16:00–18:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-syskonskap-stenhagen-13-18-aar",
+      "titel": "SyskonSKAP Stenhagen 13–18 år",
+      "plats": {
+        "namn": "Västra Stenhagenskolans fritidsgård, vid Östra Stenhagenskolan.",
+        "id": "kubik-plats-västra-stenhagenskolans-fritidsgård-vid-östra-stenhagenskolan-"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "13-15 år, 16-18 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/syskonskap-stenhagen-13-18-aar/",
+          "arrangor": "https://uppland.konstframjandet.se/projekt/syskonskap"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-14",
+      "slut": "2026-12-14",
+      "notering": "Återkommande, kl. 18:00–20:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-cirkus",
+      "titel": "Cirkus",
+      "plats": {
+        "namn": "Stenhagens idrottshall, Brantingsskolans idrottshall",
+        "id": "kubik-plats-stenhagens-idrottshall-brantingsskolans-idrottshall"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år, 13-15 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/cirkus/",
+          "arrangor": "https://www.uppsalaungdomscirkus.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-14",
+      "slut": "2026-12-18",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-saa-enkelt-gaar-du-ner-10-kg-teaterfoerestaellning-om-att-oeverleva-anorexia-med-teater-elin",
+      "titel": "“Så enkelt går du ner 10 kg!” (teaterföreställning om att överleva anorexia, med Teater Elin)",
+      "plats": {
+        "namn": "Språkateatern",
+        "id": "sprakateatern"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "13-15 år, 16-18 år, 19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/saa-enkelt-gaar-du-ner-10-kg-teaterfoerestaellning-om-att-oeverleva-anorexia-med-teater-elin/",
+          "arrangor": "https://www.teaterelin.com/home2/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-19",
+      "slut": "2026-11-14",
+      "notering": "Återkommande, kl. 19:00–15:15. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-skridskoskola",
+      "titel": "Skridskoskola",
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall",
+        "rum": "D-hallen"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/skridskoskola/",
+          "arrangor": "http://uppsalask.com/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-19",
+      "slut": "2026-11-21",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-gitarrundervisning-i-grupp",
+      "titel": "Gitarrundervisning i grupp",
+      "plats": {
+        "namn": "Disponentvillan",
+        "id": "kubik-plats-disponentvillan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/gitarrundervisning-i-grupp/",
+          "arrangor": "http://www.studyalong.se/studieframjandet"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-24",
+      "slut": "2026-12-03",
+      "notering": "Återkommande, kl. 16:45–17:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-gitarrundervisning-i-grupp-2",
+      "titel": "Gitarrundervisning i grupp",
+      "plats": {
+        "namn": "Disponentvillan",
+        "id": "kubik-plats-disponentvillan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/gitarrundervisning-i-grupp/",
+          "arrangor": "http://www.studyalong.se/studieframjandet"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-24",
+      "slut": "2026-12-03",
+      "notering": "Återkommande, kl. 17:45–18:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoerlurar-paa-1",
+      "titel": "Hörlurar på!",
+      "plats": {
+        "namn": "Gottsunabiblioteke, Sagorummet",
+        "id": "kubik-plats-gottsunabiblioteke-sagorummet"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoerlurar-paa-1/",
+          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/0cc3e393-0d42-4d8d-9f3c-cef9227dc5de?location=Gottsundabiblioteket"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-25",
+      "slut": "2026-12-18",
+      "notering": "Återkommande, kl. 14:30–15:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoeglaesning-paa-svenska-2026-09-25-1400",
+      "titel": "Högläsning på svenska",
+      "plats": {
+        "namn": "Gottsundabiblioteket, sagorummet",
+        "id": "kubik-plats-gottsundabiblioteket-sagorummet"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoeglaesning-paa-svenska/",
+          "arrangor": "https://bibliotekuppsala.se/#/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-25T14:00:00+02:00",
+      "slut": "2026-09-25T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-fredagsmys-2026-2026-09-25-1400",
+      "titel": "Fredagsmys",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-25T14:00:00+02:00",
+      "slut": "2026-09-25T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-pumphusets-loerdags-och-soendagsoeppet",
+      "titel": "Pumphusets lördags- och söndagsöppet",
+      "plats": {
+        "namn": "Pumphuset",
+        "id": "kubik-plats-pumphuset"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/pumphusets-loerdags-och-soendagsoeppet/",
+          "arrangor": "https://www.uppsalavatten.se/skola/pumphuset"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-26",
+      "slut": "2026-12-20",
+      "notering": "Återkommande, kl. 12:00–16:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-haelsomaessa-i-gottsunda-centrum-2026-09-26-1200",
+      "titel": "Hälsomässa i Gottsunda Centrum",
+      "plats": {
+        "namn": "Gottsunda Centrum inomhus",
+        "id": "kubik-plats-gottsunda-centrum-inomhus"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/haelsomaessa-i-gottsunda-centrum/",
+          "arrangor": "http://www.halsomassanicentrum.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-26T12:00:00+02:00",
+      "slut": "2026-09-26T15:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-arabiska-gottsunda-2026-09-26-1300",
+      "titel": "Sagostund på arabiska / وقت قراءة القصص باللغة العربية",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-arabiska-gottsunda/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-26T13:00:00+02:00",
+      "slut": "2026-09-26T13:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-vikingaskola-runstenar-2026-09-26-1400",
+      "titel": "Vikingaskola - Runstenar",
+      "plats": {
+        "namn": "Gamla Uppsala museum",
+        "id": "gamlauppsalamuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år, 13-15 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/vikingaskola-runstenar/",
+          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-26T14:00:00+02:00",
+      "slut": "2026-09-26T15:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-katalanska-2026-09-26-1430",
+      "titel": "Sagostund på katalanska/ L'hora del conte en català",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-katalanska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-26T14:30:00+02:00",
+      "slut": "2026-09-26T15:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-drakar-och-dragqueens-2026-09-27-1315",
+      "titel": "Sagostund med Bland drakar och dragqueens",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/drakar-och-dragqueens/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-27T13:15:00+02:00",
+      "slut": "2026-09-27T14:15:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-vikingaskola-runstenar-2026-09-27-1400",
+      "titel": "Vikingaskola - Runstenar",
+      "plats": {
+        "namn": "Gamla Uppsala museum",
+        "id": "gamlauppsalamuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år, 13-15 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/vikingaskola-runstenar/",
+          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-27T14:00:00+02:00",
+      "slut": "2026-09-27T15:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-drakar-och-dragqueens-2026-09-27-1445",
+      "titel": "Sagostund med Bland drakar och dragqueens",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/drakar-och-dragqueens/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-27T14:45:00+02:00",
+      "slut": "2026-09-27T15:45:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-spela-schack-ht26-gottsunda-2026-09-28-1500",
+      "titel": "Spela schack",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år, 13-15 år, 16-18 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spela-schack-ht26-gottsunda/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-28T15:00:00+02:00",
+      "slut": "2026-09-28T16:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-graenby-allaktivitetshus-2026-09-30-1000",
+      "titel": "Sagostund på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-graenby-allaktivitetshus/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-30T10:00:00+02:00",
+      "slut": "2026-09-30T10:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-visning-foer-foeraeldralediga-sexuell-maangfald-i-naturen-hur-goer-djur-2026-09-30-1300",
+      "titel": "Visning för föräldralediga: Sexuell mångfald i naturen - hur gör djur?",
+      "plats": {
+        "namn": "Evolutionsmuseet Zoologi",
+        "id": "kubik-plats-evolutionsmuseet-zoologi"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/visning-foer-foeraeldralediga-sexuell-maangfald-i-naturen-hur-goer-djur/",
+          "arrangor": "https://www.uu.se/evolutionsmuseet/kalendarium/arkiv/2026-09-30-visning-for-foraldralediga-sexuell-mangfald-i-naturen---hur-gor-djur"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-30T13:00:00+02:00",
+      "slut": "2026-09-30T14:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-babyrytmik-ht-2026-2026-10-01-1000",
+      "titel": "Babyrytmik",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/babyrytmik-ht-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-01T10:00:00+02:00",
+      "slut": "2026-10-01T11:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagsbibblan-2026-10-01-1500",
+      "titel": "Torsdagsbibblan",
+      "plats": {
+        "namn": "Gottsundabiblioteket, temaverkstaden",
+        "id": "kubik-plats-gottsundabiblioteket-temaverkstaden"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagsbibblan/",
+          "arrangor": "https://bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-01T15:00:00+02:00",
+      "slut": "2026-10-01T16:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagshaeng-2026-10-01-1600",
+      "titel": "Torsdagshäng!",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagshaeng/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-01T16:00:00+02:00",
+      "slut": "2026-10-01T17:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-hoeglaesning-paa-svenska-2026-10-02-1400",
+      "titel": "Högläsning på svenska",
+      "plats": {
+        "namn": "Gottsundabiblioteket, sagorummet",
+        "id": "kubik-plats-gottsundabiblioteket-sagorummet"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoeglaesning-paa-svenska/",
+          "arrangor": "https://bibliotekuppsala.se/#/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-02T14:00:00+02:00",
+      "slut": "2026-10-02T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-fredagsmys-2026-2026-10-02-1400",
+      "titel": "Fredagsmys",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-02T14:00:00+02:00",
+      "slut": "2026-10-02T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-alla-aeter-alla-rosendal-2026-10-02-1400",
+      "titel": "Högläsningskonsert: Alla äter alla",
+      "plats": {
+        "namn": "Rosendalsbiblioteket",
+        "id": "kubik-plats-rosendalsbiblioteket"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år, 7-9 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/alla-aeter-alla-rosendal/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-02T14:00:00+02:00",
+      "slut": "2026-10-02T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-alla-aeter-alla-baelinge-2026-10-03-1030",
+      "titel": "Högläsningskonsert: Alla äter alla",
+      "plats": {
+        "namn": "Bälingebiblioteket",
+        "id": "kubik-plats-bälingebiblioteket"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/alla-aeter-alla-baelinge/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-03T10:30:00+02:00",
+      "slut": "2026-10-03T11:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-engelska-1-2026-10-03-1130",
+      "titel": "Sångstund på engelska/ Song time in English for kids 0-6 years",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-engelska-1/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-03T11:30:00+02:00",
+      "slut": "2026-10-03T12:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-arabiska-2026-10-03-1300",
+      "titel": "Sagostund på arabiska / وقت قراءة القصص باللغة العربية",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-arabiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-03T13:00:00+02:00",
+      "slut": "2026-10-03T13:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-alla-aeter-alla-storvreta-2026-10-03-1400",
+      "titel": "Högläsningskonsert: Alla äter alla",
+      "plats": {
+        "namn": "Storvretabiblioteket",
+        "id": "kubik-plats-storvretabiblioteket"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/alla-aeter-alla-storvreta/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-03T14:00:00+02:00",
+      "slut": "2026-10-03T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-vikingaskola-resor-och-faerder-2026-10-03-1400",
+      "titel": "Vikingaskola - Resor och färder",
+      "plats": {
+        "namn": "Gamla Uppsala museum",
+        "id": "gamlauppsalamuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/vikingaskola-resor-och-faerder/",
+          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-03T14:00:00+02:00",
+      "slut": "2026-10-03T15:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-tjeckiska-2026-10-03-1430",
+      "titel": "Sagostund på tjeckiska / Čteme české pohádky",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-tjeckiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-03T14:30:00+02:00",
+      "slut": null,
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-turkiska-2026-10-04-1330",
+      "titel": "Sagostund på turkiska / Türkçe hikaye zamanı",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-turkiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-04T13:30:00+02:00",
+      "slut": "2026-10-04T14:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-vikingaskola-resor-och-faerder-2026-10-04-1400",
+      "titel": "Vikingaskola - Resor och färder",
+      "plats": {
+        "namn": "Gamla Uppsala museum",
+        "id": "gamlauppsalamuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/vikingaskola-resor-och-faerder/",
+          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-04T14:00:00+02:00",
+      "slut": "2026-10-04T15:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-spela-schack-ht26-gottsunda-2026-10-05-1500",
+      "titel": "Spela schack",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år, 13-15 år, 16-18 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spela-schack-ht26-gottsunda/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-05T15:00:00+02:00",
+      "slut": "2026-10-05T16:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-1-3-aar-2026-2026-10-06-1030",
+      "titel": "Sagostund för barn 1-3 år",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-1-3-aar-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-06T10:30:00+02:00",
+      "slut": "2026-10-06T11:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-bokklubb-laesfabriken-ht26-2026-10-06-1600",
+      "titel": "Bokklubb på Läsfabriken",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/bokklubb-laesfabriken-ht26/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-06T16:00:00+02:00",
+      "slut": "2026-10-06T17:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-graenby-allaktivitetshus-2026-10-07-1000",
+      "titel": "Sagostund på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-graenby-allaktivitetshus/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-07T10:00:00+02:00",
+      "slut": "2026-10-07T10:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-babyrytmik-ht-2026-2026-10-08-1000",
+      "titel": "Babyrytmik",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/babyrytmik-ht-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-08T10:00:00+02:00",
+      "slut": "2026-10-08T11:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagsbibblan-2026-10-08-1500",
+      "titel": "Torsdagsbibblan",
+      "plats": {
+        "namn": "Gottsundabiblioteket, temaverkstaden",
+        "id": "kubik-plats-gottsundabiblioteket-temaverkstaden"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagsbibblan/",
+          "arrangor": "https://bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-08T15:00:00+02:00",
+      "slut": "2026-10-08T16:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagshaeng-2026-10-08-1600",
+      "titel": "Torsdagshäng!",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagshaeng/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-08T16:00:00+02:00",
+      "slut": "2026-10-08T17:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-fredagsmys-2026-2026-10-09-1400",
+      "titel": "Fredagsmys",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-09T14:00:00+02:00",
+      "slut": "2026-10-09T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-scifest-2026-2026-10-10-0900",
+      "titel": "SciFest 2026",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/scifest-2026/",
+          "arrangor": "https://www.scifest.se/w/sf"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-10T09:00:00+02:00",
+      "slut": "2026-10-10T16:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-banned-books-2026-10-10-1300",
+      "titel": "Banned books-festival med barnteater",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/banned-books/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-10T13:00:00+02:00",
+      "slut": "2026-10-10T13:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-kortfilmsbio-gottsunda-2026-10-10-1300",
+      "titel": "Kortfilmsbio: Stor och liten",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/kortfilmsbio-gottsunda/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-10T13:00:00+02:00",
+      "slut": "2026-10-10T14:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-kortfilmsbio-storvreta-2026-10-10-1300",
+      "titel": "Kortfilmsbio: Stor och liten",
+      "plats": {
+        "namn": "Storvretabiblioteket",
+        "id": "kubik-plats-storvretabiblioteket"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/kortfilmsbio-storvreta/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-10T13:00:00+02:00",
+      "slut": "2026-10-10T14:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-skapa-ditt-eget-fabeldjur-den-skapande-ateljen-2026-10-10-1300",
+      "titel": "Skapa ditt eget fabeldjur - DEN SKAPANDE ATELJÉN",
+      "plats": {
+        "namn": "Uppsala Konstnärsklubb, Studion",
+        "id": "kubik-plats-uppsala-konstnärsklubb-studion"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/skapa-ditt-eget-fabeldjur-den-skapande-ateljen/",
+          "arrangor": "https://www.uppsalakonstnarsklubb.se/projekt-och-event/ppen-atelj#Section19"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-10T13:00:00+02:00",
+      "slut": "2026-10-10T16:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-polska-2026-10-11-1330",
+      "titel": "Sagostund på polska / Czytanie bajek po polsku",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-polska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-11T13:30:00+02:00",
+      "slut": "2026-10-11T14:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-vikingaskola-skapa-med-ull-2026-10-11-1400",
+      "titel": "Vikingaskola - Skapa med ull",
+      "plats": {
+        "namn": "Gamla Uppsala museum",
+        "id": "gamlauppsalamuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/vikingaskola-skapa-med-ull/",
+          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-11T14:00:00+02:00",
+      "slut": "2026-10-11T15:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-franska-2026-10-11-1500",
+      "titel": "Sagostund på franska/ Le temps d’une histoire en français",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-franska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-11T15:00:00+02:00",
+      "slut": "2026-10-11T15:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-spela-schack-ht26-gottsunda-2026-10-12-1500",
+      "titel": "Spela schack",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år, 13-15 år, 16-18 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spela-schack-ht26-gottsunda/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-12T15:00:00+02:00",
+      "slut": "2026-10-12T16:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-1-3-aar-2026-2026-10-13-1030",
+      "titel": "Sagostund för barn 1-3 år",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-1-3-aar-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-13T10:30:00+02:00",
+      "slut": "2026-10-13T11:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-graenby-allaktivitetshus-2026-10-14-1000",
+      "titel": "Sagostund på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-graenby-allaktivitetshus/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-14T10:00:00+02:00",
+      "slut": "2026-10-14T10:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-babyrytmik-ht-2026-2026-10-15-1000",
+      "titel": "Babyrytmik",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/babyrytmik-ht-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-15T10:00:00+02:00",
+      "slut": "2026-10-15T11:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagsbibblan-2026-10-15-1500",
+      "titel": "Torsdagsbibblan",
+      "plats": {
+        "namn": "Gottsundabiblioteket, temaverkstaden",
+        "id": "kubik-plats-gottsundabiblioteket-temaverkstaden"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagsbibblan/",
+          "arrangor": "https://bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-15T15:00:00+02:00",
+      "slut": "2026-10-15T16:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagshaeng-2026-10-15-1600",
+      "titel": "Torsdagshäng!",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagshaeng/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-15T16:00:00+02:00",
+      "slut": "2026-10-15T17:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-fredagsmys-2026-2026-10-16-1400",
+      "titel": "Fredagsmys",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-16T14:00:00+02:00",
+      "slut": "2026-10-16T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-ritsagor-2026-10-16-1400",
+      "titel": "Ritsagor",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/ritsagor/",
+          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/97c01eef-d99b-4775-8e12-52c65bc4ee4a?location=Gottsundabiblioteket"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-16T14:00:00+02:00",
+      "slut": "2026-10-16T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-italienska-1-2026-10-17-1130",
+      "titel": "Sagostund på italienska / Ora delle fiabe in italiano",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-italienska-1/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-17T11:30:00+02:00",
+      "slut": "2026-10-17T12:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-ako-stenhagen-2026-10-17-1300",
+      "titel": "Lördagskul: Sjung med Ako!",
+      "plats": {
+        "namn": "Stenhagenbiblioteket",
+        "id": "kubik-plats-stenhagenbiblioteket"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/ako-stenhagen/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-17T13:00:00+02:00",
+      "slut": "2026-10-17T13:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-persiska-2026-10-17-1300",
+      "titel": "Sagostund på persiska / داستان خوانی به زبان فارسی",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-persiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-17T13:00:00+02:00",
+      "slut": "2026-10-17T14:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-vikingaskola-kusliga-sagor-2026-10-17-1400",
+      "titel": "Vikingaskola - Kusliga sagor",
+      "plats": {
+        "namn": "Gamla Uppsala museum",
+        "id": "gamlauppsalamuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/vikingaskola-kusliga-sagor/",
+          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-17T14:00:00+02:00",
+      "slut": "2026-10-17T15:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-uusi-teatteri-2026-10-18-1330",
+      "titel": "Stjärnhimlar – barnteater på finska och svenska",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/uusi-teatteri/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-18T13:30:00+02:00",
+      "slut": "2026-10-18T14:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-vikingaskola-kusliga-sagor-2026-10-18-1400",
+      "titel": "Vikingaskola - Kusliga sagor",
+      "plats": {
+        "namn": "Gamla Uppsala museum",
+        "id": "gamlauppsalamuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/vikingaskola-kusliga-sagor/",
+          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-18T14:00:00+02:00",
+      "slut": "2026-10-18T15:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-spela-schack-ht26-gottsunda-2026-10-19-1500",
+      "titel": "Spela schack",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år, 13-15 år, 16-18 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spela-schack-ht26-gottsunda/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-19T15:00:00+02:00",
+      "slut": "2026-10-19T16:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-1-3-aar-2026-2026-10-20-1030",
+      "titel": "Sagostund för barn 1-3 år",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-1-3-aar-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-20T10:30:00+02:00",
+      "slut": "2026-10-20T11:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-bokklubb-10-13-aar-2026-10-20-1600",
+      "titel": "Bokklubb 10–13 år",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år, 13-15 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/bokklubb-10-13-aar/",
+          "arrangor": "https://bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-20T16:00:00+02:00",
+      "slut": "2026-10-20T16:45:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-graenby-allaktivitetshus-2026-10-21-1000",
+      "titel": "Sagostund på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-graenby-allaktivitetshus/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-21T10:00:00+02:00",
+      "slut": "2026-10-21T10:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-babyrytmik-ht-2026-2026-10-22-1000",
+      "titel": "Babyrytmik",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/babyrytmik-ht-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-22T10:00:00+02:00",
+      "slut": "2026-10-22T11:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagsbibblan-2026-10-22-1500",
+      "titel": "Torsdagsbibblan",
+      "plats": {
+        "namn": "Gottsundabiblioteket, temaverkstaden",
+        "id": "kubik-plats-gottsundabiblioteket-temaverkstaden"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagsbibblan/",
+          "arrangor": "https://bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-22T15:00:00+02:00",
+      "slut": "2026-10-22T16:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagshaeng-2026-10-22-1600",
+      "titel": "Torsdagshäng!",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagshaeng/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-22T16:00:00+02:00",
+      "slut": "2026-10-22T17:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-fredagsmys-2026-2026-10-23-1400",
+      "titel": "Fredagsmys",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-23T14:00:00+02:00",
+      "slut": "2026-10-23T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-braedspelskvaell-2026-10-23-1700",
+      "titel": "Brädspelskväll",
+      "plats": {
+        "namn": "Kulturpunkten, Gottsunda",
+        "id": "kulturpunkten"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/braedspelskvaell/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-23T17:00:00+02:00",
+      "slut": "2026-10-23T19:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-aterbruksverkstad-paa-hoestlovet",
+      "titel": "Återbruksverkstad på Höstlovet",
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/aterbruksverkstad-paa-hoestlovet/",
+          "arrangor": "http://www.biotopia.nu/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "notering": "Återkommande, kl. 11:00–17:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-faagelholkar-hoestkoll-och-nybyggen-2026-10-24-1000",
+      "titel": "Fågelholkar - höstkoll och nybyggen",
+      "plats": {
+        "namn": "Uppsala Naturskola",
+        "id": "kubik-plats-uppsala-naturskola"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/faagelholkar-hoestkoll-och-nybyggen/",
+          "arrangor": "https://www.uppsala.se/kultur-idrott-fritid/evenemang/lordagar-i-hammarskog/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-24T10:00:00+02:00",
+      "slut": "2026-10-24T12:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-trolleriworkshop-storvreta-2026-10-24-1200",
+      "titel": "Trolleriworkshop med Magnus Vihagen",
+      "plats": {
+        "namn": "Storvretabiblioteket",
+        "id": "kubik-plats-storvretabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år, 13-15 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/trolleriworkshop-storvreta/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-24T12:00:00+02:00",
+      "slut": "2026-10-24T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-italiensk-spraakdag-2026-10-24-1230",
+      "titel": "Vi firar den italienska språkveckan i världen!",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/italiensk-spraakdag/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-24T12:30:00+02:00",
+      "slut": "2026-10-24T13:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-skapa-en-mekanisk-leksak-den-skapande-ateljen-2026-10-24-1300",
+      "titel": "Skapa en mekanisk leksak - DEN SKAPANDE ATELJÉN",
+      "plats": {
+        "namn": "Uppsala Konstnärsklubb, Studion",
+        "id": "kubik-plats-uppsala-konstnärsklubb-studion"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/skapa-en-mekanisk-leksak-den-skapande-ateljen/",
+          "arrangor": "https://www.uppsalakonstnarsklubb.se/projekt-och-event/ppen-atelj#Section16"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-24T13:00:00+02:00",
+      "slut": "2026-10-24T16:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-skaparlaeger-paa-hoestlovet",
+      "titel": "Skaparläger på höstlovet",
+      "plats": {
+        "namn": "Orsa Hornberga Gård",
+        "id": "kubik-plats-orsa-hornberga-gård"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "10-12 år, 13-15 år, 16-18 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/skaparlaeger-paa-hoestlovet/",
+          "arrangor": "https://www.hamregarden.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-25",
+      "slut": "2026-10-29",
+      "notering": "Återkommande, kl. 10:00–19:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-sagostund-paa-grekiska-2026-10-25-1500",
+      "titel": "Sagostund på grekiska / Παραμύθια στα ελληνικά",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-grekiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-25T15:00:00+01:00",
+      "slut": "2026-10-25T15:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-innebandylaeger-hoestlov-foer-barn-foedda-2017-18",
+      "titel": "Innebandyläger, höstlov för barn födda 2017-18",
+      "plats": {
+        "namn": "Vänge Sporthall",
+        "id": "kubik-plats-vänge-sporthall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "7-9 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/innebandylaeger-hoestlov-foer-barn-foedda-2017-18/",
+          "arrangor": "https://entry.sportadmin.se/groupsOverview?uid=vhRlKV"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26",
+      "slut": "2026-10-28",
+      "notering": "Återkommande, kl. 09:00–15:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-sloga-uppsalas-hoestlov-skills-basketlaeger-kvarngaerdesskolan",
+      "titel": "Sloga Uppsalas Höstlov Skills Basketläger Kvarngärdesskolan",
+      "plats": {
+        "namn": "Kvarngärdesskolan",
+        "id": "kubik-plats-kvarngärdesskolan"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "10-12 år, 13-15 år, 16-18 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sloga-uppsalas-hoestlov-skills-basketlaeger-kvarngaerdesskolan/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26",
+      "slut": "2026-10-30",
+      "notering": "Återkommande, kl. 09:00–14:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoestlov-mat-och-snacks-paa-vikingatiden",
+      "titel": "Höstlov: Mat och snacks på vikingatiden",
+      "plats": {
+        "namn": "Gamla Uppsala museum",
+        "id": "gamlauppsalamuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-mat-och-snacks-paa-vikingatiden/",
+          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26",
+      "slut": "2026-11-01",
+      "notering": "Återkommande, kl. 12:00–16:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-katarina-jagellonica-500-aar-2026-10-26-1000",
+      "titel": "Katarina Jagellonica 500 år",
+      "plats": {
+        "namn": "Uppsala domkyrka",
+        "id": "domkyrkan"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 5-6 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/katarina-jagellonica-500-aar/",
+          "arrangor": "http://www.uppsaladomkyrka.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26T10:00:00+01:00",
+      "slut": "2026-10-26T11:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-spela-schack-ht26-gottsunda-2026-10-26-1500",
+      "titel": "Spela schack",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år, 13-15 år, 16-18 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spela-schack-ht26-gottsunda/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26T15:00:00+01:00",
+      "slut": "2026-10-26T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-hjaelp-till-att-morgonoeppna-gottsundabiblioteket-2026-10-27-0815",
+      "titel": "Hjälp till att morgonöppna Gottsundabiblioteket!",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hjaelp-till-att-morgonoeppna-gottsundabiblioteket/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-27T08:15:00+01:00",
+      "slut": "2026-10-27T10:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-katarina-jagellonica-500-aar-2026-10-27-1330",
+      "titel": "Katarina Jagellonica 500 år",
+      "plats": {
+        "namn": "Uppsala domkyrka",
+        "id": "domkyrkan"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 5-6 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/katarina-jagellonica-500-aar/",
+          "arrangor": "http://www.uppsaladomkyrka.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-27T13:30:00+01:00",
+      "slut": "2026-10-27T15:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-spoek-och-monsterpyssel-samt-korvgrillning-i-karlssons-kaellare-hammarskog-2026-10-28-1030",
+      "titel": "Spök- och monsterpyssel, samt korvgrillning i Karlssons källare, Hammarskog",
+      "plats": {
+        "namn": "Hammarskogs herrgård, Karlssons källare",
+        "id": "kubik-plats-hammarskogs-herrgård-karlssons-källare"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spoek-och-monsterpyssel-samt-korvgrillning-i-karlssons-kaellare-hammarskog/",
+          "arrangor": "https://www.uppsala.se/kultur-idrott-fritid/evenemang/lordagar-i-hammarskog/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-28T10:30:00+01:00",
+      "slut": "2026-10-28T13:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-innebandylaeger-hoestlov-foer-barn-foedda-2019-20",
+      "titel": "Innebandyläger, höstlov för barn födda 2019-20",
+      "plats": {
+        "namn": "Vänge Sporthall",
+        "id": "kubik-plats-vänge-sporthall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/innebandylaeger-hoestlov-foer-barn-foedda-2019-20/",
+          "arrangor": "https://entry.sportadmin.se/groupsOverview?uid=vhRlKV"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-29",
+      "slut": "2026-10-30",
+      "notering": "Återkommande, kl. 09:00–15:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-babyrytmik-ht-2026-2026-10-29-1000",
+      "titel": "Babyrytmik",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/babyrytmik-ht-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-29T10:00:00+01:00",
+      "slut": "2026-10-29T11:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-fredagsmys-2026-2026-10-30-1400",
+      "titel": "Fredagsmys",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-30T14:00:00+01:00",
+      "slut": "2026-10-30T14:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-brasmys-vid-ostbergstorpet-2026-10-31-1030",
+      "titel": "Brasmys vid Östbergstorpet",
+      "plats": {
+        "namn": "Östbergstorpet, Hammarskog",
+        "id": "kubik-plats-östbergstorpet-hammarskog"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/brasmys-vid-ostbergstorpet/",
+          "arrangor": "https://www.uppsala.se/kultur-idrott-fritid/evenemang/lordagar-i-hammarskog/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-31T10:30:00+01:00",
+      "slut": "2026-10-31T13:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-portugisiska-2026-11-01-1330",
+      "titel": "Sagostund på portugisiska / Contação de histórias em português",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-portugisiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-01T13:30:00+01:00",
+      "slut": "2026-11-01T14:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-graenby-allaktivitetshus-2026-11-04-1000",
+      "titel": "Sagostund på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-graenby-allaktivitetshus/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-04T10:00:00+01:00",
+      "slut": "2026-11-04T10:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-aterbruksverkstad-helgtema-paa-biotopia",
+      "titel": "Återbruksverkstad Helgtema på Biotopia",
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/aterbruksverkstad-helgtema-paa-biotopia/",
+          "arrangor": "http://www.biotopia.nu/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-07",
+      "slut": "2026-11-22",
+      "notering": "Återkommande, kl. 11:00–17:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-sagostund-paa-kinesiska-2026-11-07-1130",
+      "titel": "Sagostund på kinesiska / (汉语角沙龙)",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-kinesiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-07T11:30:00+01:00",
+      "slut": "2026-11-07T12:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-arabiska-2026-11-07-1300",
+      "titel": "Sagostund på arabiska / وقت قراءة القصص باللغة العربية",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-arabiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-07T13:00:00+01:00",
+      "slut": "2026-11-07T13:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-katalanska-2026-11-07-1430",
+      "titel": "Sagostund på katalanska/ L'hora del conte en català",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-katalanska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-07T14:30:00+01:00",
+      "slut": "2026-11-07T15:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-1-3-aar-2026-2026-11-10-1030",
+      "titel": "Sagostund för barn 1-3 år",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-1-3-aar-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-10T10:30:00+01:00",
+      "slut": "2026-11-10T11:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-bokklubb-laesfabriken-ht26-2026-11-10-1600",
+      "titel": "Bokklubb på Läsfabriken",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/bokklubb-laesfabriken-ht26/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-10T16:00:00+01:00",
+      "slut": "2026-11-10T17:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-graenby-allaktivitetshus-2026-11-11-1000",
+      "titel": "Sagostund på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-graenby-allaktivitetshus/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-11T10:00:00+01:00",
+      "slut": "2026-11-11T10:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-babyrytmik-ht-2026-2026-11-12-1000",
+      "titel": "Babyrytmik",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/babyrytmik-ht-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-12T10:00:00+01:00",
+      "slut": "2026-11-12T11:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagsbibblan-2026-11-12-1500",
+      "titel": "Torsdagsbibblan",
+      "plats": {
+        "namn": "Gottsundabiblioteket, temaverkstaden",
+        "id": "kubik-plats-gottsundabiblioteket-temaverkstaden"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagsbibblan/",
+          "arrangor": "https://bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-12T15:00:00+01:00",
+      "slut": "2026-11-12T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagshaeng-2026-11-12-1600",
+      "titel": "Torsdagshäng!",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagshaeng/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-12T16:00:00+01:00",
+      "slut": "2026-11-12T17:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-fredagsmys-2026-2026-11-13-1400",
+      "titel": "Fredagsmys",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-13T14:00:00+01:00",
+      "slut": "2026-11-13T14:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-teckna-med-dina-oegon-den-skapande-ateljen-2026-11-14-1300",
+      "titel": "Teckna - med dina ögon - DEN SKAPANDE ATELJÉN",
+      "plats": {
+        "namn": "Uppsala Konstnärsklubb, Studion",
+        "id": "kubik-plats-uppsala-konstnärsklubb-studion"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/teckna-med-dina-oegon-den-skapande-ateljen/",
+          "arrangor": "https://www.uppsalakonstnarsklubb.se/projekt-och-event/ppen-atelj#Section22"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-14T13:00:00+01:00",
+      "slut": "2026-11-14T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-turkiska-2026-11-15-1330",
+      "titel": "Sagostund på turkiska / Türkçe hikaye zamanı",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-turkiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-15T13:30:00+01:00",
+      "slut": "2026-11-15T14:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-1-3-aar-2026-2026-11-17-1030",
+      "titel": "Sagostund för barn 1-3 år",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-1-3-aar-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-17T10:30:00+01:00",
+      "slut": "2026-11-17T11:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-bokklubb-10-13-aar-2026-11-17-1600",
+      "titel": "Bokklubb 10–13 år",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år, 13-15 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/bokklubb-10-13-aar/",
+          "arrangor": "https://bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-17T16:00:00+01:00",
+      "slut": "2026-11-17T16:45:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-graenby-allaktivitetshus-2026-11-18-1000",
+      "titel": "Sagostund på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-graenby-allaktivitetshus/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-18T10:00:00+01:00",
+      "slut": "2026-11-18T10:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-babyrytmik-ht-2026-2026-11-19-1000",
+      "titel": "Babyrytmik",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/babyrytmik-ht-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-19T10:00:00+01:00",
+      "slut": "2026-11-19T11:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagsbibblan-2026-11-19-1500",
+      "titel": "Torsdagsbibblan",
+      "plats": {
+        "namn": "Gottsundabiblioteket, temaverkstaden",
+        "id": "kubik-plats-gottsundabiblioteket-temaverkstaden"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagsbibblan/",
+          "arrangor": "https://bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-19T15:00:00+01:00",
+      "slut": "2026-11-19T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagshaeng-2026-11-19-1600",
+      "titel": "Torsdagshäng!",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagshaeng/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-19T16:00:00+01:00",
+      "slut": "2026-11-19T17:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-fredagsmys-2026-2026-11-20-1400",
+      "titel": "Fredagsmys",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-20T14:00:00+01:00",
+      "slut": "2026-11-20T14:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-arabiska-gottsunda-2026-11-21-1300",
+      "titel": "Sagostund på arabiska / وقت قراءة القصص باللغة العربية",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-arabiska-gottsunda/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-21T13:00:00+01:00",
+      "slut": "2026-11-21T13:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-tjeckiska-2026-11-21-1430",
+      "titel": "Sagostund på tjeckiska / Čteme české pohádky",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-tjeckiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-21T14:30:00+01:00",
+      "slut": "2026-11-21T15:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-1-3-aar-2026-2026-11-24-1030",
+      "titel": "Sagostund för barn 1-3 år",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-1-3-aar-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-24T10:30:00+01:00",
+      "slut": "2026-11-24T11:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-graenby-allaktivitetshus-2026-11-25-1000",
+      "titel": "Sagostund på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-graenby-allaktivitetshus/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-25T10:00:00+01:00",
+      "slut": "2026-11-25T10:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-visning-foer-foeraeldralediga-mineral-och-kristaller-2026-11-25-1300",
+      "titel": "Visning för föräldralediga: mineral och kristaller",
+      "plats": {
+        "namn": "Evoloutionsmuseet Paleontologi",
+        "id": "kubik-plats-evoloutionsmuseet-paleontologi"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/visning-foer-foeraeldralediga-mineral-och-kristaller/",
+          "arrangor": "https://www.uu.se/evolutionsmuseet/kalendarium/arkiv/2026-11-25-visning-for-foraldralediga-mineral-och-kristaller"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-25T13:00:00+01:00",
+      "slut": "2026-11-25T14:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-babyrytmik-ht-2026-2026-11-26-1000",
+      "titel": "Babyrytmik",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/babyrytmik-ht-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-26T10:00:00+01:00",
+      "slut": "2026-11-26T11:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagsbibblan-2026-11-26-1500",
+      "titel": "Torsdagsbibblan",
+      "plats": {
+        "namn": "Gottsundabiblioteket, temaverkstaden",
+        "id": "kubik-plats-gottsundabiblioteket-temaverkstaden"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagsbibblan/",
+          "arrangor": "https://bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-26T15:00:00+01:00",
+      "slut": "2026-11-26T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagshaeng-2026-11-26-1600",
+      "titel": "Torsdagshäng!",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagshaeng/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-26T16:00:00+01:00",
+      "slut": "2026-11-26T17:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-fredagsmys-2026-2026-11-27-1400",
+      "titel": "Fredagsmys",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-27T14:00:00+01:00",
+      "slut": "2026-11-27T14:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-julmarknad-med-ponnyridning-och-drop-in-vigsel-2026-11-28-1100",
+      "titel": "Julmarknad med ponnyridning och drop-in-vigsel",
+      "plats": {
+        "namn": "Solglimtsparken och Hospitalet",
+        "id": "kubik-plats-solglimtsparken-och-hospitalet"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/julmarknad-med-ponnyridning-och-drop-in-vigsel/",
+          "arrangor": "https://bygg.uppsala.se/planerade-omraden/ulleraker/om-ulleraker/evenemang/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-28T11:00:00+01:00",
+      "slut": "2026-11-28T15:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-italienska-1-2026-11-28-1130",
+      "titel": "Sagostund på italienska / Ora delle fiabe in italiano",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-italienska-1/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-28T11:30:00+01:00",
+      "slut": "2026-11-28T12:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-persiska-2026-11-28-1300",
+      "titel": "Sagostund på persiska / داستان خوانی به زبان فارسی",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-persiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-28T13:00:00+01:00",
+      "slut": "2026-11-28T14:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-grekiska-2026-11-29-1500",
+      "titel": "Sagostund på grekiska / Παραμύθια στα ελληνικά",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-grekiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-29T15:00:00+01:00",
+      "slut": "2026-11-29T15:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-1-3-aar-2026-2026-12-01-1030",
+      "titel": "Sagostund för barn 1-3 år",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-1-3-aar-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-01T10:30:00+01:00",
+      "slut": "2026-12-01T11:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-graenby-allaktivitetshus-2026-12-02-1000",
+      "titel": "Sagostund på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-graenby-allaktivitetshus/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-02T10:00:00+01:00",
+      "slut": "2026-12-02T10:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-babyrytmik-ht-2026-2026-12-03-1000",
+      "titel": "Babyrytmik",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/babyrytmik-ht-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-03T10:00:00+01:00",
+      "slut": "2026-12-03T11:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagsbibblan-2026-12-03-1500",
+      "titel": "Torsdagsbibblan",
+      "plats": {
+        "namn": "Gottsundabiblioteket, temaverkstaden",
+        "id": "kubik-plats-gottsundabiblioteket-temaverkstaden"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagsbibblan/",
+          "arrangor": "https://bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-03T15:00:00+01:00",
+      "slut": "2026-12-03T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagshaeng-2026-12-03-1600",
+      "titel": "Torsdagshäng!",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagshaeng/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-03T16:00:00+01:00",
+      "slut": "2026-12-03T17:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-fredagsmys-2026-2026-12-04-1400",
+      "titel": "Fredagsmys",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-04T14:00:00+01:00",
+      "slut": "2026-12-04T14:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-polska-2026-12-05-1300",
+      "titel": "Sagostund på polska / Czytanie bajek po polsku",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-polska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-05T13:00:00+01:00",
+      "slut": "2026-12-05T13:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-skuggspel-den-skapande-atelje-2026-12-05-1300",
+      "titel": "Skuggspel - DEN SKAPANDE ATELJÉ",
+      "plats": {
+        "namn": "Uppsala Konstnärsklubb, Studion",
+        "id": "kubik-plats-uppsala-konstnärsklubb-studion"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år, 13-15 år, 16-18 år, 19-25 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/skuggspel-den-skapande-atelje/",
+          "arrangor": "https://www.uppsalakonstnarsklubb.se/projekt-och-event/ppen-atelj#Section2"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-05T13:00:00+01:00",
+      "slut": "2026-12-05T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-1-3-aar-2026-2026-12-08-1030",
+      "titel": "Sagostund för barn 1-3 år",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-1-3-aar-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-08T10:30:00+01:00",
+      "slut": "2026-12-08T11:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-bokklubb-laesfabriken-ht26-2026-12-08-1600",
+      "titel": "Bokklubb på Läsfabriken",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/bokklubb-laesfabriken-ht26/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-08T16:00:00+01:00",
+      "slut": "2026-12-08T17:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-graenby-allaktivitetshus-2026-12-09-1000",
+      "titel": "Sagostund på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-graenby-allaktivitetshus/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-09T10:00:00+01:00",
+      "slut": "2026-12-09T10:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-babyrytmik-ht-2026-2026-12-10-1000",
+      "titel": "Babyrytmik",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/babyrytmik-ht-2026/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-10T10:00:00+01:00",
+      "slut": "2026-12-10T11:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagsbibblan-2026-12-10-1500",
+      "titel": "Torsdagsbibblan",
+      "plats": {
+        "namn": "Gottsundabiblioteket, temaverkstaden",
+        "id": "kubik-plats-gottsundabiblioteket-temaverkstaden"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagsbibblan/",
+          "arrangor": "https://bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-10T15:00:00+01:00",
+      "slut": "2026-12-10T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagshaeng-2026-12-10-1600",
+      "titel": "Torsdagshäng!",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagshaeng/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-10T16:00:00+01:00",
+      "slut": "2026-12-10T17:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-kinesiska-2026-12-12-1130",
+      "titel": "Sagostund på kinesiska / (汉语角沙龙)",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-kinesiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-12T11:30:00+01:00",
+      "slut": "2026-12-12T12:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-portugisiska-2026-12-13-1330",
+      "titel": "Sagostund på portugisiska / Contação de histórias em português",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 0-4 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-portugisiska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-13T13:30:00+01:00",
+      "slut": "2026-12-13T14:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-franska-2026-12-13-1500",
+      "titel": "Sagostund på franska/ Le temps d’une histoire en français",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-franska/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-13T15:00:00+01:00",
+      "slut": "2026-12-13T15:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-bokklubb-10-13-aar-2026-12-15-1600",
+      "titel": "Bokklubb 10–13 år",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "kubik-plats-gottsundabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "10-12 år, 13-15 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/bokklubb-10-13-aar/",
+          "arrangor": "https://bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-15T16:00:00+01:00",
+      "slut": "2026-12-15T16:45:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-torsdagsbibblan-2026-12-17-1500",
+      "titel": "Torsdagsbibblan",
+      "plats": {
+        "namn": "Gottsundabiblioteket, temaverkstaden",
+        "id": "kubik-plats-gottsundabiblioteket-temaverkstaden"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "5-6 år, 7-9 år, 10-12 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagsbibblan/",
+          "arrangor": "https://bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-17T15:00:00+01:00",
+      "slut": "2026-12-17T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-braedspelskvaell-2026-12-18-1700",
+      "titel": "Brädspelskväll",
+      "plats": {
+        "namn": "Kulturpunkten, Gottsunda",
+        "id": "kulturpunkten"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "För alla åldrar",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/braedspelskvaell/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-18T17:00:00+01:00",
+      "slut": "2026-12-18T19:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-sagostund-paa-engelska-1-2026-12-19-1130",
+      "titel": "Sångstund på engelska/ Song time in English for kids 0-6 years",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": "0-4 år, 5-6 år",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-engelska-1/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-19T11:30:00+01:00",
+      "slut": "2026-12-19T12:00:00+01:00",
+      "langvarig": false
+    }
+  ]
+}
