@@ -1,34 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-09-24T20:42:07.305Z",
-  "antal": 355,
+  "hamtad": "2026-09-24T21:18:52.936Z",
+  "antal": 354,
   "evenemang": [
-    {
-      "id": "tickster-n57k008690b2llj",
-      "titel": "Gibrish - I spåren av Bob Dylan",
-      "start": "2026-09-24T20:00:00+02:00",
-      "slut": "2026-09-24T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/n57k008690b2llj/2026-09-24/gibrish-i-sparen-av-bob-dylan",
-          "biljetter": "https://secure.tickster.com/sv/n57k008690b2llj"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "tickster-cmf926fnc3pr4wh",
       "titel": "Bj Studentpaket",
@@ -3620,52 +3595,6 @@
       "installd": false
     },
     {
-      "id": "tickster-l2ygdth812avj6e",
-      "titel": "Terra",
-      "start": "2026-10-29",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/l2ygdth812avj6e/2026-10-29/terra",
-          "biljetter": "https://secure.tickster.com/sv/l2ygdth812avj6e"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-l3leggvprmf3rf7",
-      "titel": "Halloween - Höstlovet!",
-      "start": "2026-10-29",
-      "slut": null,
-      "plats": {
-        "namn": "Birger Jarl",
-        "id": "birgerjarl"
-      },
-      "kategori": "natt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/l3leggvprmf3rf7/2026-10-29/halloween-hostlovet",
-          "biljetter": "https://secure.tickster.com/sv/l3leggvprmf3rf7"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "tickster-cxgnyurzvg8h3m9",
       "titel": "Konst & bar: Eija-Liisa Ahtila",
       "start": "2026-10-29T18:00:00+01:00",
@@ -3763,17 +3692,70 @@
       "installd": false
     },
     {
-      "id": "tickster-wke3m53wxa4blbj",
-      "titel": "Från Aladdin till Elsa",
-      "start": "2026-10-30",
-      "slut": null,
+      "id": "tickster-l2ygdth812avj6e",
+      "titel": "Terra",
+      "start": "2026-10-29T20:00:00+01:00",
+      "slut": "2026-10-29T22:00:00+01:00",
       "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
       "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/l2ygdth812avj6e/2026-10-29/terra",
+          "biljetter": "https://secure.tickster.com/sv/l2ygdth812avj6e"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-l3leggvprmf3rf7",
+      "titel": "Halloween - Höstlovet!",
+      "start": "2026-10-29T20:00:00+01:00",
+      "slut": "2026-10-30T00:00:00+01:00",
+      "plats": {
+        "namn": "Birger Jarl",
+        "id": "birgerjarl",
+        "lat": 59.8542,
+        "lng": 17.6377
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/l3leggvprmf3rf7/2026-10-29/halloween-hostlovet",
+          "biljetter": "https://secure.tickster.com/sv/l3leggvprmf3rf7"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-wke3m53wxa4blbj",
+      "titel": "Från Aladdin till Elsa",
+      "start": "2026-10-30T13:00:00+01:00",
+      "slut": "2026-10-30T14:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
       "kallor": [
         {
           "id": "tickster",
@@ -3788,11 +3770,14 @@
     {
       "id": "tickster-n7ju6ftr5f2dkg9",
       "titel": "Elton John meets Freddie Mercury",
-      "start": "2026-10-30",
-      "slut": null,
+      "start": "2026-10-30T19:30:00+01:00",
+      "slut": "2026-10-30T22:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -3811,11 +3796,13 @@
     {
       "id": "tickster-4gyb5n9pxd40zvt",
       "titel": "The Mwuanas",
-      "start": "2026-10-30",
-      "slut": null,
+      "start": "2026-10-30T20:00:00+01:00",
+      "slut": "2026-10-30T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -3834,11 +3821,13 @@
     {
       "id": "tickster-rjd0dnh0e5x2kxj",
       "titel": "Oktoberstämman 2026",
-      "start": "2026-10-31",
-      "slut": null,
+      "start": "2026-10-31T12:00:00+01:00",
+      "slut": "2026-11-01T01:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458
       },
       "kategori": "musik",
       "gratis": null,
@@ -3857,11 +3846,13 @@
     {
       "id": "tickster-pcb532krw06dp97",
       "titel": "Sirius vs Lindås IBK",
-      "start": "2026-10-31",
-      "slut": null,
+      "start": "2026-10-31T17:00:00+01:00",
+      "slut": "2026-10-31T19:00:00+01:00",
       "plats": {
         "namn": "IFU Arena",
-        "id": "ifu"
+        "id": "ifu",
+        "lat": 59.882,
+        "lng": 17.6562
       },
       "kategori": "sport",
       "gratis": null,
@@ -3880,8 +3871,8 @@
     {
       "id": "tickster-z5xyautdevfz9cm",
       "titel": "Will Hoge",
-      "start": "2026-10-31",
-      "slut": null,
+      "start": "2026-10-31T20:00:00+01:00",
+      "slut": "2026-10-31T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -3903,11 +3894,13 @@
     {
       "id": "tickster-fc5nge7c565wkby",
       "titel": "Marky Ramone´s Blitzkrieg",
-      "start": "2026-10-31",
-      "slut": null,
+      "start": "2026-10-31T20:00:00+01:00",
+      "slut": "2026-10-31T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -3926,11 +3919,13 @@
     {
       "id": "tickster-tjj3k405nml7l9p",
       "titel": "Halloween - a sweet but psycho night!",
-      "start": "2026-10-31",
-      "slut": null,
+      "start": "2026-10-31T22:00:00+01:00",
+      "slut": "2026-11-01T02:00:00+01:00",
       "plats": {
         "namn": "Birger Jarl",
-        "id": "birgerjarl"
+        "id": "birgerjarl",
+        "lat": 59.8542,
+        "lng": 17.6377
       },
       "kategori": "natt",
       "gratis": null,
@@ -3949,11 +3944,13 @@
     {
       "id": "tickster-kfyfxrah1edy3hn",
       "titel": "Workshop: Stadskroki",
-      "start": "2026-11-01",
-      "slut": null,
+      "start": "2026-11-01T13:00:00+01:00",
+      "slut": "2026-11-01T15:00:00+01:00",
       "plats": {
         "namn": "Uppsala slottshistoriska",
-        "id": "slottshist"
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
       },
       "kategori": "museum",
       "gratis": null,
@@ -3972,15 +3969,18 @@
     {
       "id": "tickster-n6zu4plvze6vdb8",
       "titel": "Fem myror – Konsert!",
-      "start": "2026-11-01",
-      "slut": null,
+      "start": "2026-11-01T14:00:00+01:00",
+      "slut": "2026-11-01T14:40:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
       "kategori": "musik",
       "gratis": null,
-      "barnOchFamilj": false,
+      "barnOchFamilj": true,
       "kallor": [
         {
           "id": "tickster",
@@ -3995,8 +3995,8 @@
     {
       "id": "tickster-axfwrh6drhg7wa1",
       "titel": "Filosoficafé: Kärlek - om visdom till kärlek",
-      "start": "2026-11-01",
-      "slut": null,
+      "start": "2026-11-01T14:00:00+01:00",
+      "slut": "2026-11-01T15:30:00+01:00",
       "plats": {
         "namn": "Uppsala konstmuseum",
         "id": "konstmuseum"
@@ -4018,11 +4018,14 @@
     {
       "id": "tickster-x29dukujjlzlpt9",
       "titel": "Elvis, Elvis, Elvis! 2026",
-      "start": "2026-11-01",
-      "slut": null,
+      "start": "2026-11-01T18:00:00+01:00",
+      "slut": "2026-11-01T20:50:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -4041,11 +4044,13 @@
     {
       "id": "tickster-hay7utmctlpkd36",
       "titel": "Dungen",
-      "start": "2026-11-01",
-      "slut": null,
+      "start": "2026-11-01T20:00:00+01:00",
+      "slut": "2026-11-01T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -4064,11 +4069,13 @@
     {
       "id": "tickster-lf9epdwruu0hwk5",
       "titel": "Shurman - Klubb Uffe",
-      "start": "2026-11-03",
-      "slut": null,
+      "start": "2026-11-03T20:00:00+01:00",
+      "slut": "2026-11-03T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -4087,11 +4094,13 @@
     {
       "id": "tickster-e8yeczx8a5mjuw6",
       "titel": "Four shades of grey - Bakfickan",
-      "start": "2026-11-03",
-      "slut": null,
+      "start": "2026-11-03T20:00:00+01:00",
+      "slut": "2026-11-03T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -4110,11 +4119,13 @@
     {
       "id": "tickster-f0462pryj6lb4p7",
       "titel": "Hardcore Superstar",
-      "start": "2026-11-04",
-      "slut": null,
+      "start": "2026-11-04T20:00:00+01:00",
+      "slut": "2026-11-04T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -4133,11 +4144,13 @@
     {
       "id": "tickster-h3hznumbfldp6vm",
       "titel": "Yttling Jazz - Jazzbaren",
-      "start": "2026-11-04",
-      "slut": null,
+      "start": "2026-11-04T20:00:00+01:00",
+      "slut": "2026-11-04T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -4156,11 +4169,13 @@
     {
       "id": "tickster-2wgafy94ywbvcn0",
       "titel": "Torsdagskul - Tema: Utter (5/11 & 12/11)",
-      "start": "2026-11-05",
-      "slut": null,
+      "start": "2026-11-05T14:30:00+01:00",
+      "slut": "2026-11-12T15:30:00+01:00",
       "plats": {
         "namn": "Biotopia",
-        "id": "biotopia"
+        "id": "biotopia",
+        "lat": 59.8601,
+        "lng": 17.6223
       },
       "kategori": "museum",
       "gratis": null,
@@ -4173,14 +4188,14 @@
           "biljetter": "https://secure.tickster.com/sv/2wgafy94ywbvcn0"
         }
       ],
-      "langvarig": false,
+      "langvarig": true,
       "installd": false
     },
     {
       "id": "tickster-fj41pzyh2bcfcvd",
       "titel": "Skulpturjogging: Människan i centrum",
-      "start": "2026-11-05",
-      "slut": null,
+      "start": "2026-11-05T17:30:00+01:00",
+      "slut": "2026-11-05T18:30:00+01:00",
       "plats": {
         "namn": "Uppsala",
         "id": "uppsala"
@@ -4202,8 +4217,8 @@
     {
       "id": "tickster-lel0fm5r4kh9wy4",
       "titel": "Lecture dance performance med Anna Pehrsson",
-      "start": "2026-11-05",
-      "slut": null,
+      "start": "2026-11-05T19:00:00+01:00",
+      "slut": "2026-11-05T20:00:00+01:00",
       "plats": {
         "namn": "Uppsala konstmuseum",
         "id": "konstmuseum"
@@ -4225,11 +4240,13 @@
     {
       "id": "tickster-6bc46ugy3bdrj8l",
       "titel": "Föredrag: Maktspelerskan utan land",
-      "start": "2026-11-05",
-      "slut": null,
+      "start": "2026-11-05T19:00:00+01:00",
+      "slut": "2026-11-05T20:00:00+01:00",
       "plats": {
         "namn": "Uppsala slottshistoriska",
-        "id": "slottshist"
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
       },
       "kategori": "prat",
       "gratis": null,
@@ -4248,11 +4265,14 @@
     {
       "id": "tickster-bnjyaey6a6hf328",
       "titel": "Maksim – Segmenti World Tour",
-      "start": "2026-11-05",
-      "slut": null,
+      "start": "2026-11-05T19:30:00+01:00",
+      "slut": "2026-11-05T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -4271,8 +4291,8 @@
     {
       "id": "tickster-mlmuh0r4t1jnkxc",
       "titel": "Zilverzurfarn 70 år - release ny platta",
-      "start": "2026-11-05",
-      "slut": null,
+      "start": "2026-11-05T20:00:00+01:00",
+      "slut": "2026-11-05T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -4294,11 +4314,13 @@
     {
       "id": "tickster-g51txflwbv7058x",
       "titel": "Sirius vs Strängnäs",
-      "start": "2026-11-06",
-      "slut": null,
+      "start": "2026-11-06T19:00:00+01:00",
+      "slut": "2026-11-06T21:00:00+01:00",
       "plats": {
         "namn": "IFU Arena",
-        "id": "ifu"
+        "id": "ifu",
+        "lat": 59.882,
+        "lng": 17.6562
       },
       "kategori": "sport",
       "gratis": null,
@@ -4317,11 +4339,14 @@
     {
       "id": "tickster-gjeb35zxk1cvp2y",
       "titel": "Sven Ingvars – Igår. Idag. Imorgon. 70 år.",
-      "start": "2026-11-06",
-      "slut": null,
+      "start": "2026-11-06T19:00:00+01:00",
+      "slut": "2026-11-06T20:45:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -4340,11 +4365,14 @@
     {
       "id": "tickster-z9kumevvuzjmk4y",
       "titel": "Bach Jazz – Jazzhörnan",
-      "start": "2026-11-06",
-      "slut": null,
+      "start": "2026-11-06T20:00:00+01:00",
+      "slut": "2026-11-06T23:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458,
+        "rum": "Restaurangen/Sal D"
       },
       "kategori": "musik",
       "gratis": null,
@@ -4363,11 +4391,13 @@
     {
       "id": "tickster-j76ykfm0hjvh87g",
       "titel": "Phontrattarnes 70-års jubileum!",
-      "start": "2026-11-06",
-      "slut": null,
+      "start": "2026-11-06T20:00:00+01:00",
+      "slut": "2026-11-06T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -4386,8 +4416,8 @@
     {
       "id": "tickster-xjlxf97wkvpveh2",
       "titel": "En höstkväll med Stina Wollter",
-      "start": "2026-11-06",
-      "slut": null,
+      "start": "2026-11-06T20:00:00+01:00",
+      "slut": "2026-11-06T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -4409,11 +4439,13 @@
     {
       "id": "tickster-bvlznwjvck3514f",
       "titel": "Phontrattarnes 70-års jubileum!",
-      "start": "2026-11-07",
-      "slut": null,
+      "start": "2026-11-07T19:00:00+01:00",
+      "slut": "2026-11-07T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -4432,8 +4464,8 @@
     {
       "id": "tickster-6dzkvv97pc8he95",
       "titel": "Max Lonata Special Edition",
-      "start": "2026-11-07",
-      "slut": null,
+      "start": "2026-11-07T19:30:00+01:00",
+      "slut": "2026-11-07T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -4455,11 +4487,14 @@
     {
       "id": "tickster-2rlj361an8cvmb6",
       "titel": "Creedence Tribute, Best of CCR & John Fogerty Tour",
-      "start": "2026-11-07",
-      "slut": null,
+      "start": "2026-11-07T19:30:00+01:00",
+      "slut": "2026-11-07T21:50:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -4478,13 +4513,16 @@
     {
       "id": "tickster-vvp6vcprfmc35g6",
       "titel": "Kaeli Abdi – Påskkärringen",
-      "start": "2026-11-07",
-      "slut": null,
+      "start": "2026-11-07T20:00:00+01:00",
+      "slut": "2026-11-07T21:15:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -4501,11 +4539,14 @@
     {
       "id": "tickster-g1u3ek9f41t9ke7",
       "titel": "Pussy Riot – Riot Days",
-      "start": "2026-11-07",
-      "slut": null,
+      "start": "2026-11-07T21:30:00+01:00",
+      "slut": "2026-11-07T23:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458,
+        "rum": "Sal D (ståplats)"
       },
       "kategori": "musik",
       "gratis": null,
@@ -4524,8 +4565,8 @@
     {
       "id": "tickster-yfuurubx7e7c2ah",
       "titel": "Familjekonsert: Gärna ville jag vara ett träd",
-      "start": "2026-11-08",
-      "slut": null,
+      "start": "2026-11-08T14:00:00+01:00",
+      "slut": "2026-11-08T15:00:00+01:00",
       "plats": {
         "namn": "Uppsala konstmuseum",
         "id": "konstmuseum"
@@ -4547,11 +4588,14 @@
     {
       "id": "tickster-drhyu0rfv9lfk7r",
       "titel": "Linnékvintetten 40 år – Jubileumskonsert",
-      "start": "2026-11-08",
-      "slut": null,
+      "start": "2026-11-08T16:00:00+01:00",
+      "slut": "2026-11-08T18:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
       "kategori": "musik",
       "gratis": null,
@@ -4570,11 +4614,14 @@
     {
       "id": "tickster-fncy478lctthnvj",
       "titel": "Jag är Carola – En musikalisk unik livsberättelse",
-      "start": "2026-11-08",
-      "slut": null,
+      "start": "2026-11-08T19:30:00+01:00",
+      "slut": "2026-11-08T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "scen",
       "gratis": null,
@@ -4593,11 +4640,13 @@
     {
       "id": "tickster-zwj0zgdxm9jkyjy",
       "titel": "Jesper Lindell & Brunnsvik Sounds - Klubb Uffe",
-      "start": "2026-11-10",
-      "slut": null,
+      "start": "2026-11-10T20:00:00+01:00",
+      "slut": "2026-11-10T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -4616,11 +4665,13 @@
     {
       "id": "tickster-kb7m0pnpp34l20x",
       "titel": "Klas Toresson Konsert och jamsession!!!!",
-      "start": "2026-11-11",
-      "slut": null,
+      "start": "2026-11-11T20:00:00+01:00",
+      "slut": "2026-11-11T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -4639,11 +4690,13 @@
     {
       "id": "tickster-hu3dyzhnhg35bvt",
       "titel": "Rotting Christ",
-      "start": "2026-11-11",
-      "slut": null,
+      "start": "2026-11-11T20:00:00+01:00",
+      "slut": "2026-11-11T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -4662,11 +4715,13 @@
     {
       "id": "tickster-3kpne7exwtlge3l",
       "titel": "Happy Birthday Neil Young!",
-      "start": "2026-11-11",
-      "slut": null,
+      "start": "2026-11-11T20:00:00+01:00",
+      "slut": "2026-11-11T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8603,
+        "lng": 17.6456
       },
       "kategori": "musik",
       "gratis": null,
@@ -4685,11 +4740,13 @@
     {
       "id": "tickster-7t555zhjtwlcfww",
       "titel": "Visning: Historiska Uppsalavyer",
-      "start": "2026-11-12",
-      "slut": null,
+      "start": "2026-11-12T18:30:00+01:00",
+      "slut": "2026-11-12T19:30:00+01:00",
       "plats": {
         "namn": "Uppsala slottshistoriska",
-        "id": "slottshist"
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
       },
       "kategori": "museum",
       "gratis": null,
@@ -4708,8 +4765,8 @@
     {
       "id": "tickster-lldm69e514y6chn",
       "titel": "SLOW RIFFS / FIVE STAGES OF YES",
-      "start": "2026-11-12",
-      "slut": null,
+      "start": "2026-11-12T19:00:00+01:00",
+      "slut": "2026-11-12T20:00:00+01:00",
       "plats": {
         "namn": "Uppsala konstmuseum",
         "id": "konstmuseum"
@@ -4731,11 +4788,14 @@
     {
       "id": "tickster-n058199npjlghnn",
       "titel": "The Simon & Garfunkel Story",
-      "start": "2026-11-12",
-      "slut": null,
+      "start": "2026-11-12T19:30:00+01:00",
+      "slut": "2026-11-12T21:50:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -4754,11 +4814,13 @@
     {
       "id": "tickster-7m443cyl9c54uk1",
       "titel": "Happy Birthday Neil Young!",
-      "start": "2026-11-12",
-      "slut": null,
+      "start": "2026-11-12T20:00:00+01:00",
+      "slut": "2026-11-12T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8603,
+        "lng": 17.6456
       },
       "kategori": "musik",
       "gratis": null,
@@ -4777,11 +4839,13 @@
     {
       "id": "tickster-agj66wep02bpn2d",
       "titel": "GERD",
-      "start": "2026-11-12",
-      "slut": null,
+      "start": "2026-11-12T20:00:00+01:00",
+      "slut": "2026-11-12T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -4800,8 +4864,8 @@
     {
       "id": "tickster-3jxaj917cyx9759",
       "titel": "Mats/Morgan/Henrik",
-      "start": "2026-11-13",
-      "slut": null,
+      "start": "2026-11-13T19:30:00+01:00",
+      "slut": "2026-11-13T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -4823,13 +4887,16 @@
     {
       "id": "tickster-hd0xp7td8k4554a",
       "titel": "Christoffer Nyqvist – Lejonet från Norden",
-      "start": "2026-11-13",
-      "slut": null,
+      "start": "2026-11-13T19:30:00+01:00",
+      "slut": "2026-11-13T20:45:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -4846,11 +4913,13 @@
     {
       "id": "tickster-rmgj8y2mgvljcmb",
       "titel": "Les Big Byrd",
-      "start": "2026-11-13",
-      "slut": null,
+      "start": "2026-11-13T20:00:00+01:00",
+      "slut": "2026-11-13T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -4869,11 +4938,13 @@
     {
       "id": "tickster-bl9nydw5a9xa9tm",
       "titel": "Trinity",
-      "start": "2026-11-13",
-      "slut": null,
+      "start": "2026-11-13T20:00:00+01:00",
+      "slut": "2026-11-13T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -4892,8 +4963,8 @@
     {
       "id": "tickster-1a2xndbynpjnu71",
       "titel": "Mats/Morgan/Henrik",
-      "start": "2026-11-14",
-      "slut": null,
+      "start": "2026-11-14T19:30:00+01:00",
+      "slut": "2026-11-14T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -4915,11 +4986,13 @@
     {
       "id": "tickster-kr8mp1x0x3ftb6x",
       "titel": "Jonas Lundqvist",
-      "start": "2026-11-14",
-      "slut": null,
+      "start": "2026-11-14T20:00:00+01:00",
+      "slut": "2026-11-14T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -4938,11 +5011,13 @@
     {
       "id": "tickster-f7fxnztxa068avz",
       "titel": "Dessi Hietala – Sveriges sämsta norrlänning",
-      "start": "2026-11-14",
-      "slut": null,
+      "start": "2026-11-14T20:00:00+01:00",
+      "slut": "2026-11-14T21:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8598,
+        "lng": 17.6459
       },
       "kategori": "musik",
       "gratis": null,
@@ -4961,8 +5036,8 @@
     {
       "id": "tickster-jnzthcumj2pgct4",
       "titel": "Filosoficafé: Atmosfären – om vädrets lek och makt",
-      "start": "2026-11-15",
-      "slut": null,
+      "start": "2026-11-15T14:00:00+01:00",
+      "slut": "2026-11-15T15:30:00+01:00",
       "plats": {
         "namn": "Uppsala konstmuseum",
         "id": "konstmuseum"
@@ -4984,11 +5059,13 @@
     {
       "id": "tickster-bjv49wfceyjyeef",
       "titel": "Moonica Mac",
-      "start": "2026-11-17",
-      "slut": null,
+      "start": "2026-11-17T20:00:00+01:00",
+      "slut": "2026-11-17T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -5007,11 +5084,13 @@
     {
       "id": "tickster-93lgrljfzgyhazj",
       "titel": "Moonica Mac - Extrakonsert",
-      "start": "2026-11-18",
-      "slut": null,
+      "start": "2026-11-18T20:00:00+01:00",
+      "slut": "2026-11-18T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -5030,11 +5109,14 @@
     {
       "id": "tickster-6rd9lm2gtxk9ugn",
       "titel": "Det idéala – Vad är en plats?",
-      "start": "2026-11-19",
-      "slut": null,
+      "start": "2026-11-19T18:30:00+01:00",
+      "slut": "2026-11-19T20:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458,
+        "rum": "Restaurangen/Sal D"
       },
       "kategori": "musik",
       "gratis": null,
@@ -5053,13 +5135,16 @@
     {
       "id": "tickster-lbf49tfupxa3z0z",
       "titel": "GROOVE",
-      "start": "2026-11-19",
-      "slut": null,
+      "start": "2026-11-19T19:00:00+01:00",
+      "slut": "2026-11-19T20:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -5076,8 +5161,8 @@
     {
       "id": "tickster-w4ml1mwgut1xby1",
       "titel": "Konsert: Alva Press Kvartett",
-      "start": "2026-11-19",
-      "slut": null,
+      "start": "2026-11-19T19:00:00+01:00",
+      "slut": "2026-11-19T20:00:00+01:00",
       "plats": {
         "namn": "Uppsala konstmuseum",
         "id": "konstmuseum"
@@ -5099,11 +5184,14 @@
     {
       "id": "tickster-n8zvr142drx3cya",
       "titel": "Ana Moura – Fado utan gränser",
-      "start": "2026-11-19",
-      "slut": null,
+      "start": "2026-11-19T19:30:00+01:00",
+      "slut": "2026-11-19T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -5122,11 +5210,13 @@
     {
       "id": "tickster-jbxpthwt3hz4nv2",
       "titel": "Atomic Swing",
-      "start": "2026-11-19",
-      "slut": null,
+      "start": "2026-11-19T20:00:00+01:00",
+      "slut": "2026-11-19T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -5145,11 +5235,14 @@
     {
       "id": "tickster-uzkc89k7ez5zrn9",
       "titel": "Lunchkonsert – Enkel, vacker, öm",
-      "start": "2026-11-20",
-      "slut": null,
+      "start": "2026-11-20T12:15:00+01:00",
+      "slut": "2026-11-20T13:15:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
       "kategori": "musik",
       "gratis": null,
@@ -5168,11 +5261,14 @@
     {
       "id": "tickster-w1fhg0kklbgwkv5",
       "titel": "Hansson de Wolfe United",
-      "start": "2026-11-20",
-      "slut": null,
+      "start": "2026-11-20T19:30:00+01:00",
+      "slut": "2026-11-20T21:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -5191,11 +5287,13 @@
     {
       "id": "tickster-njg90jma3embk0c",
       "titel": "En kväll på operan",
-      "start": "2026-11-20",
-      "slut": null,
+      "start": "2026-11-20T20:00:00+01:00",
+      "slut": "2026-11-20T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "scen",
       "gratis": null,
@@ -5214,11 +5312,13 @@
     {
       "id": "tickster-vtd7m1f2dbkb92e",
       "titel": "Hardline",
-      "start": "2026-11-20",
-      "slut": null,
+      "start": "2026-11-20T20:00:00+01:00",
+      "slut": "2026-11-20T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -5237,11 +5337,13 @@
     {
       "id": "tickster-p0f85rd2utcn7b5",
       "titel": "Pascal",
-      "start": "2026-11-20",
-      "slut": null,
+      "start": "2026-11-20T20:00:00+01:00",
+      "slut": "2026-11-20T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -5260,8 +5362,8 @@
     {
       "id": "tickster-dca4ve7tbt6fapc",
       "titel": "Aron",
-      "start": "2026-11-21",
-      "slut": null,
+      "start": "2026-11-21T19:30:00+01:00",
+      "slut": "2026-11-21T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -5283,13 +5385,16 @@
     {
       "id": "tickster-r3bvjlc43u2zf45",
       "titel": "Per Andersson – Kardborreshowen",
-      "start": "2026-11-21",
-      "slut": null,
+      "start": "2026-11-21T19:30:00+01:00",
+      "slut": "2026-11-21T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -5306,11 +5411,13 @@
     {
       "id": "tickster-lyteel2l67pdxfr",
       "titel": "UPPSALA BLUES FESTIVAL",
-      "start": "2026-11-21",
-      "slut": null,
+      "start": "2026-11-21T20:00:00+01:00",
+      "slut": "2026-11-21T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -5329,11 +5436,13 @@
     {
       "id": "tickster-d68bdjx9zu6uh44",
       "titel": "Shadows Tribute - Katalins Bakficka",
-      "start": "2026-11-21",
-      "slut": null,
+      "start": "2026-11-21T20:00:00+01:00",
+      "slut": "2026-11-21T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -5352,11 +5461,14 @@
     {
       "id": "tickster-cxjuc093yvbnyul",
       "titel": "Poste Restante 22/11",
-      "start": "2026-11-22",
-      "slut": null,
+      "start": "2026-11-22T16:00:00+01:00",
+      "slut": "2026-11-22T18:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
       "kategori": "musik",
       "gratis": null,
@@ -5375,11 +5487,14 @@
     {
       "id": "tickster-uj90utypjpun05a",
       "titel": "Niklas Strömstedt – Tyck OM mig",
-      "start": "2026-11-22",
-      "slut": null,
+      "start": "2026-11-22T16:00:00+01:00",
+      "slut": "2026-11-22T17:40:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -5398,8 +5513,8 @@
     {
       "id": "tickster-rfc3uc9t99w1eh0",
       "titel": "LOVIS",
-      "start": "2026-11-22",
-      "slut": null,
+      "start": "2026-11-22T19:00:00+01:00",
+      "slut": "2026-11-22T21:00:00+01:00",
       "plats": {
         "namn": "The Kaliber Room",
         "id": "kaliber"
@@ -5421,11 +5536,13 @@
     {
       "id": "tickster-dxfaf6fvbvyz4tz",
       "titel": "Den Eviga Ungdomens Stad - Rimeika hyllar Uppsala",
-      "start": "2026-11-25",
-      "slut": null,
+      "start": "2026-11-25T20:00:00+01:00",
+      "slut": "2026-11-25T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -5444,8 +5561,8 @@
     {
       "id": "tickster-bt0h780evxam345",
       "titel": "Sopplunch: Carl Fredrik Hill – Vi följer dina spår",
-      "start": "2026-11-26",
-      "slut": null,
+      "start": "2026-11-26T12:00:00+01:00",
+      "slut": "2026-11-26T13:00:00+01:00",
       "plats": {
         "namn": "Uppsala konstmuseum",
         "id": "konstmuseum"
@@ -5467,11 +5584,13 @@
     {
       "id": "tickster-r61x43pmf68p8zj",
       "titel": "Torsdagskul - Tema: Solsystemet (26/11 & 3/12)",
-      "start": "2026-11-26",
-      "slut": null,
+      "start": "2026-11-26T14:30:00+01:00",
+      "slut": "2026-12-03T15:30:00+01:00",
       "plats": {
         "namn": "Biotopia",
-        "id": "biotopia"
+        "id": "biotopia",
+        "lat": 59.8601,
+        "lng": 17.6223
       },
       "kategori": "museum",
       "gratis": null,
@@ -5484,14 +5603,14 @@
           "biljetter": "https://secure.tickster.com/sv/r61x43pmf68p8zj"
         }
       ],
-      "langvarig": false,
+      "langvarig": true,
       "installd": false
     },
     {
       "id": "tickster-13v7ayry6hfx492",
       "titel": "Konst & bar: Grafik och keramik",
-      "start": "2026-11-26",
-      "slut": null,
+      "start": "2026-11-26T18:00:00+01:00",
+      "slut": "2026-11-26T20:00:00+01:00",
       "plats": {
         "namn": "Uppsala",
         "id": "uppsala"
@@ -5513,11 +5632,13 @@
     {
       "id": "tickster-1xxrv9tgpg4bw8f",
       "titel": "History and bar: Nordens modernaste fästning?",
-      "start": "2026-11-26",
-      "slut": null,
+      "start": "2026-11-26T18:00:00+01:00",
+      "slut": "2026-11-26T20:00:00+01:00",
       "plats": {
         "namn": "Uppsala slottshistoriska",
-        "id": "slottshist"
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
       },
       "kategori": "museum",
       "gratis": null,
@@ -5536,11 +5657,14 @@
     {
       "id": "tickster-mfa1udu502x141m",
       "titel": "City Lights – Uppsala Kammarorkester",
-      "start": "2026-11-26",
-      "slut": null,
+      "start": "2026-11-26T19:00:00+01:00",
+      "slut": "2026-11-26T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -5559,8 +5683,8 @@
     {
       "id": "tickster-4wm772axpl1pc9n",
       "titel": "Live podcast: Sammanvävda livsvärldar",
-      "start": "2026-11-26",
-      "slut": null,
+      "start": "2026-11-26T19:00:00+01:00",
+      "slut": "2026-11-26T20:00:00+01:00",
       "plats": {
         "namn": "Uppsala konstmuseum",
         "id": "konstmuseum"
@@ -5582,11 +5706,13 @@
     {
       "id": "tickster-8xf2tkzkgdprvd9",
       "titel": "Mia Karlsson – Coming Home Tour 2026",
-      "start": "2026-11-26",
-      "slut": null,
+      "start": "2026-11-26T20:00:00+01:00",
+      "slut": "2026-11-26T21:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8598,
+        "lng": 17.6459
       },
       "kategori": "musik",
       "gratis": null,
@@ -5605,11 +5731,13 @@
     {
       "id": "tickster-f2b1p11merey76h",
       "titel": "Den Svenska Björnstammen",
-      "start": "2026-11-26",
-      "slut": null,
+      "start": "2026-11-26T20:00:00+01:00",
+      "slut": "2026-11-26T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -5628,11 +5756,14 @@
     {
       "id": "tickster-wxjdebfv4l3kght",
       "titel": "Framtidsdagen 2026 – Se längre än alla andra",
-      "start": "2026-11-27",
-      "slut": null,
+      "start": "2026-11-27T07:30:00+01:00",
+      "slut": "2026-11-27T13:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458,
+        "rum": "Sal B (fri sittplats)"
       },
       "kategori": "musik",
       "gratis": null,
@@ -5651,11 +5782,13 @@
     {
       "id": "tickster-p3r6wnt9aj2vb5t",
       "titel": "Ölprovning - 27 november",
-      "start": "2026-11-27",
-      "slut": null,
+      "start": "2026-11-27T18:00:00+01:00",
+      "slut": "2026-11-27T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Brygghus",
-        "id": "brygghus"
+        "id": "brygghus",
+        "lat": 59.8543,
+        "lng": 17.6631
       },
       "kategori": "mat",
       "gratis": null,
@@ -5674,11 +5807,13 @@
     {
       "id": "tickster-ytny4jyvdvwcuun",
       "titel": "Ölprovning - 18 december",
-      "start": "2026-11-27",
-      "slut": null,
+      "start": "2026-11-27T18:00:00+01:00",
+      "slut": "2026-11-27T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Brygghus",
-        "id": "brygghus"
+        "id": "brygghus",
+        "lat": 59.8543,
+        "lng": 17.6631
       },
       "kategori": "mat",
       "gratis": null,
@@ -5697,11 +5832,13 @@
     {
       "id": "tickster-dypwy88b3nyd7xl",
       "titel": "Den Svenska Björnstammen",
-      "start": "2026-11-27",
-      "slut": null,
+      "start": "2026-11-27T20:00:00+01:00",
+      "slut": "2026-11-27T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -5720,11 +5857,13 @@
     {
       "id": "tickster-3adxb3zp82edf3r",
       "titel": "Gustavz Orkester – Bakfickan",
-      "start": "2026-11-27",
-      "slut": null,
+      "start": "2026-11-27T20:00:00+01:00",
+      "slut": "2026-11-27T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -5743,13 +5882,16 @@
     {
       "id": "tickster-x8k0b610pnll0gp",
       "titel": "Evigt Edvin – Edvin Törnblom",
-      "start": "2026-11-27",
-      "slut": null,
+      "start": "2026-11-27T21:00:00+01:00",
+      "slut": "2026-11-27T22:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -5766,8 +5908,8 @@
     {
       "id": "tickster-4zmlk10e3xnlfj2",
       "titel": "Familjelördag: Måla självporträtt (från 5 år)",
-      "start": "2026-11-28",
-      "slut": null,
+      "start": "2026-11-28T13:30:00+01:00",
+      "slut": "2026-11-28T15:00:00+01:00",
       "plats": {
         "namn": "Uppsala konstmuseum",
         "id": "konstmuseum"
@@ -5789,11 +5931,11 @@
     {
       "id": "tickster-yag7vm5ypkr2pgp",
       "titel": "I ett vinterland",
-      "start": "2026-11-28",
-      "slut": null,
+      "start": "2026-11-28T18:00:00+01:00",
+      "slut": "2026-11-28T19:30:00+01:00",
       "plats": {
         "namn": "Uppsala pingstkyrka",
-        "id": "tickster-plats-uppsala-pingstkyrka"
+        "id": "tickster-plats-pn1zlw5700cc3dm"
       },
       "kategori": "ovrigt",
       "gratis": null,
@@ -5812,8 +5954,8 @@
     {
       "id": "tickster-tb2gnm1jzu5ph5v",
       "titel": "Vivian Buczek Quartet",
-      "start": "2026-11-28",
-      "slut": null,
+      "start": "2026-11-28T19:30:00+01:00",
+      "slut": "2026-11-28T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -5835,11 +5977,13 @@
     {
       "id": "tickster-zj9z073x7lux5jm",
       "titel": "Maggie Reilly & Cutting Crew Trio",
-      "start": "2026-11-28",
-      "slut": null,
+      "start": "2026-11-28T20:00:00+01:00",
+      "slut": "2026-11-28T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -5858,11 +6002,13 @@
     {
       "id": "tickster-hnvxczyuh19axt4",
       "titel": "PEPPERBYRDS på Katalins Bakficka",
-      "start": "2026-11-28",
-      "slut": null,
+      "start": "2026-11-28T20:00:00+01:00",
+      "slut": "2026-11-28T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -5881,8 +6027,8 @@
     {
       "id": "tickster-944n6ccvvhv5hv4",
       "titel": "NOSTALGIKLUBBEN",
-      "start": "2026-11-28",
-      "slut": null,
+      "start": "2026-11-28T21:00:00+01:00",
+      "slut": "2026-11-29T02:00:00+01:00",
       "plats": {
         "namn": "Flustret",
         "id": "flustret"
@@ -5904,11 +6050,13 @@
     {
       "id": "tickster-uupp1n1az1tbb3y",
       "titel": "Sirius vs Vetlanda IBF",
-      "start": "2026-11-29",
-      "slut": null,
+      "start": "2026-11-29T14:00:00+01:00",
+      "slut": "2026-11-29T16:00:00+01:00",
       "plats": {
         "namn": "IFU Arena",
-        "id": "ifu"
+        "id": "ifu",
+        "lat": 59.882,
+        "lng": 17.6562
       },
       "kategori": "sport",
       "gratis": null,
@@ -5927,13 +6075,16 @@
     {
       "id": "tickster-vb32w5zdxu5a0a1",
       "titel": "Nötknäpparen med International Festival Ballet",
-      "start": "2026-11-29",
-      "slut": null,
+      "start": "2026-11-29T15:00:00+01:00",
+      "slut": "2026-11-29T17:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -5950,11 +6101,14 @@
     {
       "id": "tickster-4rrya293mdgu5xd",
       "titel": "Christmas in Ireland",
-      "start": "2026-11-30",
-      "slut": null,
+      "start": "2026-11-30T19:00:00+01:00",
+      "slut": "2026-11-30T20:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -5973,11 +6127,13 @@
     {
       "id": "tickster-94lydx74zkjz6n7",
       "titel": "DANIEL LANTZ QUARTET ft. SARA ENGLUND",
-      "start": "2026-12-01",
-      "slut": null,
+      "start": "2026-12-01T20:00:00+01:00",
+      "slut": "2026-12-01T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -5996,11 +6152,13 @@
     {
       "id": "tickster-6654u6zlkw7y6m7",
       "titel": "Konsert: Drottningens virtuoser",
-      "start": "2026-12-02",
-      "slut": null,
+      "start": "2026-12-02T19:00:00+01:00",
+      "slut": "2026-12-02T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala slottshistoriska",
-        "id": "slottshist"
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
       },
       "kategori": "musik",
       "gratis": null,
@@ -6019,11 +6177,14 @@
     {
       "id": "tickster-cglvjnx0d3rd7x9",
       "titel": "Toussaint Chiza",
-      "start": "2026-12-02",
-      "slut": null,
+      "start": "2026-12-02T19:30:00+01:00",
+      "slut": "2026-12-02T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6042,11 +6203,13 @@
     {
       "id": "tickster-8g8b38tkxtlz0a8",
       "titel": "Amanda Ginsburg - Det är jul nu igen",
-      "start": "2026-12-02",
-      "slut": null,
+      "start": "2026-12-02T20:00:00+01:00",
+      "slut": "2026-12-02T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -6065,11 +6228,13 @@
     {
       "id": "tickster-x5x5dy9ab9a89jy",
       "titel": "Livets Orkester i Bakfickan",
-      "start": "2026-12-02",
-      "slut": null,
+      "start": "2026-12-02T20:00:00+01:00",
+      "slut": "2026-12-02T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -6088,13 +6253,16 @@
     {
       "id": "tickster-74b9bpdvmg68pl8",
       "titel": "Kulturfrukost – Klimatsmart kultur i praktiken",
-      "start": "2026-12-03",
-      "slut": null,
+      "start": "2026-12-03T08:00:00+01:00",
+      "slut": "2026-12-03T09:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458,
+        "rum": "Restaurangen/Sal D"
       },
-      "kategori": "mat",
+      "kategori": "prat",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -6111,11 +6279,14 @@
     {
       "id": "tickster-pdngmntpcm5ftrb",
       "titel": "Seinabo Sey",
-      "start": "2026-12-03",
-      "slut": null,
+      "start": "2026-12-03T19:30:00+01:00",
+      "slut": "2026-12-03T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6134,11 +6305,13 @@
     {
       "id": "tickster-c5mwgtfxmh27cma",
       "titel": "Fröken Elvis Jul",
-      "start": "2026-12-03",
-      "slut": null,
+      "start": "2026-12-03T20:00:00+01:00",
+      "slut": "2026-12-03T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -6157,11 +6330,14 @@
     {
       "id": "tickster-m1yg424yr7bkpeh",
       "titel": "Christmas Night",
-      "start": "2026-12-04",
-      "slut": null,
+      "start": "2026-12-04T19:00:00+01:00",
+      "slut": "2026-12-04T21:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6180,11 +6356,13 @@
     {
       "id": "tickster-wvbb07338wr1fzt",
       "titel": "Julen enligt Timo – Uppsala",
-      "start": "2026-12-04",
-      "slut": null,
+      "start": "2026-12-04T20:00:00+01:00",
+      "slut": "2026-12-04T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8598,
+        "lng": 17.6459
       },
       "kategori": "musik",
       "gratis": null,
@@ -6203,11 +6381,13 @@
     {
       "id": "tickster-hr4k0nrulzxhhd7",
       "titel": "The Fantastic Four - A Motown Christmas - Uppsala",
-      "start": "2026-12-04",
-      "slut": null,
+      "start": "2026-12-04T20:00:00+01:00",
+      "slut": "2026-12-04T21:30:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8598,
+        "lng": 17.6459
       },
       "kategori": "musik",
       "gratis": null,
@@ -6226,13 +6406,16 @@
     {
       "id": "tickster-49b3lg68zpnvcbn",
       "titel": "Isprinsessan – julbalett med stråkkvartett",
-      "start": "2026-12-05",
-      "slut": null,
+      "start": "2026-12-05T16:00:00+01:00",
+      "slut": "2026-12-05T18:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -6249,8 +6432,8 @@
     {
       "id": "tickster-8gx1caf6umuzre4",
       "titel": "Exklusiv julmiddag i magisk miljö",
-      "start": "2026-12-05",
-      "slut": null,
+      "start": "2026-12-05T16:00:00+01:00",
+      "slut": "2026-12-05T22:00:00+01:00",
       "plats": {
         "namn": "KAIJA, Stallet",
         "id": "kaija",
@@ -6273,8 +6456,8 @@
     {
       "id": "tickster-612d5a0zwx467e7",
       "titel": "Daniel Karlssson Trio",
-      "start": "2026-12-05",
-      "slut": null,
+      "start": "2026-12-05T19:30:00+01:00",
+      "slut": "2026-12-05T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -6296,11 +6479,13 @@
     {
       "id": "tickster-jz54x83e4617292",
       "titel": "Pernilla Andersson - Vintersånger från Garbo",
-      "start": "2026-12-05",
-      "slut": null,
+      "start": "2026-12-05T20:00:00+01:00",
+      "slut": "2026-12-05T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -6319,11 +6504,13 @@
     {
       "id": "tickster-rah561y9xppak5k",
       "titel": "The Blues Uppsala - Bergman Blues",
-      "start": "2026-12-05",
-      "slut": null,
+      "start": "2026-12-05T20:00:00+01:00",
+      "slut": "2026-12-05T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -6342,8 +6529,8 @@
     {
       "id": "tickster-mfpb2td9dza5c6h",
       "titel": "Dans: ITNOS",
-      "start": "2026-12-06",
-      "slut": null,
+      "start": "2026-12-06T15:00:00+01:00",
+      "slut": "2026-12-06T15:30:00+01:00",
       "plats": {
         "namn": "Uppsala konstmuseum",
         "id": "konstmuseum"
@@ -6365,11 +6552,13 @@
     {
       "id": "tickster-ur67mwry64zh24r",
       "titel": "UUJO - Swinging Christmas",
-      "start": "2026-12-08",
-      "slut": null,
+      "start": "2026-12-08T20:00:00+01:00",
+      "slut": "2026-12-08T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -6388,11 +6577,14 @@
     {
       "id": "tickster-w96v0u2kpy9j66g",
       "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
-      "start": "2026-12-09",
-      "slut": null,
+      "start": "2026-12-09T18:30:00+01:00",
+      "slut": "2026-12-09T22:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458,
+        "rum": "Restaurangen/Sal D"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6411,11 +6603,14 @@
     {
       "id": "tickster-d0rb9tjhm3fggbt",
       "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
-      "start": "2026-12-09",
-      "slut": null,
+      "start": "2026-12-09T18:30:00+01:00",
+      "slut": "2026-12-12T22:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458,
+        "rum": "Restaurangen/Sal D"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6428,17 +6623,20 @@
           "biljetter": "https://secure.tickster.com/sv/d0rb9tjhm3fggbt"
         }
       ],
-      "langvarig": false,
+      "langvarig": true,
       "installd": false
     },
     {
       "id": "tickster-c7c2latx1g4m045",
       "titel": "Weeping Willows – Christmas",
-      "start": "2026-12-09",
-      "slut": null,
+      "start": "2026-12-09T19:30:00+01:00",
+      "slut": "2026-12-09T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6457,8 +6655,8 @@
     {
       "id": "tickster-3t5m7pt0g4yp81p",
       "titel": "Mats Holmquist och Strix Big Band",
-      "start": "2026-12-09",
-      "slut": null,
+      "start": "2026-12-09T19:30:00+01:00",
+      "slut": "2026-12-09T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -6480,11 +6678,13 @@
     {
       "id": "tickster-h029ng1tbzhfndg",
       "titel": "Markus Ahlberg Konsert och jamsession!!!!",
-      "start": "2026-12-09",
-      "slut": null,
+      "start": "2026-12-09T20:00:00+01:00",
+      "slut": "2026-12-09T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -6503,11 +6703,13 @@
     {
       "id": "tickster-ft7xpcb55hl2v47",
       "titel": "Torsdagskul - Avslutning: Nobelfest!",
-      "start": "2026-12-10",
-      "slut": null,
+      "start": "2026-12-10T14:30:00+01:00",
+      "slut": "2026-12-10T15:30:00+01:00",
       "plats": {
         "namn": "Biotopia",
-        "id": "biotopia"
+        "id": "biotopia",
+        "lat": 59.8601,
+        "lng": 17.6223
       },
       "kategori": "museum",
       "gratis": null,
@@ -6526,11 +6728,14 @@
     {
       "id": "tickster-nm7ztxm7vk8nlm7",
       "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
-      "start": "2026-12-10",
-      "slut": null,
+      "start": "2026-12-10T18:30:00+01:00",
+      "slut": "2026-12-10T22:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458,
+        "rum": "Restaurangen/Sal D"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6549,13 +6754,16 @@
     {
       "id": "tickster-ghdvw7t98l58vlz",
       "titel": "Thomas Järvheden – Sveriges roligaste julkonsert",
-      "start": "2026-12-10",
-      "slut": null,
+      "start": "2026-12-10T19:00:00+01:00",
+      "slut": "2026-12-10T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -6572,11 +6780,14 @@
     {
       "id": "tickster-9a0dk1k2upn6lw9",
       "titel": "Julkonsert med Romeo & Julia Kören",
-      "start": "2026-12-10",
-      "slut": null,
+      "start": "2026-12-10T19:30:00+01:00",
+      "slut": "2026-12-10T20:45:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6595,11 +6806,14 @@
     {
       "id": "tickster-b4rvuxxzejbjm42",
       "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
-      "start": "2026-12-11",
-      "slut": null,
+      "start": "2026-12-11T18:30:00+01:00",
+      "slut": "2026-12-11T22:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458,
+        "rum": "Restaurangen/Sal D"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6618,11 +6832,14 @@
     {
       "id": "tickster-lkua0zxttp96r1k",
       "titel": "Jul med Franska Trion",
-      "start": "2026-12-11",
-      "slut": null,
+      "start": "2026-12-11T19:00:00+01:00",
+      "slut": "2026-12-11T20:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6641,15 +6858,18 @@
     {
       "id": "tickster-6c67nlpz8e76g8j",
       "titel": "LABERO – A Magic Night",
-      "start": "2026-12-11",
-      "slut": null,
+      "start": "2026-12-11T19:00:00+01:00",
+      "slut": "2026-12-11T20:40:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
-      "barnOchFamilj": false,
+      "barnOchFamilj": true,
       "kallor": [
         {
           "id": "tickster",
@@ -6664,11 +6884,13 @@
     {
       "id": "tickster-l9jmlxtjwwcb2ba",
       "titel": "Bombus & Mass Worship",
-      "start": "2026-12-11",
-      "slut": null,
+      "start": "2026-12-11T20:00:00+01:00",
+      "slut": "2026-12-11T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -6687,11 +6909,13 @@
     {
       "id": "tickster-mpgxk6jjd77w0vn",
       "titel": "En kväll på operan",
-      "start": "2026-12-11",
-      "slut": null,
+      "start": "2026-12-11T20:00:00+01:00",
+      "slut": "2026-12-11T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "scen",
       "gratis": null,
@@ -6710,11 +6934,14 @@
     {
       "id": "tickster-8r4h27crbvtxug8",
       "titel": "Barnens Julvärld med Nassim Al fakir",
-      "start": "2026-12-12",
-      "slut": null,
+      "start": "2026-12-12T14:00:00+01:00",
+      "slut": "2026-12-12T15:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6733,11 +6960,14 @@
     {
       "id": "tickster-8xzxzdl7bpaaxex",
       "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
-      "start": "2026-12-12",
-      "slut": null,
+      "start": "2026-12-12T18:30:00+01:00",
+      "slut": "2026-12-12T22:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458,
+        "rum": "Restaurangen/Sal D"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6756,8 +6986,8 @@
     {
       "id": "tickster-7nrw6fane9t7zvr",
       "titel": "Mainland Jazz Collective",
-      "start": "2026-12-12",
-      "slut": null,
+      "start": "2026-12-12T19:30:00+01:00",
+      "slut": "2026-12-12T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -6779,11 +7009,13 @@
     {
       "id": "tickster-4jfal2cu9uutnh8",
       "titel": "Emma & The Dusty Roses",
-      "start": "2026-12-12",
-      "slut": null,
+      "start": "2026-12-12T20:00:00+01:00",
+      "slut": "2026-12-12T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8603,
+        "lng": 17.6456
       },
       "kategori": "musik",
       "gratis": null,
@@ -6802,11 +7034,13 @@
     {
       "id": "tickster-jbptmjw6b7k06a0",
       "titel": "The Last Waltz!",
-      "start": "2026-12-12",
-      "slut": null,
+      "start": "2026-12-12T20:00:00+01:00",
+      "slut": "2026-12-12T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8603,
+        "lng": 17.6456
       },
       "kategori": "musik",
       "gratis": null,
@@ -6825,11 +7059,14 @@
     {
       "id": "tickster-6e922edl44ke4h4",
       "titel": "West Of Eden – Celtic Christmas",
-      "start": "2026-12-13",
-      "slut": null,
+      "start": "2026-12-13T19:00:00+01:00",
+      "slut": "2026-12-13T20:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6848,11 +7085,14 @@
     {
       "id": "tickster-402uukunkec7cfn",
       "titel": "Arvingarna – Klart det ska bli jul, igen!",
-      "start": "2026-12-13",
-      "slut": null,
+      "start": "2026-12-13T19:30:00+01:00",
+      "slut": "2026-12-13T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6871,11 +7111,11 @@
     {
       "id": "tickster-j4t5l1a8bvxm4ea",
       "titel": "Anna-Lottas Jul",
-      "start": "2026-12-14",
-      "slut": null,
+      "start": "2026-12-14T19:00:00+01:00",
+      "slut": "2026-12-14T21:00:00+01:00",
       "plats": {
         "namn": "Baptistkyrkan - Uppsala",
-        "id": "tickster-plats-baptistkyrkan-uppsala"
+        "id": "tickster-plats-56vxjkvme4bh9kz"
       },
       "kategori": "ovrigt",
       "gratis": null,
@@ -6894,11 +7134,13 @@
     {
       "id": "tickster-2vxg5hpyv2a43kg",
       "titel": "Valter Nilsson - Extrakonsert",
-      "start": "2026-12-15",
-      "slut": null,
+      "start": "2026-12-15T20:00:00+01:00",
+      "slut": "2026-12-15T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -6917,11 +7159,13 @@
     {
       "id": "tickster-7bhdp3pf0ugbwuh",
       "titel": "Valter Nilsson",
-      "start": "2026-12-16",
-      "slut": null,
+      "start": "2026-12-16T20:00:00+01:00",
+      "slut": "2026-12-16T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -6940,11 +7184,13 @@
     {
       "id": "tickster-72ypaj48u516nlj",
       "titel": "The Crown",
-      "start": "2026-12-17",
-      "slut": null,
+      "start": "2026-12-17T20:00:00+01:00",
+      "slut": "2026-12-17T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -6963,11 +7209,14 @@
     {
       "id": "tickster-v3z27ykmzflgvu3",
       "titel": "Lunchkonsert – Livet och musiken Julspecial",
-      "start": "2026-12-18",
-      "slut": null,
+      "start": "2026-12-18T12:15:00+01:00",
+      "slut": "2026-12-18T13:15:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
       "kategori": "musik",
       "gratis": null,
@@ -6986,11 +7235,13 @@
     {
       "id": "tickster-ul04ankdb3g0wlv",
       "titel": "Anders Ekborg - En Stilla Jul",
-      "start": "2026-12-18",
-      "slut": null,
+      "start": "2026-12-18T19:00:00+01:00",
+      "slut": "2026-12-18T20:30:00+01:00",
       "plats": {
         "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
+        "id": "missionskyrkan",
+        "lat": 59.8616,
+        "lng": 17.6365
       },
       "kategori": "ovrigt",
       "gratis": null,
@@ -7009,8 +7260,8 @@
     {
       "id": "tickster-yt68jhjvnu26gup",
       "titel": "Play It Santa!",
-      "start": "2026-12-18",
-      "slut": null,
+      "start": "2026-12-18T19:30:00+01:00",
+      "slut": "2026-12-18T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -7032,11 +7283,13 @@
     {
       "id": "tickster-9vptptkw8mm6w2c",
       "titel": "Junior Brielle",
-      "start": "2026-12-18",
-      "slut": null,
+      "start": "2026-12-18T20:00:00+01:00",
+      "slut": "2026-12-18T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -7055,11 +7308,14 @@
     {
       "id": "tickster-33a871dggzcankv",
       "titel": "Hogwarts Magic Symphony – med Lords of the Sound",
-      "start": "2026-12-19",
-      "slut": null,
+      "start": "2026-12-19T15:00:00+01:00",
+      "slut": "2026-12-19T17:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7078,11 +7334,14 @@
     {
       "id": "tickster-ymgh75hb71gx76j",
       "titel": "Hans Zimmers musik – spelad av Lords of the Sound",
-      "start": "2026-12-19",
-      "slut": null,
+      "start": "2026-12-19T19:00:00+01:00",
+      "slut": "2026-12-19T21:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7101,8 +7360,8 @@
     {
       "id": "tickster-rt3c0cclzv2t92d",
       "titel": "Blackbird Swingin' Christmas",
-      "start": "2026-12-19",
-      "slut": null,
+      "start": "2026-12-19T19:30:00+01:00",
+      "slut": "2026-12-19T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -7124,11 +7383,13 @@
     {
       "id": "tickster-1kzcfyap0xvt3cr",
       "titel": "Charta 77 + Bonta från Asta Kask",
-      "start": "2026-12-19",
-      "slut": null,
+      "start": "2026-12-19T20:00:00+01:00",
+      "slut": "2026-12-19T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -7147,11 +7408,14 @@
     {
       "id": "tickster-ztpm05lw995a0jn",
       "titel": "Banna Sona Band Christmas Edition",
-      "start": "2026-12-20",
-      "slut": null,
+      "start": "2026-12-20T17:00:00+01:00",
+      "slut": "2026-12-20T19:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7170,11 +7434,14 @@
     {
       "id": "tickster-dgfjlx3g6fytytn",
       "titel": "Trettondagsafton 2027",
-      "start": "2027-01-05",
-      "slut": null,
+      "start": "2027-01-05T17:00:00+01:00",
+      "slut": "2027-01-05T19:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7193,11 +7460,13 @@
     {
       "id": "tickster-htyve4u3p10edr7",
       "titel": "Sirius vs Skälby IBK",
-      "start": "2027-01-07",
-      "slut": null,
+      "start": "2027-01-07T19:00:00+01:00",
+      "slut": "2027-01-07T21:00:00+01:00",
       "plats": {
         "namn": "IFU Arena",
-        "id": "ifu"
+        "id": "ifu",
+        "lat": 59.882,
+        "lng": 17.6562
       },
       "kategori": "sport",
       "gratis": null,
@@ -7216,11 +7485,13 @@
     {
       "id": "tickster-aau6px0u72p8bgj",
       "titel": "Per Persson & Nya Packet",
-      "start": "2027-01-08",
-      "slut": null,
+      "start": "2027-01-08T21:00:00+01:00",
+      "slut": "2027-01-08T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -7239,11 +7510,13 @@
     {
       "id": "tickster-u3uwyfm19bnxv1c",
       "titel": "Elvis Presley Birthday Concert 2027",
-      "start": "2027-01-09",
-      "slut": null,
+      "start": "2027-01-09T20:00:00+01:00",
+      "slut": "2027-01-10T00:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8603,
+        "lng": 17.6456
       },
       "kategori": "musik",
       "gratis": null,
@@ -7262,11 +7535,13 @@
     {
       "id": "tickster-t2pya3kfhwp6j2l",
       "titel": "LKN",
-      "start": "2027-01-15",
-      "slut": null,
+      "start": "2027-01-15T20:00:00+01:00",
+      "slut": "2027-01-15T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -7285,11 +7560,13 @@
     {
       "id": "tickster-7z2bw1c1xeneehb",
       "titel": "TMS BOWIE LOW+HEROES",
-      "start": "2027-01-16",
-      "slut": null,
+      "start": "2027-01-16T20:00:00+01:00",
+      "slut": "2027-01-16T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8603,
+        "lng": 17.6456
       },
       "kategori": "musik",
       "gratis": null,
@@ -7308,15 +7585,18 @@
     {
       "id": "tickster-adbg24052n8j0r4",
       "titel": "Djungelboken – The Musical",
-      "start": "2027-01-23",
-      "slut": null,
+      "start": "2027-01-23T12:00:00+01:00",
+      "slut": "2027-01-23T14:10:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
-      "barnOchFamilj": false,
+      "barnOchFamilj": true,
       "kallor": [
         {
           "id": "tickster",
@@ -7331,15 +7611,18 @@
     {
       "id": "tickster-1t0bg5ypeydh4g1",
       "titel": "Djungelboken – The Musical",
-      "start": "2027-01-23",
-      "slut": null,
+      "start": "2027-01-23T16:00:00+01:00",
+      "slut": "2027-01-23T18:10:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
-      "barnOchFamilj": false,
+      "barnOchFamilj": true,
       "kallor": [
         {
           "id": "tickster",
@@ -7354,8 +7637,8 @@
     {
       "id": "tickster-7yefrjgl17hm9r4",
       "titel": "The Pär Lindh Project",
-      "start": "2027-01-23",
-      "slut": null,
+      "start": "2027-01-23T19:30:00+01:00",
+      "slut": "2027-01-23T22:00:00+01:00",
       "plats": {
         "namn": "Blackbird",
         "id": "blackbird"
@@ -7377,11 +7660,14 @@
     {
       "id": "tickster-7u5xxfv6bth9p98",
       "titel": "Poste Restante 24/1",
-      "start": "2027-01-24",
-      "slut": null,
+      "start": "2027-01-24T16:00:00+01:00",
+      "slut": "2027-01-24T18:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7400,11 +7686,14 @@
     {
       "id": "tickster-r0r7g2xf5bgtyjx",
       "titel": "Copland och Beethoven – Uppsala Kammarorkester",
-      "start": "2027-01-28",
-      "slut": null,
+      "start": "2027-01-28T19:00:00+01:00",
+      "slut": "2027-01-28T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7423,13 +7712,16 @@
     {
       "id": "tickster-azjevznl5wf8m22",
       "titel": "”Ser jag tjock ut i den här..?” – Uppsala",
-      "start": "2027-01-29",
-      "slut": null,
+      "start": "2027-01-29T19:00:00+01:00",
+      "slut": "2027-01-29T20:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -7446,11 +7738,13 @@
     {
       "id": "tickster-v93449drn3txn9u",
       "titel": "Hannes Aitman",
-      "start": "2027-01-29",
-      "slut": null,
+      "start": "2027-01-29T20:00:00+01:00",
+      "slut": "2027-01-29T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -7469,11 +7763,13 @@
     {
       "id": "tickster-pw09t0by0ahzf56",
       "titel": "Sirius vs Karlstad IBF",
-      "start": "2027-01-31",
-      "slut": null,
+      "start": "2027-01-31T16:00:00+01:00",
+      "slut": "2027-01-31T18:00:00+01:00",
       "plats": {
         "namn": "IFU Arena",
-        "id": "ifu"
+        "id": "ifu",
+        "lat": 59.882,
+        "lng": 17.6562
       },
       "kategori": "sport",
       "gratis": null,
@@ -7492,13 +7788,15 @@
     {
       "id": "tickster-vzxc44bxnwzezdk",
       "titel": "Geoff Tate - Operation Mindcrime",
-      "start": "2027-02-02",
-      "slut": null,
+      "start": "2027-02-02T20:00:00+01:00",
+      "slut": "2027-02-02T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
-      "kategori": "scen",
+      "kategori": "musik",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -7515,11 +7813,14 @@
     {
       "id": "tickster-ac01aaggf4u5mrw",
       "titel": "The Dire Straits Experience",
-      "start": "2027-02-04",
-      "slut": null,
+      "start": "2027-02-04T19:30:00+01:00",
+      "slut": "2027-02-04T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7538,13 +7839,16 @@
     {
       "id": "tickster-2hcab98vb4n49l6",
       "titel": "Nour El Refai – Glows in the dark",
-      "start": "2027-02-05",
-      "slut": null,
+      "start": "2027-02-05T19:00:00+01:00",
+      "slut": "2027-02-05T20:15:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -7561,11 +7865,14 @@
     {
       "id": "tickster-3xd3kt3rd5y68z8",
       "titel": "The Very Best of Thin Lizzy",
-      "start": "2027-02-06",
-      "slut": null,
+      "start": "2027-02-06T19:30:00+01:00",
+      "slut": "2027-02-06T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7584,11 +7891,13 @@
     {
       "id": "tickster-abw0z29x84w9dzc",
       "titel": "Greczula",
-      "start": "2027-02-06",
-      "slut": null,
+      "start": "2027-02-06T20:00:00+01:00",
+      "slut": "2027-11-07T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -7601,17 +7910,20 @@
           "biljetter": "https://secure.tickster.com/sv/abw0z29x84w9dzc"
         }
       ],
-      "langvarig": false,
+      "langvarig": true,
       "installd": false
     },
     {
       "id": "tickster-g1u6mx2pxhc04da",
       "titel": "Molly Hammar – Livsvittne",
-      "start": "2027-02-11",
-      "slut": null,
+      "start": "2027-02-11T19:00:00+01:00",
+      "slut": "2027-02-11T20:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7630,11 +7942,14 @@
     {
       "id": "tickster-rtat7ch8y7zgugl",
       "titel": "Tommy Körberg – Unplugged",
-      "start": "2027-02-12",
-      "slut": null,
+      "start": "2027-02-12T19:30:00+01:00",
+      "slut": "2027-02-12T21:10:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7653,11 +7968,13 @@
     {
       "id": "tickster-132pra2x5t5xb26",
       "titel": "Simon Superti",
-      "start": "2027-02-12",
-      "slut": null,
+      "start": "2027-02-12T20:00:00+01:00",
+      "slut": "2027-02-12T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -7676,11 +7993,14 @@
     {
       "id": "tickster-f8ga8mzk0ehb1uk",
       "titel": "Kim Wilde – The Singles Tour 2027",
-      "start": "2027-02-13",
-      "slut": null,
+      "start": "2027-02-13T19:30:00+01:00",
+      "slut": "2027-02-13T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7699,11 +8019,13 @@
     {
       "id": "tickster-7de740jdu0wm74h",
       "titel": "Simon Superti",
-      "start": "2027-02-13",
-      "slut": null,
+      "start": "2027-02-13T20:00:00+01:00",
+      "slut": "2027-02-13T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -7720,13 +8042,39 @@
       "installd": false
     },
     {
+      "id": "tickster-6xnxx840xdvjcdn",
+      "titel": "Pause of Silence - retreat i tystnad",
+      "start": "2027-02-18T16:00:00+01:00",
+      "slut": "2027-02-21T15:00:00+01:00",
+      "plats": {
+        "namn": "Rasbo Kursgård",
+        "id": "tickster-plats-2d6ubc9rf8f2t55"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/6xnxx840xdvjcdn/2027-02-18/pause-of-silence-retreat-i-tystnad",
+          "biljetter": "https://secure.tickster.com/sv/6xnxx840xdvjcdn"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
       "id": "tickster-adrwbfh77uy5ecz",
       "titel": "Korngolds violinkonsert – Uppsala Kammarorkester",
-      "start": "2027-02-18",
-      "slut": null,
+      "start": "2027-02-18T19:00:00+01:00",
+      "slut": "2027-02-18T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7743,36 +8091,16 @@
       "installd": false
     },
     {
-      "id": "tickster-6xnxx840xdvjcdn",
-      "titel": "Pause of Silence - retreat i tystnad",
-      "start": "2027-02-18",
-      "slut": null,
-      "plats": {
-        "namn": "Rasbo Kursgård",
-        "id": "tickster-plats-rasbo-kursgård"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/6xnxx840xdvjcdn/2027-02-18/pause-of-silence-retreat-i-tystnad",
-          "biljetter": "https://secure.tickster.com/sv/6xnxx840xdvjcdn"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "tickster-ylj4kxccmxnmnkw",
       "titel": "Orsa spelmän, Tina Ahlin & Bengan Janson",
-      "start": "2027-02-19",
-      "slut": null,
+      "start": "2027-02-19T19:00:00+01:00",
+      "slut": "2027-02-19T20:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7791,11 +8119,13 @@
     {
       "id": "tickster-1ea0pntuaudmv1a",
       "titel": "Stiko Per Larsson - Katalins Bakficka",
-      "start": "2027-02-19",
-      "slut": null,
+      "start": "2027-02-19T20:00:00+01:00",
+      "slut": "2027-02-19T23:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
       },
       "kategori": "musik",
       "gratis": null,
@@ -7814,13 +8144,16 @@
     {
       "id": "tickster-30zehcuw46a5ktp",
       "titel": "Nannes Jubileumsshow – Här är jag!",
-      "start": "2027-02-20",
-      "slut": null,
+      "start": "2027-02-20T19:30:00+01:00",
+      "slut": "2027-02-20T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "scen",
+      "kategori": "musik",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -7837,13 +8170,16 @@
     {
       "id": "tickster-4k49xmnc403y1vu",
       "titel": "Jesper Rönndahl och Marie Agerhäll",
-      "start": "2027-02-25",
-      "slut": null,
+      "start": "2027-02-25T20:00:00+01:00",
+      "slut": "2027-02-25T21:20:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -7860,13 +8196,16 @@
     {
       "id": "tickster-5xgw2w4blu4rp07",
       "titel": "No Business Like Show Business",
-      "start": "2027-02-27",
-      "slut": null,
+      "start": "2027-02-27T17:00:00+01:00",
+      "slut": "2027-02-27T19:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "scen",
+      "kategori": "musik",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -7883,11 +8222,13 @@
     {
       "id": "tickster-8ab3ed8de0ff5uw",
       "titel": "Sirius vs FBC Lerum",
-      "start": "2027-02-28",
-      "slut": null,
+      "start": "2027-02-28T14:00:00+01:00",
+      "slut": "2027-02-28T16:00:00+01:00",
       "plats": {
         "namn": "IFU Arena",
-        "id": "ifu"
+        "id": "ifu",
+        "lat": 59.882,
+        "lng": 17.6562
       },
       "kategori": "sport",
       "gratis": null,
@@ -7906,11 +8247,14 @@
     {
       "id": "tickster-w768vzlh7lbxz35",
       "titel": "Poste Restante 28/2",
-      "start": "2027-02-28",
-      "slut": null,
+      "start": "2027-02-28T16:00:00+01:00",
+      "slut": "2027-02-28T18:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7929,11 +8273,13 @@
     {
       "id": "tickster-uxfta84v5rjre74",
       "titel": "Jazz på Svenska - Bröderna Johansson",
-      "start": "2027-03-02",
-      "slut": null,
+      "start": "2027-03-02T20:00:00+01:00",
+      "slut": "2027-03-02T22:00:00+01:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
       },
       "kategori": "musik",
       "gratis": null,
@@ -7952,13 +8298,16 @@
     {
       "id": "tickster-kc7zenzreben83x",
       "titel": "Night of Famous Musicals",
-      "start": "2027-03-03",
-      "slut": null,
+      "start": "2027-03-03T19:00:00+01:00",
+      "slut": "2027-03-03T21:15:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -7975,11 +8324,14 @@
     {
       "id": "tickster-bv8u7mj6b3g3hpw",
       "titel": "Laleh vårturné 2027 – Jag såg hur vi var stjärnor",
-      "start": "2027-03-05",
-      "slut": null,
+      "start": "2027-03-05T19:30:00+01:00",
+      "slut": "2027-03-05T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -7998,11 +8350,14 @@
     {
       "id": "tickster-bycra2ryrkpny7l",
       "titel": "Laleh vårturné 2027 – Jag såg hur vi var stjärnor",
-      "start": "2027-03-06",
-      "slut": null,
+      "start": "2027-03-06T19:30:00+01:00",
+      "slut": "2027-03-06T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -8021,8 +8376,8 @@
     {
       "id": "tickster-5xv46jn2yrbbunu",
       "titel": "APHACA (DK)",
-      "start": "2027-03-10",
-      "slut": null,
+      "start": "2027-03-10T20:00:00+01:00",
+      "slut": "2027-03-10T22:00:00+01:00",
       "plats": {
         "namn": "The Kaliber Room",
         "id": "kaliber"
@@ -8044,11 +8399,13 @@
     {
       "id": "tickster-nr7ap19ygw1aj9e",
       "titel": "Sirius vs Fagerhult Habo IBK",
-      "start": "2027-03-13",
-      "slut": null,
+      "start": "2027-03-13T17:00:00+01:00",
+      "slut": "2027-03-13T19:00:00+01:00",
       "plats": {
         "namn": "IFU Arena",
-        "id": "ifu"
+        "id": "ifu",
+        "lat": 59.882,
+        "lng": 17.6562
       },
       "kategori": "sport",
       "gratis": null,
@@ -8067,11 +8424,14 @@
     {
       "id": "tickster-5g7u6rkp06c82z1",
       "titel": "Bästa Byström – Uppsala Kammarorkester",
-      "start": "2027-03-18",
-      "slut": null,
+      "start": "2027-03-18T19:00:00+01:00",
+      "slut": "2027-03-18T21:00:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -8090,11 +8450,14 @@
     {
       "id": "tickster-krj9k1l31yja6ny",
       "titel": "BRUNOZ – En konsert med Bruno Mitsogiannis",
-      "start": "2027-03-28",
-      "slut": null,
+      "start": "2027-03-28T16:00:00+02:00",
+      "slut": "2027-03-28T17:30:00+02:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -8113,11 +8476,14 @@
     {
       "id": "tickster-n3ya1zhflkyl9hw",
       "titel": "EUSKEFEURAT – maränger och surdeg",
-      "start": "2027-04-04",
-      "slut": null,
+      "start": "2027-04-04T18:00:00+02:00",
+      "slut": "2027-04-04T20:15:00+02:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -8136,11 +8502,13 @@
     {
       "id": "tickster-leu22wx8y2665zm",
       "titel": "DOKTOR GLAS - en monolog med Jens Hultén",
-      "start": "2027-04-07",
-      "slut": null,
+      "start": "2027-04-07T20:00:00+02:00",
+      "slut": "2027-04-07T22:00:00+02:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8603,
+        "lng": 17.6456
       },
       "kategori": "musik",
       "gratis": null,
@@ -8159,13 +8527,16 @@
     {
       "id": "tickster-vgej4zyhmdbz3d9",
       "titel": "Hör här! (Försöker göra livepodd)",
-      "start": "2027-04-10",
-      "slut": null,
+      "start": "2027-04-10T16:00:00+02:00",
+      "slut": "2027-04-10T17:30:00+02:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -8182,13 +8553,16 @@
     {
       "id": "tickster-fn3dp2zf8ye006y",
       "titel": "Hör här! (Försöker göra livepodd)",
-      "start": "2027-04-10",
-      "slut": null,
+      "start": "2027-04-10T19:00:00+02:00",
+      "slut": "2027-04-10T20:30:00+02:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -8205,11 +8579,13 @@
     {
       "id": "tickster-fk7zec2k51epmp6",
       "titel": "HFMC - Avskedskonsert",
-      "start": "2027-04-16",
-      "slut": null,
+      "start": "2027-04-16T20:00:00+02:00",
+      "slut": "2027-04-16T23:00:00+02:00",
       "plats": {
         "namn": "Katalin",
-        "id": "katalin"
+        "id": "katalin",
+        "lat": 59.8603,
+        "lng": 17.6456
       },
       "kategori": "musik",
       "gratis": null,
@@ -8228,11 +8604,14 @@
     {
       "id": "tickster-6bj9eyze51yn0un",
       "titel": "Poste Restante 18/4",
-      "start": "2027-04-18",
-      "slut": null,
+      "start": "2027-04-18T16:00:00+02:00",
+      "slut": "2027-04-18T18:00:00+02:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
       },
       "kategori": "musik",
       "gratis": null,
@@ -8251,13 +8630,16 @@
     {
       "id": "tickster-m7xzavt7gdp4za1",
       "titel": "HippHipp Live!",
-      "start": "2027-04-24",
-      "slut": null,
+      "start": "2027-04-24T19:30:00+02:00",
+      "slut": "2027-04-24T21:00:00+02:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -8274,13 +8656,16 @@
     {
       "id": "tickster-570k06nhl9cgz3h",
       "titel": "HippHipp Live!",
-      "start": "2027-04-25",
-      "slut": null,
+      "start": "2027-04-25T15:00:00+02:00",
+      "slut": "2027-04-25T16:30:00+02:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -8297,11 +8682,14 @@
     {
       "id": "tickster-4ghfx4lt846rxfa",
       "titel": "Valborg – Uppsala Kammarorkester",
-      "start": "2027-04-29",
-      "slut": null,
+      "start": "2027-04-29T19:00:00+02:00",
+      "slut": "2027-04-29T21:00:00+02:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -8320,11 +8708,14 @@
     {
       "id": "tickster-1c4pu6gmxa891vf",
       "titel": "Tjajkovskijs pianokonsert – Uppsala Kammarorkester",
-      "start": "2027-05-20",
-      "slut": null,
+      "start": "2027-05-20T19:00:00+02:00",
+      "slut": "2027-05-20T21:00:00+02:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -8343,8 +8734,8 @@
     {
       "id": "tickster-wkerv76ph3w42a8",
       "titel": "Love - with Johnny Echols (US)",
-      "start": "2027-06-05",
-      "slut": null,
+      "start": "2027-06-05T19:00:00+02:00",
+      "slut": "2027-06-05T21:00:00+02:00",
       "plats": {
         "namn": "Parksnäckan",
         "id": "parksnackan"
@@ -8366,8 +8757,8 @@
     {
       "id": "tickster-fg9heurhg8nmf87",
       "titel": "U.K. Subs (UK)",
-      "start": "2027-06-12",
-      "slut": null,
+      "start": "2027-06-12T19:00:00+02:00",
+      "slut": "2027-06-12T22:00:00+02:00",
       "plats": {
         "namn": "Parksnäckan",
         "id": "parksnackan"
@@ -8389,11 +8780,13 @@
     {
       "id": "tickster-6tpyxlllywvucer",
       "titel": "Uppsala Reggae Festival 2027",
-      "start": "2027-07-30",
-      "slut": null,
+      "start": "2027-07-30T14:00:00+02:00",
+      "slut": "2027-08-01T02:00:00+02:00",
       "plats": {
         "namn": "Fyrishov",
-        "id": "fyrishov"
+        "id": "fyrishov",
+        "lat": 59.8704,
+        "lng": 17.6232
       },
       "kategori": "ovrigt",
       "gratis": null,
@@ -8412,11 +8805,14 @@
     {
       "id": "tickster-m9rbmjxxw04wuc9",
       "titel": "Fredrik Andersson – Too soon",
-      "start": "2027-10-22",
-      "slut": null,
+      "start": "2027-10-22T19:30:00+02:00",
+      "slut": "2027-10-22T20:50:00+02:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,

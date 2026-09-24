@@ -1,7 +1,7 @@
 {
   "kalla": "Bibliotek Uppsala",
   "webbsida": "https://bibliotekuppsala.se/evenemang",
-  "hamtad": "2026-09-24T20:33:54.084Z",
+  "hamtad": "2026-09-24T21:19:18.572Z",
   "antal": 503,
   "evenemang": [
     {
@@ -2361,28 +2361,6 @@
       "installd": false
     },
     {
-      "id": "bibliotek-cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2",
-      "titel": "Idde-lördag!",
-      "start": "2026-10-10T12:00:00+02:00",
-      "slut": "2026-10-10T15:30:00+02:00",
-      "plats": {
-        "namn": "Sävjabiblioteket",
-        "id": "bibliotek-sävjabiblioteket"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "bibliotek-0c053308-1804-4733-9a74-a58d9408dfac",
       "titel": "Vernissage: Utställning om barnböckerna om bävern Ottar",
       "start": "2026-10-10T12:00:00+02:00",
@@ -2399,6 +2377,28 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/0c053308-1804-4733-9a74-a58d9408dfac"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2",
+      "titel": "Idde-lördag!",
+      "start": "2026-10-10T12:00:00+02:00",
+      "slut": "2026-10-10T15:30:00+02:00",
+      "plats": {
+        "namn": "Sävjabiblioteket",
+        "id": "bibliotek-sävjabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2"
         }
       ],
       "langvarig": false,
