@@ -37,7 +37,27 @@ export function sokParametrar(nu, start, antal) {
 
 // Datum kommer antingen som text eller som { value: text }.
 const datum = (d) => (d && typeof d === "object" ? d.value : d) || null;
-const varden = (lista) => (lista || []).map((x) => (typeof x === "object" ? x.value ?? x.name : x)).filter(Boolean);
+const varden = (lista) => (lista || []).map((x) => (x && typeof x === "object" ? x.value ?? x.name : x)).filter(Boolean);
+// Ett fält som { value: "Stadsbiblioteket" }, ibland { value: null }.
+const text = (f) => enRad(f && typeof f === "object" ? f.value : f);
+
+// Bibliotekets taggar till våra kategorier. Första träffen vinner.
+const TAGGAR = [
+  ["musik", /^musik$/i],
+  ["scen", /^(film|teater|dans)$/i],
+  ["museum", /^utställning$/i],
+  ["prat", /^(föredrag|författarbesök|samhälle och debatt|historia|filosofi|bokcirkel|klimat och miljö|demokrativecka|boktips|skriva)$/i],
+  ["ovrigt", /^(quiz|spel|rollspel|pyssel|pyssla|sagostund)$/i],
+];
+
+// Stödtjänster snarare än evenemang. Tas inte med.
+const TJANSTER = /^(läxhjälp|it-handledning|juridisk rådgivning)$/i;
+
+function kategori(titel, taggar) {
+  for (const [kat, re] of TAGGAR) if (taggar.some((t) => re.test(t))) return kat;
+  // Bibliotekens evenemang är oftast föredrag, samtal och läsning.
+  return gissaKategori(titel, "prat");
+}
 
 const BARN = /barn|familj|bebis|baby|förskola|unga|ungdom|tonår|\b\d{1,2}\s*[-–]\s*\d{1,2}\s*år/i;
 const KOSTAR = /\d+\s*kr\b|kostar|avgift|entré\s*\d/i;
@@ -47,8 +67,8 @@ export function tillEvenemang(ev) {
   const malgrupper = varden(ev.targetAudiences);
   const taggar = varden(ev.tags);
   const beskrivning = renText(ev.description); // Används bara för att gissa, sparas inte.
-  const bibliotek = enRad(ev.location?.value ?? ev.location) || "Bibliotek Uppsala";
-  const rum = enRad(ev.room?.value ?? ev.room);
+  const bibliotek = text(ev.location) || "Bibliotek Uppsala";
+  const rum = text(ev.room);
 
   return {
     id: `bibliotek-${ev.id}`,
@@ -60,8 +80,7 @@ export function tillEvenemang(ev) {
       id: `bibliotek-${bibliotek.toLowerCase().replace(/[^a-z0-9åäö]+/g, "-")}`,
       ...(rum && { rum }),
     },
-    // Bibliotekens evenemang är oftast föredrag, samtal och läsning.
-    kategori: gissaKategori(`${titel} ${taggar.join(" ")}`, "prat"),
+    kategori: kategori(titel, taggar),
     // Bibliotekens evenemang är gratis om inget annat står.
     gratis: !KOSTAR.test(beskrivning),
     barnOchFamilj: BARN.test([...malgrupper, ...taggar, titel].join(" ")),
@@ -75,5 +94,6 @@ export function bearbeta(traffar) {
   return traffar
     .map((t) => t.event ?? t)
     .filter((ev) => ev && ev.id && datum(ev.startDate))
+    .filter((ev) => !varden(ev.tags).some((t) => TJANSTER.test(t)))
     .map(tillEvenemang);
 }

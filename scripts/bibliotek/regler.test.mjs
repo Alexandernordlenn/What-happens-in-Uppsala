@@ -41,3 +41,15 @@ test("sökningen ber om allt som inte är slut, även inställt", () => {
   assert.match(p.get("rangeFilters"), /2026-09-24T10:00:00.000Z/);
   assert.match(p.get("termFilters"), /CANCELLED/);
 });
+
+test("taggar ger kategori, stödtjänster tas bort, tom sal ignoreras", () => {
+  const ev = (id, tags, extra = {}) => ({ event: { id, title: `T${id}`, startDate: "2026-10-01T10:00:00Z", tags, ...extra } });
+  const r = bearbeta([
+    ev(1, ["Musik"]),
+    ev(2, ["Film"]),
+    ev(3, ["Läxhjälp"]),
+    ev(4, ["Sagostund", "Småbarn"], { room: { id: null, value: null } }),
+  ]);
+  assert.deepEqual(r.map((e) => e.kategori), ["musik", "scen", "ovrigt"]);
+  assert.equal(r[2].plats.rum, undefined);
+});
