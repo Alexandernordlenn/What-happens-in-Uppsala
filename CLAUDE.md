@@ -71,10 +71,19 @@ Tider sparas med tidszon och visas i svensk tid.
 
 1. Spara `SVK_API_KEY` som hemlighet i GitHub.
 2. Skapa Firebase-projektet (Firestore i EU, Authentication med e-postlänk, GitHub Pages-adressen som tillåten domän).
-3. Hämtningsskript och workflow för Svenska kyrkan som skriver till Firestore och till en fil med de kommande två veckorna.
+3. Hämtningsskript och workflow för Svenska kyrkan som skriver till Firestore och till en fil med de kommande två veckorna. **Byggt**, se nedan. Behöver provköras med riktig nyckel.
 4. Låt `index.html` läsa den filen i stället för den inbakade datan.
 5. Riktig inloggning och favoriter.
 6. Tickster när nyckeln kommer.
+
+## Hämtningen från Svenska kyrkan
+
+- `scripts/svenska-kyrkan/hamta.mjs` hämtar alla sidor, tar bort personuppgifter och sparar färdiga evenemang i `data/svenska-kyrkan.json`.
+- `scripts/svenska-kyrkan/regler.mjs` innehåller filtrering, kategorier, tidszon och sammanslagning av utställningar. Testerna ligger i `regler.test.mjs` och körs med `npm test`.
+- `scripts/svenska-kyrkan/firestore.mjs` skriver till Firestore, men bara om hemligheten `FIREBASE_SERVICE_ACCOUNT` finns.
+- `.github/workflows/hamta-svenska-kyrkan.yml` kör allt varje dag 04:13 UTC och kan startas för hand under Actions.
+- Rådatan (`data/radata/`) läggs inte i repot. Den sparas i Firestore och som bilaga till varje körning i 14 dagar.
+- Fältnamnen i API-svaret är inte bekräftade än. Koden provar flera varianter. Justera efter första riktiga körningen.
 
 ## Att inte glömma
 

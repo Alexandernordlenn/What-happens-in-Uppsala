@@ -1,0 +1,15 @@
+{
+  "name": "uppsala-just-nu",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "hamta:svk": "node scripts/svenska-kyrkan/hamta.mjs",
+    "test": "node --test scripts/**/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "firebase-admin": "^14.5.0"
+  }
+}
