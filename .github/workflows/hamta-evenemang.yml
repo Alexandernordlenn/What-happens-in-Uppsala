@@ -71,6 +71,11 @@ jobs:
         continue-on-error: true
         run: npm run hamta:bibliotek
 
+      - name: Heja Uppsala
+        id: heja
+        continue-on-error: true
+        run: npm run hamta:heja
+
       - name: Spara rådatan som bilaga till körningen
         if: always()
         uses: actions/upload-artifact@v4
@@ -98,7 +103,8 @@ jobs:
           for kalla in "Svenska kyrkan:${{ steps.svk.outcome }}" "Uppsala stadsteater:${{ steps.stadsteatern.outcome }}" \
                        "Destination Uppsala:${{ steps.destination.outcome }}" \
                        "Tickster:${{ steps.tickster.outcome }}" \
-                       "Bibliotek Uppsala:${{ steps.bibliotek.outcome }}"; do
+                       "Bibliotek Uppsala:${{ steps.bibliotek.outcome }}" \
+                       "Heja Uppsala:${{ steps.heja.outcome }}"; do
             namn="${kalla%%:*}"; utfall="${kalla#*:}"
             echo "$namn: ${utfall:-hoppades över}"
             if [ "$utfall" = "failure" ]; then fel=1; fi

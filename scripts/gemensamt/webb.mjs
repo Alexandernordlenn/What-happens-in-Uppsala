@@ -76,7 +76,8 @@ async function robotsFor(adress) {
 }
 
 // Hämtar en adress. Svarar med text, eller med JSON om { json: true }.
-export async function hamta(adress, { json = false, headers = {} } = {}) {
+// Med { method: "POST", body } skickas ett formulär, som på Kubik.
+export async function hamta(adress, { json = false, headers = {}, method = "GET", body } = {}) {
   const robots = await robotsFor(adress);
   if (!tillats(robots, adress)) {
     throw new Error(`robots.txt tillåter inte ${adress}`);
@@ -89,13 +90,23 @@ export async function hamta(adress, { json = false, headers = {} } = {}) {
     if (sedan < paus) await vanta(paus - sedan);
     senasteAnrop.set(host, Date.now());
 
-    const svar = await fetch(adress, {
-      headers: {
-        "User-Agent": USER_AGENT,
-        Accept: json ? "application/json" : "text/html,*/*",
-        ...headers,
-      },
-    });
+    let svar;
+    try {
+      svar = await fetch(adress, {
+        method,
+        body,
+        headers: {
+          "User-Agent": USER_AGENT,
+          Accept: json ? "application/json" : "text/html,*/*",
+          ...headers,
+        },
+      });
+    } catch (fel) {
+      // Nätverksfel, till exempel en avbruten anslutning. Vänta och försök igen.
+      if (forsok === 3) throw fel;
+      await vanta(paus * 2 * forsok);
+      continue;
+    }
     if (svar.ok) return json ? svar.json() : svar.text();
     if (svar.status === 429 || svar.status >= 500) {
       await vanta(paus * 2 * forsok);
