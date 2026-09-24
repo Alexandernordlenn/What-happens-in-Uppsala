@@ -56,6 +56,11 @@ jobs:
         continue-on-error: true
         run: npm run hamta:stadsteatern
 
+      - name: Destination Uppsala
+        id: destination
+        continue-on-error: true
+        run: npm run hamta:destination-uppsala
+
       - name: Spara rådatan som bilaga till körningen
         if: always()
         uses: actions/upload-artifact@v4
@@ -69,7 +74,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/*.json 2>/dev/null || true
+          git add data/*.json data/cache/*.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Inga ändringar."
           else
@@ -80,7 +85,8 @@ jobs:
       - name: Kontrollera att alla källor gick bra
         run: |
           fel=0
-          for kalla in "Svenska kyrkan:${{ steps.svk.outcome }}" "Uppsala stadsteater:${{ steps.stadsteatern.outcome }}"; do
+          for kalla in "Svenska kyrkan:${{ steps.svk.outcome }}" "Uppsala stadsteater:${{ steps.stadsteatern.outcome }}" \
+                       "Destination Uppsala:${{ steps.destination.outcome }}"; do
             namn="${kalla%%:*}"; utfall="${kalla#*:}"
             echo "$namn: ${utfall:-hoppades över}"
             if [ "$utfall" = "failure" ]; then fel=1; fi

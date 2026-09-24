@@ -5,6 +5,7 @@
   "scripts": {
     "hamta:svk": "node scripts/svenska-kyrkan/hamta.mjs",
     "hamta:stadsteatern": "node scripts/stadsteatern/hamta.mjs",
+    "hamta:destination-uppsala": "node scripts/destination-uppsala/hamta.mjs",
     "test": "node --test scripts/**/*.test.mjs"
   },
   "engines": {
