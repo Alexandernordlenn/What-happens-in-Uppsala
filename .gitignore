@@ -1,0 +1,3 @@
+node_modules/
+# Rådatan sparas i Firestore, inte i repot.
+data/radata/

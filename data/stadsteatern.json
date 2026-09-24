@@ -1,0 +1,4745 @@
+{
+  "kalla": "Uppsala stadsteater",
+  "webbsida": "https://www.uppsalastadsteater.se/",
+  "hamtad": "2026-09-24T20:33:25.687Z",
+  "antal": 196,
+  "evenemang": [
+    {
+      "id": "stadsteatern-126065",
+      "titel": "Sommar",
+      "start": "2026-09-25T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/sommar-2/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30895/126065/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125894",
+      "titel": "Stadens ljus",
+      "start": "2026-09-25T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "notering": "Genrep",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125894/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121599",
+      "titel": "Medan vi brinner",
+      "start": "2026-09-25T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/121599/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-126068",
+      "titel": "Sommar",
+      "start": "2026-09-26T13:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/sommar-2/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30895/126068/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121506",
+      "titel": "Stadens ljus",
+      "start": "2026-09-26T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "notering": "Premiär, Få biljetter kvar",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/121506/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125941",
+      "titel": "Medan vi brinner",
+      "start": "2026-09-26T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125941/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-126066",
+      "titel": "Sommar",
+      "start": "2026-09-29T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/sommar-2/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30895/126066/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-133870",
+      "titel": "Linnékvintetten och Moa Silén",
+      "start": "2026-09-29T13:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/linnekvintetten-och-moa-silen/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32447/133870/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-126067",
+      "titel": "Sommar",
+      "start": "2026-09-30T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/sommar-2/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30895/126067/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125940",
+      "titel": "Medan vi brinner",
+      "start": "2026-09-30T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125940/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121677",
+      "titel": "Stadens ljus",
+      "start": "2026-09-30T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/121677/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121678",
+      "titel": "Stadens ljus",
+      "start": "2026-10-01T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/121678/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125947",
+      "titel": "Medan vi brinner",
+      "start": "2026-10-02T18:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125947/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125893",
+      "titel": "Stadens ljus",
+      "start": "2026-10-02T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125893/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121676",
+      "titel": "Stadens ljus",
+      "start": "2026-10-03T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/121676/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125948",
+      "titel": "Medan vi brinner",
+      "start": "2026-10-03T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125948/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-129544",
+      "titel": "Sommar",
+      "start": "2026-10-06T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/sommar-2/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30895/129544/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-126003",
+      "titel": "Bara två stjärnor",
+      "start": "2026-10-07T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/bara-tva-stjarnor/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30414/126003/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121679",
+      "titel": "Stadens ljus",
+      "start": "2026-10-07T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/121679/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-129545",
+      "titel": "Sommar",
+      "start": "2026-10-08T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/sommar-2/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30895/129545/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125955",
+      "titel": "Medan vi brinner",
+      "start": "2026-10-08T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125955/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121675",
+      "titel": "Stadens ljus",
+      "start": "2026-10-09T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/121675/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-126004",
+      "titel": "Bara två stjärnor",
+      "start": "2026-10-09T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/bara-tva-stjarnor/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30414/126004/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125949",
+      "titel": "Medan vi brinner",
+      "start": "2026-10-09T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125949/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125898",
+      "titel": "Stadens ljus",
+      "start": "2026-10-10T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125898/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125950",
+      "titel": "Medan vi brinner",
+      "start": "2026-10-10T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125950/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125956",
+      "titel": "Medan vi brinner",
+      "start": "2026-10-14T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125956/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125957",
+      "titel": "Medan vi brinner",
+      "start": "2026-10-15T18:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125957/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121680",
+      "titel": "Stadens ljus",
+      "start": "2026-10-15T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/121680/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125951",
+      "titel": "Medan vi brinner",
+      "start": "2026-10-16T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125951/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125899",
+      "titel": "Stadens ljus",
+      "start": "2026-10-16T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125899/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125900",
+      "titel": "Stadens ljus",
+      "start": "2026-10-17T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125900/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121600",
+      "titel": "Medan vi brinner",
+      "start": "2026-10-17T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/121600/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-126005",
+      "titel": "Bara två stjärnor",
+      "start": "2026-10-21T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/bara-tva-stjarnor/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30414/126005/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-126006",
+      "titel": "Bara två stjärnor",
+      "start": "2026-10-22T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/bara-tva-stjarnor/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30414/126006/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125013",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-10-22T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Genrep",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/125013/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125892",
+      "titel": "Stadens ljus",
+      "start": "2026-10-22T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125892/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124868",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-10-23T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Nypremiär",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124868/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125901",
+      "titel": "Stadens ljus",
+      "start": "2026-10-23T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125901/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125902",
+      "titel": "Stadens ljus",
+      "start": "2026-10-24T14:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125902/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124870",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-10-24T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124870/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-131527",
+      "titel": "Monster och gudar",
+      "start": "2026-10-28T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Ettan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/monster-och-gudar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32275/131527/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-131536",
+      "titel": "Monster och gudar",
+      "start": "2026-10-29T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Ettan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/monster-och-gudar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32275/131536/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124858",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-10-29T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124858/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-131537",
+      "titel": "Monster och gudar",
+      "start": "2026-10-30T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Ettan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/monster-och-gudar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32275/131537/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124871",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-10-30T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124871/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125903",
+      "titel": "Stadens ljus",
+      "start": "2026-10-30T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125903/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-131538",
+      "titel": "Monster och gudar",
+      "start": "2026-10-31T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Ettan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/monster-och-gudar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32275/131538/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125904",
+      "titel": "Stadens ljus",
+      "start": "2026-10-31T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125904/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124872",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-10-31T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124872/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121536",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-11-04T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/121536/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121594",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-11-05T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/121594/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125896",
+      "titel": "Stadens ljus",
+      "start": "2026-11-05T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125896/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125952",
+      "titel": "Medan vi brinner",
+      "start": "2026-11-06T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125952/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125905",
+      "titel": "Stadens ljus",
+      "start": "2026-11-06T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125905/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125906",
+      "titel": "Stadens ljus",
+      "start": "2026-11-07T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125906/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125953",
+      "titel": "Medan vi brinner",
+      "start": "2026-11-07T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125953/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125958",
+      "titel": "Medan vi brinner",
+      "start": "2026-11-11T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125958/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124861",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-11-12T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124861/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125954",
+      "titel": "Medan vi brinner",
+      "start": "2026-11-13T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125954/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125907",
+      "titel": "Stadens ljus",
+      "start": "2026-11-13T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125907/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-131539",
+      "titel": "Monster och gudar",
+      "start": "2026-11-14T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Ettan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "notering": "Få biljetter kvar",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/monster-och-gudar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32275/131539/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125908",
+      "titel": "Stadens ljus",
+      "start": "2026-11-14T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125908/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121601",
+      "titel": "Medan vi brinner",
+      "start": "2026-11-14T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/121601/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125909",
+      "titel": "Stadens ljus",
+      "start": "2026-11-15T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125909/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125959",
+      "titel": "Medan vi brinner",
+      "start": "2026-11-18T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125959/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125960",
+      "titel": "Medan vi brinner",
+      "start": "2026-11-19T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125960/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121595",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-11-20T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/121595/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-131540",
+      "titel": "Monster och gudar",
+      "start": "2026-11-21T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Ettan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/monster-och-gudar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32275/131540/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125910",
+      "titel": "Stadens ljus",
+      "start": "2026-11-21T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125910/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121596",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-11-21T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/121596/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125946",
+      "titel": "Förnuft och känsla",
+      "start": "2026-11-27T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Genrep",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125946/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134802",
+      "titel": "Marklyft",
+      "start": "2026-11-27T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Gästspel från Palestina",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/marklyft/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32686/134802/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134804",
+      "titel": "Marklyft",
+      "start": "2026-11-28T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Gästspel från Palestina",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/marklyft/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32686/134804/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121508",
+      "titel": "Förnuft och känsla",
+      "start": "2026-11-28T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Premiär",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/121508/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121713",
+      "titel": "Förnuft och känsla",
+      "start": "2026-12-02T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/121713/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124862",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-12-03T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124862/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124873",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-12-04T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124873/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121712",
+      "titel": "Förnuft och känsla",
+      "start": "2026-12-05T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/121712/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124874",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-12-05T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124874/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124863",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-12-08T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124863/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124864",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-12-09T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124864/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121714",
+      "titel": "Förnuft och känsla",
+      "start": "2026-12-10T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/121714/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121711",
+      "titel": "Förnuft och känsla",
+      "start": "2026-12-11T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/121711/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124875",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-12-11T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124875/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125911",
+      "titel": "Stadens ljus",
+      "start": "2026-12-12T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125911/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121597",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-12-12T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/121597/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121715",
+      "titel": "Förnuft och känsla",
+      "start": "2026-12-15T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/121715/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125943",
+      "titel": "Förnuft och känsla",
+      "start": "2026-12-16T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125943/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125897",
+      "titel": "Stadens ljus",
+      "start": "2026-12-17T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125897/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124865",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-12-17T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124865/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125912",
+      "titel": "Stadens ljus",
+      "start": "2026-12-19T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125912/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124876",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-12-19T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124876/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125945",
+      "titel": "Förnuft och känsla",
+      "start": "2026-12-26T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125945/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125961",
+      "titel": "Förnuft och känsla",
+      "start": "2026-12-29T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125961/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124866",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-12-29T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124866/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125962",
+      "titel": "Förnuft och känsla",
+      "start": "2026-12-30T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125962/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124877",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2027-01-02T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124877/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125966",
+      "titel": "Förnuft och känsla",
+      "start": "2027-01-02T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125966/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125963",
+      "titel": "Förnuft och känsla",
+      "start": "2027-01-06T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125963/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134259",
+      "titel": "Ingenmansland",
+      "start": "2027-01-07T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Genrep, Få biljetter kvar",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134259/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134193",
+      "titel": "Ingenmansland",
+      "start": "2027-01-08T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Premiär",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134193/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125967",
+      "titel": "Förnuft och känsla",
+      "start": "2027-01-08T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125967/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125968",
+      "titel": "Förnuft och känsla",
+      "start": "2027-01-09T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125968/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124878",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2027-01-09T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124878/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134241",
+      "titel": "Ingenmansland",
+      "start": "2027-01-12T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134241/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134233",
+      "titel": "Ingenmansland",
+      "start": "2027-01-13T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134233/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121716",
+      "titel": "Förnuft och känsla",
+      "start": "2027-01-13T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/121716/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134234",
+      "titel": "Ingenmansland",
+      "start": "2027-01-14T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134234/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134252",
+      "titel": "Ingenmansland",
+      "start": "2027-01-15T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134252/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125969",
+      "titel": "Förnuft och känsla",
+      "start": "2027-01-15T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125969/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124879",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2027-01-15T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124879/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125970",
+      "titel": "Förnuft och känsla",
+      "start": "2027-01-16T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125970/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124880",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2027-01-16T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124880/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134253",
+      "titel": "Ingenmansland",
+      "start": "2027-01-19T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134253/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134235",
+      "titel": "Ingenmansland",
+      "start": "2027-01-20T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134235/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124867",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2027-01-20T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124867/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134236",
+      "titel": "Ingenmansland",
+      "start": "2027-01-21T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134236/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134254",
+      "titel": "Ingenmansland",
+      "start": "2027-01-22T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134254/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125971",
+      "titel": "Förnuft och känsla",
+      "start": "2027-01-22T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125971/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125972",
+      "titel": "Förnuft och känsla",
+      "start": "2027-01-23T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125972/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134255",
+      "titel": "Ingenmansland",
+      "start": "2027-01-26T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134255/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134237",
+      "titel": "Ingenmansland",
+      "start": "2027-01-27T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134237/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134238",
+      "titel": "Ingenmansland",
+      "start": "2027-01-28T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134238/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134256",
+      "titel": "Ingenmansland",
+      "start": "2027-01-29T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134256/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134185",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-01-29T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Genrep",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134185/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121509",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-01-30T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Premiär",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/121509/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134257",
+      "titel": "Ingenmansland",
+      "start": "2027-02-02T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134257/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121684",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-02-02T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/121684/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134239",
+      "titel": "Ingenmansland",
+      "start": "2027-02-03T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134239/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121686",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-02-03T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/121686/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134240",
+      "titel": "Ingenmansland",
+      "start": "2027-02-04T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134240/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121685",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-02-04T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/121685/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134258",
+      "titel": "Ingenmansland",
+      "start": "2027-02-05T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134258/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125973",
+      "titel": "Förnuft och känsla",
+      "start": "2027-02-05T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125973/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124881",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2027-02-05T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124881/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-124882",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2027-02-06T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124882/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125974",
+      "titel": "Förnuft och känsla",
+      "start": "2027-02-06T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125974/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125964",
+      "titel": "Förnuft och känsla",
+      "start": "2027-02-10T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125964/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134788",
+      "titel": "Ingenmansland",
+      "start": "2027-02-11T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134788/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125965",
+      "titel": "Förnuft och känsla",
+      "start": "2027-02-11T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125965/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134789",
+      "titel": "Ingenmansland",
+      "start": "2027-02-12T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134789/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134124",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-02-12T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Genrep",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134124/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121681",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-02-12T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/121681/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121683",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-02-13T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/121683/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134099",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-02-13T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Premiär, Få biljetter kvar",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134099/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134790",
+      "titel": "Ingenmansland",
+      "start": "2027-02-17T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134790/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121537",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-02-17T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/121537/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134154",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-02-17T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134154/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134791",
+      "titel": "Ingenmansland",
+      "start": "2027-02-18T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134791/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134170",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-02-18T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134170/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134097",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-02-18T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134097/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121669",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-02-19T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/121669/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125975",
+      "titel": "Förnuft och känsla",
+      "start": "2027-02-19T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125975/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-125976",
+      "titel": "Förnuft och känsla",
+      "start": "2027-02-20T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/fornuft-och-kansla/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29504/125976/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121672",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-02-20T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/121672/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134171",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-02-24T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134171/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134113",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-02-24T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134113/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134792",
+      "titel": "Ingenmansland",
+      "start": "2027-02-25T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134792/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134172",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-02-25T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134172/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121667",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-02-25T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/121667/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134793",
+      "titel": "Ingenmansland",
+      "start": "2027-02-26T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134793/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134102",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-02-26T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134102/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121682",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-02-26T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/121682/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134103",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-02-27T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134103/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134179",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-02-27T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134179/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134173",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-03-04T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134173/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134114",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-03-04T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134114/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134104",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-03-05T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134104/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134180",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-03-05T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134180/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134181",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-03-06T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134181/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134105",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-03-06T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134105/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-121668",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-03-11T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/121668/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134182",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-03-12T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134182/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134106",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-03-12T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134106/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134107",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-03-13T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134107/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134183",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-03-13T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134183/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134115",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-03-18T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134115/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134108",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-03-19T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134108/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134109",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-03-20T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134109/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134174",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-03-23T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134174/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134116",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-03-23T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134116/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134117",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-03-25T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134117/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134110",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-03-27T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134110/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134118",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-03-31T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134118/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134111",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-04-16T18:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134111/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134112",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-04-17T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134112/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134184",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-04-17T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134184/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134175",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-04-20T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134175/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134119",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-04-20T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134119/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134120",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-04-22T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134120/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134176",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-04-22T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134176/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134121",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-04-27T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134121/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134122",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-04-28T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134122/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134177",
+      "titel": "Lotten von Kræmer",
+      "start": "2027-04-28T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Stora scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/lotten-von-kraemer/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29505/134177/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134123",
+      "titel": "Petra von Kants bittra tårar",
+      "start": "2027-04-29T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134123/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    }
+  ]
+}

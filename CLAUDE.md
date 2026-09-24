@@ -16,7 +16,13 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 - **Sida:** `index.html` i roten, publicerad med GitHub Pages. I dag ligger demodatan inbakad i filen.
 - **Backend:** Firebase. Firestore som databas, Authentication med inloggning via e-postlänk (magisk länk). Databasen ska ligga i en region i EU.
 - **Hämtningar:** GitHub Actions enligt schema, som skriver till Firestore. Inte Cloud Functions tills vidare, eftersom de kräver Blaze-planen.
-- **Princip:** bara officiella API:er och direkta flöden. Ingen skrapning. Små arrangörer ska senare kunna lägga in evenemang själva eller klistra in en iCal-länk.
+- **Princip:** officiella API:er och direkta flöden i första hand. Små arrangörer ska senare kunna lägga in evenemang själva eller klistra in en iCal-länk.
+- **Tillfälligt undantag (beslut sep 2026):** tills vi har API-nycklar eller avtal får vi hämta från källornas publika webbsidor. Villkor:
+  - Följ robots.txt. Säger den nej hoppar vi över sidan.
+  - Använd strukturerad data när den finns (iCal, RSS, WordPress-API, JSON-LD) före att läsa av HTML.
+  - Högst en hämtning per källa och dygn, lugn takt, och en User-Agent som säger vilka vi är.
+  - Spara bara fakta: titel, tid, plats, kategori och länk tillbaka. Inga beskrivningar och inga bilder.
+  - Byt till API eller flöde så fort ett sådant finns, och sluta direkt om en källa ber oss.
 
 ## Källor
 
@@ -44,8 +50,8 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 ### Senare
 
 - Ticketmaster: öppen nyckel, täcker mest större turnéer.
-- Begära data från offentlig verksamhet: Destination Uppsala, Kubik, Bibliotek Uppsala, Reginateatern, Uppsala stadsteater, Musik i Uppland.
-- Heja Uppsala: hämtas inte. Eventuellt samarbete.
+- Begära data från offentlig verksamhet: Reginateatern, Musik i Uppland. (Destination Uppsala, Kubik, Bibliotek Uppsala och Uppsala stadsteater hämtas redan, se "Hämtningarna".)
+- Heja Uppsala: hämtas tillfälligt under testfasen. Eventuellt samarbete.
 
 ## Datamodell
 
@@ -71,10 +77,40 @@ Tider sparas med tidszon och visas i svensk tid.
 
 1. Spara `SVK_API_KEY` som hemlighet i GitHub.
 2. Skapa Firebase-projektet (Firestore i EU, Authentication med e-postlänk, GitHub Pages-adressen som tillåten domän).
-3. Hämtningsskript och workflow för Svenska kyrkan som skriver till Firestore och till en fil med de kommande två veckorna.
+3. Hämtningsskript och workflow som skriver till Firestore och till filer. **Byggt** för fem källor, se "Hämtningarna" nedan.
 4. Låt `index.html` läsa den filen i stället för den inbakade datan.
 5. Riktig inloggning och favoriter.
-6. Tickster när nyckeln kommer.
+6. Tickster: byt från webbsidorna till API:et när nyckeln kommer.
+
+## Hämtningarna
+
+Allt körs av `.github/workflows/hamta-evenemang.yml` varje dag 04:13 UTC, och kan startas för hand under Actions. Varje källa är ett eget steg, så att en trasig källa inte stoppar de andra. Resultatet hamnar i `data/<källa>.json`, som workflowet sparar i repot.
+
+| Källa | Mapp | Hur | Status |
+|---|---|---|---|
+| Svenska kyrkan | `scripts/svenska-kyrkan/` | Officiellt API med nyckel | Väntar på `SVK_API_KEY`. Fältnamnen är obekräftade. |
+| Uppsala stadsteater | `scripts/stadsteatern/` | Teaterns öppna WordPress-flöde (`performance-page`) | Provkörd, runt 200 föreställningar. |
+| Destination Uppsala | `scripts/destination-uppsala/` | Läser listan `/event/`, klockslag från evenemangens sidor | Provkörd, runt 160 evenemang. |
+| Tickster | `scripts/tickster/` | Läser listan per ort och evenemangens sidor (schema.org) | Provkörd, runt 360 evenemang. Byt till API när nyckeln kommer. |
+| Bibliotek Uppsala | `scripts/bibliotek/` | Axiells öppna API, samma som bibliotekets sida använder | Provkörd, runt 500 evenemang. Läxhjälp, IT-handledning och juridisk rådgivning tas bort. |
+| Heja Uppsala | `scripts/heja/` | Läser kalenderlistan och "När och var?" på evenemangens sidor | Provkörd, runt 460 evenemang. Tillfälligt under testfasen, enligt Alexanders beslut. Deras RSS är låst med nyckel och kalendern är en betaltjänst, så fråga dem innan sidan blir skarp. |
+| Kubik Uppsala | `scripts/kubik/` | Samma sökning som sidan hitta-aktiviteter gör (`/partials/events/search`) | Provkörd, runt 140 aktiviteter. Perioder (återkommande aktiviteter) blir långvariga evenemang. |
+
+Gemensamma delar i `scripts/gemensamt/`:
+
+- `webb.mjs`: schysst hämtning. Följer robots.txt, väntar minst 2 sekunder mellan anrop och säger vilka vi är.
+- `spara.mjs`: sparar en källa, sätter kanonisk plats och larmar vid noll eller halverat antal.
+- `platser.mjs`: platstabellen med alias och vanlig kategori per plats. Lägg till platser här.
+- `kategori.mjs`: gissar kategori från text. `tid.mjs`: svensk tid med tidszon. `text.mjs`: städar HTML.
+- `firestore.mjs`: skriver till Firestore om `FIREBASE_SERVICE_ACCOUNT` finns.
+
+Övrigt:
+
+- `start` är datum och tid med tidszon (`2026-09-24T19:00:00+02:00`), eller bara datum (`2026-09-24`) när källan inte anger klockslag.
+- `data/cache/` minns evenemangssidor vi redan läst, så att de inte hämtas varje dag.
+- Rådatan (`data/radata/`) läggs inte i repot. Den sparas i Firestore och som bilaga till varje körning i 14 dagar.
+- Testerna körs med `npm test`. Varje källa har en `regler.test.mjs` med sparad exempeldata.
+- Dubbletter mellan källor (samma konsert hos Tickster och Destination Uppsala) slås inte ihop än. Det görs när sidan börjar läsa filerna.
 
 ## Att inte glömma
 

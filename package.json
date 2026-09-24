@@ -1,0 +1,22 @@
+{
+  "name": "uppsala-just-nu",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "hamta:svk": "node scripts/svenska-kyrkan/hamta.mjs",
+    "hamta:stadsteatern": "node scripts/stadsteatern/hamta.mjs",
+    "hamta:destination-uppsala": "node scripts/destination-uppsala/hamta.mjs",
+    "hamta:tickster": "node scripts/tickster/hamta.mjs",
+    "hamta:bibliotek": "node scripts/bibliotek/hamta.mjs",
+    "hamta:heja": "node scripts/heja/hamta.mjs",
+    "hamta:kubik": "node scripts/kubik/hamta.mjs",
+    "test": "node --test scripts/*.test.mjs scripts/**/*.test.mjs",
+    "bygg:sida": "node scripts/bygg-sida.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "firebase-admin": "^14.5.0"
+  }
+}

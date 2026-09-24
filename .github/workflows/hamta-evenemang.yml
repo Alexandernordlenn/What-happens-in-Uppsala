@@ -1,0 +1,124 @@
+# Hämtar evenemang från alla källor varje morgon och sparar dem i repot
+# (en fil per källa i data/) och, om det är inställt, i Firestore.
+#
+# Går också att köra för hand: fliken Actions -> "Hämta evenemang" -> Run workflow.
+#
+# Varje källa är ett eget steg. Om en källa misslyckas körs de andra ändå,
+# och det som lyckades sparas. Körningen blir röd om något gick fel.
+
+name: Hämta evenemang
+
+on:
+  schedule:
+    # Varje dag 04:13 UTC, alltså 06:13 svensk sommartid och 05:13 vintertid.
+    - cron: "13 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write # behövs för att spara de nya datafilerna i repot
+
+concurrency:
+  group: hamta-evenemang
+  cancel-in-progress: false
+
+jobs:
+  hamta:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40 # Första körningen läser många evenemangssidor.
+    env:
+      SVK_API_KEY: ${{ secrets.SVK_API_KEY }}
+      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+    steps:
+      - name: Hämta koden
+        uses: actions/checkout@v4
+
+      - name: Installera Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Installera paket
+        run: npm ci
+
+      - name: Kör testerna
+        run: npm test
+
+      - name: Svenska kyrkan
+        id: svk
+        # Hoppas över tills hemligheten SVK_API_KEY finns.
+        if: env.SVK_API_KEY != ''
+        continue-on-error: true
+        run: npm run hamta:svk
+
+      - name: Uppsala stadsteater
+        id: stadsteatern
+        continue-on-error: true
+        run: npm run hamta:stadsteatern
+
+      - name: Destination Uppsala
+        id: destination
+        continue-on-error: true
+        run: npm run hamta:destination-uppsala
+
+      - name: Tickster
+        id: tickster
+        continue-on-error: true
+        run: npm run hamta:tickster
+
+      - name: Bibliotek Uppsala
+        id: bibliotek
+        continue-on-error: true
+        run: npm run hamta:bibliotek
+
+      - name: Heja Uppsala
+        id: heja
+        continue-on-error: true
+        run: npm run hamta:heja
+
+      - name: Kubik Uppsala
+        id: kubik
+        continue-on-error: true
+        run: npm run hamta:kubik
+
+      - name: Bygg filen som sidan läser (data/sida.json)
+        id: sida
+        continue-on-error: true
+        run: npm run bygg:sida
+
+      - name: Spara rådatan som bilaga till körningen
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: radata
+          path: data/radata/
+          retention-days: 14
+          if-no-files-found: ignore
+
+      - name: Spara datafilerna i repot om de har ändrats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/  # data/radata/ hoppas över tack vare .gitignore
+          if git diff --cached --quiet; then
+            echo "Inga ändringar."
+          else
+            git commit -m "Uppdatera evenemang"
+            git push
+          fi
+
+      - name: Kontrollera att alla källor gick bra
+        run: |
+          fel=0
+          for kalla in "Svenska kyrkan:${{ steps.svk.outcome }}" "Uppsala stadsteater:${{ steps.stadsteatern.outcome }}" \
+                       "Destination Uppsala:${{ steps.destination.outcome }}" \
+                       "Tickster:${{ steps.tickster.outcome }}" \
+                       "Bibliotek Uppsala:${{ steps.bibliotek.outcome }}" \
+                       "Heja Uppsala:${{ steps.heja.outcome }}" \
+                       "Kubik Uppsala:${{ steps.kubik.outcome }}" \
+                       "Sidans fil:${{ steps.sida.outcome }}"; do
+            namn="${kalla%%:*}"; utfall="${kalla#*:}"
+            echo "$namn: ${utfall:-hoppades över}"
+            if [ "$utfall" = "failure" ]; then fel=1; fi
+          done
+          exit $fel

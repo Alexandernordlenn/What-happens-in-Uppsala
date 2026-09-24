@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Uppsala just nu – demo</title>
+<title>Uppsala just nu</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -143,8 +143,11 @@ a{color:var(--accent)}
 .seg{display:inline-flex;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:3px}
 .seg button{border:0;background:transparent;padding:6px 11px;border-radius:7px;font-size:.9rem;font-weight:500;color:var(--muted)}
 .seg button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
-.chips{display:flex;gap:8px;overflow-x:auto;padding:10px 0 2px;scrollbar-width:none}
-.chips::-webkit-scrollbar{display:none}
+/* Filter: på dator radbryts knapparna, i mobilen ligger de i en panel bakom knappen "Filter" */
+.chips{padding:10px 0 2px}
+.fgroups{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.fgroup,.fitems{display:contents}
+.flabel,.fbar,.fdone{display:none}
 .chip{flex:0 0 auto;display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 12px;font-size:.88rem;font-weight:500;white-space:nowrap}
 .chip i{width:9px;height:9px;border-radius:50%;background:var(--c,var(--muted))}
 .chip small{color:var(--muted);font-variant-numeric:tabular-nums}
@@ -152,6 +155,29 @@ a{color:var(--accent)}
 .chip[aria-pressed="true"] small{color:var(--bg);opacity:.75}
 .chip.flag[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .divider{flex:0 0 1px;background:var(--line);margin:4px 2px}
+@media (max-width:640px){
+  .row1 .seg{display:flex;width:100%}
+  .row1 .seg button{flex:1 1 0;padding:7px 4px;white-space:nowrap}
+  .fbar{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+  .ftoggle{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--ink);background:var(--surface);color:var(--ink);border-radius:999px;padding:8px 14px;font-weight:600;font-size:.92rem;min-height:40px}
+  .ftoggle b{display:inline-grid;place-items:center;min-width:1.4em;height:1.4em;padding:0 .35em;border-radius:999px;background:var(--ink);color:var(--bg);font-size:.78rem}
+  .ftoggle svg{transition:transform .15s}
+  .ftoggle[aria-expanded="true"] svg{transform:rotate(180deg)}
+  .factive{font-size:.86rem;color:var(--muted);flex:1 1 120px;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .fclear{border:0;background:none;color:var(--accent);font-weight:600;font-size:.88rem;padding:8px 2px;text-decoration:underline;text-underline-offset:2px}
+  .fgroups{display:none;margin-top:10px;padding:14px;border:1px solid var(--line);border-radius:14px;background:var(--surface)}
+  .controls.fopen .fgroups{display:block}
+  .fgroup{display:block}
+  .fgroup + .fgroup{margin-top:14px}
+  .flabel{display:block;font-size:.76rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
+  .fitems{display:flex;flex-wrap:wrap;gap:8px}
+  .fitems.cats{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .fgroups .chip{min-height:42px;font-size:.92rem;background:var(--bg)}
+  .fitems.cats .chip{justify-content:flex-start;padding:8px 12px;border-radius:12px;white-space:normal;text-align:left;line-height:1.2}
+  .fitems.cats .chip small{margin-left:auto}
+  .fgroups .divider{display:none}
+  .fdone{display:block;width:100%;margin-top:14px;border:0;border-radius:10px;padding:11px 14px;background:var(--ink);color:var(--bg);font-weight:600;font-size:.95rem}
+}
 .viewbar{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:10px;flex-wrap:wrap}
 .status{font-size:.88rem;color:var(--muted)}
 .status button{border:0;background:none;color:var(--accent);font-weight:600;padding:0 0 0 6px;text-decoration:underline;text-underline-offset:2px}
@@ -283,7 +309,7 @@ footer p{margin:0 0 8px}
   <header class="top">
     <div>
       <div class="brand"><span class="brand-mark" aria-hidden="true"><i style="height:8px"></i><i style="height:14px"></i><i style="height:18px"></i><i style="height:11px"></i></span>Uppsala just nu</div>
-      <div class="snap">Demo med riktig data, hämtad tisdag 22 september 2026</div>
+      <div class="snap" id="snap">Demo med riktig data, hämtad tisdag 22 september 2026</div>
     </div>
     <div id="userSlot"></div>
   </header>
@@ -314,7 +340,7 @@ footer p{margin:0 0 8px}
   <main id="main"></main>
 
   <footer>
-    <p>Det här är en demo. Evenemangen kommer från publika sidor hos Tickster, Heja Uppsala, Destination Uppsala, Svenska kyrkan, Bibliotek Uppsala och Uppsala stadsteater, hämtade 22 september 2026. Tider visas där de fanns i underlaget; i en skarp version kommer de från respektive källas API eller flöde. Två tider kommer från andra sidor än de listade källorna och är markerade i respektive evenemang.</p>
+    <p id="footsrc">Det här är en demo. Evenemangen kommer från publika sidor hos Tickster, Heja Uppsala, Destination Uppsala, Svenska kyrkan, Bibliotek Uppsala och Uppsala stadsteater, hämtade 22 september 2026.</p>
     <p>Sidan visar bara fakta (titel, datum, tid och plats) och länkar alltid vidare till arrangören för beskrivning, bilder och biljetter.</p>
     <p>Inloggningen är en demo av hur det kan fungera: inget mejl skickas, och dina val sparas bara i den här webbläsaren. <button class="linkbtn" id="openSources">Om datan och källorna</button></p>
   </footer>
@@ -328,31 +354,33 @@ footer p{margin:0 0 8px}
 "use strict";
 /* ---------- Källor ---------- */
 var SRC = {
-  t:{name:"Tickster", base:"https://www.tickster.com/se/sv/events/", how:"Officiellt API",
-     status:"Nyckel söks hos Tickster och godkänns manuellt. Ger tider, platser med koordinater, taggar och biljettlänkar. Täcker bland annat UKK, Katalin, Kaliber Live, konstmuseet, Biotopia, Sirius, Storvreta och Uppsala Basket (357 kommande evenemang i Uppsala just nu). Hämta per arrangör och spelplats, inte bara per stad, annars missas till exempel Storvretas matcher.",
+  t:{name:"Tickster", base:"https://www.tickster.com/se/sv/events/", how:"Publika sidor",
+     status:"Läses från Ticksters publika sidor för Uppsala och kommunens mindre orter, tills vi får en API-nyckel. Evenemangssidan ger exakt tid och plats.",
      demo:"I demon: publika evenemangssidor."},
-  h:{name:"Heja Uppsala", base:"https://hejauppsala.com/kalender/", how:"Partneravtal",
-     status:"Privat lokal kalender med många små arrangörer som bibliotek, kyrkor, föreningar och idrott. Återanvändning kräver avtal.",
+  h:{name:"Heja Uppsala", base:"https://hejauppsala.com/kalender/", how:"Publika sidor, test",
+     status:"Privat lokal kalender med många små arrangörer. Hämtas tillfälligt under testfasen. För att använda den på riktigt behövs ett avtal.",
      demo:"I demon: kalenderns tre första sidor."},
-  d:{name:"Destination Uppsala", base:"https://destinationuppsala.se/event/", how:"Öppna data",
-     status:"Kommunalt bolag (Destination Uppsala AB). Datan kan begäras för vidareutnyttjande enligt öppna data-lagen. Bäst på utställningar och längre föreställningsperioder.",
+  d:{name:"Destination Uppsala", base:"https://destinationuppsala.se/event/", how:"Publika sidor",
+     status:"Kommunalt bolag. Listan med kommande evenemang läses varje morgon, och klockslag hämtas från varje evenemangs sida.",
      demo:"I demon: eventkalenderns första sida."},
-  s:{name:"Uppsala stadsteater", base:"https://www.uppsalastadsteater.se/", how:"Samarbete",
-     status:"Kommunalt bolag. Webbplatsen tillåter inte automatiserad hämtning, så be teatern om ett flöde eller begär uppgifterna som offentlig verksamhet.",
+  s:{name:"Uppsala stadsteater", base:"https://www.uppsalastadsteater.se/", how:"Öppet flöde",
+     status:"Teaterns eget dataflöde med alla föreställningar, biljettlänkar och vilka som är inställda eller slutsålda.",
      demo:"I demon: en premiär från säsongssidan, inlagd för hand."},
   k:{name:"Svenska kyrkan", base:"https://www.svenskakyrkan.se/", how:"Öppet API",
-     status:"Kalender-API för alla församlingar. Gratis nyckel via api.svenskakyrkan.se, oftast under CC BY 4.0, vilket betyder att källan ska anges. Uppsala pastorat har sex egna kalender-ID:n att filtrera på.",
+     status:"Kalender-API för alla församlingar, CC BY 4.0. Gudstjänster och mässor tas bort, musik behålls. Hämtas så fort nyckeln ligger i GitHub.",
      demo:"I demon: konsertsidan för Uppsala pastorat, tills nyckeln är på plats."},
-  b:{name:"Bibliotek Uppsala", base:"https://bibliotekuppsala.se/", how:"Begär data",
-     status:"Kommunens bibliotek. Kalendern laddas med JavaScript och ser ut att ligga i ett bibliotekssystem med API bakom, så fråga biblioteket om åtkomst.",
-     demo:"I demon: länk hittad via Heja Uppsala."}
+  b:{name:"Bibliotek Uppsala", base:"https://bibliotekuppsala.se/", how:"Öppet API",
+     status:"Samma öppna källa som bibliotekets egen kalender använder. Läxhjälp, IT-handledning och juridisk rådgivning tas inte med.",
+     demo:"I demon: länk hittad via Heja Uppsala."},
+  u:{name:"Kubik Uppsala", base:"https://www.kubikuppsala.se/", how:"Kommunens kalender",
+     status:"Uppsala kommuns kalender för barn och unga. Återkommande aktiviteter, till exempel en kurs varje tisdag, visas som en period.",
+     demo:"I demon: inte med."}
 };
 var SOURCE_MAP = [
   {g:"Öppet API, skaffa nyckel direkt", items:[
     {name:"Ticketmaster", status:"Gratis nyckel direkt, 5 000 anrop per dygn. Sök på stad eller koordinater. Täcker främst större turnéer."}
   ]},
   {g:"Offentlig verksamhet, begär datan", items:[
-    {name:"Kubik Uppsala", status:"Kommunens kalender för barn och unga, över 1 000 aktiviteter per år. Laddas med JavaScript, så be kulturförvaltningen om ett flöde."},
     {name:"Reginateatern", status:"Drivs av kommunens kulturförvaltning. Program och tider är kommunala uppgifter och kan begäras ut."},
     {name:"Musik i Uppland", status:"Regionens konsertverksamhet. Webbplatsen tillåter inte automatiserad hämtning, så fråga Region Uppsala."},
     {name:"Kulturnatten", status:"Kommunens kulturnämnd äger evenemanget. Hela programmet kommer en gång om året och är värt en egen import."}
@@ -577,17 +605,17 @@ function range(a,b){
 }
 function isoWeek(d){ var t=new Date(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate())); var n=t.getUTCDay()||7; t.setUTCDate(t.getUTCDate()+4-n); var y0=new Date(Date.UTC(t.getUTCFullYear(),0,1)); return Math.ceil(((t-y0)/86400000+1)/7); }
 function srcUrl(s){ var k=s.charAt(0), p=s.slice(2); if(k==="D") return {k:"d",url:p}; if(p.indexOf("http")===0) return {k:k,url:p}; return {k:k,url:SRC[k].base+p}; }
-function venueName(e){ return V[e.v] + (e.r ? ", "+e.r : ""); }
+function venueName(e){ return (V[e.v]||e.v) + (e.r ? ", "+e.r : ""); }
 
-E.forEach(function(e,i){
-  e.id = "e"+i;
+function prepare(){ E.forEach(function(e,i){
+  e.id = e.id || "e"+i;
   e.sd = pd(e.d); e.ed = e.e ? pd(e.e) : e.sd;
   e.span = diff(e.sd,e.ed)+1;
   e.long = e.span > 4;
   e.src = e.s.map(srcUrl);
   e.records = e.s.length + (e.occ ? e.occ-1 : 0);
   e.hay = fold(e.t+" "+venueName(e)+" "+(ALIASES[e.v]||[]).join(" "));
-});
+}); }
 
 /* ---------- Tillstånd ---------- */
 var PKEY="ujn-prefs-v1", UKEY="ujn-user-v1", prefs={cats:[]}, user=null, heroEdit=false, loginState={step:"email",email:"",sentAt:0};
@@ -598,8 +626,8 @@ function saveUser(){ try{ if(user) localStorage.setItem(UKEY, JSON.stringify(use
 var FKEY="ujn-favs-v1", favs=[];
 try{ favs = JSON.parse(localStorage.getItem(FKEY)||"[]"); if(!Array.isArray(favs)) favs=[]; }catch(err){ favs=[]; }
 function saveFavs(){ try{ localStorage.setItem(FKEY, JSON.stringify(favs)); }catch(err){} }
-var st = { q:"", period:"14", view:"list", cats:[], free:false, fam:false, fav:false, day:null, week:0,
-           src:{t:true,h:true,d:true,s:true,k:true,b:true} };
+var st = { q:"", period:"14", view:"list", cats:[], free:false, fam:false, fav:false, day:null, week:0, fopen:false,
+           src:{t:true,h:true,d:true,s:true,k:true,b:true,u:true} };
 
 function srcOn(e){ return e.src.some(function(s){ return st.src[s.k]; }); }
 function activeSrc(e){ return e.src.filter(function(s){ return st.src[s.k]; }); }
@@ -710,20 +738,38 @@ function renderChips(){
     if(st.q && e.hay.indexOf(fold(st.q.trim()))<0) return;
     if(days.some(function(d){ return activeOn(e,d); })) counts[e.c]++;
   });
-  var html = '<button class="chip flag" data-f="free" aria-pressed="'+st.free+'">Gratis</button>'+
-    '<button class="chip flag" data-f="fam" aria-pressed="'+st.fam+'">Barn & familj</button>'+
-    '<button class="chip flag" data-f="fav" aria-pressed="'+st.fav+'">Sparade <small>'+favs.length+'</small></button>'+
-    '<span class="divider" aria-hidden="true"></span>';
-  html += CAT_ORDER.map(function(c){
-    return '<button class="chip" data-c="'+c+'" style="--c:var(--c-'+c+')" aria-pressed="'+(st.cats.indexOf(c)>=0)+'"><i></i>'+CATS[c].label+' <small>'+counts[c]+'</small></button>';
-  }).join("");
+  // Valda filter i klartext, till knappraden i mobilen.
+  var valda=[]; if(st.free) valda.push("Gratis"); if(st.fam) valda.push("Barn & familj"); if(st.fav) valda.push("Sparade");
+  st.cats.forEach(function(c){ valda.push(CATS[c].label); });
+  var html = '<div class="fbar">'+
+      '<button class="ftoggle" data-fopen="1" aria-expanded="'+st.fopen+'" aria-controls="fgroups">Filter'+(valda.length?' <b>'+valda.length+'</b>':'')+
+        ' <svg width="12" height="12" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>'+
+      '<span class="factive">'+(valda.length?esc(valda.join(", ")):"Alla kategorier")+'</span>'+
+      (valda.length?'<button class="fclear" data-fclear="1">Rensa</button>':'')+
+    '</div>'+
+    '<div class="fgroups" id="fgroups">'+
+      '<div class="fgroup" role="group" aria-labelledby="fl-visa"><span class="flabel" id="fl-visa">Visa</span><div class="fitems">'+
+        '<button class="chip flag" data-f="free" aria-pressed="'+st.free+'">Gratis</button>'+
+        '<button class="chip flag" data-f="fam" aria-pressed="'+st.fam+'">Barn & familj</button>'+
+        '<button class="chip flag" data-f="fav" aria-pressed="'+st.fav+'">Sparade <small>'+favs.length+'</small></button>'+
+      '</div></div>'+
+      '<span class="divider" aria-hidden="true"></span>'+
+      '<div class="fgroup" role="group" aria-labelledby="fl-kat"><span class="flabel" id="fl-kat">Kategorier</span><div class="fitems cats">'+
+      CAT_ORDER.map(function(c){
+        return '<button class="chip" data-c="'+c+'" style="--c:var(--c-'+c+')" aria-pressed="'+(st.cats.indexOf(c)>=0)+'"><i></i>'+CATS[c].label+' <small>'+counts[c]+'</small></button>';
+      }).join("")+
+      '</div></div>'+
+      '<button class="fdone" data-fopen="0">Visa evenemangen</button>'+
+    '</div>';
   $("chips").innerHTML = html;
+  $("controls").classList.toggle("fopen", st.fopen);
   Array.prototype.forEach.call(document.querySelectorAll("#period button"),function(b){ b.setAttribute("aria-pressed", String(!st.day && b.dataset.p===st.period)); });
   Array.prototype.forEach.call(document.querySelectorAll("#views button"),function(b){ b.setAttribute("aria-pressed", String(b.dataset.v===st.view)); });
 }
 
 function evRow(e,d){
   var tags=[];
+  if(e.x) tags.push('<span class="tag warn">Inställt</span>');
   if(e.free) tags.push('<span class="tag free">Gratis</span>');
   if(e.fam) tags.push('<span class="tag">Barn & familj</span>');
   var a=activeSrc(e).length; if(a>1) tags.push('<span class="tag merge">'+a+' källor</span>');
@@ -839,7 +885,7 @@ function showEvent(id){
   if(e.pd) html+='<div class="note"><b>Möjlig dubblett av “'+esc(e.pd)+'”.</b> Samma dag och plats men olika titel, så systemet slår inte ihop dem automatiskt. En redaktör avgör.</div>';
   if(!e.tm && e.span===1){
     var viaT = e.src.some(function(s){return s.k==="t";});
-    html+='<div class="note">'+(viaT?'Tiden kommer via Tickster-API:t i en skarp version.':'Tiden finns på arrangörens sida och läses in när källan är ansluten.')+'</div>';
+    html+='<div class="note">'+(LIVE?'Källan anger inget klockslag. Se arrangörens sida.':(viaT?'Tiden kommer via Tickster-API:t i en skarp version.':'Tiden finns på arrangörens sida och läses in när källan är ansluten.'))+'</div>';
   }
   html+='<button class="btn ghost dfav" data-fav="'+e.id+'" aria-pressed="'+fav+'">'+heart+(fav?"Sparad":"Spara")+'</button>';
   openDrawer(html);
@@ -855,9 +901,9 @@ function showSources(){
     '<div class="stats"><div><b>'+recs+'</b><span>poster från källorna</span></div><div><b>'+evs+'</b><span>unika evenemang</span></div><div><b>'+merged+'</b><span>dubbletter sammanslagna</span></div></div>';
   html+=Object.keys(SRC).map(function(k){ var s=SRC[k];
     return '<div class="srow"><div class="h"><span><b>'+s.name+'</b><span class="how">'+s.how+'</span></span><button class="switch" role="switch" data-src="'+k+'" aria-checked="'+st.src[k]+'" aria-label="Visa evenemang från '+s.name+'"></button></div>'+
-      '<p>'+s.status+'</p><p class="demo">'+s.demo+' '+counts[k]+(counts[k]===1?' post.':' poster.')+'</p></div>';
+      '<p>'+s.status+'</p><p class="demo">'+(LIVE ? (LIVE.kallor[k] ? 'Hämtad '+fmtHamtad(LIVE.kallor[k].hamtad)+':' : 'Inte hämtad än:') : s.demo)+' '+counts[k]+(counts[k]===1?' post.':' poster.')+'</p></div>';
   }).join("");
-  html+='<h3>Källkarta för Uppsala</h3><p style="margin:0 0 4px;color:var(--muted);font-size:.86rem">Källor som inte finns i demon än, sorterade efter hur man får tillgång.</p>'+SOURCE_MAP.map(function(grp){
+  html+='<h3>Källkarta för Uppsala</h3><p style="margin:0 0 4px;color:var(--muted);font-size:.86rem">Källor som inte är med än, sorterade efter hur man får tillgång.</p>'+SOURCE_MAP.map(function(grp){
     return '<p style="margin:16px 0 0;font-weight:600;font-size:.9rem">'+grp.g+'</p>'+grp.items.map(function(s){
       return '<div class="srow nc"><div class="h"><span><b>'+s.name+'</b></span></div><p>'+s.status+'</p></div>'; }).join("");
   }).join("");
@@ -914,13 +960,18 @@ function tickResend(){
 function scrollToCal(){ var c=$("cal"); if(c) c.scrollIntoView({behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"}); }
 
 /* ---------- Händelser ---------- */
+// Knapparna ritas om vid varje klick, så fokus flyttas tillbaka till samma knapp.
+function refocus(sel){ var b=$("chips").querySelector(sel); if(b) b.focus(); }
 document.addEventListener("click",function(ev){
   var el=ev.target.closest("button, [data-open]"); if(!el) return;
   if(el.dataset.day){ st.day = st.day===el.dataset.day ? null : el.dataset.day; if(st.view==="week") st.view="list"; render(); if(st.day){ var t=$("d-"+st.day); if(t) t.scrollIntoView({behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth"}); } return; }
   if(el.dataset.p){ st.period=el.dataset.p; st.day=null; render(); return; }
   if(el.dataset.v){ st.view=el.dataset.v; render(); return; }
-  if(el.dataset.c){ var i=st.cats.indexOf(el.dataset.c); if(i>=0) st.cats.splice(i,1); else st.cats.push(el.dataset.c); render(); return; }
-  if(el.dataset.f){ st[el.dataset.f]=!st[el.dataset.f]; render(); return; }
+  if(el.dataset.c){ var i=st.cats.indexOf(el.dataset.c); if(i>=0) st.cats.splice(i,1); else st.cats.push(el.dataset.c); render(); refocus('[data-c="'+el.dataset.c+'"]'); return; }
+  if(el.dataset.f){ st[el.dataset.f]=!st[el.dataset.f]; render(); refocus('[data-f="'+el.dataset.f+'"]'); return; }
+  if(el.dataset.fopen){ st.fopen = el.dataset.fopen==="1" ? !st.fopen : false; render(); refocus(".ftoggle");
+    if(!st.fopen && el.classList.contains("fdone")) $("controls").scrollIntoView({block:"start"}); return; }
+  if(el.dataset.fclear){ st.cats=[]; st.free=st.fam=st.fav=false; render(); refocus(".ftoggle"); return; }
   if(el.dataset.fav){ var id=el.dataset.fav, j=favs.indexOf(id); if(j>=0) favs.splice(j,1); else favs.push(id); saveFavs(); render();
     if($("drawer").classList.contains("on") && el.classList.contains("dfav")) showEvent(id); return; }
   if(el.dataset.open){ showEvent(el.dataset.open); return; }
@@ -954,7 +1005,26 @@ document.addEventListener("keydown",function(ev){
 });
 var qt; $("q").addEventListener("input",function(ev){ clearTimeout(qt); qt=setTimeout(function(){ st.q=ev.target.value; render(); },120); });
 
-render();
+/* ---------- Riktig data ----------
+   GitHub hämtar evenemangen varje morgon och sparar dem i data/sida.json
+   (se scripts/bygg-sida.mjs). Finns filen visar sidan den. Annars visas
+   demodatan ovan, till exempel när man öppnar filen direkt på datorn. */
+var LIVE=null;
+function fmtHamtad(t){ var d=new Date(t); return d.getDate()+" "+MOS[d.getMonth()]+" kl "+String(d.getHours()).padStart(2,"0")+":"+String(d.getMinutes()).padStart(2,"0"); }
+function useLive(sida){
+  LIVE=sida;
+  E=sida.evenemang;
+  Object.keys(sida.platser).forEach(function(k){ if(!V[k]) V[k]=sida.platser[k]; });
+  var nu=new Date(); TODAY=new Date(nu.getFullYear(),nu.getMonth(),nu.getDate());
+  var namn=Object.keys(sida.kallor).map(function(k){ return SRC[k].name; });
+  $("snap").textContent="Uppdaterad "+fmtHamtad(sida.byggd)+" från "+namn.length+" källor";
+  $("footsrc").textContent="Evenemangen hämtas varje morgon från "+namn.join(", ").replace(/, ([^,]*)$/," och $1")+". Samma evenemang hos flera källor visas bara en gång.";
+}
+fetch("data/sida.json",{cache:"no-cache"})
+  .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+  .then(function(sida){ if(sida && sida.evenemang && sida.evenemang.length) useLive(sida); })
+  .catch(function(){ /* Ingen riktig data, så demodatan visas. */ })
+  .then(function(){ prepare(); render(); });
 })();
 </script>
 </body>
