@@ -17,7 +17,7 @@ import { KALLA, antalSidor, lasDetaljer, lasLista, raknaUtDatum, tillEvenemang }
 const LISTA = "https://destinationuppsala.se/event/";
 const CACHE = "data/cache/destination-uppsala.json";
 const MAX_SIDOR = 30;
-const MAX_NYA_DETALJSIDOR = 60; // Resten tas nästa dag.
+const MAX_NYA_DETALJSIDOR = 400; // Första körningen läser alla, sedan bara nya.
 
 function idag() {
   return new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Stockholm" }).format(new Date());

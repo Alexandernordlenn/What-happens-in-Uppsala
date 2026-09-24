@@ -17,7 +17,7 @@ import { KALLA, finnsNastaSida, iKommunen, lasDetaljer, lasLista, raknaUtDatum, 
 const LISTA = "https://hejauppsala.com/kalender/";
 const CACHE = "data/cache/heja.json";
 const MAX_SIDOR = 30;
-const MAX_NYA_DETALJSIDOR = 120; // Sidorna är stora, så resten tas nästa dag.
+const MAX_NYA_DETALJSIDOR = 700; // Första körningen läser alla, sedan bara nya.
 
 const idag = () => new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Stockholm" }).format(new Date());
 
@@ -47,7 +47,8 @@ async function main() {
   const nyCache = {};
   let nya = 0;
   for (const k of unika) {
-    if (cache[k.url]) {
+    // Sidor där vi inte hittade "När och var?" läses om, ifall vi har lärt oss läsa dem sedan dess.
+    if (cache[k.url]?.nar) {
       nyCache[k.url] = cache[k.url];
     } else if (nya < MAX_NYA_DETALJSIDOR) {
       nya++;

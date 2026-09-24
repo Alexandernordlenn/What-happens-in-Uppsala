@@ -64,7 +64,8 @@ export const finnsNastaSida = (html) => /class="next page-numbers"/.test(html);
 // ---------- Evenemangets egen sida ----------
 
 export function lasDetaljer(html) {
-  const avsnitt = html.match(/<h4[^>]*>\s*När och var\?\s*<\/h4>([\s\S]*?)<\/div>/);
+  // Rubriken är oftast <h4>, men ibland fetstil i ett vanligt stycke: <p><strong>När och var?</strong></p>
+  const avsnitt = html.match(/När och var\?\s*(?:<\/strong>)?\s*<\/(?:h4|p)>([\s\S]*?)<\/div>/);
   const knapp = html.match(/<a href="([^"]+)" class="\[ c-btn c-btn--lg \][^>]*>\s*([^<]*)<\/a>/);
   return {
     nar: avsnitt ? renText(avsnitt[1]) : "",

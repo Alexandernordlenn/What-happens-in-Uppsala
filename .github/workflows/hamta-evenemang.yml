@@ -24,7 +24,7 @@ concurrency:
 jobs:
   hamta:
     runs-on: ubuntu-latest
-    timeout-minutes: 40 # Första körningen läser många evenemangssidor.
+    timeout-minutes: 90 # Första körningen läser alla evenemangssidor, runt 35 minuter.
     env:
       SVK_API_KEY: ${{ secrets.SVK_API_KEY }}
       FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
@@ -104,6 +104,8 @@ jobs:
             echo "Inga ändringar."
           else
             git commit -m "Uppdatera evenemang"
+            # Om något annat har sparats i main under körningen hämtar vi in det först.
+            git pull --rebase -X theirs origin main
             git push
           fi
 

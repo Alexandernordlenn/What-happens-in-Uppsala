@@ -60,15 +60,19 @@ const MANADSORD = new RegExp(
 // Tolkar texten efter "När:". Sparas inte, utan räknas ut varje gång,
 // så att förbättringar här gäller även för sidor vi redan läst.
 export function tolkaNar(nar = "") {
-  // "kl. 19.00", "kl 18:00", "kl. 11–15" eller bara "19:30".
-  const klocka = nar.match(/\bkl\.?:?\s*(\d{1,2})(?:[.:](\d{2}))?/i) || nar.match(/\b(\d{1,2}):(\d{2})\b/);
+  // "kl. 19.00", "kl 18:00", "kl. 11–15", "19:30", eller "19.00" ensamt på en rad.
+  const klocka =
+    nar.match(/\bkl\.?:?\s*(\d{1,2})(?:[.:](\d{2}))?/i) ||
+    nar.match(/\b(\d{1,2}):(\d{2})\b/) ||
+    nar.match(/(?:^|\n)\s*(\d{1,2})\.(\d{2})(?!\d)/);
   const datumIText = [...nar.matchAll(MANADSORD)].map(([, dag, man, ar]) => {
     const i = MANADER.indexOf(man.toLowerCase().slice(0, 3));
     const manad = (i >= 0 ? i : ENGELSKA.indexOf(man.toLowerCase().slice(0, 3))) + 1;
     return iso(+ar, manad, +dag);
   });
   return {
-    klockslag: klocka && +klocka[1] < 24 ? `${klocka[1].padStart(2, "0")}:${klocka[2] || "00"}` : null,
+    klockslag:
+      klocka && +klocka[1] < 24 && +(klocka[2] || 0) < 60 ? `${klocka[1].padStart(2, "0")}:${klocka[2] || "00"}` : null,
     datumIText,
   };
 }

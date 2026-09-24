@@ -40,3 +40,11 @@ test("pågående utställning får riktigt startdatum och inget klockslag", asyn
   assert.equal(e.slut, "2026-09-27");
   assert.equal(e.langvarig, true);
 });
+
+test("rubriken som fetstil och klockslag ensamt på en rad", () => {
+  const html = `<p class="ai-optimize-7"><strong>När och var? </strong></p> <p class="ai-optimize-8">25 september 2026<br /> 19.00<br /> Gränby ishall, Uppsala</p> </div>`;
+  const d = lasDetaljer(html);
+  assert.match(d.nar, /19\.00/);
+  const k = { url: "https://hejauppsala.com/kalender/almtuna/", titel: "Almtuna-Karlskoga", kategorier: ["sport", "uppsala"], plats: "Gränby ishall", startdatum: "2026-09-25", slutdatum: null };
+  assert.equal(tillEvenemang(k, d).start, "2026-09-25T19:00:00+02:00");
+});
