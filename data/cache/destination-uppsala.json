@@ -1,20 +1,14 @@
 {
-  "https://destinationuppsala.se/event/alskade-strakar-uppsala-kammarorkester/": {
-    "nar": "24 september 2026",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://www.musikiuppland.se/konsert/alskade-strakar/",
+  "https://destinationuppsala.se/event/bondens-marknad-2026-09/": {
+    "nar": "25 september, 2026, kl. 13.00–18.00",
+    "pris": "Gratis",
+    "arrangorensSida": "https://www.facebook.com/events/1244068427856805/",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/disco-inferno-sveriges-storsta-discoshow/": {
     "nar": "25 september 2026 kl. 20:00",
     "pris": "",
     "arrangorensSida": "https://krall.se/show/disco-inferno/",
-    "hamtad": "2026-09-24"
-  },
-  "https://destinationuppsala.se/event/bondens-marknad-2026-09/": {
-    "nar": "25 september, 2026, kl. 13.00–18.00",
-    "pris": "Gratis",
-    "arrangorensSida": "https://www.facebook.com/events/1244068427856805/",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/80-talstema-pa-uppsala-slott-med-richard-tellstrom/": {
@@ -53,16 +47,16 @@
     "arrangorensSida": "https://ukk.se/louisa-lyne-di-yiddishe-kapelye/",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/babblarna-klonks-klapp-kalas/": {
-    "nar": "27 september 2026, kl. 11.00 & 14.00",
-    "pris": "",
-    "arrangorensSida": "https://secure.tickster.com/en/8tly4htu2ynpzuf/selectevent?c=wv20gm4",
-    "hamtad": "2026-09-24"
-  },
   "https://destinationuppsala.se/event/temavisning-50-ar-sedan-uppsala-domkyrkas-restaurering-1971-76/": {
     "nar": "27 september, 2026, kl. 12.30",
     "pris": "Gratis",
     "arrangorensSida": "http://www.uppsaladomkyrka.se/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/babblarna-klonks-klapp-kalas/": {
+    "nar": "27 september 2026, kl. 11.00 & 14.00",
+    "pris": "",
+    "arrangorensSida": "https://secure.tickster.com/en/8tly4htu2ynpzuf/selectevent?c=wv20gm4",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/fyris-comedy-stand-up-med-ozz-nujen/": {
@@ -173,22 +167,16 @@
     "arrangorensSida": "https://ukk.se/eva-dahlgren-revalution-club-tour/",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/sa-enkelt-gar-du-ner-10-kg-teater-elin-2/": {
-    "nar": "19 september, 17 oktober och 14 november 2026",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://www.teaterelin.com/home2/",
-    "hamtad": "2026-09-24"
-  },
   "https://destinationuppsala.se/event/uppsala-marathon-2026/": {
     "nar": "Lördag 17 oktober 2026",
     "pris": "",
     "arrangorensSida": "https://www.uppsalamarathon.se/",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/bo-kaspers-orkester-il-magnifico/": {
-    "nar": "18 oktober 2026 kl. 19.00",
-    "pris": "",
-    "arrangorensSida": "https://ukk.se/bo-kaspers-orkester-il-magnifico/",
+  "https://destinationuppsala.se/event/sa-enkelt-gar-du-ner-10-kg-teater-elin-2/": {
+    "nar": "19 september, 17 oktober och 14 november 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://www.teaterelin.com/home2/",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/fotboll-ik-sirius-if-elfsborg-2/": {
@@ -201,6 +189,12 @@
     "nar": "18 oktober 2026, kl. 16.00",
     "pris": "",
     "arrangorensSida": "https://ukk.se/robert-wells-40-ar-vid-flygeln/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/bo-kaspers-orkester-il-magnifico/": {
+    "nar": "18 oktober 2026 kl. 19.00",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/bo-kaspers-orkester-il-magnifico/",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/lisa-nilsson-moter-bohuslan-big-band/": {
@@ -221,17 +215,23 @@
     "arrangorensSida": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13",
     "hamtad": "2026-09-24"
   },
+  "https://destinationuppsala.se/event/carl-johan-vallgren/": {
+    "nar": "Torsdag 22 oktober 2026, kl. 19.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://ukk.se/carl-johan-vallgren/",
+    "hamtad": "2026-09-24"
+  },
   "https://destinationuppsala.se/event/bruch-och-brahms-uppsala-kammarorkester/": {
     "nar": "22 oktober 2026",
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://www.musikiuppland.se/konsert/bruch-och-brahms/",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/carl-johan-vallgren/": {
-    "nar": "Torsdag 22 oktober 2026, kl. 19.00",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://ukk.se/carl-johan-vallgren/",
-    "hamtad": "2026-09-24"
+  "https://destinationuppsala.se/event/fotboll-ik-sirius-aik/": {
+    "nar": "24 okt 2026",
+    "pris": "",
+    "arrangorensSida": "https://www.siriusfotboll.se/",
+    "hamtad": "2026-09-25"
   },
   "https://destinationuppsala.se/event/retro-antikmassa-2026-10/": {
     "nar": "24–25 oktober, 2026. Lördag kl. 10.00–17.00, söndag kl. 10.00–16.00",
@@ -245,16 +245,16 @@
     "arrangorensSida": "https://ukk.se/?s=saltst%C3%A4nk",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/halloweenmarknad-pa-chokladfabriken/": {
-    "nar": "24 oktober 2026, kl. 11.00–17.00",
-    "pris": "",
-    "arrangorensSida": "https://fb.me/e/4oIwXlSKj",
-    "hamtad": "2026-09-24"
-  },
   "https://destinationuppsala.se/event/peter-och-vargen-familjekonsert-med-uppsala-kammarorkester/": {
     "nar": "24 oktober 2026",
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://www.musikiuppland.se/konsert/familjekonsert-peter-och-vargen/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/halloweenmarknad-pa-chokladfabriken/": {
+    "nar": "24 oktober 2026, kl. 11.00–17.00",
+    "pris": "",
+    "arrangorensSida": "https://fb.me/e/4oIwXlSKj",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/tomas-ledin-symphonia-politropou/": {
@@ -455,16 +455,16 @@
     "arrangorensSida": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/chaplins-city-lights-uppsala-kammarorkester/": {
-    "nar": "26 november 2026",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://www.musikiuppland.se/konsert/city-lights/",
-    "hamtad": "2026-09-24"
-  },
   "https://destinationuppsala.se/event/mia-karlsson-coming-home-tour-2026/": {
     "nar": "26 november, 2026, kl. 20.00",
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://www.kulturaktiebolaget.se/evenemang/coming-home-tour-2026/pin:2026-11-26",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/chaplins-city-lights-uppsala-kammarorkester/": {
+    "nar": "26 november 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://www.musikiuppland.se/konsert/city-lights/",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/evigt-edvin-edvin-tornblom/": {
@@ -473,16 +473,10 @@
     "arrangorensSida": "https://ukk.se/evigt-edvin-edvin-tornblom-3/",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/julmarknad-pa-chokladfabriken-2026/": {
-    "nar": "28 november 2026, kl. 11.00–17.00",
+  "https://destinationuppsala.se/event/historisk-julmarknad-i-gamla-uppsala-2026/": {
+    "nar": "Lördag 28 nov-söndag 29 nov, kl. 11:00–16:00",
     "pris": "",
-    "arrangorensSida": "https://fb.me/e/6n1b9Rebj",
-    "hamtad": "2026-09-24"
-  },
-  "https://destinationuppsala.se/event/julmarknad-med-drop-in-vigsel/": {
-    "nar": "28 november 2026, kl. 11.00–15.00",
-    "pris": "Gratis",
-    "arrangorensSida": "https://bygg.uppsala.se/planerade-omraden/ulleraker/om-ulleraker/evenemang/",
+    "arrangorensSida": "https://www.upplandsmuseet.se/gamla-uppsala-museum/gum/historisk-julmarknad26/",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/svenska-masterskapen-hema-2026/": {
@@ -491,10 +485,16 @@
     "arrangorensSida": "https://fb.me/e/6c6cKFAdL",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/historisk-julmarknad-i-gamla-uppsala-2026/": {
-    "nar": "Lördag 28 nov-söndag 29 nov, kl. 11:00–16:00",
+  "https://destinationuppsala.se/event/julmarknad-med-drop-in-vigsel/": {
+    "nar": "28 november 2026, kl. 11.00–15.00",
+    "pris": "Gratis",
+    "arrangorensSida": "https://bygg.uppsala.se/planerade-omraden/ulleraker/om-ulleraker/evenemang/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/julmarknad-pa-chokladfabriken-2026/": {
+    "nar": "28 november 2026, kl. 11.00–17.00",
     "pris": "",
-    "arrangorensSida": "https://www.upplandsmuseet.se/gamla-uppsala-museum/gum/historisk-julmarknad26/",
+    "arrangorensSida": "https://fb.me/e/6n1b9Rebj",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/notknapparen-med-international-festival-ballet/": {
