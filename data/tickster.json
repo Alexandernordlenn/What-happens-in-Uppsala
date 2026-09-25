@@ -1,8 +1,8 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-09-24T21:18:52.936Z",
-  "antal": 354,
+  "hamtad": "2026-09-25T04:28:00.428Z",
+  "antal": 353,
   "evenemang": [
     {
       "id": "tickster-cmf926fnc3pr4wh",
@@ -27,31 +27,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "tickster-ubx3vpg09zcx6zn",
-      "titel": "250dagars - Utsparken - College Party!",
-      "start": "2026-09-24T22:00:00+02:00",
-      "slut": "2026-09-25T03:00:00+02:00",
-      "plats": {
-        "namn": "Birger Jarl",
-        "id": "birgerjarl",
-        "lat": 59.8542,
-        "lng": 17.6377
-      },
-      "kategori": "natt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/ubx3vpg09zcx6zn/2026-09-24/250dagars-utsparken-college-party",
-          "biljetter": "https://secure.tickster.com/sv/ubx3vpg09zcx6zn"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {

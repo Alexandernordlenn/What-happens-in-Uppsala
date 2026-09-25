@@ -1,7 +1,7 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-09-24T21:11:19.774Z",
+  "hamtad": "2026-09-25T04:27:17.235Z",
   "antal": 162,
   "evenemang": [
     {
@@ -203,28 +203,6 @@
       "installd": false
     },
     {
-      "id": "du-familjelordagar-pa-uppsala-konstmuseum-2026",
-      "titel": "Familjelördagar på Uppsala Konstmuseum",
-      "start": "2026-09-05",
-      "slut": "2026-12-05",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/familjelordagar-pa-uppsala-konstmuseum-2026/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
       "id": "du-sebastian-blind-teckningsstipendiat-2026",
       "titel": "Sebastian Blind – Teckningsstipendiat 2026",
       "start": "2026-09-05",
@@ -241,6 +219,28 @@
           "id": "destination-uppsala",
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/sebastian-blind-teckningsstipendiat-2026/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "du-familjelordagar-pa-uppsala-konstmuseum-2026",
+      "titel": "Familjelördagar på Uppsala Konstmuseum",
+      "start": "2026-09-05",
+      "slut": "2026-12-05",
+      "plats": {
+        "namn": "Uppsala konstmuseum",
+        "id": "konstmuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/familjelordagar-pa-uppsala-konstmuseum-2026/"
         }
       ],
       "langvarig": true,
@@ -310,29 +310,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "du-alskade-strakar-uppsala-kammarorkester",
-      "titel": "Älskade stråkar – Uppsala Kammarorkester",
-      "start": "2026-09-24",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/alskade-strakar-uppsala-kammarorkester/",
-          "arrangor": "https://www.musikiuppland.se/konsert/alskade-strakar/"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
@@ -1090,29 +1067,6 @@
       "installd": false
     },
     {
-      "id": "du-sa-enkelt-gar-du-ner-10-kg-teater-elin-2",
-      "titel": "”Så enkelt går du ner 10 kg!” – Teater Elin",
-      "start": "2026-10-17",
-      "slut": null,
-      "plats": {
-        "namn": "Språkateatern",
-        "id": "sprakateatern"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/sa-enkelt-gar-du-ner-10-kg-teater-elin-2/",
-          "arrangor": "https://www.teaterelin.com/home2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-uppsala-marathon-2026",
       "titel": "Uppsala Marathon 2026",
       "start": "2026-10-17",
@@ -1130,6 +1084,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/uppsala-marathon-2026/",
           "arrangor": "https://www.uppsalamarathon.se/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-sa-enkelt-gar-du-ner-10-kg-teater-elin-2",
+      "titel": "”Så enkelt går du ner 10 kg!” – Teater Elin",
+      "start": "2026-10-17",
+      "slut": null,
+      "plats": {
+        "namn": "Språkateatern",
+        "id": "sprakateatern"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/sa-enkelt-gar-du-ner-10-kg-teater-elin-2/",
+          "arrangor": "https://www.teaterelin.com/home2/"
         }
       ],
       "langvarig": false,
@@ -1342,6 +1319,51 @@
       "installd": false
     },
     {
+      "id": "du-hostlovskul-formstarkt-och-eldigt",
+      "titel": "Höstlovskul: Formstarkt och eldigt",
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Botaniska trädgården",
+        "id": "botaniska"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/hostlovskul-formstarkt-och-eldigt/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "du-fotboll-ik-sirius-aik",
+      "titel": "Fotboll: IK Sirius – AIK",
+      "start": "2026-10-24",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/fotboll-ik-sirius-aik/",
+          "arrangor": "https://www.siriusfotboll.se/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "du-peter-och-vargen-familjekonsert-med-uppsala-kammarorkester",
       "titel": "Peter och Vargen – Familjekonsert med Uppsala Kammarorkester",
       "start": "2026-10-24",
@@ -1362,28 +1384,6 @@
         }
       ],
       "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-hostlovskul-formstarkt-och-eldigt",
-      "titel": "Höstlovskul: Formstarkt och eldigt",
-      "start": "2026-10-24",
-      "slut": "2026-11-01",
-      "plats": {
-        "namn": "Botaniska trädgården",
-        "id": "botaniska"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/hostlovskul-formstarkt-och-eldigt/"
-        }
-      ],
-      "langvarig": true,
       "installd": false
     },
     {
@@ -2439,13 +2439,13 @@
       "installd": false
     },
     {
-      "id": "du-julmarknad-pa-chokladfabriken-2026",
-      "titel": "Julmarknad på chokladfabriken 2026",
+      "id": "du-historisk-julmarknad-i-gamla-uppsala-2026",
+      "titel": "Historisk julmarknad i Gamla Uppsala 2026",
       "start": "2026-11-28T11:00:00+01:00",
-      "slut": null,
+      "slut": "2026-11-29",
       "plats": {
-        "namn": "Vegan Delights",
-        "id": "du-plats-vegan-delights"
+        "namn": "Gamla Uppsala museum",
+        "id": "gamlauppsalamuseum"
       },
       "kategori": "ovrigt",
       "gratis": null,
@@ -2454,8 +2454,8 @@
         {
           "id": "destination-uppsala",
           "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/julmarknad-pa-chokladfabriken-2026/",
-          "arrangor": "https://fb.me/e/6n1b9Rebj"
+          "url": "https://destinationuppsala.se/event/historisk-julmarknad-i-gamla-uppsala-2026/",
+          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/gum/historisk-julmarknad26/"
         }
       ],
       "langvarig": false,
@@ -2485,13 +2485,13 @@
       "installd": false
     },
     {
-      "id": "du-historisk-julmarknad-i-gamla-uppsala-2026",
-      "titel": "Historisk julmarknad i Gamla Uppsala 2026",
+      "id": "du-julmarknad-pa-chokladfabriken-2026",
+      "titel": "Julmarknad på chokladfabriken 2026",
       "start": "2026-11-28T11:00:00+01:00",
-      "slut": "2026-11-29",
+      "slut": null,
       "plats": {
-        "namn": "Gamla Uppsala museum",
-        "id": "gamlauppsalamuseum"
+        "namn": "Vegan Delights",
+        "id": "du-plats-vegan-delights"
       },
       "kategori": "ovrigt",
       "gratis": null,
@@ -2500,8 +2500,8 @@
         {
           "id": "destination-uppsala",
           "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/historisk-julmarknad-i-gamla-uppsala-2026/",
-          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/gum/historisk-julmarknad26/"
+          "url": "https://destinationuppsala.se/event/julmarknad-pa-chokladfabriken-2026/",
+          "arrangor": "https://fb.me/e/6n1b9Rebj"
         }
       ],
       "langvarig": false,
