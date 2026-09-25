@@ -49,6 +49,9 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 
 ### Senare
 
+Se `KALLOR.md` för hela kartläggningen: vilka API:er och flöden som ska begäras, av vem, och vilka öppna källor som kan byggas direkt.
+
+
 - Ticketmaster: öppen nyckel, täcker mest större turnéer.
 - Begära data från offentlig verksamhet: Reginateatern, Musik i Uppland. (Destination Uppsala, Kubik, Bibliotek Uppsala och Uppsala stadsteater hämtas redan, se "Hämtningarna".)
 - Heja Uppsala: hämtas tillfälligt under testfasen. Eventuellt samarbete.
