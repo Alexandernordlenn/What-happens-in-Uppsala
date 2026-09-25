@@ -148,6 +148,12 @@ a{color:var(--accent)}
 .fgroups{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
 .fgroup,.fitems{display:contents}
 .flabel,.fbar,.fdone{display:none}
+/* Ålder och område: på dator bakom knappen "Ålder och område", i mobilen alltid i panelen */
+.fgroup.fx{display:none}
+.controls.fmore-on .fgroup.fx{display:flex;flex-wrap:wrap;gap:8px;align-items:center;width:100%}
+.controls.fmore-on .fgroup.fx .flabel{display:inline;font-size:.8rem;font-weight:600;color:var(--muted);margin-right:2px}
+.chip.fmore{border-style:dashed}
+.chip.fmore[aria-expanded="true"]{border-style:solid;border-color:var(--ink)}
 .chip{flex:0 0 auto;display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 12px;font-size:.88rem;font-weight:500;white-space:nowrap}
 .chip i{width:9px;height:9px;border-radius:50%;background:var(--c,var(--muted))}
 .chip small{color:var(--muted);font-variant-numeric:tabular-nums}
@@ -173,9 +179,16 @@ a{color:var(--accent)}
   .fitems{display:flex;flex-wrap:wrap;gap:8px}
   .fitems.cats{display:grid;grid-template-columns:1fr 1fr;gap:8px}
   .fgroups .chip{min-height:42px;font-size:.92rem;background:var(--bg)}
+  .fgroups .chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+  .fgroups .chip.flag[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
   .fitems.cats .chip{justify-content:flex-start;padding:8px 12px;border-radius:12px;white-space:normal;text-align:left;line-height:1.2}
   .fitems.cats .chip small{margin-left:auto}
   .fgroups .divider{display:none}
+  .chip.fmore{display:none}
+  .fgroup.fx,.controls.fmore-on .fgroup.fx{display:block;margin-top:14px}
+  .controls.fmore-on .fgroup.fx .flabel{display:block;font-size:.76rem;letter-spacing:.04em;text-transform:uppercase;margin:0 0 8px}
+  .fitems.areas{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .fitems.areas .chip{border-radius:12px;white-space:normal;text-align:left;line-height:1.2;justify-content:flex-start}
   .fdone{display:block;width:100%;margin-top:14px;border:0;border-radius:10px;padding:11px 14px;background:var(--ink);color:var(--bg);font-weight:600;font-size:.95rem}
 }
 .viewbar{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:10px;flex-wrap:wrap}
@@ -325,7 +338,7 @@ footer p{margin:0 0 8px}
         <input id="q" type="search" placeholder="Sök artist, plats eller evenemang" autocomplete="off">
       </label>
       <div class="seg" id="period" role="group" aria-label="Period">
-        <button data-p="today">Idag</button><button data-p="weekend">Helgen</button><button data-p="7">7 dagar</button><button data-p="14">14 dagar</button><button data-p="all">Allt</button>
+        <button data-p="today">Idag</button><button data-p="weekend">Helgen</button><button data-p="7">7 dagar</button><button data-p="14">14 dagar</button><button data-p="all">2 mån</button>
       </div>
     </div>
     <div class="chips" id="chips" role="group" aria-label="Filter"></div>
@@ -403,6 +416,11 @@ var CATS = {
   sport:{label:"Sport"}, mat:{label:"Mat & dryck"}, natt:{label:"Klubb & nattliv"}, ovrigt:{label:"Marknad & festival"}
 };
 var CAT_ORDER = ["musik","scen","museum","prat","sport","mat","natt","ovrigt"];
+/* Åldersgrupper och områden, samma indelning som Kubik (kommunens kalender för barn och unga). */
+var AGES = [["0-4",0,4],["5-6",5,6],["7-9",7,9],["10-12",10,12],["13-15",13,15],["16-18",16,18],["19-25",19,25]];
+var AREAS = [["centrum","Centrala staden"],["norra","Norra staden"],["ostra","Östra staden"],["sodra","Södra staden"],["vastra","Västra staden"],
+  ["norra-land","Norra landsbygden"],["ostra-land","Östra landsbygden"],["vastra-land","Västra landsbygden"]];
+var AREA_NAME = {}; AREAS.forEach(function(a){ AREA_NAME[a[0]]=a[1]; });
 var V = {
   katalin:"Katalin", ukk:"Uppsala Konsert & Kongress", stadsbib:"Stadsbiblioteket", domkyrkan:"Uppsala domkyrka",
   konstmuseum:"Uppsala konstmuseum", kaliber:"The Kaliber Room", blackbird:"Blackbird", ifu:"IFU Arena",
@@ -626,7 +644,7 @@ function saveUser(){ try{ if(user) localStorage.setItem(UKEY, JSON.stringify(use
 var FKEY="ujn-favs-v1", favs=[];
 try{ favs = JSON.parse(localStorage.getItem(FKEY)||"[]"); if(!Array.isArray(favs)) favs=[]; }catch(err){ favs=[]; }
 function saveFavs(){ try{ localStorage.setItem(FKEY, JSON.stringify(favs)); }catch(err){} }
-var st = { q:"", period:"14", view:"list", cats:[], free:false, fam:false, fav:false, day:null, week:0, fopen:false,
+var st = { q:"", period:"14", view:"list", cats:[], ages:[], areas:[], free:false, fam:false, fav:false, day:null, week:0, fopen:false, fmore:false,
            src:{t:true,h:true,d:true,s:true,k:true,b:true,u:true} };
 
 function srcOn(e){ return e.src.some(function(s){ return st.src[s.k]; }); }
@@ -637,8 +655,22 @@ function passBase(e){
   if(st.free && !e.free) return false;
   if(st.fam && !e.fam) return false;
   if(st.fav && favs.indexOf(e.id)<0) return false;
+  if(!ageOk(e) || !areaOk(e)) return false;
   if(st.q){ var q=fold(st.q.trim()); if(q && e.hay.indexOf(q)<0) return false; }
   return true;
+}
+// Ett evenemang för 3-6 år passar både gruppen 0-4 och 5-6. Evenemang utan åldersuppgift visas inte när en ålder är vald.
+function ageOk(e){
+  if(!st.ages.length) return true;
+  if(!e.a) return false;
+  return AGES.some(function(g){ return st.ages.indexOf(g[0])>=0 && e.a[0]<=g[2] && e.a[1]>=g[1]; });
+}
+function areaOk(e){ return !st.areas.length || (e.o && st.areas.indexOf(e.o)>=0); }
+function ageText(e){
+  if(!e.a || e.a[0]>=18) return "";
+  if(e.a[0]===0 && e.a[1]>=99) return "Alla åldrar";
+  if(e.a[1]>=99) return "Från "+e.a[0]+" år";
+  return e.a[0]+"–"+e.a[1]+" år";
 }
 function activeOn(e,d){ return !e.long && e.sd<=d && e.ed>=d; }
 function periodDays(){
@@ -648,7 +680,7 @@ function periodDays(){
   else if(st.period==="weekend"){ var off=(5-TODAY.getDay()+7)%7; n=[off,off+2]; }
   else if(st.period==="7") n=[0,6];
   else if(st.period==="14") n=[0,13];
-  else n=[0,17];
+  else n=[0,59]; // "Allt": två månader framåt
   var out=[]; for(var i=n[0];i<=n[1];i++) out.push(addDays(TODAY,i)); return out;
 }
 function sortDay(a,b){
@@ -735,12 +767,16 @@ function renderChips(){
     if(!srcOn(e)) return;
     if(st.free && !e.free) return; if(st.fam && !e.fam) return;
     if(st.fav && favs.indexOf(e.id)<0) return;
+    if(!ageOk(e) || !areaOk(e)) return;
     if(st.q && e.hay.indexOf(fold(st.q.trim()))<0) return;
     if(days.some(function(d){ return activeOn(e,d); })) counts[e.c]++;
   });
   // Valda filter i klartext, till knappraden i mobilen.
   var valda=[]; if(st.free) valda.push("Gratis"); if(st.fam) valda.push("Barn & familj"); if(st.fav) valda.push("Sparade");
   st.cats.forEach(function(c){ valda.push(CATS[c].label); });
+  AGES.forEach(function(g){ if(st.ages.indexOf(g[0])>=0) valda.push(g[0].replace("-","–")+" år"); });
+  st.areas.forEach(function(a){ valda.push(AREA_NAME[a]); });
+  var extra = st.ages.length + st.areas.length;
   var html = '<div class="fbar">'+
       '<button class="ftoggle" data-fopen="1" aria-expanded="'+st.fopen+'" aria-controls="fgroups">Filter'+(valda.length?' <b>'+valda.length+'</b>':'')+
         ' <svg width="12" height="12" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>'+
@@ -759,10 +795,18 @@ function renderChips(){
         return '<button class="chip" data-c="'+c+'" style="--c:var(--c-'+c+')" aria-pressed="'+(st.cats.indexOf(c)>=0)+'"><i></i>'+CATS[c].label+' <small>'+counts[c]+'</small></button>';
       }).join("")+
       '</div></div>'+
+      '<button class="chip fmore" data-fmore="1" aria-expanded="'+st.fmore+'">Ålder och område'+(extra?' <small>'+extra+'</small>':'')+'</button>'+
+      '<div class="fgroup fx" role="group" aria-labelledby="fl-alder"><span class="flabel" id="fl-alder">Ålder</span><div class="fitems ages">'+
+        AGES.map(function(g){ return '<button class="chip" data-age="'+g[0]+'" aria-pressed="'+(st.ages.indexOf(g[0])>=0)+'">'+g[0].replace("-","–")+' år</button>'; }).join("")+
+      '</div></div>'+
+      '<div class="fgroup fx" role="group" aria-labelledby="fl-omr"><span class="flabel" id="fl-omr">Område</span><div class="fitems areas">'+
+        AREAS.map(function(a){ return '<button class="chip" data-area="'+a[0]+'" aria-pressed="'+(st.areas.indexOf(a[0])>=0)+'">'+a[1]+'</button>'; }).join("")+
+      '</div></div>'+
       '<button class="fdone" data-fopen="0">Visa evenemangen</button>'+
     '</div>';
   $("chips").innerHTML = html;
   $("controls").classList.toggle("fopen", st.fopen);
+  $("controls").classList.toggle("fmore-on", st.fmore || extra>0);
   Array.prototype.forEach.call(document.querySelectorAll("#period button"),function(b){ b.setAttribute("aria-pressed", String(!st.day && b.dataset.p===st.period)); });
   Array.prototype.forEach.call(document.querySelectorAll("#views button"),function(b){ b.setAttribute("aria-pressed", String(b.dataset.v===st.view)); });
 }
@@ -772,6 +816,7 @@ function evRow(e,d){
   if(e.x) tags.push('<span class="tag warn">Inställt</span>');
   if(e.free) tags.push('<span class="tag free">Gratis</span>');
   if(e.fam) tags.push('<span class="tag">Barn & familj</span>');
+  var at=ageText(e); if(at) tags.push('<span class="tag">'+at+'</span>');
   var a=activeSrc(e).length; if(a>1) tags.push('<span class="tag merge">'+a+' källor</span>');
   if(e.occ) tags.push('<span class="tag">'+e.occ+' tillfällen</span>');
   if(e.pd) tags.push('<span class="tag warn">Möjlig dubblett</span>');
@@ -874,6 +919,7 @@ function showEvent(id){
   var fav=favs.indexOf(e.id)>=0;
   var html='<div class="dx"><span class="cat" style="--c:var(--c-'+e.c+')"><i></i>'+CATS[e.c].label+'</span><button class="close" data-close="1">Stäng</button></div>'+
     '<h2 id="dTitle">'+esc(e.t)+'</h2><dl class="facts"><dt>När</dt><dd>'+when+'</dd><dt>Tid</dt><dd>'+(e.tm||(e.span>1?'Flera dagar, se arrangören':'<span style="color:var(--muted)">Saknas i underlaget</span>'))+'</dd><dt>Plats</dt><dd>'+esc(venueName(e))+'</dd>'+
+    (ageText(e)?'<dt>Ålder</dt><dd>'+ageText(e)+'</dd>':'')+(e.o?'<dt>Område</dt><dd>'+AREA_NAME[e.o]+'</dd>':'')+
     (e.n?'<dt>Info</dt><dd>'+esc(e.n)+'</dd>':'')+(e.free?'<dt>Pris</dt><dd>Gratis</dd>':'')+'</dl>'+
     '<h3>Läs mer och köp biljett</h3><ul class="srcl">'+srcs.map(function(s){
       return '<li><span class="sn">'+SRC[s.k].name+'<span class="sm">'+SRC[s.k].how+'</span></span><a href="'+esc(s.url)+'" target="_blank" rel="noopener">Öppna hos '+SRC[s.k].name+'</a></li>';
@@ -961,6 +1007,7 @@ function scrollToCal(){ var c=$("cal"); if(c) c.scrollIntoView({behavior:matchMe
 
 /* ---------- Händelser ---------- */
 // Knapparna ritas om vid varje klick, så fokus flyttas tillbaka till samma knapp.
+function toggleIn(arr,v){ var i=arr.indexOf(v); if(i>=0) arr.splice(i,1); else arr.push(v); }
 function refocus(sel){ var b=$("chips").querySelector(sel); if(b) b.focus(); }
 document.addEventListener("click",function(ev){
   var el=ev.target.closest("button, [data-open]"); if(!el) return;
@@ -971,13 +1018,16 @@ document.addEventListener("click",function(ev){
   if(el.dataset.f){ st[el.dataset.f]=!st[el.dataset.f]; render(); refocus('[data-f="'+el.dataset.f+'"]'); return; }
   if(el.dataset.fopen){ st.fopen = el.dataset.fopen==="1" ? !st.fopen : false; render(); refocus(".ftoggle");
     if(!st.fopen && el.classList.contains("fdone")) $("controls").scrollIntoView({block:"start"}); return; }
-  if(el.dataset.fclear){ st.cats=[]; st.free=st.fam=st.fav=false; render(); refocus(".ftoggle"); return; }
+  if(el.dataset.fclear){ st.cats=[]; st.ages=[]; st.areas=[]; st.free=st.fam=st.fav=false; render(); refocus(".ftoggle"); return; }
+  if(el.dataset.age){ toggleIn(st.ages, el.dataset.age); render(); refocus('[data-age="'+el.dataset.age+'"]'); return; }
+  if(el.dataset.area){ toggleIn(st.areas, el.dataset.area); render(); refocus('[data-area="'+el.dataset.area+'"]'); return; }
+  if(el.dataset.fmore){ st.fmore=!st.fmore; render(); refocus(".fmore"); return; }
   if(el.dataset.fav){ var id=el.dataset.fav, j=favs.indexOf(id); if(j>=0) favs.splice(j,1); else favs.push(id); saveFavs(); render();
     if($("drawer").classList.contains("on") && el.classList.contains("dfav")) showEvent(id); return; }
   if(el.dataset.open){ showEvent(el.dataset.open); return; }
   if(el.dataset.close){ closeDrawer(); return; }
   if(el.dataset.wk){ st.week=Math.max(0,Math.min(2,st.week+ +el.dataset.wk)); render(); return; }
-  if(el.dataset.reset){ st.cats=[]; st.free=st.fam=st.fav=false; st.q=""; $("q").value=""; st.day=null; st.period="14"; render(); return; }
+  if(el.dataset.reset){ st.cats=[]; st.ages=[]; st.areas=[]; st.free=st.fam=st.fav=false; st.q=""; $("q").value=""; st.day=null; st.period="14"; render(); return; }
   if(el.dataset.clearday){ st.day=null; render(); return; }
   if(el.dataset.src){ st.src[el.dataset.src]=!st.src[el.dataset.src]; render(); showSources(); var sw=$("drawer").querySelector('[data-src="'+el.dataset.src+'"]'); if(sw) sw.focus(); return; }
   if(el.id==="openSources"){ showSources(); return; }

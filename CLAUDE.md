@@ -57,7 +57,9 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 
 Rådata från varje källa sparas separat från den färdiga datan, så att vi kan göra om kategoriseringen utan att hämta om.
 
-Ett färdigt evenemang har: id, titel, start, slut, plats (namn och id), kategori, gratis, barn och familj, lista över källor med länk, och om det är långvarigt.
+Ett färdigt evenemang har: id, titel, start, slut, plats (namn och id), kategori, gratis, barn och familj, lista över källor med länk, och om det är långvarigt. Dessutom, när det går: ålder som spann `[från, till]` i år, och område.
+
+Områden och åldersgrupper följer Kubiks indelning (`scripts/gemensamt/omraden.mjs`): åtta områden (Centrala, Norra, Östra, Södra och Västra staden samt Norra, Östra och Västra landsbygden) och åldersgrupperna 0–4, 5–6, 7–9, 10–12, 13–15, 16–18 och 19–25 år. Ett evenemang passar en åldersgrupp om spannen överlappar.
 
 Kategorier: musik, scen (scen och film), museum (konst och museum), prat (föredrag och samtal), sport, mat, natt (klubb och nattliv), ovrigt (marknad och festival).
 

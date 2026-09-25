@@ -10,6 +10,7 @@
 import { enRad, renText } from "../gemensamt/text.mjs";
 import { tillSvenskTid } from "../gemensamt/tid.mjs";
 import { gissaKategori } from "../gemensamt/kategori.mjs";
+import { slaIhopSpann, spannFranEtikett, spannFranText } from "../gemensamt/omraden.mjs";
 
 export const KALLA = {
   id: "bibliotek",
@@ -84,6 +85,8 @@ export function tillEvenemang(ev) {
     // Bibliotekens evenemang är gratis om inget annat står.
     gratis: !KOSTAR.test(beskrivning),
     barnOchFamilj: BARN.test([...malgrupper, ...taggar, titel].join(" ")),
+    // Ålder i titeln ("Sagostund 3-6 år") är säkrare än målgruppen ("Barn").
+    alder: spannFranText(titel) || slaIhopSpann([...malgrupper, ...taggar.filter((t) => /småbarn/i.test(t))].map(spannFranEtikett)),
     kallor: [{ id: KALLA.id, namn: KALLA.namn, url: `https://bibliotekuppsala.se/evenemang#/events/${ev.id}` }],
     langvarig: false,
     installd: ev.status === "CANCELLED",

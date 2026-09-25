@@ -15,6 +15,7 @@
 
 import { enRad, avkoda } from "../gemensamt/text.mjs";
 import { tillSvenskTid } from "../gemensamt/tid.mjs";
+import { slaIhopSpann, spannFranEtikett } from "../gemensamt/omraden.mjs";
 
 export const KALLA = {
   id: "kubik",
@@ -123,7 +124,8 @@ export function tillEvenemang(k) {
     kategori: kategori(k),
     gratis: k.gratis ? true : null,
     barnOchFamilj: barn,
-    ...(k.malgrupp.length && { alder: k.malgrupp.join(", ") }),
+    ...(k.malgrupp.length && { alder: slaIhopSpann(k.malgrupp.map(spannFranEtikett)) }),
+    ...(k.omrade && { omrade: k.omrade }),
     kallor: [{ id: KALLA.id, namn: KALLA.namn, url: k.url, ...(k.hemsida && { arrangor: k.hemsida }) }],
     installd: /inställ/i.test(k.titel),
   };
