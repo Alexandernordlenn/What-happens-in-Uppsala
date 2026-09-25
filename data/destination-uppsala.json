@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-09-25T04:27:17.235Z",
-  "antal": 162,
+  "hamtad": "2026-09-25T08:48:40.753Z",
+  "antal": 161,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -1319,6 +1319,29 @@
       "installd": false
     },
     {
+      "id": "du-peter-och-vargen-familjekonsert-med-uppsala-kammarorkester",
+      "titel": "Peter och Vargen – Familjekonsert med Uppsala Kammarorkester",
+      "start": "2026-10-24",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/peter-och-vargen-familjekonsert-med-uppsala-kammarorkester/",
+          "arrangor": "https://www.musikiuppland.se/konsert/familjekonsert-peter-och-vargen/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "du-hostlovskul-formstarkt-och-eldigt",
       "titel": "Höstlovskul: Formstarkt och eldigt",
       "start": "2026-10-24",
@@ -1358,29 +1381,6 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/fotboll-ik-sirius-aik/",
           "arrangor": "https://www.siriusfotboll.se/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-peter-och-vargen-familjekonsert-med-uppsala-kammarorkester",
-      "titel": "Peter och Vargen – Familjekonsert med Uppsala Kammarorkester",
-      "start": "2026-10-24",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/peter-och-vargen-familjekonsert-med-uppsala-kammarorkester/",
-          "arrangor": "https://www.musikiuppland.se/konsert/familjekonsert-peter-och-vargen/"
         }
       ],
       "langvarig": false,
@@ -1524,28 +1524,6 @@
       "installd": false
     },
     {
-      "id": "du-doktor-glas",
-      "titel": "Doktor Glas",
-      "start": "2026-10-28",
-      "slut": "2026-10-31",
-      "plats": {
-        "namn": "Den Lilla Teatern",
-        "id": "lillateatern"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/doktor-glas/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
       "id": "du-terra-2",
       "titel": "Terra – extrakonsert",
       "start": "2026-10-28",
@@ -1566,6 +1544,28 @@
         }
       ],
       "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-doktor-glas",
+      "titel": "Doktor Glas",
+      "start": "2026-10-28",
+      "slut": "2026-10-31",
+      "plats": {
+        "namn": "Den Lilla Teatern",
+        "id": "lillateatern"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/doktor-glas/"
+        }
+      ],
+      "langvarig": true,
       "installd": false
     },
     {
@@ -1889,29 +1889,6 @@
       "installd": false
     },
     {
-      "id": "du-museidagen-2026",
-      "titel": "Museidagen 2026",
-      "start": "2026-11-08",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala",
-        "id": "uppsala"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/museidagen-2026/",
-          "arrangor": "https://uppsalasmuseer.se/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-jag-ar-carola-en-musikalisk-livsberattelse",
       "titel": "Jag är Carola – en musikalisk livsberättelse",
       "start": "2026-11-08",
@@ -1929,6 +1906,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/jag-ar-carola-en-musikalisk-livsberattelse/",
           "arrangor": "https://ukk.se/jag-ar-carola-en-musikalisk-unik-livsberattelse/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-museidagen-2026",
+      "titel": "Museidagen 2026",
+      "start": "2026-11-08",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/museidagen-2026/",
+          "arrangor": "https://uppsalasmuseer.se/"
         }
       ],
       "langvarig": false,
@@ -2162,28 +2162,6 @@
         }
       ],
       "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-julmarknad-pa-kaleido",
-      "titel": "Julmarknad på Kaleido",
-      "start": "2026-11-21",
-      "slut": "2027-01-05",
-      "plats": {
-        "namn": "Kaleido konsthantverk",
-        "id": "du-plats-kaleido-konsthantverk"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/julmarknad-pa-kaleido/"
-        }
-      ],
-      "langvarig": true,
       "installd": false
     },
     {
@@ -2439,29 +2417,6 @@
       "installd": false
     },
     {
-      "id": "du-historisk-julmarknad-i-gamla-uppsala-2026",
-      "titel": "Historisk julmarknad i Gamla Uppsala 2026",
-      "start": "2026-11-28T11:00:00+01:00",
-      "slut": "2026-11-29",
-      "plats": {
-        "namn": "Gamla Uppsala museum",
-        "id": "gamlauppsalamuseum"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/historisk-julmarknad-i-gamla-uppsala-2026/",
-          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/gum/historisk-julmarknad26/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-julmarknad-med-drop-in-vigsel",
       "titel": "Julmarknad med drop-in-vigsel",
       "start": "2026-11-28T11:00:00+01:00",
@@ -2502,6 +2457,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/julmarknad-pa-chokladfabriken-2026/",
           "arrangor": "https://fb.me/e/6n1b9Rebj"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-historisk-julmarknad-i-gamla-uppsala-2026",
+      "titel": "Historisk julmarknad i Gamla Uppsala 2026",
+      "start": "2026-11-28T11:00:00+01:00",
+      "slut": "2026-11-29",
+      "plats": {
+        "namn": "Gamla Uppsala museum",
+        "id": "gamlauppsalamuseum"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/historisk-julmarknad-i-gamla-uppsala-2026/",
+          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/gum/historisk-julmarknad26/"
         }
       ],
       "langvarig": false,

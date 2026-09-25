@@ -1,7 +1,7 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-09-25T04:29:43.477Z",
+  "hamtad": "2026-09-25T08:51:15.687Z",
   "antal": 451,
   "evenemang": [
     {
@@ -3394,7 +3394,7 @@
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "heja-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,
@@ -4147,7 +4147,7 @@
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "heja-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,
@@ -6066,7 +6066,7 @@
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "heja-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,
@@ -7390,7 +7390,7 @@
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "heja-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,
@@ -8761,7 +8761,7 @@
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "heja-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,
@@ -8872,7 +8872,7 @@
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "heja-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,
@@ -9053,7 +9053,7 @@
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "heja-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,

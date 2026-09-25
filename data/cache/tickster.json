@@ -6271,6 +6271,33 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/m38p1nue54p9r4z/2027-02-05/louisiana-avenue": {
+    "titel": "Louisiana Avenue",
+    "start": "2027-02-05T20:00:00",
+    "slut": "2027-02-05T22:00:00",
+    "platsId": "l0h5xlh16zztxwa",
+    "plats": "Katalin and all that Jazz",
+    "ort": "Uppsala",
+    "lat": 59.8595,
+    "lng": 17.6465,
+    "taggar": [
+      "katalinlive",
+      "uppsala",
+      "katalin",
+      "musik",
+      "konsert",
+      "kaliber live",
+      "louisiana avenue",
+      "mta",
+      "soul",
+      "party"
+    ],
+    "arrangorId": "gf5dj34fjr9ddw5",
+    "arrangor": "Kaliber Live",
+    "kop": "https://secure.tickster.com/sv/m38p1nue54p9r4z",
+    "status": "",
+    "hamtad": "2026-09-25"
+  },
   "https://www.tickster.com/se/sv/events/3xd3kt3rd5y68z8/2027-02-06/the-very-best-of-thin-lizzy": {
     "titel": "The Very Best of Thin Lizzy",
     "start": "2027-02-06T19:30:00",
@@ -6673,6 +6700,24 @@
     "kop": "https://secure.tickster.com/sv/5xv46jn2yrbbunu",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/5mk041j56bludkj/2027-03-12/marika-och-klimakteriet": {
+    "titel": "Marika och Klimakteriet",
+    "start": "2027-03-12T19:30:00",
+    "slut": "2027-03-12T21:00:00",
+    "platsId": "y90dvlpxyewf4h0",
+    "plats": "Uppsala Konsert & Kongress, Sal B",
+    "ort": "Uppsala",
+    "lat": 59.8586,
+    "lng": 17.6389,
+    "taggar": [
+      "humor"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": "https://secure.tickster.com/sv/5mk041j56bludkj",
+    "status": "",
+    "hamtad": "2026-09-25"
   },
   "https://www.tickster.com/se/sv/events/nr7ap19ygw1aj9e/2027-03-13/sirius-vs-fagerhult-habo-ibk": {
     "titel": "Sirius vs Fagerhult Habo IBK",

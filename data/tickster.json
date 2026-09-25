@@ -1,8 +1,8 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-09-25T04:28:00.428Z",
-  "antal": 353,
+  "hamtad": "2026-09-25T08:49:27.697Z",
+  "antal": 355,
   "evenemang": [
     {
       "id": "tickster-cmf926fnc3pr4wh",
@@ -7838,6 +7838,31 @@
       "installd": false
     },
     {
+      "id": "tickster-m38p1nue54p9r4z",
+      "titel": "Louisiana Avenue",
+      "start": "2027-02-05T20:00:00+01:00",
+      "slut": "2027-02-05T22:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/m38p1nue54p9r4z/2027-02-05/louisiana-avenue",
+          "biljetter": "https://secure.tickster.com/sv/m38p1nue54p9r4z"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-3xd3kt3rd5y68z8",
       "titel": "The Very Best of Thin Lizzy",
       "start": "2027-02-06T19:30:00+01:00",
@@ -8366,6 +8391,32 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/5xv46jn2yrbbunu/2027-03-10/aphaca-dk",
           "biljetter": "https://secure.tickster.com/sv/5xv46jn2yrbbunu"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-5mk041j56bludkj",
+      "titel": "Marika och Klimakteriet",
+      "start": "2027-03-12T19:30:00+01:00",
+      "slut": "2027-03-12T21:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/5mk041j56bludkj/2027-03-12/marika-och-klimakteriet",
+          "biljetter": "https://secure.tickster.com/sv/5mk041j56bludkj"
         }
       ],
       "langvarig": false,

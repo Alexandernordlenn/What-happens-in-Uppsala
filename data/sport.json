@@ -1,7 +1,7 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-09-25T08:34:42.504Z",
+  "hamtad": "2026-09-25T08:52:19.028Z",
   "antal": 157,
   "evenemang": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "id": "sport-sportality-cuwykzyyfk",
-      "titel": "Storvreta IBK – IBK Lund",
+      "titel": "Storvreta IBK – IBK Lund (dam)",
       "start": "2026-09-26T14:00:00+02:00",
       "slut": null,
       "plats": {
@@ -75,7 +75,7 @@
     },
     {
       "id": "sport-sportality-hbb92tmvdq",
-      "titel": "IK Uppsala – Djurgården",
+      "titel": "IK Uppsala – Djurgården (dam)",
       "start": "2026-09-26T15:00:00+02:00",
       "slut": null,
       "plats": {
@@ -190,7 +190,7 @@
     },
     {
       "id": "sport-sportality-yinc6pcn5v",
-      "titel": "Gamla Upsala – Enskede IK",
+      "titel": "Gamla Upsala – Enskede IK (dam)",
       "start": "2026-10-03T14:00:00+02:00",
       "slut": null,
       "plats": {
@@ -213,7 +213,7 @@
     },
     {
       "id": "sport-profixio-32682403",
-      "titel": "Uppsala Basket – Södertälje BBK",
+      "titel": "Uppsala Basket – Södertälje BBK (dam)",
       "start": "2026-10-03T15:00:00+02:00",
       "slut": null,
       "plats": {
@@ -259,7 +259,7 @@
     },
     {
       "id": "sport-profixio-32656540",
-      "titel": "Uppsala VBS – Lule Volley",
+      "titel": "Uppsala VBS – Lule Volley (dam)",
       "start": "2026-10-04T10:00:00+02:00",
       "slut": null,
       "plats": {
@@ -305,7 +305,7 @@
     },
     {
       "id": "sport-sportality-c4cg83vmu6",
-      "titel": "Storvreta IBK – Täby FC",
+      "titel": "Storvreta IBK – Täby FC (dam)",
       "start": "2026-10-07T18:30:00+02:00",
       "slut": null,
       "plats": {
@@ -374,7 +374,7 @@
     },
     {
       "id": "sport-profixio-32656505",
-      "titel": "Uppsala VBS – Södertelge VBK",
+      "titel": "Uppsala VBS – Södertelge VBK (dam)",
       "start": "2026-10-10T14:00:00+02:00",
       "slut": null,
       "plats": {
@@ -397,7 +397,7 @@
     },
     {
       "id": "sport-sportality-bfrxvd849m",
-      "titel": "Storvreta IBK – Endre IF",
+      "titel": "Storvreta IBK – Endre IF (dam)",
       "start": "2026-10-11T14:00:00+02:00",
       "slut": null,
       "plats": {
@@ -489,7 +489,7 @@
     },
     {
       "id": "sport-sportality-qhpm83sse8",
-      "titel": "IK Uppsala – Kristianstads DFF",
+      "titel": "IK Uppsala – Kristianstads DFF (dam)",
       "start": "2026-10-17T15:00:00+02:00",
       "slut": null,
       "plats": {
@@ -512,7 +512,7 @@
     },
     {
       "id": "sport-profixio-32682416",
-      "titel": "Uppsala Basket – Östersunds Basketklubb",
+      "titel": "Uppsala Basket – Östersunds Basketklubb (dam)",
       "start": "2026-10-17T15:00:00+02:00",
       "slut": null,
       "plats": {
@@ -604,7 +604,7 @@
     },
     {
       "id": "sport-profixio-32656515",
-      "titel": "Uppsala VBS – Solna VBK",
+      "titel": "Uppsala VBS – Solna VBK (dam)",
       "start": "2026-10-24T11:30:00+02:00",
       "slut": null,
       "plats": {
@@ -673,7 +673,7 @@
     },
     {
       "id": "sport-profixio-32682420",
-      "titel": "Uppsala Basket – AIK",
+      "titel": "Uppsala Basket – AIK (dam)",
       "start": "2026-10-24T15:00:00+02:00",
       "slut": null,
       "plats": {
@@ -719,7 +719,7 @@
     },
     {
       "id": "sport-sportality-qchc923bna",
-      "titel": "Gamla Upsala – BK Häcken",
+      "titel": "Gamla Upsala – BK Häcken (dam)",
       "start": "2026-10-25T16:00:00+01:00",
       "slut": null,
       "plats": {
@@ -788,7 +788,7 @@
     },
     {
       "id": "sport-sportality-ib0g7hxjoc",
-      "titel": "Storvreta IBK – KAIS Mora IF",
+      "titel": "Storvreta IBK – KAIS Mora IF (dam)",
       "start": "2026-10-31T13:00:00+01:00",
       "slut": null,
       "plats": {
@@ -857,7 +857,7 @@
     },
     {
       "id": "sport-profixio-2026-10-31-IK-Sirius-Umedalens-IF",
-      "titel": "IK Sirius – Umedalens IF",
+      "titel": "IK Sirius – Umedalens IF (dam)",
       "start": "2026-10-31T18:00:00+01:00",
       "slut": null,
       "plats": {
@@ -880,12 +880,12 @@
     },
     {
       "id": "sport-profixio-2026-11-01-Uppsala-BOIS-Umedalens-IF",
-      "titel": "Uppsala BOIS – Umedalens IF",
+      "titel": "Uppsala BOIS – Umedalens IF (dam)",
       "start": "2026-11-01T12:00:00+01:00",
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "sport-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,
@@ -903,7 +903,7 @@
     },
     {
       "id": "sport-sportality-w54roblbp6",
-      "titel": "IK Uppsala – Hammarby",
+      "titel": "IK Uppsala – Hammarby (dam)",
       "start": "2026-11-01T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -995,7 +995,7 @@
     },
     {
       "id": "sport-sportality-wi9i6k8uel",
-      "titel": "Gamla Upsala – IFK Göteborg",
+      "titel": "Gamla Upsala – IFK Göteborg (dam)",
       "start": "2026-11-07T13:00:00+01:00",
       "slut": null,
       "plats": {
@@ -1018,7 +1018,7 @@
     },
     {
       "id": "sport-profixio-32682433",
-      "titel": "Uppsala Basket – Norrköping Dolphins",
+      "titel": "Uppsala Basket – Norrköping Dolphins (dam)",
       "start": "2026-11-07T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -1041,7 +1041,7 @@
     },
     {
       "id": "sport-profixio-2026-11-07-IK-Sirius-H-rn-sands-AIK",
-      "titel": "IK Sirius – Härnösands AIK",
+      "titel": "IK Sirius – Härnösands AIK (dam)",
       "start": "2026-11-07T16:45:00+01:00",
       "slut": null,
       "plats": {
@@ -1064,12 +1064,12 @@
     },
     {
       "id": "sport-profixio-2026-11-08-Uppsala-BOIS-H-rn-sands-AIK",
-      "titel": "Uppsala BOIS – Härnösands AIK",
+      "titel": "Uppsala BOIS – Härnösands AIK (dam)",
       "start": "2026-11-08T11:30:00+01:00",
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "sport-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,
@@ -1202,7 +1202,7 @@
     },
     {
       "id": "sport-profixio-32656523",
-      "titel": "Uppsala VBS – Södermalms VBK",
+      "titel": "Uppsala VBS – Södermalms VBK (dam)",
       "start": "2026-11-14T16:30:00+01:00",
       "slut": null,
       "plats": {
@@ -1248,7 +1248,7 @@
     },
     {
       "id": "sport-sportality-eov7ozsjhe",
-      "titel": "IK Uppsala – Växjö DFF",
+      "titel": "IK Uppsala – Växjö DFF (dam)",
       "start": "2026-11-15T14:00:00+01:00",
       "slut": null,
       "plats": {
@@ -1271,12 +1271,12 @@
     },
     {
       "id": "sport-profixio-2026-11-15-Uppsala-BOIS-S-r-kers-IF",
-      "titel": "Uppsala BOIS – Söråkers IF",
+      "titel": "Uppsala BOIS – Söråkers IF (dam)",
       "start": "2026-11-15T14:30:00+01:00",
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "sport-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,
@@ -1294,7 +1294,7 @@
     },
     {
       "id": "sport-profixio-2026-11-15-IK-Sirius-V-ster-s-SK-Bandyklubb",
-      "titel": "IK Sirius – Västerås SK Bandyklubb",
+      "titel": "IK Sirius – Västerås SK Bandyklubb (dam)",
       "start": "2026-11-15T14:45:00+01:00",
       "slut": null,
       "plats": {
@@ -1478,12 +1478,12 @@
     },
     {
       "id": "sport-profixio-2026-11-22-Uppsala-BOIS-IFK-R-ttvik",
-      "titel": "Uppsala BOIS – IFK Rättvik",
+      "titel": "Uppsala BOIS – IFK Rättvik (dam)",
       "start": "2026-11-22T14:15:00+01:00",
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "sport-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,
@@ -1593,7 +1593,7 @@
     },
     {
       "id": "sport-sportality-rjn3622cjp",
-      "titel": "Storvreta IBK – Pixbo IBK",
+      "titel": "Storvreta IBK – Pixbo IBK (dam)",
       "start": "2026-11-28T14:00:00+01:00",
       "slut": null,
       "plats": {
@@ -1616,7 +1616,7 @@
     },
     {
       "id": "sport-profixio-32656533",
-      "titel": "Uppsala VBS – Hästhagen IF",
+      "titel": "Uppsala VBS – Hästhagen IF (dam)",
       "start": "2026-11-28T16:30:00+01:00",
       "slut": null,
       "plats": {
@@ -1639,7 +1639,7 @@
     },
     {
       "id": "sport-profixio-32682445",
-      "titel": "Uppsala Basket – Pirates Basketball",
+      "titel": "Uppsala Basket – Pirates Basketball (dam)",
       "start": "2026-11-29T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -1662,12 +1662,12 @@
     },
     {
       "id": "sport-profixio-2026-11-29-Uppsala-BOIS-IK-Sirius",
-      "titel": "Uppsala BOIS – IK Sirius",
+      "titel": "Uppsala BOIS – IK Sirius (dam)",
       "start": "2026-11-29T15:00:00+01:00",
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "sport-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,
@@ -1961,7 +1961,7 @@
     },
     {
       "id": "sport-profixio-32682458",
-      "titel": "Uppsala Basket – Luleå BBK",
+      "titel": "Uppsala Basket – Luleå BBK (dam)",
       "start": "2026-12-13T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "sport-sportality-dyrcgznag7",
-      "titel": "Storvreta IBK – IBK Lockerud",
+      "titel": "Storvreta IBK – IBK Lockerud (dam)",
       "start": "2026-12-19T14:00:00+01:00",
       "slut": null,
       "plats": {
@@ -2076,7 +2076,7 @@
     },
     {
       "id": "sport-profixio-2026-12-20-IK-Sirius-Bolln-s-GOIF-BF",
-      "titel": "IK Sirius – Bollnäs GOIF BF",
+      "titel": "IK Sirius – Bollnäs GOIF BF (dam)",
       "start": "2026-12-20T14:45:00+01:00",
       "slut": null,
       "plats": {
@@ -2191,7 +2191,7 @@
     },
     {
       "id": "sport-profixio-2027-01-02-IK-Sirius-Uppsala-BOIS",
-      "titel": "IK Sirius – Uppsala BOIS",
+      "titel": "IK Sirius – Uppsala BOIS (dam)",
       "start": "2027-01-02T18:00:00+01:00",
       "slut": null,
       "plats": {
@@ -2283,7 +2283,7 @@
     },
     {
       "id": "sport-sportality-p8iaac8fpo",
-      "titel": "Storvreta IBK – Team Thorengruppen",
+      "titel": "Storvreta IBK – Team Thorengruppen (dam)",
       "start": "2027-01-09T14:00:00+01:00",
       "slut": null,
       "plats": {
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "sport-profixio-32682478",
-      "titel": "Uppsala Basket – IK Eos Lund",
+      "titel": "Uppsala Basket – IK Eos Lund (dam)",
       "start": "2027-01-09T14:00:00+01:00",
       "slut": null,
       "plats": {
@@ -2352,12 +2352,12 @@
     },
     {
       "id": "sport-profixio-2027-01-10-Uppsala-BOIS-V-ster-s-SK-Bandyklubb",
-      "titel": "Uppsala BOIS – Västerås SK Bandyklubb",
+      "titel": "Uppsala BOIS – Västerås SK Bandyklubb (dam)",
       "start": "2027-01-10T14:00:00+01:00",
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "sport-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,
@@ -2444,7 +2444,7 @@
     },
     {
       "id": "sport-sportality-n4dr4dek7c",
-      "titel": "Storvreta IBK – Västerås Rönnby IBK",
+      "titel": "Storvreta IBK – Västerås Rönnby IBK (dam)",
       "start": "2027-01-15T18:30:00+01:00",
       "slut": null,
       "plats": {
@@ -2651,7 +2651,7 @@
     },
     {
       "id": "sport-sportality-h84n20exih",
-      "titel": "Storvreta IBK – FBC Kalmarsund",
+      "titel": "Storvreta IBK – FBC Kalmarsund (dam)",
       "start": "2027-01-30T14:00:00+01:00",
       "slut": null,
       "plats": {
@@ -2674,7 +2674,7 @@
     },
     {
       "id": "sport-profixio-32682493",
-      "titel": "Uppsala Basket – Alviks Basketbollklubb",
+      "titel": "Uppsala Basket – Alviks Basketbollklubb (dam)",
       "start": "2027-01-30T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -2720,7 +2720,7 @@
     },
     {
       "id": "sport-profixio-32656577",
-      "titel": "Uppsala VBS – Vallentuna VBK",
+      "titel": "Uppsala VBS – Vallentuna VBK (dam)",
       "start": "2027-01-30T16:30:00+01:00",
       "slut": null,
       "plats": {
@@ -2835,7 +2835,7 @@
     },
     {
       "id": "sport-profixio-2027-02-07-IK-Sirius-IFK-R-ttvik",
-      "titel": "IK Sirius – IFK Rättvik",
+      "titel": "IK Sirius – IFK Rättvik (dam)",
       "start": "2027-02-07T14:45:00+01:00",
       "slut": null,
       "plats": {
@@ -2950,7 +2950,7 @@
     },
     {
       "id": "sport-profixio-32656559",
-      "titel": "Uppsala VBS – IK Studenterna i Umeå",
+      "titel": "Uppsala VBS – IK Studenterna i Umeå (dam)",
       "start": "2027-02-14T10:00:00+01:00",
       "slut": null,
       "plats": {
@@ -2973,12 +2973,12 @@
     },
     {
       "id": "sport-profixio-2027-02-14-Uppsala-BOIS-Bolln-s-GOIF-BF",
-      "titel": "Uppsala BOIS – Bollnäs GOIF BF",
+      "titel": "Uppsala BOIS – Bollnäs GOIF BF (dam)",
       "start": "2027-02-14T12:15:00+01:00",
       "slut": null,
       "plats": {
         "namn": "Serwenthallen",
-        "id": "sport-plats-serwenthallen"
+        "id": "serwenthallen"
       },
       "kategori": "sport",
       "gratis": null,
@@ -2996,7 +2996,7 @@
     },
     {
       "id": "sport-sportality-aozji5mkj4",
-      "titel": "Storvreta IBK – Warberg IC",
+      "titel": "Storvreta IBK – Warberg IC (dam)",
       "start": "2027-02-14T13:00:00+01:00",
       "slut": null,
       "plats": {
@@ -3088,7 +3088,7 @@
     },
     {
       "id": "sport-profixio-32682505",
-      "titel": "Uppsala Basket – Högsbo Basket",
+      "titel": "Uppsala Basket – Högsbo Basket (dam)",
       "start": "2027-02-20T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -3111,7 +3111,7 @@
     },
     {
       "id": "sport-profixio-2027-02-21-IK-Sirius-S-r-kers-IF",
-      "titel": "IK Sirius – Söråkers IF",
+      "titel": "IK Sirius – Söråkers IF (dam)",
       "start": "2027-02-21T14:45:00+01:00",
       "slut": null,
       "plats": {
@@ -3203,7 +3203,7 @@
     },
     {
       "id": "sport-profixio-32656567",
-      "titel": "Uppsala VBS – Sollentuna VK B",
+      "titel": "Uppsala VBS – Sollentuna VK B (dam)",
       "start": "2027-02-27T14:00:00+01:00",
       "slut": null,
       "plats": {
@@ -3318,7 +3318,7 @@
     },
     {
       "id": "sport-sportality-m33k8v3yy4",
-      "titel": "Storvreta IBK – Karlstad IBF",
+      "titel": "Storvreta IBK – Karlstad IBF (dam)",
       "start": "2027-03-06T14:00:00+01:00",
       "slut": null,
       "plats": {
@@ -3341,7 +3341,7 @@
     },
     {
       "id": "sport-profixio-32682520",
-      "titel": "Uppsala Basket – Brahe Basket",
+      "titel": "Uppsala Basket – Brahe Basket (dam)",
       "start": "2027-03-06T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -3387,7 +3387,7 @@
     },
     {
       "id": "sport-profixio-32656549",
-      "titel": "Uppsala VBS – Norsjö VBK",
+      "titel": "Uppsala VBS – Norsjö VBK (dam)",
       "start": "2027-03-14T10:00:00+01:00",
       "slut": null,
       "plats": {
@@ -3525,7 +3525,7 @@
     },
     {
       "id": "sport-sportality-oo0run7852",
-      "titel": "Storvreta IBK – Malmö FBC ",
+      "titel": "Storvreta IBK – Malmö FBC  (dam)",
       "start": "2027-03-21T13:30:00+01:00",
       "slut": null,
       "plats": {
@@ -3548,7 +3548,7 @@
     },
     {
       "id": "sport-profixio-32682533",
-      "titel": "Uppsala Basket – Visby Ladies",
+      "titel": "Uppsala Basket – Visby Ladies (dam)",
       "start": "2027-03-21T14:30:00+01:00",
       "slut": null,
       "plats": {
@@ -3594,7 +3594,7 @@
     },
     {
       "id": "sport-sportality-wnhcm16wc2",
-      "titel": "Storvreta IBK – Växjö Vipers ",
+      "titel": "Storvreta IBK – Växjö Vipers  (dam)",
       "start": "2027-03-29T14:00:00+02:00",
       "slut": null,
       "plats": {
