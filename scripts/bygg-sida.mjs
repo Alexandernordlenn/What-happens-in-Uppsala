@@ -11,11 +11,13 @@
 
 import { readFile, writeFile } from "node:fs/promises";
 import { PLATSER } from "./gemensamt/platser.mjs";
+import { omradeForPlats, slaIhopSpann, spannFranText } from "./gemensamt/omraden.mjs";
 
 // Källornas id i filerna och bokstaven sidan använder för dem.
 // Ordningen avgör vems titel och kategori som vinner vid en sammanslagning:
 // källor med egna kategorier först.
 export const KALLOR = [
+  { id: "sport", bokstav: "i" },
   { id: "stadsteatern", bokstav: "s" },
   { id: "bibliotek", bokstav: "b" },
   { id: "kubik", bokstav: "u" },
@@ -25,7 +27,7 @@ export const KALLOR = [
   { id: "tickster", bokstav: "t" },
 ];
 
-const DAGAR_FRAMAT = 45; // Sidan visar som mest 18 dagar, men förslag och platser kan behöva lite mer.
+const DAGAR_FRAMAT = 120; // Sidan visar som mest 90 dagar ("3 mån").
 
 const KANONISKA = new Set(PLATSER.map((p) => p.id));
 
@@ -62,11 +64,16 @@ export function slaIhop(poster) {
     const tid = klockslag(p.e.start);
     // Bara poster från olika källor slås ihop, så att till exempel en lunch- och en
     // kvällsföreställning hos teatern förblir två. Klockslagen får inte krocka.
+    const tidOk = (g) => g.poster.every((q) => !tid || !klockslag(q.e.start) || klockslag(q.e.start) === tid);
+    const annanKalla = (g) => !g.poster.some((q) => q.bokstav === p.bokstav);
+    // Sportmatcher från förbunden heter annorlunda hos andra källor ("Almtuna-Karlskoga"
+    // eller "Fotboll: IK Sirius – AIK"). Samma dag, arena och tid räcker då.
+    const sammaMatch = (g) =>
+      p.e.kategori === "sport" &&
+      g.poster.some((q) => q.e.kategori === "sport") &&
+      (p.bokstav === "i" || g.poster.some((q) => q.bokstav === "i"));
     const traff = lista.find(
-      (g) =>
-        g.titlar.some((t) => sammaTitel(t, titel)) &&
-        !g.poster.some((q) => q.bokstav === p.bokstav) &&
-        g.poster.every((q) => !tid || !klockslag(q.e.start) || klockslag(q.e.start) === tid),
+      (g) => annanKalla(g) && tidOk(g) && (g.titlar.some((t) => sammaTitel(t, titel)) || sammaMatch(g)),
     );
     if (traff) {
       traff.poster.push(p);
@@ -80,7 +87,8 @@ export function slaIhop(poster) {
 }
 
 // Gör om en grupp med poster (samma evenemang) till sidans format.
-export function tillSidformat(grupp) {
+// "kandaOmraden" är platser där någon källa (Kubik) har sagt vilket område de ligger i.
+export function tillSidformat(grupp, kandaOmraden = {}) {
   const [forsta] = grupp; // Redan sorterad efter källornas ordning.
   const e = forsta.e;
   const medTid = grupp.find((p) => klockslag(p.e.start));
@@ -104,6 +112,14 @@ export function tillSidformat(grupp) {
   if (grupp.some((p) => p.e.gratis === true)) ut.free = 1;
   if (grupp.some((p) => p.e.barnOchFamilj)) ut.fam = 1;
   if (grupp.some((p) => p.e.installd)) ut.x = 1;
+  // Ålder: från källorna, annars från titeln ("Sagostund 3-6 år").
+  const alder = slaIhopSpann(grupp.map((p) => p.e.alder || spannFranText(p.e.titel)));
+  if (alder) ut.a = alder;
+  const omrade =
+    grupp.map((p) => p.e.omrade).find(Boolean) ||
+    omradeForPlats(e.plats.namn, ut.v) ||
+    kandaOmraden[titelnyckel(e.plats.namn)];
+  if (omrade) ut.o = omrade;
   for (const p of grupp) {
     const lank = p.e.kallor?.[0]?.url;
     const s = `${p.bokstav}:${lank}`;
@@ -140,9 +156,13 @@ export function bygg(filer, idag = idagISverige()) {
   });
   poster.sort((a, b) => a.ordning - b.ordning);
 
+  // Platser som Kubik har placerat i ett område gäller även för andra källor.
+  const kandaOmraden = {};
+  for (const p of poster) if (p.e.omrade) kandaOmraden[titelnyckel(p.e.plats.namn)] = p.e.omrade;
+
   const platser = {};
   const evenemang = slaIhop(poster).map((grupp) => {
-    const { ut, platsnamn } = tillSidformat(grupp);
+    const { ut, platsnamn } = tillSidformat(grupp, kandaOmraden);
     if (!platser[ut.v]) platser[ut.v] = platsnamn;
     return ut;
   });

@@ -49,6 +49,9 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 
 ### Senare
 
+Se `KALLOR.md` för hela kartläggningen: vilka API:er och flöden som ska begäras, av vem, och vilka öppna källor som kan byggas direkt.
+
+
 - Ticketmaster: öppen nyckel, täcker mest större turnéer.
 - Begära data från offentlig verksamhet: Reginateatern, Musik i Uppland. (Destination Uppsala, Kubik, Bibliotek Uppsala och Uppsala stadsteater hämtas redan, se "Hämtningarna".)
 - Heja Uppsala: hämtas tillfälligt under testfasen. Eventuellt samarbete.
@@ -57,7 +60,9 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 
 Rådata från varje källa sparas separat från den färdiga datan, så att vi kan göra om kategoriseringen utan att hämta om.
 
-Ett färdigt evenemang har: id, titel, start, slut, plats (namn och id), kategori, gratis, barn och familj, lista över källor med länk, och om det är långvarigt.
+Ett färdigt evenemang har: id, titel, start, slut, plats (namn och id), kategori, gratis, barn och familj, lista över källor med länk, och om det är långvarigt. Dessutom, när det går: ålder som spann `[från, till]` i år, och område.
+
+Områden och åldersgrupper följer Kubiks indelning (`scripts/gemensamt/omraden.mjs`): åtta områden (Centrala, Norra, Östra, Södra och Västra staden samt Norra, Östra och Västra landsbygden) och åldersgrupperna 0–4, 5–6, 7–9, 10–12, 13–15, 16–18 och 19–25 år. Ett evenemang passar en åldersgrupp om spannen överlappar.
 
 Kategorier: musik, scen (scen och film), museum (konst och museum), prat (föredrag och samtal), sport, mat, natt (klubb och nattliv), ovrigt (marknad och festival).
 
@@ -94,6 +99,7 @@ Allt körs av `.github/workflows/hamta-evenemang.yml` varje dag 04:13 UTC, och k
 | Tickster | `scripts/tickster/` | Läser listan per ort och evenemangens sidor (schema.org) | Provkörd, runt 360 evenemang. Byt till API när nyckeln kommer. |
 | Bibliotek Uppsala | `scripts/bibliotek/` | Axiells öppna API, samma som bibliotekets sida använder | Provkörd, runt 500 evenemang. Läxhjälp, IT-handledning och juridisk rådgivning tas bort. |
 | Heja Uppsala | `scripts/heja/` | Läser kalenderlistan och "När och var?" på evenemangens sidor | Provkörd, runt 460 evenemang. Tillfälligt under testfasen, enligt Alexanders beslut. Deras RSS är låst med nyckel och kalendern är en betaltjänst, så fråga dem innan sidan blir skarp. |
+| Förbund och ligor (sport) | `scripts/sport/` | Ligornas och förbundens egna system, se `scripts/sport/konfig.mjs` | Provkörd, runt 160 matcher på arenor i Uppsala. Id för ligor och lag byts varje säsong. |
 | Kubik Uppsala | `scripts/kubik/` | Samma sökning som sidan hitta-aktiviteter gör (`/partials/events/search`) | Provkörd, runt 140 aktiviteter. Perioder (återkommande aktiviteter) blir långvariga evenemang. |
 
 Gemensamma delar i `scripts/gemensamt/`:

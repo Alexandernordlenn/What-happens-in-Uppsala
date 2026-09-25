@@ -81,6 +81,11 @@ jobs:
         continue-on-error: true
         run: npm run hamta:kubik
 
+      - name: Förbund och ligor (sport)
+        id: sport
+        continue-on-error: true
+        run: npm run hamta:sport
+
       - name: Bygg filen som sidan läser (data/sida.json)
         id: sida
         continue-on-error: true
@@ -118,6 +123,7 @@ jobs:
                        "Bibliotek Uppsala:${{ steps.bibliotek.outcome }}" \
                        "Heja Uppsala:${{ steps.heja.outcome }}" \
                        "Kubik Uppsala:${{ steps.kubik.outcome }}" \
+                       "Sport:${{ steps.sport.outcome }}" \
                        "Sidans fil:${{ steps.sida.outcome }}"; do
             namn="${kalla%%:*}"; utfall="${kalla#*:}"
             echo "$namn: ${utfall:-hoppades över}"

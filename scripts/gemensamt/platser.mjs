@@ -43,6 +43,7 @@ export const PLATSER = [
   { id: "fyrishov", namn: "Fyrishov", monster: /fyrishov/ },
   { id: "granbyishall", namn: "Gränby ishall", monster: /gränby ishall|upplands bilforum arena/, kategori: "sport" },
   { id: "usif", namn: "USIF Arena", monster: /usif arena/, kategori: "sport" },
+  { id: "serwenthallen", namn: "Serwenthallen", monster: /serwenthallen/, kategori: "sport" },
   { id: "granbyallaktivitetshus", namn: "Gränby allaktivitetshus", monster: /gränby allaktivitetshus/ },
   { id: "kulturoasen", namn: "Kulturoasen", monster: /kulturoasen/ },
   { id: "saluhall", namn: "Uppsala Saluhall", monster: /saluhall/, kategori: "mat" },

@@ -1,0 +1,228 @@
+{
+ "gameInfo": [
+  {
+   "uuid": "j3wk1dgmn7",
+   "rawStartDateTime": "2026-03-28T12:00:00.000Z",
+   "startDateTime": "2026-03-28 13:00:00",
+   "state": "post-game",
+   "overtime": null,
+   "shootout": null,
+   "ssgtUuid": "fj8yhi4sev",
+   "homeTeamInfo": {
+    "status": "WIN",
+    "uuid": "f7c8-ebbfKRS3S",
+    "ownerInstanceId": "aik3_aik",
+    "code": "DAM",
+    "names": {
+     "code": "AIK",
+     "full": "Allmänna idrottsklubben",
+     "long": "AIK",
+     "short": "AIK",
+     "codeSite": "AIK",
+     "fullSite": "Allmänna idrottsklubben",
+     "longSite": "AIK",
+     "shortSite": "AIK"
+    },
+    "score": 1,
+    "icon": "https://sportality.cdn.s8y.se/team-logos/aik3_aik.svg"
+   },
+   "awayTeamInfo": {
+    "status": "LOSE",
+    "uuid": "54cf-ebbf36wWd",
+    "ownerInstanceId": "ifkn1_ifkn",
+    "code": "DAM",
+    "names": {
+     "code": "NOR",
+     "full": "Idrottsföreningen Kamraterna Norrköping",
+     "long": "IFK Norrköping",
+     "short": "Norrköping",
+     "codeSite": "NOR",
+     "fullSite": "Idrottsföreningen Kamraterna Norrköping",
+     "longSite": "IFK Norrköping",
+     "shortSite": "Norrköping"
+    },
+    "score": 0,
+    "icon": "https://sportality.cdn.s8y.se/team-logos/ifkn1_ifkn.svg"
+   },
+   "venueInfo": {
+    "uuid": "qYG-6JPQ91N1w",
+    "name": "Skytteholms IP"
+   },
+   "seriesInfo": {
+    "uuid": "qWY-8Y5b6dXHc",
+    "code": "OBOS Damallsvenskan",
+    "displayName": "OBOS Damallsvenskan"
+   },
+   "roundNumber": 1,
+   "roundLabel": ""
+  },
+  {
+   "uuid": "hbb92tmvdq",
+   "rawStartDateTime": "2026-09-26T13:00:00.000Z",
+   "startDateTime": "2026-09-26 15:00:00",
+   "state": "pre-game",
+   "overtime": null,
+   "shootout": null,
+   "ssgtUuid": "fj8yhi4sev",
+   "homeTeamInfo": {
+    "status": "N/A",
+    "uuid": "0389-ebceOwI02",
+    "ownerInstanceId": "upp2_upp",
+    "code": "IK Uppsala Fotboll",
+    "names": {
+     "code": "IKU",
+     "full": "IK Uppsala Fotboll",
+     "long": "IK Uppsala",
+     "short": "IK Uppsala",
+     "codeSite": "IKU",
+     "fullSite": "IK Uppsala Fotboll",
+     "longSite": "IK Uppsala Fotboll",
+     "shortSite": "IK Uppsala"
+    },
+    "score": "N/A",
+    "icon": "https://sportality.cdn.s8y.se/team-logos/upp2_upp.svg"
+   },
+   "awayTeamInfo": {
+    "status": "N/A",
+    "uuid": "0389-ebbfWsnt9",
+    "ownerInstanceId": "dif2_dif",
+    "code": "DAM",
+    "names": {
+     "code": "DIF",
+     "full": "Djurgårdens Idrottsförening Fotbollförening",
+     "long": "Djurgården",
+     "short": "Djurgården",
+     "codeSite": "DIF",
+     "fullSite": "Djurgårdens Idrottsförening Fotbollförening",
+     "longSite": "Djurgården",
+     "shortSite": "Djurgården"
+    },
+    "score": "N/A",
+    "icon": "https://sportality.cdn.s8y.se/team-logos/dif2_dif.svg"
+   },
+   "venueInfo": {
+    "uuid": "qY9-1JIu14RyXc",
+    "name": "Studenternas"
+   },
+   "seriesInfo": {
+    "uuid": "qWY-8Y5b6dXHc",
+    "code": "OBOS Damallsvenskan",
+    "displayName": "OBOS Damallsvenskan"
+   },
+   "roundNumber": 20,
+   "roundLabel": ""
+  },
+  {
+   "uuid": "qhpm83sse8",
+   "rawStartDateTime": "2026-10-17T13:00:00.000Z",
+   "startDateTime": "2026-10-17 15:00:00",
+   "state": "pre-game",
+   "overtime": null,
+   "shootout": null,
+   "ssgtUuid": "fj8yhi4sev",
+   "homeTeamInfo": {
+    "status": "N/A",
+    "uuid": "0389-ebceOwI02",
+    "ownerInstanceId": "upp2_upp",
+    "code": "IK Uppsala Fotboll",
+    "names": {
+     "code": "IKU",
+     "full": "IK Uppsala Fotboll",
+     "long": "IK Uppsala",
+     "short": "IK Uppsala",
+     "codeSite": "IKU",
+     "fullSite": "IK Uppsala Fotboll",
+     "longSite": "IK Uppsala Fotboll",
+     "shortSite": "IK Uppsala"
+    },
+    "score": "N/A",
+    "icon": "https://sportality.cdn.s8y.se/team-logos/upp2_upp.svg"
+   },
+   "awayTeamInfo": {
+    "status": "N/A",
+    "uuid": "0389-ebbf15Zwsl",
+    "ownerInstanceId": "kri2_kri",
+    "code": "DAM",
+    "names": {
+     "code": "KDFF",
+     "full": "Kristianstads Damfotbollsförening",
+     "long": "Kristianstads DFF",
+     "short": "Kristianstad",
+     "codeSite": "KDFF",
+     "fullSite": "Kristianstads Damfotbollsförening",
+     "longSite": "Kristianstads DFF",
+     "shortSite": "Kristianstad"
+    },
+    "score": "N/A",
+    "icon": "https://sportality.cdn.s8y.se/team-logos/kri2_kri.svg"
+   },
+   "venueInfo": {
+    "uuid": "qY9-1JIu14RyXc",
+    "name": "Studenternas"
+   },
+   "seriesInfo": {
+    "uuid": "qWY-8Y5b6dXHc",
+    "code": "OBOS Damallsvenskan",
+    "displayName": "OBOS Damallsvenskan"
+   },
+   "roundNumber": 22,
+   "roundLabel": ""
+  },
+  {
+   "uuid": "y16zl5m4a6",
+   "rawStartDateTime": "2026-09-26T11:00:00.000Z",
+   "startDateTime": "2026-09-26 13:00:00",
+   "state": "pre-game",
+   "overtime": null,
+   "shootout": null,
+   "ssgtUuid": "fj8yhi4sev",
+   "homeTeamInfo": {
+    "status": "N/A",
+    "uuid": "0389-ebbf15Zwsl",
+    "ownerInstanceId": "kri2_kri",
+    "code": "DAM",
+    "names": {
+     "code": "KDFF",
+     "full": "Kristianstads Damfotbollsförening",
+     "long": "Kristianstads DFF",
+     "short": "Kristianstad",
+     "codeSite": "KDFF",
+     "fullSite": "Kristianstads Damfotbollsförening",
+     "longSite": "Kristianstads DFF",
+     "shortSite": "Kristianstad"
+    },
+    "score": "N/A",
+    "icon": "https://sportality.cdn.s8y.se/team-logos/kri2_kri.svg"
+   },
+   "awayTeamInfo": {
+    "status": "N/A",
+    "uuid": "0389-ebbfRdc2S",
+    "ownerInstanceId": "vit2_vit",
+    "code": "DAM",
+    "names": {
+     "code": "VGK",
+     "full": "Vittsjö Gymnastik- & Idrottsklubb Hässleholm",
+     "long": "Vittsjö GIK",
+     "short": "Vittsjö",
+     "codeSite": "VGK",
+     "fullSite": "Vittsjö Gymnastik- & Idrottsklubb Hässleholm",
+     "longSite": "Vittsjö GIK",
+     "shortSite": "Vittsjö"
+    },
+    "score": "N/A",
+    "icon": "https://sportality.cdn.s8y.se/team-logos/vit2_vit.svg"
+   },
+   "venueInfo": {
+    "uuid": "qY9-1IxWoBdIw",
+    "name": "Kristianstads Fotbollsarena"
+   },
+   "seriesInfo": {
+    "uuid": "qWY-8Y5b6dXHc",
+    "code": "OBOS Damallsvenskan",
+    "displayName": "OBOS Damallsvenskan"
+   },
+   "roundNumber": 20,
+   "roundLabel": ""
+  }
+ ]
+}

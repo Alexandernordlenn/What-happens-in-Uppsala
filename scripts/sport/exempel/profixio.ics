@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:teamcalendar
+NAME:Uppsala Basket - SBL Herr
+X-WR-CALNAME:Uppsala Basket - SBL Herr
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+DTSTART:20251229T083154
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pro-mce-32636847
+DTSTAMP:20260925T083154Z
+SUMMARY:Uppsala Basket - Jämtland Basket
+DESCRIPTION:Uppsala Basket Jämtland Basket. Herrar - SBL Herr\, Fyrishov A
+ \, Uppsala
+LOCATION:Fyrishov A\, Uppsala\, Fyrishov A\, Uppsala
+URL:https://www.profixio.com/app/leagueid27640/match/32636847
+DTSTART:20260925T170400Z
+DTEND:20260925T183400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:pro-mce-32636858
+DTSTAMP:20260925T083154Z
+SUMMARY:Uppsala Basket - Högsbo Basket
+DESCRIPTION:Uppsala Basket Högsbo Basket. Herrar - SBL Herr\, Fyrishov A\,
+  Uppsala
+LOCATION:Fyrishov A\, Uppsala\, Fyrishov A\, Uppsala
+URL:https://www.profixio.com/app/leagueid27640/match/32636858
+DTSTART:20261002T170400Z
+DTEND:20261002T183400Z
+END:VEVENT
+BEGIN:VEVENT
+UID:pro-mce-32636868
+DTSTAMP:20260925T083154Z
+SUMMARY:Köping Stars Basketförening - Uppsala Basket
+DESCRIPTION:Köping Stars Basketförening Uppsala Basket. Herrar - SBL Herr
+ \, Köpings Bad & Sport
+LOCATION:Köpings Bad & Sport\, Köpings Bad & Sport
+URL:https://www.profixio.com/app/leagueid27640/match/32636868
+DTSTART:20261013T170400Z
+DTEND:20261013T183400Z
+END:VEVENT
+END:VCALENDAR
