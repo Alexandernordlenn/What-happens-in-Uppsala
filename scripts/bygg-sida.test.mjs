@@ -72,3 +72,17 @@ test("gamla evenemang tas bort, pågående och inställda behålls", () => {
   assert.equal(sida.evenemang[1].x, 1);
   assert.match(sida.evenemang[1].n, /Inställt/);
 });
+
+test("sportmatch från förbunden slås ihop med samma match hos Heja", () => {
+  const gr = { namn: "Gränby ishall", id: "granbyishall" };
+  const sida = bygg(
+    {
+      sport: { hamtad: "x", evenemang: [ev("Almtuna IS – BIK Karlskoga", "2026-09-26T19:00:00+02:00", gr, { kategori: "sport" })] },
+      heja: { hamtad: "x", evenemang: [ev("Almtuna-Karlskoga", "2026-09-26T19:00:00+02:00", gr, { kategori: "sport" })] },
+    },
+    "2026-09-24",
+  );
+  assert.equal(sida.evenemang.length, 1);
+  assert.equal(sida.evenemang[0].t, "Almtuna IS – BIK Karlskoga");
+  assert.deepEqual(sida.evenemang[0].s.map((x) => x[0]).sort(), ["h", "i"]);
+});

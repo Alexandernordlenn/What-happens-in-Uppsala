@@ -1,0 +1,52 @@
+{
+ "data": {
+  "matchesForLeague": {
+   "matches": [
+    {
+     "id": 6529830,
+     "startDate": "2026-04-04T13:00:00.000Z",
+     "homeTeamName": "Hammarby",
+     "visitingTeamName": "Mjällby AIF",
+     "homeTeamAbbrv": "HAM",
+     "arenaName": "3Arena ",
+     "status": "FINISHED",
+     "round": 1,
+     "fogisId": 6529830
+    },
+    {
+     "id": 6530018,
+     "startDate": "2026-10-18T12:00:00.000Z",
+     "homeTeamName": "IK Sirius",
+     "visitingTeamName": "IF Elfsborg",
+     "homeTeamAbbrv": "IKS",
+     "arenaName": "Studenternas",
+     "status": "UPCOMING",
+     "round": 24,
+     "fogisId": 6530018
+    },
+    {
+     "id": 6530026,
+     "startDate": "2026-10-24T13:00:00.000Z",
+     "homeTeamName": "IK Sirius",
+     "visitingTeamName": "AIK",
+     "homeTeamAbbrv": "IKS",
+     "arenaName": "Studenternas",
+     "status": "UPCOMING",
+     "round": 25,
+     "fogisId": 6530026
+    },
+    {
+     "id": 6530007,
+     "startDate": "2026-10-09T17:00:00.000Z",
+     "homeTeamName": "IFK Göteborg",
+     "visitingTeamName": "Västerås SK",
+     "homeTeamAbbrv": "GBG",
+     "arenaName": "Gamla Ullevi ",
+     "status": "UPCOMING",
+     "round": 23,
+     "fogisId": 6530007
+    }
+   ]
+  }
+ }
+}

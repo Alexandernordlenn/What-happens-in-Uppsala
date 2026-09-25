@@ -17,6 +17,7 @@ import { omradeForPlats, slaIhopSpann, spannFranText } from "./gemensamt/omraden
 // Ordningen avgör vems titel och kategori som vinner vid en sammanslagning:
 // källor med egna kategorier först.
 export const KALLOR = [
+  { id: "sport", bokstav: "i" },
   { id: "stadsteatern", bokstav: "s" },
   { id: "bibliotek", bokstav: "b" },
   { id: "kubik", bokstav: "u" },
@@ -26,7 +27,7 @@ export const KALLOR = [
   { id: "tickster", bokstav: "t" },
 ];
 
-const DAGAR_FRAMAT = 90; // Sidan visar som mest 60 dagar ("Allt").
+const DAGAR_FRAMAT = 120; // Sidan visar som mest 90 dagar ("3 mån").
 
 const KANONISKA = new Set(PLATSER.map((p) => p.id));
 
@@ -63,11 +64,16 @@ export function slaIhop(poster) {
     const tid = klockslag(p.e.start);
     // Bara poster från olika källor slås ihop, så att till exempel en lunch- och en
     // kvällsföreställning hos teatern förblir två. Klockslagen får inte krocka.
+    const tidOk = (g) => g.poster.every((q) => !tid || !klockslag(q.e.start) || klockslag(q.e.start) === tid);
+    const annanKalla = (g) => !g.poster.some((q) => q.bokstav === p.bokstav);
+    // Sportmatcher från förbunden heter annorlunda hos andra källor ("Almtuna-Karlskoga"
+    // eller "Fotboll: IK Sirius – AIK"). Samma dag, arena och tid räcker då.
+    const sammaMatch = (g) =>
+      p.e.kategori === "sport" &&
+      g.poster.some((q) => q.e.kategori === "sport") &&
+      (p.bokstav === "i" || g.poster.some((q) => q.bokstav === "i"));
     const traff = lista.find(
-      (g) =>
-        g.titlar.some((t) => sammaTitel(t, titel)) &&
-        !g.poster.some((q) => q.bokstav === p.bokstav) &&
-        g.poster.every((q) => !tid || !klockslag(q.e.start) || klockslag(q.e.start) === tid),
+      (g) => annanKalla(g) && tidOk(g) && (g.titlar.some((t) => sammaTitel(t, titel)) || sammaMatch(g)),
     );
     if (traff) {
       traff.poster.push(p);

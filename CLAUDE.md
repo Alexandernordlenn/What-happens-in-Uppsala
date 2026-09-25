@@ -99,6 +99,7 @@ Allt körs av `.github/workflows/hamta-evenemang.yml` varje dag 04:13 UTC, och k
 | Tickster | `scripts/tickster/` | Läser listan per ort och evenemangens sidor (schema.org) | Provkörd, runt 360 evenemang. Byt till API när nyckeln kommer. |
 | Bibliotek Uppsala | `scripts/bibliotek/` | Axiells öppna API, samma som bibliotekets sida använder | Provkörd, runt 500 evenemang. Läxhjälp, IT-handledning och juridisk rådgivning tas bort. |
 | Heja Uppsala | `scripts/heja/` | Läser kalenderlistan och "När och var?" på evenemangens sidor | Provkörd, runt 460 evenemang. Tillfälligt under testfasen, enligt Alexanders beslut. Deras RSS är låst med nyckel och kalendern är en betaltjänst, så fråga dem innan sidan blir skarp. |
+| Förbund och ligor (sport) | `scripts/sport/` | Ligornas och förbundens egna system, se `scripts/sport/konfig.mjs` | Provkörd, runt 160 matcher på arenor i Uppsala. Id för ligor och lag byts varje säsong. |
 | Kubik Uppsala | `scripts/kubik/` | Samma sökning som sidan hitta-aktiviteter gör (`/partials/events/search`) | Provkörd, runt 140 aktiviteter. Perioder (återkommande aktiviteter) blir långvariga evenemang. |
 
 Gemensamma delar i `scripts/gemensamt/`:

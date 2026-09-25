@@ -1,0 +1,3619 @@
+{
+  "kalla": "Förbund och ligor",
+  "webbsida": "https://www.profixio.com/",
+  "hamtad": "2026-09-25T08:34:42.504Z",
+  "antal": 157,
+  "evenemang": [
+    {
+      "id": "sport-swehockey-90131025",
+      "titel": "Almtuna IS – BIK Karlskoga",
+      "start": "2026-09-25T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636847",
+      "titel": "Uppsala Basket – Jämtland Basket",
+      "start": "2026-09-25T19:04:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636847"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-cuwykzyyfk",
+      "titel": "Storvreta IBK – IBK Lund",
+      "start": "2026-09-26T14:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-hbb92tmvdq",
+      "titel": "IK Uppsala – Djurgården",
+      "start": "2026-09-26T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Fotboll, OBOS Damallsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.obosdamallsvenskan.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-ierzgqp1kd",
+      "titel": "Storvreta IBK – Pixbo IBK",
+      "start": "2026-09-26T17:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636852",
+      "titel": "Sloga Uppsala – Uppsala Basket",
+      "start": "2026-09-27T16:04:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636852"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131040",
+      "titel": "Almtuna IS – Södertälje SK",
+      "start": "2026-09-30T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636858",
+      "titel": "Uppsala Basket – Högsbo Basket",
+      "start": "2026-10-02T19:04:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636858"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-yinc6pcn5v",
+      "titel": "Gamla Upsala – Enskede IK",
+      "start": "2026-10-03T14:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Fotboll, Elitettan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.elitettan.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32682403",
+      "titel": "Uppsala Basket – Södertälje BBK",
+      "start": "2026-10-03T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "USIF Arena",
+        "id": "usif"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27644/match/32682403"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32644530",
+      "titel": "Uppsala HK – HK Eskil",
+      "start": "2026-10-03T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Handboll, Herr 1",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid28142/match/32644530"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32656540",
+      "titel": "Uppsala VBS – Lule Volley",
+      "start": "2026-10-04T10:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Division 1 dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27937/match/32656540"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-oe4qwfxljp",
+      "titel": "Storvreta IBK – IBK Lund",
+      "start": "2026-10-04T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-c4cg83vmu6",
+      "titel": "Storvreta IBK – Täby FC",
+      "start": "2026-10-07T18:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131055",
+      "titel": "Almtuna IS – Visby/Roma HK",
+      "start": "2026-10-07T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636864",
+      "titel": "Sloga Uppsala – Köping Stars Basketförening",
+      "start": "2026-10-09T19:04:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636864"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32656505",
+      "titel": "Uppsala VBS – Södertelge VBK",
+      "start": "2026-10-10T14:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Bolandsskolan",
+        "id": "sport-plats-bolandsskolan"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Division 1 dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27937/match/32656505"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-bfrxvd849m",
+      "titel": "Storvreta IBK – Endre IF",
+      "start": "2026-10-11T14:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131064",
+      "titel": "Almtuna IS – Nybro Vikings IF",
+      "start": "2026-10-11T14:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636869",
+      "titel": "Sloga Uppsala – Norrköping Dolphins",
+      "start": "2026-10-13T19:04:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636869"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131077",
+      "titel": "Almtuna IS – AIK",
+      "start": "2026-10-14T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-qhpm83sse8",
+      "titel": "IK Uppsala – Kristianstads DFF",
+      "start": "2026-10-17T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Fotboll, OBOS Damallsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.obosdamallsvenskan.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32682416",
+      "titel": "Uppsala Basket – Östersunds Basketklubb",
+      "start": "2026-10-17T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "USIF Arena",
+        "id": "usif"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27644/match/32682416"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportomedia-6530018",
+      "titel": "IK Sirius – IF Elfsborg",
+      "start": "2026-10-18T14:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Fotboll, Allsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Allsvenskan",
+          "url": "https://allsvenskan.se/matcher"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131095",
+      "titel": "Almtuna IS – Vimmerby HC",
+      "start": "2026-10-23T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636880",
+      "titel": "Uppsala Basket – Umeå Basket",
+      "start": "2026-10-23T19:04:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636880"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32656515",
+      "titel": "Uppsala VBS – Solna VBK",
+      "start": "2026-10-24T11:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Bolandsskolan",
+        "id": "sport-plats-bolandsskolan"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Division 1 dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27937/match/32656515"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportomedia-6530026",
+      "titel": "IK Sirius – AIK",
+      "start": "2026-10-24T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Fotboll, Allsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Allsvenskan",
+          "url": "https://allsvenskan.se/matcher"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-yizg2nmru5",
+      "titel": "Storvreta IBK – FBC Kalmarsund",
+      "start": "2026-10-24T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32682420",
+      "titel": "Uppsala Basket – AIK",
+      "start": "2026-10-24T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "USIF Arena",
+        "id": "usif"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27644/match/32682420"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32644548",
+      "titel": "Uppsala HK – Täby HBK",
+      "start": "2026-10-24T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Handboll, Herr 1",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid28142/match/32644548"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-qchc923bna",
+      "titel": "Gamla Upsala – BK Häcken",
+      "start": "2026-10-25T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Fotboll, Elitettan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.elitettan.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32655155",
+      "titel": "Uppsala VBS – Habo Wolley",
+      "start": "2026-10-25T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27936/match/32655155"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131104",
+      "titel": "Almtuna IS – Västerås IK",
+      "start": "2026-10-28T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-ib0g7hxjoc",
+      "titel": "Storvreta IBK – KAIS Mora IF",
+      "start": "2026-10-31T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-10-31-IK-Sirius-IFK-V-nersborg",
+      "titel": "IK Sirius – IFK Vänersborg",
+      "start": "2026-10-31T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584303?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131114",
+      "titel": "Almtuna IS – AIK",
+      "start": "2026-10-31T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-10-31-IK-Sirius-Umedalens-IF",
+      "titel": "IK Sirius – Umedalens IF",
+      "start": "2026-10-31T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1588764?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-11-01-Uppsala-BOIS-Umedalens-IF",
+      "titel": "Uppsala BOIS – Umedalens IF",
+      "start": "2026-11-01T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Serwenthallen",
+        "id": "sport-plats-serwenthallen"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1590944?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-w54roblbp6",
+      "titel": "IK Uppsala – Hammarby",
+      "start": "2026-11-01T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Fotboll, OBOS Damallsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.obosdamallsvenskan.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636891",
+      "titel": "Uppsala Basket – Borås Basket",
+      "start": "2026-11-02T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636891"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportomedia-6530043",
+      "titel": "IK Sirius – Halmstads BK",
+      "start": "2026-11-03T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Fotboll, Allsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Allsvenskan",
+          "url": "https://allsvenskan.se/matcher"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636892",
+      "titel": "Sloga Uppsala – Högsbo Basket",
+      "start": "2026-11-03T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636892"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-wi9i6k8uel",
+      "titel": "Gamla Upsala – IFK Göteborg",
+      "start": "2026-11-07T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Fotboll, Elitettan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.elitettan.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32682433",
+      "titel": "Uppsala Basket – Norrköping Dolphins",
+      "start": "2026-11-07T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "USIF Arena",
+        "id": "usif"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27644/match/32682433"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-11-07-IK-Sirius-H-rn-sands-AIK",
+      "titel": "IK Sirius – Härnösands AIK",
+      "start": "2026-11-07T16:45:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1588764?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-11-08-Uppsala-BOIS-H-rn-sands-AIK",
+      "titel": "Uppsala BOIS – Härnösands AIK",
+      "start": "2026-11-08T11:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Serwenthallen",
+        "id": "sport-plats-serwenthallen"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1590944?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636898",
+      "titel": "Sloga Uppsala – Borås Basket",
+      "start": "2026-11-09T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636898"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131125",
+      "titel": "Almtuna IS – Nybro Vikings IF",
+      "start": "2026-11-11T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-11-13-IK-Sirius-Vetlanda-BK",
+      "titel": "IK Sirius – Vetlanda BK",
+      "start": "2026-11-13T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584303?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636904",
+      "titel": "Uppsala Basket – Umeå Basket",
+      "start": "2026-11-13T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636904"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32644560",
+      "titel": "Uppsala HK – Rimbo HK Roslagen",
+      "start": "2026-11-14T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Handboll, Herr 1",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid28142/match/32644560"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32656523",
+      "titel": "Uppsala VBS – Södermalms VBK",
+      "start": "2026-11-14T16:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Division 1 dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27937/match/32656523"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131135",
+      "titel": "Almtuna IS – BIK Karlskoga",
+      "start": "2026-11-14T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-eov7ozsjhe",
+      "titel": "IK Uppsala – Växjö DFF",
+      "start": "2026-11-15T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Fotboll, OBOS Damallsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.obosdamallsvenskan.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-11-15-Uppsala-BOIS-S-r-kers-IF",
+      "titel": "Uppsala BOIS – Söråkers IF",
+      "start": "2026-11-15T14:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Serwenthallen",
+        "id": "sport-plats-serwenthallen"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1590944?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-11-15-IK-Sirius-V-ster-s-SK-Bandyklubb",
+      "titel": "IK Sirius – Västerås SK Bandyklubb",
+      "start": "2026-11-15T14:45:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1588764?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32655170",
+      "titel": "Uppsala VBS – Södertelge VBK",
+      "start": "2026-11-15T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27936/match/32655170"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-l0d6c9e9a2",
+      "titel": "Storvreta IBK – Nykvarns IBF",
+      "start": "2026-11-17T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131144",
+      "titel": "Almtuna IS – Östersunds IK",
+      "start": "2026-11-18T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-qc352hjkc0",
+      "titel": "Storvreta IBK – Mullsjö AIS",
+      "start": "2026-11-20T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-11-20-IK-Sirius-Gripen-Trollh-ttan-BK",
+      "titel": "IK Sirius – Gripen Trollhättan BK",
+      "start": "2026-11-20T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584303?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32644566",
+      "titel": "Uppsala HK – LIF Lindesberg",
+      "start": "2026-11-21T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Handboll, Herr 1",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid28142/match/32644566"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportomedia-6530060",
+      "titel": "IK Sirius – Djurgårdens IF",
+      "start": "2026-11-22T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Fotboll, Allsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Allsvenskan",
+          "url": "https://allsvenskan.se/matcher"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-11-22-Uppsala-BOIS-IFK-R-ttvik",
+      "titel": "Uppsala BOIS – IFK Rättvik",
+      "start": "2026-11-22T14:15:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Serwenthallen",
+        "id": "sport-plats-serwenthallen"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1590944?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32655162",
+      "titel": "Uppsala VBS – Hylte Halmstad VBK",
+      "start": "2026-11-22T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27936/match/32655162"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636916",
+      "titel": "Uppsala Basket – Köping Stars Basketförening",
+      "start": "2026-11-22T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636916"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-11-24-IK-Sirius-Edsbyns-IF-Bandyf-rening",
+      "titel": "IK Sirius – Edsbyns IF Bandyförening",
+      "start": "2026-11-24T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584303?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131160",
+      "titel": "Almtuna IS – Visby/Roma HK",
+      "start": "2026-11-25T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-rjn3622cjp",
+      "titel": "Storvreta IBK – Pixbo IBK",
+      "start": "2026-11-28T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32656533",
+      "titel": "Uppsala VBS – Hästhagen IF",
+      "start": "2026-11-28T16:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Division 1 dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27937/match/32656533"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32682445",
+      "titel": "Uppsala Basket – Pirates Basketball",
+      "start": "2026-11-29T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "USIF Arena",
+        "id": "usif"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27644/match/32682445"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-11-29-Uppsala-BOIS-IK-Sirius",
+      "titel": "Uppsala BOIS – IK Sirius",
+      "start": "2026-11-29T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Serwenthallen",
+        "id": "sport-plats-serwenthallen"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1588764?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-12-01-IK-Sirius-TB-V-ster-s",
+      "titel": "IK Sirius – TB Västerås",
+      "start": "2026-12-01T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584303?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131170",
+      "titel": "Almtuna IS – Leksands IF",
+      "start": "2026-12-02T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131181",
+      "titel": "Almtuna IS – IK Oskarshamn",
+      "start": "2026-12-04T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636921",
+      "titel": "Sloga Uppsala – Jämtland Basket",
+      "start": "2026-12-04T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636921"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32644578",
+      "titel": "Uppsala HK – IK Bolton",
+      "start": "2026-12-05T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Handboll, Herr 1",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid28142/match/32644578"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636922",
+      "titel": "Uppsala Basket – Södertälje BBK",
+      "start": "2026-12-05T17:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636922"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636927",
+      "titel": "Sloga Uppsala – Nässjö Basket",
+      "start": "2026-12-08T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636927"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131194",
+      "titel": "Almtuna IS – IK Oskarshamn",
+      "start": "2026-12-09T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-12-11-IK-Sirius-V-ster-s-SK",
+      "titel": "IK Sirius – Västerås SK",
+      "start": "2026-12-11T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584303?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636929",
+      "titel": "Uppsala Basket – BC Luleå",
+      "start": "2026-12-11T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636929"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636932",
+      "titel": "Sloga Uppsala – Södertälje BBK",
+      "start": "2026-12-12T17:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636932"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32655186",
+      "titel": "Uppsala VBS – Lunds VK",
+      "start": "2026-12-13T14:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27936/match/32655186"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32682458",
+      "titel": "Uppsala Basket – Luleå BBK",
+      "start": "2026-12-13T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "USIF Arena",
+        "id": "usif"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27644/match/32682458"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131213",
+      "titel": "Almtuna IS – Kalmar HC",
+      "start": "2026-12-18T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-dyrcgznag7",
+      "titel": "Storvreta IBK – IBK Lockerud",
+      "start": "2026-12-19T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32644590",
+      "titel": "Uppsala HK – RP IF Linköping",
+      "start": "2026-12-19T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Handboll, Herr 1",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid28142/match/32644590"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636941",
+      "titel": "Sloga Uppsala – BC Luleå",
+      "start": "2026-12-19T17:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636941"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-12-20-IK-Sirius-Bolln-s-GOIF-BF",
+      "titel": "IK Sirius – Bollnäs GOIF BF",
+      "start": "2026-12-20T14:45:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1588764?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32655201",
+      "titel": "Uppsala VBS – Örkelljunga VK",
+      "start": "2026-12-20T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27936/match/32655201"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2026-12-26-IK-Sirius-Hammarby-IF",
+      "titel": "IK Sirius – Hammarby IF",
+      "start": "2026-12-26T13:15:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584303?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131228",
+      "titel": "Almtuna IS – MoDo Hockey",
+      "start": "2026-12-29T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636947",
+      "titel": "Uppsala Basket – Norrköping Dolphins",
+      "start": "2026-12-30T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636947"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2027-01-02-IK-Sirius-Uppsala-BOIS",
+      "titel": "IK Sirius – Uppsala BOIS",
+      "start": "2027-01-02T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1588764?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-ugpedvymu6",
+      "titel": "Storvreta IBK – Jönköpings IK",
+      "start": "2027-01-03T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636952",
+      "titel": "Uppsala Basket – Sloga Uppsala",
+      "start": "2027-01-05T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636952"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131242",
+      "titel": "Almtuna IS – Mora IK",
+      "start": "2027-01-08T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-p8iaac8fpo",
+      "titel": "Storvreta IBK – Team Thorengruppen",
+      "start": "2027-01-09T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32682478",
+      "titel": "Uppsala Basket – IK Eos Lund",
+      "start": "2027-01-09T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27644/match/32682478"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636956",
+      "titel": "Uppsala Basket – Köping Stars Basketförening",
+      "start": "2027-01-09T17:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636956"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2027-01-10-Uppsala-BOIS-V-ster-s-SK-Bandyklubb",
+      "titel": "Uppsala BOIS – Västerås SK Bandyklubb",
+      "start": "2027-01-10T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Serwenthallen",
+        "id": "sport-plats-serwenthallen"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1590944?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-xma7uiaoeu",
+      "titel": "Storvreta IBK – Warberg IC",
+      "start": "2027-01-10T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32655211",
+      "titel": "Uppsala VBS – Vingåkers VBK",
+      "start": "2027-01-10T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27936/match/32655211"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636957",
+      "titel": "Sloga Uppsala – Borås Basket",
+      "start": "2027-01-10T17:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636957"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-n4dr4dek7c",
+      "titel": "Storvreta IBK – Västerås Rönnby IBK",
+      "start": "2027-01-15T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131259",
+      "titel": "Almtuna IS – Vimmerby HC",
+      "start": "2027-01-15T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32644602",
+      "titel": "Uppsala HK – Enköpings HF",
+      "start": "2027-01-16T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Handboll, Herr 1",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid28142/match/32644602"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636965",
+      "titel": "Sloga Uppsala – Umeå Basket",
+      "start": "2027-01-18T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636965"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636966",
+      "titel": "Uppsala Basket – Jämtland Basket",
+      "start": "2027-01-19T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636966"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131272",
+      "titel": "Almtuna IS – Leksands IF",
+      "start": "2027-01-22T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636975",
+      "titel": "Sloga Uppsala – Norrköping Dolphins",
+      "start": "2027-01-25T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636975"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636977",
+      "titel": "Uppsala Basket – BC Luleå",
+      "start": "2027-01-26T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636977"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131279",
+      "titel": "Almtuna IS – Västerås IK",
+      "start": "2027-01-27T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-h84n20exih",
+      "titel": "Storvreta IBK – FBC Kalmarsund",
+      "start": "2027-01-30T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32682493",
+      "titel": "Uppsala Basket – Alviks Basketbollklubb",
+      "start": "2027-01-30T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "USIF Arena",
+        "id": "usif"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27644/match/32682493"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32644614",
+      "titel": "Uppsala HK – Sannadals SK",
+      "start": "2027-01-30T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Handboll, Herr 1",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid28142/match/32644614"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32656577",
+      "titel": "Uppsala VBS – Vallentuna VBK",
+      "start": "2027-01-30T16:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Division 1 dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27937/match/32656577"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32655221",
+      "titel": "Uppsala VBS – Sollentuna VK",
+      "start": "2027-01-31T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27936/match/32655221"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131300",
+      "titel": "Almtuna IS – Östersunds IK",
+      "start": "2027-02-05T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-vi33undezm",
+      "titel": "Storvreta IBK – IBF Falun",
+      "start": "2027-02-05T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636989",
+      "titel": "Uppsala Basket – Södertälje BBK",
+      "start": "2027-02-05T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636989"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2027-02-07-IK-Sirius-IFK-R-ttvik",
+      "titel": "IK Sirius – IFK Rättvik",
+      "start": "2027-02-07T14:45:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1588764?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636995",
+      "titel": "Sloga Uppsala – Uppsala Basket",
+      "start": "2027-02-09T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636995"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636998",
+      "titel": "Uppsala Basket – Nässjö Basket",
+      "start": "2027-02-12T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636998"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32655232",
+      "titel": "Uppsala VBS – Floby VK",
+      "start": "2027-02-13T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27936/match/32655232"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32636999",
+      "titel": "Sloga Uppsala – Köping Stars Basketförening",
+      "start": "2027-02-13T17:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32636999"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32656559",
+      "titel": "Uppsala VBS – IK Studenterna i Umeå",
+      "start": "2027-02-14T10:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Bolandsskolan",
+        "id": "sport-plats-bolandsskolan"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Division 1 dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27937/match/32656559"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2027-02-14-Uppsala-BOIS-Bolln-s-GOIF-BF",
+      "titel": "Uppsala BOIS – Bollnäs GOIF BF",
+      "start": "2027-02-14T12:15:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Serwenthallen",
+        "id": "sport-plats-serwenthallen"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1590944?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-aozji5mkj4",
+      "titel": "Storvreta IBK – Warberg IC",
+      "start": "2027-02-14T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-fbar8mkdxt",
+      "titel": "Storvreta IBK – IBK Dalen",
+      "start": "2027-02-14T16:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32644626",
+      "titel": "Uppsala HK – Örebro SK HK Herr",
+      "start": "2027-02-15T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Handboll, Herr 1",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid28142/match/32644626"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131320",
+      "titel": "Almtuna IS – Södertälje SK",
+      "start": "2027-02-19T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32682505",
+      "titel": "Uppsala Basket – Högsbo Basket",
+      "start": "2027-02-20T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "USIF Arena",
+        "id": "usif"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27644/match/32682505"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2027-02-21-IK-Sirius-S-r-kers-IF",
+      "titel": "IK Sirius – Söråkers IF",
+      "start": "2027-02-21T14:45:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Bandy, Allsvenskan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1588764?t=schedule"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32655242",
+      "titel": "Uppsala VBS – VBF RIG Falköping",
+      "start": "2027-02-21T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27936/match/32655242"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131333",
+      "titel": "Almtuna IS – Kalmar HC",
+      "start": "2027-02-24T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-je27yu805i",
+      "titel": "Storvreta IBK – Visby IBK",
+      "start": "2027-02-26T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32656567",
+      "titel": "Uppsala VBS – Sollentuna VK B",
+      "start": "2027-02-27T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Bolandsskolan",
+        "id": "sport-plats-bolandsskolan"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Division 1 dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27937/match/32656567"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32655245",
+      "titel": "Uppsala VBS – Hästhagen IF",
+      "start": "2027-02-28T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27936/match/32655245"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-swehockey-90131348",
+      "titel": "Almtuna IS – Mora IK",
+      "start": "2027-03-01T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gränby ishall",
+        "id": "granbyishall"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Ishockey, HockeyAllsvenskan",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Svenska Ishockeyförbundet",
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32637011",
+      "titel": "Sloga Uppsala – BC Luleå",
+      "start": "2027-03-04T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32637011"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32644638",
+      "titel": "Uppsala HK – Bodens BK HF",
+      "start": "2027-03-06T13:45:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Handboll, Herr 1",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid28142/match/32644638"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-m33k8v3yy4",
+      "titel": "Storvreta IBK – Karlstad IBF",
+      "start": "2027-03-06T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32682520",
+      "titel": "Uppsala Basket – Brahe Basket",
+      "start": "2027-03-06T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "USIF Arena",
+        "id": "usif"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27644/match/32682520"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32637019",
+      "titel": "Uppsala Basket – Sloga Uppsala",
+      "start": "2027-03-09T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32637019"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32656549",
+      "titel": "Uppsala VBS – Norsjö VBK",
+      "start": "2027-03-14T10:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Bolandsskolan",
+        "id": "sport-plats-bolandsskolan"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Volleyboll, Division 1 dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27937/match/32656549"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-bu3cpw3trj",
+      "titel": "Storvreta IBK – AIK IBF",
+      "start": "2027-03-16T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32637025",
+      "titel": "Sloga Uppsala – Umeå Basket",
+      "start": "2027-03-17T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32637025"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32637026",
+      "titel": "Uppsala Basket – Norrköping Dolphins",
+      "start": "2027-03-19T19:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32637026"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32644650",
+      "titel": "Uppsala HK – HK Cliff",
+      "start": "2027-03-20T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Handboll, Herr 1",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid28142/match/32644650"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32637029",
+      "titel": "Sloga Uppsala – Nässjö Basket",
+      "start": "2027-03-20T17:04:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27640/match/32637029"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-oo0run7852",
+      "titel": "Storvreta IBK – Malmö FBC ",
+      "start": "2027-03-21T13:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-32682533",
+      "titel": "Uppsala Basket – Visby Ladies",
+      "start": "2027-03-21T14:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "USIF Arena",
+        "id": "usif"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Basket, Basketligan dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/leagueid27644/match/32682533"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-p3i4cihgmv",
+      "titel": "Storvreta IBK – Växjö Vipers",
+      "start": "2027-03-21T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-wnhcm16wc2",
+      "titel": "Storvreta IBK – Växjö Vipers ",
+      "start": "2027-03-29T14:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Innebandy, SSL dam",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    }
+  ]
+}

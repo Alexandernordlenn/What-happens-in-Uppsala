@@ -338,7 +338,7 @@ footer p{margin:0 0 8px}
         <input id="q" type="search" placeholder="Sök artist, plats eller evenemang" autocomplete="off">
       </label>
       <div class="seg" id="period" role="group" aria-label="Period">
-        <button data-p="today">Idag</button><button data-p="weekend">Helgen</button><button data-p="7">7 dagar</button><button data-p="14">14 dagar</button><button data-p="all">2 mån</button>
+        <button data-p="today">Idag</button><button data-p="weekend">Helgen</button><button data-p="7">7 dagar</button><button data-p="14">14 dagar</button><button data-p="all">3 mån</button>
       </div>
     </div>
     <div class="chips" id="chips" role="group" aria-label="Filter"></div>
@@ -385,6 +385,9 @@ var SRC = {
   b:{name:"Bibliotek Uppsala", base:"https://bibliotekuppsala.se/", how:"Öppet API",
      status:"Samma öppna källa som bibliotekets egen kalender använder. Läxhjälp, IT-handledning och juridisk rådgivning tas inte med.",
      demo:"I demon: länk hittad via Heja Uppsala."},
+  i:{name:"Förbund och ligor", base:"https://www.profixio.com/", how:"Förbundens system",
+     status:"Matcher på arenor i Uppsala från ligornas och förbundens egna system: Allsvenskan, Damallsvenskan, Elitettan, SSL, HockeyAllsvenskan och Profixio (bandy, basket, handboll, volleyboll).",
+     demo:"I demon: inte med."},
   u:{name:"Kubik Uppsala", base:"https://www.kubikuppsala.se/", how:"Kommunens kalender",
      status:"Uppsala kommuns kalender för barn och unga. Återkommande aktiviteter, till exempel en kurs varje tisdag, visas som en period.",
      demo:"I demon: inte med."}
@@ -645,7 +648,7 @@ var FKEY="ujn-favs-v1", favs=[];
 try{ favs = JSON.parse(localStorage.getItem(FKEY)||"[]"); if(!Array.isArray(favs)) favs=[]; }catch(err){ favs=[]; }
 function saveFavs(){ try{ localStorage.setItem(FKEY, JSON.stringify(favs)); }catch(err){} }
 var st = { q:"", period:"14", view:"list", cats:[], ages:[], areas:[], free:false, fam:false, fav:false, day:null, week:0, fopen:false, fmore:false,
-           src:{t:true,h:true,d:true,s:true,k:true,b:true,u:true} };
+           src:{t:true,h:true,d:true,s:true,k:true,b:true,u:true,i:true} };
 
 function srcOn(e){ return e.src.some(function(s){ return st.src[s.k]; }); }
 function activeSrc(e){ return e.src.filter(function(s){ return st.src[s.k]; }); }
@@ -680,7 +683,7 @@ function periodDays(){
   else if(st.period==="weekend"){ var off=(5-TODAY.getDay()+7)%7; n=[off,off+2]; }
   else if(st.period==="7") n=[0,6];
   else if(st.period==="14") n=[0,13];
-  else n=[0,59]; // "Allt": två månader framåt
+  else n=[0,89]; // "3 mån": tre månader framåt, för att hinna köpa biljetter
   var out=[]; for(var i=n[0];i<=n[1];i++) out.push(addDays(TODAY,i)); return out;
 }
 function sortDay(a,b){

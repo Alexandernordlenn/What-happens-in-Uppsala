@@ -1,0 +1,611 @@
+<div>s="self-stretch text-xl md:text-2xl font-bold">
+                                    <!--[if BLOCK]><![endif]-->                                        Saturday
+                                        Oct 31, 2026
+                                    <!--[if ENDBLOCK]><![endif]-->                                </div>
+                            </div>
+                        <!--[if ENDBLOCK]><![endif]-->                    <!--[if ENDBLOCK]><![endif]-->                    <!--[if BLOCK]><![endif]-->                        
+                        <div class="@container px-4 py-3 md:px-6">
+                            <div x-data="{
+        expand(e) {
+            if (e?.target.closest('a')) return;
+            e.stopPropagation();
+            e.preventDefault();
+
+            const url = 'https://www.profixio.com/app/lx/match/32712630';
+
+            if (this.nativePush && window.lxNativePush) {
+                window.lxNativePush(url);
+
+                return;
+            }
+
+            window.location.href = url;
+        },
+        nativePush: false,
+        matchId: 32712630,
+        debugmatch: false,
+        get match() {
+            return $store.matches.getMatch(this.matchId);
+        },
+        get gamestate(){ return this.match?.gamestate },
+             }"
+     x-init="
+        $nextTick(() => {
+            $store.matches.registerMatch(
+                32712630,
+                'SBF.SE.BA',
+                {
+                    homegoals: '',
+                    awaygoals: '',
+                    hasLivescore: false,
+                    hasResult: false,
+                    winner: null,
+                                        gamestate: null,
+                    setup: null,
+                }
+            );
+        })
+     "
+     x-on:debug-emp-32712630.window="debugmatch = true"
+     @match-update-32712630.window="$el.dispatchEvent(new Event('alpine:update'))"
+     class="flex flex-col h-full"
+     wire:key="mc_mini_32712630"
+
+>
+    <div class="flex justify-between flex-1 min-w-0">
+    
+    <div class="grow flex flex-col justify-center">
+        <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->        
+        <div class="flex flex-col gap-[4px] @3xl:gap-0 @4xl:flex-row @4xl:flex"
+             @click="expand(event)"
+             @contextmenu.prevent="$dispatch('open-admin-match-menu', (32712630))"
+        >
+            <div class="hidden @2xs:flex text-[8px] @xl:text-xs font-light  @4xl:flex-col text-black gap-1 @4xl:gap-2 w-48 whitespace-nowrap">
+                <div class="flex gap-1">
+                    <!--[if BLOCK]><![endif]-->                        <!--[if BLOCK]><![endif]-->                            <div>Runde 3</div>
+                            <!--[if BLOCK]><![endif]--><div>•</div><!--[if ENDBLOCK]><![endif]-->                        <!--[if ENDBLOCK]><![endif]-->                    <!--[if ENDBLOCK]><![endif]-->                    <!--[if BLOCK]><![endif]-->                        <div class="hidden @4xl:inline-block pl-1">Elitserien Herr</div>
+                    <!--[if ENDBLOCK]><![endif]-->                </div>
+                
+                <div class="flex gap-1.5 self-start whitespace-nowrap">
+                    <!--[if BLOCK]><![endif]-->                        <a class="text-blue-950 hover:underline"
+                           href="https://www.profixio.com/app/lx/SBF/facility/5802"
+                        >
+                            Studenternas IP
+                        </a>
+                    <!--[if ENDBLOCK]><![endif]-->                </div>
+            </div>
+            <!--[if BLOCK]><![endif]-->                <div class="@2xs:hidden text-[10px] flex justify-between">
+                    <!--[if BLOCK]><![endif]-->                        <div class="flex">
+                            Oct 31 • 15:00
+                        </div>
+                    <!--[if ENDBLOCK]><![endif]-->                </div>
+            <!--[if ENDBLOCK]><![endif]-->            <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->            
+            <div class="flex-1 grid items-center justify-items-start gap-y-[4px] @3xl:gap-4 grid-cols-[minmax(0,1fr)_auto] @2xs:grid-cols-8 @3xl:flex @2xs:pr-2 @3xl:pr-0  my-auto text-xs @2xs:text-sm @xl:text-lg @max-md:max-w-full  ">
+                <div class="col-span-1 @2xs:col-span-7 w-full @3xl:w-40 @xl:w-56 flex-auto">
+                    <div class="flex items-center justify-end gap-2.5 font-medium text-right text-blue-950  flex-row-reverse @3xl:flex-row">
+                        <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                        <!--[if BLOCK]><![endif]-->                            <div class="-mx-1 hidden @2xs:block">
+                                <div x-data="{
+        id: 1584303,
+        type: 'Lag',
+        }
+        "
+data-cy="favorite-toggler"
+
+     
+>
+    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none justify-center h-6 text-xs rounded-md px-2 inline-flex  bg-transparent hover:bg-zinc-800/5 dark:hover:bg-white/15 text-zinc-800 dark:text-white      group h-auto! p-0.5!" data-flux-button="data-flux-button" x-bind:title="$store.favorites.isFavorited(type, id) ? &quot;Remove from favorites&quot; : &quot;Add to favorites&quot;" @click.prevent.stop="$store.favorites.toggleFavorite(type, id)">
+        
+    </button>
+</div>
+                            </div>
+                        <!--[if ENDBLOCK]><![endif]-->                        <a class="block min-w-0 overflow-hidden text-ellipsis whitespace-nowrap"
+                           :class="{ 'font-extrabold': $data.match?.winner === 'H' }"
+                                                          href="https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584303"
+                                                        >
+                            <!--[if BLOCK]><![endif]-->                                IK Sirius
+                            <!--[if ENDBLOCK]><![endif]-->                        </a>
+                        <!--[if BLOCK]><![endif]-->                            <div class="w-3 dark:bg-white rounded flex flex-col justify-center h-3 @2xs:h-4 @2xs:w-4 @3xl:h-8 @3xl:w-8 object-contain shrink-0 aspect-square" >
+    <!--[if BLOCK]><![endif]-->            <img src='https://res.cloudinary.com/profixio/image/upload/c_pad,f_auto,h_32,q_auto,w_32/v1/logos/gklubb/23244' alt='Logo' class/>    <!--[if ENDBLOCK]><![endif]--></div>
+                        <!--[if ENDBLOCK]><![endif]-->                    </div>
+                </div>
+                <div class="row-span-2 justify-self-end flex flex-col self-stretch items-center @3xl:flex-row">
+                    <div class="flex flex-1 flex-col">
+                        <!--[if BLOCK]><![endif]-->
+                                <template x-if="$data.match && ($data.match.hasLivescore || $data.match.hasResult)">
+                                    <div class="flex-1 @3xl:flex-none min-w-5 justify-center flex flex-col @3xl:flex-row @3xl:gap-1 px-1 py-1 @2xs:py-0 @3xl:px-2 font-bold text-center whitespace-nowrap rounded-badge border border-solid bg-lx-live/15 border-lx-live-border text-lx-live-score-text"
+
+                                         :class="{
+                                            'bg-lx-live/15 border-lx-live-border text-lx-live-score-text' : !match?.hasResult,
+                                            'bg-lx-badge/30 border-lx-badge-border text-lx-badge-text' : match?.hasResult,
+                                         }"
+                                         x-cloak
+                                    >
+                                    <span
+                                            x-data="animatedValue"
+                                            x-text="match?.homegoals"
+                                            x-effect="trackChange(match?.homegoals)"
+                                            :class="{ 'scale-110': highlight }"
+                                            class="transition-all duration-300 origin-center inline-block"
+                                    ></span>
+                                        <span class="hidden @3xl:block">-</span>
+                                        <span class="h-2 @2xs:hidden"></span>
+                                        <span
+                                                x-data="animatedValue"
+                                                x-text="match?.awaygoals"
+                                                x-effect="trackChange(match?.awaygoals)"
+                                                :class="{ 'scale-110': highlight }"
+                                                class="transition-all duration-300 origin-center inline-block"
+                                        ></span>
+                                    </div>
+                                </template>
+                                <template x-if="$data.match && !($data.match.hasLivescore || $data.match.hasResult)">
+                                    <div class="hidden @3xl:block my-auto text-center">
+                                        15:00
+                                    </div>
+                                </template>
+
+                                <!--[if ENDBLOCK]><![endif]-->                    </div>
+                </div>
+                <div class="flex items-center col-span-1 @2xs:col-span-7 w-full @3xl:w-40 @xl:w-56 flex-auto gap-2.5 font-medium text-right  ">
+                    <!--[if BLOCK]><![endif]-->                        <div class="w-3 dark:bg-white rounded flex flex-col justify-center h-3 @2xs:h-4 @2xs:w-4 @3xl:h-8 @3xl:w-8 object-contain shrink-0 aspect-square" >
+    <!--[if BLOCK]><![endif]-->            <img src='https://res.cloudinary.com/profixio/image/upload/c_pad,f_auto,h_32,q_auto,w_32/v1/logos/gklubb/23242_1692987690' alt='Logo' class/>    <!--[if ENDBLOCK]><![endif]--></div>
+                    <!--[if ENDBLOCK]><![endif]-->
+                    <a class="block min-w-0 overflow-hidden text-ellipsis whitespace-nowrap"
+                       :class="{ 'font-extrabold': $data.match?.winner === 'B' }"
+                                                  href="https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584310"
+                                                >
+                        <!--[if BLOCK]><![endif]-->                            IFK Vänersborg
+                        <!--[if ENDBLOCK]><![endif]-->                    </a>
+                    <!--[if BLOCK]><![endif]-->                        <div class="-ml-1 flex hidden @2xs:block">
+                            <div x-data="{
+        id: 1584310,
+        type: 'Lag',
+        }
+        "
+data-cy="favorite-toggler"
+
+     
+>
+    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none justify-center h-6 text-xs rounded-md px-2 inline-flex  bg-transparent hover:bg-zinc-800/5 dark:hover:bg-white/15 text-zinc-800 dark:text-white      group h-auto! p-0.5!" data-flux-button="data-flux-button" x-bind:title="$store.favorites.isFavorited(type, id) ? &quot;Remove from favorites&quot; : &quot;Add to favorites&quot;" @click.prevent.stop="$store.favorites.toggleFavorite(type, id)">
+        
+    </button>
+</div>
+                        </div>
+                    <!--[if ENDBLOCK]><![endif]-->                    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                </div>
+            </div>
+            <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->        </div>
+    </div>
+
+    <div class="my-2 hidden w-px shrink-0 self-stretch bg-lx-divider @2xs:block @3xl:hidden"></div>
+
+    <div class="flex items-center">
+
+        <div class="hidden @3xl:block w-8">
+            <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->        </div>
+    </div>
+    <button
+            @click.prevent.stop="expand(event)"
+            class="hidden bg-white @2xs:flex justify-between flex-col pl-2 @3xl:pl-0  @3xl:justify-around items-center @3xl:flex-row w-[68px] @3xl:w-40">
+
+        <template x-if="!$data.match?.hasLivescore || $data.match?.hasResult">
+            
+            <div class="@3xl:hidden text-base font-bold tracking-tighter">Oct 31</div>
+        </template>
+        <template x-if="!$data.match?.hasLivescore || $data.match?.hasResult">
+            <div class="@3xl:hidden my-auto text-center text-sm font-normal">
+                15:00
+            </div>
+        </template>
+        <div x-cloak x-show="gamestate?.headerstate === 'Finished' && gamestate?.finished">
+            Finished
+
+        </div>
+        <div class="text-center text-[9px]" x-cloak x-show="gamestate?.headerstate === 'PenaltyCompetition'">
+            <p>Penalty shootout</p>
+        </div>
+        <p class="whitespace-nowrap text-xs" x-cloak x-show="gamestate?.headerstate === 'inExtraPeriod'">
+            OT:<span x-text="gamestate?.epn"></span>
+        </p>
+        <p class="whitespace-nowrap text-xs" x-cloak x-show="gamestate?.headerstate === 'Normal'">
+            <!--[if BLOCK]><![endif]-->                Half: <span x-text="gamestate?.period"></span>
+            <!--[if ENDBLOCK]><![endif]-->        </p>
+        <div class=" text-xs flex flex-col">
+
+            <template x-if="$data.match?.hasLivescore && $data.gamestate && $data.match?.timer ">
+                <div>
+                    <div class="font-extrabold text-2xl leading-none @3xl:font-bold @3xl:text-sm @3xl:leading-none flex" x-show="gamestate?.clock">
+                        <!-- Use the formatted elapsed time from store -->
+                        <span
+                                x-data="animatedValue"
+                                x-text="match?.timer?.showPause ? `Pause` : match?.timer?.formattedTime"
+                                x-effect="trackChange(match?.timer?.formattedTime)"
+                                :class="{ 'text-profixio-orange scale-105': highlight }"
+                                class="transition-all duration-300 origin-center inline-block"
+                        ></span>
+                    </div>
+                </div>
+            </template>
+            <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->        </div>
+        <template x-if="$data.match?.hasLivescore && !$data.match?.hasResult">
+            <span class="inline-flex items-center whitespace-nowrap border border-solid border-lx-live-border bg-lx-live/20 font-nunito font-extrabold text-lx-live-text gap-1.5 rounded-badge px-[11px] py-[5px] text-xs leading-none" role="status">
+    <span class="shrink-0 rounded-full bg-lx-live size-[9px]"></span>
+    Live
+</span>
+        </template>
+        <template x-if="!$data.match?.hasLivescore || $data.match?.hasResult">
+            
+            <div class="text-[9px] leading-[12px] px-[6px] py-[4px] @3xl:text-xs @3xl:leading-4 @3xl:px-[11px] @3xl:py-[5px] font-medium text-center whitespace-nowrap text-lx-badge-text overflow-hidden bg-lx-badge/30 border border-solid border-lx-badge-border rounded-badge hover:bg-lx-badge/60 focus:outline-none focus:ring-2 focus:ring-lx-badge-text"
+                 aria-label="View match information">
+                Matchinfo
+            </div>
+        </template>
+        <div class="text-center" x-cloak x-show="gamestate?.headerstate === 'PenaltyCompetition'">
+            <div>
+                <span x-text="gamestate?.penaltyScore?.homeGoals"></span>-<span x-text="gamestate?.penaltyScore?.awayGoals"></span>
+            </div>
+        </div>
+
+    </button>
+    </div>
+    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]--></div>
+                            </div>
+                    <!--[if ENDBLOCK]><![endif]-->                </li>
+                <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                            <li wire:key="listkamp_32712636"
+                                    >
+                                        <!--[if BLOCK]><![endif]-->                                                <!--[if BLOCK]><![endif]-->                                                        <div class="flex items-center px-4 pb-2 md:px-6 pt-7"
+                            >
+                                <div class="self-stretch text-xl md:text-2xl font-bold">
+                                    <!--[if BLOCK]><![endif]-->                                        Tuesday
+                                        Nov 3, 2026
+                                    <!--[if ENDBLOCK]><![endif]-->                                </div>
+                            </div>
+                        <!--[if ENDBLOCK]><![endif]-->                    <!--[if ENDBLOCK]><![endif]-->                    <!--[if BLOCK]><![endif]-->                        
+                        <div class="@container px-4 py-3 md:px-6">
+                            <div x-data="{
+        expand(e) {
+            if (e?.target.closest('a')) return;
+            e.stopPropagation();
+            e.preventDefault();
+
+            const url = 'https://www.profixio.com/app/lx/match/32712636';
+
+            if (this.nativePush && window.lxNativePush) {
+                window.lxNativePush(url);
+
+                return;
+            }
+
+            window.location.href = url;
+        },
+        nativePush: false,
+        matchId: 32712636,
+        debugmatch: false,
+        get match() {
+            return $store.matches.getMatch(this.matchId);
+        },
+        get gamestate(){ return this.match?.gamestate },
+             }"
+     x-init="
+        $nextTick(() => {
+            $store.matches.registerMatch(
+                32712636,
+                'SBF.SE.BA',
+                {
+                    homegoals: '',
+                    awaygoals: '',
+                    hasLivescore: false,
+                    hasResult: false,
+                    winner: null,
+                                        gamestate: null,
+                    setup: null,
+                }
+            );
+        })
+     "
+     x-on:debug-emp-32712636.window="debugmatch = true"
+     @match-update-32712636.window="$el.dispatchEvent(new Event('alpine:update'))"
+     class="flex flex-col h-full"
+     wire:key="mc_mini_32712636"
+
+>
+    <div class="flex justify-between flex-1 min-w-0">
+    
+    <div class="grow flex flex-col justify-center">
+        <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->        
+        <div class="flex flex-col gap-[4px] @3xl:gap-0 @4xl:flex-row @4xl:flex"
+             @click="expand(event)"
+             @contextmenu.prevent="$dispatch('open-admin-match-menu', (32712636))"
+        >
+            <div class="hidden @2xs:flex text-[8px] @xl:text-xs font-light  @4xl:flex-col text-black gap-1 @4xl:gap-2 w-48 whitespace-nowrap">
+                <div class="flex gap-1">
+                    <!--[if BLOCK]><![endif]-->                        <!--[if BLOCK]><![endif]-->                            <div>Runde 4</div>
+                            <!--[if BLOCK]><![endif]--><div>•</div><!--[if ENDBLOCK]><![endif]-->                        <!--[if ENDBLOCK]><![endif]-->                    <!--[if ENDBLOCK]><![endif]-->                    <!--[if BLOCK]><![endif]-->                        <div class="hidden @4xl:inline-block pl-1">Elitserien Herr</div>
+                    <!--[if ENDBLOCK]><![endif]-->                </div>
+                
+                <div class="flex gap-1.5 self-start whitespace-nowrap">
+                    <!--[if BLOCK]><![endif]-->                        <a class="text-blue-950 hover:underline"
+                           href="https://www.profixio.com/app/lx/SBF/facility/5761"
+                        >
+                            Eriksson Arena
+                        </a>
+                    <!--[if ENDBLOCK]><![endif]-->                </div>
+            </div>
+            <!--[if BLOCK]><![endif]-->                <div class="@2xs:hidden text-[10px] flex justify-between">
+                    <!--[if BLOCK]><![endif]-->                        <div class="flex">
+                            Nov 3 • 19:00
+                        </div>
+                    <!--[if ENDBLOCK]><![endif]-->                </div>
+            <!--[if ENDBLOCK]><![endif]-->            <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->            
+            <div class="flex-1 grid items-center justify-items-start gap-y-[4px] @3xl:gap-4 grid-cols-[minmax(0,1fr)_auto] @2xs:grid-cols-8 @3xl:flex @2xs:pr-2 @3xl:pr-0  my-auto text-xs @2xs:text-sm @xl:text-lg @max-md:max-w-full  ">
+                <div class="col-span-1 @2xs:col-span-7 w-full @3xl:w-40 @xl:w-56 flex-auto">
+                    <div class="flex items-center justify-end gap-2.5 font-medium text-right text-blue-950  flex-row-reverse @3xl:flex-row">
+                        <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                        <!--[if BLOCK]><![endif]-->                            <div class="-mx-1 hidden @2xs:block">
+                                <div x-data="{
+        id: 1584314,
+        type: 'Lag',
+        }
+        "
+data-cy="favorite-toggler"
+
+     
+>
+    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none justify-center h-6 text-xs rounded-md px-2 inline-flex  bg-transparent hover:bg-zinc-800/5 dark:hover:bg-white/15 text-zinc-800 dark:text-white      group h-auto! p-0.5!" data-flux-button="data-flux-button" x-bind:title="$store.favorites.isFavorited(type, id) ? &quot;Remove from favorites&quot; : &quot;Add to favorites&quot;" @click.prevent.stop="$store.favorites.toggleFavorite(type, id)">
+        
+    </button>
+</div>
+                            </div>
+                        <!--[if ENDBLOCK]><![endif]-->                        <a class="block min-w-0 overflow-hidden text-ellipsis whitespace-nowrap"
+                           :class="{ 'font-extrabold': $data.match?.winner === 'H' }"
+                                                          href="https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584314"
+                                                        >
+                            <!--[if BLOCK]><![endif]-->                                Åby/Tjureda IF
+                            <!--[if ENDBLOCK]><![endif]-->                        </a>
+                        <!--[if BLOCK]><![endif]-->                            <div class="w-3 dark:bg-white rounded flex flex-col justify-center h-3 @2xs:h-4 @2xs:w-4 @3xl:h-8 @3xl:w-8 object-contain shrink-0 aspect-square" >
+    <!--[if BLOCK]><![endif]-->            <img src='https://res.cloudinary.com/profixio/image/upload/c_pad,f_auto,h_32,q_auto,w_32/v1/logos/gklubb/23342' alt='Logo' class/>    <!--[if ENDBLOCK]><![endif]--></div>
+                        <!--[if ENDBLOCK]><![endif]-->                    </div>
+                </div>
+                <div class="row-span-2 justify-self-end flex flex-col self-stretch items-center @3xl:flex-row">
+                    <div class="flex flex-1 flex-col">
+                        <!--[if BLOCK]><![endif]-->
+                                <template x-if="$data.match && ($data.match.hasLivescore || $data.match.hasResult)">
+                                    <div class="flex-1 @3xl:flex-none min-w-5 justify-center flex flex-col @3xl:flex-row @3xl:gap-1 px-1 py-1 @2xs:py-0 @3xl:px-2 font-bold text-center whitespace-nowrap rounded-badge border border-solid bg-lx-live/15 border-lx-live-border text-lx-live-score-text"
+
+                                         :class="{
+                                            'bg-lx-live/15 border-lx-live-border text-lx-live-score-text' : !match?.hasResult,
+                                            'bg-lx-badge/30 border-lx-badge-border text-lx-badge-text' : match?.hasResult,
+                                         }"
+                                         x-cloak
+                                    >
+                                    <span
+                                            x-data="animatedValue"
+                                            x-text="match?.homegoals"
+                                            x-effect="trackChange(match?.homegoals)"
+                                            :class="{ 'scale-110': highlight }"
+                                            class="transition-all duration-300 origin-center inline-block"
+                                    ></span>
+                                        <span class="hidden @3xl:block">-</span>
+                                        <span class="h-2 @2xs:hidden"></span>
+                                        <span
+                                                x-data="animatedValue"
+                                                x-text="match?.awaygoals"
+                                                x-effect="trackChange(match?.awaygoals)"
+                                                :class="{ 'scale-110': highlight }"
+                                                class="transition-all duration-300 origin-center inline-block"
+                                        ></span>
+                                    </div>
+                                </template>
+                                <template x-if="$data.match && !($data.match.hasLivescore || $data.match.hasResult)">
+                                    <div class="hidden @3xl:block my-auto text-center">
+                                        19:00
+                                    </div>
+                                </template>
+
+                                <!--[if ENDBLOCK]><![endif]-->                    </div>
+                </div>
+                <div class="flex items-center col-span-1 @2xs:col-span-7 w-full @3xl:w-40 @xl:w-56 flex-auto gap-2.5 font-medium text-right  ">
+                    <!--[if BLOCK]><![endif]-->                        <div class="w-3 dark:bg-white rounded flex flex-col justify-center h-3 @2xs:h-4 @2xs:w-4 @3xl:h-8 @3xl:w-8 object-contain shrink-0 aspect-square" >
+    <!--[if BLOCK]><![endif]-->            <img src='https://res.cloudinary.com/profixio/image/upload/c_pad,f_auto,h_32,q_auto,w_32/v1/logos/gklubb/23244' alt='Logo' class/>    <!--[if ENDBLOCK]><![endif]--></div>
+                    <!--[if ENDBLOCK]><![endif]-->
+                    <a class="block min-w-0 overflow-hidden text-ellipsis whitespace-nowrap"
+                       :class="{ 'font-extrabold': $data.match?.winner === 'B' }"
+                                                  href="https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584303"
+                                                >
+                        <!--[if BLOCK]><![endif]-->                            IK Sirius
+                        <!--[if ENDBLOCK]><![endif]-->                    </a>
+                    <!--[if BLOCK]><![endif]-->                        <div class="-ml-1 flex hidden @2xs:block">
+                            <div x-data="{
+        id: 1584303,
+        type: 'Lag',
+        }
+        "
+data-cy="favorite-toggler"
+
+     
+>
+    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none justify-center h-6 text-xs rounded-md px-2 inline-flex  bg-transparent hover:bg-zinc-800/5 dark:hover:bg-white/15 text-zinc-800 dark:text-white      group h-auto! p-0.5!" data-flux-button="data-flux-button" x-bind:title="$store.favorites.isFavorited(type, id) ? &quot;Remove from favorites&quot; : &quot;Add to favorites&quot;" @click.prevent.stop="$store.favorites.toggleFavorite(type, id)">
+        
+    </button>
+</div>
+                        </div>
+                    <!--[if ENDBLOCK]><![endif]-->                    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                </div>
+            </div>
+            <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->        </div>
+    </div>
+
+    <div class="my-2 hidden w-px shrink-0 self-stretch bg-lx-divider @2xs:block @3xl:hidden"></div>
+
+    <div class="flex items-center">
+
+        <div class="hidden @3xl:block w-8">
+            <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->        </div>
+    </div>
+    <button
+            @click.prevent.stop="expand(event)"
+            class="hidden bg-white @2xs:flex justify-between flex-col pl-2 @3xl:pl-0  @3xl:justify-around items-center @3xl:flex-row w-[68px] @3xl:w-40">
+
+        <template x-if="!$data.match?.hasLivescore || $data.match?.hasResult">
+            
+            <div class="@3xl:hidden text-base font-bold tracking-tighter">Nov 3</div>
+        </template>
+        <template x-if="!$data.match?.hasLivescore || $data.match?.hasResult">
+            <div class="@3xl:hidden my-auto text-center text-sm font-normal">
+                19:00
+            </div>
+        </template>
+        <div x-cloak x-show="gamestate?.headerstate === 'Finished' && gamestate?.finished">
+            Finished
+
+        </div>
+        <div class="text-center text-[9px]" x-cloak x-show="gamestate?.headerstate === 'PenaltyCompetition'">
+            <p>Penalty shootout</p>
+        </div>
+        <p class="whitespace-nowrap text-xs" x-cloak x-show="gamestate?.headerstate === 'inExtraPeriod'">
+            OT:<span x-text="gamestate?.epn"></span>
+        </p>
+        <p class="whitespace-nowrap text-xs" x-cloak x-show="gamestate?.headerstate === 'Normal'">
+            <!--[if BLOCK]><![endif]-->                Half: <span x-text="gamestate?.period"></span>
+            <!--[if ENDBLOCK]><![endif]-->        </p>
+        <div class=" text-xs flex flex-col">
+
+            <template x-if="$data.match?.hasLivescore && $data.gamestate && $data.match?.timer ">
+                <div>
+                    <div class="font-extrabold text-2xl leading-none @3xl:font-bold @3xl:text-sm @3xl:leading-none flex" x-show="gamestate?.clock">
+                        <!-- Use the formatted elapsed time from store -->
+                        <span
+                                x-data="animatedValue"
+                                x-text="match?.timer?.showPause ? `Pause` : match?.timer?.formattedTime"
+                                x-effect="trackChange(match?.timer?.formattedTime)"
+                                :class="{ 'text-profixio-orange scale-105': highlight }"
+                                class="transition-all duration-300 origin-center inline-block"
+                        ></span>
+                    </div>
+                </div>
+            </template>
+            <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->        </div>
+        <template x-if="$data.match?.hasLivescore && !$data.match?.hasResult">
+            <span class="inline-flex items-center whitespace-nowrap border border-solid border-lx-live-border bg-lx-live/20 font-nunito font-extrabold text-lx-live-text gap-1.5 rounded-badge px-[11px] py-[5px] text-xs leading-none" role="status">
+    <span class="shrink-0 rounded-full bg-lx-live size-[9px]"></span>
+    Live
+</span>
+        </template>
+        <template x-if="!$data.match?.hasLivescore || $data.match?.hasResult">
+            
+            <div class="text-[9px] leading-[12px] px-[6px] py-[4px] @3xl:text-xs @3xl:leading-4 @3xl:px-[11px] @3xl:py-[5px] font-medium text-center whitespace-nowrap text-lx-badge-text overflow-hidden bg-lx-badge/30 border border-solid border-lx-badge-border rounded-badge hover:bg-lx-badge/60 focus:outline-none focus:ring-2 focus:ring-lx-badge-text"
+                 aria-label="View match information">
+                Matchinfo
+            </div>
+        </template>
+        <div class="text-center" x-cloak x-show="gamestate?.headerstate === 'PenaltyCompetition'">
+            <div>
+                <span x-text="gamestate?.penaltyScore?.homeGoals"></span>-<span x-text="gamestate?.penaltyScore?.awayGoals"></span>
+            </div>
+        </div>
+
+    </button>
+    </div>
+    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->    <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]--></div>
+                            </div>
+                    <!--[if ENDBLOCK]><![endif]-->                </li>
+                <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                            <li wire:key="listkamp_32712645"
+                                        x-intersect=" loadMore()"
+                                    >
+                                        <!--[if BLOCK]><![endif]-->                                                <!--[if BLOCK]><![endif]-->                                                        <div class="flex items-center px-4 pb-2 md:px-6 pt-7"
+                            >
+                                <div class="self-stretch text-xl md:text-2xl font-bold">
+                                    <!--[if BLOCK]><![endif]-->                                        Saturday
+                                        Nov 7, 2026
+                                    <!--[if ENDBLOCK]><![endif]-->                                </div>
+                            </div>
+                        <!--[if ENDBLOCK]><![endif]-->                    <!--[if ENDBLOCK]><![endif]-->                    <!--[if BLOCK]><![endif]-->                        
+                        <div class="@container px-4 py-3 md:px-6">
+                            <div x-data="{
+        expand(e) {
+            if (e?.target.closest('a')) return;
+            e.stopPropagation();
+            e.preventDefault();
+
+            const url = 'https://www.profixio.com/app/lx/match/32712645';
+
+            if (this.nativePush && window.lxNativePush) {
+                window.lxNativePush(url);
+
+                return;
+            }
+
+            window.location.href = url;
+        },
+        nativePush: false,
+        matchId: 32712645,
+        debugmatch: false,
+        get match() {
+            return $store.matches.getMatch(this.matchId);
+        },
+        get gamestate(){ return this.match?.gamestate },
+             }"
+     x-init="
+        $nextTick(() => {
+            $store.matches.registerMatch(
+                32712645,
+                'SBF.SE.BA',
+                {
+                    homegoals: '',
+                    awaygoals: '',
+                    hasLivescore: false,
+                    hasResult: false,
+                    winner: null,
+                                        gamestate: null,
+                    setup: null,
+                }
+            );
+        })
+     "
+     x-on:debug-emp-32712645.window="debugmatch = true"
+     @match-update-32712645.window="$el.dispatchEvent(new Event('alpine:update'))"
+     class="flex flex-col h-full"
+     wire:key="mc_mini_32712645"
+
+>
+    <div class="flex justify-between flex-1 min-w-0">
+    
+    <div class="grow flex flex-col justify-center">
+        <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->        
+        <div class="flex flex-col gap-[4px] @3xl:gap-0 @4xl:flex-row @4xl:flex"
+             @click="expand(event)"
+             @contextmenu.prevent="$dispatch('open-admin-match-menu', (32712645))"
+        >
+            <div class="hidden @2xs:flex text-[8px] @xl:text-xs font-light  @4xl:flex-col text-black gap-1 @4xl:gap-2 w-48 whitespace-nowrap">
+                <div class="flex gap-1">
+                    <!--[if BLOCK]><![endif]-->                        <!--[if BLOCK]><![endif]-->                            <div>Runde 5</div>
+                            <!--[if BLOCK]><![endif]--><div>•</div><!--[if ENDBLOCK]><![endif]-->                        <!--[if ENDBLOCK]><![endif]-->                    <!--[if ENDBLOCK]><![endif]-->                    <!--[if BLOCK]><![endif]-->                        <div class="hidden @4xl:inline-block pl-1">Elitserien Herr</div>
+                    <!--[if ENDBLOCK]><![endif]-->                </div>
+                
+                <div class="flex gap-1.5 self-start whitespace-nowrap">
+                    <!--[if BLOCK]><![endif]-->                        <a class="text-blue-950 hover:underline"
+                           href="https://www.profixio.com/app/lx/SBF/facility/5758"
+                        >
+                            Sparbanken Lidköping Arena
+                        </a>
+                    <!--[if ENDBLOCK]><![endif]-->                </div>
+            </div>
+            <!--[if BLOCK]><![endif]-->                <div class="@2xs:hidden text-[10px] flex justify-between">
+                    <!--[if BLOCK]><![endif]-->                        <div class="flex">
+                            Nov 7 • 16:00
+                        </div>
+                    <!--[if ENDBLOCK]><![endif]-->                </div>
+            <!--[if ENDBLOCK]><![endif]-->            <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->            
+            <div class="flex-1 grid items-center justify-items-start gap-y-[4px] @3xl:gap-4 grid-cols-[minmax(0,1fr)_auto] @2xs:grid-cols-8 @3xl:flex @2xs:pr-2 @3xl:pr-0  my-auto text-xs @2xs:text-sm @xl:text-lg @max-md:max-w-full  ">
+                <div class="col-span-1 @2xs:col-span-7 w-full @3xl:w-40 @xl:w-56 flex-auto">
+                    <div class="flex items-center justify-end gap-2.5 font-medium text-right text-blue-950  flex-row-reverse @3xl:flex-row">
+                        <!--[if BLOCK]><![endif]--><!--[if ENDBLOCK]><![endif]-->                        <!--[if BLOCK]><![endif]-->                            <div class="-mx-1 hidden @2xs:block">
+                                <div x-data="{
+        id: 1584312,
+        type: 'Lag',
+        }
+        "
+data-cy="favorite-toggler"
+
+     
+>
+    <button type="button" class="relative items-center font-medium justify-center gap-2 whitespace-nowrap disabled:opacity-75 dark:disabled:opacity-75 disabled:cursor-default disabled:pointer-events-none justify-center h-6 text-xs rounded-md px-2 inline-flex  bg-transparent hover:bg-zinc-800/5 dark:hover:bg-white/15 text-zinc-800 dark:text-white      group h-auto! p-0.5!" data-flux-button="data-flux-button" x-bind:title="$store.favorites.isFavorited(type, id) ? &quot;Remove from favorites&quot; : &quot;Add to favorites&quot;" @click.prevent.stop="$store.favorites.toggleFavorite(type, id)">
+        <svg x-bind:class="$store.favorites.isFavorited(type, id) ? &quot;text-profixio-orange fill-current&quot; : &quot;text-lx-badge-border&quot;" class="w-[10px] h-[10px] @3xl:w-[12px] @3xl:h-[12px]" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M11.48 3.499a.562.562 0 0 1 1.04 0l2.125 5.111a.563.563 0 0 0 .475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 0 0-.182.557l1.285 5.385a.562.562 0 0 1-.84.61l-4.725-2.885a.562.562 0 0 0-.586 0L6.982 20.54a.562.562 0 0 1-.84-.61l1.285-5.386a.562.562 0 0 0-.182-.557l-4.204-3.602a.562.562 0 0 1 .321-.98</div>

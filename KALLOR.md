@@ -14,6 +14,29 @@ Sammanställt 25 september 2026 från en kartläggning av sport- och kulturkalen
 | Kubik Uppsala | Samma sökning som deras sida | Fungerar |
 | Svenska kyrkan | API med nyckel | Väntar på att `SVK_API_KEY` läggs in i GitHub |
 
+## Sport via förbunden (undersökt och byggt 25 september)
+
+Matcher på arenor i Uppsala hämtas nu direkt från ligornas och förbundens system (`scripts/sport/`). Inget av det kräver nyckel. Alla är publika sidor eller flöden, men inget är ett officiellt API med villkor, så det faller under det tillfälliga undantaget i CLAUDE.md.
+
+| Sport | Källa | Lag i Uppsala |
+|---|---|---|
+| Fotboll, Allsvenskan | Sportomedia (allsvenskan.se:s egen datatjänst) | IK Sirius |
+| Fotboll, Damallsvenskan och Elitettan | Sportality (ligornas egna sidor) | IK Uppsala, Gamla Upsala SK |
+| Innebandy, SSL | Sportality (ssl.se) | Storvreta IBK herr och dam |
+| Ishockey, HockeyAllsvenskan | stats.swehockey.se (förbundets schemasidor) | Almtuna IS |
+| Bandy | Profixio (förbundets tävlingssystem, schemasidor) | IK Sirius herr och dam, Uppsala BoIS dam |
+| Basket, handboll och volleyboll | Profixio (öppen kalenderfil per lag) | Uppsala Basket, Sloga, Uppsala HK, Uppsala VBS |
+
+Fortfarande utan källa: lägre fotbollsdivisioner (Dalkurd, Upsala IF, Sirius dam), innebandyns Allsvenskan (Sirius IBK kommer via Tickster), amerikansk fotboll (säsong på våren) och ungdomsmatcher.
+
+Förbunden i korthet:
+- **Svenska Fotbollförbundet (FOGIS öppna data):** gratis nyckel direkt, men API:et innehåller i dag bara föreningar, inga matcher. Svenskfotboll.se förbjuder automatisk hämtning av matchsidorna. Ansök om matchdata, då är det enda vägen till de lägre divisionerna.
+- **Svenska Ishockeyförbundet:** inget öppet API. Schemasidorna är tillåtna. Fråga om ett dataavtal.
+- **Svenska Innebandyförbundet (iBIS):** bara för klubbar i de två högsta ligorna, 3 000 kr per klubb och säsong, och ger bara klubbens egna matcher. Deras statistiksida blockerar AI-robotar. Ssl.se räcker för SSL.
+- **Profixio** (bandy, basket, handboll, volleyboll): öppna kalenderfiler per lag. Ett riktigt API finns (`X-Api-Secret`, 120 anrop per minut). Kontakta Profixio för en nyckel.
+- **Svenska Bandyförbundet:** använder Profixio men har inga kalenderfiler. Fråga om de kan slå på dem.
+- **Everysport:** nyckel via support@everysport.com. Villkoren förbjuder lagring utöver kort cachning, vilket krockar med vår modell. Inte prioriterat.
+
 ## 1. Nycklar du kan skaffa själv direkt
 
 Gratis och utan förhandling. Ett konto räcker.
@@ -21,13 +44,10 @@ Gratis och utan förhandling. Ett konto räcker.
 | Vad | Var | Ger oss | Värde |
 |---|---|---|---|
 | **Svenska kyrkan** | Nyckeln finns redan. Lägg in den som hemligheten `SVK_API_KEY` i GitHub. | Konserter och musik i Uppsala pastorat | Högt |
-| **SvFF öppna data (FOGIS)** | api-fogis-opendata.developer.azure-api.net: skapa konto och prenumeration | Alla fotbollsmatcher: Sirius, IK Uppsala, Dalkurd, Upsala IF, Sirius dam | Högt |
+| **SvFF öppna data (FOGIS)** | api-fogis-opendata.developer.azure-api.net: skapa konto och prenumeration. Mejla sedan förbundet och be om matchdata. | Just nu bara föreningar. Med matchdata: lägre divisioner som Dalkurd, Upsala IF och Sirius dam | Medel |
 | **Ticketmaster Discovery API** | developer.ticketmaster.com: nyckeln kommer direkt | Större turnéer och Katalin, fyller luckor utanför Tickster | Medel |
 | **Billetto** | Skapa konto på billetto.se och hämta en nyckel till Public Event Search API | Musicum (Uppsala universitet), Upplandsmuseet och många små arrangörer | Medel |
 
-Dessutom kräver de här ingen nyckel alls, bara att domänerna öppnas här (se avsnitt 4):
-- **Allsvenskans kalenderfil för Sirius** (allsvenskan.se/kalender). Ger avsparkstider som uppdateras när tv-tiderna bestäms.
-- **HockeyAllsvenskans kalenderfil för Almtuna** (hockeyallsvenskan.se).
 
 ## 2. Förfrågningar att skicka, i prioritetsordning
 
@@ -63,7 +83,6 @@ Det här kräver inget tillstånd. Domänerna behöver bara öppnas här så att
 | Fyrisgården | WordPress (`/wp-json/`) | Ungdom och kultur |
 | Orphei Drängar, Uppsala Akademiska Kammarkör, Domkyrkokören | WordPress | Körkonserter |
 | Universitetsbibliotekets evenemang | LibCal, öppen iCal | Föreläsningar och utställningar |
-| Allsvenskan och HockeyAllsvenskan | Kalenderfiler per lag (.ics) | Sirius och Almtuna med exakta tider |
 | Föreningar på Svenska lag och Laget.se | Kalenderfiler per lag | Upsala IF, Uppsala 86ers, Uppsala Rugby, Sirius innebandy med flera |
 | Studenternas, IFU Arena, Fyrishov | Arenornas kalendrar | Matcher och andra arrangemang (se även förfrågan 5) |
 
