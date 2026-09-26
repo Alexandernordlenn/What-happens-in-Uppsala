@@ -1,8 +1,8 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-09-25T09:01:40.387Z",
-  "antal": 355,
+  "hamtad": "2026-09-26T04:26:45.186Z",
+  "antal": 351,
   "evenemang": [
     {
       "id": "tickster-cmf926fnc3pr4wh",
@@ -27,154 +27,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "tickster-dgcbaadflnw611u",
-      "titel": "Asiatisk middagsupplevelse",
-      "start": "2026-09-25T18:00:00+02:00",
-      "slut": "2026-09-25T22:30:00+02:00",
-      "plats": {
-        "namn": "KAIJA, Stallet",
-        "id": "kaija",
-        "rum": "Stallet"
-      },
-      "kategori": "mat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/dgcbaadflnw611u/2026-09-25/asiatisk-middagsupplevelse",
-          "biljetter": "https://secure.tickster.com/sv/dgcbaadflnw611u"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-f48j9c0cz2dkxpw",
-      "titel": "Andreas Hellkvist Orgelparty - Katalins Bakficka",
-      "start": "2026-09-25T18:00:00+02:00",
-      "slut": "2026-09-25T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/f48j9c0cz2dkxpw/2026-09-25/andreas-hellkvist-orgelparty-katalins-bakficka",
-          "biljetter": "https://secure.tickster.com/sv/f48j9c0cz2dkxpw"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-2mbhr2uxwmv0e4y",
-      "titel": "Uppsala Basket - Jämtland Basket",
-      "start": "2026-09-25T19:04:00+02:00",
-      "slut": "2026-09-25T21:30:00+02:00",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "lat": 59.8702,
-        "lng": 17.6245
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/2mbhr2uxwmv0e4y/2026-09-25/uppsala-basket-jamtland-basket",
-          "biljetter": "https://secure.tickster.com/sv/2mbhr2uxwmv0e4y"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-umrjh0jwppnczu4",
-      "titel": "Disco Inferno – Sveriges Största Discoshow",
-      "start": "2026-09-25T20:00:00+02:00",
-      "slut": "2026-09-25T21:40:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/umrjh0jwppnczu4/2026-09-25/disco-inferno-sveriges-storsta-discoshow",
-          "biljetter": "https://secure.tickster.com/sv/umrjh0jwppnczu4"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-egek091vjfcf2hh",
-      "titel": "Sweet Emma & The Mood Swingers",
-      "start": "2026-09-25T20:00:00+02:00",
-      "slut": "2026-09-25T22:00:00+02:00",
-      "plats": {
-        "namn": "Blackbird",
-        "id": "blackbird"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/egek091vjfcf2hh/2026-09-25/sweet-emma-and-the-mood-swingers",
-          "biljetter": "https://secure.tickster.com/sv/egek091vjfcf2hh"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-h4vu7w09xdvjcmg",
-      "titel": "Division 7",
-      "start": "2026-09-25T20:00:00+02:00",
-      "slut": "2026-09-25T22:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8595,
-        "lng": 17.6465
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/h4vu7w09xdvjcmg/2026-09-25/division-7",
-          "biljetter": "https://secure.tickster.com/sv/h4vu7w09xdvjcmg"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
@@ -277,6 +129,29 @@
       "installd": false
     },
     {
+      "id": "tickster-d39k3xl3e1mnddd",
+      "titel": "Club Urban Vybez • 26/9",
+      "start": "2026-09-26T22:00:00+02:00",
+      "slut": "2026-09-27T03:00:00+02:00",
+      "plats": {
+        "namn": "Heaven Grill De Brazil",
+        "id": "tickster-plats-nuaevm5hbwlxz09"
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/d39k3xl3e1mnddd/2026-09-26/club-urban-vybez-26-9",
+          "biljetter": "https://secure.tickster.com/sv/d39k3xl3e1mnddd"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-c6nwv9krr64ppjy",
       "titel": "Time Machine - One more time!",
       "start": "2026-09-26T22:00:00+02:00",
@@ -296,29 +171,6 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/c6nwv9krr64ppjy/2026-09-26/time-machine-one-more-time",
           "biljetter": "https://secure.tickster.com/sv/c6nwv9krr64ppjy"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-d39k3xl3e1mnddd",
-      "titel": "Club Urban Vybez • 26/9",
-      "start": "2026-09-26T22:00:00+02:00",
-      "slut": "2026-09-27T03:00:00+02:00",
-      "plats": {
-        "namn": "Heaven Grill De Brazil",
-        "id": "tickster-plats-nuaevm5hbwlxz09"
-      },
-      "kategori": "natt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/d39k3xl3e1mnddd/2026-09-26/club-urban-vybez-26-9",
-          "biljetter": "https://secure.tickster.com/sv/d39k3xl3e1mnddd"
         }
       ],
       "langvarig": false,
@@ -345,29 +197,6 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/adg56dfbargar04/2026-09-27/babblarna-and-klonks-klapp-kalas",
           "biljetter": "https://secure.tickster.com/sv/adg56dfbargar04"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-a24bzeru149acaj",
-      "titel": "Stämma för enskilda medlemmar (Fornis)",
-      "start": "2026-09-27T13:00:00+02:00",
-      "slut": "2026-09-27T16:00:00+02:00",
-      "plats": {
-        "namn": "Upplandsmuseet",
-        "id": "upplandsmuseet"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/a24bzeru149acaj/2026-09-27/stamma-for-enskilda-medlemmar-fornis",
-          "biljetter": "https://secure.tickster.com/sv/a24bzeru149acaj"
         }
       ],
       "langvarig": false,
@@ -3794,6 +3623,29 @@
       "installd": false
     },
     {
+      "id": "tickster-bdhxpyce6rxw2mr",
+      "titel": "HALLOWEEN 21+",
+      "start": "2026-10-30T22:00:00+01:00",
+      "slut": "2026-10-31T03:00:00+01:00",
+      "plats": {
+        "namn": "Flustret",
+        "id": "flustret"
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/bdhxpyce6rxw2mr/2026-10-30/halloween-21",
+          "biljetter": "https://secure.tickster.com/sv/bdhxpyce6rxw2mr"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-rjd0dnh0e5x2kxj",
       "titel": "Oktoberstämman 2026",
       "start": "2026-10-31T12:00:00+01:00",
@@ -3911,31 +3763,6 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/tjj3k405nml7l9p/2026-10-31/halloween-a-sweet-but-psycho-night",
           "biljetter": "https://secure.tickster.com/sv/tjj3k405nml7l9p"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-kfyfxrah1edy3hn",
-      "titel": "Workshop: Stadskroki",
-      "start": "2026-11-01T13:00:00+01:00",
-      "slut": "2026-11-01T15:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala slottshistoriska",
-        "id": "slottshist",
-        "lat": 59.8542,
-        "lng": 17.6351
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/kfyfxrah1edy3hn/2026-11-01/workshop-stadskroki",
-          "biljetter": "https://secure.tickster.com/sv/kfyfxrah1edy3hn"
         }
       ],
       "langvarig": false,
@@ -8168,6 +7995,58 @@
       "installd": false
     },
     {
+      "id": "tickster-blrychnf2g7zmu4",
+      "titel": "Tourbjörn – Med Torbjörn Averås Skorup",
+      "start": "2027-02-20T20:30:00+01:00",
+      "slut": "2027-02-20T22:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/blrychnf2g7zmu4/2027-02-20/tourbjorn-med-torbjorn-averas-skorup",
+          "biljetter": "https://secure.tickster.com/sv/blrychnf2g7zmu4"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-yrmvpam1jf90v9y",
+      "titel": "Klas Kalas – Klas Hallberg best of 30 år på scen",
+      "start": "2027-02-24T19:00:00+01:00",
+      "slut": "2027-02-24T21:30:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/yrmvpam1jf90v9y/2027-02-24/klas-kalas-klas-hallberg-best-of-30-ar-pa-scen",
+          "biljetter": "https://secure.tickster.com/sv/yrmvpam1jf90v9y"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-4k49xmnc403y1vu",
       "titel": "Jesper Rönndahl och Marie Agerhäll",
       "start": "2027-02-25T20:00:00+01:00",
@@ -8442,6 +8321,31 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/nr7ap19ygw1aj9e/2027-03-13/sirius-vs-fagerhult-habo-ibk",
           "biljetter": "https://secure.tickster.com/sv/nr7ap19ygw1aj9e"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-p000zrz948bn5hw",
+      "titel": "Thorbjørn Risager & The Black Tornado",
+      "start": "2027-03-13T20:00:00+01:00",
+      "slut": "2027-03-13T23:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/p000zrz948bn5hw/2027-03-13/thorbj-rn-risager-and-the-black-tornado",
+          "biljetter": "https://secure.tickster.com/sv/p000zrz948bn5hw"
         }
       ],
       "langvarig": false,

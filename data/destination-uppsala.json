@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-09-25T09:00:56.565Z",
-  "antal": 161,
+  "hamtad": "2026-09-26T04:25:54.305Z",
+  "antal": 156,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -357,92 +357,23 @@
       "installd": false
     },
     {
-      "id": "du-bondens-marknad-2026-09",
-      "titel": "Bondens marknad",
-      "start": "2026-09-25T13:00:00+02:00",
+      "id": "du-aurell-gullberg-killarna-mot-tjejerna",
+      "titel": "Aurell & Gullberg – Killarna mot tjejerna",
+      "start": "2026-09-26",
       "slut": null,
       "plats": {
-        "namn": "Resecentrum",
-        "id": "du-plats-resecentrum"
+        "namn": "Katalin",
+        "id": "katalin"
       },
-      "kategori": "mat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/bondens-marknad-2026-09/",
-          "arrangor": "https://www.facebook.com/events/1244068427856805/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-oktoberfest-pa-uppsala-brygghus",
-      "titel": "Oktoberfest på Uppsala Brygghus",
-      "start": "2026-09-25T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Brygghus",
-        "id": "brygghus"
-      },
-      "kategori": "mat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/oktoberfest-pa-uppsala-brygghus/",
-          "arrangor": "https://uppsalabrygghus.se/vju_events/oktoberfest-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-80-talstema-pa-uppsala-slott-med-richard-tellstrom",
-      "titel": "80-talstema på Uppsala slott med Richard Tellström",
-      "start": "2026-09-25T18:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala slott",
-        "id": "slott"
-      },
-      "kategori": "mat",
+      "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
       "kallor": [
         {
           "id": "destination-uppsala",
           "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/80-talstema-pa-uppsala-slott-med-richard-tellstrom/",
-          "arrangor": "https://www.sv.se/kurser-och-evenemang/historia-konsthistoria/80-talstema-pa-uppsala-slott-med-richard-tellstrom-55572"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-disco-inferno-sveriges-storsta-discoshow",
-      "titel": "Disco Inferno – Sveriges största discoshow",
-      "start": "2026-09-25T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/disco-inferno-sveriges-storsta-discoshow/",
-          "arrangor": "https://krall.se/show/disco-inferno/"
+          "url": "https://destinationuppsala.se/event/aurell-gullberg-killarna-mot-tjejerna/",
+          "arrangor": "https://www.kulturaktiebolaget.se/evenemang/aurell-gullberg-killarna-mot-tjejerna/pin:2026-09-26"
         }
       ],
       "langvarig": false,
@@ -466,29 +397,6 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/uppsala-pride-2026/",
           "arrangor": "https://uppsala.rfsl.se/uppsala-pride/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-aurell-gullberg-killarna-mot-tjejerna",
-      "titel": "Aurell & Gullberg – Killarna mot tjejerna",
-      "start": "2026-09-26",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/aurell-gullberg-killarna-mot-tjejerna/",
-          "arrangor": "https://www.kulturaktiebolaget.se/evenemang/aurell-gullberg-killarna-mot-tjejerna/pin:2026-09-26"
         }
       ],
       "langvarig": false,
@@ -1319,6 +1227,28 @@
       "installd": false
     },
     {
+      "id": "du-hostlovskul-formstarkt-och-eldigt",
+      "titel": "Höstlovskul: Formstarkt och eldigt",
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Botaniska trädgården",
+        "id": "botaniska"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/hostlovskul-formstarkt-och-eldigt/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
       "id": "du-peter-och-vargen-familjekonsert-med-uppsala-kammarorkester",
       "titel": "Peter och Vargen – Familjekonsert med Uppsala Kammarorkester",
       "start": "2026-10-24",
@@ -1339,28 +1269,6 @@
         }
       ],
       "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-hostlovskul-formstarkt-och-eldigt",
-      "titel": "Höstlovskul: Formstarkt och eldigt",
-      "start": "2026-10-24",
-      "slut": "2026-11-01",
-      "plats": {
-        "namn": "Botaniska trädgården",
-        "id": "botaniska"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/hostlovskul-formstarkt-och-eldigt/"
-        }
-      ],
-      "langvarig": true,
       "installd": false
     },
     {
@@ -1518,29 +1426,6 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/fyris-comedy-stand-up-med-johanna-wagrell-johanna-westlin-mfl/",
           "arrangor": "http://www.fyriscomedy.com/biljetter"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-terra-2",
-      "titel": "Terra – extrakonsert",
-      "start": "2026-10-28",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/terra-2/",
-          "arrangor": "https://secure.tickster.com/sv/fj2mkwvn0terxl1/selectproductgroup"
         }
       ],
       "langvarig": false,
@@ -1912,29 +1797,6 @@
       "installd": false
     },
     {
-      "id": "du-museidagen-2026",
-      "titel": "Museidagen 2026",
-      "start": "2026-11-08",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala",
-        "id": "uppsala"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/museidagen-2026/",
-          "arrangor": "https://uppsalasmuseer.se/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-13x13-radioaktiva-lakemedel-en-stralande-ide-for-framtidens-cancerbehandling",
       "titel": "13×13: Radioaktiva läkemedel – en strålande idé för framtidens cancerbehandling",
       "start": "2026-11-11T18:30:00+01:00",
@@ -2162,6 +2024,28 @@
         }
       ],
       "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-julmarknad-pa-kaleido",
+      "titel": "Julmarknad på Kaleido",
+      "start": "2026-11-21",
+      "slut": "2027-01-05",
+      "plats": {
+        "namn": "Kaleido konsthantverk",
+        "id": "du-plats-kaleido-konsthantverk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/julmarknad-pa-kaleido/"
+        }
+      ],
+      "langvarig": true,
       "installd": false
     },
     {

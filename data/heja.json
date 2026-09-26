@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-09-25T09:03:22.677Z",
-  "antal": 451,
+  "hamtad": "2026-09-26T04:28:33.468Z",
+  "antal": 442,
   "evenemang": [
     {
       "id": "heja-katarina-jagellonica-sept-2026",
@@ -258,28 +258,6 @@
       "installd": false
     },
     {
-      "id": "heja-sebastian-blind-teckningsstipendiat-2026-2",
-      "titel": "Sebastian Blind Teckningsstipendiat 2026",
-      "start": "2026-09-24",
-      "slut": "2026-09-27",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/sebastian-blind-teckningsstipendiat-2026-2/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
       "id": "heja-olga-brink-art-2026",
       "titel": "Olga Brink Art",
       "start": "2026-09-24",
@@ -303,280 +281,6 @@
       "installd": false
     },
     {
-      "id": "heja-skaldjurshelger-i-uppsala-saluhall-2026",
-      "titel": "Skaldjurshelger i Uppsala Saluhall",
-      "start": "2026-09-25",
-      "slut": "2026-09-26",
-      "plats": {
-        "namn": "Uppsala Saluhall",
-        "id": "saluhall"
-      },
-      "kategori": "mat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/skaldjurshelger-i-uppsala-saluhall-2026/",
-          "arrangor": "http://www.svenssonskrogar.se/evenemang/skaldjurshelger-i-uppsala-saluhall-2026"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-uppsala2030-fran-kris-till-konkurrenskraft-25-september",
-      "titel": "Uppsala:2030 – Från kris till konkurrenskraft 25 september",
-      "start": "2026-09-25T07:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/uppsala2030-fran-kris-till-konkurrenskraft-25-september/",
-          "arrangor": "https://www.uppsala2030.com/temaevent/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-pop-up-secondhand-ovre-slottsgatan",
-      "titel": "Pop-up secondhand – Övre Slottsgatan",
-      "start": "2026-09-25T12:00:00+02:00",
-      "slut": "2026-09-26",
-      "plats": {
-        "namn": "Studio Hörngren",
-        "id": "heja-plats-studio-hörngren"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/pop-up-secondhand-ovre-slottsgatan/",
-          "arrangor": "https://www.facebook.com/events/1833019167935977?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_associated%22%2C%22action_history%22%3A%22null%22%7D&notif_id=1789727524602114&notif_t=plan_user_associated&ref=notif"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-oktoberfest-2026",
-      "titel": "Oktoberfest",
-      "start": "2026-09-25T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Brygghus",
-        "id": "brygghus"
-      },
-      "kategori": "mat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/oktoberfest-2026/",
-          "arrangor": "https://uppsalabrygghus.se/vju_events/oktoberfest-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-andreas-hellkvist-orgelparty-2026",
-      "titel": "Andreas Hellkvist Orgelparty",
-      "start": "2026-09-25T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/andreas-hellkvist-orgelparty-2026/",
-          "arrangor": "https://secure.tickster.com/sv/f48j9c0cz2dkxpw/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-femratters-middag-salsta-slott",
-      "titel": "Femrätters middag Salsta slott",
-      "start": "2026-09-25T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Salsta slott",
-        "id": "heja-plats-salsta-slott"
-      },
-      "kategori": "mat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/femratters-middag-salsta-slott/",
-          "arrangor": "https://salstaslott.understory.io/experience/f4c9a7698c8fc4dc15234c454e150462"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-1980-talets-matkultur-uppsala-slott-2026",
-      "titel": "1980-talets matkultur med Richard Tellström",
-      "start": "2026-09-25T18:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala slott",
-        "id": "slott"
-      },
-      "kategori": "mat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/1980-talets-matkultur-uppsala-slott-2026/",
-          "arrangor": "https://www.sv.se/kurser-och-evenemang/historia-konsthistoria/80-talstema-pa-uppsala-slott-med-richard-tellstrom-55572"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-almtuna-karlskoga-25-sept-2026",
-      "titel": "Almtuna-Karlskoga",
-      "start": "2026-09-25T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Gränby ishall",
-        "id": "granbyishall"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/almtuna-karlskoga-25-sept-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-uppsala-basket-h-jamtland-25-sept-2026",
-      "titel": "Uppsala basket H – Jämtland",
-      "start": "2026-09-25T19:04:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/uppsala-basket-h-jamtland-25-sept-2026/",
-          "arrangor": "https://secure.tickster.com/sv/pjz687vuj4nva61/selectevent"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-division-7",
-      "titel": "Division 7",
-      "start": "2026-09-25T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/division-7/",
-          "arrangor": "https://secure.tickster.com/sv/h4vu7w09xdvjcmg/selectproductgroup"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-disco-inferno-ukk-2026",
-      "titel": "Disco Inferno",
-      "start": "2026-09-25T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/disco-inferno-ukk-2026/",
-          "arrangor": "https://secure.tickster.com/sv/umrjh0jwppnczu4/selectproductgroup"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-pride-pre-party-kaliber-room-2026",
-      "titel": "Pride Pre Party",
-      "start": "2026-09-25T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/pride-pre-party-kaliber-room-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "heja-ost-och-vinprovning-pa-saluhallen-26-september-2026",
       "titel": "Ost och Vinprovning i Saluhallen",
       "start": "2026-09-26",
@@ -594,6 +298,29 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/ost-och-vinprovning-pa-saluhallen-26-september-2026/",
           "arrangor": "https://taysta.se/biljetter/uppsala"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-skaldjurshelger-i-uppsala-saluhall-2026",
+      "titel": "Skaldjurshelger i Uppsala Saluhall",
+      "start": "2026-09-26",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Saluhall",
+        "id": "saluhall"
+      },
+      "kategori": "mat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/skaldjurshelger-i-uppsala-saluhall-2026/",
+          "arrangor": "http://www.svenssonskrogar.se/evenemang/skaldjurshelger-i-uppsala-saluhall-2026"
         }
       ],
       "langvarig": false,
@@ -669,6 +396,29 @@
       "installd": false
     },
     {
+      "id": "heja-pop-up-secondhand-ovre-slottsgatan",
+      "titel": "Pop-up secondhand – Övre Slottsgatan",
+      "start": "2026-09-26T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studio Hörngren",
+        "id": "heja-plats-studio-hörngren"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/pop-up-secondhand-ovre-slottsgatan/",
+          "arrangor": "https://www.facebook.com/events/1833019167935977?acontext=%7B%22source%22%3A%2229%22%2C%22ref_notif_type%22%3A%22plan_user_associated%22%2C%22action_history%22%3A%22null%22%7D&notif_id=1789727524602114&notif_t=plan_user_associated&ref=notif"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-bokrelease-sussie-mellstedt",
       "titel": "Bokrelease – Sussie Mellstedt",
       "start": "2026-09-26T12:00:00+02:00",
@@ -686,6 +436,28 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/bokrelease-sussie-mellstedt/",
           "arrangor": "https://sussiem.com/events"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-sebastian-blind-teckningsstipendiat-2026-2",
+      "titel": "Sebastian Blind Teckningsstipendiat 2026",
+      "start": "2026-09-26T12:00:00+02:00",
+      "slut": "2026-09-27",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/sebastian-blind-teckningsstipendiat-2026-2/"
         }
       ],
       "langvarig": false,
@@ -4203,6 +3975,28 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/lordagsmusik-orgelkonsert-12/",
           "arrangor": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/lordagsmusik-i-uppsala-domkyrka"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-valgorenhetsloppis-okt-2026",
+      "titel": "Välgörenhetsloppis",
+      "start": "2026-10-24T12:00:00+02:00",
+      "slut": "2026-10-25",
+      "plats": {
+        "namn": "Akademihotellet",
+        "id": "heja-plats-akademihotellet"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/valgorenhetsloppis-okt-2026/"
         }
       ],
       "langvarig": false,

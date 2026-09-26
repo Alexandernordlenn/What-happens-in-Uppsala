@@ -1,38 +1,9 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-09-25T09:03:39.666Z",
+  "hamtad": "2026-09-26T04:28:50.445Z",
   "antal": 218,
   "evenemang": [
-    {
-      "id": "kubik-4h-haeng-paa-saevja-arsta-och-graenby-4h-gaard",
-      "titel": "4H-häng på Sävja-, Årsta- och Gränby 4H-gård",
-      "plats": {
-        "namn": "Gränby-, Årsta- och Sävja 4H-gård",
-        "id": "kubik-plats-gränby-årsta-och-sävja-4h-gård"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        5,
-        12
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/4h-haeng-paa-saevja-arsta-och-graenby-4h-gaard/",
-          "arrangor": "https://www.4h.se/uppsala/4h-lager-i-uppsala/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-01-07",
-      "slut": "2026-09-25",
-      "notering": "Återkommande, kl. 08:00–16:00. Se Kubik för vilka dagar.",
-      "langvarig": true
-    },
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
       "titel": "Fotboll med Late Starters (för nybörjare 10-15 år)",
@@ -1553,6 +1524,35 @@
       "langvarig": true
     },
     {
+      "id": "kubik-onsdagshaeng",
+      "titel": "Onsdagshäng",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/onsdagshaeng/",
+          "arrangor": "https://bibliotekuppsala.se/evenemang#/?q=onsdagshäng&location=Stadsbiblioteket&targetAudience=Ungdom"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-02",
+      "slut": "2026-12-16",
+      "notering": "Återkommande, kl. 15:30–16:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
       "id": "kubik-designlabbet-i-gottsunda-arskurs-4-9",
       "titel": "DESIGNLABBET I GOTTSUNDA, ÅRSKURS 4-9",
       "plats": {
@@ -1806,6 +1806,35 @@
       "start": "2026-09-08",
       "slut": "2026-12-15",
       "notering": "Återkommande, kl. 16:00–18:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-ung-bokcirkel-tisdagar",
+      "titel": "Ung bokcirkel tisdagar",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/ung-bokcirkel-tisdagar/",
+          "arrangor": "https://bibliotekuppsala.se/evenemang#/?q=ung bokcirkel tisdagar"
+        }
+      ],
+      "installd": false,
+      "start": "2026-09-08",
+      "slut": "2027-01-19",
+      "notering": "Återkommande, kl. 17:00–18:30. Se Kubik för vilka dagar.",
       "langvarig": true
     },
     {
@@ -2178,62 +2207,6 @@
       "slut": "2026-12-18",
       "notering": "Återkommande, kl. 14:30–15:30. Se Kubik för vilka dagar.",
       "langvarig": true
-    },
-    {
-      "id": "kubik-hoeglaesning-paa-svenska-2026-09-25-1400",
-      "titel": "Högläsning på svenska",
-      "plats": {
-        "namn": "Gottsundabiblioteket, sagorummet",
-        "id": "kubik-plats-gottsundabiblioteket-sagorummet"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoeglaesning-paa-svenska/",
-          "arrangor": "https://bibliotekuppsala.se/#/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-09-25T14:00:00+02:00",
-      "slut": "2026-09-25T14:30:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-fredagsmys-2026-2026-09-25-1400",
-      "titel": "Fredagsmys",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-09-25T14:00:00+02:00",
-      "slut": "2026-09-25T14:30:00+02:00",
-      "langvarig": false
     },
     {
       "id": "kubik-pumphusets-loerdags-och-soendagsoeppet",
@@ -3009,6 +2982,34 @@
           "namn": "Kubik Uppsala",
           "url": "https://www.kubikuppsala.se/hitta-aktiviteter/bokklubb-laesfabriken-ht26/",
           "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-06T16:00:00+02:00",
+      "slut": "2026-10-06T17:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-programraad-foer-unga-2026-10-06-1600",
+      "titel": "Programråd för unga",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/programraad-foer-unga/",
+          "arrangor": "https://bibliotekuppsala.se/programrad"
         }
       ],
       "installd": false,
