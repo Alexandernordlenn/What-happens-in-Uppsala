@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-09-26T04:25:54.305Z",
-  "antal": 156,
+  "hamtad": "2026-09-27T04:26:49.484Z",
+  "antal": 153,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -354,75 +354,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "du-aurell-gullberg-killarna-mot-tjejerna",
-      "titel": "Aurell & Gullberg – Killarna mot tjejerna",
-      "start": "2026-09-26",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/aurell-gullberg-killarna-mot-tjejerna/",
-          "arrangor": "https://www.kulturaktiebolaget.se/evenemang/aurell-gullberg-killarna-mot-tjejerna/pin:2026-09-26"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-uppsala-pride-2026",
-      "titel": "Uppsala Pride 2026",
-      "start": "2026-09-26",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/uppsala-pride-2026/",
-          "arrangor": "https://uppsala.rfsl.se/uppsala-pride/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-en-vackrare-varld",
-      "titel": "En vackrare värld",
-      "start": "2026-09-26T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Salsta slott",
-        "id": "du-plats-salsta-slott"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/en-vackrare-varld/",
-          "arrangor": "https://salstaslott.understory.io/experience/3e18a81c3d69183a6cd3a77bd3be7e56"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
@@ -975,29 +906,6 @@
       "installd": false
     },
     {
-      "id": "du-uppsala-marathon-2026",
-      "titel": "Uppsala Marathon 2026",
-      "start": "2026-10-17",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala",
-        "id": "uppsala"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/uppsala-marathon-2026/",
-          "arrangor": "https://www.uppsalamarathon.se/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-sa-enkelt-gar-du-ner-10-kg-teater-elin-2",
       "titel": "”Så enkelt går du ner 10 kg!” – Teater Elin",
       "start": "2026-10-17",
@@ -1015,6 +923,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/sa-enkelt-gar-du-ner-10-kg-teater-elin-2/",
           "arrangor": "https://www.teaterelin.com/home2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-uppsala-marathon-2026",
+      "titel": "Uppsala Marathon 2026",
+      "start": "2026-10-17",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/uppsala-marathon-2026/",
+          "arrangor": "https://www.uppsalamarathon.se/"
         }
       ],
       "langvarig": false,
@@ -1227,28 +1158,6 @@
       "installd": false
     },
     {
-      "id": "du-hostlovskul-formstarkt-och-eldigt",
-      "titel": "Höstlovskul: Formstarkt och eldigt",
-      "start": "2026-10-24",
-      "slut": "2026-11-01",
-      "plats": {
-        "namn": "Botaniska trädgården",
-        "id": "botaniska"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/hostlovskul-formstarkt-och-eldigt/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
       "id": "du-peter-och-vargen-familjekonsert-med-uppsala-kammarorkester",
       "titel": "Peter och Vargen – Familjekonsert med Uppsala Kammarorkester",
       "start": "2026-10-24",
@@ -1292,6 +1201,28 @@
         }
       ],
       "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-hostlovskul-formstarkt-och-eldigt",
+      "titel": "Höstlovskul: Formstarkt och eldigt",
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Botaniska trädgården",
+        "id": "botaniska"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/hostlovskul-formstarkt-och-eldigt/"
+        }
+      ],
+      "langvarig": true,
       "installd": false
     },
     {
@@ -1454,6 +1385,29 @@
       "installd": false
     },
     {
+      "id": "du-terra-2",
+      "titel": "Terra – extrakonsert",
+      "start": "2026-10-28",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/terra-2/",
+          "arrangor": "https://secure.tickster.com/sv/fj2mkwvn0terxl1/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "du-13x13-jordens-forhistoriska-klimatforandringar-istider-och-varmetider-under-600-miljoner-ar",
       "titel": "13×13: Jordens förhistoriska klimatförändringar – istider och värmetider under 600 miljoner år",
       "start": "2026-10-28T18:30:00+01:00",
@@ -1471,29 +1425,6 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/13x13-jordens-forhistoriska-klimatforandringar-istider-och-varmetider-under-600-miljoner-ar/",
           "arrangor": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-terra",
-      "titel": "Terra",
-      "start": "2026-10-29",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/terra/",
-          "arrangor": "https://secure.tickster.com/sv/l2ygdth812avj6e/selectproductgroup"
         }
       ],
       "langvarig": false,
@@ -1768,6 +1699,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/kaeli-abdi-paskkarringen/",
           "arrangor": "https://ukk.se/kaeli-abdi-paskkarringen/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-museidagen-2026",
+      "titel": "Museidagen 2026",
+      "start": "2026-11-08",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/museidagen-2026/",
+          "arrangor": "https://uppsalasmuseer.se/"
         }
       ],
       "langvarig": false,
@@ -2095,29 +2049,6 @@
       "installd": false
     },
     {
-      "id": "du-fotboll-ik-sirius-djurgardens-if",
-      "titel": "Fotboll: IK Sirius – Djurgårdens IF",
-      "start": "2026-11-22",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/fotboll-ik-sirius-djurgardens-if/",
-          "arrangor": "https://www.siriusfotboll.se/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-poste-restante-22-11",
       "titel": "Poste Restante",
       "start": "2026-11-22",
@@ -2135,6 +2066,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/poste-restante-22-11/",
           "arrangor": "https://www.musikiuppland.se/konsert/poste-restante-22-11/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-fotboll-ik-sirius-djurgardens-if",
+      "titel": "Fotboll: IK Sirius – Djurgårdens IF",
+      "start": "2026-11-22",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/fotboll-ik-sirius-djurgardens-if/",
+          "arrangor": "https://www.siriusfotboll.se/"
         }
       ],
       "langvarig": false,
@@ -2210,29 +2164,6 @@
       "installd": false
     },
     {
-      "id": "du-mia-karlsson-coming-home-tour-2026",
-      "titel": "Mia Karlsson – Coming Home Tour 2026",
-      "start": "2026-11-26T20:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/mia-karlsson-coming-home-tour-2026/",
-          "arrangor": "https://www.kulturaktiebolaget.se/evenemang/coming-home-tour-2026/pin:2026-11-26"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-fornuft-och-kansla",
       "titel": "Förnuft och känsla",
       "start": "2026-11-27",
@@ -2301,29 +2232,6 @@
       "installd": false
     },
     {
-      "id": "du-julmarknad-med-drop-in-vigsel",
-      "titel": "Julmarknad med drop-in-vigsel",
-      "start": "2026-11-28T11:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Solglimtsparken & Hospitalet",
-        "id": "du-plats-solglimtsparken-hospitalet"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/julmarknad-med-drop-in-vigsel/",
-          "arrangor": "https://bygg.uppsala.se/planerade-omraden/ulleraker/om-ulleraker/evenemang/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-julmarknad-pa-chokladfabriken-2026",
       "titel": "Julmarknad på chokladfabriken 2026",
       "start": "2026-11-28T11:00:00+01:00",
@@ -2364,6 +2272,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/historisk-julmarknad-i-gamla-uppsala-2026/",
           "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/gum/historisk-julmarknad26/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-julmarknad-med-drop-in-vigsel",
+      "titel": "Julmarknad med drop-in-vigsel",
+      "start": "2026-11-28T11:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Solglimtsparken & Hospitalet",
+        "id": "du-plats-solglimtsparken-hospitalet"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/julmarknad-med-drop-in-vigsel/",
+          "arrangor": "https://bygg.uppsala.se/planerade-omraden/ulleraker/om-ulleraker/evenemang/"
         }
       ],
       "langvarig": false,

@@ -1,78 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-09-26T04:29:33.625Z",
-  "antal": 155,
+  "hamtad": "2026-09-27T04:30:17.138Z",
+  "antal": 152,
   "evenemang": [
-    {
-      "id": "sport-sportality-cuwykzyyfk",
-      "titel": "Storvreta IBK – IBK Lund (dam)",
-      "start": "2026-09-26T14:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Innebandy, SSL dam",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Ligans webbplats",
-          "url": "https://www.ssl.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-sportality-hbb92tmvdq",
-      "titel": "IK Uppsala – Djurgården (dam)",
-      "start": "2026-09-26T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Fotboll, OBOS Damallsvenskan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Ligans webbplats",
-          "url": "https://www.obosdamallsvenskan.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-sportality-ierzgqp1kd",
-      "titel": "Storvreta IBK – Pixbo IBK",
-      "start": "2026-09-26T17:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Innebandy, SSL herr",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Ligans webbplats",
-          "url": "https://www.ssl.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-profixio-32636852",
       "titel": "Sloga Uppsala – Uppsala Basket",
