@@ -86,66 +86,9 @@ Det här kräver inget tillstånd. Domänerna behöver bara öppnas här så att
 | Föreningar på Svenska lag och Laget.se | Kalenderfiler per lag | Upsala IF, Uppsala 86ers, Uppsala Rugby, Sirius innebandy med flera |
 | Studenternas, IFU Arena, Fyrishov | Arenornas kalendrar | Matcher och andra arrangemang (se även förfrågan 5) |
 
-## 4. Domäner att öppna i Claudes miljö
+## 4. Domäner i Claudes miljö
 
-Det här behövs bara för att jag ska kunna bygga och prova. GitHub, där hämtningarna körs varje morgon, har ingen sådan spärr.
-
-**Viktigast:**
-
-```
-allsvenskan.se
-www.siriusfotboll.se
-www.hockeyallsvenskan.se
-nationsguiden.se
-www.nationsguiden.se
-www.uu.se
-kalendarium.uu.se
-libcal.ub.uu.se
-uppsalamissionskyrka.se
-brorhjorthshus.se
-www.kulturoasen.se
-biotopia.nu
-fyrisgarden.se
-studenternas.se
-www.ifuarena.se
-fyrishov.se
-cal.svenskalag.se
-www.svenskalag.se
-cal.laget.se
-www.laget.se
-konstmuseum.uppsala.se
-```
-
-**När nycklarna finns:**
-
-```
-api-fogis-opendata.developer.azure-api.net
-app.ticketmaster.com
-billetto.se
-billetto.dk
-api.billetto.com
-www.profixio.com
-api.everysport.com
-```
-
-**Senare:**
-
-```
-www.musikiuppland.se
-regionuppsala.se
-od.se
-www.uak.se
-fyrisbiografen.se
-bio.se
-shortfilmfestival.com
-www.sensus.se
-www.abf.se
-www.studieframjandet.se
-www.medborgarskolan.se
-www.folkuniversitetet.se
-kaliberroom.com
-kulturnatten.uppsala.se
-```
+Behövs inte längre. Sedan 25 september har Claudes miljö full åtkomst till internet. GitHub, där hämtningarna körs, har aldrig haft någon spärr.
 
 ## 5. Går inte, eller inte värt det
 

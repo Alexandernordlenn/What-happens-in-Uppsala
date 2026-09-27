@@ -13,7 +13,8 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 
 ## Tekniska beslut
 
-- **Sida:** `index.html` i roten, publicerad med GitHub Pages. I dag ligger demodatan inbakad i filen.
+- **Sida:** `index.html` i roten, publicerad med GitHub Pages. Den läser `data/sida.json`. Demodatan i filen visas bara om den filen saknas.
+- **Språk:** JavaScript överallt. Hämtningarna körs med Node.js 22 (`.mjs`-filer), sidan är vanlig HTML, CSS och JavaScript utan ramverk. Se `README.md`.
 - **Backend:** Firebase. Firestore som databas, Authentication med inloggning via e-postlänk (magisk länk). Databasen ska ligga i en region i EU.
 - **Hämtningar:** GitHub Actions enligt schema, som skriver till Firestore. Inte Cloud Functions tills vidare, eftersom de kräver Blaze-planen.
 - **Princip:** officiella API:er och direkta flöden i första hand. Små arrangörer ska senare kunna lägga in evenemang själva eller klistra in en iCal-länk.
@@ -80,12 +81,7 @@ Tider sparas med tidszon och visas i svensk tid.
 
 ## Nästa steg
 
-1. Spara `SVK_API_KEY` som hemlighet i GitHub.
-2. Skapa Firebase-projektet (Firestore i EU, Authentication med e-postlänk, GitHub Pages-adressen som tillåten domän).
-3. Hämtningsskript och workflow som skriver till Firestore och till filer. **Byggt** för fem källor, se "Hämtningarna" nedan.
-4. Låt `index.html` läsa den filen i stället för den inbakade datan.
-5. Riktig inloggning och favoriter.
-6. Tickster: byt från webbsidorna till API:et när nyckeln kommer.
+Se `BACKLOG.md`. Där står allt som återstår, i prioritetsordning, och vem som gör vad. Uppdatera den när något blir klart.
 
 ## Hämtningarna
 
@@ -116,7 +112,7 @@ Gemensamma delar i `scripts/gemensamt/`:
 - `data/cache/` minns evenemangssidor vi redan läst, så att de inte hämtas varje dag.
 - Rådatan (`data/radata/`) läggs inte i repot. Den sparas i Firestore och som bilaga till varje körning i 14 dagar.
 - Testerna körs med `npm test`. Varje källa har en `regler.test.mjs` med sparad exempeldata.
-- Dubbletter mellan källor (samma konsert hos Tickster och Destination Uppsala) slås inte ihop än. Det görs när sidan börjar läsa filerna.
+- Dubbletter mellan källor slås ihop i `scripts/bygg-sida.mjs`: samma dag, plats och titel från olika källor, och för sport samma dag, arena och tid.
 
 ## Att inte glömma
 
