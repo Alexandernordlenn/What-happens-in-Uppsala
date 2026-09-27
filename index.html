@@ -388,6 +388,9 @@ var SRC = {
   i:{name:"Förbund och ligor", base:"https://www.profixio.com/", how:"Förbundens system",
      status:"Matcher på arenor i Uppsala från ligornas och förbundens egna system: Allsvenskan, Damallsvenskan, Elitettan, SSL, HockeyAllsvenskan och Profixio (bandy, basket, handboll, volleyboll).",
      demo:"I demon: inte med."},
+  m:{name:"Ticketmaster", base:"https://www.ticketmaster.se/", how:"Öppet API",
+     status:"Ticketmasters Discovery API. Större konserter, festivaler och turnéer på bland annat Katalin, Fyrishov och Studenternas. Hämtas när nyckeln ligger i GitHub.",
+     demo:"I demon: inte med."},
   u:{name:"Kubik Uppsala", base:"https://www.kubikuppsala.se/", how:"Kommunens kalender",
      status:"Uppsala kommuns kalender för barn och unga. Återkommande aktiviteter, till exempel en kurs varje tisdag, visas som en period.",
      demo:"I demon: inte med."}
@@ -648,7 +651,7 @@ var FKEY="ujn-favs-v1", favs=[];
 try{ favs = JSON.parse(localStorage.getItem(FKEY)||"[]"); if(!Array.isArray(favs)) favs=[]; }catch(err){ favs=[]; }
 function saveFavs(){ try{ localStorage.setItem(FKEY, JSON.stringify(favs)); }catch(err){} }
 var st = { q:"", period:"14", view:"list", cats:[], ages:[], areas:[], free:false, fam:false, fav:false, day:null, week:0, fopen:false, fmore:false,
-           src:{t:true,h:true,d:true,s:true,k:true,b:true,u:true,i:true} };
+           src:{t:true,h:true,d:true,s:true,k:true,b:true,u:true,i:true,m:true} };
 
 function srcOn(e){ return e.src.some(function(s){ return st.src[s.k]; }); }
 function activeSrc(e){ return e.src.filter(function(s){ return st.src[s.k]; }); }

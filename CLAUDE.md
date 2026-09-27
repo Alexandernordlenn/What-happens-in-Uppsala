@@ -53,7 +53,6 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 Se `KALLOR.md` för hela kartläggningen: vilka API:er och flöden som ska begäras, av vem, och vilka öppna källor som kan byggas direkt.
 
 
-- Ticketmaster: öppen nyckel, täcker mest större turnéer.
 - Begära data från offentlig verksamhet: Reginateatern, Musik i Uppland. (Destination Uppsala, Kubik, Bibliotek Uppsala och Uppsala stadsteater hämtas redan, se "Hämtningarna".)
 - Heja Uppsala: hämtas tillfälligt under testfasen. Eventuellt samarbete.
 
@@ -96,6 +95,7 @@ Allt körs av `.github/workflows/hamta-evenemang.yml` varje dag 04:13 UTC, och k
 | Bibliotek Uppsala | `scripts/bibliotek/` | Axiells öppna API, samma som bibliotekets sida använder | Provkörd, runt 500 evenemang. Läxhjälp, IT-handledning och juridisk rådgivning tas bort. |
 | Heja Uppsala | `scripts/heja/` | Läser kalenderlistan och "När och var?" på evenemangens sidor | Provkörd, runt 460 evenemang. Tillfälligt under testfasen, enligt Alexanders beslut. Deras RSS är låst med nyckel och kalendern är en betaltjänst, så fråga dem innan sidan blir skarp. |
 | Förbund och ligor (sport) | `scripts/sport/` | Ligornas och förbundens egna system, se `scripts/sport/konfig.mjs` | Provkörd, runt 160 matcher på arenor i Uppsala. Id för ligor och lag byts varje säsong. |
+| Ticketmaster | `scripts/ticketmaster/` | Discovery API v2, sökning 25 km runt Uppsala, filtrerat på orter i kommunen | Byggd och testad mot dokumentationens exempel. Väntar på `TICKETMASTER_API_KEY`. |
 | Kubik Uppsala | `scripts/kubik/` | Samma sökning som sidan hitta-aktiviteter gör (`/partials/events/search`) | Provkörd, runt 140 aktiviteter. Perioder (återkommande aktiviteter) blir långvariga evenemang. |
 
 Gemensamma delar i `scripts/gemensamt/`:
