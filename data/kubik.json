@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-09-27T04:29:32.544Z",
-  "antal": 214,
+  "hamtad": "2026-09-28T04:32:08.519Z",
+  "antal": 211,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -2236,90 +2236,6 @@
       "slut": "2026-12-20",
       "notering": "Återkommande, kl. 12:00–16:00. Se Kubik för vilka dagar.",
       "langvarig": true
-    },
-    {
-      "id": "kubik-drakar-och-dragqueens-2026-09-27-1315",
-      "titel": "Sagostund med Bland drakar och dragqueens",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "scen",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/drakar-och-dragqueens/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-09-27T13:15:00+02:00",
-      "slut": "2026-09-27T14:15:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-vikingaskola-runstenar-2026-09-27-1400",
-      "titel": "Vikingaskola - Runstenar",
-      "plats": {
-        "namn": "Gamla Uppsala museum",
-        "id": "gamlauppsalamuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        5,
-        15
-      ],
-      "omrade": "norra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/vikingaskola-runstenar/",
-          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-09-27T14:00:00+02:00",
-      "slut": "2026-09-27T15:00:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-drakar-och-dragqueens-2026-09-27-1445",
-      "titel": "Sagostund med Bland drakar och dragqueens",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "scen",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/drakar-och-dragqueens/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-09-27T14:45:00+02:00",
-      "slut": "2026-09-27T15:45:00+02:00",
-      "langvarig": false
     },
     {
       "id": "kubik-spela-schack-ht26-gottsunda-2026-09-28-1500",

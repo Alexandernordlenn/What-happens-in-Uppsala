@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-09-27T04:26:49.484Z",
-  "antal": 153,
+  "hamtad": "2026-09-28T04:28:59.076Z",
+  "antal": 151,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -203,28 +203,6 @@
       "installd": false
     },
     {
-      "id": "du-sebastian-blind-teckningsstipendiat-2026",
-      "titel": "Sebastian Blind – Teckningsstipendiat 2026",
-      "start": "2026-09-05",
-      "slut": "2026-10-04",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/sebastian-blind-teckningsstipendiat-2026/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
       "id": "du-familjelordagar-pa-uppsala-konstmuseum-2026",
       "titel": "Familjelördagar på Uppsala Konstmuseum",
       "start": "2026-09-05",
@@ -241,6 +219,28 @@
           "id": "destination-uppsala",
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/familjelordagar-pa-uppsala-konstmuseum-2026/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "du-sebastian-blind-teckningsstipendiat-2026",
+      "titel": "Sebastian Blind – Teckningsstipendiat 2026",
+      "start": "2026-09-05",
+      "slut": "2026-10-04",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/sebastian-blind-teckningsstipendiat-2026/"
         }
       ],
       "langvarig": true,
@@ -354,75 +354,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "du-babblarna-klonks-klapp-kalas",
-      "titel": "Babblarna & Klonks Klapp-kalas",
-      "start": "2026-09-27T11:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/babblarna-klonks-klapp-kalas/",
-          "arrangor": "https://secure.tickster.com/en/8tly4htu2ynpzuf/selectevent?c=wv20gm4"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-temavisning-50-ar-sedan-uppsala-domkyrkas-restaurering-1971-76",
-      "titel": "Temavisning: 50 år sedan Uppsala domkyrkas restaurering 1971–76",
-      "start": "2026-09-27T12:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala domkyrka",
-        "id": "domkyrkan"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/temavisning-50-ar-sedan-uppsala-domkyrkas-restaurering-1971-76/",
-          "arrangor": "http://www.uppsaladomkyrka.se/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-louisa-lyne-di-yiddishe-kapelye-cohen-in-yiddish",
-      "titel": "Louisa Lyne & di Yiddishe Kapelye – Cohen in Yiddish",
-      "start": "2026-09-27T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/louisa-lyne-di-yiddishe-kapelye-cohen-in-yiddish/",
-          "arrangor": "https://ukk.se/louisa-lyne-di-yiddishe-kapelye/"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
@@ -786,29 +717,6 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/moto-boy-tolkar-lana-del-rey/",
           "arrangor": "https://ukk.se/moto-boy-tolkar-lana-del-rey/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-a-tribute-to-dire-straits",
-      "titel": "A Tribute to Dire Straits",
-      "start": "2026-10-11T19:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/a-tribute-to-dire-straits/",
-          "arrangor": "https://nojet.se/event/dst-uppsala/"
         }
       ],
       "langvarig": false,
@@ -1363,28 +1271,6 @@
       "installd": false
     },
     {
-      "id": "du-doktor-glas",
-      "titel": "Doktor Glas",
-      "start": "2026-10-28",
-      "slut": "2026-10-31",
-      "plats": {
-        "namn": "Den Lilla Teatern",
-        "id": "lillateatern"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/doktor-glas/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
       "id": "du-terra-2",
       "titel": "Terra – extrakonsert",
       "start": "2026-10-28",
@@ -1408,6 +1294,28 @@
       "installd": false
     },
     {
+      "id": "du-doktor-glas",
+      "titel": "Doktor Glas",
+      "start": "2026-10-28",
+      "slut": "2026-10-31",
+      "plats": {
+        "namn": "Den Lilla Teatern",
+        "id": "lillateatern"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/doktor-glas/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
       "id": "du-13x13-jordens-forhistoriska-klimatforandringar-istider-och-varmetider-under-600-miljoner-ar",
       "titel": "13×13: Jordens förhistoriska klimatförändringar – istider och värmetider under 600 miljoner år",
       "start": "2026-10-28T18:30:00+01:00",
@@ -1425,6 +1333,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/13x13-jordens-forhistoriska-klimatforandringar-istider-och-varmetider-under-600-miljoner-ar/",
           "arrangor": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-terra",
+      "titel": "Terra",
+      "start": "2026-10-29",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/terra/",
+          "arrangor": "https://secure.tickster.com/sv/l2ygdth812avj6e/selectproductgroup"
         }
       ],
       "langvarig": false,
@@ -2164,6 +2095,29 @@
       "installd": false
     },
     {
+      "id": "du-mia-karlsson-coming-home-tour-2026",
+      "titel": "Mia Karlsson – Coming Home Tour 2026",
+      "start": "2026-11-26T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/mia-karlsson-coming-home-tour-2026/",
+          "arrangor": "https://www.kulturaktiebolaget.se/evenemang/coming-home-tour-2026/pin:2026-11-26"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "du-fornuft-och-kansla",
       "titel": "Förnuft och känsla",
       "start": "2026-11-27",
@@ -2232,23 +2186,23 @@
       "installd": false
     },
     {
-      "id": "du-julmarknad-pa-chokladfabriken-2026",
-      "titel": "Julmarknad på chokladfabriken 2026",
+      "id": "du-julmarknad-med-drop-in-vigsel",
+      "titel": "Julmarknad med drop-in-vigsel",
       "start": "2026-11-28T11:00:00+01:00",
       "slut": null,
       "plats": {
-        "namn": "Vegan Delights",
-        "id": "du-plats-vegan-delights"
+        "namn": "Solglimtsparken & Hospitalet",
+        "id": "du-plats-solglimtsparken-hospitalet"
       },
       "kategori": "ovrigt",
-      "gratis": null,
+      "gratis": true,
       "barnOchFamilj": false,
       "kallor": [
         {
           "id": "destination-uppsala",
           "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/julmarknad-pa-chokladfabriken-2026/",
-          "arrangor": "https://fb.me/e/6n1b9Rebj"
+          "url": "https://destinationuppsala.se/event/julmarknad-med-drop-in-vigsel/",
+          "arrangor": "https://bygg.uppsala.se/planerade-omraden/ulleraker/om-ulleraker/evenemang/"
         }
       ],
       "langvarig": false,
@@ -2278,23 +2232,23 @@
       "installd": false
     },
     {
-      "id": "du-julmarknad-med-drop-in-vigsel",
-      "titel": "Julmarknad med drop-in-vigsel",
+      "id": "du-julmarknad-pa-chokladfabriken-2026",
+      "titel": "Julmarknad på chokladfabriken 2026",
       "start": "2026-11-28T11:00:00+01:00",
       "slut": null,
       "plats": {
-        "namn": "Solglimtsparken & Hospitalet",
-        "id": "du-plats-solglimtsparken-hospitalet"
+        "namn": "Vegan Delights",
+        "id": "du-plats-vegan-delights"
       },
       "kategori": "ovrigt",
-      "gratis": true,
+      "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
         {
           "id": "destination-uppsala",
           "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/julmarknad-med-drop-in-vigsel/",
-          "arrangor": "https://bygg.uppsala.se/planerade-omraden/ulleraker/om-ulleraker/evenemang/"
+          "url": "https://destinationuppsala.se/event/julmarknad-pa-chokladfabriken-2026/",
+          "arrangor": "https://fb.me/e/6n1b9Rebj"
         }
       ],
       "langvarig": false,
