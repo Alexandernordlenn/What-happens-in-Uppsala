@@ -35,16 +35,16 @@
     "arrangorensSida": "https://ukk.se/javla-karlar/",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/uppsala-survival-run-2026/": {
-    "nar": "3 oktober 2026, kl. 10.00–16.00",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://worldofraces.com/races/uppsala-survival-run-2026",
-    "hamtad": "2026-09-24"
-  },
   "https://destinationuppsala.se/event/hostfest-pa-alnas/": {
     "nar": "3 oktober, 2026, kl. 11–15",
     "pris": "Gratis",
     "arrangorensSida": "https://kfumalnas.se/hostfest-pa-alnas/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/uppsala-survival-run-2026/": {
+    "nar": "3 oktober 2026, kl. 10.00–16.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://worldofraces.com/races/uppsala-survival-run-2026",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/poste-restante-4-10/": {
@@ -83,6 +83,12 @@
     "arrangorensSida": "https://www.uu.se/linnes-hammarby",
     "hamtad": "2026-09-24"
   },
+  "https://destinationuppsala.se/event/a-tribute-to-dire-straits/": {
+    "nar": "11 oktober 2026, kl. 19:30–22:00",
+    "pris": "",
+    "arrangorensSida": "https://nojet.se/event/dst-uppsala/",
+    "hamtad": "2026-09-29"
+  },
   "https://destinationuppsala.se/event/fyris-comedy-stand-up-open-mic-okt/": {
     "nar": "13 oktober 2026",
     "pris": "Betald biljett krävs",
@@ -113,12 +119,6 @@
     "arrangorensSida": "https://www.uppsalamarathon.se/",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/bo-kaspers-orkester-il-magnifico/": {
-    "nar": "18 oktober 2026 kl. 19.00",
-    "pris": "",
-    "arrangorensSida": "https://ukk.se/bo-kaspers-orkester-il-magnifico/",
-    "hamtad": "2026-09-24"
-  },
   "https://destinationuppsala.se/event/robert-wells-40-ar-vid-flygeln/": {
     "nar": "18 oktober 2026, kl. 16.00",
     "pris": "",
@@ -131,16 +131,22 @@
     "arrangorensSida": "https://www.siriusfotboll.se/",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/lisa-nilsson-moter-bohuslan-big-band/": {
-    "nar": "20 oktober 2026 kl. 19.30",
+  "https://destinationuppsala.se/event/bo-kaspers-orkester-il-magnifico/": {
+    "nar": "18 oktober 2026 kl. 19.00",
     "pris": "",
-    "arrangorensSida": "https://ukk.se/lisa-nilsson-bohuslan-big-band/",
+    "arrangorensSida": "https://ukk.se/bo-kaspers-orkester-il-magnifico/",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/teddybears/": {
     "nar": "20 oktober 2026, kl. 20.00",
     "pris": "",
     "arrangorensSida": "https://www.katalin.com/events/teddybears/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/lisa-nilsson-moter-bohuslan-big-band/": {
+    "nar": "20 oktober 2026 kl. 19.30",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/lisa-nilsson-bohuslan-big-band/",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/13x13-evolutionen-av-ett-langt-liv-hur-ar-det-mojligt/": {
@@ -203,17 +209,17 @@
     "arrangorensSida": "http://www.fyriscomedy.com/biljetter",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/13x13-jordens-forhistoriska-klimatforandringar-istider-och-varmetider-under-600-miljoner-ar/": {
-    "nar": "28 oktober 2026, kl. 18.30–19.30",
-    "pris": "Gratis",
-    "arrangorensSida": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13",
-    "hamtad": "2026-09-24"
-  },
   "https://destinationuppsala.se/event/terra-2/": {
     "nar": "28 oktober, 2026",
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://secure.tickster.com/sv/fj2mkwvn0terxl1/selectproductgroup",
     "hamtad": "2026-09-27"
+  },
+  "https://destinationuppsala.se/event/13x13-jordens-forhistoriska-klimatforandringar-istider-och-varmetider-under-600-miljoner-ar/": {
+    "nar": "28 oktober 2026, kl. 18.30–19.30",
+    "pris": "Gratis",
+    "arrangorensSida": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13",
+    "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/viktor-noren-linus-wahlgren-vara-liv-vara-musikaler/": {
     "nar": "29 oktober 2026 kl. 19.30",
@@ -269,16 +275,16 @@
     "arrangorensSida": "https://ukk.se/sven-ingvars-igar-idag-imorgon-70-ar/",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/creedence-tribute-best-of-ccr-john-fogerty-tour/": {
-    "nar": "7 november 2026 kl. 19.30",
-    "pris": "",
-    "arrangorensSida": "https://ukk.se/creedence-tribute-best-of-ccr-john-fogerty-tour/",
-    "hamtad": "2026-09-24"
-  },
   "https://destinationuppsala.se/event/kaeli-abdi-paskkarringen/": {
     "nar": "7 november 2026 kl. 20.00",
     "pris": "",
     "arrangorensSida": "https://ukk.se/kaeli-abdi-paskkarringen/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/creedence-tribute-best-of-ccr-john-fogerty-tour/": {
+    "nar": "7 november 2026 kl. 19.30",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/creedence-tribute-best-of-ccr-john-fogerty-tour/",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/museidagen-2026/": {
@@ -407,6 +413,12 @@
     "arrangorensSida": "https://ukk.se/evigt-edvin-edvin-tornblom-3/",
     "hamtad": "2026-09-24"
   },
+  "https://destinationuppsala.se/event/svenska-masterskapen-hema-2026/": {
+    "nar": "28–29 november 2026, från kl. 09.00",
+    "pris": "",
+    "arrangorensSida": "https://fb.me/e/6c6cKFAdL",
+    "hamtad": "2026-09-24"
+  },
   "https://destinationuppsala.se/event/julmarknad-med-drop-in-vigsel/": {
     "nar": "28 november 2026, kl. 11.00–15.00",
     "pris": "Gratis",
@@ -423,12 +435,6 @@
     "nar": "28 november 2026, kl. 11.00–17.00",
     "pris": "",
     "arrangorensSida": "https://fb.me/e/6n1b9Rebj",
-    "hamtad": "2026-09-24"
-  },
-  "https://destinationuppsala.se/event/svenska-masterskapen-hema-2026/": {
-    "nar": "28–29 november 2026, från kl. 09.00",
-    "pris": "",
-    "arrangorensSida": "https://fb.me/e/6c6cKFAdL",
     "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/notknapparen-med-international-festival-ballet/": {

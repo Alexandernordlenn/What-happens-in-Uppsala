@@ -1,89 +1,9 @@
 {
   "kalla": "Bibliotek Uppsala",
   "webbsida": "https://bibliotekuppsala.se/evenemang",
-  "hamtad": "2026-09-28T04:30:07.519Z",
-  "antal": 493,
+  "hamtad": "2026-09-29T04:29:37.483Z",
+  "antal": 515,
   "evenemang": [
-    {
-      "id": "bibliotek-b2b90924-185c-4c12-92cd-694cffaa93a5",
-      "titel": "Pysselverkstad",
-      "start": "2026-09-28T14:00:00+02:00",
-      "slut": "2026-09-28T17:00:00+02:00",
-      "plats": {
-        "namn": "Rosendalsbiblioteket",
-        "id": "bibliotek-rosendalsbiblioteket",
-        "rum": "Hörsalen"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/b2b90924-185c-4c12-92cd-694cffaa93a5"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-c3744147-179f-478f-9c5f-12cf0818eb04",
-      "titel": "Spela schack",
-      "start": "2026-09-28T15:00:00+02:00",
-      "slut": "2026-09-28T16:00:00+02:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        19
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/c3744147-179f-478f-9c5f-12cf0818eb04"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-e828a344-9a13-40d0-a8e9-a7af509c2fca",
-      "titel": "Uppsala Writer’s Circle",
-      "start": "2026-09-28T17:30:00+02:00",
-      "slut": "2026-09-28T19:30:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Mallas grupprum"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/e828a344-9a13-40d0-a8e9-a7af509c2fca"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "bibliotek-faae6a5a-57b3-4ceb-b33c-8c5e595573d4",
       "titel": "Öppen föräldragrupp",
@@ -1310,32 +1230,6 @@
       "installd": false
     },
     {
-      "id": "bibliotek-40037686-4bb5-467c-a8d7-abc4c30deae4",
-      "titel": "Spela schack",
-      "start": "2026-10-05T15:00:00+02:00",
-      "slut": "2026-10-05T16:00:00+02:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        19
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/40037686-4bb5-467c-a8d7-abc4c30deae4"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "bibliotek-b3a4a44e-4c45-4cdf-aabe-5820aa32f253",
       "titel": "Läs tillsammans!",
       "start": "2026-10-05T15:00:00+02:00",
@@ -1356,6 +1250,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/b3a4a44e-4c45-4cdf-aabe-5820aa32f253"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-40037686-4bb5-467c-a8d7-abc4c30deae4",
+      "titel": "Spela schack",
+      "start": "2026-10-05T15:00:00+02:00",
+      "slut": "2026-10-05T16:00:00+02:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        19
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/40037686-4bb5-467c-a8d7-abc4c30deae4"
         }
       ],
       "langvarig": false,
@@ -6099,6 +6019,33 @@
       "installd": false
     },
     {
+      "id": "bibliotek-b2b90924-185c-4c12-92cd-694cffaa93a5",
+      "titel": "Pysselverkstad",
+      "start": "2026-10-28T14:00:00+01:00",
+      "slut": "2026-10-28T17:00:00+01:00",
+      "plats": {
+        "namn": "Rosendalsbiblioteket",
+        "id": "bibliotek-rosendalsbiblioteket",
+        "rum": "Hörsalen"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/b2b90924-185c-4c12-92cd-694cffaa93a5"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "bibliotek-f0d903cb-0e18-4f5e-9889-ad2e4e224e2f",
       "titel": "Nätverket",
       "start": "2026-10-28T15:00:00+01:00",
@@ -6625,6 +6572,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/3f4fa5a5-cb0a-4131-90d5-c54a0b72c536"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-ba391621-2787-465c-8385-6e44d60e1f59",
+      "titel": "Spela schack",
+      "start": "2026-11-02T15:00:00+01:00",
+      "slut": "2026-11-02T16:00:00+01:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        19
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/ba391621-2787-465c-8385-6e44d60e1f59"
         }
       ],
       "langvarig": false,
@@ -7296,6 +7269,32 @@
       "installd": false
     },
     {
+      "id": "bibliotek-f152cdca-67c5-4d66-910f-4fb282cbfda7",
+      "titel": "Lär dig allt om hajar!",
+      "start": "2026-11-07T14:00:00+01:00",
+      "slut": "2026-11-07T15:00:00+01:00",
+      "plats": {
+        "namn": "Sävjabiblioteket",
+        "id": "bibliotek-sävjabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/f152cdca-67c5-4d66-910f-4fb282cbfda7"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "bibliotek-6c050b31-3a3f-4ab6-b0e8-bc92e588af75",
       "titel": "Sagostund på katalanska – L'hora del conte en català",
       "start": "2026-11-07T14:30:00+01:00",
@@ -7332,7 +7331,7 @@
         "id": "stadsbib",
         "rum": "Drömverkstan på barnavdelningen"
       },
-      "kategori": "scen",
+      "kategori": "musik",
       "gratis": true,
       "barnOchFamilj": true,
       "alder": [
@@ -7344,6 +7343,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/8d82bb87-131a-4158-abd7-70e3692c3835"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-8ee39446-dd61-4d02-9d59-410303004924",
+      "titel": "Spela schack",
+      "start": "2026-11-09T15:00:00+01:00",
+      "slut": "2026-11-09T16:00:00+01:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        19
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/8ee39446-dd61-4d02-9d59-410303004924"
         }
       ],
       "langvarig": false,
@@ -7450,6 +7475,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/93086477-7575-4cbb-9728-0d3e60a277f7"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-d7967135-c6bf-4037-bdcb-bcc5e7f5a216",
+      "titel": "Å bebis bebis",
+      "start": "2026-11-10T10:00:00+01:00",
+      "slut": "2026-11-10T10:30:00+01:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/d7967135-c6bf-4037-bdcb-bcc5e7f5a216"
         }
       ],
       "langvarig": false,
@@ -8335,6 +8386,32 @@
       "installd": false
     },
     {
+      "id": "bibliotek-17a8da34-9712-4026-ae1b-b6c7e39c17ee",
+      "titel": "Minecraft-lördag",
+      "start": "2026-11-14T12:00:00+01:00",
+      "slut": "2026-11-14T15:30:00+01:00",
+      "plats": {
+        "namn": "Sävjabiblioteket",
+        "id": "bibliotek-sävjabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/17a8da34-9712-4026-ae1b-b6c7e39c17ee"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "bibliotek-5f3708d8-9e9e-4e5e-b328-92ac40c618c1",
       "titel": "Funkishistoria",
       "start": "2026-11-14T13:00:00+01:00",
@@ -8436,6 +8513,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/31ab917d-e232-4395-a7b9-ed98b03d6a2d"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-06959700-26df-4b39-b12c-455be619bf91",
+      "titel": "Spela schack",
+      "start": "2026-11-16T15:00:00+01:00",
+      "slut": "2026-11-16T16:00:00+01:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        19
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/06959700-26df-4b39-b12c-455be619bf91"
         }
       ],
       "langvarig": false,
@@ -9507,6 +9610,32 @@
       "installd": false
     },
     {
+      "id": "bibliotek-7ea50cae-906c-465d-9abb-b7d3b029ee26",
+      "titel": "Sagostund med tema ljud",
+      "start": "2026-11-20T14:00:00+01:00",
+      "slut": "2026-11-20T14:45:00+01:00",
+      "plats": {
+        "namn": "Sävjabiblioteket",
+        "id": "bibliotek-sävjabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/7ea50cae-906c-465d-9abb-b7d3b029ee26"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "bibliotek-f98bc7b2-1b24-4578-b47d-0cc8a4a3a127",
       "titel": "Hörlurar på!",
       "start": "2026-11-20T14:30:00+01:00",
@@ -9613,6 +9742,32 @@
       "installd": false
     },
     {
+      "id": "bibliotek-315826a1-0763-41cd-8ec9-6780c48e1bf2",
+      "titel": "Rymd-lördag",
+      "start": "2026-11-21T12:00:00+01:00",
+      "slut": "2026-11-21T15:30:00+01:00",
+      "plats": {
+        "namn": "Sävjabiblioteket",
+        "id": "bibliotek-sävjabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/315826a1-0763-41cd-8ec9-6780c48e1bf2"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "bibliotek-200b81e4-f82c-4c14-a291-5910cd061565",
       "titel": "Sagostund på arabiska",
       "start": "2026-11-21T13:00:00+01:00",
@@ -9694,6 +9849,60 @@
       "installd": false
     },
     {
+      "id": "bibliotek-03c607c9-cc2a-4939-a710-5787844ff980",
+      "titel": "Dinosöndag med Sarah Sheppard",
+      "start": "2026-11-22T13:30:00+01:00",
+      "slut": "2026-11-22T14:10:00+01:00",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib",
+        "rum": "Barnavdelningen Läsfabriken"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/03c607c9-cc2a-4939-a710-5787844ff980"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-9b94cac3-9d69-414c-bc4d-17dc2656c839",
+      "titel": "Positivt föräldraskap",
+      "start": "2026-11-23T10:00:00+01:00",
+      "slut": "2026-11-23T11:30:00+01:00",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib",
+        "rum": "Barnavdelningen Läsfabriken"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": [
+        18,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/9b94cac3-9d69-414c-bc4d-17dc2656c839"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "bibliotek-07073976-e7da-4069-a01a-924c35aef8e4",
       "titel": "Seniordag – fokus hälsa",
       "start": "2026-11-23T13:00:00+01:00",
@@ -9715,6 +9924,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/07073976-e7da-4069-a01a-924c35aef8e4"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-0136740f-a83f-4804-818f-41c004252d9a",
+      "titel": "Spela schack",
+      "start": "2026-11-23T15:00:00+01:00",
+      "slut": "2026-11-23T16:00:00+01:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        19
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/0136740f-a83f-4804-818f-41c004252d9a"
         }
       ],
       "langvarig": false,
@@ -10494,6 +10729,58 @@
       "installd": false
     },
     {
+      "id": "bibliotek-c05ede86-3b50-434c-b5ab-30a40cd51869",
+      "titel": "Småsånger med Ako",
+      "start": "2026-11-27T14:00:00+01:00",
+      "slut": "2026-11-27T14:30:00+01:00",
+      "plats": {
+        "namn": "Rosendalsbiblioteket",
+        "id": "bibliotek-rosendalsbiblioteket"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/c05ede86-3b50-434c-b5ab-30a40cd51869"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-057c4ef3-da63-43cf-a77e-879e84754c86",
+      "titel": "Pingvin-lördag",
+      "start": "2026-11-28T12:00:00+01:00",
+      "slut": "2026-11-28T15:30:00+01:00",
+      "plats": {
+        "namn": "Sävjabiblioteket",
+        "id": "bibliotek-sävjabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/057c4ef3-da63-43cf-a77e-879e84754c86"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "bibliotek-747b56df-05f2-4270-a629-e4caf39bbf59",
       "titel": "Sagostund på persiska",
       "start": "2026-11-28T13:00:00+01:00",
@@ -10601,6 +10888,33 @@
       "installd": false
     },
     {
+      "id": "bibliotek-1a52d132-e9a9-49cf-8ddb-895212f1304c",
+      "titel": "Positivt föräldraskap",
+      "start": "2026-11-30T10:00:00+01:00",
+      "slut": "2026-11-30T11:30:00+01:00",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib",
+        "rum": "Barnavdelningen Läsfabriken"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": [
+        18,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/1a52d132-e9a9-49cf-8ddb-895212f1304c"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "bibliotek-277d4bc2-0ec2-4d36-825d-cd429eed0526",
       "titel": "Läs tillsammans!",
       "start": "2026-11-30T15:00:00+01:00",
@@ -10621,6 +10935,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/277d4bc2-0ec2-4d36-825d-cd429eed0526"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-f62ecd7f-bbac-4ddb-90fc-be2690bfa35a",
+      "titel": "Spela schack",
+      "start": "2026-11-30T15:00:00+01:00",
+      "slut": "2026-11-30T16:00:00+01:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        19
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/f62ecd7f-bbac-4ddb-90fc-be2690bfa35a"
         }
       ],
       "langvarig": false,
@@ -11454,6 +11794,32 @@
       "installd": false
     },
     {
+      "id": "bibliotek-0b38be53-4d7b-4e5a-9aa1-8f83ad2979a4",
+      "titel": "Minibio",
+      "start": "2026-12-05T13:00:00+01:00",
+      "slut": "2026-12-05T13:30:00+01:00",
+      "plats": {
+        "namn": "Sävjabiblioteket",
+        "id": "bibliotek-sävjabiblioteket"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/0b38be53-4d7b-4e5a-9aa1-8f83ad2979a4"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "bibliotek-9d08ac03-696e-4ec6-bde4-3c4c35a8efc8",
       "titel": "Inställt: Sagostund på ukrainska – У світі казок",
       "start": "2026-12-05T14:30:00+01:00",
@@ -11502,6 +11868,59 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/50368231-91c5-45ff-99fb-8ab37cbcac57"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-f7384920-388f-4d93-b7c0-f3c23b6bac4f",
+      "titel": "Positivt föräldraskap",
+      "start": "2026-12-07T10:00:00+01:00",
+      "slut": "2026-12-07T11:30:00+01:00",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib",
+        "rum": "Barnavdelningen Läsfabriken"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": [
+        18,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/f7384920-388f-4d93-b7c0-f3c23b6bac4f"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-cc710067-005f-46a2-8b72-ddaf77e2b95b",
+      "titel": "Spela schack",
+      "start": "2026-12-07T15:00:00+01:00",
+      "slut": "2026-12-07T16:00:00+01:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        19
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/cc710067-005f-46a2-8b72-ddaf77e2b95b"
         }
       ],
       "langvarig": false,
@@ -12201,6 +12620,33 @@
       "installd": false
     },
     {
+      "id": "bibliotek-2de1296d-7122-4d40-a004-c10cbf188bf1",
+      "titel": "Julmys!",
+      "start": "2026-12-11T14:00:00+01:00",
+      "slut": "2026-12-11T15:00:00+01:00",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib",
+        "rum": "Humlegården"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/2de1296d-7122-4d40-a004-c10cbf188bf1"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "bibliotek-aedb8c49-7557-465d-8caa-4041f89e7fbe",
       "titel": "Brädspelslördag",
       "start": "2026-12-12T10:00:00+01:00",
@@ -12248,6 +12694,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/5503c3a5-4960-49d3-9eea-e019fd992a1f"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-6ed20b83-7ce6-4549-93f9-22a828ca1ac9",
+      "titel": "Skapa julkort",
+      "start": "2026-12-12T12:00:00+01:00",
+      "slut": "2026-12-12T15:30:00+01:00",
+      "plats": {
+        "namn": "Sävjabiblioteket",
+        "id": "bibliotek-sävjabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/6ed20b83-7ce6-4549-93f9-22a828ca1ac9"
         }
       ],
       "langvarig": false,
@@ -12355,6 +12827,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/ea57f38c-883c-483d-aa76-2296bf9139b5"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-20d5a2d6-fb3f-4adf-92ce-ff7eaa4a9b67",
+      "titel": "Spela schack",
+      "start": "2026-12-14T15:00:00+01:00",
+      "slut": "2026-12-14T16:00:00+01:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        19
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/20d5a2d6-fb3f-4adf-92ce-ff7eaa4a9b67"
         }
       ],
       "langvarig": false,
@@ -12973,6 +13471,32 @@
       "installd": false
     },
     {
+      "id": "bibliotek-be1566b9-0737-40c4-83c2-02534b07c074",
+      "titel": "Juliga småsånger",
+      "start": "2026-12-18T14:00:00+01:00",
+      "slut": "2026-12-18T14:30:00+01:00",
+      "plats": {
+        "namn": "Sävjabiblioteket",
+        "id": "bibliotek-sävjabiblioteket"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/be1566b9-0737-40c4-83c2-02534b07c074"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "bibliotek-553d956d-9a68-4ba0-abfe-ab08ebf7d286",
       "titel": "Hörlurar på!",
       "start": "2026-12-18T14:30:00+01:00",
@@ -13047,6 +13571,58 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/beca17bd-2274-4cf1-b971-7094a66fa348"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-e03b91e6-fbfe-426d-adac-edaba647d5cd",
+      "titel": "Julpyssel",
+      "start": "2026-12-19T12:00:00+01:00",
+      "slut": "2026-12-19T15:30:00+01:00",
+      "plats": {
+        "namn": "Sävjabiblioteket",
+        "id": "bibliotek-sävjabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/e03b91e6-fbfe-426d-adac-edaba647d5cd"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-2780399a-1860-4313-9cfd-41d853dcc049",
+      "titel": "Spela schack",
+      "start": "2026-12-21T15:00:00+01:00",
+      "slut": "2026-12-21T16:00:00+01:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        19
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/2780399a-1860-4313-9cfd-41d853dcc049"
         }
       ],
       "langvarig": false,

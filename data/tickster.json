@@ -1,8 +1,8 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-09-28T04:29:42.334Z",
-  "antal": 338,
+  "hamtad": "2026-09-29T04:29:11.968Z",
+  "antal": 344,
   "evenemang": [
     {
       "id": "tickster-v06clb3zngk00z2",
@@ -153,29 +153,6 @@
       "installd": false
     },
     {
-      "id": "tickster-w5w62xctg8f6yg0",
-      "titel": "Workshop: Skapa kollage i textil",
-      "start": "2026-10-01T18:00:00+02:00",
-      "slut": "2026-10-01T20:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/w5w62xctg8f6yg0/2026-10-01/workshop-skapa-kollage-i-textil",
-          "biljetter": "https://secure.tickster.com/sv/w5w62xctg8f6yg0"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "tickster-11wtlpjbnh3g7gt",
       "titel": "Konst och bar: Plats och landskap",
       "start": "2026-10-01T18:00:00+02:00",
@@ -193,6 +170,29 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/11wtlpjbnh3g7gt/2026-10-01/konst-och-bar-plats-och-landskap",
           "biljetter": "https://secure.tickster.com/sv/11wtlpjbnh3g7gt"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-w5w62xctg8f6yg0",
+      "titel": "Workshop: Skapa kollage i textil",
+      "start": "2026-10-01T18:00:00+02:00",
+      "slut": "2026-10-01T20:00:00+02:00",
+      "plats": {
+        "namn": "Uppsala konstmuseum",
+        "id": "konstmuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/w5w62xctg8f6yg0/2026-10-01/workshop-skapa-kollage-i-textil",
+          "biljetter": "https://secure.tickster.com/sv/w5w62xctg8f6yg0"
         }
       ],
       "langvarig": false,
@@ -324,29 +324,6 @@
       "installd": false
     },
     {
-      "id": "tickster-cp9h0w9c5rdalm1",
-      "titel": "NISSE HALLBERG - 8 ÅR SENARE",
-      "start": "2026-10-02T20:00:00+02:00",
-      "slut": "2026-10-02T21:30:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/cp9h0w9c5rdalm1/2026-10-02/nisse-hallberg-8-ar-senare",
-          "biljetter": "https://secure.tickster.com/sv/cp9h0w9c5rdalm1"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "tickster-fvh9rnp656jenx4",
       "titel": "Marco Mendoza",
       "start": "2026-10-02T20:00:00+02:00",
@@ -364,6 +341,29 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/fvh9rnp656jenx4/2026-10-02/marco-mendoza",
           "biljetter": "https://secure.tickster.com/sv/fvh9rnp656jenx4"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-cp9h0w9c5rdalm1",
+      "titel": "NISSE HALLBERG - 8 ÅR SENARE",
+      "start": "2026-10-02T20:00:00+02:00",
+      "slut": "2026-10-02T21:30:00+02:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/cp9h0w9c5rdalm1/2026-10-02/nisse-hallberg-8-ar-senare",
+          "biljetter": "https://secure.tickster.com/sv/cp9h0w9c5rdalm1"
         }
       ],
       "langvarig": false,
@@ -6105,6 +6105,29 @@
       "installd": false
     },
     {
+      "id": "tickster-3t5m7pt0g4yp81p",
+      "titel": "Mats Holmquist och Strix Big Band",
+      "start": "2026-12-09T19:30:00+01:00",
+      "slut": "2026-12-09T22:00:00+01:00",
+      "plats": {
+        "namn": "Blackbird",
+        "id": "blackbird"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/3t5m7pt0g4yp81p/2026-12-09/mats-holmquist-och-strix-big-band",
+          "biljetter": "https://secure.tickster.com/sv/3t5m7pt0g4yp81p"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-c7c2latx1g4m045",
       "titel": "Weeping Willows – Christmas",
       "start": "2026-12-09T19:30:00+01:00",
@@ -6125,29 +6148,6 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/c7c2latx1g4m045/2026-12-09/weeping-willows-christmas",
           "biljetter": "https://secure.tickster.com/sv/c7c2latx1g4m045"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-3t5m7pt0g4yp81p",
-      "titel": "Mats Holmquist och Strix Big Band",
-      "start": "2026-12-09T19:30:00+01:00",
-      "slut": "2026-12-09T22:00:00+01:00",
-      "plats": {
-        "namn": "Blackbird",
-        "id": "blackbird"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/3t5m7pt0g4yp81p/2026-12-09/mats-holmquist-och-strix-big-band",
-          "biljetter": "https://secure.tickster.com/sv/3t5m7pt0g4yp81p"
         }
       ],
       "langvarig": false,
@@ -6904,6 +6904,31 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ztpm05lw995a0jn/2026-12-20/banna-sona-band-christmas-edition",
           "biljetter": "https://secure.tickster.com/sv/ztpm05lw995a0jn"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-g33dw4jtaj92cj3",
+      "titel": "Björnarna, Perkele, Coca Carola & Digging Graves",
+      "start": "2026-12-26T20:00:00+01:00",
+      "slut": "2026-12-26T23:30:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/g33dw4jtaj92cj3/2026-12-26/bjornarna-perkele-coca-carola-and-digging-graves",
+          "biljetter": "https://secure.tickster.com/sv/g33dw4jtaj92cj3"
         }
       ],
       "langvarig": false,
@@ -8054,6 +8079,32 @@
       "installd": false
     },
     {
+      "id": "tickster-glhthaghmhtjwfb",
+      "titel": "The Rock Orchestra by Candlelight",
+      "start": "2027-03-24T20:30:00+01:00",
+      "slut": "2027-03-24T22:25:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/glhthaghmhtjwfb/2027-03-24/the-rock-orchestra-by-candlelight",
+          "biljetter": "https://secure.tickster.com/sv/glhthaghmhtjwfb"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-krj9k1l31yja6ny",
       "titel": "BRUNOZ – En konsert med Bruno Mitsogiannis",
       "start": "2027-03-28T16:00:00+02:00",
@@ -8312,6 +8363,77 @@
       "installd": false
     },
     {
+      "id": "tickster-mfjx1dpux41fmva",
+      "titel": "The Orb",
+      "start": "2027-05-08T20:00:00+02:00",
+      "slut": "2027-05-08T22:00:00+02:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/mfjx1dpux41fmva/2027-05-08/the-orb",
+          "biljetter": "https://secure.tickster.com/sv/mfjx1dpux41fmva"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-ct9zd81m1hbgwbv",
+      "titel": "FLUSTRET - STUDENTSKIVA LUNDELLSKA 11 MAJ",
+      "start": "2027-05-11T21:30:00+02:00",
+      "slut": "2027-05-12T02:00:00+02:00",
+      "plats": {
+        "namn": "Flustret",
+        "id": "flustret"
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/ct9zd81m1hbgwbv/2027-05-11/flustret-studentskiva-lundellska-11-maj",
+          "biljetter": "https://secure.tickster.com/sv/ct9zd81m1hbgwbv"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-gcb7dbrzft6zzkd",
+      "titel": "FLUSTRET - STUDENTSKIVA CELSIUS 19 MAJ",
+      "start": "2027-05-19T21:30:00+02:00",
+      "slut": "2027-05-20T02:00:00+02:00",
+      "plats": {
+        "namn": "Flustret",
+        "id": "flustret"
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/gcb7dbrzft6zzkd/2027-05-19/flustret-studentskiva-celsius-19-maj",
+          "biljetter": "https://secure.tickster.com/sv/gcb7dbrzft6zzkd"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-1c4pu6gmxa891vf",
       "titel": "Tjajkovskijs pianokonsert – Uppsala Kammarorkester",
       "start": "2027-05-20T19:00:00+02:00",
@@ -8332,6 +8454,29 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/1c4pu6gmxa891vf/2027-05-20/tjajkovskijs-pianokonsert-uppsala-kammarorkester",
           "biljetter": "https://secure.tickster.com/sv/1c4pu6gmxa891vf"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-ymp73lupjpmkw86",
+      "titel": "FLUSTRET - STUDENTSKIVA ROSENDAL 20 MAJ",
+      "start": "2027-05-20T21:30:00+02:00",
+      "slut": "2027-05-21T02:00:00+02:00",
+      "plats": {
+        "namn": "Flustret",
+        "id": "flustret"
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/ymp73lupjpmkw86/2027-05-20/flustret-studentskiva-rosendal-20-maj",
+          "biljetter": "https://secure.tickster.com/sv/ymp73lupjpmkw86"
         }
       ],
       "langvarig": false,
