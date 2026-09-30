@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-09-29T04:28:17.095Z",
-  "antal": 152,
+  "hamtad": "2026-09-30T04:29:15.481Z",
+  "antal": 149,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -159,28 +159,6 @@
       "installd": false
     },
     {
-      "id": "du-art-night-2026",
-      "titel": "Art Night 2026",
-      "start": "2026-09-03",
-      "slut": "2026-12-03",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/art-night-2026/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
       "id": "du-bara-tva-stjarnor",
       "titel": "Bara två stjärnor",
       "start": "2026-09-03",
@@ -203,22 +181,22 @@
       "installd": false
     },
     {
-      "id": "du-familjelordagar-pa-uppsala-konstmuseum-2026",
-      "titel": "Familjelördagar på Uppsala Konstmuseum",
-      "start": "2026-09-05",
-      "slut": "2026-12-05",
+      "id": "du-art-night-2026",
+      "titel": "Art Night 2026",
+      "start": "2026-09-03",
+      "slut": "2026-12-03",
       "plats": {
         "namn": "Uppsala konstmuseum",
         "id": "konstmuseum"
       },
-      "kategori": "museum",
+      "kategori": "musik",
       "gratis": null,
-      "barnOchFamilj": true,
+      "barnOchFamilj": false,
       "kallor": [
         {
           "id": "destination-uppsala",
           "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/familjelordagar-pa-uppsala-konstmuseum-2026/"
+          "url": "https://destinationuppsala.se/event/art-night-2026/"
         }
       ],
       "langvarig": true,
@@ -241,6 +219,28 @@
           "id": "destination-uppsala",
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/sebastian-blind-teckningsstipendiat-2026/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "du-familjelordagar-pa-uppsala-konstmuseum-2026",
+      "titel": "Familjelördagar på Uppsala Konstmuseum",
+      "start": "2026-09-05",
+      "slut": "2026-12-05",
+      "plats": {
+        "namn": "Uppsala konstmuseum",
+        "id": "konstmuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/familjelordagar-pa-uppsala-konstmuseum-2026/"
         }
       ],
       "langvarig": true,
@@ -354,29 +354,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "du-fyris-comedy-stand-up-med-ozz-nujen",
-      "titel": "Fyris Comedy – Stand up med Özz Nûjen + support",
-      "start": "2026-09-29",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/fyris-comedy-stand-up-med-ozz-nujen/",
-          "arrangor": "http://www.fyriscomedy.com/biljetter"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
@@ -1089,28 +1066,6 @@
       "installd": false
     },
     {
-      "id": "du-hostlovskul-formstarkt-och-eldigt",
-      "titel": "Höstlovskul: Formstarkt och eldigt",
-      "start": "2026-10-24",
-      "slut": "2026-11-01",
-      "plats": {
-        "namn": "Botaniska trädgården",
-        "id": "botaniska"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/hostlovskul-formstarkt-och-eldigt/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
       "id": "du-peter-och-vargen-familjekonsert-med-uppsala-kammarorkester",
       "titel": "Peter och Vargen – Familjekonsert med Uppsala Kammarorkester",
       "start": "2026-10-24",
@@ -1154,6 +1109,28 @@
         }
       ],
       "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-hostlovskul-formstarkt-och-eldigt",
+      "titel": "Höstlovskul: Formstarkt och eldigt",
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Botaniska trädgården",
+        "id": "botaniska"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/hostlovskul-formstarkt-och-eldigt/"
+        }
+      ],
+      "langvarig": true,
       "installd": false
     },
     {
@@ -1843,29 +1820,6 @@
       "installd": false
     },
     {
-      "id": "du-kodjo-akolor-obekvama-sanningar",
-      "titel": "Kodjo Akolor – Obekväma sanningar",
-      "start": "2026-11-17T19:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/kodjo-akolor-obekvama-sanningar/",
-          "arrangor": "http://www.fyriscomedy.com/biljetter"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-13x13-framtidens-energisystem-i-en-komplex-varld",
       "titel": "13×13: Framtidens energisystem i en komplex värld",
       "start": "2026-11-18T18:30:00+01:00",
@@ -2003,29 +1957,6 @@
       "installd": false
     },
     {
-      "id": "du-poste-restante-22-11",
-      "titel": "Poste Restante",
-      "start": "2026-11-22",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/poste-restante-22-11/",
-          "arrangor": "https://www.musikiuppland.se/konsert/poste-restante-22-11/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-fotboll-ik-sirius-djurgardens-if",
       "titel": "Fotboll: IK Sirius – Djurgårdens IF",
       "start": "2026-11-22",
@@ -2043,6 +1974,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/fotboll-ik-sirius-djurgardens-if/",
           "arrangor": "https://www.siriusfotboll.se/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-poste-restante-22-11",
+      "titel": "Poste Restante",
+      "start": "2026-11-22",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/poste-restante-22-11/",
+          "arrangor": "https://www.musikiuppland.se/konsert/poste-restante-22-11/"
         }
       ],
       "langvarig": false,
@@ -2209,52 +2163,6 @@
       "installd": false
     },
     {
-      "id": "du-julmarknad-med-drop-in-vigsel",
-      "titel": "Julmarknad med drop-in-vigsel",
-      "start": "2026-11-28T11:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Solglimtsparken & Hospitalet",
-        "id": "du-plats-solglimtsparken-hospitalet"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/julmarknad-med-drop-in-vigsel/",
-          "arrangor": "https://bygg.uppsala.se/planerade-omraden/ulleraker/om-ulleraker/evenemang/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-historisk-julmarknad-i-gamla-uppsala-2026",
-      "titel": "Historisk julmarknad i Gamla Uppsala 2026",
-      "start": "2026-11-28T11:00:00+01:00",
-      "slut": "2026-11-29",
-      "plats": {
-        "namn": "Gamla Uppsala museum",
-        "id": "gamlauppsalamuseum"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/historisk-julmarknad-i-gamla-uppsala-2026/",
-          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/gum/historisk-julmarknad26/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-julmarknad-pa-chokladfabriken-2026",
       "titel": "Julmarknad på chokladfabriken 2026",
       "start": "2026-11-28T11:00:00+01:00",
@@ -2272,6 +2180,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/julmarknad-pa-chokladfabriken-2026/",
           "arrangor": "https://fb.me/e/6n1b9Rebj"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-julmarknad-med-drop-in-vigsel",
+      "titel": "Julmarknad med drop-in-vigsel",
+      "start": "2026-11-28T11:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Solglimtsparken & Hospitalet",
+        "id": "du-plats-solglimtsparken-hospitalet"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/julmarknad-med-drop-in-vigsel/",
+          "arrangor": "https://bygg.uppsala.se/planerade-omraden/ulleraker/om-ulleraker/evenemang/"
         }
       ],
       "langvarig": false,

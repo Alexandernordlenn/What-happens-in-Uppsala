@@ -1,7 +1,7 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-09-29T04:33:04.108Z",
+  "hamtad": "2026-09-30T04:33:15.296Z",
   "antal": 151,
   "evenemang": [
     {
@@ -213,7 +213,7 @@
     },
     {
       "id": "sport-profixio-32636864",
-      "titel": "Sloga Uppsala – Köping Stars Basketförening",
+      "titel": "Sloga Uppsala – Köping Stars",
       "start": "2026-10-09T19:04:00+02:00",
       "slut": null,
       "plats": {
@@ -374,7 +374,7 @@
     },
     {
       "id": "sport-profixio-32682416",
-      "titel": "Uppsala Basket – Östersunds Basketklubb (dam)",
+      "titel": "Uppsala Basket – Östersund Basket (dam)",
       "start": "2026-10-17T15:00:00+02:00",
       "slut": null,
       "plats": {
@@ -1386,7 +1386,7 @@
     },
     {
       "id": "sport-profixio-32636916",
-      "titel": "Uppsala Basket – Köping Stars Basketförening",
+      "titel": "Uppsala Basket – Köping Stars",
       "start": "2026-11-22T19:04:00+01:00",
       "slut": null,
       "plats": {
@@ -1501,7 +1501,7 @@
     },
     {
       "id": "sport-profixio-32682445",
-      "titel": "Uppsala Basket – Pirates Basketball (dam)",
+      "titel": "Uppsala Basket – Onsala Pirates (dam)",
       "start": "2026-11-29T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -1823,7 +1823,7 @@
     },
     {
       "id": "sport-profixio-32682458",
-      "titel": "Uppsala Basket – Luleå BBK (dam)",
+      "titel": "Uppsala Basket – Luleå Basket (dam)",
       "start": "2026-12-13T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -2191,7 +2191,7 @@
     },
     {
       "id": "sport-profixio-32636956",
-      "titel": "Uppsala Basket – Köping Stars Basketförening",
+      "titel": "Uppsala Basket – Köping Stars",
       "start": "2027-01-09T17:04:00+01:00",
       "slut": null,
       "plats": {
@@ -2536,7 +2536,7 @@
     },
     {
       "id": "sport-profixio-32682493",
-      "titel": "Uppsala Basket – Alviks Basketbollklubb (dam)",
+      "titel": "Uppsala Basket – Alvik Basket (dam)",
       "start": "2027-01-30T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -2789,7 +2789,7 @@
     },
     {
       "id": "sport-profixio-32636999",
-      "titel": "Sloga Uppsala – Köping Stars Basketförening",
+      "titel": "Sloga Uppsala – Köping Stars",
       "start": "2027-02-13T17:04:00+01:00",
       "slut": null,
       "plats": {

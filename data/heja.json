@@ -1,32 +1,9 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-09-29T04:32:00.872Z",
+  "hamtad": "2026-09-30T04:32:14.477Z",
   "antal": 454,
   "evenemang": [
-    {
-      "id": "heja-katarina-jagellonica-sept-2026",
-      "titel": "Utställn: Katarina Jagellonica i Domkyrkan",
-      "start": "2026-05-08",
-      "slut": "2026-09-30",
-      "plats": {
-        "namn": "Uppsala domkyrka",
-        "id": "domkyrkan"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/katarina-jagellonica-sept-2026/",
-          "arrangor": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/utstallning-om-katarina-jagellonica-visas-hela-sommaren"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
     {
       "id": "heja-katarina-jagellonica-okt-2026",
       "titel": "Utställn: Katarina Jagellonica i Domkyrkan",
@@ -71,6 +48,29 @@
         }
       ],
       "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "heja-katarina-jagellonica-sept-2026",
+      "titel": "Utställn: Katarina Jagellonica i Domkyrkan",
+      "start": "2026-05-08T08:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala domkyrka",
+        "id": "domkyrkan"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/katarina-jagellonica-sept-2026/",
+          "arrangor": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/utstallning-om-katarina-jagellonica-visas-hela-sommaren"
+        }
+      ],
+      "langvarig": false,
       "installd": false
     },
     {
@@ -171,8 +171,8 @@
       "start": "2026-09-24",
       "slut": "2026-10-04",
       "plats": {
-        "namn": "Galleri Brink, Storgatan 23 c, Uppsala",
-        "id": "heja-plats-galleri-brink-storgatan-23-c-uppsala"
+        "namn": "Galleri Brink",
+        "id": "heja-plats-galleri-brink"
       },
       "kategori": "museum",
       "gratis": null,
@@ -186,122 +186,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "heja-jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-3",
-      "titel": "Jazzlunch på Katalins Bakficka 29/9",
-      "start": "2026-09-29T11:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-3/",
-          "arrangor": "https://www.katalin.com/events/jazzlunch-med-claes-janson-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-forfattarbesok-noah-van-dorpel-2026",
-      "titel": "Författarbesök: Noah van Dorpel",
-      "start": "2026-09-29T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/forfattarbesok-noah-van-dorpel-2026/",
-          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/364d9e95-fa07-46b4-bfc1-34de668972b9?location=Stadsbiblioteket&tag=F%C3%B6rfattarbes%C3%B6k"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-resandefolkets-hogtidsdag",
-      "titel": "Resandefolkets högtidsdag",
-      "start": "2026-09-29T18:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Kulturpunkten, Gottsunda",
-        "id": "kulturpunkten",
-        "rum": "Gottsunda kulturhus"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/resandefolkets-hogtidsdag/",
-          "arrangor": "https://www.facebook.com/events/2268717557003933/?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22edit_dialog%22%7D]%2C%22ref_notif_type%22%3Anull%7D"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-fyris-comedy-med-ozz-nujen-2026",
-      "titel": "Fyris Comedy med Özz Nûjen",
-      "start": "2026-09-29T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/fyris-comedy-med-ozz-nujen-2026/",
-          "arrangor": "https://www.fyriscomedy.com/biljetter"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-klubb-uffe-ward-hayden-the-outliers-2026",
-      "titel": "Klubb Uffe – Ward Hayden & The Outliers",
-      "start": "2026-09-29T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/klubb-uffe-ward-hayden-the-outliers-2026/",
-          "arrangor": "https://secure.tickster.com/sv/v06clb3zngk00z2/products"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
@@ -378,8 +262,7 @@
       "slut": null,
       "plats": {
         "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth",
-        "rum": "Norbyvägen 26"
+        "id": "brorhjorth"
       },
       "kategori": "prat",
       "gratis": null,
@@ -2077,6 +1960,29 @@
       "installd": false
     },
     {
+      "id": "heja-artist-talk-2026",
+      "titel": "Artist Talk",
+      "start": "2026-10-11T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Litteraturens Hus, Sysslomansgatan 1, Uppsala",
+        "id": "heja-plats-litteraturens-hus-sysslomansgatan-1-uppsala"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/artist-talk-2026/",
+          "arrangor": "https://www.uppsalakonstnarsklubb.se/projekt-och-event/open-call-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-zurich-youth-orchestra-2026",
       "titel": "Zürich Youth Orchestra",
       "start": "2026-10-11T18:00:00+02:00",
@@ -3602,6 +3508,52 @@
       "installd": false
     },
     {
+      "id": "heja-digital-skattjakt-2026",
+      "titel": "Digital skattjakt",
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Klosterparken",
+        "id": "heja-plats-klosterparken"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/digital-skattjakt-2026/",
+          "arrangor": "https://uppsalacity.se/musse-helium-digital-skattjakt/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "heja-pumpatavling-i-city-2026",
+      "titel": "Pumpatävling i city",
+      "start": "2026-10-24",
+      "slut": "2026-10-31",
+      "plats": {
+        "namn": "City",
+        "id": "heja-plats-city"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/pumpatavling-i-city-2026/",
+          "arrangor": "https://uppsalacity.se/pumpatavling-i-city/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
       "id": "heja-retro-antikmassa-2026-2",
       "titel": "Retro- & Antikmässa",
       "start": "2026-10-24T10:00:00+02:00",
@@ -3686,6 +3638,29 @@
           "id": "heja",
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/pigment-precision-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-pimpa-pumpan-2026",
+      "titel": "Pimpa pumpan",
+      "start": "2026-10-24T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Celsiustorget",
+        "id": "heja-plats-celsiustorget"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/pimpa-pumpan-2026/",
+          "arrangor": "https://uppsalacity.se/pimpa-pumpan/"
         }
       ],
       "langvarig": false,
@@ -9689,6 +9664,29 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/molly-hammar/",
           "arrangor": "https://ukk.se/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-tommy-korberg-ukk-2027",
+      "titel": "Tommy Körberg",
+      "start": "2027-02-12",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/tommy-korberg-ukk-2027/",
+          "arrangor": "https://secure.tickster.com/sv/rtat7ch8y7zgugl/selectproductgroup"
         }
       ],
       "langvarig": false,

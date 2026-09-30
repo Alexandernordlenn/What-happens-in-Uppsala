@@ -1,276 +1,9 @@
 {
   "kalla": "Bibliotek Uppsala",
   "webbsida": "https://bibliotekuppsala.se/evenemang",
-  "hamtad": "2026-09-29T04:29:37.483Z",
-  "antal": 515,
+  "hamtad": "2026-09-30T04:30:27.814Z",
+  "antal": 505,
   "evenemang": [
-    {
-      "id": "bibliotek-faae6a5a-57b3-4ceb-b33c-8c5e595573d4",
-      "titel": "Öppen föräldragrupp",
-      "start": "2026-09-29T10:00:00+02:00",
-      "slut": "2026-09-29T11:00:00+02:00",
-      "plats": {
-        "namn": "Storvretabiblioteket",
-        "id": "bibliotek-storvretabiblioteket"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/faae6a5a-57b3-4ceb-b33c-8c5e595573d4"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-3165a8e0-6035-42cd-a4dd-b1ed1d9c45bc",
-      "titel": "Inställt: Sagostund på svenska för barn 1–3 år",
-      "start": "2026-09-29T10:30:00+02:00",
-      "slut": "2026-09-29T11:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Barnavdelningen Läsfabriken"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        1,
-        3
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/3165a8e0-6035-42cd-a4dd-b1ed1d9c45bc"
-        }
-      ],
-      "langvarig": false,
-      "installd": true
-    },
-    {
-      "id": "bibliotek-12fc2ddf-0497-4539-bf99-9e8df215999c",
-      "titel": "Språkträning på svenska för kvinnor",
-      "start": "2026-09-29T12:00:00+02:00",
-      "slut": "2026-09-29T12:30:00+02:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket",
-        "rum": "Temaverkstan"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/12fc2ddf-0497-4539-bf99-9e8df215999c"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-f97cc8c9-a851-4601-9479-cf08eb7c966d",
-      "titel": "Viktiga samtal: Anknytning och relationsmönster genom livet",
-      "start": "2026-09-29T14:00:00+02:00",
-      "slut": "2026-09-29T15:30:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Mallas sal"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/f97cc8c9-a851-4601-9479-cf08eb7c966d"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-dd93fe20-b314-40e2-9c5b-73403aab0797",
-      "titel": "Ungdomszon",
-      "start": "2026-09-29T16:00:00+02:00",
-      "slut": "2026-09-29T17:30:00+02:00",
-      "plats": {
-        "namn": "Sävjabiblioteket",
-        "id": "bibliotek-sävjabiblioteket"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        13,
-        19
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/dd93fe20-b314-40e2-9c5b-73403aab0797"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-80e71f33-a5fc-48c5-aaac-5b67f39beb7a",
-      "titel": "Ung bokcirkel tisdagar",
-      "start": "2026-09-29T17:00:00+02:00",
-      "slut": "2026-09-29T18:30:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Konferensrummet"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        13,
-        19
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/80e71f33-a5fc-48c5-aaac-5b67f39beb7a"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-8bbe974b-c953-466f-a302-d3318bde30ce",
-      "titel": "Tyst bokcirkel",
-      "start": "2026-09-29T17:00:00+02:00",
-      "slut": "2026-09-29T19:00:00+02:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket",
-        "rum": "Kulturpunkten"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/8bbe974b-c953-466f-a302-d3318bde30ce"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-60acecce-67d0-4f11-be96-854f2f1dc5dd",
-      "titel": "Filosofikafé Tema: Mod",
-      "start": "2026-09-29T17:30:00+02:00",
-      "slut": "2026-09-29T19:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Mallas grupprum"
-      },
-      "kategori": "mat",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/60acecce-67d0-4f11-be96-854f2f1dc5dd"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-cfcce940-0da4-4360-b180-1e202ddb2b0a",
-      "titel": "Från scen till arkiv: Owe Thörnqvists liv i nytt ljus",
-      "start": "2026-09-29T18:00:00+02:00",
-      "slut": "2026-09-29T19:00:00+02:00",
-      "plats": {
-        "namn": "Fyriskällan",
-        "id": "bibliotek-fyriskällan"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/cfcce940-0da4-4360-b180-1e202ddb2b0a"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-364d9e95-fa07-46b4-bfc1-34de668972b9",
-      "titel": "Författarbesök: Noah van Dorpel",
-      "start": "2026-09-29T18:00:00+02:00",
-      "slut": "2026-09-29T19:30:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Mallas sal"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/364d9e95-fa07-46b4-bfc1-34de668972b9"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "bibliotek-d74b1c37-5e5f-4192-99c2-7f78221545e6",
       "titel": "Babysagostund",
@@ -2403,32 +2136,6 @@
       "installd": false
     },
     {
-      "id": "bibliotek-0c053308-1804-4733-9a74-a58d9408dfac",
-      "titel": "Vernissage: Utställning om barnböckerna om bävern Ottar",
-      "start": "2026-10-10T12:00:00+02:00",
-      "slut": "2026-10-10T14:00:00+02:00",
-      "plats": {
-        "namn": "Storvretabiblioteket",
-        "id": "bibliotek-storvretabiblioteket"
-      },
-      "kategori": "museum",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/0c053308-1804-4733-9a74-a58d9408dfac"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "bibliotek-cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2",
       "titel": "Idde-lördag!",
       "start": "2026-10-10T12:00:00+02:00",
@@ -2449,6 +2156,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-0c053308-1804-4733-9a74-a58d9408dfac",
+      "titel": "Vernissage: Utställning om barnböckerna om bävern Ottar",
+      "start": "2026-10-10T12:00:00+02:00",
+      "slut": "2026-10-10T14:00:00+02:00",
+      "plats": {
+        "namn": "Storvretabiblioteket",
+        "id": "bibliotek-storvretabiblioteket"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/0c053308-1804-4733-9a74-a58d9408dfac"
         }
       ],
       "langvarig": false,
@@ -8254,32 +7987,6 @@
       "installd": false
     },
     {
-      "id": "bibliotek-dc7d4082-3a48-4801-8a29-c2592069c786",
-      "titel": "Bokcirkel torsdagar",
-      "start": "2026-11-12T18:30:00+01:00",
-      "slut": "2026-11-12T19:30:00+01:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/dc7d4082-3a48-4801-8a29-c2592069c786"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "bibliotek-1d83cd39-b2bb-4d82-9a31-ef34a5588055",
       "titel": "Pysselkväll med Lesbiskt rum",
       "start": "2026-11-12T18:30:00+01:00",
@@ -8301,6 +8008,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/1d83cd39-b2bb-4d82-9a31-ef34a5588055"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-dc7d4082-3a48-4801-8a29-c2592069c786",
+      "titel": "Bokcirkel torsdagar",
+      "start": "2026-11-12T18:30:00+01:00",
+      "slut": "2026-11-12T19:30:00+01:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": [
+        18,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/dc7d4082-3a48-4801-8a29-c2592069c786"
         }
       ],
       "langvarig": false,

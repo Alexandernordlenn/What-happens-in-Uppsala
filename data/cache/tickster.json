@@ -1,24 +1,4 @@
 {
-  "https://www.tickster.com/se/sv/events/v06clb3zngk00z2/2026-09-29/ward-hayden-and-the-outliers-klubb-uffe": {
-    "titel": "Ward Hayden & The Outliers - Klubb Uffe",
-    "start": "2026-09-29T20:00:00",
-    "slut": "2026-09-29T23:00:00",
-    "platsId": "08109wbnt3jawkn",
-    "plats": "Katalin, Uppsala",
-    "ort": "Uppsala",
-    "lat": 59.8621,
-    "lng": 17.6523,
-    "taggar": [
-      "katalinuppsala",
-      "katalinsbakficka",
-      "katalinandallthatjazz"
-    ],
-    "arrangorId": "nbgw5rza2z1e9xu",
-    "arrangor": "Katalin",
-    "kop": "https://secure.tickster.com/sv/v06clb3zngk00z2",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/79vbn2md60wwgvn/2026-09-30/tanter-pa-rymmen": {
     "titel": "Tanter på rymmen",
     "start": "2026-09-30T18:00:00",
@@ -569,22 +549,6 @@
     "arrangorId": "htbttn2u7176vyh",
     "arrangor": "Candyrock Live&Loud",
     "kop": "https://secure.tickster.com/sv/pdm9n77v6cn2w73",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/wfeezykm0tu9xn7/2026-10-08/melodiquizet-8-10": {
-    "titel": "Melodiquizet 8/10",
-    "start": "2026-10-08T19:00:00",
-    "slut": "2026-10-08T21:00:00",
-    "platsId": "wxmp1b47cy963m5",
-    "plats": "Blackbird",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "vj827hxvpnhn8re",
-    "arrangor": "Jacke Sjödin",
-    "kop": "https://secure.tickster.com/sv/wfeezykm0tu9xn7",
     "status": "",
     "hamtad": "2026-09-24"
   },
@@ -3870,6 +3834,22 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/tj424z35xyaz0w6/2026-11-21/200-dagars-glow": {
+    "titel": "200 DAGARS - GLOW!",
+    "start": "2026-11-21T22:00:00",
+    "slut": "2026-11-22T03:00:00",
+    "platsId": "1b94mfu23n2gve4",
+    "plats": "Birgerjarl Nattklubb",
+    "ort": "Uppsala",
+    "lat": 59.8542,
+    "lng": 17.6377,
+    "taggar": [],
+    "arrangorId": "yep02nby8epf9td",
+    "arrangor": "Birgerjarl",
+    "kop": "https://secure.tickster.com/sv/tj424z35xyaz0w6",
+    "status": "",
+    "hamtad": "2026-09-30"
+  },
   "https://www.tickster.com/se/sv/events/cxjuc093yvbnyul/2026-11-22/poste-restante-22-11": {
     "titel": "Poste Restante 22/11",
     "start": "2026-11-22T16:00:00",
@@ -6720,6 +6700,28 @@
     "kop": "https://secure.tickster.com/sv/ct9zd81m1hbgwbv",
     "status": "",
     "hamtad": "2026-09-29"
+  },
+  "https://www.tickster.com/se/sv/events/2clj75545wcx9tw/2027-05-18/flustret-studentskiva-lundellska-celsius-18-maj": {
+    "titel": "FLUSTRET - STUDENTSKIVA LUNDELLSKA CELSIUS 18 MAJ",
+    "start": "2027-05-18T21:30:00",
+    "slut": "2027-05-19T02:00:00",
+    "platsId": "zdg5wnnb2fv7y63",
+    "plats": "Flustret",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "uppsala",
+      "studentskiva",
+      "nattklubb",
+      "flustret",
+      "18"
+    ],
+    "arrangorId": "jj4714e98nnl9cz",
+    "arrangor": "Flustret",
+    "kop": "https://secure.tickster.com/sv/2clj75545wcx9tw",
+    "status": "",
+    "hamtad": "2026-09-30"
   },
   "https://www.tickster.com/se/sv/events/gcb7dbrzft6zzkd/2027-05-19/flustret-studentskiva-celsius-19-maj": {
     "titel": "FLUSTRET - STUDENTSKIVA CELSIUS 19 MAJ",
