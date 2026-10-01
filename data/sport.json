@@ -1,32 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-09-30T04:33:15.296Z",
-  "antal": 151,
+  "hamtad": "2026-10-01T04:34:19.869Z",
+  "antal": 150,
   "evenemang": [
-    {
-      "id": "sport-swehockey-90131040",
-      "titel": "Almtuna IS – Södertälje SK",
-      "start": "2026-09-30T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Gränby ishall",
-        "id": "granbyishall"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-profixio-32636858",
       "titel": "Uppsala Basket – Högsbo Basket",

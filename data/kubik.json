@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-09-30T04:32:31.523Z",
-  "antal": 248,
+  "hamtad": "2026-10-01T04:33:35.861Z",
+  "antal": 260,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -2267,62 +2267,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-sagostund-graenby-allaktivitetshus-2026-09-30-1000",
-      "titel": "Sagostund på Gränby allaktivitetshus",
-      "plats": {
-        "namn": "Gränby allaktivitetshus",
-        "id": "granbyallaktivitetshus"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        4
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-graenby-allaktivitetshus/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-09-30T10:00:00+02:00",
-      "slut": "2026-09-30T10:30:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-visning-foer-foeraeldralediga-sexuell-maangfald-i-naturen-hur-goer-djur-2026-09-30-1300",
-      "titel": "Visning för föräldralediga: Sexuell mångfald i naturen - hur gör djur?",
-      "plats": {
-        "namn": "Evolutionsmuseet Zoologi",
-        "id": "kubik-plats-evolutionsmuseet-zoologi"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        99
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/visning-foer-foeraeldralediga-sexuell-maangfald-i-naturen-hur-goer-djur/",
-          "arrangor": "https://www.uu.se/evolutionsmuseet/kalendarium/arkiv/2026-09-30-visning-for-foraldralediga-sexuell-mangfald-i-naturen---hur-gor-djur"
-        }
-      ],
-      "installd": false,
-      "start": "2026-09-30T13:00:00+02:00",
-      "slut": "2026-09-30T14:00:00+02:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-babyrytmik-ht-2026-2026-10-01-1000",
       "titel": "Babyrytmik",
       "plats": {
@@ -2769,6 +2713,34 @@
       "langvarig": false
     },
     {
+      "id": "kubik-barnrytmik-3-5-aaringar-2026-10-06-1500",
+      "titel": "Barnrytmik 3-5 åringar",
+      "plats": {
+        "namn": "Kulturpunkten, Gottsunda",
+        "id": "kulturpunkten"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        6
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/barnrytmik-3-5-aaringar/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-06T15:00:00+02:00",
+      "slut": "2026-10-06T15:30:00+02:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-bokklubb-laesfabriken-ht26-2026-10-06-1600",
       "titel": "Bokklubb på Läsfabriken",
       "plats": {
@@ -2992,6 +2964,34 @@
       "langvarig": false
     },
     {
+      "id": "kubik-schackturnering-2026-10-10-1000",
+      "titel": "Schackturnering",
+      "plats": {
+        "namn": "Matsalen, Gottsundaskolan",
+        "id": "kubik-plats-matsalen-gottsundaskolan"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/schackturnering/",
+          "arrangor": "https://docs.google.com/forms/d/e/1FAIpQLSc2KMuLyiNiJ5x3lVXOr8jJhEoMvRlx0LcjYKzuD60lr148cQ/viewform"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-10T10:00:00+02:00",
+      "slut": "2026-10-10T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-banned-books-2026-10-10-1300",
       "titel": "Banned books-festival med barnteater",
       "plats": {
@@ -3101,6 +3101,34 @@
       "installd": false,
       "start": "2026-10-10T13:00:00+02:00",
       "slut": "2026-10-10T16:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-poesi-pizza-2026-10-10-1400",
+      "titel": "Poesi & Pizza",
+      "plats": {
+        "namn": "Litteraturens Hus",
+        "id": "kubik-plats-litteraturens-hus"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        16,
+        25
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/poesi-pizza/",
+          "arrangor": "https://fb.me/e/7eXy0Xhb4"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-10T14:00:00+02:00",
+      "slut": "2026-10-10T18:00:00+02:00",
       "langvarig": false
     },
     {
@@ -3660,6 +3688,34 @@
       "langvarig": false
     },
     {
+      "id": "kubik-barnrytmik-3-5-aaringar-2026-10-20-1500",
+      "titel": "Barnrytmik 3-5 åringar",
+      "plats": {
+        "namn": "Kulturpunkten, Gottsunda",
+        "id": "kulturpunkten"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        6
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/barnrytmik-3-5-aaringar/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-20T15:00:00+02:00",
+      "slut": "2026-10-20T15:30:00+02:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-bokklubb-10-13-aar-2026-10-20-1600",
       "titel": "Bokklubb 10–13 år",
       "plats": {
@@ -3911,6 +3967,64 @@
       "langvarig": false
     },
     {
+      "id": "kubik-digital-skattjakt-med-musse-helium",
+      "titel": "Digital skattjakt med Musse & Helium",
+      "plats": {
+        "namn": "Uppsala city",
+        "id": "kubik-plats-uppsala-city"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        15
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/digital-skattjakt-med-musse-helium/",
+          "arrangor": "https://uppsalacity.se/musse-helium-digital-skattjakt/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "notering": "Återkommande, kl. 10:00–17:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-pumpataevling-roesta-paa-din-favorit",
+      "titel": "Pumpatävling - Rösta på din favorit",
+      "plats": {
+        "namn": "Uppsala city",
+        "id": "kubik-plats-uppsala-city"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/pumpataevling-roesta-paa-din-favorit/",
+          "arrangor": "https://uppsalacity.se/halloween/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-24",
+      "slut": "2026-10-31",
+      "notering": "Återkommande, kl. 10:00–23:59. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
       "id": "kubik-aterbruksverkstad-paa-hoestlovet",
       "titel": "Återbruksverkstad på Höstlovet",
       "plats": {
@@ -3993,6 +4107,34 @@
       "installd": false,
       "start": "2026-10-24T12:00:00+02:00",
       "slut": "2026-10-24T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-pimpa-pumpan-2026-10-24-1200",
+      "titel": "Pimpa pumpan",
+      "plats": {
+        "namn": "Celsiustorget",
+        "id": "kubik-plats-celsiustorget"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/pimpa-pumpan/",
+          "arrangor": "https://uppsalacity.se/pimpa-pumpan/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-24T12:00:00+02:00",
+      "slut": "2026-10-24T16:00:00+02:00",
       "langvarig": false
     },
     {
@@ -4162,6 +4304,35 @@
       "start": "2026-10-26",
       "slut": "2026-10-30",
       "notering": "Återkommande, kl. 09:00–14:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-fotbollslaeger-med-gfc-foer-dig-mellan-9-14-aar",
+      "titel": "Fotbollsläger med GFC - för dig mellan 9-14 år!",
+      "plats": {
+        "namn": "Gottsunda Allaktivitetshus (Idrottshallen, Gottsundaskolan)",
+        "id": "kubik-plats-gottsunda-allaktivitetshus-idrottshallen-gottsundaskolan-"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        15
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fotbollslaeger-med-gfc-foer-dig-mellan-9-14-aar/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/gottsunda-allaktivitetshus/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26",
+      "slut": "2026-10-30",
+      "notering": "Återkommande, kl. 10:00–14:30. Se Kubik för vilka dagar.",
       "langvarig": true
     },
     {
@@ -4803,6 +4974,34 @@
       "langvarig": false
     },
     {
+      "id": "kubik-bowling-med-vattholma-fritidsgaard-2026-10-30-1700",
+      "titel": "Bowling med Vattholma fritidsgård!",
+      "plats": {
+        "namn": "Vattholma fritidsgård",
+        "id": "kubik-plats-vattholma-fritidsgård"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "norra-land",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/bowling-med-vattholma-fritidsgaard/",
+          "arrangor": "https://www.instagram.com/vattholmaftg/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-30T17:00:00+01:00",
+      "slut": "2026-10-30T18:00:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-brasmys-vid-ostbergstorpet-2026-10-31-1030",
       "titel": "Brasmys vid Östbergstorpet",
       "plats": {
@@ -4828,6 +5027,34 @@
       "installd": false,
       "start": "2026-10-31T10:30:00+01:00",
       "slut": "2026-10-31T13:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-halloween-paa-saevja-4h-gaard-1-2026-10-31-1100",
+      "titel": "Halloween på Sävja 4H-gård",
+      "plats": {
+        "namn": "Sävja 4H-gård",
+        "id": "kubik-plats-sävja-4h-gård"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/halloween-paa-saevja-4h-gaard-1/",
+          "arrangor": "https://www.facebook.com/events/s/halloweenevent-pa-savja-4h-gar/1051263267618727/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-31T11:00:00+01:00",
+      "slut": "2026-10-31T15:00:00+01:00",
       "langvarig": false
     },
     {
@@ -4939,6 +5166,34 @@
       "installd": false,
       "start": "2026-11-01T14:30:00+01:00",
       "slut": "2026-11-01T15:45:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-barnrytmik-3-5-aaringar-2026-11-03-1500",
+      "titel": "Barnrytmik 3-5 åringar",
+      "plats": {
+        "namn": "Kulturpunkten, Gottsunda",
+        "id": "kulturpunkten"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        6
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/barnrytmik-3-5-aaringar/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-03T15:00:00+01:00",
+      "slut": "2026-11-03T15:30:00+01:00",
       "langvarig": false
     },
     {
@@ -5527,6 +5782,34 @@
       "installd": false,
       "start": "2026-11-17T10:30:00+01:00",
       "slut": "2026-11-17T11:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-barnrytmik-3-5-aaringar-2026-11-17-1500",
+      "titel": "Barnrytmik 3-5 åringar",
+      "plats": {
+        "namn": "Kulturpunkten, Gottsunda",
+        "id": "kulturpunkten"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        6
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/barnrytmik-3-5-aaringar/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-17T15:00:00+01:00",
+      "slut": "2026-11-17T15:30:00+01:00",
       "langvarig": false
     },
     {
@@ -6229,6 +6512,34 @@
       "langvarig": false
     },
     {
+      "id": "kubik-barnrytmik-3-5-aaringar-2026-12-01-1500",
+      "titel": "Barnrytmik 3-5 åringar",
+      "plats": {
+        "namn": "Kulturpunkten, Gottsunda",
+        "id": "kulturpunkten"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        6
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/barnrytmik-3-5-aaringar/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-01T15:00:00+01:00",
+      "slut": "2026-12-01T15:30:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-sagostund-graenby-allaktivitetshus-2026-12-02-1000",
       "titel": "Sagostund på Gränby allaktivitetshus",
       "plats": {
@@ -6814,6 +7125,34 @@
       "installd": false,
       "start": "2026-12-13T15:00:00+01:00",
       "slut": "2026-12-13T15:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-barnrytmik-3-5-aaringar-2026-12-15-1500",
+      "titel": "Barnrytmik 3-5 åringar",
+      "plats": {
+        "namn": "Kulturpunkten, Gottsunda",
+        "id": "kulturpunkten"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        6
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/barnrytmik-3-5-aaringar/",
+          "arrangor": "http://www.bibliotekuppsala.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-12-15T15:00:00+01:00",
+      "slut": "2026-12-15T15:30:00+01:00",
       "langvarig": false
     },
     {

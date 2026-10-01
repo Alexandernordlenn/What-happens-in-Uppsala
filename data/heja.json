@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-09-30T04:32:14.477Z",
-  "antal": 454,
+  "hamtad": "2026-10-01T04:33:18.870Z",
+  "antal": 449,
   "evenemang": [
     {
       "id": "heja-katarina-jagellonica-okt-2026",
@@ -48,29 +48,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "heja-katarina-jagellonica-sept-2026",
-      "titel": "Utställn: Katarina Jagellonica i Domkyrkan",
-      "start": "2026-05-08T08:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala domkyrka",
-        "id": "domkyrkan"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/katarina-jagellonica-sept-2026/",
-          "arrangor": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/utstallning-om-katarina-jagellonica-visas-hela-sommaren"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
@@ -186,141 +163,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "heja-hans-olov-oberg-2026",
-      "titel": "Författarbesök: Hans-Olov Öberg",
-      "start": "2026-09-30T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/hans-olov-oberg-2026/",
-          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/58f5728c-3342-47cb-b3a3-4cadb991f602?location=Stadsbiblioteket&tag=F%C3%B6rfattarbes%C3%B6k"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-javla-karlar-ukk-30-sept-2026",
-      "titel": "Jävla karlar – Extraföreställning",
-      "start": "2026-09-30T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/javla-karlar-ukk-30-sept-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-almtuna-sodertalje-30-sept-2026",
-      "titel": "Almtuna-Södertälje",
-      "start": "2026-09-30T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Gränby ishall",
-        "id": "granbyishall"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/almtuna-sodertalje-30-sept-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-pricken-i-hagalund",
-      "titel": "Pricken i Hagalund",
-      "start": "2026-09-30T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/pricken-i-hagalund/",
-          "arrangor": "https://billetto.se/e/pricken-i-hagalund-om-konstnaren-olle-olsson-biljetter-1989510"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-eps-trailer-park-jazzbaren-2026",
-      "titel": "EP´s Trailer Park",
-      "start": "2026-09-30T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/eps-trailer-park-jazzbaren-2026/",
-          "arrangor": "https://secure.tickster.com/sv/jr4txvmazazebt3/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-hast-the-kaliber-room-2026",
-      "titel": "Häst",
-      "start": "2026-09-30T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/hast-the-kaliber-room-2026/"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
@@ -4437,6 +4279,29 @@
       "installd": false
     },
     {
+      "id": "heja-halloween-pa-odinsborg-2026",
+      "titel": "Halloween på Odinsborg",
+      "start": "2026-10-31",
+      "slut": "2026-11-06",
+      "plats": {
+        "namn": "Odinsborg Restaurang & Café",
+        "id": "heja-plats-odinsborg-restaurang-caf-"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/halloween-pa-odinsborg-2026/",
+          "arrangor": "https://www.odinsborg.nu/middag-med-andarna/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
       "id": "heja-oktoberstamman-2026-31-okt-ukk",
       "titel": "Oktoberstämman",
       "start": "2026-10-31T12:00:00+01:00",
@@ -5252,6 +5117,29 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/linnekvintetten-40-ar-2026/",
           "arrangor": "https://secure.tickster.com/sv/drhyu0rfv9lfk7r/seating"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-konsert-med-uak-och-expecto-2026",
+      "titel": "Konsert med UAK och Expecto",
+      "start": "2026-11-08T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/konsert-med-uak-och-expecto-2026/",
+          "arrangor": "https://billetto.se/e/karlekstrassel-biljetter-2021252?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=2"
         }
       ],
       "langvarig": false,
