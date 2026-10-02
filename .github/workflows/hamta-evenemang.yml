@@ -27,6 +27,7 @@ jobs:
     timeout-minutes: 90 # Första körningen läser alla evenemangssidor, runt 35 minuter.
     env:
       SVK_API_KEY: ${{ secrets.SVK_API_KEY }}
+      TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
       FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
     steps:
       - name: Hämta koden
@@ -86,6 +87,13 @@ jobs:
         continue-on-error: true
         run: npm run hamta:sport
 
+      - name: Ticketmaster
+        id: ticketmaster
+        # Hoppas över tills hemligheten TICKETMASTER_API_KEY finns.
+        if: env.TICKETMASTER_API_KEY != ''
+        continue-on-error: true
+        run: npm run hamta:ticketmaster
+
       - name: Bygg filen som sidan läser (data/sida.json)
         id: sida
         continue-on-error: true
@@ -124,6 +132,7 @@ jobs:
                        "Heja Uppsala:${{ steps.heja.outcome }}" \
                        "Kubik Uppsala:${{ steps.kubik.outcome }}" \
                        "Sport:${{ steps.sport.outcome }}" \
+                       "Ticketmaster:${{ steps.ticketmaster.outcome }}" \
                        "Sidans fil:${{ steps.sida.outcome }}"; do
             namn="${kalla%%:*}"; utfall="${kalla#*:}"
             echo "$namn: ${utfall:-hoppades över}"

@@ -1,0 +1,476 @@
+{
+ "_kommentar": "Påhittad exempeldata i samma form som Ticketmasters exempelsvar i dokumentationen.",
+ "_embedded": {
+  "events": [
+   {
+    "name": "Påhittad konsert på Katalin",
+    "type": "event",
+    "id": "A1",
+    "test": false,
+    "url": "https://www.ticketmaster.se/event/A1",
+    "locale": "en-us",
+    "sales": {
+     "public": {
+      "startDateTime": "2015-10-02T11:00:00Z",
+      "startTBD": false,
+      "endDateTime": "2016-03-06T23:00:00Z"
+     }
+    },
+    "dates": {
+     "start": {
+      "localDate": "2026-10-10",
+      "localTime": "20:00:00",
+      "dateTime": "2026-10-10T18:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "Europe/Stockholm",
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "x",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "y",
+       "name": "Rock"
+      },
+      "subGenre": {
+       "id": "z",
+       "name": "Other"
+      }
+     }
+    ],
+    "promoter": {
+     "id": "682"
+    },
+    "_links": {
+     "self": {
+      "href": "/discovery/v2/events/vvG1VZKS5pr1qy?locale=en-us"
+     },
+     "attractions": [
+      {
+       "href": "/discovery/v2/attractions/K8vZ917uc57?locale=en-us"
+      }
+     ],
+     "venues": [
+      {
+       "href": "/discovery/v2/venues/KovZpZAaEldA?locale=en-us"
+      }
+     ]
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Katalin",
+       "type": "venue",
+       "id": "VA1",
+       "test": false,
+       "locale": "en-us",
+       "timezone": "Europe/Stockholm",
+       "city": {
+        "name": "Uppsala"
+       },
+       "country": {
+        "name": "Sweden",
+        "countryCode": "SE"
+       },
+       "location": {
+        "latitude": "59.8621",
+        "longitude": "17.6523"
+       },
+       "_links": {
+        "self": {
+         "href": "/discovery/v2/venues/KovZpZAaEldA?locale=en-us"
+        }
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Påhittad familjeshow 3-7 år",
+    "type": "event",
+    "id": "A2",
+    "test": false,
+    "url": "https://www.ticketmaster.se/event/A2",
+    "locale": "en-us",
+    "sales": {
+     "public": {
+      "startDateTime": "2015-10-02T11:00:00Z",
+      "startTBD": false,
+      "endDateTime": "2016-03-06T23:00:00Z"
+     }
+    },
+    "dates": {
+     "start": {
+      "localDate": "2026-11-01",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": true,
+      "noSpecificTime": false
+     },
+     "timezone": "Europe/Stockholm",
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "x",
+       "name": "Arts & Theatre"
+      },
+      "genre": {
+       "id": "y",
+       "name": "Family"
+      },
+      "subGenre": {
+       "id": "z",
+       "name": "Other"
+      }
+     }
+    ],
+    "promoter": {
+     "id": "682"
+    },
+    "_links": {
+     "self": {
+      "href": "/discovery/v2/events/vvG1VZKS5pr1qy?locale=en-us"
+     },
+     "attractions": [
+      {
+       "href": "/discovery/v2/attractions/K8vZ917uc57?locale=en-us"
+      }
+     ],
+     "venues": [
+      {
+       "href": "/discovery/v2/venues/KovZpZAaEldA?locale=en-us"
+      }
+     ]
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Fyrishov",
+       "type": "venue",
+       "id": "VA2",
+       "test": false,
+       "locale": "en-us",
+       "timezone": "Europe/Stockholm",
+       "city": {
+        "name": "Uppsala"
+       },
+       "country": {
+        "name": "Sweden",
+        "countryCode": "SE"
+       },
+       "location": {
+        "latitude": "59.8702",
+        "longitude": "17.6245"
+       },
+       "_links": {
+        "self": {
+         "href": "/discovery/v2/venues/KovZpZAaEldA?locale=en-us"
+        }
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Påhittat evenemang i Knivsta",
+    "type": "event",
+    "id": "A3",
+    "test": false,
+    "url": "https://www.ticketmaster.se/event/A3",
+    "locale": "en-us",
+    "sales": {
+     "public": {
+      "startDateTime": "2015-10-02T11:00:00Z",
+      "startTBD": false,
+      "endDateTime": "2016-03-06T23:00:00Z"
+     }
+    },
+    "dates": {
+     "start": {
+      "localDate": "2026-10-12",
+      "localTime": "19:00:00",
+      "dateTime": "2026-10-12T17:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "Europe/Stockholm",
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "x",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "y",
+       "name": "Pop"
+      },
+      "subGenre": {
+       "id": "z",
+       "name": "Other"
+      }
+     }
+    ],
+    "promoter": {
+     "id": "682"
+    },
+    "_links": {
+     "self": {
+      "href": "/discovery/v2/events/vvG1VZKS5pr1qy?locale=en-us"
+     },
+     "attractions": [
+      {
+       "href": "/discovery/v2/attractions/K8vZ917uc57?locale=en-us"
+      }
+     ],
+     "venues": [
+      {
+       "href": "/discovery/v2/venues/KovZpZAaEldA?locale=en-us"
+      }
+     ]
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Knivsta kulturhus",
+       "type": "venue",
+       "id": "VA3",
+       "test": false,
+       "locale": "en-us",
+       "timezone": "Europe/Stockholm",
+       "city": {
+        "name": "Knivsta"
+       },
+       "country": {
+        "name": "Sweden",
+        "countryCode": "SE"
+       },
+       "location": {
+        "latitude": "59.7254",
+        "longitude": "17.7869"
+       },
+       "_links": {
+        "self": {
+         "href": "/discovery/v2/venues/KovZpZAaEldA?locale=en-us"
+        }
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Påhittad inställd festival",
+    "type": "event",
+    "id": "A4",
+    "test": false,
+    "url": "https://www.ticketmaster.se/event/A4",
+    "locale": "en-us",
+    "sales": {
+     "public": {
+      "startDateTime": "2015-10-02T11:00:00Z",
+      "startTBD": false,
+      "endDateTime": "2016-03-06T23:00:00Z"
+     }
+    },
+    "dates": {
+     "start": {
+      "localDate": "2026-10-20",
+      "localTime": "18:00:00",
+      "dateTime": "2026-10-20T16:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "Europe/Stockholm",
+     "status": {
+      "code": "cancelled"
+     }
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "x",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "y",
+       "name": "Dance/Electronic"
+      },
+      "subGenre": {
+       "id": "z",
+       "name": "Other"
+      }
+     }
+    ],
+    "promoter": {
+     "id": "682"
+    },
+    "_links": {
+     "self": {
+      "href": "/discovery/v2/events/vvG1VZKS5pr1qy?locale=en-us"
+     },
+     "attractions": [
+      {
+       "href": "/discovery/v2/attractions/K8vZ917uc57?locale=en-us"
+      }
+     ],
+     "venues": [
+      {
+       "href": "/discovery/v2/venues/KovZpZAaEldA?locale=en-us"
+      }
+     ]
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Studenternas IP",
+       "type": "venue",
+       "id": "VA4",
+       "test": false,
+       "locale": "en-us",
+       "timezone": "Europe/Stockholm",
+       "city": {
+        "name": "Uppsala"
+       },
+       "country": {
+        "name": "Sweden",
+        "countryCode": "SE"
+       },
+       "location": {
+        "latitude": "59.8517",
+        "longitude": "17.6456"
+       },
+       "_links": {
+        "self": {
+         "href": "/discovery/v2/venues/KovZpZAaEldA?locale=en-us"
+        }
+       }
+      }
+     ]
+    }
+   },
+   {
+    "name": "Testevenemang",
+    "type": "event",
+    "id": "A5",
+    "test": true,
+    "url": "https://www.ticketmaster.se/event/A5",
+    "locale": "en-us",
+    "sales": {
+     "public": {
+      "startDateTime": "2015-10-02T11:00:00Z",
+      "startTBD": false,
+      "endDateTime": "2016-03-06T23:00:00Z"
+     }
+    },
+    "dates": {
+     "start": {
+      "localDate": "2026-10-21",
+      "localTime": "18:00:00",
+      "dateTime": "2026-10-21T16:00:00Z",
+      "dateTBD": false,
+      "dateTBA": false,
+      "timeTBA": false,
+      "noSpecificTime": false
+     },
+     "timezone": "Europe/Stockholm",
+     "status": {
+      "code": "onsale"
+     }
+    },
+    "classifications": [
+     {
+      "primary": true,
+      "segment": {
+       "id": "x",
+       "name": "Music"
+      },
+      "genre": {
+       "id": "y",
+       "name": "Rock"
+      },
+      "subGenre": {
+       "id": "z",
+       "name": "Other"
+      }
+     }
+    ],
+    "promoter": {
+     "id": "682"
+    },
+    "_links": {
+     "self": {
+      "href": "/discovery/v2/events/vvG1VZKS5pr1qy?locale=en-us"
+     },
+     "attractions": [
+      {
+       "href": "/discovery/v2/attractions/K8vZ917uc57?locale=en-us"
+      }
+     ],
+     "venues": [
+      {
+       "href": "/discovery/v2/venues/KovZpZAaEldA?locale=en-us"
+      }
+     ]
+    },
+    "_embedded": {
+     "venues": [
+      {
+       "name": "Katalin",
+       "type": "venue",
+       "id": "VA5",
+       "test": false,
+       "locale": "en-us",
+       "timezone": "Europe/Stockholm",
+       "city": {
+        "name": "Uppsala"
+       },
+       "country": {
+        "name": "Sweden",
+        "countryCode": "SE"
+       },
+       "location": {
+        "latitude": "59.8621",
+        "longitude": "17.6523"
+       },
+       "_links": {
+        "self": {
+         "href": "/discovery/v2/venues/KovZpZAaEldA?locale=en-us"
+        }
+       }
+      }
+     ]
+    }
+   }
+  ]
+ },
+ "page": {
+  "size": 200,
+  "totalElements": 5,
+  "totalPages": 1,
+  "number": 0
+ }
+}

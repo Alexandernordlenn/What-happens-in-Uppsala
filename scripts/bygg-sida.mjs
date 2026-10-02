@@ -23,6 +23,7 @@ export const KALLOR = [
   { id: "kubik", bokstav: "u" },
   { id: "svenska-kyrkan", bokstav: "k" },
   { id: "destination-uppsala", bokstav: "d" },
+  { id: "ticketmaster", bokstav: "m" },
   { id: "heja", bokstav: "h" },
   { id: "tickster", bokstav: "t" },
 ];

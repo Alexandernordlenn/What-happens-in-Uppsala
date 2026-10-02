@@ -41,7 +41,7 @@ index.html läser data/sida.json i besökarens webbläsare
 
 ## Källor
 
-Åtta källor är byggda: Tickster, Destination Uppsala, Heja Uppsala, Uppsala stadsteater, Bibliotek Uppsala, Kubik Uppsala, förbund och ligor (sport) och Svenska kyrkan. Svenska kyrkan väntar på att nyckeln läggs in.
+Nio källor är byggda: Tickster, Destination Uppsala, Heja Uppsala, Uppsala stadsteater, Bibliotek Uppsala, Kubik Uppsala, förbund och ligor (sport), Svenska kyrkan och Ticketmaster. Svenska kyrkan och Ticketmaster väntar på att nycklarna läggs in.
 
 - Hur varje källa hämtas och status: se avsnittet "Hämtningarna" i [`CLAUDE.md`](CLAUDE.md).
 - Alla källor i Uppsala och vilka API:er som ska begäras: [`KALLOR.md`](KALLOR.md).
@@ -76,4 +76,5 @@ npm run bygg:sida  # bygger data/sida.json
 API-nycklar skrivs aldrig i koden. De sparas som hemligheter i GitHub (*Settings → Secrets and variables → Actions*):
 
 - `SVK_API_KEY`: Svenska kyrkans nyckel
+- `TICKETMASTER_API_KEY`: Ticketmasters nyckel
 - `FIREBASE_SERVICE_ACCOUNT`: Firebase, när det är inställt
