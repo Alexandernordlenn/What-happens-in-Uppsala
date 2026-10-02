@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-01T04:33:35.861Z",
-  "antal": 260,
+  "hamtad": "2026-10-02T04:32:58.404Z",
+  "antal": 259,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -2267,90 +2267,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-babyrytmik-ht-2026-2026-10-01-1000",
-      "titel": "Babyrytmik",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        4
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/babyrytmik-ht-2026/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-10-01T10:00:00+02:00",
-      "slut": "2026-10-01T11:00:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-torsdagsbibblan-2026-10-01-1500",
-      "titel": "Torsdagsbibblan",
-      "plats": {
-        "namn": "Gottsundabiblioteket, temaverkstaden",
-        "id": "kubik-plats-gottsundabiblioteket-temaverkstaden"
-      },
-      "kategori": "museum",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        5,
-        12
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagsbibblan/",
-          "arrangor": "https://bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-10-01T15:00:00+02:00",
-      "slut": "2026-10-01T16:00:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-torsdagshaeng-2026-10-01-1600",
-      "titel": "Torsdagshäng!",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "museum",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        12
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagshaeng/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-10-01T16:00:00+02:00",
-      "slut": "2026-10-01T17:00:00+02:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-hoeglaesning-paa-svenska-2026-10-02-1400",
       "titel": "Högläsning på svenska",
       "plats": {
@@ -4365,6 +4281,35 @@
       "langvarig": true
     },
     {
+      "id": "kubik-pop-up-med-gottsunda-allaktivitetshus",
+      "titel": "Pop Up med Gottsunda Allaktivitetshus",
+      "plats": {
+        "namn": "Gottsunda Allaktivitetshus",
+        "id": "kubik-plats-gottsunda-allaktivitetshus"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        5,
+        18
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/pop-up-med-gottsunda-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/gottsunda-allaktivitetshus/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26",
+      "slut": "2026-10-29",
+      "notering": "Återkommande, kl. 12:30–15:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
       "id": "kubik-katarina-jagellonica-500-aar-2026-10-26-1000",
       "titel": "Katarina Jagellonica 500 år",
       "plats": {
@@ -4607,6 +4552,34 @@
       "installd": false,
       "start": "2026-10-28T09:00:00+01:00",
       "slut": "2026-10-28T14:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-brunch-i-gottsunda-allaktivitetshus-2026-10-28-1000",
+      "titel": "Brunch i Gottsunda Allaktivitetshus",
+      "plats": {
+        "namn": "Lilla Matsalen, Gottsunda Allaktivitetshus",
+        "id": "kubik-plats-lilla-matsalen-gottsunda-allaktivitetshus"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/brunch-i-gottsunda-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/gottsunda-allaktivitetshus/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-28T10:00:00+01:00",
+      "slut": "2026-10-28T12:00:00+01:00",
       "langvarig": false
     },
     {

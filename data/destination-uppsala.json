@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-01T04:30:00.708Z",
-  "antal": 147,
+  "hamtad": "2026-10-02T04:29:15.030Z",
+  "antal": 148,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -159,28 +159,6 @@
       "installd": false
     },
     {
-      "id": "du-bara-tva-stjarnor",
-      "titel": "Bara två stjärnor",
-      "start": "2026-09-03",
-      "slut": "2026-10-22",
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/bara-tva-stjarnor/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
       "id": "du-art-night-2026",
       "titel": "Art Night 2026",
       "start": "2026-09-03",
@@ -197,6 +175,28 @@
           "id": "destination-uppsala",
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/art-night-2026/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "du-bara-tva-stjarnor",
+      "titel": "Bara två stjärnor",
+      "start": "2026-09-03",
+      "slut": "2026-10-22",
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bara-tva-stjarnor/"
         }
       ],
       "langvarig": true,
@@ -352,29 +352,6 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/uppsala-arkitekturdagar/",
           "arrangor": "https://www.uppsala.se/arkitekturdagar"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-javla-karlar",
-      "titel": "Jävla karlar",
-      "start": "2026-10-01T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/javla-karlar/",
-          "arrangor": "https://ukk.se/javla-karlar/"
         }
       ],
       "langvarig": false,
@@ -652,6 +629,28 @@
         }
       ],
       "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-vem-blir-du-interaktiv-konstutstallning-med-carl-larsson",
+      "titel": "VEM BLIR DU? – Interaktiv konstutställning med Carl Larsson",
+      "start": "2026-10-14",
+      "slut": "2027-06-30",
+      "plats": {
+        "namn": "Cube of Art",
+        "id": "cube"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/vem-blir-du-interaktiv-konstutstallning-med-carl-larsson/"
+        }
+      ],
+      "langvarig": true,
       "installd": false
     },
     {
@@ -997,29 +996,6 @@
       "installd": false
     },
     {
-      "id": "du-fotboll-ik-sirius-aik",
-      "titel": "Fotboll: IK Sirius – AIK",
-      "start": "2026-10-24",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/fotboll-ik-sirius-aik/",
-          "arrangor": "https://www.siriusfotboll.se/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-peter-och-vargen-familjekonsert-med-uppsala-kammarorkester",
       "titel": "Peter och Vargen – Familjekonsert med Uppsala Kammarorkester",
       "start": "2026-10-24",
@@ -1037,6 +1013,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/peter-och-vargen-familjekonsert-med-uppsala-kammarorkester/",
           "arrangor": "https://www.musikiuppland.se/konsert/familjekonsert-peter-och-vargen/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-fotboll-ik-sirius-aik",
+      "titel": "Fotboll: IK Sirius – AIK",
+      "start": "2026-10-24",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/fotboll-ik-sirius-aik/",
+          "arrangor": "https://www.siriusfotboll.se/"
         }
       ],
       "langvarig": false,
@@ -1180,6 +1179,28 @@
       "installd": false
     },
     {
+      "id": "du-doktor-glas",
+      "titel": "Doktor Glas",
+      "start": "2026-10-28",
+      "slut": "2026-10-31",
+      "plats": {
+        "namn": "Den Lilla Teatern",
+        "id": "lillateatern"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/doktor-glas/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
       "id": "du-terra-2",
       "titel": "Terra – extrakonsert",
       "start": "2026-10-28",
@@ -1200,28 +1221,6 @@
         }
       ],
       "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-doktor-glas",
-      "titel": "Doktor Glas",
-      "start": "2026-10-28",
-      "slut": "2026-10-31",
-      "plats": {
-        "namn": "Den Lilla Teatern",
-        "id": "lillateatern"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/doktor-glas/"
-        }
-      ],
-      "langvarig": true,
       "installd": false
     },
     {
@@ -1291,6 +1290,28 @@
         }
       ],
       "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-halloween-pa-odinsborg",
+      "titel": "Halloween på Odinsborg",
+      "start": "2026-10-30",
+      "slut": "2026-11-06",
+      "plats": {
+        "namn": "Odinsborg",
+        "id": "du-plats-odinsborg"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/halloween-pa-odinsborg/"
+        }
+      ],
+      "langvarig": true,
       "installd": false
     },
     {
@@ -1545,29 +1566,6 @@
       "installd": false
     },
     {
-      "id": "du-jag-ar-carola-en-musikalisk-livsberattelse",
-      "titel": "Jag är Carola – en musikalisk livsberättelse",
-      "start": "2026-11-08",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/jag-ar-carola-en-musikalisk-livsberattelse/",
-          "arrangor": "https://ukk.se/jag-ar-carola-en-musikalisk-unik-livsberattelse/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-museidagen-2026",
       "titel": "Museidagen 2026",
       "start": "2026-11-08",
@@ -1585,6 +1583,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/museidagen-2026/",
           "arrangor": "https://uppsalasmuseer.se/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-jag-ar-carola-en-musikalisk-livsberattelse",
+      "titel": "Jag är Carola – en musikalisk livsberättelse",
+      "start": "2026-11-08",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/jag-ar-carola-en-musikalisk-livsberattelse/",
+          "arrangor": "https://ukk.se/jag-ar-carola-en-musikalisk-unik-livsberattelse/"
         }
       ],
       "langvarig": false,
@@ -1889,29 +1910,6 @@
       "installd": false
     },
     {
-      "id": "du-fotboll-ik-sirius-djurgardens-if",
-      "titel": "Fotboll: IK Sirius – Djurgårdens IF",
-      "start": "2026-11-22",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/fotboll-ik-sirius-djurgardens-if/",
-          "arrangor": "https://www.siriusfotboll.se/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-poste-restante-22-11",
       "titel": "Poste Restante",
       "start": "2026-11-22",
@@ -1929,6 +1927,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/poste-restante-22-11/",
           "arrangor": "https://www.musikiuppland.se/konsert/poste-restante-22-11/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-fotboll-ik-sirius-djurgardens-if",
+      "titel": "Fotboll: IK Sirius – Djurgårdens IF",
+      "start": "2026-11-22",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/fotboll-ik-sirius-djurgardens-if/",
+          "arrangor": "https://www.siriusfotboll.se/"
         }
       ],
       "langvarig": false,
@@ -2095,6 +2116,29 @@
       "installd": false
     },
     {
+      "id": "du-julmarknad-pa-chokladfabriken-2026",
+      "titel": "Julmarknad på chokladfabriken 2026",
+      "start": "2026-11-28T11:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Vegan Delights",
+        "id": "du-plats-vegan-delights"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/julmarknad-pa-chokladfabriken-2026/",
+          "arrangor": "https://fb.me/e/6n1b9Rebj"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "du-julmarknad-med-drop-in-vigsel",
       "titel": "Julmarknad med drop-in-vigsel",
       "start": "2026-11-28T11:00:00+01:00",
@@ -2135,29 +2179,6 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/historisk-julmarknad-i-gamla-uppsala-2026/",
           "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/gum/historisk-julmarknad26/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-julmarknad-pa-chokladfabriken-2026",
-      "titel": "Julmarknad på chokladfabriken 2026",
-      "start": "2026-11-28T11:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Vegan Delights",
-        "id": "du-plats-vegan-delights"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/julmarknad-pa-chokladfabriken-2026/",
-          "arrangor": "https://fb.me/e/6n1b9Rebj"
         }
       ],
       "langvarig": false,

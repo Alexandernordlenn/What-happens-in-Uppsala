@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-10-01T04:33:18.870Z",
-  "antal": 449,
+  "hamtad": "2026-10-02T04:32:41.410Z",
+  "antal": 451,
   "evenemang": [
     {
       "id": "heja-katarina-jagellonica-okt-2026",
@@ -51,10 +51,10 @@
       "installd": false
     },
     {
-      "id": "heja-visning-walmstedtska-garden-2-2-2-2-2-2-2-2-2-2",
+      "id": "heja-visning-walmstedtska-garden-oktober-2026",
       "titel": "Visning: Walmstedtska gården",
       "start": "2026-07-04",
-      "slut": "2026-10-31",
+      "slut": "2026-10-04",
       "plats": {
         "namn": "Upplandsmuseet",
         "id": "upplandsmuseet"
@@ -66,7 +66,76 @@
         {
           "id": "heja",
           "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-2-2-2-2-2-2-2-2-2-2/",
+          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026/",
+          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "heja-visning-walmstedtska-garden-oktober-2026-2",
+      "titel": "Visning: Walmstedtska gården",
+      "start": "2026-07-04",
+      "slut": "2026-10-11",
+      "plats": {
+        "namn": "Upplandsmuseet",
+        "id": "upplandsmuseet"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026-2/",
+          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "heja-visning-walmstedtska-garden-oktober-2026-2-2",
+      "titel": "Visning: Walmstedtska gården",
+      "start": "2026-07-04",
+      "slut": "2026-10-18",
+      "plats": {
+        "namn": "Upplandsmuseet",
+        "id": "upplandsmuseet"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026-2-2/",
+          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "heja-visning-walmstedtska-garden-oktober-2026-2-2-2",
+      "titel": "Visning: Walmstedtska gården",
+      "start": "2026-07-04",
+      "slut": "2026-10-25",
+      "plats": {
+        "namn": "Upplandsmuseet",
+        "id": "upplandsmuseet"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026-2-2-2/",
           "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
         }
       ],
@@ -188,186 +257,6 @@
       "installd": false
     },
     {
-      "id": "heja-devils-cigarette-kaliber-room-2026",
-      "titel": "Devils Cigarette",
-      "start": "2026-10-01",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/devils-cigarette-kaliber-room-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-art-night-2026-2-2-2",
-      "titel": "Art Night på Uppsala konstmuseum",
-      "start": "2026-10-01T17:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/art-night-2026-2-2-2/",
-          "arrangor": "https://konstmuseum.uppsala.se/kalendarium/art-night2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-kreativ-verkstad-2026-2",
-      "titel": "Kreativ verkstad",
-      "start": "2026-10-01T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrisgården",
-        "id": "heja-plats-fyrisgården"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/kreativ-verkstad-2026-2/",
-          "arrangor": "https://fyrisgarden.se/aktivitet/kreativ-verkstad/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-forfattarbesok-leif-zern-och-ulrika-knutson-2026",
-      "titel": "Författarbesök: Leif Zern och Ulrika Knutson",
-      "start": "2026-10-01T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/forfattarbesok-leif-zern-och-ulrika-knutson-2026/",
-          "arrangor": "https://link.webropolsurveys.com/EP/6EF883D3C11C4CB4"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-kaliber-quiz-1-okt-2026",
-      "titel": "Kaliber Quiz",
-      "start": "2026-10-01T18:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/kaliber-quiz-1-okt-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-javla-karlar-ukk",
-      "titel": "Jävla karlar",
-      "start": "2026-10-01T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/javla-karlar-ukk/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-marten-andersson-cvetkovic-ukk-2026",
-      "titel": "Mårten Cvetkovic 2",
-      "start": "2026-10-01T19:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/marten-andersson-cvetkovic-ukk-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-jelly-crystal",
-      "titel": "Jelly Crystal",
-      "start": "2026-10-01T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/jelly-crystal/",
-          "arrangor": "https://secure.tickster.com/sv/9bmdfr9genug6h5/selectproductgroup"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "heja-skaldjurshelger-i-uppsala-saluhall-2026-2",
       "titel": "Skaldjurshelger i Uppsala Saluhall",
       "start": "2026-10-02",
@@ -385,6 +274,29 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/skaldjurshelger-i-uppsala-saluhall-2026-2/",
           "arrangor": "http://www.svenssonskrogar.se/evenemang/skaldjurshelger-i-uppsala-saluhall-2026"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-laga-mat-pa-stekhall",
+      "titel": "Laga mat på stekhäll",
+      "start": "2026-10-02T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Nåntuna Lund 15",
+        "id": "heja-plats-nåntuna-lund-15"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/laga-mat-pa-stekhall/",
+          "arrangor": "https://ellesutemat.se/utematlagningkurs-stekhall/"
         }
       ],
       "langvarig": false,
@@ -1407,6 +1319,29 @@
           "id": "heja",
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/arena-loppis-life-arena-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-banned-book-festival-10-okt-202",
+      "titel": "Banned Books Festival",
+      "start": "2026-10-10T11:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsbibliotek",
+        "id": "heja-plats-uppsala-stadsbibliotek"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/banned-book-festival-10-okt-202/",
+          "arrangor": "https://bannedbooksfestival.se"
         }
       ],
       "langvarig": false,
@@ -2852,6 +2787,29 @@
       "installd": false
     },
     {
+      "id": "heja-jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2-2-2",
+      "titel": "Jazzlunch på Katalins Bakficka 20/10",
+      "start": "2026-10-20T11:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2-2-2/",
+          "arrangor": "https://www.katalin.com/events/jazzlunch-med-dr-rulles-jazzklinik-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-lisa-nilsson-moter-bohuslan-big-band-ukk-2026",
       "titel": "Lisa Nilsson möter Bohuslän Big Band – UKK – 2026",
       "start": "2026-10-20T19:30:00+02:00",
@@ -2869,6 +2827,29 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/lisa-nilsson-moter-bohuslan-big-band-ukk-2026/",
           "arrangor": "https://secure.tickster.com/sv/rwau01hbcanpumf/eventsaleclosed"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-otto-tribute-till-toto-2026",
+      "titel": "OTTO – Tribute till TOTO",
+      "start": "2026-10-20T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/otto-tribute-till-toto-2026/",
+          "arrangor": "https://secure.tickster.com/sv/u51tcb05ahpfgth/products"
         }
       ],
       "langvarig": false,
@@ -3849,6 +3830,29 @@
       "installd": false
     },
     {
+      "id": "heja-jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2-2-2-2",
+      "titel": "Jazzlunch på Katalins Bakficka 27/10",
+      "start": "2026-10-27T11:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2-2-2-2/",
+          "arrangor": "https://www.katalin.com/events/jazzlunch-med-jazzviolinisten-gunnar-lidbergs-kvartett/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-fyris-comedy-johanna-wagrell-2026",
       "titel": "Fyris Comedy-Johanna Wagrell",
       "start": "2026-10-27T19:00:00+01:00",
@@ -4501,6 +4505,29 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/marky-ramones-blitzkrieg-katalin/",
           "arrangor": "https://secure.tickster.com/sv/fc5nge7c565wkby/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-halloween-med-fat-lizzy-2026",
+      "titel": "Halloween med Fat Lizzy",
+      "start": "2026-10-31T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/halloween-med-fat-lizzy-2026/",
+          "arrangor": "https://secure.tickster.com/sv/gg5dvg174ucyu11/products"
         }
       ],
       "langvarig": false,
@@ -7738,6 +7765,29 @@
         }
       ],
       "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-back-to-the-50s-christmas-show-2026",
+      "titel": "Back to the 50s christmas show",
+      "start": "2026-12-04",
+      "slut": "2026-12-12",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/back-to-the-50s-christmas-show-2026/",
+          "arrangor": "https://brakevent.se/julshow-uppsala-2026"
+        }
+      ],
+      "langvarig": true,
       "installd": false
     },
     {

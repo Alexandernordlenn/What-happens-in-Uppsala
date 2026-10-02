@@ -1,302 +1,9 @@
 {
   "kalla": "Bibliotek Uppsala",
   "webbsida": "https://bibliotekuppsala.se/evenemang",
-  "hamtad": "2026-10-01T04:31:25.000Z",
-  "antal": 495,
+  "hamtad": "2026-10-02T04:30:35.552Z",
+  "antal": 484,
   "evenemang": [
-    {
-      "id": "bibliotek-1f92f7fb-39dd-437b-b109-29b2210326c2",
-      "titel": "Babybokis",
-      "start": "2026-10-01T10:00:00+02:00",
-      "slut": "2026-10-01T11:00:00+02:00",
-      "plats": {
-        "namn": "Sävja öppna förskola",
-        "id": "bibliotek-sävja-öppna-förskola"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/1f92f7fb-39dd-437b-b109-29b2210326c2"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-7b425921-d2e1-4e9e-a1b0-948abb6db7b6",
-      "titel": "Babyrytmik",
-      "start": "2026-10-01T10:00:00+02:00",
-      "slut": "2026-10-01T11:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Barnavdelningen Läsfabriken"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/7b425921-d2e1-4e9e-a1b0-948abb6db7b6"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-53a8b371-77b3-4ac1-a61e-b1f89b7fd75a",
-      "titel": "Språkkurs i engelska",
-      "start": "2026-10-01T11:00:00+02:00",
-      "slut": "2026-10-01T12:00:00+02:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket",
-        "rum": "Zoom"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/53a8b371-77b3-4ac1-a61e-b1f89b7fd75a"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-4a22963a-dff7-474b-ae1b-8ca6cef07924",
-      "titel": "Seniordag – fokus hälsa",
-      "start": "2026-10-01T13:00:00+02:00",
-      "slut": "2026-10-01T15:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Mallas sal"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/4a22963a-dff7-474b-ae1b-8ca6cef07924"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-023fd0a4-7102-4773-8ffb-951503eb0fbc",
-      "titel": "Torsdagsbibblan",
-      "start": "2026-10-01T15:00:00+02:00",
-      "slut": "2026-10-01T16:00:00+02:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket",
-        "rum": "Temaverkstan"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/023fd0a4-7102-4773-8ffb-951503eb0fbc"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-2970ad92-2e97-4c69-88a5-c1b1b94277cc",
-      "titel": "Hantverkskafé",
-      "start": "2026-10-01T15:30:00+02:00",
-      "slut": "2026-10-01T17:00:00+02:00",
-      "plats": {
-        "namn": "Sävjabiblioteket",
-        "id": "bibliotek-sävjabiblioteket"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/2970ad92-2e97-4c69-88a5-c1b1b94277cc"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-476c6c2d-08b3-409f-a005-a8b677cfb30c",
-      "titel": "Skapa en tidning!",
-      "start": "2026-10-01T15:30:00+02:00",
-      "slut": "2026-10-01T16:30:00+02:00",
-      "plats": {
-        "namn": "Sävjabiblioteket",
-        "id": "bibliotek-sävjabiblioteket"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/476c6c2d-08b3-409f-a005-a8b677cfb30c"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-3a82ce2d-c9e6-417a-8b23-e8e4c573b717",
-      "titel": "Torsdagshäng",
-      "start": "2026-10-01T16:00:00+02:00",
-      "slut": "2026-10-01T17:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Barnavdelningen Läsfabriken"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/3a82ce2d-c9e6-417a-8b23-e8e4c573b717"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-27e37d14-69c2-49a5-9d0d-6c981d9ca845",
-      "titel": "Inställt: Relationscirkel Funkis",
-      "start": "2026-10-01T17:30:00+02:00",
-      "slut": "2026-10-01T19:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Konferensrummet"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/27e37d14-69c2-49a5-9d0d-6c981d9ca845"
-        }
-      ],
-      "langvarig": false,
-      "installd": true
-    },
-    {
-      "id": "bibliotek-6191c261-ed10-4f67-b6db-17a890dc27e4",
-      "titel": "Leif Zern och Ulrika Knutson",
-      "start": "2026-10-01T18:00:00+02:00",
-      "slut": "2026-10-01T19:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Mallas sal"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/6191c261-ed10-4f67-b6db-17a890dc27e4"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-16ca6a52-56c0-4c4d-8454-bf7dae5818df",
-      "titel": "Bokcirkel: Läs förbjudna böcker",
-      "start": "2026-10-01T18:45:00+02:00",
-      "slut": "2026-10-01T20:00:00+02:00",
-      "plats": {
-        "namn": "Storvretabiblioteket",
-        "id": "bibliotek-storvretabiblioteket"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/16ca6a52-56c0-4c4d-8454-bf7dae5818df"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "bibliotek-1901f13a-ac00-4679-8f91-22d91ef5e7d0",
       "titel": "Sittgympa 65+",
@@ -1869,32 +1576,6 @@
       "installd": false
     },
     {
-      "id": "bibliotek-cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2",
-      "titel": "Idde-lördag!",
-      "start": "2026-10-10T12:00:00+02:00",
-      "slut": "2026-10-10T15:30:00+02:00",
-      "plats": {
-        "namn": "Sävjabiblioteket",
-        "id": "bibliotek-sävjabiblioteket"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "bibliotek-0c053308-1804-4733-9a74-a58d9408dfac",
       "titel": "Vernissage: Utställning om barnböckerna om bävern Ottar",
       "start": "2026-10-10T12:00:00+02:00",
@@ -1915,6 +1596,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/0c053308-1804-4733-9a74-a58d9408dfac"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2",
+      "titel": "Idde-lördag!",
+      "start": "2026-10-10T12:00:00+02:00",
+      "slut": "2026-10-10T15:30:00+02:00",
+      "plats": {
+        "namn": "Sävjabiblioteket",
+        "id": "bibliotek-sävjabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2"
         }
       ],
       "langvarig": false,

@@ -1,33 +1,9 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-10-01T04:29:37.142Z",
-  "antal": 190,
+  "hamtad": "2026-10-02T04:28:53.876Z",
+  "antal": 189,
   "evenemang": [
-    {
-      "id": "stadsteatern-121678",
-      "titel": "Stadens ljus",
-      "start": "2026-10-01T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Stora scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/121678/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "stadsteatern-125947",
       "titel": "Medan vi brinner",
