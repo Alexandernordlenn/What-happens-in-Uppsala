@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-09-27T04:26:49.484Z",
-  "antal": 153,
+  "hamtad": "2026-10-02T04:29:15.030Z",
+  "antal": 148,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -159,28 +159,6 @@
       "installd": false
     },
     {
-      "id": "du-bara-tva-stjarnor",
-      "titel": "Bara två stjärnor",
-      "start": "2026-09-03",
-      "slut": "2026-10-22",
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/bara-tva-stjarnor/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
       "id": "du-art-night-2026",
       "titel": "Art Night 2026",
       "start": "2026-09-03",
@@ -203,22 +181,22 @@
       "installd": false
     },
     {
-      "id": "du-sebastian-blind-teckningsstipendiat-2026",
-      "titel": "Sebastian Blind – Teckningsstipendiat 2026",
-      "start": "2026-09-05",
-      "slut": "2026-10-04",
+      "id": "du-bara-tva-stjarnor",
+      "titel": "Bara två stjärnor",
+      "start": "2026-09-03",
+      "slut": "2026-10-22",
       "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern"
       },
-      "kategori": "museum",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
         {
           "id": "destination-uppsala",
           "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/sebastian-blind-teckningsstipendiat-2026/"
+          "url": "https://destinationuppsala.se/event/bara-tva-stjarnor/"
         }
       ],
       "langvarig": true,
@@ -241,6 +219,28 @@
           "id": "destination-uppsala",
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/familjelordagar-pa-uppsala-konstmuseum-2026/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "du-sebastian-blind-teckningsstipendiat-2026",
+      "titel": "Sebastian Blind – Teckningsstipendiat 2026",
+      "start": "2026-09-05",
+      "slut": "2026-10-04",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/sebastian-blind-teckningsstipendiat-2026/"
         }
       ],
       "langvarig": true,
@@ -313,28 +313,6 @@
       "installd": false
     },
     {
-      "id": "du-sommar-en-musikalmonolog",
-      "titel": "Sommar – en musikalmonolog",
-      "start": "2026-09-24",
-      "slut": "2026-09-30",
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/sommar-en-musikalmonolog/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
       "id": "du-stadens-ljus",
       "titel": "Stadens ljus",
       "start": "2026-09-25",
@@ -357,144 +335,6 @@
       "installd": false
     },
     {
-      "id": "du-babblarna-klonks-klapp-kalas",
-      "titel": "Babblarna & Klonks Klapp-kalas",
-      "start": "2026-09-27T11:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/babblarna-klonks-klapp-kalas/",
-          "arrangor": "https://secure.tickster.com/en/8tly4htu2ynpzuf/selectevent?c=wv20gm4"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-temavisning-50-ar-sedan-uppsala-domkyrkas-restaurering-1971-76",
-      "titel": "Temavisning: 50 år sedan Uppsala domkyrkas restaurering 1971–76",
-      "start": "2026-09-27T12:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala domkyrka",
-        "id": "domkyrkan"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/temavisning-50-ar-sedan-uppsala-domkyrkas-restaurering-1971-76/",
-          "arrangor": "http://www.uppsaladomkyrka.se/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-louisa-lyne-di-yiddishe-kapelye-cohen-in-yiddish",
-      "titel": "Louisa Lyne & di Yiddishe Kapelye – Cohen in Yiddish",
-      "start": "2026-09-27T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/louisa-lyne-di-yiddishe-kapelye-cohen-in-yiddish/",
-          "arrangor": "https://ukk.se/louisa-lyne-di-yiddishe-kapelye/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-fyris-comedy-stand-up-med-ozz-nujen",
-      "titel": "Fyris Comedy – Stand up med Özz Nûjen + support",
-      "start": "2026-09-29",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/fyris-comedy-stand-up-med-ozz-nujen/",
-          "arrangor": "http://www.fyriscomedy.com/biljetter"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-13x13-perovskitsolceller-for-framtidens-solel",
-      "titel": "13×13: Perovskitsolceller för framtidens solel",
-      "start": "2026-09-30T18:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Humanistiska teatern",
-        "id": "humanistiska"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/13x13-perovskitsolceller-for-framtidens-solel/",
-          "arrangor": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-javla-karlar-2",
-      "titel": "Jävla karlar",
-      "start": "2026-09-30T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/javla-karlar-2/",
-          "arrangor": "https://ukk.se/javla-karlar/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-uppsala-arkitekturdagar",
       "titel": "Uppsala arkitekturdagar",
       "start": "2026-10-01",
@@ -512,52 +352,6 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/uppsala-arkitekturdagar/",
           "arrangor": "https://www.uppsala.se/arkitekturdagar"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-javla-karlar",
-      "titel": "Jävla karlar",
-      "start": "2026-10-01T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/javla-karlar/",
-          "arrangor": "https://ukk.se/javla-karlar/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-marten-andersson-cvetkovic-osvensk",
-      "titel": "Mårten Andersson Cvetkovic – Osvensk?",
-      "start": "2026-10-01T19:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/marten-andersson-cvetkovic-osvensk/",
-          "arrangor": "https://ukk.se/marten-andersson-cvetkovic-osvensk/"
         }
       ],
       "langvarig": false,
@@ -838,6 +632,28 @@
       "installd": false
     },
     {
+      "id": "du-vem-blir-du-interaktiv-konstutstallning-med-carl-larsson",
+      "titel": "VEM BLIR DU? – Interaktiv konstutställning med Carl Larsson",
+      "start": "2026-10-14",
+      "slut": "2027-06-30",
+      "plats": {
+        "namn": "Cube of Art",
+        "id": "cube"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/vem-blir-du-interaktiv-konstutstallning-med-carl-larsson/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
       "id": "du-13x13-fran-hamiltons-huvudbry-via-algebra-och-geometri-till-supersymmetri-2",
       "titel": "13×13: Från Hamiltons huvudbry, via algebra och geometri, till supersymmetri",
       "start": "2026-10-14T18:30:00+02:00",
@@ -906,29 +722,6 @@
       "installd": false
     },
     {
-      "id": "du-sa-enkelt-gar-du-ner-10-kg-teater-elin-2",
-      "titel": "”Så enkelt går du ner 10 kg!” – Teater Elin",
-      "start": "2026-10-17",
-      "slut": null,
-      "plats": {
-        "namn": "Språkateatern",
-        "id": "sprakateatern"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/sa-enkelt-gar-du-ner-10-kg-teater-elin-2/",
-          "arrangor": "https://www.teaterelin.com/home2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-uppsala-marathon-2026",
       "titel": "Uppsala Marathon 2026",
       "start": "2026-10-17",
@@ -946,6 +739,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/uppsala-marathon-2026/",
           "arrangor": "https://www.uppsalamarathon.se/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-sa-enkelt-gar-du-ner-10-kg-teater-elin-2",
+      "titel": "”Så enkelt går du ner 10 kg!” – Teater Elin",
+      "start": "2026-10-17",
+      "slut": null,
+      "plats": {
+        "namn": "Språkateatern",
+        "id": "sprakateatern"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/sa-enkelt-gar-du-ner-10-kg-teater-elin-2/",
+          "arrangor": "https://www.teaterelin.com/home2/"
         }
       ],
       "langvarig": false,
@@ -1158,6 +974,28 @@
       "installd": false
     },
     {
+      "id": "du-hostlovskul-formstarkt-och-eldigt",
+      "titel": "Höstlovskul: Formstarkt och eldigt",
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Botaniska trädgården",
+        "id": "botaniska"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/hostlovskul-formstarkt-och-eldigt/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
       "id": "du-peter-och-vargen-familjekonsert-med-uppsala-kammarorkester",
       "titel": "Peter och Vargen – Familjekonsert med Uppsala Kammarorkester",
       "start": "2026-10-24",
@@ -1201,28 +1039,6 @@
         }
       ],
       "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-hostlovskul-formstarkt-och-eldigt",
-      "titel": "Höstlovskul: Formstarkt och eldigt",
-      "start": "2026-10-24",
-      "slut": "2026-11-01",
-      "plats": {
-        "namn": "Botaniska trädgården",
-        "id": "botaniska"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/hostlovskul-formstarkt-och-eldigt/"
-        }
-      ],
-      "langvarig": true,
       "installd": false
     },
     {
@@ -1431,6 +1247,29 @@
       "installd": false
     },
     {
+      "id": "du-terra",
+      "titel": "Terra",
+      "start": "2026-10-29",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/terra/",
+          "arrangor": "https://secure.tickster.com/sv/l2ygdth812avj6e/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "du-viktor-noren-linus-wahlgren-vara-liv-vara-musikaler",
       "titel": "Viktor Norén & Linus Wahlgren – Våra liv, våra musikaler",
       "start": "2026-10-29T19:30:00+01:00",
@@ -1451,6 +1290,28 @@
         }
       ],
       "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-halloween-pa-odinsborg",
+      "titel": "Halloween på Odinsborg",
+      "start": "2026-10-30",
+      "slut": "2026-11-06",
+      "plats": {
+        "namn": "Odinsborg",
+        "id": "du-plats-odinsborg"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/halloween-pa-odinsborg/"
+        }
+      ],
+      "langvarig": true,
       "installd": false
     },
     {
@@ -2164,6 +2025,29 @@
       "installd": false
     },
     {
+      "id": "du-mia-karlsson-coming-home-tour-2026",
+      "titel": "Mia Karlsson – Coming Home Tour 2026",
+      "start": "2026-11-26T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/mia-karlsson-coming-home-tour-2026/",
+          "arrangor": "https://www.kulturaktiebolaget.se/evenemang/coming-home-tour-2026/pin:2026-11-26"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "du-fornuft-och-kansla",
       "titel": "Förnuft och känsla",
       "start": "2026-11-27",
@@ -2255,29 +2139,6 @@
       "installd": false
     },
     {
-      "id": "du-historisk-julmarknad-i-gamla-uppsala-2026",
-      "titel": "Historisk julmarknad i Gamla Uppsala 2026",
-      "start": "2026-11-28T11:00:00+01:00",
-      "slut": "2026-11-29",
-      "plats": {
-        "namn": "Gamla Uppsala museum",
-        "id": "gamlauppsalamuseum"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/historisk-julmarknad-i-gamla-uppsala-2026/",
-          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/gum/historisk-julmarknad26/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-julmarknad-med-drop-in-vigsel",
       "titel": "Julmarknad med drop-in-vigsel",
       "start": "2026-11-28T11:00:00+01:00",
@@ -2295,6 +2156,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/julmarknad-med-drop-in-vigsel/",
           "arrangor": "https://bygg.uppsala.se/planerade-omraden/ulleraker/om-ulleraker/evenemang/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-historisk-julmarknad-i-gamla-uppsala-2026",
+      "titel": "Historisk julmarknad i Gamla Uppsala 2026",
+      "start": "2026-11-28T11:00:00+01:00",
+      "slut": "2026-11-29",
+      "plats": {
+        "namn": "Gamla Uppsala museum",
+        "id": "gamlauppsalamuseum"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/historisk-julmarknad-i-gamla-uppsala-2026/",
+          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/gum/historisk-julmarknad26/"
         }
       ],
       "langvarig": false,

@@ -1,238 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-09-27T04:27:32.732Z",
-  "antal": 345,
+  "hamtad": "2026-10-02T04:30:12.211Z",
+  "antal": 350,
   "evenemang": [
-    {
-      "id": "tickster-cmf926fnc3pr4wh",
-      "titel": "Bj Studentpaket",
-      "start": "2026-09-24T22:00:00+02:00",
-      "slut": "2027-06-11T03:00:00+02:00",
-      "plats": {
-        "namn": "Birger Jarl",
-        "id": "birgerjarl",
-        "lat": 59.8542,
-        "lng": 17.6377
-      },
-      "kategori": "natt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/cmf926fnc3pr4wh/2026-09-24/bj-studentpaket",
-          "biljetter": "https://secure.tickster.com/sv/cmf926fnc3pr4wh"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "tickster-adg56dfbargar04",
-      "titel": "Babblarna & Klonks Klapp-kalas",
-      "start": "2026-09-27T11:00:00+02:00",
-      "slut": "2026-09-27T11:45:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/adg56dfbargar04/2026-09-27/babblarna-and-klonks-klapp-kalas",
-          "biljetter": "https://secure.tickster.com/sv/adg56dfbargar04"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-bvdlkgztwn7w674",
-      "titel": "Babblarna & Klonks Klapp-kalas",
-      "start": "2026-09-27T14:00:00+02:00",
-      "slut": "2026-09-27T14:45:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/bvdlkgztwn7w674/2026-09-27/babblarna-and-klonks-klapp-kalas",
-          "biljetter": "https://secure.tickster.com/sv/bvdlkgztwn7w674"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-td5fdtkmmvfh6cn",
-      "titel": "Sirius vs Hovslätt",
-      "start": "2026-09-27T16:00:00+02:00",
-      "slut": "2026-09-27T18:00:00+02:00",
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu",
-        "lat": 59.882,
-        "lng": 17.6562
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/td5fdtkmmvfh6cn/2026-09-27/sirius-vs-hovslatt",
-          "biljetter": "https://secure.tickster.com/sv/td5fdtkmmvfh6cn"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-abynn6kgtw0c47f",
-      "titel": "Babblarna & Klonks Klapp-kalas",
-      "start": "2026-09-27T16:00:00+02:00",
-      "slut": "2026-09-27T16:45:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/abynn6kgtw0c47f/2026-09-27/babblarna-and-klonks-klapp-kalas",
-          "biljetter": "https://secure.tickster.com/sv/abynn6kgtw0c47f"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-c5pmvhgxdrrryle",
-      "titel": "Louisa Lyne & di Yiddishe Kapelye",
-      "start": "2026-09-27T19:00:00+02:00",
-      "slut": "2026-09-27T20:40:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/c5pmvhgxdrrryle/2026-09-27/louisa-lyne-and-di-yiddishe-kapelye",
-          "biljetter": "https://secure.tickster.com/sv/c5pmvhgxdrrryle"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-v06clb3zngk00z2",
-      "titel": "Ward Hayden & The Outliers - Klubb Uffe",
-      "start": "2026-09-29T20:00:00+02:00",
-      "slut": "2026-09-29T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/v06clb3zngk00z2/2026-09-29/ward-hayden-and-the-outliers-klubb-uffe",
-          "biljetter": "https://secure.tickster.com/sv/v06clb3zngk00z2"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-79vbn2md60wwgvn",
-      "titel": "Tanter på rymmen",
-      "start": "2026-09-30T18:00:00+02:00",
-      "slut": "2026-09-30T19:00:00+02:00",
-      "plats": {
-        "namn": "Kulturpunkten, Gottsunda",
-        "id": "kulturpunkten",
-        "rum": "Gottsunda Centrum"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/79vbn2md60wwgvn/2026-09-30/tanter-pa-rymmen",
-          "biljetter": "https://secure.tickster.com/sv/79vbn2md60wwgvn"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-6y92736wkaa0l1j",
-      "titel": "Jävla karlar",
-      "start": "2026-09-30T19:00:00+02:00",
-      "slut": "2026-09-30T21:15:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/6y92736wkaa0l1j/2026-09-30/javla-karlar",
-          "biljetter": "https://secure.tickster.com/sv/6y92736wkaa0l1j"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "tickster-pjz687vuj4nva61",
       "titel": "SBL Herr Säsongen 26/27",
@@ -256,29 +27,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "tickster-5xxc3hdf9n4ldzm",
-      "titel": "Sopplunch: Värdet av konst",
-      "start": "2026-10-01T12:00:00+02:00",
-      "slut": "2026-10-01T13:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/5xxc3hdf9n4ldzm/2026-10-01/sopplunch-vardet-av-konst",
-          "biljetter": "https://secure.tickster.com/sv/5xxc3hdf9n4ldzm"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
@@ -307,127 +55,6 @@
       "installd": false
     },
     {
-      "id": "tickster-w5w62xctg8f6yg0",
-      "titel": "Workshop: Skapa kollage i textil",
-      "start": "2026-10-01T18:00:00+02:00",
-      "slut": "2026-10-01T20:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/w5w62xctg8f6yg0/2026-10-01/workshop-skapa-kollage-i-textil",
-          "biljetter": "https://secure.tickster.com/sv/w5w62xctg8f6yg0"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-11wtlpjbnh3g7gt",
-      "titel": "Konst och bar: Plats och landskap",
-      "start": "2026-10-01T18:00:00+02:00",
-      "slut": "2026-10-01T20:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/11wtlpjbnh3g7gt/2026-10-01/konst-och-bar-plats-och-landskap",
-          "biljetter": "https://secure.tickster.com/sv/11wtlpjbnh3g7gt"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-ft35bnzyru36p53",
-      "titel": "Jävla karlar",
-      "start": "2026-10-01T19:00:00+02:00",
-      "slut": "2026-10-01T21:15:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/ft35bnzyru36p53/2026-10-01/javla-karlar",
-          "biljetter": "https://secure.tickster.com/sv/ft35bnzyru36p53"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-dm22vrfk24kdkzr",
-      "titel": "Emil Ingmar - Polaroids",
-      "start": "2026-10-01T19:30:00+02:00",
-      "slut": "2026-10-01T22:00:00+02:00",
-      "plats": {
-        "namn": "Blackbird",
-        "id": "blackbird"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/dm22vrfk24kdkzr/2026-10-01/emil-ingmar-polaroids",
-          "biljetter": "https://secure.tickster.com/sv/dm22vrfk24kdkzr"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-kktbwen1vzdxggn",
-      "titel": "Mårten Cvetkovic 2",
-      "start": "2026-10-01T19:30:00+02:00",
-      "slut": "2026-10-01T20:45:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/kktbwen1vzdxggn/2026-10-01/marten-cvetkovic-2",
-          "biljetter": "https://secure.tickster.com/sv/kktbwen1vzdxggn"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "tickster-4gwn6uw3k69d4rl",
       "titel": "Säsongen 2026/27",
       "start": "2026-10-02T14:00:00+02:00",
@@ -450,29 +77,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "tickster-va94ahzgnjk4bel",
-      "titel": "Förhandsvisning/Preview: Eija-Liisa Ahtila",
-      "start": "2026-10-02T17:00:00+02:00",
-      "slut": "2026-10-02T19:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/va94ahzgnjk4bel/2026-10-02/forhandsvisning-preview-eija-liisa-ahtila",
-          "biljetter": "https://secure.tickster.com/sv/va94ahzgnjk4bel"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
@@ -501,29 +105,6 @@
       "installd": false
     },
     {
-      "id": "tickster-cp9h0w9c5rdalm1",
-      "titel": "NISSE HALLBERG - 8 ÅR SENARE",
-      "start": "2026-10-02T20:00:00+02:00",
-      "slut": "2026-10-02T21:30:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/cp9h0w9c5rdalm1/2026-10-02/nisse-hallberg-8-ar-senare",
-          "biljetter": "https://secure.tickster.com/sv/cp9h0w9c5rdalm1"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "tickster-fvh9rnp656jenx4",
       "titel": "Marco Mendoza",
       "start": "2026-10-02T20:00:00+02:00",
@@ -541,6 +122,29 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/fvh9rnp656jenx4/2026-10-02/marco-mendoza",
           "biljetter": "https://secure.tickster.com/sv/fvh9rnp656jenx4"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-cp9h0w9c5rdalm1",
+      "titel": "NISSE HALLBERG - 8 ÅR SENARE",
+      "start": "2026-10-02T20:00:00+02:00",
+      "slut": "2026-10-02T21:30:00+02:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/cp9h0w9c5rdalm1/2026-10-02/nisse-hallberg-8-ar-senare",
+          "biljetter": "https://secure.tickster.com/sv/cp9h0w9c5rdalm1"
         }
       ],
       "langvarig": false,
@@ -911,29 +515,6 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/pdm9n77v6cn2w73/2026-10-08/uppsala-internationella-gitarrfestival-katalin",
           "biljetter": "https://secure.tickster.com/sv/pdm9n77v6cn2w73"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-wfeezykm0tu9xn7",
-      "titel": "Melodiquizet 8/10",
-      "start": "2026-10-08T19:00:00+02:00",
-      "slut": "2026-10-08T21:00:00+02:00",
-      "plats": {
-        "namn": "Blackbird",
-        "id": "blackbird"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/wfeezykm0tu9xn7/2026-10-08/melodiquizet-8-10",
-          "biljetter": "https://secure.tickster.com/sv/wfeezykm0tu9xn7"
         }
       ],
       "langvarig": false,
@@ -2427,6 +2008,58 @@
       "installd": false
     },
     {
+      "id": "tickster-9gd1pwwyfc50fwh",
+      "titel": "Uppsala tillsammans – En glittrande funkisfest",
+      "start": "2026-10-20T15:00:00+02:00",
+      "slut": "2026-10-20T17:00:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8616,
+        "lng": 17.647,
+        "rum": "Sal D (fri sittplats)"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/9gd1pwwyfc50fwh/2026-10-20/uppsala-tillsammans-en-glittrande-funkisfest",
+          "biljetter": "https://secure.tickster.com/sv/9gd1pwwyfc50fwh"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-x2bg4aml16va1p2",
+      "titel": "Uppsala tillsammans – En glittrande funkisfest",
+      "start": "2026-10-20T18:00:00+02:00",
+      "slut": "2026-10-20T20:00:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8616,
+        "lng": 17.647,
+        "rum": "Sal D (fri sittplats)"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/x2bg4aml16va1p2/2026-10-20/uppsala-tillsammans-en-glittrande-funkisfest",
+          "biljetter": "https://secure.tickster.com/sv/x2bg4aml16va1p2"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-rwau01hbcanpumf",
       "titel": "Lisa Nilsson möter Bohuslän Big Band",
       "start": "2026-10-20T19:30:00+02:00",
@@ -3476,6 +3109,31 @@
       "installd": false
     },
     {
+      "id": "tickster-u51tcb05ahpfgth",
+      "titel": "OTTO - Tribute till TOTO",
+      "start": "2026-10-30T20:00:00+01:00",
+      "slut": "2026-10-30T23:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/u51tcb05ahpfgth/2026-10-30/otto-tribute-till-toto",
+          "biljetter": "https://secure.tickster.com/sv/u51tcb05ahpfgth"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-bdhxpyce6rxw2mr",
       "titel": "HALLOWEEN 21+",
       "start": "2026-10-30T22:00:00+01:00",
@@ -3597,6 +3255,31 @@
       "installd": false
     },
     {
+      "id": "tickster-gg5dvg174ucyu11",
+      "titel": "Halloween med Fat Lizzy - Bakfickan",
+      "start": "2026-10-31T20:00:00+01:00",
+      "slut": "2026-10-31T23:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/gg5dvg174ucyu11/2026-10-31/halloween-med-fat-lizzy-bakfickan",
+          "biljetter": "https://secure.tickster.com/sv/gg5dvg174ucyu11"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-tjj3k405nml7l9p",
       "titel": "Halloween - a sweet but psycho night!",
       "start": "2026-10-31T22:00:00+01:00",
@@ -3616,6 +3299,31 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/tjj3k405nml7l9p/2026-10-31/halloween-a-sweet-but-psycho-night",
           "biljetter": "https://secure.tickster.com/sv/tjj3k405nml7l9p"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-kfyfxrah1edy3hn",
+      "titel": "Workshop: Stadskroki",
+      "start": "2026-11-01T13:00:00+01:00",
+      "slut": "2026-11-01T15:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/kfyfxrah1edy3hn/2026-11-01/workshop-stadskroki",
+          "biljetter": "https://secure.tickster.com/sv/kfyfxrah1edy3hn"
         }
       ],
       "langvarig": false,
@@ -4192,6 +3900,31 @@
       "installd": false
     },
     {
+      "id": "tickster-317cpfzb54vve17",
+      "titel": "The DayTrippers – Bakfickan",
+      "start": "2026-11-07T20:00:00+01:00",
+      "slut": "2026-11-07T23:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/317cpfzb54vve17/2026-11-07/the-daytrippers-bakfickan",
+          "biljetter": "https://secure.tickster.com/sv/317cpfzb54vve17"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-g1u3ek9f41t9ke7",
       "titel": "Pussy Riot – Riot Days",
       "start": "2026-11-07T21:30:00+01:00",
@@ -4287,31 +4020,6 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/fncy478lctthnvj/2026-11-08/jag-ar-carola-en-musikalisk-unik-livsberattelse",
           "biljetter": "https://secure.tickster.com/sv/fncy478lctthnvj"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-zwj0zgdxm9jkyjy",
-      "titel": "Jesper Lindell & Brunnsvik Sounds - Klubb Uffe",
-      "start": "2026-11-10T20:00:00+01:00",
-      "slut": "2026-11-10T23:00:00+01:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/zwj0zgdxm9jkyjy/2026-11-10/jesper-lindell-and-brunnsvik-sounds-klubb-uffe",
-          "biljetter": "https://secure.tickster.com/sv/zwj0zgdxm9jkyjy"
         }
       ],
       "langvarig": false,
@@ -5015,6 +4723,84 @@
       "installd": false
     },
     {
+      "id": "tickster-83a2gr80uxzaet2",
+      "titel": "Saffransmysteriet – LasseMajas detektivbyrå",
+      "start": "2026-11-21T11:00:00+01:00",
+      "slut": "2026-11-21T11:45:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/83a2gr80uxzaet2/2026-11-21/saffransmysteriet-lassemajas-detektivbyra",
+          "biljetter": "https://secure.tickster.com/sv/83a2gr80uxzaet2"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-zxtda4nfhuafn6t",
+      "titel": "Saffransmysteriet – LasseMajas detektivbyrå",
+      "start": "2026-11-21T13:00:00+01:00",
+      "slut": "2026-11-21T13:45:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/zxtda4nfhuafn6t/2026-11-21/saffransmysteriet-lassemajas-detektivbyra",
+          "biljetter": "https://secure.tickster.com/sv/zxtda4nfhuafn6t"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-th6r0ntr7lzp04e",
+      "titel": "Saffransmysteriet – LasseMajas detektivbyrå",
+      "start": "2026-11-21T15:00:00+01:00",
+      "slut": "2026-11-21T15:45:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/th6r0ntr7lzp04e/2026-11-21/saffransmysteriet-lassemajas-detektivbyra",
+          "biljetter": "https://secure.tickster.com/sv/th6r0ntr7lzp04e"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-dca4ve7tbt6fapc",
       "titel": "Aron",
       "start": "2026-11-21T19:30:00+01:00",
@@ -5108,6 +4894,31 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/d68bdjx9zu6uh44/2026-11-21/shadows-tribute-katalins-bakficka",
           "biljetter": "https://secure.tickster.com/sv/d68bdjx9zu6uh44"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-tj424z35xyaz0w6",
+      "titel": "200 DAGARS - GLOW!",
+      "start": "2026-11-21T22:00:00+01:00",
+      "slut": "2026-11-22T03:00:00+01:00",
+      "plats": {
+        "namn": "Birger Jarl",
+        "id": "birgerjarl",
+        "lat": 59.8542,
+        "lng": 17.6377
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/tj424z35xyaz0w6/2026-11-21/200-dagars-glow",
+          "biljetter": "https://secure.tickster.com/sv/tj424z35xyaz0w6"
         }
       ],
       "langvarig": false,
@@ -6059,6 +5870,29 @@
       "installd": false
     },
     {
+      "id": "tickster-rxmu5d6epf1512z",
+      "titel": "CARD SUMMIT UPPSALA",
+      "start": "2026-12-05T12:00:00+01:00",
+      "slut": "2026-12-05T17:00:00+01:00",
+      "plats": {
+        "namn": "LIFE ARENA",
+        "id": "tickster-plats-82hj2dkl9916m04"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/rxmu5d6epf1512z/2026-12-05/card-summit-uppsala",
+          "biljetter": "https://secure.tickster.com/sv/rxmu5d6epf1512z"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-49b3lg68zpnvcbn",
       "titel": "Isprinsessan – julbalett med stråkkvartett",
       "start": "2026-12-05T16:00:00+01:00",
@@ -6282,6 +6116,29 @@
       "installd": false
     },
     {
+      "id": "tickster-3t5m7pt0g4yp81p",
+      "titel": "Mats Holmquist och Strix Big Band",
+      "start": "2026-12-09T19:30:00+01:00",
+      "slut": "2026-12-09T22:00:00+01:00",
+      "plats": {
+        "namn": "Blackbird",
+        "id": "blackbird"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/3t5m7pt0g4yp81p/2026-12-09/mats-holmquist-och-strix-big-band",
+          "biljetter": "https://secure.tickster.com/sv/3t5m7pt0g4yp81p"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-c7c2latx1g4m045",
       "titel": "Weeping Willows – Christmas",
       "start": "2026-12-09T19:30:00+01:00",
@@ -6302,29 +6159,6 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/c7c2latx1g4m045/2026-12-09/weeping-willows-christmas",
           "biljetter": "https://secure.tickster.com/sv/c7c2latx1g4m045"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-3t5m7pt0g4yp81p",
-      "titel": "Mats Holmquist och Strix Big Band",
-      "start": "2026-12-09T19:30:00+01:00",
-      "slut": "2026-12-09T22:00:00+01:00",
-      "plats": {
-        "namn": "Blackbird",
-        "id": "blackbird"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/3t5m7pt0g4yp81p/2026-12-09/mats-holmquist-och-strix-big-band",
-          "biljetter": "https://secure.tickster.com/sv/3t5m7pt0g4yp81p"
         }
       ],
       "langvarig": false,
@@ -7087,6 +6921,31 @@
       "installd": false
     },
     {
+      "id": "tickster-g33dw4jtaj92cj3",
+      "titel": "Björnarna, Perkele, Coca Carola & Digging Graves",
+      "start": "2026-12-26T20:00:00+01:00",
+      "slut": "2026-12-26T23:30:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/g33dw4jtaj92cj3/2026-12-26/bjornarna-perkele-coca-carola-and-digging-graves",
+          "biljetter": "https://secure.tickster.com/sv/g33dw4jtaj92cj3"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-dgfjlx3g6fytytn",
       "titel": "Trettondagsafton 2027",
       "start": "2027-01-05T17:00:00+01:00",
@@ -7359,6 +7218,30 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/r0r7g2xf5bgtyjx/2027-01-28/copland-och-beethoven-uppsala-kammarorkester",
           "biljetter": "https://secure.tickster.com/sv/r0r7g2xf5bgtyjx"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-3cfgpfkglbmwxm0",
+      "titel": "Asiatisk middagsupplevelse",
+      "start": "2027-01-29T18:00:00+01:00",
+      "slut": "2027-01-29T22:30:00+01:00",
+      "plats": {
+        "namn": "KAIJA, Stallet",
+        "id": "kaija",
+        "rum": "Stallet"
+      },
+      "kategori": "mat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/3cfgpfkglbmwxm0/2027-01-29/asiatisk-middagsupplevelse",
+          "biljetter": "https://secure.tickster.com/sv/3cfgpfkglbmwxm0"
         }
       ],
       "langvarig": false,
@@ -7822,6 +7705,32 @@
       "installd": false
     },
     {
+      "id": "tickster-mjluje9u10d70ll",
+      "titel": "Tourbjörn – Med Torbjörn Averås Skorup",
+      "start": "2027-02-20T18:00:00+01:00",
+      "slut": "2027-02-20T19:30:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/mjluje9u10d70ll/2027-02-20/tourbjorn-med-torbjorn-averas-skorup",
+          "biljetter": "https://secure.tickster.com/sv/mjluje9u10d70ll"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-30zehcuw46a5ktp",
       "titel": "Nannes Jubileumsshow – Här är jag!",
       "start": "2027-02-20T19:30:00+01:00",
@@ -7874,6 +7783,32 @@
       "installd": false
     },
     {
+      "id": "tickster-k45xdlnljt6c72r",
+      "titel": "Bamse och Sjörövarskatten",
+      "start": "2027-02-21T14:00:00+01:00",
+      "slut": "2027-02-21T14:50:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/k45xdlnljt6c72r/2027-02-21/bamse-och-sjorovarskatten",
+          "biljetter": "https://secure.tickster.com/sv/k45xdlnljt6c72r"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-yrmvpam1jf90v9y",
       "titel": "Klas Kalas – Klas Hallberg best of 30 år på scen",
       "start": "2027-02-24T19:00:00+01:00",
@@ -7894,6 +7829,31 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/yrmvpam1jf90v9y/2027-02-24/klas-kalas-klas-hallberg-best-of-30-ar-pa-scen",
           "biljetter": "https://secure.tickster.com/sv/yrmvpam1jf90v9y"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-zwj0zgdxm9jkyjy",
+      "titel": "Jesper Lindell & Brunnsvik Sounds - Klubb Uffe",
+      "start": "2027-02-24T20:00:00+01:00",
+      "slut": "2027-02-24T23:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/zwj0zgdxm9jkyjy/2027-02-24/jesper-lindell-and-brunnsvik-sounds-klubb-uffe",
+          "biljetter": "https://secure.tickster.com/sv/zwj0zgdxm9jkyjy"
         }
       ],
       "langvarig": false,
@@ -8231,6 +8191,32 @@
       "installd": false
     },
     {
+      "id": "tickster-glhthaghmhtjwfb",
+      "titel": "The Rock Orchestra by Candlelight",
+      "start": "2027-03-24T20:30:00+01:00",
+      "slut": "2027-03-24T22:25:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/glhthaghmhtjwfb/2027-03-24/the-rock-orchestra-by-candlelight",
+          "biljetter": "https://secure.tickster.com/sv/glhthaghmhtjwfb"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-krj9k1l31yja6ny",
       "titel": "BRUNOZ – En konsert med Bruno Mitsogiannis",
       "start": "2027-03-28T16:00:00+02:00",
@@ -8489,6 +8475,100 @@
       "installd": false
     },
     {
+      "id": "tickster-mfjx1dpux41fmva",
+      "titel": "The Orb",
+      "start": "2027-05-08T20:00:00+02:00",
+      "slut": "2027-05-08T22:00:00+02:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/mfjx1dpux41fmva/2027-05-08/the-orb",
+          "biljetter": "https://secure.tickster.com/sv/mfjx1dpux41fmva"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-ct9zd81m1hbgwbv",
+      "titel": "FLUSTRET - STUDENTSKIVA LUNDELLSKA 11 MAJ",
+      "start": "2027-05-11T21:30:00+02:00",
+      "slut": "2027-05-12T02:00:00+02:00",
+      "plats": {
+        "namn": "Flustret",
+        "id": "flustret"
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/ct9zd81m1hbgwbv/2027-05-11/flustret-studentskiva-lundellska-11-maj",
+          "biljetter": "https://secure.tickster.com/sv/ct9zd81m1hbgwbv"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-2clj75545wcx9tw",
+      "titel": "FLUSTRET - STUDENTSKIVA LUNDELLSKA CELSIUS 18 MAJ",
+      "start": "2027-05-18T21:30:00+02:00",
+      "slut": "2027-05-19T02:00:00+02:00",
+      "plats": {
+        "namn": "Flustret",
+        "id": "flustret"
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/2clj75545wcx9tw/2027-05-18/flustret-studentskiva-lundellska-celsius-18-maj",
+          "biljetter": "https://secure.tickster.com/sv/2clj75545wcx9tw"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-gcb7dbrzft6zzkd",
+      "titel": "FLUSTRET - STUDENTSKIVA CELSIUS 19 MAJ",
+      "start": "2027-05-19T21:30:00+02:00",
+      "slut": "2027-05-20T02:00:00+02:00",
+      "plats": {
+        "namn": "Flustret",
+        "id": "flustret"
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/gcb7dbrzft6zzkd/2027-05-19/flustret-studentskiva-celsius-19-maj",
+          "biljetter": "https://secure.tickster.com/sv/gcb7dbrzft6zzkd"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-1c4pu6gmxa891vf",
       "titel": "Tjajkovskijs pianokonsert – Uppsala Kammarorkester",
       "start": "2027-05-20T19:00:00+02:00",
@@ -8509,6 +8589,54 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/1c4pu6gmxa891vf/2027-05-20/tjajkovskijs-pianokonsert-uppsala-kammarorkester",
           "biljetter": "https://secure.tickster.com/sv/1c4pu6gmxa891vf"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-ymp73lupjpmkw86",
+      "titel": "FLUSTRET - STUDENTSKIVA ROSENDAL 20 MAJ",
+      "start": "2027-05-20T21:30:00+02:00",
+      "slut": "2027-05-21T02:00:00+02:00",
+      "plats": {
+        "namn": "Flustret",
+        "id": "flustret"
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/ymp73lupjpmkw86/2027-05-20/flustret-studentskiva-rosendal-20-maj",
+          "biljetter": "https://secure.tickster.com/sv/ymp73lupjpmkw86"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-vn1bhn6l9td1jbv",
+      "titel": "Jensen - Studentskiva",
+      "start": "2027-05-26T21:00:00+02:00",
+      "slut": "2027-05-27T02:00:00+02:00",
+      "plats": {
+        "namn": "Birger Jarl",
+        "id": "birgerjarl",
+        "lat": 59.8542,
+        "lng": 17.6377
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/vn1bhn6l9td1jbv/2027-05-26/jensen-studentskiva",
+          "biljetter": "https://secure.tickster.com/sv/vn1bhn6l9td1jbv"
         }
       ],
       "langvarig": false,

@@ -1,156 +1,9 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-09-27T04:26:25.174Z",
-  "antal": 190,
+  "hamtad": "2026-10-02T04:28:53.876Z",
+  "antal": 189,
   "evenemang": [
-    {
-      "id": "stadsteatern-126066",
-      "titel": "Sommar",
-      "start": "2026-09-29T12:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Intiman"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Lunchföreställning",
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/sommar-2/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30895/126066/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-133870",
-      "titel": "Linnékvintetten och Moa Silén",
-      "start": "2026-09-29T13:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Lilla scenen"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Slutsåld",
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/linnekvintetten-och-moa-silen/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32447/133870/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-126067",
-      "titel": "Sommar",
-      "start": "2026-09-30T12:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Intiman"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Lunchföreställning",
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/sommar-2/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30895/126067/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-125940",
-      "titel": "Medan vi brinner",
-      "start": "2026-09-30T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Lilla scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125940/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-121677",
-      "titel": "Stadens ljus",
-      "start": "2026-09-30T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Stora scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/121677/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-121678",
-      "titel": "Stadens ljus",
-      "start": "2026-10-01T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Stora scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/121678/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "stadsteatern-125947",
       "titel": "Medan vi brinner",
@@ -406,6 +259,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -1478,6 +1332,30 @@
       "installd": false
     },
     {
+      "id": "stadsteatern-135329",
+      "titel": "Queera Regina c/o Stadsteatern",
+      "start": "2026-11-20T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/queera-regina-c-o-stadsteatern/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32863/135329/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "stadsteatern-121595",
       "titel": "Studie i mänskligt beteende",
       "start": "2026-11-20T19:00:00+01:00",
@@ -2312,7 +2190,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
-      "notering": "Premiär",
+      "notering": "Premiär, Få biljetter kvar",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -4330,6 +4208,31 @@
       "installd": false
     },
     {
+      "id": "stadsteatern-134626",
+      "titel": "Stäppvalpen",
+      "start": "2027-04-16T10:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Ettan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Premiär",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stappvalpen/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32628/134626/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "stadsteatern-134111",
       "titel": "Petra von Kants bittra tårar",
       "start": "2027-04-16T18:30:00+02:00",
@@ -4588,6 +4491,78 @@
           "namn": "Uppsala stadsteater",
           "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
           "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134123/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134628",
+      "titel": "Stäppvalpen",
+      "start": "2027-05-07T13:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Ettan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stappvalpen/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32628/134628/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134629",
+      "titel": "Stäppvalpen",
+      "start": "2027-05-08T13:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Ettan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stappvalpen/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32628/134629/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-134630",
+      "titel": "Stäppvalpen",
+      "start": "2027-05-22T13:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Ettan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/stappvalpen/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32628/134630/"
         }
       ],
       "langvarig": false,

@@ -1,55 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-09-27T04:30:17.138Z",
-  "antal": 152,
+  "hamtad": "2026-10-02T04:33:41.722Z",
+  "antal": 150,
   "evenemang": [
-    {
-      "id": "sport-profixio-32636852",
-      "titel": "Sloga Uppsala – Uppsala Basket",
-      "start": "2026-09-27T16:04:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid27640/match/32636852"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-swehockey-90131040",
-      "titel": "Almtuna IS – Södertälje SK",
-      "start": "2026-09-30T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Gränby ishall",
-        "id": "granbyishall"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-profixio-32636858",
       "titel": "Uppsala Basket – Högsbo Basket",
@@ -236,7 +190,7 @@
     },
     {
       "id": "sport-profixio-32636864",
-      "titel": "Sloga Uppsala – Köping Stars Basketförening",
+      "titel": "Sloga Uppsala – Köping Stars",
       "start": "2026-10-09T19:04:00+02:00",
       "slut": null,
       "plats": {
@@ -397,7 +351,7 @@
     },
     {
       "id": "sport-profixio-32682416",
-      "titel": "Uppsala Basket – Östersunds Basketklubb (dam)",
+      "titel": "Uppsala Basket – Östersund Basket (dam)",
       "start": "2026-10-17T15:00:00+02:00",
       "slut": null,
       "plats": {
@@ -1409,7 +1363,7 @@
     },
     {
       "id": "sport-profixio-32636916",
-      "titel": "Uppsala Basket – Köping Stars Basketförening",
+      "titel": "Uppsala Basket – Köping Stars",
       "start": "2026-11-22T19:04:00+01:00",
       "slut": null,
       "plats": {
@@ -1524,7 +1478,7 @@
     },
     {
       "id": "sport-profixio-32682445",
-      "titel": "Uppsala Basket – Pirates Basketball (dam)",
+      "titel": "Uppsala Basket – Onsala Pirates (dam)",
       "start": "2026-11-29T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -1846,7 +1800,7 @@
     },
     {
       "id": "sport-profixio-32682458",
-      "titel": "Uppsala Basket – Luleå BBK (dam)",
+      "titel": "Uppsala Basket – Luleå Basket (dam)",
       "start": "2026-12-13T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -2214,7 +2168,7 @@
     },
     {
       "id": "sport-profixio-32636956",
-      "titel": "Uppsala Basket – Köping Stars Basketförening",
+      "titel": "Uppsala Basket – Köping Stars",
       "start": "2027-01-09T17:04:00+01:00",
       "slut": null,
       "plats": {
@@ -2559,7 +2513,7 @@
     },
     {
       "id": "sport-profixio-32682493",
-      "titel": "Uppsala Basket – Alviks Basketbollklubb (dam)",
+      "titel": "Uppsala Basket – Alvik Basket (dam)",
       "start": "2027-01-30T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -2812,7 +2766,7 @@
     },
     {
       "id": "sport-profixio-32636999",
-      "titel": "Sloga Uppsala – Köping Stars Basketförening",
+      "titel": "Sloga Uppsala – Köping Stars",
       "start": "2027-02-13T17:04:00+01:00",
       "slut": null,
       "plats": {

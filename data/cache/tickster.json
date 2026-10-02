@@ -1,161 +1,4 @@
 {
-  "https://www.tickster.com/se/sv/events/cmf926fnc3pr4wh/2026-09-24/bj-studentpaket": {
-    "titel": "Bj Studentpaket",
-    "start": "2026-09-24T22:00:00",
-    "slut": "2027-06-11T03:00:00",
-    "platsId": "1b94mfu23n2gve4",
-    "plats": "Birgerjarl Nattklubb",
-    "ort": "Uppsala",
-    "lat": 59.8542,
-    "lng": 17.6377,
-    "taggar": [],
-    "arrangorId": "yep02nby8epf9td",
-    "arrangor": "Birgerjarl",
-    "kop": "https://secure.tickster.com/sv/cmf926fnc3pr4wh",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/adg56dfbargar04/2026-09-27/babblarna-and-klonks-klapp-kalas": {
-    "titel": "Babblarna & Klonks Klapp-kalas",
-    "start": "2026-09-27T11:00:00",
-    "slut": "2026-09-27T11:45:00",
-    "platsId": "v3gu3ky2h68ytd5",
-    "plats": "Uppsala Konsert & Kongress, Stora salen",
-    "ort": "Uppsala",
-    "lat": 59.8617,
-    "lng": 17.6469,
-    "taggar": [],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/adg56dfbargar04",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/bvdlkgztwn7w674/2026-09-27/babblarna-and-klonks-klapp-kalas": {
-    "titel": "Babblarna & Klonks Klapp-kalas",
-    "start": "2026-09-27T14:00:00",
-    "slut": "2026-09-27T14:45:00",
-    "platsId": "v3gu3ky2h68ytd5",
-    "plats": "Uppsala Konsert & Kongress, Stora salen",
-    "ort": "Uppsala",
-    "lat": 59.8617,
-    "lng": 17.6469,
-    "taggar": [],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/bvdlkgztwn7w674",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/td5fdtkmmvfh6cn/2026-09-27/sirius-vs-hovslatt": {
-    "titel": "Sirius vs Hovslätt",
-    "start": "2026-09-27T16:00:00",
-    "slut": "2026-09-27T18:00:00",
-    "platsId": "tz4ay2yjxttdwvd",
-    "plats": "IFU Arena",
-    "ort": "Uppsala",
-    "lat": 59.882,
-    "lng": 17.6562,
-    "taggar": [],
-    "arrangorId": "bp9pj5g0mbteha8",
-    "arrangor": "IK Sirius IBK",
-    "kop": "https://secure.tickster.com/sv/td5fdtkmmvfh6cn",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/abynn6kgtw0c47f/2026-09-27/babblarna-and-klonks-klapp-kalas": {
-    "titel": "Babblarna & Klonks Klapp-kalas",
-    "start": "2026-09-27T16:00:00",
-    "slut": "2026-09-27T16:45:00",
-    "platsId": "v3gu3ky2h68ytd5",
-    "plats": "Uppsala Konsert & Kongress, Stora salen",
-    "ort": "Uppsala",
-    "lat": 59.8617,
-    "lng": 17.6469,
-    "taggar": [],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/abynn6kgtw0c47f",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/c5pmvhgxdrrryle/2026-09-27/louisa-lyne-and-di-yiddishe-kapelye": {
-    "titel": "Louisa Lyne & di Yiddishe Kapelye",
-    "start": "2026-09-27T19:00:00",
-    "slut": "2026-09-27T20:40:00",
-    "platsId": "y90dvlpxyewf4h0",
-    "plats": "Uppsala Konsert & Kongress, Sal B",
-    "ort": "Uppsala",
-    "lat": 59.8586,
-    "lng": 17.6389,
-    "taggar": [
-      "folk"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/c5pmvhgxdrrryle",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/v06clb3zngk00z2/2026-09-29/ward-hayden-and-the-outliers-klubb-uffe": {
-    "titel": "Ward Hayden & The Outliers - Klubb Uffe",
-    "start": "2026-09-29T20:00:00",
-    "slut": "2026-09-29T23:00:00",
-    "platsId": "08109wbnt3jawkn",
-    "plats": "Katalin, Uppsala",
-    "ort": "Uppsala",
-    "lat": 59.8621,
-    "lng": 17.6523,
-    "taggar": [
-      "katalinuppsala",
-      "katalinsbakficka",
-      "katalinandallthatjazz"
-    ],
-    "arrangorId": "nbgw5rza2z1e9xu",
-    "arrangor": "Katalin",
-    "kop": "https://secure.tickster.com/sv/v06clb3zngk00z2",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/79vbn2md60wwgvn/2026-09-30/tanter-pa-rymmen": {
-    "titel": "Tanter på rymmen",
-    "start": "2026-09-30T18:00:00",
-    "slut": "2026-09-30T19:00:00",
-    "platsId": "12wtnjpnr0nr7de",
-    "plats": "Kulturpunkten, Gottsunda Centrum",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [
-      "riksteatern",
-      "barnfamilj",
-      "komedi",
-      "teater"
-    ],
-    "arrangorId": "4w93jw1m8drpaxh",
-    "arrangor": "Uppsala RTF",
-    "kop": "https://secure.tickster.com/sv/79vbn2md60wwgvn",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/6y92736wkaa0l1j/2026-09-30/javla-karlar": {
-    "titel": "Jävla karlar",
-    "start": "2026-09-30T19:00:00",
-    "slut": "2026-09-30T21:15:00",
-    "platsId": "v3gu3ky2h68ytd5",
-    "plats": "Uppsala Konsert & Kongress, Stora salen",
-    "ort": "Uppsala",
-    "lat": 59.8617,
-    "lng": 17.6469,
-    "taggar": [
-      "teater"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/6y92736wkaa0l1j",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/pjz687vuj4nva61/2026-09-30/sbl-herr-sasongen-26-27": {
     "titel": "SBL Herr Säsongen 26/27",
     "start": "2026-09-30T19:04:00",
@@ -169,22 +12,6 @@
     "arrangorId": "1pdmxd1f3hljzzb",
     "arrangor": "Uppsala Basket",
     "kop": "https://secure.tickster.com/sv/pjz687vuj4nva61",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/5xxc3hdf9n4ldzm/2026-10-01/sopplunch-vardet-av-konst": {
-    "titel": "Sopplunch: Värdet av konst",
-    "start": "2026-10-01T12:00:00",
-    "slut": "2026-10-01T13:00:00",
-    "platsId": "x01kba461v6968w",
-    "plats": "Uppsala konstmuseum",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "6x97by0jdkknn6z",
-    "arrangor": "Uppsala konstmuseum",
-    "kop": "https://secure.tickster.com/sv/5xxc3hdf9n4ldzm",
     "status": "",
     "hamtad": "2026-09-24"
   },
@@ -206,101 +33,6 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
-  "https://www.tickster.com/se/sv/events/w5w62xctg8f6yg0/2026-10-01/workshop-skapa-kollage-i-textil": {
-    "titel": "Workshop: Skapa kollage i textil",
-    "start": "2026-10-01T18:00:00",
-    "slut": "2026-10-01T20:00:00",
-    "platsId": "x01kba461v6968w",
-    "plats": "Uppsala konstmuseum",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "6x97by0jdkknn6z",
-    "arrangor": "Uppsala konstmuseum",
-    "kop": "https://secure.tickster.com/sv/w5w62xctg8f6yg0",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/11wtlpjbnh3g7gt/2026-10-01/konst-och-bar-plats-och-landskap": {
-    "titel": "Konst och bar: Plats och landskap",
-    "start": "2026-10-01T18:00:00",
-    "slut": "2026-10-01T20:00:00",
-    "platsId": "x01kba461v6968w",
-    "plats": "Uppsala konstmuseum",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "6x97by0jdkknn6z",
-    "arrangor": "Uppsala konstmuseum",
-    "kop": null,
-    "status": "Det är inte möjligt att köpa biljetter till detta evenemang. Evenemanget har stängts för försäljning av arrangören.",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/ft35bnzyru36p53/2026-10-01/javla-karlar": {
-    "titel": "Jävla karlar",
-    "start": "2026-10-01T19:00:00",
-    "slut": "2026-10-01T21:15:00",
-    "platsId": "v3gu3ky2h68ytd5",
-    "plats": "Uppsala Konsert & Kongress, Stora salen",
-    "ort": "Uppsala",
-    "lat": 59.8617,
-    "lng": 17.6469,
-    "taggar": [
-      "teater"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/ft35bnzyru36p53",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/dm22vrfk24kdkzr/2026-10-01/emil-ingmar-polaroids": {
-    "titel": "Emil Ingmar - Polaroids",
-    "start": "2026-10-01T19:30:00",
-    "slut": "2026-10-01T22:00:00",
-    "platsId": "y7j590k6ew5bn9f",
-    "plats": "Blackbird",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [
-      "blackbird",
-      "jazz",
-      "uppsala",
-      "late night jazz",
-      "musik",
-      "konsert",
-      "live",
-      "kaliber live",
-      "östra station",
-      "martin sjöstedt  erik tengholm"
-    ],
-    "arrangorId": "gf5dj34fjr9ddw5",
-    "arrangor": "Kaliber Live",
-    "kop": "https://secure.tickster.com/sv/dm22vrfk24kdkzr",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/kktbwen1vzdxggn/2026-10-01/marten-cvetkovic-2": {
-    "titel": "Mårten Cvetkovic 2",
-    "start": "2026-10-01T19:30:00",
-    "slut": "2026-10-01T20:45:00",
-    "platsId": "y90dvlpxyewf4h0",
-    "plats": "Uppsala Konsert & Kongress, Sal B",
-    "ort": "Uppsala",
-    "lat": 59.8586,
-    "lng": 17.6389,
-    "taggar": [
-      "humor"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/kktbwen1vzdxggn",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/4gwn6uw3k69d4rl/2026-10-02/sasongen-2026-27": {
     "titel": "Säsongen 2026/27",
     "start": "2026-10-02T14:00:00",
@@ -319,22 +51,6 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
-  "https://www.tickster.com/se/sv/events/va94ahzgnjk4bel/2026-10-02/forhandsvisning-preview-eija-liisa-ahtila": {
-    "titel": "Förhandsvisning/Preview: Eija-Liisa Ahtila",
-    "start": "2026-10-02T17:00:00",
-    "slut": "2026-10-02T19:00:00",
-    "platsId": "x01kba461v6968w",
-    "plats": "Uppsala konstmuseum",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "6x97by0jdkknn6z",
-    "arrangor": "Uppsala konstmuseum",
-    "kop": "https://secure.tickster.com/sv/va94ahzgnjk4bel",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/f9l7ac53fagg4xp/2026-10-02/hagunda-if-skalby-ibk": {
     "titel": "Hagunda IF - Skälby IBK",
     "start": "2026-10-02T19:00:00",
@@ -350,22 +66,6 @@
     "arrangorId": "jhud0m7539k0xr5",
     "arrangor": "Hagunda IF",
     "kop": "https://secure.tickster.com/sv/f9l7ac53fagg4xp",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/cp9h0w9c5rdalm1/2026-10-02/nisse-hallberg-8-ar-senare": {
-    "titel": "NISSE HALLBERG - 8 ÅR SENARE",
-    "start": "2026-10-02T20:00:00",
-    "slut": "2026-10-02T21:30:00",
-    "platsId": "1n7dmct1gve8wph",
-    "plats": "Katalin & All That Jazz",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "e1tk5k56nhrlmup",
-    "arrangor": "A Love Supreme",
-    "kop": "https://secure.tickster.com/sv/cp9h0w9c5rdalm1",
     "status": "",
     "hamtad": "2026-09-24"
   },
@@ -394,6 +94,22 @@
     "arrangor": "Kaliber Live",
     "kop": null,
     "status": "Det är inte möjligt att köpa biljetter till detta evenemang. Evenemanget har stängts för försäljning av arrangören.",
+    "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/cp9h0w9c5rdalm1/2026-10-02/nisse-hallberg-8-ar-senare": {
+    "titel": "NISSE HALLBERG - 8 ÅR SENARE",
+    "start": "2026-10-02T20:00:00",
+    "slut": "2026-10-02T21:30:00",
+    "platsId": "1n7dmct1gve8wph",
+    "plats": "Katalin & All That Jazz",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [],
+    "arrangorId": "e1tk5k56nhrlmup",
+    "arrangor": "A Love Supreme",
+    "kop": "https://secure.tickster.com/sv/cp9h0w9c5rdalm1",
+    "status": "",
     "hamtad": "2026-09-24"
   },
   "https://www.tickster.com/se/sv/events/vnw0x8lu5ek7gw8/2026-10-03/sirius-vs-ibf-orebro": {
@@ -683,22 +399,6 @@
     "arrangorId": "htbttn2u7176vyh",
     "arrangor": "Candyrock Live&Loud",
     "kop": "https://secure.tickster.com/sv/pdm9n77v6cn2w73",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/wfeezykm0tu9xn7/2026-10-08/melodiquizet-8-10": {
-    "titel": "Melodiquizet 8/10",
-    "start": "2026-10-08T19:00:00",
-    "slut": "2026-10-08T21:00:00",
-    "platsId": "wxmp1b47cy963m5",
-    "plats": "Blackbird",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "vj827hxvpnhn8re",
-    "arrangor": "Jacke Sjödin",
-    "kop": "https://secure.tickster.com/sv/wfeezykm0tu9xn7",
     "status": "",
     "hamtad": "2026-09-24"
   },
@@ -1793,6 +1493,42 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/9gd1pwwyfc50fwh/2026-10-20/uppsala-tillsammans-en-glittrande-funkisfest": {
+    "titel": "Uppsala tillsammans – En glittrande funkisfest",
+    "start": "2026-10-20T15:00:00",
+    "slut": "2026-10-20T17:00:00",
+    "platsId": "1cdrkpdmeycxxfr",
+    "plats": "Uppsala Konsert & Kongress, Sal D (fri sittplats)",
+    "ort": "Uppsala",
+    "lat": 59.8616,
+    "lng": 17.647,
+    "taggar": [
+      "samhälle"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": null,
+    "status": "",
+    "hamtad": "2026-10-01"
+  },
+  "https://www.tickster.com/se/sv/events/x2bg4aml16va1p2/2026-10-20/uppsala-tillsammans-en-glittrande-funkisfest": {
+    "titel": "Uppsala tillsammans – En glittrande funkisfest",
+    "start": "2026-10-20T18:00:00",
+    "slut": "2026-10-20T20:00:00",
+    "platsId": "1cdrkpdmeycxxfr",
+    "plats": "Uppsala Konsert & Kongress, Sal D (fri sittplats)",
+    "ort": "Uppsala",
+    "lat": 59.8616,
+    "lng": 17.647,
+    "taggar": [
+      "samhälle"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": null,
+    "status": "",
+    "hamtad": "2026-10-01"
+  },
   "https://www.tickster.com/se/sv/events/rwau01hbcanpumf/2026-10-20/lisa-nilsson-moter-bohuslan-big-band": {
     "titel": "Lisa Nilsson möter Bohuslän Big Band",
     "start": "2026-10-20T19:30:00",
@@ -2637,6 +2373,27 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/u51tcb05ahpfgth/2026-10-30/otto-tribute-till-toto": {
+    "titel": "OTTO - Tribute till TOTO",
+    "start": "2026-10-30T20:00:00",
+    "slut": "2026-10-30T23:00:00",
+    "platsId": "08109wbnt3jawkn",
+    "plats": "Katalin, Uppsala",
+    "ort": "Uppsala",
+    "lat": 59.8621,
+    "lng": 17.6523,
+    "taggar": [
+      "katalinsbakficka",
+      "bakfickan",
+      "otto",
+      "katalinuppsala"
+    ],
+    "arrangorId": "nbgw5rza2z1e9xu",
+    "arrangor": "Katalin",
+    "kop": "https://secure.tickster.com/sv/u51tcb05ahpfgth",
+    "status": "",
+    "hamtad": "2026-10-01"
+  },
   "https://www.tickster.com/se/sv/events/bdhxpyce6rxw2mr/2026-10-30/halloween-21": {
     "titel": "HALLOWEEN 21+",
     "start": "2026-10-30T22:00:00",
@@ -2734,6 +2491,27 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/gg5dvg174ucyu11/2026-10-31/halloween-med-fat-lizzy-bakfickan": {
+    "titel": "Halloween med Fat Lizzy - Bakfickan",
+    "start": "2026-10-31T20:00:00",
+    "slut": "2026-10-31T23:00:00",
+    "platsId": "08109wbnt3jawkn",
+    "plats": "Katalin, Uppsala",
+    "ort": "Uppsala",
+    "lat": 59.8621,
+    "lng": 17.6523,
+    "taggar": [
+      "bakfickan",
+      "halloween",
+      "katalinsbakficka",
+      "fatlizzy"
+    ],
+    "arrangorId": "nbgw5rza2z1e9xu",
+    "arrangor": "Katalin",
+    "kop": "https://secure.tickster.com/sv/gg5dvg174ucyu11",
+    "status": "",
+    "hamtad": "2026-10-01"
+  },
   "https://www.tickster.com/se/sv/events/tjj3k405nml7l9p/2026-10-31/halloween-a-sweet-but-psycho-night": {
     "titel": "Halloween - a sweet but psycho night!",
     "start": "2026-10-31T22:00:00",
@@ -2749,6 +2527,22 @@
     "kop": "https://secure.tickster.com/sv/tjj3k405nml7l9p",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/kfyfxrah1edy3hn/2026-11-01/workshop-stadskroki": {
+    "titel": "Workshop: Stadskroki",
+    "start": "2026-11-01T13:00:00",
+    "slut": "2026-11-01T15:00:00",
+    "platsId": "kl3uktc5vbvyj38",
+    "plats": "Uppsala slottshistoriska",
+    "ort": "Uppsala",
+    "lat": 59.8542,
+    "lng": 17.6351,
+    "taggar": [],
+    "arrangorId": "6aj6nunx2afputb",
+    "arrangor": "Uppsala Slottshistoriska",
+    "kop": "https://secure.tickster.com/sv/kfyfxrah1edy3hn",
+    "status": "",
+    "hamtad": "2026-10-02"
   },
   "https://www.tickster.com/se/sv/events/n6zu4plvze6vdb8/2026-11-01/fem-myror-konsert": {
     "titel": "Fem myror – Konsert!",
@@ -3216,6 +3010,26 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/317cpfzb54vve17/2026-11-07/the-daytrippers-bakfickan": {
+    "titel": "The DayTrippers – Bakfickan",
+    "start": "2026-11-07T20:00:00",
+    "slut": "2026-11-07T23:00:00",
+    "platsId": "08109wbnt3jawkn",
+    "plats": "Katalin, Uppsala",
+    "ort": "Uppsala",
+    "lat": 59.8621,
+    "lng": 17.6523,
+    "taggar": [
+      "katalinsbakficka",
+      "bakfickan",
+      "thedaytrippers"
+    ],
+    "arrangorId": "nbgw5rza2z1e9xu",
+    "arrangor": "Katalin",
+    "kop": "https://secure.tickster.com/sv/317cpfzb54vve17",
+    "status": "",
+    "hamtad": "2026-10-01"
+  },
   "https://www.tickster.com/se/sv/events/g1u3ek9f41t9ke7/2026-11-07/pussy-riot-riot-days": {
     "titel": "Pussy Riot – Riot Days",
     "start": "2026-11-07T21:30:00",
@@ -3282,28 +3096,6 @@
     "arrangorId": "y5zw8v159wk4fe3",
     "arrangor": "Uppsala Konsert & Kongress",
     "kop": "https://secure.tickster.com/sv/fncy478lctthnvj",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/zwj0zgdxm9jkyjy/2026-11-10/jesper-lindell-and-brunnsvik-sounds-klubb-uffe": {
-    "titel": "Jesper Lindell & Brunnsvik Sounds - Klubb Uffe",
-    "start": "2026-11-10T20:00:00",
-    "slut": "2026-11-10T23:00:00",
-    "platsId": "08109wbnt3jawkn",
-    "plats": "Katalin, Uppsala",
-    "ort": "Uppsala",
-    "lat": 59.8621,
-    "lng": 17.6523,
-    "taggar": [
-      "katalinuppsala",
-      "katalinandallthatjazz",
-      "katalinsbakficka",
-      "klubbuffe",
-      "jesperlindell"
-    ],
-    "arrangorId": "nbgw5rza2z1e9xu",
-    "arrangor": "Katalin",
-    "kop": "https://secure.tickster.com/sv/zwj0zgdxm9jkyjy",
     "status": "",
     "hamtad": "2026-09-24"
   },
@@ -3902,6 +3694,60 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/83a2gr80uxzaet2/2026-11-21/saffransmysteriet-lassemajas-detektivbyra": {
+    "titel": "Saffransmysteriet – LasseMajas detektivbyrå",
+    "start": "2026-11-21T11:00:00",
+    "slut": "2026-11-21T11:45:00",
+    "platsId": "y90dvlpxyewf4h0",
+    "plats": "Uppsala Konsert & Kongress, Sal B",
+    "ort": "Uppsala",
+    "lat": 59.8586,
+    "lng": 17.6389,
+    "taggar": [
+      "barn"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": null,
+    "status": "",
+    "hamtad": "2026-10-02"
+  },
+  "https://www.tickster.com/se/sv/events/zxtda4nfhuafn6t/2026-11-21/saffransmysteriet-lassemajas-detektivbyra": {
+    "titel": "Saffransmysteriet – LasseMajas detektivbyrå",
+    "start": "2026-11-21T13:00:00",
+    "slut": "2026-11-21T13:45:00",
+    "platsId": "y90dvlpxyewf4h0",
+    "plats": "Uppsala Konsert & Kongress, Sal B",
+    "ort": "Uppsala",
+    "lat": 59.8586,
+    "lng": 17.6389,
+    "taggar": [
+      "barn"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": null,
+    "status": "",
+    "hamtad": "2026-10-02"
+  },
+  "https://www.tickster.com/se/sv/events/th6r0ntr7lzp04e/2026-11-21/saffransmysteriet-lassemajas-detektivbyra": {
+    "titel": "Saffransmysteriet – LasseMajas detektivbyrå",
+    "start": "2026-11-21T15:00:00",
+    "slut": "2026-11-21T15:45:00",
+    "platsId": "y90dvlpxyewf4h0",
+    "plats": "Uppsala Konsert & Kongress, Sal B",
+    "ort": "Uppsala",
+    "lat": 59.8586,
+    "lng": 17.6389,
+    "taggar": [
+      "barn"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": null,
+    "status": "",
+    "hamtad": "2026-10-02"
+  },
   "https://www.tickster.com/se/sv/events/dca4ve7tbt6fapc/2026-11-21/aron": {
     "titel": "Aron",
     "start": "2026-11-21T19:30:00",
@@ -3983,6 +3829,22 @@
     "kop": "https://secure.tickster.com/sv/d68bdjx9zu6uh44",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/tj424z35xyaz0w6/2026-11-21/200-dagars-glow": {
+    "titel": "200 DAGARS - GLOW!",
+    "start": "2026-11-21T22:00:00",
+    "slut": "2026-11-22T03:00:00",
+    "platsId": "1b94mfu23n2gve4",
+    "plats": "Birgerjarl Nattklubb",
+    "ort": "Uppsala",
+    "lat": 59.8542,
+    "lng": 17.6377,
+    "taggar": [],
+    "arrangorId": "yep02nby8epf9td",
+    "arrangor": "Birgerjarl",
+    "kop": "https://secure.tickster.com/sv/tj424z35xyaz0w6",
+    "status": "",
+    "hamtad": "2026-09-30"
   },
   "https://www.tickster.com/se/sv/events/cxjuc093yvbnyul/2026-11-22/poste-restante-22-11": {
     "titel": "Poste Restante 22/11",
@@ -4756,6 +4618,22 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/rxmu5d6epf1512z/2026-12-05/card-summit-uppsala": {
+    "titel": "CARD SUMMIT UPPSALA",
+    "start": "2026-12-05T12:00:00",
+    "slut": "2026-12-05T17:00:00",
+    "platsId": "82hj2dkl9916m04",
+    "plats": "LIFE ARENA",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [],
+    "arrangorId": "whbx4ht9aprnfcp",
+    "arrangor": "Games & Geek Market",
+    "kop": "https://secure.tickster.com/sv/rxmu5d6epf1512z",
+    "status": "",
+    "hamtad": "2026-10-02"
+  },
   "https://www.tickster.com/se/sv/events/49b3lg68zpnvcbn/2026-12-05/isprinsessan-julbalett-med-strakkvartett": {
     "titel": "Isprinsessan – julbalett med stråkkvartett",
     "start": "2026-12-05T16:00:00",
@@ -4937,24 +4815,6 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
-  "https://www.tickster.com/se/sv/events/c7c2latx1g4m045/2026-12-09/weeping-willows-christmas": {
-    "titel": "Weeping Willows – Christmas",
-    "start": "2026-12-09T19:30:00",
-    "slut": "2026-12-09T21:00:00",
-    "platsId": "v3gu3ky2h68ytd5",
-    "plats": "Uppsala Konsert & Kongress, Stora salen",
-    "ort": "Uppsala",
-    "lat": 59.8617,
-    "lng": 17.6469,
-    "taggar": [
-      "rock"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/c7c2latx1g4m045",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/3t5m7pt0g4yp81p/2026-12-09/mats-holmquist-och-strix-big-band": {
     "titel": "Mats Holmquist och Strix Big Band",
     "start": "2026-12-09T19:30:00",
@@ -4979,6 +4839,24 @@
     "arrangorId": "gf5dj34fjr9ddw5",
     "arrangor": "Kaliber Live",
     "kop": "https://secure.tickster.com/sv/3t5m7pt0g4yp81p",
+    "status": "",
+    "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/c7c2latx1g4m045/2026-12-09/weeping-willows-christmas": {
+    "titel": "Weeping Willows – Christmas",
+    "start": "2026-12-09T19:30:00",
+    "slut": "2026-12-09T21:00:00",
+    "platsId": "v3gu3ky2h68ytd5",
+    "plats": "Uppsala Konsert & Kongress, Stora salen",
+    "ort": "Uppsala",
+    "lat": 59.8617,
+    "lng": 17.6469,
+    "taggar": [
+      "rock"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": "https://secure.tickster.com/sv/c7c2latx1g4m045",
     "status": "",
     "hamtad": "2026-09-24"
   },
@@ -5633,6 +5511,33 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/g33dw4jtaj92cj3/2026-12-26/bjornarna-perkele-coca-carola-and-digging-graves": {
+    "titel": "Björnarna, Perkele, Coca Carola & Digging Graves",
+    "start": "2026-12-26T20:00:00",
+    "slut": "2026-12-26T23:30:00",
+    "platsId": "l0h5xlh16zztxwa",
+    "plats": "Katalin and all that Jazz",
+    "ort": "Uppsala",
+    "lat": 59.8595,
+    "lng": 17.6465,
+    "taggar": [
+      "katalinlive",
+      "uppsala",
+      "katalin",
+      "musik",
+      "konsert",
+      "kaliber live",
+      "björnarna",
+      "perkele",
+      "coca carola",
+      "uppsala rumble"
+    ],
+    "arrangorId": "gf5dj34fjr9ddw5",
+    "arrangor": "Kaliber Live",
+    "kop": "https://secure.tickster.com/sv/g33dw4jtaj92cj3",
+    "status": "",
+    "hamtad": "2026-09-29"
+  },
   "https://www.tickster.com/se/sv/events/dgfjlx3g6fytytn/2027-01-05/trettondagsafton-2027": {
     "titel": "Trettondagsafton 2027",
     "start": "2027-01-05T17:00:00",
@@ -5876,6 +5781,28 @@
     "kop": "https://secure.tickster.com/sv/r0r7g2xf5bgtyjx",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/3cfgpfkglbmwxm0/2027-01-29/asiatisk-middagsupplevelse": {
+    "titel": "Asiatisk middagsupplevelse",
+    "start": "2027-01-29T18:00:00",
+    "slut": "2027-01-29T22:30:00",
+    "platsId": "pua28nkd37nlam2",
+    "plats": "KAIJA, Stallet",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "sushi",
+      "matlagning",
+      "matevent",
+      "gästspel",
+      "asiatisk"
+    ],
+    "arrangorId": "phbngtg66capn9m",
+    "arrangor": "Kaija",
+    "kop": "https://secure.tickster.com/sv/3cfgpfkglbmwxm0",
+    "status": "",
+    "hamtad": "2026-10-02"
   },
   "https://www.tickster.com/se/sv/events/azjevznl5wf8m22/2027-01-29/ser-jag-tjock-ut-i-den-har-uppsala": {
     "titel": "”Ser jag tjock ut i den här..?” – Uppsala",
@@ -6236,6 +6163,24 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/mjluje9u10d70ll/2027-02-20/tourbjorn-med-torbjorn-averas-skorup": {
+    "titel": "Tourbjörn – Med Torbjörn Averås Skorup",
+    "start": "2027-02-20T18:00:00",
+    "slut": "2027-02-20T19:30:00",
+    "platsId": "y90dvlpxyewf4h0",
+    "plats": "Uppsala Konsert & Kongress, Sal B",
+    "ort": "Uppsala",
+    "lat": 59.8586,
+    "lng": 17.6389,
+    "taggar": [
+      "humor"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": null,
+    "status": "",
+    "hamtad": "2026-10-02"
+  },
   "https://www.tickster.com/se/sv/events/30zehcuw46a5ktp/2027-02-20/nannes-jubileumsshow-har-ar-jag": {
     "titel": "Nannes Jubileumsshow – Här är jag!",
     "start": "2027-02-20T19:30:00",
@@ -6272,6 +6217,24 @@
     "status": "",
     "hamtad": "2026-09-26"
   },
+  "https://www.tickster.com/se/sv/events/k45xdlnljt6c72r/2027-02-21/bamse-och-sjorovarskatten": {
+    "titel": "Bamse och Sjörövarskatten",
+    "start": "2027-02-21T14:00:00",
+    "slut": "2027-02-21T14:50:00",
+    "platsId": "v3gu3ky2h68ytd5",
+    "plats": "Uppsala Konsert & Kongress, Stora salen",
+    "ort": "Uppsala",
+    "lat": 59.8617,
+    "lng": 17.6469,
+    "taggar": [
+      "barn"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": "https://secure.tickster.com/sv/k45xdlnljt6c72r",
+    "status": "",
+    "hamtad": "2026-10-01"
+  },
   "https://www.tickster.com/se/sv/events/yrmvpam1jf90v9y/2027-02-24/klas-kalas-klas-hallberg-best-of-30-ar-pa-scen": {
     "titel": "Klas Kalas – Klas Hallberg best of 30 år på scen",
     "start": "2027-02-24T19:00:00",
@@ -6289,6 +6252,28 @@
     "kop": "https://secure.tickster.com/sv/yrmvpam1jf90v9y",
     "status": "",
     "hamtad": "2026-09-26"
+  },
+  "https://www.tickster.com/se/sv/events/zwj0zgdxm9jkyjy/2027-02-24/jesper-lindell-and-brunnsvik-sounds-klubb-uffe": {
+    "titel": "Jesper Lindell & Brunnsvik Sounds - Klubb Uffe",
+    "start": "2027-02-24T20:00:00",
+    "slut": "2027-02-24T23:00:00",
+    "platsId": "08109wbnt3jawkn",
+    "plats": "Katalin, Uppsala",
+    "ort": "Uppsala",
+    "lat": 59.8621,
+    "lng": 17.6523,
+    "taggar": [
+      "katalinuppsala",
+      "katalinandallthatjazz",
+      "katalinsbakficka",
+      "klubbuffe",
+      "jesperlindell"
+    ],
+    "arrangorId": "nbgw5rza2z1e9xu",
+    "arrangor": "Katalin",
+    "kop": "https://secure.tickster.com/sv/zwj0zgdxm9jkyjy",
+    "status": "",
+    "hamtad": "2026-10-01"
   },
   "https://www.tickster.com/se/sv/events/4k49xmnc403y1vu/2027-02-25/jesper-ronndahl-och-marie-agerhall": {
     "titel": "Jesper Rönndahl och Marie Agerhäll",
@@ -6545,6 +6530,24 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/glhthaghmhtjwfb/2027-03-24/the-rock-orchestra-by-candlelight": {
+    "titel": "The Rock Orchestra by Candlelight",
+    "start": "2027-03-24T20:30:00",
+    "slut": "2027-03-24T22:25:00",
+    "platsId": "v3gu3ky2h68ytd5",
+    "plats": "Uppsala Konsert & Kongress, Stora salen",
+    "ort": "Uppsala",
+    "lat": 59.8617,
+    "lng": 17.6469,
+    "taggar": [
+      "rock"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": "https://secure.tickster.com/sv/glhthaghmhtjwfb",
+    "status": "",
+    "hamtad": "2026-09-29"
+  },
   "https://www.tickster.com/se/sv/events/krj9k1l31yja6ny/2027-03-28/brunoz-en-konsert-med-bruno-mitsogiannis": {
     "titel": "BRUNOZ – En konsert med Bruno Mitsogiannis",
     "start": "2027-03-28T16:00:00",
@@ -6741,6 +6744,99 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/mfjx1dpux41fmva/2027-05-08/the-orb": {
+    "titel": "The Orb",
+    "start": "2027-05-08T20:00:00",
+    "slut": "2027-05-08T22:00:00",
+    "platsId": "l0h5xlh16zztxwa",
+    "plats": "Katalin and all that Jazz",
+    "ort": "Uppsala",
+    "lat": 59.8595,
+    "lng": 17.6465,
+    "taggar": [
+      "katalinlive",
+      "uppsala",
+      "katalin",
+      "musik",
+      "konsert",
+      "kaliber live",
+      "the orb",
+      "uk",
+      "dansmusik",
+      "ambient"
+    ],
+    "arrangorId": "gf5dj34fjr9ddw5",
+    "arrangor": "Kaliber Live",
+    "kop": null,
+    "status": "",
+    "hamtad": "2026-09-29"
+  },
+  "https://www.tickster.com/se/sv/events/ct9zd81m1hbgwbv/2027-05-11/flustret-studentskiva-lundellska-11-maj": {
+    "titel": "FLUSTRET - STUDENTSKIVA LUNDELLSKA 11 MAJ",
+    "start": "2027-05-11T21:30:00",
+    "slut": "2027-05-12T02:00:00",
+    "platsId": "zdg5wnnb2fv7y63",
+    "plats": "Flustret",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "uppsala",
+      "studentskiva",
+      "nattklubb",
+      "flustret",
+      "18"
+    ],
+    "arrangorId": "jj4714e98nnl9cz",
+    "arrangor": "Flustret",
+    "kop": "https://secure.tickster.com/sv/ct9zd81m1hbgwbv",
+    "status": "",
+    "hamtad": "2026-09-29"
+  },
+  "https://www.tickster.com/se/sv/events/2clj75545wcx9tw/2027-05-18/flustret-studentskiva-lundellska-celsius-18-maj": {
+    "titel": "FLUSTRET - STUDENTSKIVA LUNDELLSKA CELSIUS 18 MAJ",
+    "start": "2027-05-18T21:30:00",
+    "slut": "2027-05-19T02:00:00",
+    "platsId": "zdg5wnnb2fv7y63",
+    "plats": "Flustret",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "uppsala",
+      "studentskiva",
+      "nattklubb",
+      "flustret",
+      "18"
+    ],
+    "arrangorId": "jj4714e98nnl9cz",
+    "arrangor": "Flustret",
+    "kop": "https://secure.tickster.com/sv/2clj75545wcx9tw",
+    "status": "",
+    "hamtad": "2026-09-30"
+  },
+  "https://www.tickster.com/se/sv/events/gcb7dbrzft6zzkd/2027-05-19/flustret-studentskiva-celsius-19-maj": {
+    "titel": "FLUSTRET - STUDENTSKIVA CELSIUS 19 MAJ",
+    "start": "2027-05-19T21:30:00",
+    "slut": "2027-05-20T02:00:00",
+    "platsId": "zdg5wnnb2fv7y63",
+    "plats": "Flustret",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "uppsala",
+      "studentskiva",
+      "nattklubb",
+      "flustret",
+      "18"
+    ],
+    "arrangorId": "jj4714e98nnl9cz",
+    "arrangor": "Flustret",
+    "kop": "https://secure.tickster.com/sv/gcb7dbrzft6zzkd",
+    "status": "",
+    "hamtad": "2026-09-29"
+  },
   "https://www.tickster.com/se/sv/events/1c4pu6gmxa891vf/2027-05-20/tjajkovskijs-pianokonsert-uppsala-kammarorkester": {
     "titel": "Tjajkovskijs pianokonsert – Uppsala Kammarorkester",
     "start": "2027-05-20T19:00:00",
@@ -6758,6 +6854,44 @@
     "kop": "https://secure.tickster.com/sv/1c4pu6gmxa891vf",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/ymp73lupjpmkw86/2027-05-20/flustret-studentskiva-rosendal-20-maj": {
+    "titel": "FLUSTRET - STUDENTSKIVA ROSENDAL 20 MAJ",
+    "start": "2027-05-20T21:30:00",
+    "slut": "2027-05-21T02:00:00",
+    "platsId": "zdg5wnnb2fv7y63",
+    "plats": "Flustret",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "uppsala",
+      "studentskiva",
+      "nattklubb",
+      "flustret",
+      "18"
+    ],
+    "arrangorId": "jj4714e98nnl9cz",
+    "arrangor": "Flustret",
+    "kop": "https://secure.tickster.com/sv/ymp73lupjpmkw86",
+    "status": "",
+    "hamtad": "2026-09-29"
+  },
+  "https://www.tickster.com/se/sv/events/vn1bhn6l9td1jbv/2027-05-26/jensen-studentskiva": {
+    "titel": "Jensen - Studentskiva",
+    "start": "2027-05-26T21:00:00",
+    "slut": "2027-05-27T02:00:00",
+    "platsId": "1b94mfu23n2gve4",
+    "plats": "Birgerjarl Nattklubb",
+    "ort": "Uppsala",
+    "lat": 59.8542,
+    "lng": 17.6377,
+    "taggar": [],
+    "arrangorId": "yep02nby8epf9td",
+    "arrangor": "Birgerjarl",
+    "kop": "https://secure.tickster.com/sv/vn1bhn6l9td1jbv",
+    "status": "",
+    "hamtad": "2026-10-01"
   },
   "https://www.tickster.com/se/sv/events/wkerv76ph3w42a8/2027-06-05/love-with-johnny-echols-us": {
     "titel": "Love - with Johnny Echols (US)",

@@ -1,32 +1,9 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-09-27T04:29:15.398Z",
-  "antal": 427,
+  "hamtad": "2026-10-02T04:32:41.410Z",
+  "antal": 451,
   "evenemang": [
-    {
-      "id": "heja-katarina-jagellonica-sept-2026",
-      "titel": "Utställn: Katarina Jagellonica i Domkyrkan",
-      "start": "2026-05-08",
-      "slut": "2026-09-30",
-      "plats": {
-        "namn": "Uppsala domkyrka",
-        "id": "domkyrkan"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/katarina-jagellonica-sept-2026/",
-          "arrangor": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/utstallning-om-katarina-jagellonica-visas-hela-sommaren"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
     {
       "id": "heja-katarina-jagellonica-okt-2026",
       "titel": "Utställn: Katarina Jagellonica i Domkyrkan",
@@ -74,10 +51,10 @@
       "installd": false
     },
     {
-      "id": "heja-visning-walmstedtska-garden-2-2-2-2-2-2-2-2-2-3-2-2",
+      "id": "heja-visning-walmstedtska-garden-oktober-2026",
       "titel": "Visning: Walmstedtska gården",
       "start": "2026-07-04",
-      "slut": "2026-09-27",
+      "slut": "2026-10-04",
       "plats": {
         "namn": "Upplandsmuseet",
         "id": "upplandsmuseet"
@@ -89,7 +66,7 @@
         {
           "id": "heja",
           "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-2-2-2-2-2-2-2-2-2-3-2-2/",
+          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026/",
           "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
         }
       ],
@@ -97,10 +74,10 @@
       "installd": false
     },
     {
-      "id": "heja-visning-walmstedtska-garden-2-2-2-2-2-2-2-2-2-2",
+      "id": "heja-visning-walmstedtska-garden-oktober-2026-2",
       "titel": "Visning: Walmstedtska gården",
       "start": "2026-07-04",
-      "slut": "2026-10-31",
+      "slut": "2026-10-11",
       "plats": {
         "namn": "Upplandsmuseet",
         "id": "upplandsmuseet"
@@ -112,7 +89,53 @@
         {
           "id": "heja",
           "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-2-2-2-2-2-2-2-2-2-2/",
+          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026-2/",
+          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "heja-visning-walmstedtska-garden-oktober-2026-2-2",
+      "titel": "Visning: Walmstedtska gården",
+      "start": "2026-07-04",
+      "slut": "2026-10-18",
+      "plats": {
+        "namn": "Upplandsmuseet",
+        "id": "upplandsmuseet"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026-2-2/",
+          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "heja-visning-walmstedtska-garden-oktober-2026-2-2-2",
+      "titel": "Visning: Walmstedtska gården",
+      "start": "2026-07-04",
+      "slut": "2026-10-25",
+      "plats": {
+        "namn": "Upplandsmuseet",
+        "id": "upplandsmuseet"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026-2-2-2/",
           "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
         }
       ],
@@ -166,75 +189,6 @@
       "installd": false
     },
     {
-      "id": "heja-jill-eriksson-vaxtrum-2",
-      "titel": "JILL ERIKSSON | VÄXTRUM",
-      "start": "2026-09-11",
-      "slut": "2026-09-27",
-      "plats": {
-        "namn": "Galleri 1, Uppsala Konstnärsklubb, Sysslomansgatan 1, Uppsala",
-        "id": "heja-plats-galleri-1-uppsala-konstnärsklubb-sysslomansgatan-1-uppsala"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/jill-eriksson-vaxtrum-2/",
-          "arrangor": "https://www.uppsalakonstnarsklubb.se/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "heja-kullen-2",
-      "titel": "KULLEN",
-      "start": "2026-09-11",
-      "slut": "2026-09-27",
-      "plats": {
-        "namn": "Galleri 2, Uppsala Konstnärsklubb, Sysslomansgatan 1, Uppsala",
-        "id": "heja-plats-galleri-2-uppsala-konstnärsklubb-sysslomansgatan-1-uppsala"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/kullen-2/",
-          "arrangor": "https://www.uppsalakonstnarsklubb.se/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "heja-peaks-of-presence-vernissage-2026-2",
-      "titel": "Peaks of Presence Vernissage",
-      "start": "2026-09-12",
-      "slut": "2026-09-27",
-      "plats": {
-        "namn": "Köttinspektionen",
-        "id": "heja-plats-köttinspektionen"
-      },
-      "kategori": "museum",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/peaks-of-presence-vernissage-2026-2/",
-          "arrangor": "http://kottinspektionen.org/peaks-presence"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
       "id": "heja-peaks-of-presence-vernissage-2026-2-2",
       "titel": "Peaks of Presence Vernissage",
       "start": "2026-09-12",
@@ -263,8 +217,8 @@
       "start": "2026-09-24",
       "slut": "2026-10-04",
       "plats": {
-        "namn": "Galleri Brink, Storgatan 23 c, Uppsala",
-        "id": "heja-plats-galleri-brink-storgatan-23-c-uppsala"
+        "namn": "Galleri Brink",
+        "id": "heja-plats-galleri-brink"
       },
       "kategori": "museum",
       "gratis": null,
@@ -278,419 +232,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "heja-sebastian-blind-teckningsstipendiat-2026-2",
-      "titel": "Sebastian Blind Teckningsstipendiat 2026",
-      "start": "2026-09-26T12:00:00+02:00",
-      "slut": "2026-09-27",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/sebastian-blind-teckningsstipendiat-2026-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-bakluckeloppis-ulva-kvarn-2026-27-sept",
-      "titel": "Bakluckeloppis Ulva kvarn",
-      "start": "2026-09-27T10:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Ulva kvarn",
-        "id": "ulva"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/bakluckeloppis-ulva-kvarn-2026-27-sept/",
-          "arrangor": "https://www.ulvakvarn.com/ulva-bakluckeloppis-besokare/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-babblarna-klonks-klapp-kalas-2026",
-      "titel": "Babblarna & Klonks Klapp-kalas",
-      "start": "2026-09-27T11:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/babblarna-klonks-klapp-kalas-2026/",
-          "arrangor": "https://secure.tickster.com/sv/bvdlkgztwn7w674/seating"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-oppet-hus-yoga-danslektioner-2026",
-      "titel": "Öppet hus yoga & danslektioner",
-      "start": "2026-09-27T13:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Drabanten, Bangårdsgatan 13, bottenvåning",
-        "id": "heja-plats-drabanten-bangårdsgatan-13-bottenvåning"
-      },
-      "kategori": "natt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/oppet-hus-yoga-danslektioner-2026/",
-          "arrangor": "https://www.facebook.com/events/2984657755206645"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-musik-mode-moralpanik-med-kyllinge-2026",
-      "titel": "Musik, Mode & Moralpanik – med Kyllinge",
-      "start": "2026-09-27T14:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Kulturoasen",
-        "id": "kulturoasen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/musik-mode-moralpanik-med-kyllinge-2026/",
-          "arrangor": "https://www.kulturoasen.se/events/musik-mode-och-moralpanik/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-choral-evensong-in-english-2026",
-      "titel": "Choral Evensong in English",
-      "start": "2026-09-27T16:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala domkyrka",
-        "id": "domkyrkan"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/choral-evensong-in-english-2026/",
-          "arrangor": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/aftonsang-och-choral-evensong"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-louisa-lyne-di-yiddishe-kapelye-2026",
-      "titel": "Louisa Lyne & di Yiddishe Kapelye",
-      "start": "2026-09-27T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/louisa-lyne-di-yiddishe-kapelye-2026/",
-          "arrangor": "https://secure.tickster.com/sv/c5pmvhgxdrrryle/selectproductgroup"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-alskade-strakar-savja-2026",
-      "titel": "Älskade stråkar",
-      "start": "2026-09-28T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Sävja Kulturhus",
-        "id": "heja-plats-sävja-kulturhus"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/alskade-strakar-savja-2026/",
-          "arrangor": "https://www.musikiuppland.se/konsert/alskade-strakar-6/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-3",
-      "titel": "Jazzlunch på Katalins Bakficka 29/9",
-      "start": "2026-09-29T11:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-3/",
-          "arrangor": "https://www.katalin.com/events/jazzlunch-med-claes-janson-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-forfattarbesok-noah-van-dorpel-2026",
-      "titel": "Författarbesök: Noah van Dorpel",
-      "start": "2026-09-29T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/forfattarbesok-noah-van-dorpel-2026/",
-          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/364d9e95-fa07-46b4-bfc1-34de668972b9?location=Stadsbiblioteket&tag=F%C3%B6rfattarbes%C3%B6k"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-resandefolkets-hogtidsdag",
-      "titel": "Resandefolkets högtidsdag",
-      "start": "2026-09-29T18:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Kulturpunkten, Gottsunda",
-        "id": "kulturpunkten",
-        "rum": "Gottsunda kulturhus"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/resandefolkets-hogtidsdag/",
-          "arrangor": "https://www.facebook.com/events/2268717557003933/?acontext=%7B%22event_action_history%22%3A[%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22attachment%22%2C%22surface%22%3A%22newsfeed%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22permalink%22%7D%2C%7B%22extra_data%22%3A%22%22%2C%22mechanism%22%3A%22surface%22%2C%22surface%22%3A%22edit_dialog%22%7D]%2C%22ref_notif_type%22%3Anull%7D"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-fyris-comedy-med-ozz-nujen-2026",
-      "titel": "Fyris Comedy med Özz Nûjen",
-      "start": "2026-09-29T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/fyris-comedy-med-ozz-nujen-2026/",
-          "arrangor": "https://www.fyriscomedy.com/biljetter"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-klubb-uffe-ward-hayden-the-outliers-2026",
-      "titel": "Klubb Uffe – Ward Hayden & The Outliers",
-      "start": "2026-09-29T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/klubb-uffe-ward-hayden-the-outliers-2026/",
-          "arrangor": "https://secure.tickster.com/sv/v06clb3zngk00z2/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-hans-olov-oberg-2026",
-      "titel": "Författarbesök: Hans-Olov Öberg",
-      "start": "2026-09-30T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/hans-olov-oberg-2026/",
-          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/58f5728c-3342-47cb-b3a3-4cadb991f602?location=Stadsbiblioteket&tag=F%C3%B6rfattarbes%C3%B6k"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-javla-karlar-ukk-30-sept-2026",
-      "titel": "Jävla karlar – Extraföreställning",
-      "start": "2026-09-30T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/javla-karlar-ukk-30-sept-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-almtuna-sodertalje-30-sept-2026",
-      "titel": "Almtuna-Södertälje",
-      "start": "2026-09-30T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Gränby ishall",
-        "id": "granbyishall"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/almtuna-sodertalje-30-sept-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-pricken-i-hagalund",
-      "titel": "Pricken i Hagalund",
-      "start": "2026-09-30T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth",
-        "rum": "Norbyvägen 26"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/pricken-i-hagalund/",
-          "arrangor": "https://billetto.se/e/pricken-i-hagalund-om-konstnaren-olle-olsson-biljetter-1989510"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-eps-trailer-park-jazzbaren-2026",
-      "titel": "EP´s Trailer Park",
-      "start": "2026-09-30T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/eps-trailer-park-jazzbaren-2026/",
-          "arrangor": "https://secure.tickster.com/sv/jr4txvmazazebt3/products"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
@@ -716,142 +257,6 @@
       "installd": false
     },
     {
-      "id": "heja-art-night-2026-2-2-2",
-      "titel": "Art Night på Uppsala konstmuseum",
-      "start": "2026-10-01T17:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/art-night-2026-2-2-2/",
-          "arrangor": "https://konstmuseum.uppsala.se/kalendarium/art-night2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-kreativ-verkstad-2026-2",
-      "titel": "Kreativ verkstad",
-      "start": "2026-10-01T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrisgården",
-        "id": "heja-plats-fyrisgården"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/kreativ-verkstad-2026-2/",
-          "arrangor": "https://fyrisgarden.se/aktivitet/kreativ-verkstad/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-forfattarbesok-leif-zern-och-ulrika-knutson-2026",
-      "titel": "Författarbesök: Leif Zern och Ulrika Knutson",
-      "start": "2026-10-01T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/forfattarbesok-leif-zern-och-ulrika-knutson-2026/",
-          "arrangor": "https://link.webropolsurveys.com/EP/6EF883D3C11C4CB4"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-javla-karlar-ukk",
-      "titel": "Jävla karlar",
-      "start": "2026-10-01T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/javla-karlar-ukk/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-marten-andersson-cvetkovic-ukk-2026",
-      "titel": "Mårten Cvetkovic 2",
-      "start": "2026-10-01T19:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/marten-andersson-cvetkovic-ukk-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-jelly-crystal",
-      "titel": "Jelly Crystal",
-      "start": "2026-10-01T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/jelly-crystal/",
-          "arrangor": "https://secure.tickster.com/sv/9bmdfr9genug6h5/selectproductgroup"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "heja-skaldjurshelger-i-uppsala-saluhall-2026-2",
       "titel": "Skaldjurshelger i Uppsala Saluhall",
       "start": "2026-10-02",
@@ -869,6 +274,29 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/skaldjurshelger-i-uppsala-saluhall-2026-2/",
           "arrangor": "http://www.svenssonskrogar.se/evenemang/skaldjurshelger-i-uppsala-saluhall-2026"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-laga-mat-pa-stekhall",
+      "titel": "Laga mat på stekhäll",
+      "start": "2026-10-02T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Nåntuna Lund 15",
+        "id": "heja-plats-nåntuna-lund-15"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/laga-mat-pa-stekhall/",
+          "arrangor": "https://ellesutemat.se/utematlagningkurs-stekhall/"
         }
       ],
       "langvarig": false,
@@ -961,6 +389,28 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/markus-berjlund-katalins-bakficka/",
           "arrangor": "https://billetto.se/e/markus-berjlund-albumrelease-biljetter-1948711?"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-funky-friday-star-shaped-indie-2-okt-2026",
+      "titel": "Funky Friday – Star Shaped Indie",
+      "start": "2026-10-02T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/funky-friday-star-shaped-indie-2-okt-2026/"
         }
       ],
       "langvarig": false,
@@ -1151,6 +601,28 @@
       "installd": false
     },
     {
+      "id": "heja-die-kristi-brud-the-kaliber-room-2026",
+      "titel": "Die Kristi Brüd",
+      "start": "2026-10-03T22:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/die-kristi-brud-the-kaliber-room-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-uppsala-marknad-2026",
       "titel": "Uppsala Marknad",
       "start": "2026-10-04T10:00:00+02:00",
@@ -1333,6 +805,28 @@
       "installd": false
     },
     {
+      "id": "heja-seth-and-the-car-thief-kaliber-room-2026",
+      "titel": "Seth and the Car Thief",
+      "start": "2026-10-07",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/seth-and-the-car-thief-kaliber-room-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-forfattarbesok-elin-ylvasdotter-2026",
       "titel": "Författarbesök: Elin Ylvasdotter",
       "start": "2026-10-07T18:00:00+02:00",
@@ -1394,6 +888,28 @@
           "id": "heja",
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/almtuna-visby-roma-7-okt-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-nowhere-blue-kaliber-room-2026",
+      "titel": "Nowhere Blue",
+      "start": "2026-10-08",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/nowhere-blue-kaliber-room-2026/"
         }
       ],
       "langvarig": false,
@@ -1765,6 +1281,28 @@
       "installd": false
     },
     {
+      "id": "heja-the-overthrone-kaliber-room-2026",
+      "titel": "The Overthrone",
+      "start": "2026-10-10",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/the-overthrone-kaliber-room-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-arena-loppis-life-arena-2026",
       "titel": "Arena loppis Life Arena",
       "start": "2026-10-10T09:30:00+02:00",
@@ -1781,6 +1319,29 @@
           "id": "heja",
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/arena-loppis-life-arena-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-banned-book-festival-10-okt-202",
+      "titel": "Banned Books Festival",
+      "start": "2026-10-10T11:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsbibliotek",
+        "id": "heja-plats-uppsala-stadsbibliotek"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/banned-book-festival-10-okt-202/",
+          "arrangor": "https://bannedbooksfestival.se"
         }
       ],
       "langvarig": false,
@@ -2176,6 +1737,29 @@
       "installd": false
     },
     {
+      "id": "heja-artist-talk-2026",
+      "titel": "Artist Talk",
+      "start": "2026-10-11T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Litteraturens Hus, Sysslomansgatan 1, Uppsala",
+        "id": "heja-plats-litteraturens-hus-sysslomansgatan-1-uppsala"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/artist-talk-2026/",
+          "arrangor": "https://www.uppsalakonstnarsklubb.se/projekt-och-event/open-call-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-zurich-youth-orchestra-2026",
       "titel": "Zürich Youth Orchestra",
       "start": "2026-10-11T18:00:00+02:00",
@@ -2543,6 +2127,28 @@
       "installd": false
     },
     {
+      "id": "heja-lovisa-sorgjerd-the-kaliber-room-2026",
+      "titel": "Lovisa Sörgjerd",
+      "start": "2026-10-14T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/lovisa-sorgjerd-the-kaliber-room-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-art-night-2026-2-2-2-2-2",
       "titel": "Art Night på Uppsala konstmuseum",
       "start": "2026-10-15T17:00:00+02:00",
@@ -2629,6 +2235,28 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/isabella-lundgren-katalins-bakficka/",
           "arrangor": "https://secure.tickster.com/sv/93xd7rp77tn3km5/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-dragon-dolls-the-kaliber-room-15-okt-2026",
+      "titel": "Dragon Dolls",
+      "start": "2026-10-15T21:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/dragon-dolls-the-kaliber-room-15-okt-2026/"
         }
       ],
       "langvarig": false,
@@ -2772,6 +2400,50 @@
       "installd": false
     },
     {
+      "id": "heja-funky-friday-soul-disco-the-kaliber-room-16-okt-2026",
+      "titel": "Funky Friday – Soul & Disco",
+      "start": "2026-10-16T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/funky-friday-soul-disco-the-kaliber-room-16-okt-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-halloween-party-the-kaliber-room-16-okt-2026",
+      "titel": "Halloween Party",
+      "start": "2026-10-16T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/halloween-party-the-kaliber-room-16-okt-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-uppsala-bois-molndal-17-okt-2026",
       "titel": "Uppsala Bois-Mölndal",
       "start": "2026-10-17",
@@ -2811,6 +2483,28 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/italiensk-vinprovning-17-okt-2026/",
           "arrangor": "https://taysta.se/biljetter/uppsala?event=28324"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-katakomba-kaliber-room-2026",
+      "titel": "Katakomba",
+      "start": "2026-10-17",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/katakomba-kaliber-room-2026/"
         }
       ],
       "langvarig": false,
@@ -3093,6 +2787,29 @@
       "installd": false
     },
     {
+      "id": "heja-jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2-2-2",
+      "titel": "Jazzlunch på Katalins Bakficka 20/10",
+      "start": "2026-10-20T11:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2-2-2/",
+          "arrangor": "https://www.katalin.com/events/jazzlunch-med-dr-rulles-jazzklinik-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-lisa-nilsson-moter-bohuslan-big-band-ukk-2026",
       "titel": "Lisa Nilsson möter Bohuslän Big Band – UKK – 2026",
       "start": "2026-10-20T19:30:00+02:00",
@@ -3116,6 +2833,29 @@
       "installd": false
     },
     {
+      "id": "heja-otto-tribute-till-toto-2026",
+      "titel": "OTTO – Tribute till TOTO",
+      "start": "2026-10-20T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/otto-tribute-till-toto-2026/",
+          "arrangor": "https://secure.tickster.com/sv/u51tcb05ahpfgth/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-langbacka-badagard-2026",
       "titel": "Långbacka/Bådagård",
       "start": "2026-10-21",
@@ -3133,6 +2873,28 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/langbacka-badagard-2026/",
           "arrangor": "https://secure.tickster.com/sv/544l30392u0ergz/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-7000apart-the-kaliber-room-2026",
+      "titel": "7000apart",
+      "start": "2026-10-21",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/7000apart-the-kaliber-room-2026/"
         }
       ],
       "langvarig": false,
@@ -3181,6 +2943,28 @@
         }
       ],
       "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "heja-comprehending-the-kaliber-room-2026-2",
+      "titel": "Comprehending",
+      "start": "2026-10-22",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/comprehending-the-kaliber-room-2026-2/"
+        }
+      ],
+      "langvarig": false,
       "installd": false
     },
     {
@@ -3547,6 +3331,52 @@
       "installd": false
     },
     {
+      "id": "heja-digital-skattjakt-2026",
+      "titel": "Digital skattjakt",
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Klosterparken",
+        "id": "heja-plats-klosterparken"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/digital-skattjakt-2026/",
+          "arrangor": "https://uppsalacity.se/musse-helium-digital-skattjakt/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
+      "id": "heja-pumpatavling-i-city-2026",
+      "titel": "Pumpatävling i city",
+      "start": "2026-10-24",
+      "slut": "2026-10-31",
+      "plats": {
+        "namn": "City",
+        "id": "heja-plats-city"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/pumpatavling-i-city-2026/",
+          "arrangor": "https://uppsalacity.se/pumpatavling-i-city/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
       "id": "heja-retro-antikmassa-2026-2",
       "titel": "Retro- & Antikmässa",
       "start": "2026-10-24T10:00:00+02:00",
@@ -3609,6 +3439,51 @@
           "id": "heja",
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/valgorenhetsloppis-okt-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-pigment-precision-2026",
+      "titel": "Pigment & Precision",
+      "start": "2026-10-24T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Galleri Brink, Storgatan 23 C, 753 31 Uppsala",
+        "id": "heja-plats-galleri-brink-storgatan-23-c-753-31-uppsala"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/pigment-precision-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-pimpa-pumpan-2026",
+      "titel": "Pimpa pumpan",
+      "start": "2026-10-24T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Celsiustorget",
+        "id": "heja-plats-celsiustorget"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/pimpa-pumpan-2026/",
+          "arrangor": "https://uppsalacity.se/pimpa-pumpan/"
         }
       ],
       "langvarig": false,
@@ -3955,6 +3830,29 @@
       "installd": false
     },
     {
+      "id": "heja-jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2-2-2-2",
+      "titel": "Jazzlunch på Katalins Bakficka 27/10",
+      "start": "2026-10-27T11:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2-2-2-2/",
+          "arrangor": "https://www.katalin.com/events/jazzlunch-med-jazzviolinisten-gunnar-lidbergs-kvartett/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-fyris-comedy-johanna-wagrell-2026",
       "titel": "Fyris Comedy-Johanna Wagrell",
       "start": "2026-10-27T19:00:00+01:00",
@@ -4040,6 +3938,28 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/jonatan-stenson-blackheart-2026/",
           "arrangor": "https://secure.tickster.com/sv/5k13eg4wze32f7l/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-flykten-the-kaliber-room-2026",
+      "titel": "Flykten",
+      "start": "2026-10-28T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/flykten-the-kaliber-room-2026/"
         }
       ],
       "langvarig": false,
@@ -4183,6 +4103,28 @@
       "installd": false
     },
     {
+      "id": "heja-sag-mig-the-kaliber-room-2026",
+      "titel": "Säg Mig",
+      "start": "2026-10-29T21:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/sag-mig-the-kaliber-room-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-skaldjurshelger-i-uppsala-saluhall-2026-2-2-2-2-2",
       "titel": "Skaldjurshelger i Uppsala Saluhall",
       "start": "2026-10-30",
@@ -4294,6 +4236,73 @@
         }
       ],
       "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-dressed-in-black-dj-ridmark-the-kaliber-room-2026",
+      "titel": "Dressed in Black – DJ Ridmark",
+      "start": "2026-10-30T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/dressed-in-black-dj-ridmark-the-kaliber-room-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-electro-house-dj-ridmark-the-kaliber-room-30-okt-2026",
+      "titel": "Electro House – DJ Ridmark",
+      "start": "2026-10-30T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/electro-house-dj-ridmark-the-kaliber-room-30-okt-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-halloween-pa-odinsborg-2026",
+      "titel": "Halloween på Odinsborg",
+      "start": "2026-10-31",
+      "slut": "2026-11-06",
+      "plats": {
+        "namn": "Odinsborg Restaurang & Café",
+        "id": "heja-plats-odinsborg-restaurang-caf-"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/halloween-pa-odinsborg-2026/",
+          "arrangor": "https://www.odinsborg.nu/middag-med-andarna/"
+        }
+      ],
+      "langvarig": true,
       "installd": false
     },
     {
@@ -4502,6 +4511,51 @@
       "installd": false
     },
     {
+      "id": "heja-halloween-med-fat-lizzy-2026",
+      "titel": "Halloween med Fat Lizzy",
+      "start": "2026-10-31T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/halloween-med-fat-lizzy-2026/",
+          "arrangor": "https://secure.tickster.com/sv/gg5dvg174ucyu11/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-krom-monsterhead-the-kaliber-room-2026",
+      "titel": "Krom – Monsterhead",
+      "start": "2026-10-31T22:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/krom-monsterhead-the-kaliber-room-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-fem-myror-konsert-2026",
       "titel": "Fem myror – Konsert",
       "start": "2026-11-01",
@@ -4657,6 +4711,28 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/bjorn-yttling-katalins-bakficka/",
           "arrangor": "https://secure.tickster.com/sv/h3hznumbfldp6vm/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-dom-goda-djuren-the-kaliber-room-2026",
+      "titel": "Dom Goda Djuren",
+      "start": "2026-11-04T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/dom-goda-djuren-the-kaliber-room-2026/"
         }
       ],
       "langvarig": false,
@@ -4824,6 +4900,28 @@
       "installd": false
     },
     {
+      "id": "heja-funky-friday-skaformat-the-kaliber-room-6-nov-2026",
+      "titel": "Funky Friday – Skaformat",
+      "start": "2026-11-06T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/funky-friday-skaformat-the-kaliber-room-6-nov-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-lordagsmusik-orgelkonsert-11",
       "titel": "Lördagsmusik: orgelkonsert",
       "start": "2026-11-07T11:30:00+01:00",
@@ -4984,6 +5082,28 @@
       "installd": false
     },
     {
+      "id": "heja-overvald-the-kaliber-room-2026",
+      "titel": "Övervåld",
+      "start": "2026-11-07T22:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/overvald-the-kaliber-room-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-svenska-rocklegender-2026",
       "titel": "Svenska Rocklegender",
       "start": "2026-11-08T14:00:00+01:00",
@@ -5024,6 +5144,29 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/linnekvintetten-40-ar-2026/",
           "arrangor": "https://secure.tickster.com/sv/drhyu0rfv9lfk7r/seating"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-konsert-med-uak-och-expecto-2026",
+      "titel": "Konsert med UAK och Expecto",
+      "start": "2026-11-08T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/konsert-med-uak-och-expecto-2026/",
+          "arrangor": "https://billetto.se/e/karlekstrassel-biljetter-2021252?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=2"
         }
       ],
       "langvarig": false,
@@ -5282,6 +5425,28 @@
       "installd": false
     },
     {
+      "id": "heja-the-setlist-the-kaliber-room-2026",
+      "titel": "The Setlist",
+      "start": "2026-11-12T21:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/the-setlist-the-kaliber-room-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-les-big-byrd",
       "titel": "Les Big Byrd",
       "start": "2026-11-13",
@@ -5437,6 +5602,28 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/trinity-2026/",
           "arrangor": "https://secure.tickster.com/sv/bl9nydw5a9xa9tm/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-funky-friday-dj-micke-ridmark-the-kaliber-room-13-nov-2026",
+      "titel": "Funky Friday – DJ Micke Ridmark",
+      "start": "2026-11-13T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/funky-friday-dj-micke-ridmark-the-kaliber-room-13-nov-2026/"
         }
       ],
       "langvarig": false,
@@ -5648,6 +5835,28 @@
       "installd": false
     },
     {
+      "id": "heja-nocean-lunar-vail-the-kaliber-room-2026",
+      "titel": "Nocean & Lunar Vail",
+      "start": "2026-11-14T22:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/nocean-lunar-vail-the-kaliber-room-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-forfattarbesok-fangslad-av-erdogan-2026",
       "titel": "Författarbesök: Fängslad av Erdoğan",
       "start": "2026-11-15T13:30:00+01:00",
@@ -5853,6 +6062,28 @@
       "installd": false
     },
     {
+      "id": "heja-johan-hammarback-the-kaliber-room-2026",
+      "titel": "Johan Hammarbäck",
+      "start": "2026-11-18T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/johan-hammarback-the-kaliber-room-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-beredskapsdag-pa-stora-torget-2026",
       "titel": "Beredskapsdag på Stora torget",
       "start": "2026-11-19T10:00:00+01:00",
@@ -6011,6 +6242,28 @@
       "installd": false
     },
     {
+      "id": "heja-the-love-gangsters-the-kaliber-room-2026",
+      "titel": "The Love Gangsters",
+      "start": "2026-11-19T21:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/the-love-gangsters-the-kaliber-room-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-hansson-de-wolfe-united",
       "titel": "Hansson de Wolfe United",
       "start": "2026-11-20",
@@ -6119,6 +6372,28 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/pascal-2026/",
           "arrangor": "https://secure.tickster.com/sv/p0f85rd2utcn7b5/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-funky-friday-the-reggae-club-the-kaliber-room-20-nov-2026",
+      "titel": "Funky Friday – The Reggae Club",
+      "start": "2026-11-20T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/funky-friday-the-reggae-club-the-kaliber-room-20-nov-2026/"
         }
       ],
       "langvarig": false,
@@ -6378,6 +6653,28 @@
       "installd": false
     },
     {
+      "id": "heja-knash-grasbrand-the-kaliber-room-2026",
+      "titel": "KNASH & Gräsbrand",
+      "start": "2026-11-21T22:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/knash-grasbrand-the-kaliber-room-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-elvis-in-the-beginning-2026",
       "titel": "Elvis in the beginning",
       "start": "2026-11-22T14:00:00+01:00",
@@ -6607,6 +6904,28 @@
       "installd": false
     },
     {
+      "id": "heja-ministeriet-the-kaliber-room-25-nov-2026",
+      "titel": "Ministeriet",
+      "start": "2026-11-25T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/ministeriet-the-kaliber-room-25-nov-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-art-night-2026-2-2-2-2-2-2-2-2-2-2-2",
       "titel": "Art Night på Uppsala konstmuseum",
       "start": "2026-11-26T17:00:00+01:00",
@@ -6715,6 +7034,28 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/den-svenska-bjornstammen-2026-katalin/",
           "arrangor": "https://secure.tickster.com/sv/f2b1p11merey76h/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-brickpile-the-kaliber-room-26-nov-2026",
+      "titel": "Brickpile",
+      "start": "2026-11-26T21:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/brickpile-the-kaliber-room-26-nov-2026/"
         }
       ],
       "langvarig": false,
@@ -7405,6 +7746,51 @@
       "installd": false
     },
     {
+      "id": "heja-radslan-the-kaliber-room-3-dec-2026",
+      "titel": "Rädslan",
+      "start": "2026-12-03T21:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/radslan-the-kaliber-room-3-dec-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-back-to-the-50s-christmas-show-2026",
+      "titel": "Back to the 50s christmas show",
+      "start": "2026-12-04",
+      "slut": "2026-12-12",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/back-to-the-50s-christmas-show-2026/",
+          "arrangor": "https://brakevent.se/julshow-uppsala-2026"
+        }
+      ],
+      "langvarig": true,
+      "installd": false
+    },
+    {
       "id": "heja-christmas-night",
       "titel": "Christmas Night",
       "start": "2026-12-04T19:00:00+01:00",
@@ -7771,6 +8157,28 @@
       "installd": false
     },
     {
+      "id": "heja-grandi-the-kaliber-room-9-dec-2026",
+      "titel": "Grandi",
+      "start": "2026-12-09T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/grandi-the-kaliber-room-9-dec-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-thomas-jarvheden-ukk-2026",
       "titel": "Thomas Järvheden",
       "start": "2026-12-10T19:00:00+01:00",
@@ -7811,6 +8219,28 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/julkonsert-med-romeo-julia-koren/",
           "arrangor": "https://secure.tickster.com/sv/9a0dk1k2upn6lw9/seating"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-underjorden-the-kaliber-room-10-dec-2026",
+      "titel": "Underjorden",
+      "start": "2026-12-10T21:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/underjorden-the-kaliber-room-10-dec-2026/"
         }
       ],
       "langvarig": false,
@@ -8047,6 +8477,28 @@
       "installd": false
     },
     {
+      "id": "heja-skyblazer-axenstar-the-kaliber-room-12-dec-2026",
+      "titel": "Skyblazer & Axenstar",
+      "start": "2026-12-12T22:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/skyblazer-axenstar-the-kaliber-room-12-dec-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-uppsala-basket-d-lulea-13-dec-2026",
       "titel": "Uppsala basket D-Luleå",
       "start": "2026-12-13T15:00:00+01:00",
@@ -8110,6 +8562,50 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/arvingarna-klart-det-ska-bli-jul/",
           "arrangor": "https://secure.tickster.com/sv/402uukunkec7cfn/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-korpen-the-kaliber-room-16-dec-2026c",
+      "titel": "Korpen",
+      "start": "2026-12-16T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/korpen-the-kaliber-room-16-dec-2026c/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-brewitz-brew-the-kaliber-room-17-dec-2026",
+      "titel": "Brewitz Brew",
+      "start": "2026-12-17T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/brewitz-brew-the-kaliber-room-17-dec-2026/"
         }
       ],
       "langvarig": false,
@@ -9106,6 +9602,29 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/molly-hammar/",
           "arrangor": "https://ukk.se/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-tommy-korberg-ukk-2027",
+      "titel": "Tommy Körberg",
+      "start": "2027-02-12",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/tommy-korberg-ukk-2027/",
+          "arrangor": "https://secure.tickster.com/sv/rtat7ch8y7zgugl/selectproductgroup"
         }
       ],
       "langvarig": false,
