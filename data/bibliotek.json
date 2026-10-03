@@ -1,142 +1,9 @@
 {
   "kalla": "Bibliotek Uppsala",
   "webbsida": "https://bibliotekuppsala.se/evenemang",
-  "hamtad": "2026-10-02T04:30:35.552Z",
-  "antal": 484,
+  "hamtad": "2026-10-03T04:30:12.080Z",
+  "antal": 479,
   "evenemang": [
-    {
-      "id": "bibliotek-1901f13a-ac00-4679-8f91-22d91ef5e7d0",
-      "titel": "Sittgympa 65+",
-      "start": "2026-10-02T13:30:00+02:00",
-      "slut": "2026-10-02T14:15:00+02:00",
-      "plats": {
-        "namn": "Stenhagenbiblioteket",
-        "id": "bibliotek-stenhagenbiblioteket",
-        "rum": "Spektaklet"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/1901f13a-ac00-4679-8f91-22d91ef5e7d0"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-865dfa2c-9e20-49a7-83fd-f95ce342fbcb",
-      "titel": "Högläsning på svenska",
-      "start": "2026-10-02T14:00:00+02:00",
-      "slut": "2026-10-02T14:30:00+02:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket",
-        "rum": "Sagorummet"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/865dfa2c-9e20-49a7-83fd-f95ce342fbcb"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-9c6a3451-edcc-4a1f-9930-e98f54b33758",
-      "titel": "Musiklek",
-      "start": "2026-10-02T14:00:00+02:00",
-      "slut": "2026-10-02T14:30:00+02:00",
-      "plats": {
-        "namn": "Sävjabiblioteket",
-        "id": "bibliotek-sävjabiblioteket"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/9c6a3451-edcc-4a1f-9930-e98f54b33758"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-1ccd2276-2880-4da6-91a4-30fd1a1e70f4",
-      "titel": "Fredagsmys",
-      "start": "2026-10-02T14:00:00+02:00",
-      "slut": "2026-10-02T14:30:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Drömverkstan på barnavdelningen"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/1ccd2276-2880-4da6-91a4-30fd1a1e70f4"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-107a1ef2-290f-472a-8d94-1b42f0320d3c",
-      "titel": "Alla äter alla",
-      "start": "2026-10-02T14:00:00+02:00",
-      "slut": "2026-10-02T14:30:00+02:00",
-      "plats": {
-        "namn": "Rosendalsbiblioteket",
-        "id": "bibliotek-rosendalsbiblioteket"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/107a1ef2-290f-472a-8d94-1b42f0320d3c"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "bibliotek-c0e29627-6465-4a5e-9a10-c5121c9f6645",
       "titel": "Alla äter alla",
@@ -7427,32 +7294,6 @@
       "installd": false
     },
     {
-      "id": "bibliotek-dc7d4082-3a48-4801-8a29-c2592069c786",
-      "titel": "Bokcirkel torsdagar",
-      "start": "2026-11-12T18:30:00+01:00",
-      "slut": "2026-11-12T19:30:00+01:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/dc7d4082-3a48-4801-8a29-c2592069c786"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "bibliotek-1d83cd39-b2bb-4d82-9a31-ef34a5588055",
       "titel": "Pysselkväll med Lesbiskt rum",
       "start": "2026-11-12T18:30:00+01:00",
@@ -7474,6 +7315,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/1d83cd39-b2bb-4d82-9a31-ef34a5588055"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-dc7d4082-3a48-4801-8a29-c2592069c786",
+      "titel": "Bokcirkel torsdagar",
+      "start": "2026-11-12T18:30:00+01:00",
+      "slut": "2026-11-12T19:30:00+01:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": [
+        18,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/dc7d4082-3a48-4801-8a29-c2592069c786"
         }
       ],
       "langvarig": false,

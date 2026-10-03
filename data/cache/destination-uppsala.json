@@ -1,10 +1,4 @@
 {
-  "https://destinationuppsala.se/event/uppsala-arkitekturdagar/": {
-    "nar": "1–2 oktober 2026",
-    "pris": "Gratis",
-    "arrangorensSida": "https://www.uppsala.se/arkitekturdagar",
-    "hamtad": "2026-09-24"
-  },
   "https://destinationuppsala.se/event/uppsala-survival-run-2026/": {
     "nar": "3 oktober 2026, kl. 10.00–16.00",
     "pris": "Betald biljett krävs",
@@ -22,6 +16,12 @@
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://www.musikiuppland.se/konsert/poste-restante-4-10/",
     "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/seminarium-om-2026-ars-nobelpris-i-fysik/": {
+    "nar": "6 oktober 2026, kl. 15.30–16.45",
+    "pris": "Gratis",
+    "arrangorensSida": "https://www.uu.se/institution/fysik-och-astronomi/kalendarium/arkiv/2026-10-06-seminarium-om-2026-ars-nobelpris-i-fysik",
+    "hamtad": "2026-10-03"
   },
   "https://destinationuppsala.se/event/13x13-magneter-overallt-fran-kompasser-till-konstgjorda-hjarnor/": {
     "nar": "7 oktober 2026, kl. 18.30–19.30",
@@ -64,6 +64,12 @@
     "pris": "Betald biljett krävs",
     "arrangorensSida": "http://www.fyriscomedy.com/biljetter",
     "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/pluggstuga-till-klassisk-musik/": {
+    "nar": "13 oktober 2026, kl. 14.00–17.00",
+    "pris": "Gratis",
+    "arrangorensSida": "https://www.musikiuppland.se/konsert/pluggstuga-till-klassisk-musik/",
+    "hamtad": "2026-10-03"
   },
   "https://destinationuppsala.se/event/13x13-fran-hamiltons-huvudbry-via-algebra-och-geometri-till-supersymmetri-2/": {
     "nar": "14 oktober 2026, kl. 18.30–19.30",
@@ -472,6 +478,12 @@
     "pris": "Gratis",
     "arrangorensSida": "https://ukk.se/local-femmes-julmarknad-2026/",
     "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/julmarknad-och-adventskonsert-pa-salsta-slott-2026/": {
+    "nar": "6 december, 2026",
+    "pris": "Gratis (konserten kräver betald biljett)",
+    "arrangorensSida": "https://salstaslott.understory.io/experience/8c3bc21ba62bbc177f2cb307b776e1e8",
+    "hamtad": "2026-10-03"
   },
   "https://destinationuppsala.se/event/fyris-comedy-stand-up-med-sommarkatten-josefin-sonck-hemlig-gast/": {
     "nar": "8 december, 2026, kl. 19.00",

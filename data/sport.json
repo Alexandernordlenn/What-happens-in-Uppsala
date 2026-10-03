@@ -1,32 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-02T04:33:41.722Z",
-  "antal": 150,
+  "hamtad": "2026-10-03T04:33:01.831Z",
+  "antal": 149,
   "evenemang": [
-    {
-      "id": "sport-profixio-32636858",
-      "titel": "Uppsala Basket – Högsbo Basket",
-      "start": "2026-10-02T19:04:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid27640/match/32636858"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-sportality-yinc6pcn5v",
       "titel": "Gamla Upsala – Enskede IK (dam)",

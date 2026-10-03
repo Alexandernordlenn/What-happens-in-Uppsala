@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-02T04:29:15.030Z",
-  "antal": 148,
+  "hamtad": "2026-10-03T04:29:01.367Z",
+  "antal": 150,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -335,29 +335,6 @@
       "installd": false
     },
     {
-      "id": "du-uppsala-arkitekturdagar",
-      "titel": "Uppsala arkitekturdagar",
-      "start": "2026-10-01",
-      "slut": "2026-10-02",
-      "plats": {
-        "namn": "Uppsala Stadshus",
-        "id": "du-plats-uppsala-stadshus"
-      },
-      "kategori": "museum",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/uppsala-arkitekturdagar/",
-          "arrangor": "https://www.uppsala.se/arkitekturdagar"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "du-eija-liisa-ahtila-a-possible-image-of-what-is-just-becoming-reality",
       "titel": "Eija-Liisa Ahtila – A Possible Image – of what is just becoming reality",
       "start": "2026-10-03",
@@ -443,6 +420,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/poste-restante-4-10/",
           "arrangor": "https://www.musikiuppland.se/konsert/poste-restante-4-10/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-seminarium-om-2026-ars-nobelpris-i-fysik",
+      "titel": "Seminarium om 2026 års Nobelpris i fysik",
+      "start": "2026-10-06T15:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Universitet",
+        "id": "du-plats-uppsala-universitet"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/seminarium-om-2026-ars-nobelpris-i-fysik/",
+          "arrangor": "https://www.uu.se/institution/fysik-och-astronomi/kalendarium/arkiv/2026-10-06-seminarium-om-2026-ars-nobelpris-i-fysik"
         }
       ],
       "langvarig": false,
@@ -626,6 +626,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/fyris-comedy-stand-up-open-mic-okt/",
           "arrangor": "http://www.fyriscomedy.com/biljetter"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-pluggstuga-till-klassisk-musik",
+      "titel": "Pluggstuga till klassisk musik",
+      "start": "2026-10-13T14:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/pluggstuga-till-klassisk-musik/",
+          "arrangor": "https://www.musikiuppland.se/konsert/pluggstuga-till-klassisk-musik/"
         }
       ],
       "langvarig": false,
@@ -2431,6 +2454,29 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/local-femmes-julmarknad/",
           "arrangor": "https://ukk.se/local-femmes-julmarknad-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "du-julmarknad-och-adventskonsert-pa-salsta-slott-2026",
+      "titel": "Julmarknad och adventskonsert på Salsta slott 2026",
+      "start": "2026-12-06",
+      "slut": null,
+      "plats": {
+        "namn": "Salsa slott",
+        "id": "du-plats-salsa-slott"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/julmarknad-och-adventskonsert-pa-salsta-slott-2026/",
+          "arrangor": "https://salstaslott.understory.io/experience/8c3bc21ba62bbc177f2cb307b776e1e8"
         }
       ],
       "langvarig": false,

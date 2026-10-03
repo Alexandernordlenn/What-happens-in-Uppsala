@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-02T04:32:58.404Z",
-  "antal": 259,
+  "hamtad": "2026-10-03T04:32:17.383Z",
+  "antal": 284,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -2267,90 +2267,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-hoeglaesning-paa-svenska-2026-10-02-1400",
-      "titel": "Högläsning på svenska",
-      "plats": {
-        "namn": "Gottsundabiblioteket, sagorummet",
-        "id": "kubik-plats-gottsundabiblioteket-sagorummet"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoeglaesning-paa-svenska/",
-          "arrangor": "https://bibliotekuppsala.se/#/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-10-02T14:00:00+02:00",
-      "slut": "2026-10-02T14:30:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-fredagsmys-2026-2026-10-02-1400",
-      "titel": "Fredagsmys",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-10-02T14:00:00+02:00",
-      "slut": "2026-10-02T14:30:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-alla-aeter-alla-rosendal-2026-10-02-1400",
-      "titel": "Högläsningskonsert: Alla äter alla",
-      "plats": {
-        "namn": "Rosendalsbiblioteket",
-        "id": "kubik-plats-rosendalsbiblioteket"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        9
-      ],
-      "omrade": "vastra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/alla-aeter-alla-rosendal/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-10-02T14:00:00+02:00",
-      "slut": "2026-10-02T14:30:00+02:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-alla-aeter-alla-baelinge-2026-10-03-1030",
       "titel": "Högläsningskonsert: Alla äter alla",
       "plats": {
@@ -3970,6 +3886,64 @@
       "langvarig": true
     },
     {
+      "id": "kubik-leksaksbyte-paa-hoestlovet",
+      "titel": "Leksaksbyte på höstlovet",
+      "plats": {
+        "namn": "Pumphuset",
+        "id": "kubik-plats-pumphuset"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        9
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/leksaksbyte-paa-hoestlovet/",
+          "arrangor": "https://www.uppsalavatten.se/skola/pumphuset"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "notering": "Återkommande, kl. 12:00–16:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoestlovsbio-paa-fyrisbiografen",
+      "titel": "Höstlovsbio på Fyrisbiografen",
+      "plats": {
+        "namn": "Fyrisbiografen",
+        "id": "kubik-plats-fyrisbiografen"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        18
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovsbio-paa-fyrisbiografen/",
+          "arrangor": "https://fyrisbiografen.se/hostlovsbio-2026"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "notering": "Återkommande, kl. 13:10–16:30. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
       "id": "kubik-faagelholkar-hoestkoll-och-nybyggen-2026-10-24-1000",
       "titel": "Fågelholkar - höstkoll och nybyggen",
       "plats": {
@@ -4252,6 +4226,93 @@
       "langvarig": true
     },
     {
+      "id": "kubik-haestkompisdagar",
+      "titel": "Hästkompisdagar",
+      "plats": {
+        "namn": "Uppsala Ponnyklubb",
+        "id": "kubik-plats-uppsala-ponnyklubb"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        15
+      ],
+      "omrade": "ostra-land",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/haestkompisdagar/",
+          "arrangor": "http://www.uppsalaponnyklubb.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26",
+      "slut": "2026-10-28",
+      "notering": "Återkommande, kl. 10:00–12:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-changes-hoestlovslaeger-2026-5-8-aar",
+      "titel": "Changes Höstlovsläger 2026 (5 - 8 år)",
+      "plats": {
+        "namn": "Sävja Kulturhus",
+        "id": "kubik-plats-sävja-kulturhus"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        5,
+        9
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/changes-hoestlovslaeger-2026-5-8-aar/",
+          "arrangor": "http://www.changesshowmusikal.se./"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26",
+      "slut": "2026-10-30",
+      "notering": "Återkommande, kl. 10:00–17:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-changes-hoestlaeger-9-15-aar",
+      "titel": "Changes Höstläger 9 - 15 år",
+      "plats": {
+        "namn": "Kungsgatan 45 & Sävja Kulturhus",
+        "id": "kubik-plats-kungsgatan-45-sävja-kulturhus"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        15
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/changes-hoestlaeger-9-15-aar/",
+          "arrangor": "http://www.changesshowmusikal.se./"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26",
+      "slut": "2026-10-30",
+      "notering": "Återkommande, kl. 10:00–17:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
       "id": "kubik-hoestlov-mat-och-snacks-paa-vikingatiden",
       "titel": "Höstlov: Mat och snacks på vikingatiden",
       "plats": {
@@ -4278,6 +4339,35 @@
       "start": "2026-10-26",
       "slut": "2026-11-01",
       "notering": "Återkommande, kl. 12:00–16:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-kampsportslaeger-paa-graenby-allaktivitetshus",
+      "titel": "Kampsportsläger på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Kvarngärdesskolan, Lilla idrottshallen",
+        "id": "kubik-plats-kvarngärdesskolan-lilla-idrottshallen"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/kampsportslaeger-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26",
+      "slut": "2026-10-30",
+      "notering": "Återkommande, kl. 12:00–14:30. Se Kubik för vilka dagar.",
       "langvarig": true
     },
     {
@@ -4310,6 +4400,91 @@
       "langvarig": true
     },
     {
+      "id": "kubik-hoestlov-paa-graenby-fritidsgaard",
+      "titel": "Höstlov på Gränby fritidsgård!",
+      "plats": {
+        "namn": "Gränby fritidsgård",
+        "id": "kubik-plats-gränby-fritidsgård"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-graenby-fritidsgaard/",
+          "arrangor": "http://@granby.fritidsgard/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26",
+      "slut": "2026-10-29",
+      "notering": "Återkommande, kl. 18:00–21:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoestlov-paa-loetens-fritidsgaarden",
+      "titel": "Höstlov på Lötens fritidsgården",
+      "plats": {
+        "namn": "Lötens fritidsgård",
+        "id": "kubik-plats-lötens-fritidsgård"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-loetens-fritidsgaarden/",
+          "arrangor": "http://@lotens_fritidsgard/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26",
+      "slut": "2026-10-30",
+      "notering": "Återkommande, kl. 18:00–23:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoestlov-paa-lindbackens-fritidsklubb",
+      "titel": "Höstlov på Lindbackens fritidsklubb",
+      "plats": {
+        "namn": "Lindbackens fritidsgård",
+        "id": "kubik-plats-lindbackens-fritidsgård"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-lindbackens-fritidsklubb/",
+          "arrangor": "http://@lindbackensfritidsgard/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26",
+      "slut": "2026-10-30",
+      "notering": "Återkommande, kl. 18:00–23:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
       "id": "kubik-katarina-jagellonica-500-aar-2026-10-26-1000",
       "titel": "Katarina Jagellonica 500 år",
       "plats": {
@@ -4335,6 +4510,90 @@
       "installd": false,
       "start": "2026-10-26T10:00:00+01:00",
       "slut": "2026-10-26T11:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-halloweenpyssel-paa-graenby-allaktivitetshus-2026-10-26-1000",
+      "titel": "Halloweenpyssel på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/halloweenpyssel-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/granby-allaktivitetshus/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26T10:00:00+01:00",
+      "slut": "2026-10-26T12:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-dressyrdag-2026-10-26-1000",
+      "titel": "Dressyrdag",
+      "plats": {
+        "namn": "Uppsala Ponnyklubb",
+        "id": "kubik-plats-uppsala-ponnyklubb"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        15
+      ],
+      "omrade": "ostra-land",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/dressyrdag/",
+          "arrangor": "http://www.uppsalaponnyklubb.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26T10:00:00+01:00",
+      "slut": "2026-10-26T15:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-spoekhistorier-paa-graenby-allaktivitetshus-2026-10-26-1300",
+      "titel": "Spökhistorier på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spoekhistorier-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/granby-allaktivitetshus/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26T13:00:00+01:00",
+      "slut": "2026-10-26T15:00:00+01:00",
       "langvarig": false
     },
     {
@@ -4440,6 +4699,118 @@
       "installd": false,
       "start": "2026-10-27T09:00:00+01:00",
       "slut": "2026-10-27T14:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-designa-3d-printa-paa-graenby-allaktivitetshus-2026-10-27-1000",
+      "titel": "Designa & 3D-printa på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        15
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designa-3d-printa-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/granby-allaktivitetshus/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-27T10:00:00+01:00",
+      "slut": "2026-10-27T12:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-bygg-en-spoekstad-paa-graenby-allaktivitetshus-2026-10-27-1000",
+      "titel": "Bygg en spökstad på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/bygg-en-spoekstad-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/granby-allaktivitetshus/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-27T10:00:00+01:00",
+      "slut": "2026-10-27T12:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-we-dag-2026-10-27-1000",
+      "titel": "WE-dag",
+      "plats": {
+        "namn": "Uppsala Ponnyklubb",
+        "id": "kubik-plats-uppsala-ponnyklubb"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        15
+      ],
+      "omrade": "ostra-land",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/we-dag/",
+          "arrangor": "http://www.uppsalaponnyklubb.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-27T10:00:00+01:00",
+      "slut": "2026-10-27T15:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-baest-i-test-paa-graenby-allaktivitetshus-2026-10-27-1300",
+      "titel": "Bäst i Test på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        18
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/baest-i-test-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-27T13:00:00+01:00",
+      "slut": "2026-10-27T15:00:00+01:00",
       "langvarig": false
     },
     {
@@ -4583,6 +4954,62 @@
       "langvarig": false
     },
     {
+      "id": "kubik-hoppdag-2026-10-28-1000",
+      "titel": "Hoppdag",
+      "plats": {
+        "namn": "Uppsala Ponnyklubb",
+        "id": "kubik-plats-uppsala-ponnyklubb"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        15
+      ],
+      "omrade": "ostra-land",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoppdag/",
+          "arrangor": "http://www.uppsalaponnyklubb.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-28T10:00:00+01:00",
+      "slut": "2026-10-28T15:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-goer-din-egen-halloweendraekt-paa-graenby-allaktivitetshus-2026-10-28-1000",
+      "titel": "Gör din egen halloweendräkt på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        15
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/goer-din-egen-halloweendraekt-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-28T10:00:00+01:00",
+      "slut": "2026-10-28T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-spoek-och-monsterpyssel-samt-korvgrillning-i-karlssons-kaellare-hammarskog-2026-10-28-1030",
       "titel": "Spök- och monsterpyssel, samt korvgrillning i Karlssons källare, Hammarskog",
       "plats": {
@@ -4636,6 +5063,62 @@
       "installd": false,
       "start": "2026-10-28T13:00:00+01:00",
       "slut": "2026-10-28T15:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-goer-egen-skraeckfilm-10-15-aar-2026-10-28-1300",
+      "titel": "Gör egen skräckfilm 10-15 år",
+      "plats": {
+        "namn": "Höjdpunkten, Gottsunda allaktivitetshus",
+        "id": "kubik-plats-höjdpunkten-gottsunda-allaktivitetshus"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        15
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/goer-egen-skraeckfilm-10-15-aar/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/gottsunda-allaktivitetshus/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-28T13:00:00+01:00",
+      "slut": "2026-10-28T15:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-skapa-skraeckfilm-paa-graenby-allaktivitetshus-2026-10-28-1300",
+      "titel": "Skapa skräckfilm på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        15
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/skapa-skraeckfilm-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-28T13:00:00+01:00",
+      "slut": "2026-10-28T16:00:00+01:00",
       "langvarig": false
     },
     {
@@ -4695,6 +5178,34 @@
       "langvarig": false
     },
     {
+      "id": "kubik-utflykt-till-observatoriet-med-graenby-allaktivitetshus-2026-10-28-1800",
+      "titel": "Utflykt till Observatoriet med Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/utflykt-till-observatoriet-med-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-28T18:00:00+01:00",
+      "slut": "2026-10-28T21:00:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-innebandylaeger-hoestlov-foer-barn-foedda-2019-20",
       "titel": "Innebandyläger, höstlov för barn födda 2019-20",
       "plats": {
@@ -4751,6 +5262,34 @@
       "langvarig": false
     },
     {
+      "id": "kubik-hinderbana-i-graenbyskolans-idrottshall-2026-10-29-1000",
+      "titel": "Hinderbana i Gränbyskolans idrottshall",
+      "plats": {
+        "namn": "Gränbyskolans idrottshall",
+        "id": "kubik-plats-gränbyskolans-idrottshall"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hinderbana-i-graenbyskolans-idrottshall/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-29T10:00:00+01:00",
+      "slut": "2026-10-29T12:00:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-familjevisning-med-verkstad-2026-10-29-1230",
       "titel": "Familjevisning med verkstad",
       "plats": {
@@ -4776,6 +5315,34 @@
       "installd": false,
       "start": "2026-10-29T12:30:00+01:00",
       "slut": "2026-10-29T13:45:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-skoetarkurs-2026-10-29-1300",
+      "titel": "Skötarkurs",
+      "plats": {
+        "namn": "Uppsala Ponnyklubb",
+        "id": "kubik-plats-uppsala-ponnyklubb"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        15
+      ],
+      "omrade": "ostra-land",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/skoetarkurs/",
+          "arrangor": "http://www.uppsalaponnyklubb.se/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-29T13:00:00+01:00",
+      "slut": "2026-10-29T16:00:00+01:00",
       "langvarig": false
     },
     {
@@ -4835,6 +5402,32 @@
       "langvarig": false
     },
     {
+      "id": "kubik-fotbollsturnering-gemensam-middag-2026-10-29-1430",
+      "titel": "Fotbollsturnering & gemensam middag",
+      "plats": {
+        "namn": "Idrottshallen på Tiundaskolan och Ung Pop-up på Mimmi Ekholms plats",
+        "id": "kubik-plats-idrottshallen-på-tiundaskolan-och-ung-pop-up-på-mimmi-ekholms-plats"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fotbollsturnering-gemensam-middag/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-29T14:30:00+01:00",
+      "slut": "2026-10-29T20:00:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-foerfattartraeff-med-maria-frensborg-2026-10-29-1500",
       "titel": "Författarträff med Maria Frensborg",
       "plats": {
@@ -4860,6 +5453,34 @@
       "installd": false,
       "start": "2026-10-29T15:00:00+01:00",
       "slut": "2026-10-29T16:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-escape-room-graenbymysteriet-paa-graenby-allaktivitetshus-2026-10-30-1000",
+      "titel": "Escape room: Gränbymysteriet på Gränby allaktivitetshus",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        15
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/escape-room-graenbymysteriet-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-30T10:00:00+01:00",
+      "slut": "2026-10-30T16:30:00+01:00",
       "langvarig": false
     },
     {
@@ -4975,6 +5596,60 @@
       "langvarig": false
     },
     {
+      "id": "kubik-halloweentacofredag-2026-10-30-1800",
+      "titel": "Halloweentacofredag",
+      "plats": {
+        "namn": "Vänge fritidsgård",
+        "id": "kubik-plats-vänge-fritidsgård"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "vastra-land",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/halloweentacofredag/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-30T18:00:00+01:00",
+      "slut": "2026-10-30T23:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-middag-med-gastarna-2026-10-30-1815",
+      "titel": "Middag med Gastarna",
+      "plats": {
+        "namn": "Järlåsa fritidsgård",
+        "id": "kubik-plats-järlåsa-fritidsgård"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "vastra-land",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/middag-med-gastarna/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-30T18:15:00+01:00",
+      "slut": "2026-10-30T23:00:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-brasmys-vid-ostbergstorpet-2026-10-31-1030",
       "titel": "Brasmys vid Östbergstorpet",
       "plats": {
@@ -5028,6 +5703,34 @@
       "installd": false,
       "start": "2026-10-31T11:00:00+01:00",
       "slut": "2026-10-31T15:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-filmosofi-olivia-och-den-osynliga-jordbaevningen-2026-10-31-1345",
+      "titel": "Filmosofi: Olivia och den osynliga jordbävningen",
+      "plats": {
+        "namn": "Fyrisbiografen",
+        "id": "kubik-plats-fyrisbiografen"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        12
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/filmosofi-olivia-och-den-osynliga-jordbaevningen/",
+          "arrangor": "https://fyrisbiografen.se/filmosofi"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-31T13:45:00+01:00",
+      "slut": "2026-10-31T15:30:00+01:00",
       "langvarig": false
     },
     {

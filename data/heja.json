@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-10-02T04:32:41.410Z",
-  "antal": 451,
+  "hamtad": "2026-10-03T04:32:00.340Z",
+  "antal": 446,
   "evenemang": [
     {
       "id": "heja-katarina-jagellonica-okt-2026",
@@ -274,143 +274,6 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/skaldjurshelger-i-uppsala-saluhall-2026-2/",
           "arrangor": "http://www.svenssonskrogar.se/evenemang/skaldjurshelger-i-uppsala-saluhall-2026"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-laga-mat-pa-stekhall",
-      "titel": "Laga mat på stekhäll",
-      "start": "2026-10-02T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Nåntuna Lund 15",
-        "id": "heja-plats-nåntuna-lund-15"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/laga-mat-pa-stekhall/",
-          "arrangor": "https://ellesutemat.se/utematlagningkurs-stekhall/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-vasen-2026-bror-hjorths-hus",
-      "titel": "VÄSEN",
-      "start": "2026-10-02T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/vasen-2026-bror-hjorths-hus/",
-          "arrangor": "https://billetto.se/e/vasen-biljetter-1976327"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-uppsala-basket-h-hogsbo-2-okt-2026",
-      "titel": "Uppsala basket H – Högsbo",
-      "start": "2026-10-02T19:04:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/uppsala-basket-h-hogsbo-2-okt-2026/",
-          "arrangor": "https://secure.tickster.com/sv/pjz687vuj4nva61/selectevent"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-nisse-hallberg-2026-katalin",
-      "titel": "Nisse Hallberg – 8 år senare",
-      "start": "2026-10-02T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/nisse-hallberg-2026-katalin/",
-          "arrangor": "https://secure.tickster.com/sv/cp9h0w9c5rdalm1/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-markus-berjlund-katalins-bakficka",
-      "titel": "Markus Berjlund",
-      "start": "2026-10-02T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/markus-berjlund-katalins-bakficka/",
-          "arrangor": "https://billetto.se/e/markus-berjlund-albumrelease-biljetter-1948711?"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-funky-friday-star-shaped-indie-2-okt-2026",
-      "titel": "Funky Friday – Star Shaped Indie",
-      "start": "2026-10-02T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/funky-friday-star-shaped-indie-2-okt-2026/"
         }
       ],
       "langvarig": false,
@@ -2761,6 +2624,29 @@
         }
       ],
       "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-uppsala-kortfilmfestival-2026",
+      "titel": "Uppsala Kortfilmfestival 2026",
+      "start": "2026-10-19",
+      "slut": "2026-10-25",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/uppsala-kortfilmfestival-2026/",
+          "arrangor": "https://shortfilmfestival.com/"
+        }
+      ],
+      "langvarig": true,
       "installd": false
     },
     {
