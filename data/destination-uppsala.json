@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-03T04:29:01.367Z",
-  "antal": 150,
+  "hamtad": "2026-10-04T06:05:00.892Z",
+  "antal": 148,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -354,52 +354,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "du-uppsala-survival-run-2026",
-      "titel": "Uppsala Survival Run 2026",
-      "start": "2026-10-03T10:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Bertilsvägen 7",
-        "id": "du-plats-bertilsvägen-7"
-      },
-      "kategori": "sport",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/uppsala-survival-run-2026/",
-          "arrangor": "https://worldofraces.com/races/uppsala-survival-run-2026"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "du-hostfest-pa-alnas",
-      "titel": "Höstfest på Alnäs",
-      "start": "2026-10-03T11:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "KFUM Alnäs",
-        "id": "du-plats-kfum-alnäs"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/hostfest-pa-alnas/",
-          "arrangor": "https://kfumalnas.se/hostfest-pa-alnas/"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {

@@ -1,195 +1,9 @@
 {
   "kalla": "Bibliotek Uppsala",
   "webbsida": "https://bibliotekuppsala.se/evenemang",
-  "hamtad": "2026-10-03T04:30:12.080Z",
-  "antal": 479,
+  "hamtad": "2026-10-04T06:06:08.795Z",
+  "antal": 472,
   "evenemang": [
-    {
-      "id": "bibliotek-c0e29627-6465-4a5e-9a10-c5121c9f6645",
-      "titel": "Alla äter alla",
-      "start": "2026-10-03T10:30:00+02:00",
-      "slut": "2026-10-03T11:00:00+02:00",
-      "plats": {
-        "namn": "Bälingebiblioteket",
-        "id": "bibliotek-bälingebiblioteket"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/c0e29627-6465-4a5e-9a10-c5121c9f6645"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-22a59213-75da-4f82-90bc-038fcdc03815",
-      "titel": "Engelsk sångstund – Song time in English for kids 0–6 years",
-      "start": "2026-10-03T11:30:00+02:00",
-      "slut": "2026-10-03T12:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Barnavdelningen Läsfabriken"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/22a59213-75da-4f82-90bc-038fcdc03815"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-4d73096c-9605-4851-a656-312e7300dc5c",
-      "titel": "Brandmans-lördag!",
-      "start": "2026-10-03T12:00:00+02:00",
-      "slut": "2026-10-03T15:30:00+02:00",
-      "plats": {
-        "namn": "Sävjabiblioteket",
-        "id": "bibliotek-sävjabiblioteket"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/4d73096c-9605-4851-a656-312e7300dc5c"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-7f1f3670-5f7a-417e-9215-a07c26af37a8",
-      "titel": "Sagostund på arabiska",
-      "start": "2026-10-03T13:00:00+02:00",
-      "slut": "2026-10-03T13:30:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Barnavdelningen Läsfabriken"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/7f1f3670-5f7a-417e-9215-a07c26af37a8"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-7ee52a50-0ff6-4670-a6da-ac76f56f71ae",
-      "titel": "Alla äter alla",
-      "start": "2026-10-03T14:00:00+02:00",
-      "slut": "2026-10-03T14:45:00+02:00",
-      "plats": {
-        "namn": "Storvretabiblioteket",
-        "id": "bibliotek-storvretabiblioteket"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/7ee52a50-0ff6-4670-a6da-ac76f56f71ae"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-d5f81f7c-7212-486d-becf-d023664629dd",
-      "titel": "Sagostund på tjeckiska – Čteme české pohádky",
-      "start": "2026-10-03T14:30:00+02:00",
-      "slut": "2026-10-03T15:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Barnavdelningen Läsfabriken"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/d5f81f7c-7212-486d-becf-d023664629dd"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-e92e9ed6-6b7d-43df-854a-65b02b93c576",
-      "titel": "Inställt: Sagostund på ukrainska – У світі казок",
-      "start": "2026-10-03T14:30:00+02:00",
-      "slut": "2026-10-03T15:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Barnavdelningen Läsfabriken"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/e92e9ed6-6b7d-43df-854a-65b02b93c576"
-        }
-      ],
-      "langvarig": false,
-      "installd": true
-    },
     {
       "id": "bibliotek-3986d47d-396c-4b23-a792-23c67778797c",
       "titel": "Sagostund på turkiska – Türkçe hikaye zamanı",
@@ -1443,32 +1257,6 @@
       "installd": false
     },
     {
-      "id": "bibliotek-0c053308-1804-4733-9a74-a58d9408dfac",
-      "titel": "Vernissage: Utställning om barnböckerna om bävern Ottar",
-      "start": "2026-10-10T12:00:00+02:00",
-      "slut": "2026-10-10T14:00:00+02:00",
-      "plats": {
-        "namn": "Storvretabiblioteket",
-        "id": "bibliotek-storvretabiblioteket"
-      },
-      "kategori": "museum",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/0c053308-1804-4733-9a74-a58d9408dfac"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "bibliotek-cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2",
       "titel": "Idde-lördag!",
       "start": "2026-10-10T12:00:00+02:00",
@@ -1489,6 +1277,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-0c053308-1804-4733-9a74-a58d9408dfac",
+      "titel": "Vernissage: Utställning om barnböckerna om bävern Ottar",
+      "start": "2026-10-10T12:00:00+02:00",
+      "slut": "2026-10-10T14:00:00+02:00",
+      "plats": {
+        "namn": "Storvretabiblioteket",
+        "id": "bibliotek-storvretabiblioteket"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/0c053308-1804-4733-9a74-a58d9408dfac"
         }
       ],
       "langvarig": false,
@@ -7294,6 +7108,32 @@
       "installd": false
     },
     {
+      "id": "bibliotek-dc7d4082-3a48-4801-8a29-c2592069c786",
+      "titel": "Bokcirkel torsdagar",
+      "start": "2026-11-12T18:30:00+01:00",
+      "slut": "2026-11-12T19:30:00+01:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": [
+        18,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/dc7d4082-3a48-4801-8a29-c2592069c786"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "bibliotek-1d83cd39-b2bb-4d82-9a31-ef34a5588055",
       "titel": "Pysselkväll med Lesbiskt rum",
       "start": "2026-11-12T18:30:00+01:00",
@@ -7315,32 +7155,6 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/1d83cd39-b2bb-4d82-9a31-ef34a5588055"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-dc7d4082-3a48-4801-8a29-c2592069c786",
-      "titel": "Bokcirkel torsdagar",
-      "start": "2026-11-12T18:30:00+01:00",
-      "slut": "2026-11-12T19:30:00+01:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/dc7d4082-3a48-4801-8a29-c2592069c786"
         }
       ],
       "langvarig": false,

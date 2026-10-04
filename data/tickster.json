@@ -1,34 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-03T04:29:48.367Z",
-  "antal": 349,
+  "hamtad": "2026-10-04T06:05:44.622Z",
+  "antal": 344,
   "evenemang": [
-    {
-      "id": "tickster-pjz687vuj4nva61",
-      "titel": "SBL Herr Säsongen 26/27",
-      "start": "2026-09-30T19:04:00+02:00",
-      "slut": "2027-04-28T21:30:00+02:00",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "lat": 59.8702,
-        "lng": 17.6245
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/pjz687vuj4nva61/2026-09-30/sbl-herr-sasongen-26-27",
-          "biljetter": "https://secure.tickster.com/sv/pjz687vuj4nva61"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
     {
       "id": "tickster-7vht8x5cvjpnbtk",
       "titel": "Torsdagskul - Tema: Baka bröd ute (1/10 & 8/10)",
@@ -77,104 +52,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "tickster-vnw0x8lu5ek7gw8",
-      "titel": "Sirius vs IBF Örebro",
-      "start": "2026-10-03T16:00:00+02:00",
-      "slut": "2026-10-03T18:00:00+02:00",
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu",
-        "lat": 59.882,
-        "lng": 17.6562
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/vnw0x8lu5ek7gw8/2026-10-03/sirius-vs-ibf-orebro",
-          "biljetter": "https://secure.tickster.com/sv/vnw0x8lu5ek7gw8"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-7j98l7xxlt66rge",
-      "titel": "Leo Lindberg",
-      "start": "2026-10-03T19:30:00+02:00",
-      "slut": "2026-10-03T22:00:00+02:00",
-      "plats": {
-        "namn": "Blackbird",
-        "id": "blackbird"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/7j98l7xxlt66rge/2026-10-03/leo-lindberg",
-          "biljetter": "https://secure.tickster.com/sv/7j98l7xxlt66rge"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-69rn2rf0gzbkuhr",
-      "titel": "Tove Gustavsson - The Blues Uppsala",
-      "start": "2026-10-03T20:00:00+02:00",
-      "slut": "2026-10-03T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/69rn2rf0gzbkuhr/2026-10-03/tove-gustavsson-the-blues-uppsala",
-          "biljetter": "https://secure.tickster.com/sv/69rn2rf0gzbkuhr"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-rfml93e5btgucge",
-      "titel": "Luke Elliot – The King of Rock and Roll Tour",
-      "start": "2026-10-03T20:00:00+02:00",
-      "slut": "2026-10-03T21:45:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8598,
-        "lng": 17.6459
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/rfml93e5btgucge/2026-10-03/luke-elliot-the-king-of-rock-and-roll-tour",
-          "biljetter": "https://secure.tickster.com/sv/rfml93e5btgucge"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {

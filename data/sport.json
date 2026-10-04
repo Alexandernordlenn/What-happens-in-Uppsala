@@ -1,78 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-03T04:33:01.831Z",
-  "antal": 149,
+  "hamtad": "2026-10-04T06:08:48.241Z",
+  "antal": 146,
   "evenemang": [
-    {
-      "id": "sport-sportality-yinc6pcn5v",
-      "titel": "Gamla Upsala – Enskede IK (dam)",
-      "start": "2026-10-03T14:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Fotboll, Elitettan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Ligans webbplats",
-          "url": "https://www.elitettan.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-profixio-32682403",
-      "titel": "Uppsala Basket – Södertälje BBK (dam)",
-      "start": "2026-10-03T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "USIF Arena",
-        "id": "usif"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Basket, Basketligan dam",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid27644/match/32682403"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-profixio-32644530",
-      "titel": "Uppsala HK – HK Eskil",
-      "start": "2026-10-03T16:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Handboll, Herr 1",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid28142/match/32644530"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-profixio-32656540",
       "titel": "Uppsala VBS – Lule Volley (dam)",

@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-10-03T04:32:00.340Z",
-  "antal": 446,
+  "hamtad": "2026-10-04T06:07:46.650Z",
+  "antal": 437,
   "evenemang": [
     {
       "id": "heja-katarina-jagellonica-okt-2026",
@@ -237,7 +237,7 @@
     {
       "id": "heja-sebastian-blind-teckningsstipendiat-2026-2-2",
       "titel": "Sebastian Blind Teckningsstipendiat 2026",
-      "start": "2026-10-01",
+      "start": "2026-10-02T12:00:00+02:00",
       "slut": "2026-10-04",
       "plats": {
         "namn": "Bror Hjorths Hus",
@@ -251,29 +251,6 @@
           "id": "heja",
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/sebastian-blind-teckningsstipendiat-2026-2-2/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "heja-skaldjurshelger-i-uppsala-saluhall-2026-2",
-      "titel": "Skaldjurshelger i Uppsala Saluhall",
-      "start": "2026-10-02",
-      "slut": "2026-10-03",
-      "plats": {
-        "namn": "Uppsala Saluhall",
-        "id": "saluhall"
-      },
-      "kategori": "mat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/skaldjurshelger-i-uppsala-saluhall-2026-2/",
-          "arrangor": "http://www.svenssonskrogar.se/evenemang/skaldjurshelger-i-uppsala-saluhall-2026"
         }
       ],
       "langvarig": false,
@@ -300,189 +277,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "heja-lordagsmusik-orgelkonsert-15",
-      "titel": "Lördagsmusik: orgelkonsert",
-      "start": "2026-10-03T11:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala domkyrka",
-        "id": "domkyrkan"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/lordagsmusik-orgelkonsert-15/",
-          "arrangor": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/lordagsmusik-i-uppsala-domkyrka"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-matmilen-uppsala-3-okt-2026",
-      "titel": "Matmilen Uppsala",
-      "start": "2026-10-03T12:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala",
-        "id": "uppsala"
-      },
-      "kategori": "mat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/matmilen-uppsala-3-okt-2026/",
-          "arrangor": "https://matmilenkampanj.understory.io/experience/87b1cc919cb3742bef1ccb4c9a0868a2"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-lordagsjazz-katalin-2026-2-2",
-      "titel": "Lördagsjazz",
-      "start": "2026-10-03T14:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/lordagsjazz-katalin-2026-2-2/",
-          "arrangor": "https://www.katalin.com/lordagsjazz/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-uppsala-basket-d-sodertalje-3-okt-2026",
-      "titel": "Uppsala basket D-Södertälje",
-      "start": "2026-10-03T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "USIF Arena",
-        "id": "usif"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/uppsala-basket-d-sodertalje-3-okt-2026/",
-          "arrangor": "https://secure.tickster.com/sv/dfb5ggzlhcy27z2/selectevent"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-vinprovning-pa-saluhallen",
-      "titel": "Klassisk vinprovning",
-      "start": "2026-10-03T17:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Saluhall",
-        "id": "saluhall"
-      },
-      "kategori": "mat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/vinprovning-pa-saluhallen/",
-          "arrangor": "https://taysta.se/biljetter/uppsala?event=28323"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-tove-gustavsson-the-blues-uppsala-2026",
-      "titel": "Tove Gustavsson – The Blues Uppsala",
-      "start": "2026-10-03T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/tove-gustavsson-the-blues-uppsala-2026/",
-          "arrangor": "https://secure.tickster.com/sv/69rn2rf0gzbkuhr/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-luke-elliot-2026-katalin",
-      "titel": "Luke Elliot – The King of Rock and Roll Tour",
-      "start": "2026-10-03T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/luke-elliot-2026-katalin/",
-          "arrangor": "https://biljett.kulturaktiebolaget.se/sv/rfml93e5btgucge/selectproductgroup?_gl=1%2A1gr4ha6%2A_gcl_au%2AODAxNTQ4MzAyLjE3NzQyMDQ2NTc."
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "heja-die-kristi-brud-the-kaliber-room-2026",
-      "titel": "Die Kristi Brüd",
-      "start": "2026-10-03T22:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/die-kristi-brud-the-kaliber-room-2026/"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
