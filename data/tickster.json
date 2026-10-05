@@ -1,34 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-04T06:05:44.622Z",
-  "antal": 344,
+  "hamtad": "2026-10-05T04:32:39.619Z",
+  "antal": 341,
   "evenemang": [
-    {
-      "id": "tickster-7vht8x5cvjpnbtk",
-      "titel": "Torsdagskul - Tema: Baka bröd ute (1/10 & 8/10)",
-      "start": "2026-10-01T14:30:00+02:00",
-      "slut": "2026-10-08T15:30:00+02:00",
-      "plats": {
-        "namn": "Biotopia",
-        "id": "biotopia",
-        "lat": 59.8601,
-        "lng": 17.6223
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/7vht8x5cvjpnbtk/2026-10-01/torsdagskul-tema-baka-brod-ute-1-10-and-8-10",
-          "biljetter": "https://secure.tickster.com/sv/7vht8x5cvjpnbtk"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
     {
       "id": "tickster-4gwn6uw3k69d4rl",
       "titel": "Säsongen 2026/27",
@@ -52,55 +27,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "tickster-t8bjj2e6u7w6arz",
-      "titel": "Samtal: Möt årets Art´n Fiber® residenskonstnär",
-      "start": "2026-10-04T14:00:00+02:00",
-      "slut": "2026-10-04T15:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/t8bjj2e6u7w6arz/2026-10-04/samtal-mot-arets-art-n-fiber-residenskonstnar",
-          "biljetter": "https://secure.tickster.com/sv/t8bjj2e6u7w6arz"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-cku12ktwj2df8tz",
-      "titel": "Poste Restante 4/10",
-      "start": "2026-10-04T16:00:00+02:00",
-      "slut": "2026-10-04T18:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/cku12ktwj2df8tz/2026-10-04/poste-restante-4-10",
-          "biljetter": "https://secure.tickster.com/sv/cku12ktwj2df8tz"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {

@@ -1,22 +1,4 @@
 {
-  "https://www.tickster.com/se/sv/events/7vht8x5cvjpnbtk/2026-10-01/torsdagskul-tema-baka-brod-ute-1-10-and-8-10": {
-    "titel": "Torsdagskul - Tema: Baka bröd ute (1/10 & 8/10)",
-    "start": "2026-10-01T14:30:00",
-    "slut": "2026-10-08T15:30:00",
-    "platsId": "texaaw0ndjuwlc0",
-    "plats": "Biotopia",
-    "ort": "Uppsala",
-    "lat": 59.8601,
-    "lng": 17.6223,
-    "taggar": [
-      "torsdagskul"
-    ],
-    "arrangorId": "ydta99k6ut79vm9",
-    "arrangor": "Biotopia",
-    "kop": null,
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/4gwn6uw3k69d4rl/2026-10-02/sasongen-2026-27": {
     "titel": "Säsongen 2026/27",
     "start": "2026-10-02T14:00:00",
@@ -32,40 +14,6 @@
     "arrangorId": "jhud0m7539k0xr5",
     "arrangor": "Hagunda IF",
     "kop": "https://secure.tickster.com/sv/4gwn6uw3k69d4rl",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/t8bjj2e6u7w6arz/2026-10-04/samtal-mot-arets-art-n-fiber-residenskonstnar": {
-    "titel": "Samtal: Möt årets Art´n Fiber® residenskonstnär",
-    "start": "2026-10-04T14:00:00",
-    "slut": "2026-10-04T15:00:00",
-    "platsId": "x01kba461v6968w",
-    "plats": "Uppsala konstmuseum",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "6x97by0jdkknn6z",
-    "arrangor": "Uppsala konstmuseum",
-    "kop": "https://secure.tickster.com/sv/t8bjj2e6u7w6arz",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/cku12ktwj2df8tz/2026-10-04/poste-restante-4-10": {
-    "titel": "Poste Restante 4/10",
-    "start": "2026-10-04T16:00:00",
-    "slut": "2026-10-04T18:00:00",
-    "platsId": "y90dvlpxyewf4h0",
-    "plats": "Uppsala Konsert & Kongress, Sal B",
-    "ort": "Uppsala",
-    "lat": 59.8586,
-    "lng": 17.6389,
-    "taggar": [
-      "klassiskt"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/cku12ktwj2df8tz",
     "status": "",
     "hamtad": "2026-09-24"
   },

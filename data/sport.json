@@ -1,55 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-04T06:08:48.241Z",
-  "antal": 146,
+  "hamtad": "2026-10-05T04:35:50.243Z",
+  "antal": 144,
   "evenemang": [
-    {
-      "id": "sport-profixio-32656540",
-      "titel": "Uppsala VBS – Lule Volley (dam)",
-      "start": "2026-10-04T10:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Volleyboll, Division 1 dam",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid27937/match/32656540"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-sportality-oe4qwfxljp",
-      "titel": "Storvreta IBK – IBK Lund",
-      "start": "2026-10-04T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Innebandy, SSL herr",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Ligans webbplats",
-          "url": "https://www.ssl.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-sportality-c4cg83vmu6",
       "titel": "Storvreta IBK – Täby FC (dam)",

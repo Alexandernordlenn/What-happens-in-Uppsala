@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-04T06:05:00.892Z",
-  "antal": 148,
+  "hamtad": "2026-10-05T04:31:56.049Z",
+  "antal": 146,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -225,28 +225,6 @@
       "installd": false
     },
     {
-      "id": "du-sebastian-blind-teckningsstipendiat-2026",
-      "titel": "Sebastian Blind – Teckningsstipendiat 2026",
-      "start": "2026-09-05",
-      "slut": "2026-10-04",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/sebastian-blind-teckningsstipendiat-2026/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
       "id": "du-sveriges-forsta-julgranar",
       "titel": "Sveriges första julgranar?",
       "start": "2026-09-06",
@@ -354,29 +332,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "du-poste-restante-4-10",
-      "titel": "Poste Restante",
-      "start": "2026-10-04",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/poste-restante-4-10/",
-          "arrangor": "https://www.musikiuppland.se/konsert/poste-restante-4-10/"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
