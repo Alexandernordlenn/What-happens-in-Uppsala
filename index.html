@@ -217,16 +217,17 @@ a{color:var(--accent)}
 .dayhead{display:flex;align-items:baseline;justify-content:space-between;gap:10px;padding-bottom:8px;border-bottom:2px solid var(--ink)}
 .dayhead h2 span{color:var(--muted);font-weight:500}
 .dayhead .n{font-size:.85rem;color:var(--muted);font-variant-numeric:tabular-nums}
-.ev{display:grid;grid-template-columns:58px 4px 1fr auto;gap:0 12px;align-items:center;border-bottom:1px solid var(--line)}
-.ev .open{grid-column:1 / 4;display:grid;grid-template-columns:58px 4px 1fr;gap:0 12px;align-items:center;border:0;background:transparent;text-align:left;padding:11px 0;min-height:56px}
+.ev{display:grid;grid-template-columns:58px 4px minmax(0,1fr) auto;gap:0 12px;align-items:center;border-bottom:1px solid var(--line)}
+.ev .open{grid-column:1 / 4;min-width:0;display:grid;grid-template-columns:58px 4px minmax(0,1fr);gap:0 12px;align-items:center;border:0;background:transparent;text-align:left;padding:11px 0;min-height:56px}
 .ev .open:hover .t{text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
 .tm{font-weight:600;font-variant-numeric:tabular-nums;font-size:.95rem}
 .tm.none{color:var(--muted);font-weight:400}
 .cbar{width:4px;align-self:stretch;border-radius:2px;background:var(--c);margin:6px 0}
-.t{display:block;font-weight:600;line-height:1.28}
+.t{display:block;font-weight:600;line-height:1.28;overflow-wrap:anywhere}
 .m{display:block;font-size:.86rem;color:var(--muted);margin-top:2px}
 .tags{display:inline-flex;flex-wrap:wrap;gap:5px;margin-top:5px}
-.tag{font-size:.74rem;font-weight:600;padding:2px 7px;border-radius:5px;background:var(--soft);border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.tag{font-size:.74rem;font-weight:600;padding:2px 7px;border-radius:5px;background:var(--soft);border:1px solid var(--line);color:var(--muted);white-space:nowrap;max-width:100%;overflow-wrap:anywhere}
+@media (max-width:360px){.tag{white-space:normal}.ev{grid-template-columns:48px 4px minmax(0,1fr) auto;gap:0 9px}.ev .open{grid-template-columns:48px 4px minmax(0,1fr);gap:0 9px}}
 .tag.free{color:var(--c-sport);border-color:color-mix(in srgb,var(--c-sport) 35%,transparent)}
 .tag.merge{color:var(--accent);border-color:color-mix(in srgb,var(--accent) 40%,transparent)}
 .tag.warn{color:var(--c-mat);border-color:color-mix(in srgb,var(--c-mat) 40%,transparent)}
