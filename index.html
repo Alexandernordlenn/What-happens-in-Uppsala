@@ -115,6 +115,14 @@ a{color:var(--accent)}
 .linkbtn{border:0;background:none;color:var(--accent);font-weight:600;padding:0;text-decoration:underline;text-underline-offset:3px}
 .hint{color:var(--muted);font-size:.88rem}
 .cal-h{font-size:1.25rem;letter-spacing:-.015em;margin:40px 0 0}
+#userSlot{display:flex;align-items:center;gap:8px;flex:0 0 auto}
+.savedbtn{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:7px 12px;font-weight:600;font-size:.92rem;min-height:38px;color:var(--ink)}
+.savedbtn svg{width:18px;height:18px;color:var(--c-scen)}
+.savedbtn b{font-variant-numeric:tabular-nums;color:var(--muted);font-weight:600}
+.savedbtn[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.savedbtn[aria-pressed="true"] b{color:var(--bg)}
+.savedbtn[aria-pressed="true"] svg path{fill:currentColor}
+@media (max-width:400px){.savedtxt{display:none}.savedbtn{padding:7px 10px}}
 .login-btn{white-space:nowrap;flex:0 0 auto;border:0;background:var(--accent);color:var(--accent-ink);font-weight:600;border-radius:999px;padding:8px 16px;font-size:.92rem}
 .avatar{flex:0 0 auto;width:38px;height:38px;border-radius:50%;border:0;background:var(--ink);color:var(--bg);font-weight:700;font-size:1rem;display:grid;place-items:center}
 .field{display:block;margin:14px 0 6px;font-weight:600;font-size:.92rem}
@@ -149,11 +157,17 @@ a{color:var(--accent)}
 .fgroup,.fitems{display:contents}
 .flabel,.fbar,.fdone{display:none}
 /* Ålder och område: på dator bakom knappen "Ålder och område", i mobilen alltid i panelen */
-.fgroup.fx{display:none}
-.controls.fmore-on .fgroup.fx{display:flex;flex-wrap:wrap;gap:8px;align-items:center;width:100%}
-.controls.fmore-on .fgroup.fx .flabel{display:inline;font-size:.8rem;font-weight:600;color:var(--muted);margin-right:2px}
-.chip.fmore{border-style:dashed}
-.chip.fmore[aria-expanded="true"]{border-style:solid;border-color:var(--ink)}
+/* Dator: kategorierna på en rad, resten bakom "Fler filter" i en ordnad panel med rubriker. */
+.fmorepanel{display:none}
+.controls.fmore-on .fmorepanel{display:grid;grid-template-columns:auto 1fr;gap:10px 14px;align-items:center;width:100%;margin-top:6px;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--surface)}
+.controls.fmore-on .fgroup.fx{display:contents}
+.controls.fmore-on .fgroup.fx .flabel{display:block;font-size:.76rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}
+.controls.fmore-on .fgroup.fx .fitems{display:flex;flex-wrap:wrap;gap:8px}
+.chip.fmore{font-weight:600}
+.chip.fmore svg{transition:transform .15s}
+.chip.fmore[aria-expanded="true"]{border-color:var(--ink)}
+.chip.fmore[aria-expanded="true"] svg{transform:rotate(180deg)}
+.fcount{display:inline-grid;place-items:center;min-width:1.4em;height:1.4em;padding:0 .35em;border-radius:999px;background:var(--ink);color:var(--bg);font-size:.75rem}
 .chip{flex:0 0 auto;display:inline-flex;align-items:center;gap:7px;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 12px;font-size:.88rem;font-weight:500;white-space:nowrap}
 .chip i{width:9px;height:9px;border-radius:50%;background:var(--c,var(--muted))}
 .chip small{color:var(--muted);font-variant-numeric:tabular-nums}
@@ -185,7 +199,9 @@ a{color:var(--accent)}
   .fitems.cats .chip small{margin-left:auto}
   .fgroups .divider{display:none}
   .chip.fmore{display:none}
+  .fmorepanel,.controls.fmore-on .fmorepanel{display:block;margin:0;padding:0;border:0;background:none}
   .fgroup.fx,.controls.fmore-on .fgroup.fx{display:block;margin-top:14px}
+  .controls.fmore-on .fgroup.fx .fitems{display:flex}
   .controls.fmore-on .fgroup.fx .flabel{display:block;font-size:.76rem;letter-spacing:.04em;text-transform:uppercase;margin:0 0 8px}
   .fitems.areas{display:grid;grid-template-columns:1fr 1fr;gap:8px}
   .fitems.areas .chip{border-radius:12px;white-space:normal;text-align:left;line-height:1.2;justify-content:flex-start}
@@ -798,9 +814,11 @@ function renderHero(){
   $("hero").innerHTML=html;
 }
 function renderUser(){
-  $("userSlot").innerHTML = user
+  // Sparade evenemang har en egen knapp högst upp, så att de alltid är lätta att hitta.
+  var sparade = '<button class="savedbtn" data-favtop="1" aria-pressed="'+st.fav+'" aria-label="Sparade evenemang, '+favs.length+' st">'+heart+'<span class="savedtxt">Sparade</span><b>'+favs.length+'</b></button>';
+  $("userSlot").innerHTML = sparade + (user
     ? '<button class="avatar" data-account="1" aria-label="Ditt konto, inloggad som '+esc(user.email)+'">'+esc(user.email.charAt(0).toUpperCase())+'</button>'
-    : '<button class="login-btn" data-login="1">Logga in</button>';
+    : '<button class="login-btn" data-login="1">Logga in</button>');
 }
 
 function renderChips(){
@@ -815,11 +833,11 @@ function renderChips(){
     if(days.some(function(d){ return activeOn(e,d); })) counts[e.c]++;
   });
   // Valda filter i klartext, till knappraden i mobilen.
-  var valda=[]; if(st.free) valda.push("Gratis"); if(st.fam) valda.push("Barn & familj"); if(st.fav) valda.push("Sparade");
+  var valda=[]; if(st.free) valda.push("Gratis"); if(st.fam) valda.push("Barn & familj");
   st.cats.forEach(function(c){ valda.push(CATS[c].label); });
   AGES.forEach(function(g){ if(st.ages.indexOf(g[0])>=0) valda.push(g[0].replace("-","–")+" år"); });
   st.areas.forEach(function(a){ valda.push(AREA_NAME[a]); });
-  var extra = st.ages.length + st.areas.length;
+  var extra = st.ages.length + st.areas.length + (st.free?1:0) + (st.fam?1:0);
   var html = '<div class="fbar">'+
       '<button class="ftoggle" data-fopen="1" aria-expanded="'+st.fopen+'" aria-controls="fgroups">Filter'+(valda.length?' <b>'+valda.length+'</b>':'')+
         ' <svg width="12" height="12" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>'+
@@ -827,29 +845,30 @@ function renderChips(){
       (valda.length?'<button class="fclear" data-fclear="1">Rensa</button>':'')+
     '</div>'+
     '<div class="fgroups" id="fgroups">'+
-      '<div class="fgroup" role="group" aria-labelledby="fl-visa"><span class="flabel" id="fl-visa">Visa</span><div class="fitems">'+
-        '<button class="chip flag" data-f="free" aria-pressed="'+st.free+'">Gratis</button>'+
-        '<button class="chip flag" data-f="fam" aria-pressed="'+st.fam+'">Barn & familj</button>'+
-        '<button class="chip flag" data-f="fav" aria-pressed="'+st.fav+'">Sparade <small>'+favs.length+'</small></button>'+
-      '</div></div>'+
-      '<span class="divider" aria-hidden="true"></span>'+
       '<div class="fgroup" role="group" aria-labelledby="fl-kat"><span class="flabel" id="fl-kat">Kategorier</span><div class="fitems cats">'+
       CAT_ORDER.map(function(c){
         return '<button class="chip" data-c="'+c+'" style="--c:var(--c-'+c+')" aria-pressed="'+(st.cats.indexOf(c)>=0)+'"><i></i>'+CATS[c].label+' <small>'+counts[c]+'</small></button>';
       }).join("")+
       '</div></div>'+
-      '<button class="chip fmore" data-fmore="1" aria-expanded="'+st.fmore+'">Ålder och område'+(extra?' <small>'+extra+'</small>':'')+'</button>'+
+      '<button class="chip fmore" data-fmore="1" aria-expanded="'+st.fmore+'" aria-controls="fl-mer">Fler filter'+(extra?' <b class="fcount">'+extra+'</b>':'')+
+        ' <svg width="11" height="11" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>'+
+      '<div class="fmorepanel" id="fl-mer">'+
+      '<div class="fgroup fx" role="group" aria-labelledby="fl-visa"><span class="flabel" id="fl-visa">Visa</span><div class="fitems">'+
+        '<button class="chip flag" data-f="free" aria-pressed="'+st.free+'">Gratis</button>'+
+        '<button class="chip flag" data-f="fam" aria-pressed="'+st.fam+'">Barn & familj</button>'+
+      '</div></div>'+
       '<div class="fgroup fx" role="group" aria-labelledby="fl-alder"><span class="flabel" id="fl-alder">Ålder</span><div class="fitems ages">'+
         AGES.map(function(g){ return '<button class="chip" data-age="'+g[0]+'" aria-pressed="'+(st.ages.indexOf(g[0])>=0)+'">'+g[0].replace("-","–")+' år</button>'; }).join("")+
       '</div></div>'+
       '<div class="fgroup fx" role="group" aria-labelledby="fl-omr"><span class="flabel" id="fl-omr">Område</span><div class="fitems areas">'+
         AREAS.map(function(a){ return '<button class="chip" data-area="'+a[0]+'" aria-pressed="'+(st.areas.indexOf(a[0])>=0)+'">'+a[1]+'</button>'; }).join("")+
       '</div></div>'+
+      '</div>'+
       '<button class="fdone" data-fopen="0">Visa evenemangen</button>'+
     '</div>';
   $("chips").innerHTML = html;
   $("controls").classList.toggle("fopen", st.fopen);
-  $("controls").classList.toggle("fmore-on", st.fmore || extra>0);
+  $("controls").classList.toggle("fmore-on", st.fmore);
   Array.prototype.forEach.call(document.querySelectorAll("#period button"),function(b){ b.setAttribute("aria-pressed", String(!st.day && b.dataset.p===st.period)); });
   Array.prototype.forEach.call(document.querySelectorAll("#views button"),function(b){ b.setAttribute("aria-pressed", String(b.dataset.v===st.view)); });
 }
@@ -955,6 +974,7 @@ function renderPlaces(){
 
 function renderStatus(){
   var parts=[];
+  if(st.fav){ parts.push('Visar bara dina sparade evenemang ('+favs.length+').<button data-favtop="1">Visa alla</button>'); }
   if(st.day){ parts.push("Visar bara "+dayLong(pd(st.day)).toLowerCase()+'.<button data-clearday="1">Visa hela perioden</button>'); }
   var off=Object.keys(st.src).filter(function(k){return !st.src[k];});
   if(off.length) parts.push(off.length+" källa avstängd.");
@@ -1087,6 +1107,7 @@ document.addEventListener("click",function(ev){
   if(el.dataset.v){ st.view=el.dataset.v; render(); return; }
   if(el.dataset.c){ var i=st.cats.indexOf(el.dataset.c); if(i>=0) st.cats.splice(i,1); else st.cats.push(el.dataset.c); render(); refocus('[data-c="'+el.dataset.c+'"]'); return; }
   if(el.dataset.f){ st[el.dataset.f]=!st[el.dataset.f]; render(); refocus('[data-f="'+el.dataset.f+'"]'); return; }
+  if(el.dataset.favtop){ st.fav=!st.fav; if(st.fav){ st.period="all"; st.day=null; st.view="list"; } render(); if(st.fav) scrollToCal(); var sb=document.querySelector(".savedbtn"); if(sb && el.classList.contains("savedbtn")) sb.focus(); return; }
   if(el.dataset.fopen){ st.fopen = el.dataset.fopen==="1" ? !st.fopen : false; render(); refocus(".ftoggle");
     if(!st.fopen && el.classList.contains("fdone")) $("controls").scrollIntoView({block:"start"}); return; }
   if(el.dataset.fclear){ st.cats=[]; st.ages=[]; st.areas=[]; st.free=st.fam=st.fav=false; render(); refocus(".ftoggle"); return; }
