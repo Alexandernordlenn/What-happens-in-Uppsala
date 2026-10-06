@@ -12,7 +12,7 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
 - [ ] **Du:** Lägg in Svenska kyrkans nyckel som hemligheten `SVK_API_KEY` (GitHub → *Settings* → *Secrets and variables* → *Actions*). Då kommer kyrkornas konserter med nästa morgon.
 - [ ] **Claude:** Kontrollera Svenska kyrkans första riktiga körning. Fältnamnen i API-svaret är gissade och kan behöva justeras.
 - [ ] **Du:** Skicka de fem viktigaste förfrågningarna. Be gärna Claude skriva mejlen.
-  - [ ] Heja Uppsala (tjena@hejauppsala.com): avtal eller nyckel. **Måste lösas innan sidan blir skarp.**
+  - [ ] Heja Uppsala (tjena@hejauppsala.com): avtal eller nyckel. **Beslut 6 okt (alternativ C): Heja ligger kvar under testfasen, och sidan lanseras inte förrän det är löst.**
   - [ ] Profixio: API-nyckel. En nyckel ger bandy, basket, handboll och volleyboll.
   - [ ] Kuratorskonventet (Nationsguiden): nationernas evenemang. Vår största lucka.
   - [ ] Uppsala universitet: flöde från uu.se/kalendarium.

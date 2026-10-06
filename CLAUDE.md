@@ -54,7 +54,7 @@ Se `KALLOR.md` för hela kartläggningen: vilka API:er och flöden som ska begä
 
 
 - Begära data från offentlig verksamhet: Reginateatern, Musik i Uppland. (Destination Uppsala, Kubik, Bibliotek Uppsala och Uppsala stadsteater hämtas redan, se "Hämtningarna".)
-- Heja Uppsala: hämtas tillfälligt under testfasen. Eventuellt samarbete.
+- Heja Uppsala: hämtas tillfälligt under testfasen. **Beslut 6 okt 2026 (alternativ C):** Heja ligger kvar som under testfasen, och sidan lanseras inte förrän det är löst med Heja (avtal eller nyckel).
 
 ## Datamodell
 
