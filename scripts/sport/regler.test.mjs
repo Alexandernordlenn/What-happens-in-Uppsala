@@ -75,3 +75,16 @@ test("bara arenor i Uppsala", () => {
   assert.ok(iUppsala("Fyrishov A, Uppsala"));
   assert.ok(!iUppsala("Avicii Arena"));
 });
+
+test("lagtabellen: hemmalaget hittas, biljettlänken följer med och säsongen kan gå över årsskiftet", async () => {
+  const { hittaLag, iSasong, LAG } = await import("./konfig.mjs");
+  const match = { system: "swehockey", id: "1", hemma: "Almtuna IS", borta: "Nybro Vikings IF", start: "2026-10-11T14:00:00+02:00", arena: "Gränby Ishall", liga: "HockeyAllsvenskan", sport: "Ishockey", url: "u" };
+  const lag = hittaLag(match);
+  assert.equal(lag.lag, "Almtuna IS");
+  const [ev] = bearbeta([match], nu, hittaLag);
+  assert.equal(ev.kallor[0].biljetter, "https://www.almtuna.com/biljettinformation");
+  assert.equal(hittaLag({ ...match, hemma: "Nybro Vikings IF" }), null);
+  assert.equal(iSasong(lag, new Date("2026-01-15")), true);
+  assert.equal(iSasong(lag, new Date("2026-06-15")), false);
+  assert.ok(LAG.every((l) => l.niva >= 1 && l.niva <= 3 && ["herr", "dam"].includes(l.kon)));
+});

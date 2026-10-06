@@ -12,7 +12,8 @@ import {
   KALLA, SPORTOMEDIA_FRAGA, bearbeta, hittaProfixioKalender, hittaSportalityParametrar,
   tolkaProfixioIcal, tolkaProfixioSida, tolkaSportality, tolkaSportomedia, tolkaSwehockey,
 } from "./regler.mjs";
-import { PROFIXIO_KALENDER, PROFIXIO_SIDA, SPORTALITY, SPORTOMEDIA, SWEHOCKEY } from "./konfig.mjs";
+import { LAG, PROFIXIO_KALENDER, PROFIXIO_SIDA, SPORTALITY, SPORTOMEDIA, SWEHOCKEY, hittaLag, iSasong } from "./konfig.mjs";
+import { writeFile } from "node:fs/promises";
 
 const JSON_POST = { "Content-Type": "application/json" };
 
@@ -80,7 +81,23 @@ async function main() {
       console.log(`::warning::${k.sport}, ${k.liga}: ${fel.message}`);
     }
   }
-  await sparaKalla(KALLA, bearbeta(matcher), matcher);
+  const evenemang = bearbeta(matcher, new Date(), hittaLag);
+  await sparaKalla(KALLA, evenemang, matcher);
+  await writeFile("data/sport-lag.json", JSON.stringify(lagStatus(matcher), null, 2) + "\n");
+}
+
+// Hur många kommande hemmamatcher i Uppsala har varje lag? Larmet
+// (scripts/kvalitet/larm.mjs) använder det när ett lag mitt i säsongen saknar matcher.
+function lagStatus(matcher, nu = new Date()) {
+  const om30 = new Date(nu.getTime() + 30 * 86400000).toISOString().slice(0, 10);
+  const hemma = bearbeta(matcher, nu); // bara matcher i Uppsala
+  const status = LAG.map((l) => {
+    const egna = matcher.filter((m) => hittaLag(m) === l && bearbeta([m], nu).length);
+    const inom30 = egna.filter((m) => String(m.start).slice(0, 10) <= om30);
+    if (iSasong(l, nu) && !egna.length) console.log(`::warning::${l.lag} (${l.liga}) är mitt i säsongen men har inga kommande hemmamatcher. Kolla id:t i scripts/sport/konfig.mjs.`);
+    return { lag: l.lag, sport: l.sport, kon: l.kon, niva: l.niva, liga: l.liga, antal: egna.length, hemmamatcher30: inom30.length, iSasong: iSasong(l, nu) };
+  });
+  return { uppdaterad: nu.toISOString(), antalMatcherIUppsala: hemma.length, lag: status };
 }
 
 kor(main);

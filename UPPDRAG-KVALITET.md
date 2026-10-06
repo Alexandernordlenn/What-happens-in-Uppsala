@@ -14,7 +14,7 @@ Uppdateras efter varje fas. Fortsätt med den första fasen som inte är klar.
 | 5. Sidan | Klar. Lisa-testet går igenom: alla 11 familjeevenemang utan ålder syns under "ålder ej angiven". |
 | 6. Skydd och larm | Klar. Spärren behåller gårdagens fil i upp till 3 dagar, larmen blir ärenden med etiketten larm. |
 | 7. Tickster-API, Ticketmaster och biljettlänkar | Klar. API-vägen väntar på `TICKSTER_API_KEY`, webbsidorna är reserv. Ticketmaster godtar canceled. Klubbarnas biljettlänkar görs i fas 8. |
-| 8. Sport på de tre högsta nivåerna | – |
+| 8. Sport på de tre högsta nivåerna | Klar. Lagtabell med 15 lag, Superettan tillagd, biljettlänkar för Sirius och Almtuna, larm per lag. Luckorna i KALLOR.md. |
 | 9. Claude som klassare | – |
 | 10. Facit, dokumentation och villkor | – |
 
