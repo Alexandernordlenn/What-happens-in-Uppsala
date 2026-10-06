@@ -1,34 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-05T04:32:39.619Z",
-  "antal": 341,
+  "hamtad": "2026-10-06T06:42:29.551Z",
+  "antal": 347,
   "evenemang": [
-    {
-      "id": "tickster-4gwn6uw3k69d4rl",
-      "titel": "Säsongen 2026/27",
-      "start": "2026-10-02T14:00:00+02:00",
-      "slut": "2027-01-29T16:00:00+01:00",
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu",
-        "lat": 59.882,
-        "lng": 17.6562
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/4gwn6uw3k69d4rl/2026-10-02/sasongen-2026-27",
-          "biljetter": "https://secure.tickster.com/sv/4gwn6uw3k69d4rl"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
     {
       "id": "tickster-v9103ug80ax09zz",
       "titel": "Tess Liautaud - Klubb Uffe",
@@ -1148,6 +1123,31 @@
       "installd": false
     },
     {
+      "id": "tickster-aag1b4vb7uk2a9y",
+      "titel": "Dolda rum: Rikssalen och drottning Kristina",
+      "start": "2026-10-13T11:00:00+02:00",
+      "slut": "2026-10-13T12:00:00+02:00",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/aag1b4vb7uk2a9y/2026-10-13/dolda-rum-rikssalen-och-drottning-kristina",
+          "biljetter": "https://secure.tickster.com/sv/aag1b4vb7uk2a9y"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-zbdbgmf4azjkmpm",
       "titel": "Avig",
       "start": "2026-10-13T18:00:00+02:00",
@@ -1634,6 +1634,31 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ezmb91pndt3jjeg/2026-10-18/filosoficafe-traden-om-slakttrad-och-band-i",
           "biljetter": "https://secure.tickster.com/sv/ezmb91pndt3jjeg"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-fcpy39cwuk7w8rh",
+      "titel": "Familjeverkstad: Drottning Kristina 400 år",
+      "start": "2026-10-18T14:30:00+02:00",
+      "slut": "2026-10-18T16:30:00+02:00",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/fcpy39cwuk7w8rh/2026-10-18/familjeverkstad-drottning-kristina-400-ar",
+          "biljetter": "https://secure.tickster.com/sv/fcpy39cwuk7w8rh"
         }
       ],
       "langvarig": false,
@@ -2758,6 +2783,32 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/l3leggvprmf3rf7/2026-10-29/halloween-hostlovet",
           "biljetter": "https://secure.tickster.com/sv/l3leggvprmf3rf7"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-upltrfh6ejfbgc9",
+      "titel": "Från Aladdin till Elsa",
+      "start": "2026-10-30T11:00:00+01:00",
+      "slut": "2026-10-30T12:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/upltrfh6ejfbgc9/2026-10-30/fran-aladdin-till-elsa",
+          "biljetter": "https://secure.tickster.com/sv/upltrfh6ejfbgc9"
         }
       ],
       "langvarig": false,
@@ -4177,6 +4228,31 @@
       "installd": false
     },
     {
+      "id": "tickster-xmbljfn3fww9xtj",
+      "titel": "Dolda rum: Rikssalen och drottning Kristina",
+      "start": "2026-11-17T11:00:00+01:00",
+      "slut": "2026-11-17T12:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/xmbljfn3fww9xtj/2026-11-17/dolda-rum-rikssalen-och-drottning-kristina",
+          "biljetter": "https://secure.tickster.com/sv/xmbljfn3fww9xtj"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-bjv49wfceyjyeef",
       "titel": "Moonica Mac",
       "start": "2026-11-17T20:00:00+01:00",
@@ -4253,6 +4329,29 @@
       "installd": false
     },
     {
+      "id": "tickster-w4ml1mwgut1xby1",
+      "titel": "Konsert: Alva Press Kvartett",
+      "start": "2026-11-19T19:00:00+01:00",
+      "slut": "2026-11-19T20:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala konstmuseum",
+        "id": "konstmuseum"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/w4ml1mwgut1xby1/2026-11-19/konsert-alva-press-kvartett",
+          "biljetter": "https://secure.tickster.com/sv/w4ml1mwgut1xby1"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-lbf49tfupxa3z0z",
       "titel": "GROOVE",
       "start": "2026-11-19T19:00:00+01:00",
@@ -4273,29 +4372,6 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/lbf49tfupxa3z0z/2026-11-19/groove",
           "biljetter": "https://secure.tickster.com/sv/lbf49tfupxa3z0z"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-w4ml1mwgut1xby1",
-      "titel": "Konsert: Alva Press Kvartett",
-      "start": "2026-11-19T19:00:00+01:00",
-      "slut": "2026-11-19T20:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/w4ml1mwgut1xby1/2026-11-19/konsert-alva-press-kvartett",
-          "biljetter": "https://secure.tickster.com/sv/w4ml1mwgut1xby1"
         }
       ],
       "langvarig": false,
@@ -5796,6 +5872,31 @@
       "installd": false
     },
     {
+      "id": "tickster-czjjmycfzd0438r",
+      "titel": "Dolda rum: Rikssalen och drottning Kristina",
+      "start": "2026-12-07T11:00:00+01:00",
+      "slut": "2026-12-07T12:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/czjjmycfzd0438r/2026-12-07/dolda-rum-rikssalen-och-drottning-kristina",
+          "biljetter": "https://secure.tickster.com/sv/czjjmycfzd0438r"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-ur67mwry64zh24r",
       "titel": "UUJO - Swinging Christmas",
       "start": "2026-12-08T20:00:00+01:00",
@@ -6804,6 +6905,29 @@
       "installd": false
     },
     {
+      "id": "tickster-wfeezykm0tu9xn7",
+      "titel": "Melodiquizet 15/1 2027",
+      "start": "2027-01-15T19:00:00+01:00",
+      "slut": "2027-01-15T21:00:00+01:00",
+      "plats": {
+        "namn": "Blackbird",
+        "id": "blackbird"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/wfeezykm0tu9xn7/2027-01-15/melodiquizet-15-1-2027",
+          "biljetter": "https://secure.tickster.com/sv/wfeezykm0tu9xn7"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-t2pya3kfhwp6j2l",
       "titel": "LKN",
       "start": "2027-01-15T20:00:00+01:00",
@@ -7791,6 +7915,31 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/bv8u7mj6b3g3hpw/2027-03-05/laleh-varturne-2027-jag-sag-hur-vi-var-stjarnor",
           "biljetter": "https://secure.tickster.com/sv/bv8u7mj6b3g3hpw"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-yzbv9756xctwf09",
+      "titel": "Lisa Ekdahl",
+      "start": "2027-03-05T20:00:00+01:00",
+      "slut": "2027-03-05T22:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/yzbv9756xctwf09/2027-03-05/lisa-ekdahl",
+          "biljetter": "https://secure.tickster.com/sv/yzbv9756xctwf09"
         }
       ],
       "langvarig": false,

@@ -1,7 +1,7 @@
 {
   "kalla": "Bibliotek Uppsala",
   "webbsida": "https://bibliotekuppsala.se/evenemang",
-  "hamtad": "2026-10-06T04:37:48.710Z",
+  "hamtad": "2026-10-06T06:42:52.824Z",
   "antal": 463,
   "evenemang": [
     {
@@ -1019,32 +1019,6 @@
       "installd": false
     },
     {
-      "id": "bibliotek-cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2",
-      "titel": "Idde-lördag!",
-      "start": "2026-10-10T12:00:00+02:00",
-      "slut": "2026-10-10T15:30:00+02:00",
-      "plats": {
-        "namn": "Sävjabiblioteket",
-        "id": "bibliotek-sävjabiblioteket"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "bibliotek-0c053308-1804-4733-9a74-a58d9408dfac",
       "titel": "Vernissage: Utställning om barnböckerna om bävern Ottar",
       "start": "2026-10-10T12:00:00+02:00",
@@ -1065,6 +1039,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/0c053308-1804-4733-9a74-a58d9408dfac"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2",
+      "titel": "Idde-lördag!",
+      "start": "2026-10-10T12:00:00+02:00",
+      "slut": "2026-10-10T15:30:00+02:00",
+      "plats": {
+        "namn": "Sävjabiblioteket",
+        "id": "bibliotek-sävjabiblioteket"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2"
         }
       ],
       "langvarig": false,
@@ -6870,6 +6870,32 @@
       "installd": false
     },
     {
+      "id": "bibliotek-dc7d4082-3a48-4801-8a29-c2592069c786",
+      "titel": "Bokcirkel torsdagar",
+      "start": "2026-11-12T18:30:00+01:00",
+      "slut": "2026-11-12T19:30:00+01:00",
+      "plats": {
+        "namn": "Gottsundabiblioteket",
+        "id": "bibliotek-gottsundabiblioteket"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": [
+        18,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/dc7d4082-3a48-4801-8a29-c2592069c786"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "bibliotek-1d83cd39-b2bb-4d82-9a31-ef34a5588055",
       "titel": "Pysselkväll med Lesbiskt rum",
       "start": "2026-11-12T18:30:00+01:00",
@@ -6891,32 +6917,6 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/1d83cd39-b2bb-4d82-9a31-ef34a5588055"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-dc7d4082-3a48-4801-8a29-c2592069c786",
-      "titel": "Bokcirkel torsdagar",
-      "start": "2026-11-12T18:30:00+01:00",
-      "slut": "2026-11-12T19:30:00+01:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/dc7d4082-3a48-4801-8a29-c2592069c786"
         }
       ],
       "langvarig": false,

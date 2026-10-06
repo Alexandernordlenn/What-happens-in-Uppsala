@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-10-06T04:39:59.468Z",
-  "antal": 451,
+  "hamtad": "2026-10-06T06:44:39.668Z",
+  "antal": 457,
   "evenemang": [
     {
       "id": "heja-charta-77-bonta-fran-asta-kask-2026",
@@ -215,7 +215,7 @@
       "id": "heja-uppsala-marknad-2026",
       "titel": "Uppsala Marknad",
       "start": "2026-10-04T10:00:00+02:00",
-      "slut": "2026-10-06",
+      "slut": null,
       "plats": {
         "namn": "Vaksala Torg",
         "id": "heja-plats-vaksala-torg"
@@ -251,6 +251,98 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2/",
           "arrangor": "https://www.katalin.com/events/jazzlunch-med-anything-goes/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-art-muse-music-2026",
+      "titel": "Art Muse Music",
+      "start": "2026-10-06T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "heja-plats-himlen-är-blå-som-en-apelsin"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/art-muse-music-2026/",
+          "arrangor": "http://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-art-muse-music-2026-2",
+      "titel": "Art Muse Music",
+      "start": "2026-10-06T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "heja-plats-himlen-är-blå-som-en-apelsin"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/art-muse-music-2026-2/",
+          "arrangor": "http://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-art-muse-music-2026-2-2",
+      "titel": "Art Muse Music",
+      "start": "2026-10-06T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "heja-plats-himlen-är-blå-som-en-apelsin"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/art-muse-music-2026-2-2/",
+          "arrangor": "http://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-art-muse-music-2026-2-2-2",
+      "titel": "Art Muse Music",
+      "start": "2026-10-06T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "heja-plats-himlen-är-blå-som-en-apelsin"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/art-muse-music-2026-2-2-2/",
+          "arrangor": "http://himlenarblasomenapelsin.com"
         }
       ],
       "langvarig": false,
@@ -2668,6 +2760,28 @@
       "installd": false
     },
     {
+      "id": "heja-demokrati-debatt-i-uppsala-2026",
+      "titel": "Demokrati-Debatt i Uppsala",
+      "start": "2026-10-22T18:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/demokrati-debatt-i-uppsala-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "heja-carl-johan-vallgren-ukk-2026",
       "titel": "Carl-Johan Vallgren",
       "start": "2026-10-22T19:00:00+02:00",
@@ -3798,6 +3912,29 @@
           "namn": "Heja Uppsala",
           "url": "https://hejauppsala.com/kalender/fran-aladdin-till-elsa-2026/",
           "arrangor": "https://secure.tickster.com/sv/wke3m53wxa4blbj/seating"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "heja-art-muse-music-2026-2-2-2-2",
+      "titel": "Art Muse Music",
+      "start": "2026-10-30T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "heja-plats-himlen-är-blå-som-en-apelsin"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/art-muse-music-2026-2-2-2-2/",
+          "arrangor": "http://himlenarblasomenapelsin.com"
         }
       ],
       "langvarig": false,

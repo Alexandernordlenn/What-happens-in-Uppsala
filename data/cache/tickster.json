@@ -1,22 +1,4 @@
 {
-  "https://www.tickster.com/se/sv/events/4gwn6uw3k69d4rl/2026-10-02/sasongen-2026-27": {
-    "titel": "Säsongen 2026/27",
-    "start": "2026-10-02T14:00:00",
-    "slut": "2027-01-29T16:00:00",
-    "platsId": "xlxe14zgt7n9ytm",
-    "plats": "IFU Arena",
-    "ort": "Uppsala",
-    "lat": 59.882,
-    "lng": 17.6562,
-    "taggar": [
-      "innebandy"
-    ],
-    "arrangorId": "jhud0m7539k0xr5",
-    "arrangor": "Hagunda IF",
-    "kop": "https://secure.tickster.com/sv/4gwn6uw3k69d4rl",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/v9103ug80ax09zz/2026-10-06/tess-liautaud-klubb-uffe": {
     "titel": "Tess Liautaud - Klubb Uffe",
     "start": "2026-10-06T20:00:00",
@@ -808,6 +790,22 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/aag1b4vb7uk2a9y/2026-10-13/dolda-rum-rikssalen-och-drottning-kristina": {
+    "titel": "Dolda rum: Rikssalen och drottning Kristina",
+    "start": "2026-10-13T11:00:00",
+    "slut": "2026-10-13T12:00:00",
+    "platsId": "kl3uktc5vbvyj38",
+    "plats": "Uppsala slottshistoriska",
+    "ort": "Uppsala",
+    "lat": 59.8542,
+    "lng": 17.6351,
+    "taggar": [],
+    "arrangorId": "6aj6nunx2afputb",
+    "arrangor": "Uppsala Slottshistoriska",
+    "kop": "https://secure.tickster.com/sv/aag1b4vb7uk2a9y",
+    "status": "",
+    "hamtad": "2026-10-06"
+  },
   "https://www.tickster.com/se/sv/events/zbdbgmf4azjkmpm/2026-10-13/avig": {
     "titel": "Avig",
     "start": "2026-10-13T18:00:00",
@@ -1204,6 +1202,22 @@
     "kop": "https://secure.tickster.com/sv/ezmb91pndt3jjeg",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/fcpy39cwuk7w8rh/2026-10-18/familjeverkstad-drottning-kristina-400-ar": {
+    "titel": "Familjeverkstad: Drottning Kristina 400 år",
+    "start": "2026-10-18T14:30:00",
+    "slut": "2026-10-18T16:30:00",
+    "platsId": "kl3uktc5vbvyj38",
+    "plats": "Uppsala slottshistoriska",
+    "ort": "Uppsala",
+    "lat": 59.8542,
+    "lng": 17.6351,
+    "taggar": [],
+    "arrangorId": "6aj6nunx2afputb",
+    "arrangor": "Uppsala Slottshistoriska",
+    "kop": "https://secure.tickster.com/sv/fcpy39cwuk7w8rh",
+    "status": "",
+    "hamtad": "2026-10-06"
   },
   "https://www.tickster.com/se/sv/events/tpmbjbvpmpr00rz/2026-10-18/robert-wells-40-ar-vid-flygeln": {
     "titel": "Robert Wells – 40 år vid flygeln",
@@ -2094,6 +2108,24 @@
     "kop": "https://secure.tickster.com/sv/l3leggvprmf3rf7",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/upltrfh6ejfbgc9/2026-10-30/fran-aladdin-till-elsa": {
+    "titel": "Från Aladdin till Elsa",
+    "start": "2026-10-30T11:00:00",
+    "slut": "2026-10-30T12:00:00",
+    "platsId": "y90dvlpxyewf4h0",
+    "plats": "Uppsala Konsert & Kongress, Sal B",
+    "ort": "Uppsala",
+    "lat": 59.8586,
+    "lng": 17.6389,
+    "taggar": [
+      "barn"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": "https://secure.tickster.com/sv/upltrfh6ejfbgc9",
+    "status": "",
+    "hamtad": "2026-10-06"
   },
   "https://www.tickster.com/se/sv/events/wke3m53wxa4blbj/2026-10-30/fran-aladdin-till-elsa": {
     "titel": "Från Aladdin till Elsa",
@@ -3244,6 +3276,22 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/xmbljfn3fww9xtj/2026-11-17/dolda-rum-rikssalen-och-drottning-kristina": {
+    "titel": "Dolda rum: Rikssalen och drottning Kristina",
+    "start": "2026-11-17T11:00:00",
+    "slut": "2026-11-17T12:00:00",
+    "platsId": "kl3uktc5vbvyj38",
+    "plats": "Uppsala slottshistoriska",
+    "ort": "Uppsala",
+    "lat": 59.8542,
+    "lng": 17.6351,
+    "taggar": [],
+    "arrangorId": "6aj6nunx2afputb",
+    "arrangor": "Uppsala Slottshistoriska",
+    "kop": "https://secure.tickster.com/sv/xmbljfn3fww9xtj",
+    "status": "",
+    "hamtad": "2026-10-06"
+  },
   "https://www.tickster.com/se/sv/events/bjv49wfceyjyeef/2026-11-17/moonica-mac": {
     "titel": "Moonica Mac",
     "start": "2026-11-17T20:00:00",
@@ -3316,6 +3364,22 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/w4ml1mwgut1xby1/2026-11-19/konsert-alva-press-kvartett": {
+    "titel": "Konsert: Alva Press Kvartett",
+    "start": "2026-11-19T19:00:00",
+    "slut": "2026-11-19T20:00:00",
+    "platsId": "x01kba461v6968w",
+    "plats": "Uppsala konstmuseum",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [],
+    "arrangorId": "6x97by0jdkknn6z",
+    "arrangor": "Uppsala konstmuseum",
+    "kop": "https://secure.tickster.com/sv/w4ml1mwgut1xby1",
+    "status": "",
+    "hamtad": "2026-09-24"
+  },
   "https://www.tickster.com/se/sv/events/lbf49tfupxa3z0z/2026-11-19/groove": {
     "titel": "GROOVE",
     "start": "2026-11-19T19:00:00",
@@ -3331,22 +3395,6 @@
     "arrangorId": "y5zw8v159wk4fe3",
     "arrangor": "Uppsala Konsert & Kongress",
     "kop": "https://secure.tickster.com/sv/lbf49tfupxa3z0z",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/w4ml1mwgut1xby1/2026-11-19/konsert-alva-press-kvartett": {
-    "titel": "Konsert: Alva Press Kvartett",
-    "start": "2026-11-19T19:00:00",
-    "slut": "2026-11-19T20:00:00",
-    "platsId": "x01kba461v6968w",
-    "plats": "Uppsala konstmuseum",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "6x97by0jdkknn6z",
-    "arrangor": "Uppsala konstmuseum",
-    "kop": "https://secure.tickster.com/sv/w4ml1mwgut1xby1",
     "status": "",
     "hamtad": "2026-09-24"
   },
@@ -4565,6 +4613,22 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/czjjmycfzd0438r/2026-12-07/dolda-rum-rikssalen-och-drottning-kristina": {
+    "titel": "Dolda rum: Rikssalen och drottning Kristina",
+    "start": "2026-12-07T11:00:00",
+    "slut": "2026-12-07T12:00:00",
+    "platsId": "kl3uktc5vbvyj38",
+    "plats": "Uppsala slottshistoriska",
+    "ort": "Uppsala",
+    "lat": 59.8542,
+    "lng": 17.6351,
+    "taggar": [],
+    "arrangorId": "6aj6nunx2afputb",
+    "arrangor": "Uppsala Slottshistoriska",
+    "kop": "https://secure.tickster.com/sv/czjjmycfzd0438r",
+    "status": "",
+    "hamtad": "2026-10-06"
+  },
   "https://www.tickster.com/se/sv/events/ur67mwry64zh24r/2026-12-08/uujo-swinging-christmas": {
     "titel": "UUJO - Swinging Christmas",
     "start": "2026-12-08T20:00:00",
@@ -5433,6 +5497,22 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/wfeezykm0tu9xn7/2027-01-15/melodiquizet-15-1-2027": {
+    "titel": "Melodiquizet 15/1 2027",
+    "start": "2027-01-15T19:00:00",
+    "slut": "2027-01-15T21:00:00",
+    "platsId": "wxmp1b47cy963m5",
+    "plats": "Blackbird",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [],
+    "arrangorId": "vj827hxvpnhn8re",
+    "arrangor": "Jacke Sjödin",
+    "kop": "https://secure.tickster.com/sv/wfeezykm0tu9xn7",
+    "status": "",
+    "hamtad": "2026-10-06"
+  },
   "https://www.tickster.com/se/sv/events/t2pya3kfhwp6j2l/2027-01-15/lkn": {
     "titel": "LKN",
     "start": "2027-01-15T20:00:00",
@@ -6214,6 +6294,33 @@
     "kop": null,
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/yzbv9756xctwf09/2027-03-05/lisa-ekdahl": {
+    "titel": "Lisa Ekdahl",
+    "start": "2027-03-05T20:00:00",
+    "slut": "2027-03-05T22:00:00",
+    "platsId": "l0h5xlh16zztxwa",
+    "plats": "Katalin and all that Jazz",
+    "ort": "Uppsala",
+    "lat": 59.8595,
+    "lng": 17.6465,
+    "taggar": [
+      "katalinlive",
+      "uppsala",
+      "katalin",
+      "musik",
+      "konsert",
+      "kaliber live",
+      "lisa ekdahl",
+      "pop",
+      "visa",
+      "live nation"
+    ],
+    "arrangorId": "gf5dj34fjr9ddw5",
+    "arrangor": "Kaliber Live",
+    "kop": null,
+    "status": "",
+    "hamtad": "2026-10-06"
   },
   "https://www.tickster.com/se/sv/events/bycra2ryrkpny7l/2027-03-06/laleh-varturne-2027-jag-sag-hur-vi-var-stjarnor": {
     "titel": "Laleh vårturné 2027 – Jag såg hur vi var stjärnor",
