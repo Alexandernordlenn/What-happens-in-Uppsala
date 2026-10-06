@@ -1,220 +1,9 @@
 {
   "kalla": "Bibliotek Uppsala",
   "webbsida": "https://bibliotekuppsala.se/evenemang",
-  "hamtad": "2026-10-05T04:33:03.206Z",
-  "antal": 471,
+  "hamtad": "2026-10-06T04:37:48.710Z",
+  "antal": 463,
   "evenemang": [
-    {
-      "id": "bibliotek-14c52a54-c8b6-43dc-acd6-38452351a40c",
-      "titel": "Öppet hus för 0–5-åringar!",
-      "start": "2026-10-05T09:00:00+02:00",
-      "slut": "2026-10-05T12:00:00+02:00",
-      "plats": {
-        "namn": "Storvretabiblioteket",
-        "id": "bibliotek-storvretabiblioteket"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/14c52a54-c8b6-43dc-acd6-38452351a40c"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-722486eb-068c-45cf-b740-bd3a83007695",
-      "titel": "Kreativt skrivande 65+",
-      "start": "2026-10-05T13:00:00+02:00",
-      "slut": "2026-10-05T14:30:00+02:00",
-      "plats": {
-        "namn": "Stenhagenbiblioteket",
-        "id": "bibliotek-stenhagenbiblioteket"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/722486eb-068c-45cf-b740-bd3a83007695"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-b3a4a44e-4c45-4cdf-aabe-5820aa32f253",
-      "titel": "Läs tillsammans!",
-      "start": "2026-10-05T15:00:00+02:00",
-      "slut": "2026-10-05T15:30:00+02:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/b3a4a44e-4c45-4cdf-aabe-5820aa32f253"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-40037686-4bb5-467c-a8d7-abc4c30deae4",
-      "titel": "Spela schack",
-      "start": "2026-10-05T15:00:00+02:00",
-      "slut": "2026-10-05T16:00:00+02:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        19
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/40037686-4bb5-467c-a8d7-abc4c30deae4"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-e885dbf4-6789-472b-bd0a-37c22b127098",
-      "titel": "Rollspelsklubb",
-      "start": "2026-10-05T16:00:00+02:00",
-      "slut": "2026-10-05T19:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Molnets grupprum"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        13,
-        19
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/e885dbf4-6789-472b-bd0a-37c22b127098"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-e00c0fb2-1677-4116-8d41-6180e3600c9c",
-      "titel": "Förbjuden bokcirkel: Du sköna nya värld",
-      "start": "2026-10-05T18:00:00+02:00",
-      "slut": "2026-10-05T19:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Konferensrummet"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/e00c0fb2-1677-4116-8d41-6180e3600c9c"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-0df4d50a-e5bf-43ad-934d-a26083cfc402",
-      "titel": "Brännmärkt 12 röster om stigma",
-      "start": "2026-10-05T18:00:00+02:00",
-      "slut": "2026-10-05T19:30:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Mallas sal"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/0df4d50a-e5bf-43ad-934d-a26083cfc402"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "bibliotek-836d9c0c-e9a5-40a4-bbe0-97b65d86e3c0",
-      "titel": "Haikuafton",
-      "start": "2026-10-05T18:30:00+02:00",
-      "slut": "2026-10-05T19:30:00+02:00",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "bibliotek-gottsundabiblioteket"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/836d9c0c-e9a5-40a4-bbe0-97b65d86e3c0"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "bibliotek-512f5424-5265-4205-94f7-48223585c69e",
       "titel": "Sagostund på svenska för barn 1–3 år",
@@ -1230,32 +1019,6 @@
       "installd": false
     },
     {
-      "id": "bibliotek-0c053308-1804-4733-9a74-a58d9408dfac",
-      "titel": "Vernissage: Utställning om barnböckerna om bävern Ottar",
-      "start": "2026-10-10T12:00:00+02:00",
-      "slut": "2026-10-10T14:00:00+02:00",
-      "plats": {
-        "namn": "Storvretabiblioteket",
-        "id": "bibliotek-storvretabiblioteket"
-      },
-      "kategori": "museum",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/0c053308-1804-4733-9a74-a58d9408dfac"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "bibliotek-cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2",
       "titel": "Idde-lördag!",
       "start": "2026-10-10T12:00:00+02:00",
@@ -1276,6 +1039,32 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/cbfdfc76-3c65-42c0-aba8-8d9df2bb8ff2"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "bibliotek-0c053308-1804-4733-9a74-a58d9408dfac",
+      "titel": "Vernissage: Utställning om barnböckerna om bävern Ottar",
+      "start": "2026-10-10T12:00:00+02:00",
+      "slut": "2026-10-10T14:00:00+02:00",
+      "plats": {
+        "namn": "Storvretabiblioteket",
+        "id": "bibliotek-storvretabiblioteket"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/0c053308-1804-4733-9a74-a58d9408dfac"
         }
       ],
       "langvarig": false,

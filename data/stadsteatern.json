@@ -1,8 +1,8 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-10-05T04:31:36.042Z",
-  "antal": 185,
+  "hamtad": "2026-10-06T04:29:26.707Z",
+  "antal": 186,
   "evenemang": [
     {
       "id": "stadsteatern-129544",
@@ -826,6 +826,30 @@
       "installd": false
     },
     {
+      "id": "stadsteatern-135568",
+      "titel": "Medan vi brinner",
+      "start": "2026-11-03T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/135568/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "stadsteatern-121536",
       "titel": "Studie i mänskligt beteende",
       "start": "2026-11-04T19:00:00+01:00",
@@ -1102,7 +1126,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": true,
-      "notering": "Få biljetter kvar",
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",

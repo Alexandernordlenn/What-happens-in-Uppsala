@@ -1,7 +1,7 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-05T04:35:50.243Z",
+  "hamtad": "2026-10-06T04:41:01.377Z",
   "antal": 144,
   "evenemang": [
     {
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "sport-sportality-dyrcgznag7",
-      "titel": "Storvreta IBK – IBK Lockerud (dam)",
+      "titel": "Storvreta IBK – IBK Lockerud Mariestad (dam)",
       "start": "2026-12-19T14:00:00+01:00",
       "slut": null,
       "plats": {
@@ -1984,7 +1984,7 @@
     },
     {
       "id": "sport-sportality-p8iaac8fpo",
-      "titel": "Storvreta IBK – Team Thorengruppen (dam)",
+      "titel": "Storvreta IBK – Thorengruppen IBK (dam)",
       "start": "2027-01-09T14:00:00+01:00",
       "slut": null,
       "plats": {
@@ -3272,7 +3272,7 @@
     },
     {
       "id": "sport-sportality-p3i4cihgmv",
-      "titel": "Storvreta IBK – Växjö Vipers",
+      "titel": "Storvreta IBK – Växjö IBK",
       "start": "2027-03-21T17:00:00+01:00",
       "slut": null,
       "plats": {
@@ -3295,7 +3295,7 @@
     },
     {
       "id": "sport-sportality-wnhcm16wc2",
-      "titel": "Storvreta IBK – Växjö Vipers  (dam)",
+      "titel": "Storvreta IBK – Växjö IBK (dam)",
       "start": "2027-03-29T14:00:00+02:00",
       "slut": null,
       "plats": {

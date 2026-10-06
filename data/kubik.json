@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-05T04:35:05.438Z",
-  "antal": 276,
+  "hamtad": "2026-10-06T04:40:16.643Z",
+  "antal": 284,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -2267,32 +2267,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-spela-schack-ht26-gottsunda-2026-10-05-1500",
-      "titel": "Spela schack",
-      "plats": {
-        "namn": "Gottsundabiblioteket",
-        "id": "kubik-plats-gottsundabiblioteket"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        18
-      ],
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spela-schack-ht26-gottsunda/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-10-05T15:00:00+02:00",
-      "slut": "2026-10-05T16:00:00+02:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-sagostund-1-3-aar-2026-2026-10-06-1030",
       "titel": "Sagostund för barn 1-3 år",
       "plats": {
@@ -3748,6 +3722,34 @@
       "langvarig": false
     },
     {
+      "id": "kubik-pizza-poesi-graenby-fritidsgaard-2026-10-24-1100",
+      "titel": "Pizza & Poesi Gränby Fritidsgård",
+      "plats": {
+        "namn": "Gränby Fritidsgård",
+        "id": "kubik-plats-gränby-fritidsgård"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/pizza-poesi-graenby-fritidsgaard/",
+          "arrangor": "https://fb.me/e/7Vtu7OOxF"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-24T11:00:00+02:00",
+      "slut": "2026-10-24T14:00:00+02:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-trolleriworkshop-storvreta-2026-10-24-1200",
       "titel": "Trolleriworkshop med Magnus Vihagen",
       "plats": {
@@ -4176,35 +4178,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-hoestlov-paa-graenby-fritidsgaard",
-      "titel": "Höstlov på Gränby fritidsgård!",
-      "plats": {
-        "namn": "Gränby fritidsgård",
-        "id": "kubik-plats-gränby-fritidsgård"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        13,
-        18
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-graenby-fritidsgaard/",
-          "arrangor": "http://@granby.fritidsgard/"
-        }
-      ],
-      "installd": false,
-      "start": "2026-10-26",
-      "slut": "2026-10-29",
-      "notering": "Återkommande, kl. 18:00–21:00. Se Kubik för vilka dagar.",
-      "langvarig": true
-    },
-    {
       "id": "kubik-hoestlov-paa-loetens-fritidsgaarden",
       "titel": "Höstlov på Lötens fritidsgården",
       "plats": {
@@ -4258,6 +4231,35 @@
       "start": "2026-10-26",
       "slut": "2026-10-30",
       "notering": "Återkommande, kl. 18:00–23:00. Se Kubik för vilka dagar.",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoestlov-paa-graenby-fritidsgaard",
+      "titel": "Höstlov på Gränby fritidsgård!",
+      "plats": {
+        "namn": "Gränby fritidsgård",
+        "id": "kubik-plats-gränby-fritidsgård"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-graenby-fritidsgaard/",
+          "arrangor": "http://@granby.fritidsgard/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26",
+      "slut": "2026-10-29",
+      "notering": "Återkommande, kl. 18:00–21:00. Se Kubik för vilka dagar.",
       "langvarig": true
     },
     {
@@ -4424,6 +4426,33 @@
       "installd": false,
       "start": "2026-10-26T15:00:00+01:00",
       "slut": "2026-10-26T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-hoestens-faerger-2026-10-26-1800",
+      "titel": "Höstens färger",
+      "plats": {
+        "namn": "Stenhagens fritidsgård",
+        "id": "kubik-plats-stenhagens-fritidsgård"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "vastra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestens-faerger/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-26T18:00:00+01:00",
+      "slut": "2026-10-26T20:00:00+01:00",
       "langvarig": false
     },
     {
@@ -5232,6 +5261,33 @@
       "langvarig": false
     },
     {
+      "id": "kubik-hoestbakning-ljuslyktor-2026-10-29-1800",
+      "titel": "Höstbakning & ljuslyktor",
+      "plats": {
+        "namn": "Stenhagens fritidsgård",
+        "id": "kubik-plats-stenhagens-fritidsgård"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "vastra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestbakning-ljuslyktor/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-29T18:00:00+01:00",
+      "slut": "2026-10-29T20:00:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-escape-room-graenbymysteriet-paa-graenby-allaktivitetshus-2026-10-30-1000",
       "titel": "Escape room: Gränbymysteriet på Gränby allaktivitetshus",
       "plats": {
@@ -5285,6 +5341,34 @@
       "installd": false,
       "start": "2026-10-30T12:30:00+01:00",
       "slut": "2026-10-30T13:45:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-fraan-aladdin-till-elsa-2026-10-30-1300",
+      "titel": "Från Aladdin till Elsa",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        25
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fraan-aladdin-till-elsa/",
+          "arrangor": "https://ukk.se/fran-aladdin-till-elsa/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-30T13:00:00+01:00",
+      "slut": "2026-10-30T14:00:00+01:00",
       "langvarig": false
     },
     {
@@ -5396,6 +5480,33 @@
       "installd": false,
       "start": "2026-10-30T18:00:00+01:00",
       "slut": "2026-10-30T23:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-halloweenfilm-fotbollskvaell-2026-10-30-1800",
+      "titel": "Halloweenfilm & fotbollskväll",
+      "plats": {
+        "namn": "Stenhagens fritidsgård",
+        "id": "kubik-plats-stenhagens-fritidsgård"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "vastra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/halloweenfilm-fotbollskvaell/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-10-30T18:00:00+01:00",
+      "slut": "2026-10-30T22:00:00+01:00",
       "langvarig": false
     },
     {
@@ -5590,6 +5701,34 @@
       "installd": false,
       "start": "2026-11-01T13:30:00+01:00",
       "slut": "2026-11-01T14:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-fem-myror-konsert-2026-11-01-1400",
+      "titel": "Fem myror - Konsert!",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fem-myror-konsert/",
+          "arrangor": "https://ukk.se/fem-myror-konsert/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-01T14:00:00+01:00",
+      "slut": "2026-11-01T14:40:00+01:00",
       "langvarig": false
     },
     {
@@ -6433,6 +6572,34 @@
       "langvarig": false
     },
     {
+      "id": "kubik-saffransmysteriet-lassemajas-detektivbyraa-2026-11-21-1100",
+      "titel": "Saffransmysteriet LasseMajas detektivbyrå",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        25
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/saffransmysteriet-lassemajas-detektivbyraa/",
+          "arrangor": "https://ukk.se/saffransmysteriet-lassemajas-detektivbyra-2/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-21T11:00:00+01:00",
+      "slut": "2026-11-21T11:45:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-minibio-2026-11-21-1115",
       "titel": "Minibio",
       "plats": {
@@ -6458,6 +6625,34 @@
       "installd": false,
       "start": "2026-11-21T11:15:00+01:00",
       "slut": "2026-11-21T11:45:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-saffransmysteriet-lassemajas-detektivbyraa-2026-11-21-1300",
+      "titel": "Saffransmysteriet LasseMajas detektivbyrå",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        25
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/saffransmysteriet-lassemajas-detektivbyraa/",
+          "arrangor": "https://ukk.se/saffransmysteriet-lassemajas-detektivbyra-2/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-21T13:00:00+01:00",
+      "slut": "2026-11-21T13:45:00+01:00",
       "langvarig": false
     },
     {
@@ -6514,6 +6709,34 @@
       "installd": false,
       "start": "2026-11-21T14:30:00+01:00",
       "slut": "2026-11-21T15:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-saffransmysteriet-lassemajas-detektivbyraa-2026-11-21-1500",
+      "titel": "Saffransmysteriet LasseMajas detektivbyrå",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        25
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/saffransmysteriet-lassemajas-detektivbyraa/",
+          "arrangor": "https://ukk.se/saffransmysteriet-lassemajas-detektivbyra-2/"
+        }
+      ],
+      "installd": false,
+      "start": "2026-11-21T15:00:00+01:00",
+      "slut": "2026-11-21T15:45:00+01:00",
       "langvarig": false
     },
     {
