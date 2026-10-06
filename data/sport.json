@@ -1,147 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-02T04:33:41.722Z",
-  "antal": 150,
+  "hamtad": "2026-10-06T04:41:01.377Z",
+  "antal": 144,
   "evenemang": [
-    {
-      "id": "sport-profixio-32636858",
-      "titel": "Uppsala Basket – Högsbo Basket",
-      "start": "2026-10-02T19:04:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid27640/match/32636858"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-sportality-yinc6pcn5v",
-      "titel": "Gamla Upsala – Enskede IK (dam)",
-      "start": "2026-10-03T14:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Fotboll, Elitettan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Ligans webbplats",
-          "url": "https://www.elitettan.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-profixio-32682403",
-      "titel": "Uppsala Basket – Södertälje BBK (dam)",
-      "start": "2026-10-03T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "USIF Arena",
-        "id": "usif"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Basket, Basketligan dam",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid27644/match/32682403"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-profixio-32644530",
-      "titel": "Uppsala HK – HK Eskil",
-      "start": "2026-10-03T16:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Handboll, Herr 1",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid28142/match/32644530"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-profixio-32656540",
-      "titel": "Uppsala VBS – Lule Volley (dam)",
-      "start": "2026-10-04T10:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Volleyboll, Division 1 dam",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid27937/match/32656540"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-sportality-oe4qwfxljp",
-      "titel": "Storvreta IBK – IBK Lund",
-      "start": "2026-10-04T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "notering": "Innebandy, SSL herr",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Ligans webbplats",
-          "url": "https://www.ssl.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-sportality-c4cg83vmu6",
       "titel": "Storvreta IBK – Täby FC (dam)",
@@ -1846,7 +1708,7 @@
     },
     {
       "id": "sport-sportality-dyrcgznag7",
-      "titel": "Storvreta IBK – IBK Lockerud (dam)",
+      "titel": "Storvreta IBK – IBK Lockerud Mariestad (dam)",
       "start": "2026-12-19T14:00:00+01:00",
       "slut": null,
       "plats": {
@@ -2122,7 +1984,7 @@
     },
     {
       "id": "sport-sportality-p8iaac8fpo",
-      "titel": "Storvreta IBK – Team Thorengruppen (dam)",
+      "titel": "Storvreta IBK – Thorengruppen IBK (dam)",
       "start": "2027-01-09T14:00:00+01:00",
       "slut": null,
       "plats": {
@@ -3410,7 +3272,7 @@
     },
     {
       "id": "sport-sportality-p3i4cihgmv",
-      "titel": "Storvreta IBK – Växjö Vipers",
+      "titel": "Storvreta IBK – Växjö IBK",
       "start": "2027-03-21T17:00:00+01:00",
       "slut": null,
       "plats": {
@@ -3433,7 +3295,7 @@
     },
     {
       "id": "sport-sportality-wnhcm16wc2",
-      "titel": "Storvreta IBK – Växjö Vipers  (dam)",
+      "titel": "Storvreta IBK – Växjö IBK (dam)",
       "start": "2027-03-29T14:00:00+02:00",
       "slut": null,
       "plats": {

@@ -1,59 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-02T04:30:12.211Z",
-  "antal": 350,
+  "hamtad": "2026-10-05T04:32:39.619Z",
+  "antal": 341,
   "evenemang": [
-    {
-      "id": "tickster-pjz687vuj4nva61",
-      "titel": "SBL Herr Säsongen 26/27",
-      "start": "2026-09-30T19:04:00+02:00",
-      "slut": "2027-04-28T21:30:00+02:00",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "lat": 59.8702,
-        "lng": 17.6245
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/pjz687vuj4nva61/2026-09-30/sbl-herr-sasongen-26-27",
-          "biljetter": "https://secure.tickster.com/sv/pjz687vuj4nva61"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "tickster-7vht8x5cvjpnbtk",
-      "titel": "Torsdagskul - Tema: Baka bröd ute (1/10 & 8/10)",
-      "start": "2026-10-01T14:30:00+02:00",
-      "slut": "2026-10-08T15:30:00+02:00",
-      "plats": {
-        "namn": "Biotopia",
-        "id": "biotopia",
-        "lat": 59.8601,
-        "lng": 17.6223
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/7vht8x5cvjpnbtk/2026-10-01/torsdagskul-tema-baka-brod-ute-1-10-and-8-10",
-          "biljetter": "https://secure.tickster.com/sv/7vht8x5cvjpnbtk"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
     {
       "id": "tickster-4gwn6uw3k69d4rl",
       "titel": "Säsongen 2026/27",
@@ -77,224 +27,6 @@
         }
       ],
       "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "tickster-f9l7ac53fagg4xp",
-      "titel": "Hagunda IF - Skälby IBK",
-      "start": "2026-10-02T19:00:00+02:00",
-      "slut": "2026-10-02T21:00:00+02:00",
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu",
-        "lat": 59.882,
-        "lng": 17.6562
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/f9l7ac53fagg4xp/2026-10-02/hagunda-if-skalby-ibk",
-          "biljetter": "https://secure.tickster.com/sv/f9l7ac53fagg4xp"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-fvh9rnp656jenx4",
-      "titel": "Marco Mendoza",
-      "start": "2026-10-02T20:00:00+02:00",
-      "slut": "2026-10-02T22:00:00+02:00",
-      "plats": {
-        "namn": "Blackbird",
-        "id": "blackbird"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/fvh9rnp656jenx4/2026-10-02/marco-mendoza",
-          "biljetter": "https://secure.tickster.com/sv/fvh9rnp656jenx4"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-cp9h0w9c5rdalm1",
-      "titel": "NISSE HALLBERG - 8 ÅR SENARE",
-      "start": "2026-10-02T20:00:00+02:00",
-      "slut": "2026-10-02T21:30:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/cp9h0w9c5rdalm1/2026-10-02/nisse-hallberg-8-ar-senare",
-          "biljetter": "https://secure.tickster.com/sv/cp9h0w9c5rdalm1"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-vnw0x8lu5ek7gw8",
-      "titel": "Sirius vs IBF Örebro",
-      "start": "2026-10-03T16:00:00+02:00",
-      "slut": "2026-10-03T18:00:00+02:00",
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu",
-        "lat": 59.882,
-        "lng": 17.6562
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/vnw0x8lu5ek7gw8/2026-10-03/sirius-vs-ibf-orebro",
-          "biljetter": "https://secure.tickster.com/sv/vnw0x8lu5ek7gw8"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-7j98l7xxlt66rge",
-      "titel": "Leo Lindberg",
-      "start": "2026-10-03T19:30:00+02:00",
-      "slut": "2026-10-03T22:00:00+02:00",
-      "plats": {
-        "namn": "Blackbird",
-        "id": "blackbird"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/7j98l7xxlt66rge/2026-10-03/leo-lindberg",
-          "biljetter": "https://secure.tickster.com/sv/7j98l7xxlt66rge"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-69rn2rf0gzbkuhr",
-      "titel": "Tove Gustavsson - The Blues Uppsala",
-      "start": "2026-10-03T20:00:00+02:00",
-      "slut": "2026-10-03T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/69rn2rf0gzbkuhr/2026-10-03/tove-gustavsson-the-blues-uppsala",
-          "biljetter": "https://secure.tickster.com/sv/69rn2rf0gzbkuhr"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-rfml93e5btgucge",
-      "titel": "Luke Elliot – The King of Rock and Roll Tour",
-      "start": "2026-10-03T20:00:00+02:00",
-      "slut": "2026-10-03T21:45:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8598,
-        "lng": 17.6459
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/rfml93e5btgucge/2026-10-03/luke-elliot-the-king-of-rock-and-roll-tour",
-          "biljetter": "https://secure.tickster.com/sv/rfml93e5btgucge"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-t8bjj2e6u7w6arz",
-      "titel": "Samtal: Möt årets Art´n Fiber® residenskonstnär",
-      "start": "2026-10-04T14:00:00+02:00",
-      "slut": "2026-10-04T15:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/t8bjj2e6u7w6arz/2026-10-04/samtal-mot-arets-art-n-fiber-residenskonstnar",
-          "biljetter": "https://secure.tickster.com/sv/t8bjj2e6u7w6arz"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-cku12ktwj2df8tz",
-      "titel": "Poste Restante 4/10",
-      "start": "2026-10-04T16:00:00+02:00",
-      "slut": "2026-10-04T18:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/cku12ktwj2df8tz/2026-10-04/poste-restante-4-10",
-          "biljetter": "https://secure.tickster.com/sv/cku12ktwj2df8tz"
-        }
-      ],
-      "langvarig": false,
       "installd": false
     },
     {
@@ -3919,6 +3651,31 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/317cpfzb54vve17/2026-11-07/the-daytrippers-bakfickan",
           "biljetter": "https://secure.tickster.com/sv/317cpfzb54vve17"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-4n9tyntpn3bh3pd",
+      "titel": "CHEZIDEK | BEWAREHOUSE ALLSTARS | ROOTSTEPPAZ",
+      "start": "2026-11-07T20:00:00+01:00",
+      "slut": "2026-11-08T03:00:00+01:00",
+      "plats": {
+        "namn": "Interpool",
+        "id": "tickster-plats-5a7h1zpp7wukvlb",
+        "lat": 59.8601,
+        "lng": 17.6363
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/4n9tyntpn3bh3pd/2026-11-07/chezidek-bewarehouse-allstars-rootsteppaz",
+          "biljetter": "https://secure.tickster.com/sv/4n9tyntpn3bh3pd"
         }
       ],
       "langvarig": false,
@@ -8109,6 +7866,31 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/5mk041j56bludkj/2027-03-12/marika-och-klimakteriet",
           "biljetter": "https://secure.tickster.com/sv/5mk041j56bludkj"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-l2eptd3za9kzdr3",
+      "titel": "Sunnan",
+      "start": "2027-03-12T20:00:00+01:00",
+      "slut": "2027-03-12T22:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/l2eptd3za9kzdr3/2027-03-12/sunnan",
+          "biljetter": "https://secure.tickster.com/sv/l2eptd3za9kzdr3"
         }
       ],
       "langvarig": false,

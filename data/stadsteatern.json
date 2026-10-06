@@ -1,105 +1,9 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-10-02T04:28:53.876Z",
-  "antal": 189,
+  "hamtad": "2026-10-06T04:29:26.707Z",
+  "antal": 186,
   "evenemang": [
-    {
-      "id": "stadsteatern-125947",
-      "titel": "Medan vi brinner",
-      "start": "2026-10-02T18:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Lilla scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125947/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-125893",
-      "titel": "Stadens ljus",
-      "start": "2026-10-02T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Stora scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125893/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-121676",
-      "titel": "Stadens ljus",
-      "start": "2026-10-03T16:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Stora scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/121676/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-125948",
-      "titel": "Medan vi brinner",
-      "start": "2026-10-03T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Lilla scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125948/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "stadsteatern-129544",
       "titel": "Sommar",
@@ -922,6 +826,30 @@
       "installd": false
     },
     {
+      "id": "stadsteatern-135568",
+      "titel": "Medan vi brinner",
+      "start": "2026-11-03T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/135568/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "stadsteatern-121536",
       "titel": "Studie i mänskligt beteende",
       "start": "2026-11-04T19:00:00+01:00",
@@ -1198,7 +1126,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": true,
-      "notering": "Få biljetter kvar",
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -1539,7 +1467,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
-      "notering": "Premiär",
+      "notering": "Premiär, Få biljetter kvar",
       "kallor": [
         {
           "id": "stadsteatern",
