@@ -11,7 +11,7 @@ Uppdateras efter varje fas. Fortsätt med den första fasen som inte är klar.
 | 2. Datamodell | Klar. |
 | 3. Regler som sorterar rätt | Klar. Övrigt 13,9 % → 2,6 %, utan område 5,5 % → 1,2 %, 22 kurser borttagna. |
 | 4. Dubbletter | Klar. 456 sammanslagningar, misstänkta dubbletter 38 → 0. Alla fall i avsnitt 13 är tester. |
-| 5. Sidan | – |
+| 5. Sidan | Klar. Lisa-testet går igenom: alla 11 familjeevenemang utan ålder syns under "ålder ej angiven". |
 | 6. Skydd och larm | – |
 | 7. Tickster-API, Ticketmaster och biljettlänkar | – |
 | 8. Sport på de tre högsta nivåerna | – |
