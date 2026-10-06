@@ -217,16 +217,17 @@ a{color:var(--accent)}
 .dayhead{display:flex;align-items:baseline;justify-content:space-between;gap:10px;padding-bottom:8px;border-bottom:2px solid var(--ink)}
 .dayhead h2 span{color:var(--muted);font-weight:500}
 .dayhead .n{font-size:.85rem;color:var(--muted);font-variant-numeric:tabular-nums}
-.ev{display:grid;grid-template-columns:58px 4px 1fr auto;gap:0 12px;align-items:center;border-bottom:1px solid var(--line)}
-.ev .open{grid-column:1 / 4;display:grid;grid-template-columns:58px 4px 1fr;gap:0 12px;align-items:center;border:0;background:transparent;text-align:left;padding:11px 0;min-height:56px}
+.ev{display:grid;grid-template-columns:58px 4px minmax(0,1fr) auto;gap:0 12px;align-items:center;border-bottom:1px solid var(--line)}
+.ev .open{grid-column:1 / 4;min-width:0;display:grid;grid-template-columns:58px 4px minmax(0,1fr);gap:0 12px;align-items:center;border:0;background:transparent;text-align:left;padding:11px 0;min-height:56px}
 .ev .open:hover .t{text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
 .tm{font-weight:600;font-variant-numeric:tabular-nums;font-size:.95rem}
 .tm.none{color:var(--muted);font-weight:400}
 .cbar{width:4px;align-self:stretch;border-radius:2px;background:var(--c);margin:6px 0}
-.t{display:block;font-weight:600;line-height:1.28}
+.t{display:block;font-weight:600;line-height:1.28;overflow-wrap:anywhere}
 .m{display:block;font-size:.86rem;color:var(--muted);margin-top:2px}
 .tags{display:inline-flex;flex-wrap:wrap;gap:5px;margin-top:5px}
-.tag{font-size:.74rem;font-weight:600;padding:2px 7px;border-radius:5px;background:var(--soft);border:1px solid var(--line);color:var(--muted);white-space:nowrap}
+.tag{font-size:.74rem;font-weight:600;padding:2px 7px;border-radius:5px;background:var(--soft);border:1px solid var(--line);color:var(--muted);white-space:nowrap;max-width:100%;overflow-wrap:anywhere}
+@media (max-width:360px){.tag{white-space:normal}.ev{grid-template-columns:48px 4px minmax(0,1fr) auto;gap:0 9px}.ev .open{grid-template-columns:48px 4px minmax(0,1fr);gap:0 9px}}
 .tag.free{color:var(--c-sport);border-color:color-mix(in srgb,var(--c-sport) 35%,transparent)}
 .tag.merge{color:var(--accent);border-color:color-mix(in srgb,var(--accent) 40%,transparent)}
 .tag.warn{color:var(--c-mat);border-color:color-mix(in srgb,var(--c-mat) 40%,transparent)}
@@ -321,12 +322,20 @@ a{color:var(--accent)}
 .switch[aria-checked="true"]{background:var(--accent)}
 .switch[aria-checked="true"]::after{transform:translateX(18px)}
 .nc{opacity:.75}
+.testbar{display:flex;align-items:flex-start;gap:10px;margin:12px 0 0;padding:10px 12px;border:1px solid color-mix(in srgb,var(--accent) 40%,transparent);background:color-mix(in srgb,var(--accent) 8%,var(--surface));border-radius:10px;font-size:.9rem}
+.testbar[hidden]{display:none}
+.testbar p{margin:0;flex:1;min-width:0}
+.testclose{flex:0 0 auto;border:0;background:transparent;width:32px;height:32px;margin:-6px -6px 0 0;border-radius:8px;color:var(--muted);font-size:1rem}
 footer{margin:48px 0 40px;padding-top:16px;border-top:1px solid var(--line);font-size:.85rem;color:var(--muted);max-width:70ch}
 footer p{margin:0 0 8px}
 </style>
 </head>
 <body>
 <div class="wrap">
+  <div class="testbar" id="testbar" role="note" hidden>
+    <p><b>Testversion.</b> Tack för att du testar! Saknar du något, eller krånglar något? Berätta det för Alexander, gärna med en skärmbild.</p>
+    <button class="testclose" id="testclose" aria-label="Stäng meddelandet om testversionen">✕</button>
+  </div>
   <header class="top">
     <div>
       <div class="brand"><span class="brand-mark" aria-hidden="true"><i style="height:8px"></i><i style="height:14px"></i><i style="height:18px"></i><i style="height:11px"></i></span>Uppsala just nu</div>
@@ -1115,6 +1124,10 @@ document.addEventListener("keydown",function(ev){
   if(ev.key==="Escape" && $("drawer").classList.contains("on")) closeDrawer();
   if((ev.key==="Enter"||ev.key===" ") && ev.target.classList && ev.target.classList.contains("sg")){ ev.preventDefault(); showEvent(ev.target.dataset.open); }
 });
+/* Testversion: meddelandet kan stängas och kommer ihåg det i den här webbläsaren. */
+var TKEY="ujn-testbar-v1";
+try{ if(localStorage.getItem(TKEY)!=="stangd") $("testbar").hidden=false; }catch(err){ $("testbar").hidden=false; }
+$("testclose").addEventListener("click",function(){ $("testbar").hidden=true; try{ localStorage.setItem(TKEY,"stangd"); }catch(err){} });
 var qt; $("q").addEventListener("input",function(ev){ clearTimeout(qt); qt=setTimeout(function(){ st.q=ev.target.value; render(); },120); });
 
 /* ---------- Riktig data ----------

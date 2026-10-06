@@ -60,6 +60,7 @@ Nio källor är byggda: Tickster, Destination Uppsala, Heja Uppsala, Uppsala sta
 | `scripts/kvalitet/` | Kvalitetsmätning, personkontroller, larm och facit |
 | `scripts/klassning/` | Kön och kontrollen för AI-klassningen |
 | `integritet.html` | Integritet och hur man begär att ett evenemang tas bort |
+| `TEST.md` | Underlaget för testet med testpersoner: välkomsttext och checklista |
 | `UPPDRAG-KVALITET.md` | Uppdraget om kvalitetslyftet, fas för fas |
 | `data/` | Hämtad data. `data/cache/` minns sidor som redan lästs. |
 | `.github/workflows/` | Schemat för GitHub Actions |
