@@ -99,6 +99,11 @@ jobs:
         continue-on-error: true
         run: npm run bygg:sida
 
+      - name: Mät kvaliteten (data/kvalitet.json)
+        # Rapporterar bara. Stoppar aldrig publiceringen.
+        continue-on-error: true
+        run: npm run kvalitet
+
       - name: Spara rådatan som bilaga till körningen
         if: always()
         uses: actions/upload-artifact@v7

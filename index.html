@@ -665,11 +665,17 @@ function passBase(e){
   if(st.q){ var q=fold(st.q.trim()); if(q && e.hay.indexOf(q)<0) return false; }
   return true;
 }
-// Ett evenemang för 3-6 år passar både gruppen 0-4 och 5-6. Evenemang utan åldersuppgift visas inte när en ålder är vald.
+/* FILTER:START – kvalitetskontrollerna (scripts/kvalitet/personer.mjs) läser den här delen. */
+// Ett evenemang för 3-6 år passar både gruppen 0-4 och 5-6.
+// Ger "exakt" när åldern passar, annars null. Evenemang utan åldersuppgift visas inte när en ålder är vald.
+function aldersgrupp(e, ages){
+  if(!e.a) return null;
+  return AGES.some(function(g){ return ages.indexOf(g[0])>=0 && e.a[0]<=g[2] && e.a[1]>=g[1]; }) ? "exakt" : null;
+}
+/* FILTER:SLUT */
 function ageOk(e){
   if(!st.ages.length) return true;
-  if(!e.a) return false;
-  return AGES.some(function(g){ return st.ages.indexOf(g[0])>=0 && e.a[0]<=g[2] && e.a[1]>=g[1]; });
+  return aldersgrupp(e, st.ages)!==null;
 }
 function areaOk(e){ return !st.areas.length || (e.o && st.areas.indexOf(e.o)>=0); }
 function ageText(e){
