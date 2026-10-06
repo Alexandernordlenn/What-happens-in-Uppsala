@@ -108,10 +108,11 @@ export function iKommunen(detaljer) {
   return ORTER.includes(detaljer.ort.toLowerCase());
 }
 
-function kategori(titel, taggar) {
+export function kategoriFranTaggar(titel, taggar) {
   for (const t of taggar) if (TAGGAR[t]) return TAGGAR[t];
   return gissaKategori(titel);
 }
+const kategori = kategoriFranTaggar;
 
 // "bricka" kommer från listan, "detaljer" från evenemangets sida om vi har den.
 export function tillEvenemang(bricka, detaljer = null) {
