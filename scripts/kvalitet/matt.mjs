@@ -83,7 +83,6 @@ export function mat(sida) {
     totalt,
     perKalla,
     exempelDubbletter: dubbletter.slice(0, 20).map(([a, b]) => ({ dag: a.d, plats: a.v, titlar: [a.t, b.t], tider: [a.tm || null, b.tm || null] })),
-    ...(sida.statistik?.sammanslagningar && { sammanslagningar: sida.statistik.sammanslagningar }),
   };
 }
 
@@ -122,6 +121,12 @@ async function main() {
   const sida = await lasJson("data/sida.json");
   if (!sida) throw new Error("Hittade inte data/sida.json");
   const rapport = mat(sida);
+  // Bygget loggar varje sammanslagning: regel, poäng och källor.
+  const logg = await lasJson("tmp/sammanslagningar.json");
+  if (logg) {
+    rapport.sammanslagningar = logg;
+    rapport.totalt.sammanslagningarPerRegel = logg.reduce((r, l) => ((r[l.regel] = (r[l.regel] || 0) + 1), r), {});
+  }
   const { korPersoner } = await import("./personer.mjs");
   rapport.personer = await korPersoner(sida, { sportLag: await lasJson("data/sport-lag.json") });
   await writeFile(ut, JSON.stringify(rapport, null, 2) + "\n");

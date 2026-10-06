@@ -49,10 +49,11 @@ När nycklarna kommer:
 - [ ] **Du:** Skapa Firebase-projektet: Firestore i EU, inloggning med e-postlänk, GitHub Pages-adressen som tillåten domän.
 - [ ] **Claude:** Riktig inloggning och sparade favoriter och kategorier mellan enheter (Firebase).
 - [ ] **Claude:** Integritetspolicy länkad i sidfoten, och möjlighet att radera sitt konto (GDPR). Behövs innan inloggning blir skarp. Ticketmasters villkor kräver också en integritetspolicy i sidfoten.
-- [ ] **Claude:** Enkel redaktörsvy för att rätta kategorier och godkänna osäkra dubbletter.
 - [ ] **Claude:** Uppdatera "Om datan och källorna" när källor tillkommer.
 
-Idéer att fundera på:
+Idéer, senare:
+
+- [ ] Enkel redaktörsvy för att rätta kategorier och dubbletter. Flyttad hit i okt 2026: inget manuellt arbete i vardagen, kvaliteten mäts och larmar automatiskt i stället.
 
 - [ ] Filter för skollov (Kubik har sommarlov, höstlov, jullov, sportlov och påsklov).
 - [ ] Filter för tillgänglighet (Kubik har rullstol, hörslinga med mera).

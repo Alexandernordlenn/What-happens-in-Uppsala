@@ -942,7 +942,7 @@ function showEvent(id){
     html+='<div class="note"><b>Sammanslaget från '+srcs.length+' källor.</b> Samma datum, samma plats och liknande titel'+(e.tw?' (“'+esc(e.tw)+'” hos Heja Uppsala)':'')+'.'+(e.al?' Platsen heter olika i källorna, till exempel “Katalin and all that Jazz” hos Tickster, men räknas som samma ställe.':'')+'</div>';
   }
   if(e.occ) html+='<div class="note"><b>'+e.occ+' föreställningar samma dag</b> fanns som '+e.occ+' separata poster hos Tickster och visas här som ett evenemang.</div>';
-  if(e.pd) html+='<div class="note"><b>Möjlig dubblett av “'+esc(e.pd)+'”.</b> Samma dag och plats men olika titel, så systemet slår inte ihop dem automatiskt. En redaktör avgör.</div>';
+  if(e.pd) html+='<div class="note"><b>Möjlig dubblett av “'+esc(e.pd)+'”.</b> Samma dag och plats men olika titel. Systemet slår bara ihop när titlarna tydligt matchar, så de visas var för sig.</div>';
   if(!e.tm && e.span===1){
     var viaT = e.src.some(function(s){return s.k==="t";});
     html+='<div class="note">'+(LIVE?'Källan anger inget klockslag. Se arrangörens sida.':(viaT?'Tiden kommer via Tickster-API:t i en skarp version.':'Tiden finns på arrangörens sida och läses in när källan är ansluten.'))+'</div>';

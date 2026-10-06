@@ -10,7 +10,7 @@ Uppdateras efter varje fas. Fortsätt med den första fasen som inte är klar.
 | 1. Mät först | Klar. Före-mätningen ligger i `data/kvalitet-fore.json`. |
 | 2. Datamodell | Klar. |
 | 3. Regler som sorterar rätt | Klar. Övrigt 13,9 % → 2,6 %, utan område 5,5 % → 1,2 %, 22 kurser borttagna. |
-| 4. Dubbletter | – |
+| 4. Dubbletter | Klar. 456 sammanslagningar, misstänkta dubbletter 38 → 0. Alla fall i avsnitt 13 är tester. |
 | 5. Sidan | – |
 | 6. Skydd och larm | – |
 | 7. Tickster-API, Ticketmaster och biljettlänkar | – |

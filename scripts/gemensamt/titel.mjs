@@ -45,9 +45,9 @@ export function titelord(titel, platsnamn = []) {
       .filter((o) => o.length >= 4 && o !== "uppsala"),
   );
   if (platsord.size) {
-    // "Katalins" och "Katalin" räknas som samma ord.
-    const utanS = (o) => o.replace(/s$/, "");
-    const kvar = ord.filter((o) => !platsord.has(o) && !platsord.has(utanS(o)));
+    // "Katalins" och "Katalin", "Domkyrkan" och "Domkyrka" räknas som samma ord.
+    const arPlatsord = (o) => platsord.has(o) || [...platsord].some((p) => p.length >= 5 && o.startsWith(p) && o.length - p.length <= 2);
+    const kvar = ord.filter((o) => !arPlatsord(o));
     if (kvar.length) ord = kvar; // Titeln får inte bli tom.
   }
   return ord;

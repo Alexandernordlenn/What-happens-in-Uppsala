@@ -131,11 +131,11 @@ Gemensamma delar i `scripts/gemensamt/`:
 - `data/cache/` minns evenemangssidor vi redan läst, så att de inte hämtas varje dag.
 - Rådatan (`data/radata/`) läggs inte i repot. Den sparas i Firestore och som bilaga till varje körning i 14 dagar.
 - Testerna körs med `npm test`. Varje källa har en `regler.test.mjs` med sparad exempeldata.
-- Dubbletter mellan källor slås ihop i `scripts/bygg-sida.mjs`: samma dag, plats och titel från olika källor, och för sport samma dag, arena och tid.
+- Dubbletter slås ihop i `scripts/bygg-sida.mjs` (`slaIhop`), med titeljämförelsen i `scripts/gemensamt/dubbletter.mjs`. Sex steg: långvariga med samma titel och plats, samma källas identiska poster, serier mot en annan källas uttryckliga datum, speltider mot föreställningar, festivaler med sina programpunkter, och huvudregeln (olika källor, samma dag och plats eller byggnad, klockslag inom 60 minuter, titlar som matchar). Sport: samma dag, arena och tid. Varje sammanslagning loggas i kvalitetsrapporten. Facit finns som tester i `scripts/bygg-sida.test.mjs`.
 
 ## Att inte glömma
 
 - GDPR: integritetspolicy, möjlighet att radera sitt konto.
 - Inställda evenemang markeras som inställda i stället för att tas bort.
-- En enkel redaktörsvy för att rätta kategorier och godkänna osäkra dubbletter.
+- Ingen manuell granskning i vardagen (beslut okt 2026). Kvaliteten mäts och larmar automatiskt. En redaktörsvy ligger under "Idéer, senare" i BACKLOG.
 - Larm om en källa plötsligt ger noll evenemang eller hälften så många som vanligt.
