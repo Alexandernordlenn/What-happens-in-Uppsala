@@ -128,6 +128,14 @@ export function tillEvenemang(k) {
     ...(k.omrade && { omrade: k.omrade }),
     kallor: [{ id: KALLA.id, namn: KALLA.namn, url: k.url, ...(k.hemsida && { arrangor: k.hemsida }) }],
     installd: /inställ/i.test(k.titel),
+    // Fakta från källan, så att bygget kan klassa om utan att hämta igen.
+    fakta: {
+      kategorier: k.kategorier,
+      malgrupp: k.malgrupp,
+      ...(k.adress && { adress: k.adress }),
+      ...(k.dagar?.length && { dagar: k.dagar }),
+      ...(k.tid && { tider: k.tid }),
+    },
   };
   return k.tider
     .map(tolkaTid)

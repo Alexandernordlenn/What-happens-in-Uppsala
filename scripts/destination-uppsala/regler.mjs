@@ -138,5 +138,10 @@ export function tillEvenemang(k, detaljer = null) {
     ],
     langvarig,
     installd: /inställ/i.test(k.titel),
+    fakta: {
+      kategorier: k.kategorier,
+      ...(nar.datumIText.length && { datum: [...new Set(nar.datumIText)].sort() }),
+      ...(nar.klockslag && { tider: { start: nar.klockslag } }),
+    },
   };
 }

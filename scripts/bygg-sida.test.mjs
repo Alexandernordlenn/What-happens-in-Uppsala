@@ -86,3 +86,32 @@ test("sportmatch från förbunden slås ihop med samma match hos Heja", () => {
   assert.equal(sida.evenemang[0].t, "Almtuna IS – BIK Karlskoga");
   assert.deepEqual(sida.evenemang[0].s.map((x) => x[0]).sort(), ["h", "i"]);
 });
+
+test("id är stabilt mellan körningar och sport får en egen etikett", () => {
+  const ifu = { namn: "IFU Arena", id: "ifu" };
+  const filer = {
+    sport: {
+      hamtad: "2026-09-24",
+      evenemang: [ev("Storvreta – Täby (dam)", "2026-09-26T18:30:00+02:00", ifu, { id: "sport-x-1", kategori: "sport", sport: "Innebandy", liga: "SSL dam" })],
+    },
+  };
+  const a = bygg(filer, "2026-09-24");
+  const b = bygg(structuredClone(filer), "2026-09-25");
+  assert.equal(a.evenemang[0].id, b.evenemang[0].id);
+  assert.equal(a.evenemang[0].sp, "Innebandy, SSL dam");
+  assert.equal(a.evenemang[0].n, undefined);
+});
+
+test("en källa som inte hämtats på flera dagar markeras som inaktuell", () => {
+  const sida = bygg({ heja: { hamtad: "2026-09-20T05:00:00Z", evenemang: [ev("X", "2026-09-26", katalin)] } }, "2026-09-24");
+  assert.equal(sida.kallor.h.inaktuell, 1);
+});
+
+test("rättelser går före källan", () => {
+  const sida = bygg(
+    { kubik: { hamtad: "x", evenemang: [ev("Designlabbet", "2026-09-26", katalin, { id: "kubik-d", kategori: "museum" })] } },
+    "2026-09-24",
+    { rattelser: { poster: { "kubik-d": { kategori: "aktivitet" } } } },
+  );
+  assert.equal(sida.evenemang[0].c, "aktivitet");
+});

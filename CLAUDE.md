@@ -64,7 +64,26 @@ Ett färdigt evenemang har: id, titel, start, slut, plats (namn och id), kategor
 
 Områden och åldersgrupper följer Kubiks indelning (`scripts/gemensamt/omraden.mjs`): åtta områden (Centrala, Norra, Östra, Södra och Västra staden samt Norra, Östra och Västra landsbygden) och åldersgrupperna 0–4, 5–6, 7–9, 10–12, 13–15, 16–18 och 19–25 år. Ett evenemang passar en åldersgrupp om spannen överlappar.
 
-Kategorier: musik, scen (scen och film), museum (konst och museum), prat (föredrag och samtal), sport, mat, natt (klubb och nattliv), ovrigt (marknad och festival).
+Kategorier: musik, scen (scen och film), museum (konst och museum), prat (föredrag och samtal), aktivitet (verkstäder, pyssel, spel, sagostunder, häng och prova på), sport, mat, natt (klubb och nattliv), ovrigt (marknad, festival och övrigt). `ovrigt` behåller sitt id eftersom sparade val bygger på det.
+
+Format (fältet `format`), ett av sex:
+
+- `enstaka`: ett tillfälle, också en festival på 2–4 dagar.
+- `aterkommande`: samma aktivitet på kända dagar. Fältet `serie` anger dagarna (`{ dagar: ["lö"], start: "11:00", slut: "15:00" }`) eller uttryckliga datum (`{ datum: [...] }`). Bygget gör ett tillfälle per dag inom fönstret med id `<seriens id>-<datum>`. Uttryckliga datum från en källa går före uträknade. Datum hittas aldrig på.
+- `utstallning`: pågår över tid, man går dit när det är öppet.
+- `speltid`: en uppsättning som spelas under en period, utan kända föreställningsdagar.
+- `period`: långvarigt med okända dagar, varken utställning eller kurs.
+- `kurs`: kräver anmälan till en serie tillfällen. Tas bort ur `sida.json` men räknas i kvalitetsrapporten.
+
+Ursprung (fältet `ursprung`, per uppgift: format, kategori, alder, barn): `rattelse` före `kalla` före `regel` före `ai`. AI fyller bara luckor och skriver aldrig över något. Se `scripts/gemensamt/klassa.mjs`.
+
+Fakta från källan (fältet `fakta`, sparas från 6 okt 2026): källans egna kategorier och taggar, målgrupp, adress, uttryckliga datum, utlästa veckodagar och tider. Själva beskrivningstexten läses bara under hämtningen och sparas aldrig, utom Svenska kyrkans beskrivning som licensen tillåter.
+
+Sport har fälten `sport` och `liga` (till exempel "Ishockey" och "HockeyAllsvenskan").
+
+Rättelser: `data/rattelser.json` (valfri) rättar kategori, format, ålder och barn, nycklat på källpostens id eller på ett titelmönster. Den skrivs av Claude, Alexander behöver aldrig röra den.
+
+Sidans kompakta format (`data/sida.json`) beskrivs i README.
 
 Platser har ett kanoniskt namn och alias, till exempel är "Katalin and all that Jazz" samma plats som Katalin.
 

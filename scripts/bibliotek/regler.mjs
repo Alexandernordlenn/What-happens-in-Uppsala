@@ -90,6 +90,7 @@ export function tillEvenemang(ev) {
     kallor: [{ id: KALLA.id, namn: KALLA.namn, url: `https://bibliotekuppsala.se/evenemang#/events/${ev.id}` }],
     langvarig: false,
     installd: ev.status === "CANCELLED",
+    fakta: { taggar, malgrupp: malgrupper },
   };
 }
 

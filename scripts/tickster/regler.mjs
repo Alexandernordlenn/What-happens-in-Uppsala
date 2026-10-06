@@ -148,5 +148,6 @@ export function tillEvenemang(bricka, detaljer = null) {
     ],
     langvarig: dagar >= 3,
     installd: /inställ|cancel/i.test(`${titel} ${d.status || ""}`),
+    ...(taggar.length && { fakta: { taggar } }),
   };
 }

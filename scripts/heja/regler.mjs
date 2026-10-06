@@ -117,5 +117,11 @@ export function tillEvenemang(k, detaljer = null) {
     ],
     langvarig,
     installd: /inställ/i.test(k.titel),
+    // Fakta från källan: Hejas kategorier och uttryckliga datum ur "När och var?".
+    fakta: {
+      kategorier: k.kategorier,
+      ...(nar.datumIText.length && { datum: [...new Set(nar.datumIText)].sort() }),
+      ...(nar.klockslag && { tider: { start: nar.klockslag } }),
+    },
   };
 }

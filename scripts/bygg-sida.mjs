@@ -12,6 +12,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import { PLATSER } from "./gemensamt/platser.mjs";
 import { omradeForPlats, slaIhopSpann, spannFranText } from "./gemensamt/omraden.mjs";
+import { franKallan, tillampaRattelser } from "./gemensamt/klassa.mjs";
 
 // Källornas id i filerna och bokstaven sidan använder för dem.
 // Ordningen avgör vems titel och kategori som vinner vid en sammanslagning:
@@ -29,6 +30,17 @@ export const KALLOR = [
 ];
 
 const DAGAR_FRAMAT = 120; // Sidan visar som mest 90 dagar ("3 mån").
+const INAKTUELL_EFTER_DAGAR = 3; // En källa vars data är äldre än så markeras som inaktuell.
+
+// Kort och stabilt id från källpostens id, så att favoriter fungerar dag efter dag.
+export function kortId(text) {
+  let h = 0x811c9dc5;
+  for (const tecken of String(text)) {
+    h ^= tecken.codePointAt(0);
+    h = Math.imul(h, 0x01000193) >>> 0;
+  }
+  return h.toString(36);
+}
 
 const KANONISKA = new Set(PLATSER.map((p) => p.id));
 
@@ -95,10 +107,13 @@ export function tillSidformat(grupp, kandaOmraden = {}) {
   const medTid = grupp.find((p) => klockslag(p.e.start));
   const start = medTid ? medTid.e.start : e.start;
   const slut = grupp.map((p) => p.e.slut).filter(Boolean).map(datumDel).sort().pop();
-  const noteringar = [...new Set(grupp.map((p) => p.e.notering).filter(Boolean))];
+  const noteringar = [...new Set(grupp.map((p) => p.e.notering).filter(Boolean))].filter(
+    (n) => !grupp.some((p) => p.e.sport && n === `${p.e.sport}, ${p.e.liga}`),
+  );
   if (grupp.some((p) => p.e.installd)) noteringar.unshift("Inställt");
 
   const ut = {
+    id: kortId(e.id || `${e.titel}|${e.start}|${e.plats.namn}`),
     t: e.titel,
     d: datumDel(start),
     v: platsnyckel(e.plats),
@@ -106,6 +121,16 @@ export function tillSidformat(grupp, kandaOmraden = {}) {
     s: [],
   };
   if (slut && slut > ut.d) ut.e = slut;
+  const format = grupp.map((p) => p.e.format).find(Boolean);
+  if (format) ut.f = format;
+  const dagar = grupp.map((p) => p.e.serie?.dagar).find((d) => d?.length);
+  if (dagar && format === "aterkommande") ut.w = dagar;
+  if (grupp.some((p) => p.e.heldag)) ut.hd = 1;
+  // Sport och liga som en egen etikett. Äldre filer hade dem i noteringen.
+  const sport = grupp.find((p) => p.e.sport);
+  if (sport) ut.sp = [sport.e.sport, sport.e.liga].filter(Boolean).join(", ");
+  const klubb = grupp.find((p) => p.bokstav === "i" && p.e.kallor?.[0]?.biljetter);
+  if (klubb) ut.bl = klubb.e.kallor[0].biljetter;
   if (klockslag(start) && !grupp.some((p) => p.e.langvarig)) ut.tm = klockslag(start);
   const rum = grupp.map((p) => p.e.plats.rum).find(Boolean);
   if (rum) ut.r = rum;
@@ -139,7 +164,14 @@ function plusDagar(dag, n) {
   return d.toISOString().slice(0, 10);
 }
 
-export function bygg(filer, idag = idagISverige()) {
+// Äldre sportfiler hade "Ishockey, HockeyAllsvenskan" som notering.
+function sportFranNotering(e, bokstav) {
+  if (bokstav !== "i" || e.sport || !e.notering) return e;
+  const [sport, ...liga] = e.notering.split(", ");
+  return { ...e, sport, liga: liga.join(", ") };
+}
+
+export function bygg(filer, idag = idagISverige(), { rattelser = null } = {}) {
   const sista = plusDagar(idag, DAGAR_FRAMAT);
   const poster = [];
   const kallinfo = {};
@@ -147,7 +179,9 @@ export function bygg(filer, idag = idagISverige()) {
     const fil = filer[id];
     if (!fil) return;
     kallinfo[bokstav] = { hamtad: fil.hamtad, antal: 0 };
-    for (const e of fil.evenemang) {
+    if (fil.hamtad && String(fil.hamtad).slice(0, 10) < plusDagar(idag, -INAKTUELL_EFTER_DAGAR)) kallinfo[bokstav].inaktuell = 1;
+    for (const original of fil.evenemang) {
+      const e = tillampaRattelser(franKallan(sportFranNotering(original, bokstav)), rattelser);
       const fran = datumDel(e.start);
       const till = datumDel(e.slut) || fran;
       if (till < idag || fran > sista) continue;
@@ -162,9 +196,15 @@ export function bygg(filer, idag = idagISverige()) {
   for (const p of poster) if (p.e.omrade) kandaOmraden[titelnyckel(p.e.plats.namn)] = p.e.omrade;
 
   const platser = {};
+  const anvanda = new Set();
   const evenemang = slaIhop(poster).map((grupp) => {
     const { ut, platsnamn } = tillSidformat(grupp, kandaOmraden);
     if (!platser[ut.v]) platser[ut.v] = platsnamn;
+    // Två olika evenemang får aldrig samma id.
+    let id = ut.id;
+    for (let n = 2; anvanda.has(id); n++) id = `${ut.id}-${n}`;
+    anvanda.add(id);
+    ut.id = id;
     return ut;
   });
   evenemang.sort((a, b) => (a.d + (a.tm || "99")).localeCompare(b.d + (b.tm || "99")));
@@ -180,7 +220,13 @@ async function main() {
       console.log(`${id}: ingen fil, hoppas över.`);
     }
   }
-  const sida = bygg(filer);
+  let rattelser = null;
+  try {
+    rattelser = JSON.parse(await readFile("data/rattelser.json", "utf8"));
+  } catch {
+    // Filen är valfri.
+  }
+  const sida = bygg(filer, idagISverige(), { rattelser });
   const poster = Object.values(sida.kallor).reduce((s, k) => s + k.antal, 0);
   console.log(`${poster} poster från källorna blev ${sida.evenemang.length} evenemang.`);
   if (!sida.evenemang.length) throw new Error("Inga evenemang alls. Sidan skrivs inte över.");

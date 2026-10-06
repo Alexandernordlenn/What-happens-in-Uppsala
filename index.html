@@ -12,7 +12,7 @@
   --bg:#EEF2F0; --surface:#FFFFFF; --ink:#16262B; --muted:#5A6B70; --line:#D3DDD9;
   --accent:#0E6166; --accent-ink:#FFFFFF; --weekend:#E1E9E6; --soft:#F6F8F7;
   --c-musik:#2F54D6; --c-scen:#C0266A; --c-museum:#C98A00; --c-prat:#6D3FD1;
-  --c-sport:#178A57; --c-mat:#D9531E; --c-natt:#243066; --c-ovrigt:#7C6F5A;
+  --c-sport:#178A57; --c-mat:#D9531E; --c-natt:#243066; --c-ovrigt:#7C6F5A; --c-aktivitet:#0B7F99;
   --shadow:0 12px 40px rgba(14,40,44,.18);
   box-sizing:border-box;
   padding-top:env(safe-area-inset-top,0px);
@@ -24,7 +24,7 @@
     --bg:#0F1A1C; --surface:#16252A; --ink:#E6EEEC; --muted:#93A6A9; --line:#2A3C40;
     --accent:#4FB3B0; --accent-ink:#06201F; --weekend:#142226; --soft:#13211F;
     --c-musik:#7C95F5; --c-scen:#F06FA4; --c-museum:#F2C14E; --c-prat:#A98AF2;
-    --c-sport:#4FC98E; --c-mat:#F4884F; --c-natt:#8C9BE0; --c-ovrigt:#BFB29B;
+    --c-sport:#4FC98E; --c-mat:#F4884F; --c-natt:#8C9BE0; --c-ovrigt:#BFB29B; --c-aktivitet:#4CC3DB;
     --shadow:0 12px 40px rgba(0,0,0,.5);
     color-scheme:dark;
   }
@@ -33,7 +33,7 @@
   --bg:#0F1A1C; --surface:#16252A; --ink:#E6EEEC; --muted:#93A6A9; --line:#2A3C40;
   --accent:#4FB3B0; --accent-ink:#06201F; --weekend:#142226; --soft:#13211F;
   --c-musik:#7C95F5; --c-scen:#F06FA4; --c-museum:#F2C14E; --c-prat:#A98AF2;
-  --c-sport:#4FC98E; --c-mat:#F4884F; --c-natt:#8C9BE0; --c-ovrigt:#BFB29B;
+  --c-sport:#4FC98E; --c-mat:#F4884F; --c-natt:#8C9BE0; --c-ovrigt:#BFB29B; --c-aktivitet:#4CC3DB;
   --shadow:0 12px 40px rgba(0,0,0,.5);
   color-scheme:dark;
 }
@@ -392,7 +392,7 @@ var SRC = {
      status:"Ticketmasters Discovery API. Större konserter, festivaler och turnéer på bland annat Katalin, Fyrishov och Studenternas. Hämtas när nyckeln ligger i GitHub.",
      demo:"I demon: inte med."},
   u:{name:"Kubik Uppsala", base:"https://www.kubikuppsala.se/", how:"Kommunens kalender",
-     status:"Uppsala kommuns kalender för barn och unga. Återkommande aktiviteter, till exempel en kurs varje tisdag, visas som en period.",
+     status:"Uppsala kommuns kalender för barn och unga. Återkommande aktiviteter visas de dagar de händer. Kurser och terminsaktiviteter med anmälan visas inte här, de finns hos Kubik.",
      demo:"I demon: inte med."}
 };
 var SOURCE_MAP = [
@@ -419,9 +419,10 @@ var SOURCE_MAP = [
 ];
 var CATS = {
   musik:{label:"Musik"}, scen:{label:"Scen & film"}, museum:{label:"Konst & museum"}, prat:{label:"Föredrag & samtal"},
-  sport:{label:"Sport"}, mat:{label:"Mat & dryck"}, natt:{label:"Klubb & nattliv"}, ovrigt:{label:"Marknad & festival"}
+  sport:{label:"Sport"}, mat:{label:"Mat & dryck"}, natt:{label:"Klubb & nattliv"},
+  aktivitet:{label:"Aktiviteter"}, ovrigt:{label:"Marknad, festival & övrigt"}
 };
-var CAT_ORDER = ["musik","scen","museum","prat","sport","mat","natt","ovrigt"];
+var CAT_ORDER = ["musik","scen","museum","prat","aktivitet","sport","mat","natt","ovrigt"];
 /* Åldersgrupper och områden, samma indelning som Kubik (kommunens kalender för barn och unga). */
 var AGES = [["0-4",0,4],["5-6",5,6],["7-9",7,9],["10-12",10,12],["13-15",13,15],["16-18",16,18],["19-25",19,25]];
 var AREAS = [["centrum","Centrala staden"],["norra","Norra staden"],["ostra","Östra staden"],["sodra","Södra staden"],["vastra","Västra staden"],
@@ -828,6 +829,7 @@ function evRow(e,d){
   if(e.x) tags.push('<span class="tag warn">Inställt</span>');
   if(e.free) tags.push('<span class="tag free">Gratis</span>');
   if(e.fam) tags.push('<span class="tag">Barn & familj</span>');
+  if(e.sp) tags.push('<span class="tag">'+esc(e.sp)+'</span>');
   var at=ageText(e); if(at) tags.push('<span class="tag">'+at+'</span>');
   var a=activeSrc(e).length; if(a>1) tags.push('<span class="tag merge">'+a+' källor</span>');
   if(e.occ) tags.push('<span class="tag">'+e.occ+' tillfällen</span>');
@@ -932,7 +934,7 @@ function showEvent(id){
   var html='<div class="dx"><span class="cat" style="--c:var(--c-'+e.c+')"><i></i>'+CATS[e.c].label+'</span><button class="close" data-close="1">Stäng</button></div>'+
     '<h2 id="dTitle">'+esc(e.t)+'</h2><dl class="facts"><dt>När</dt><dd>'+when+'</dd><dt>Tid</dt><dd>'+(e.tm||(e.span>1?'Flera dagar, se arrangören':'<span style="color:var(--muted)">Saknas i underlaget</span>'))+'</dd><dt>Plats</dt><dd>'+esc(venueName(e))+'</dd>'+
     (ageText(e)?'<dt>Ålder</dt><dd>'+ageText(e)+'</dd>':'')+(e.o?'<dt>Område</dt><dd>'+AREA_NAME[e.o]+'</dd>':'')+
-    (e.n?'<dt>Info</dt><dd>'+esc(e.n)+'</dd>':'')+(e.free?'<dt>Pris</dt><dd>Gratis</dd>':'')+'</dl>'+
+    (e.sp?'<dt>Sport</dt><dd>'+esc(e.sp)+'</dd>':'')+(e.n?'<dt>Info</dt><dd>'+esc(e.n)+'</dd>':'')+(e.free?'<dt>Pris</dt><dd>Gratis</dd>':'')+'</dl>'+
     '<h3>Läs mer och köp biljett</h3><ul class="srcl">'+srcs.map(function(s){
       return '<li><span class="sn">'+SRC[s.k].name+'<span class="sm">'+SRC[s.k].how+'</span></span><a href="'+esc(s.url)+'" target="_blank" rel="noopener">Öppna hos '+SRC[s.k].name+'</a></li>';
     }).join("")+'</ul>';
@@ -959,7 +961,7 @@ function showSources(){
     '<div class="stats"><div><b>'+recs+'</b><span>poster från källorna</span></div><div><b>'+evs+'</b><span>unika evenemang</span></div><div><b>'+merged+'</b><span>dubbletter sammanslagna</span></div></div>';
   html+=Object.keys(SRC).map(function(k){ var s=SRC[k];
     return '<div class="srow"><div class="h"><span><b>'+s.name+'</b><span class="how">'+s.how+'</span></span><button class="switch" role="switch" data-src="'+k+'" aria-checked="'+st.src[k]+'" aria-label="Visa evenemang från '+s.name+'"></button></div>'+
-      '<p>'+s.status+'</p><p class="demo">'+(LIVE ? (LIVE.kallor[k] ? 'Hämtad '+fmtHamtad(LIVE.kallor[k].hamtad)+':' : 'Inte hämtad än:') : s.demo)+' '+counts[k]+(counts[k]===1?' post.':' poster.')+'</p></div>';
+      '<p>'+s.status+'</p><p class="demo">'+(LIVE ? (LIVE.kallor[k] ? 'Hämtad '+fmtHamtad(LIVE.kallor[k].hamtad)+(LIVE.kallor[k].inaktuell?' (inaktuell, källan har inte gått att hämta på flera dagar)':'')+':' : 'Inte hämtad än:') : s.demo)+' '+counts[k]+(counts[k]===1?' post.':' poster.')+'</p></div>';
   }).join("");
   html+='<h3>Källkarta för Uppsala</h3><p style="margin:0 0 4px;color:var(--muted);font-size:.86rem">Källor som inte är med än, sorterade efter hur man får tillgång.</p>'+SOURCE_MAP.map(function(grp){
     return '<p style="margin:16px 0 0;font-weight:600;font-size:.9rem">'+grp.g+'</p>'+grp.items.map(function(s){

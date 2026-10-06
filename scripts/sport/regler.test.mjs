@@ -50,7 +50,8 @@ test("Profixio: kalenderfil med tid i UTC och hall", async () => {
   assert.equal(m[0].arena, "Fyrishov A");
   const [ev] = bearbeta(m, nu);
   assert.equal(ev.start, "2026-09-25T19:04:00+02:00");
-  assert.equal(ev.notering, "Basket, Basketligan herr");
+  assert.equal(ev.sport, "Basket");
+  assert.equal(ev.liga, "Basketligan herr");
 });
 
 test("Profixio: kalenderadressen hittas i lagsidans kod", () => {

@@ -8,7 +8,7 @@ Uppdateras efter varje fas. Fortsätt med den första fasen som inte är klar.
 |---|---|
 | 0. Läs och kontrollera | Klar. 70 tester gick igenom, 1 446 evenemang. Rådatabilagan går inte att ladda ner från Claudes miljö, så arbetet görs med filerna i `data/`. |
 | 1. Mät först | Klar. Före-mätningen ligger i `data/kvalitet-fore.json`. |
-| 2. Datamodell | – |
+| 2. Datamodell | Klar. |
 | 3. Regler som sorterar rätt | – |
 | 4. Dubbletter | – |
 | 5. Sidan | – |

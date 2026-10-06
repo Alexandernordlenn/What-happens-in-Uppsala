@@ -60,6 +60,30 @@ Nio källor är byggda: Tickster, Destination Uppsala, Heja Uppsala, Uppsala sta
 | `.github/workflows/` | Schemat för GitHub Actions |
 | `CLAUDE.md` | Beslut, regler och teknisk beskrivning (läses också av Claude) |
 
+## Sidans dataformat (`data/sida.json`)
+
+`scripts/bygg-sida.mjs` skriver ett kompakt format som `index.html` läser. Överst finns `byggd`, `idag`, `kallor` (per källa: `hamtad`, `antal` och `inaktuell` om datan är äldre än 3 dygn), `platser` (id till namn) och `statistik`. Varje evenemang har korta nycklar:
+
+| Nyckel | Betyder |
+|---|---|
+| `id` | Stabilt id, räknat från källpostens id (för serier: seriens id plus datum). Favoriter sparas med det. |
+| `t` | Titel |
+| `d`, `e` | Startdatum och slutdatum (`e` bara om det pågår flera dagar) |
+| `tm` | Klockslag |
+| `hd` | Hela dagen (inget klockslag, men det är meningen) |
+| `f` | Format: `enstaka`, `aterkommande`, `utstallning`, `speltid`, `period` (kurser tas bort) |
+| `w` | Veckodagar för återkommande, till exempel `["lö"]` |
+| `v`, `r` | Plats-id och rum |
+| `c` | Kategori |
+| `n` | Notering, till exempel "Slutsåld" |
+| `free`, `fam` | Gratis, barn och familj |
+| `x` | Inställt |
+| `a` | Ålder `[från, till]` |
+| `o` | Område |
+| `sp` | Sport och liga, till exempel "Ishockey, HockeyAllsvenskan" |
+| `bl` | Klubbens biljettsida |
+| `s` | Källor som `"bokstav:url"` |
+
 ## Köra själv
 
 Behövs bara för den som vill köra hämtningarna på sin egen dator. Installera Node.js 22 eller senare och kör:
