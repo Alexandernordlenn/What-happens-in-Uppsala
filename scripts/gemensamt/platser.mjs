@@ -9,12 +9,16 @@
 //
 // "kategori" används bara när källan inte själv har sagt vad evenemanget är.
 //
+// "omrade" är kommunens område (se omraden.mjs), när det inte går att läsa ut
+// ur namnet. "byggnad" knyter ihop platser i samma hus, så att dubbletter
+// hittas även när källorna anger olika rum eller verksamheter i huset.
+//
 // Lägg gärna till fler platser här. Mönstret skrivs som ett reguljärt uttryck
 // och jämförs med platsnamnet i små bokstäver.
 
 export const PLATSER = [
   { id: "ukk", namn: "Uppsala Konsert & Kongress", monster: /uppsala konsert (&|och) kongress|\bukk\b/, kategori: "musik" },
-  { id: "katalin", namn: "Katalin", monster: /katalin/, kategori: "musik" },
+  { id: "katalin", namn: "Katalin", monster: /katali[ns]/, kategori: "musik" },
   { id: "kaliber", namn: "The Kaliber Room", monster: /kaliber/, kategori: "musik" },
   { id: "blackbird", namn: "Blackbird", monster: /blackbird/, kategori: "musik" },
   { id: "parksnackan", namn: "Parksnäckan", monster: /parksnäckan/, kategori: "musik" },
@@ -22,15 +26,15 @@ export const PLATSER = [
   { id: "flustret", namn: "Flustret", monster: /flustret/, kategori: "natt" },
   { id: "stadsteatern", namn: "Uppsala stadsteater", monster: /uppsala stadsteater/, kategori: "scen" },
   { id: "reginateatern", namn: "Reginateatern", monster: /regina ?teatern/, kategori: "scen" },
-  { id: "gottsundadt", namn: "Gottsunda Dans & Teater", monster: /gottsunda dans/, kategori: "scen" },
+  { id: "gottsundadt", namn: "Gottsunda Dans & Teater", monster: /gottsunda dans/, kategori: "scen", omrade: "sodra" },
   { id: "humanistiska", namn: "Humanistiska teatern", monster: /humanistiska teatern/, kategori: "scen" },
   { id: "sprakateatern", namn: "Språkateatern", monster: /spr[aå]kateatern/, kategori: "scen" },
-  { id: "lillateatern", namn: "Den Lilla Teatern", monster: /den lilla teatern/, kategori: "scen" },
+  { id: "lillateatern", namn: "Den Lilla Teatern", monster: /den lilla teatern/, kategori: "scen", omrade: "centrum" },
   { id: "nordisk", namn: "Nordisk Film Gränbystaden", monster: /nordisk film/, kategori: "scen" },
   { id: "konstmuseum", namn: "Uppsala konstmuseum", monster: /uppsala konstmuseum/, kategori: "museum" },
   { id: "upplandsmuseet", namn: "Upplandsmuseet", monster: /upplandsmuseet/, kategori: "museum" },
   { id: "gustavianum", namn: "Gustavianum", monster: /gustavianum/, kategori: "museum" },
-  { id: "brorhjorth", namn: "Bror Hjorths Hus", monster: /bror hjorth?s hus/, kategori: "museum" },
+  { id: "brorhjorth", namn: "Bror Hjorths Hus", monster: /bror hjorth?s? hus/, kategori: "museum" },
   { id: "biotopia", namn: "Biotopia", monster: /biotopia/, kategori: "museum" },
   { id: "slottshist", namn: "Uppsala slottshistoriska", monster: /slottshistoriska/, kategori: "museum" },
   { id: "slott", namn: "Uppsala slott", monster: /^uppsala slott$/, kategori: "museum" },
@@ -42,33 +46,85 @@ export const PLATSER = [
   { id: "studenternas", namn: "Studenternas", monster: /studenternas/, kategori: "sport" },
   { id: "fyrishov", namn: "Fyrishov", monster: /fyrishov/ },
   { id: "granbyishall", namn: "Gränby ishall", monster: /gränby ishall|upplands bilforum arena/, kategori: "sport" },
-  { id: "usif", namn: "USIF Arena", monster: /usif arena/, kategori: "sport" },
-  { id: "serwenthallen", namn: "Serwenthallen", monster: /serwenthallen/, kategori: "sport" },
+  { id: "usif", namn: "USIF Arena", monster: /usif arena|rosendalshallen/, kategori: "sport", omrade: "vastra" },
+  { id: "serwenthallen", namn: "Serwenthallen", monster: /serwenthallen/, kategori: "sport", omrade: "ostra" },
+  { id: "lifearena", namn: "Life Arena", monster: /life arena/, kategori: "sport", omrade: "ostra" },
   { id: "granbyallaktivitetshus", namn: "Gränby allaktivitetshus", monster: /gränby allaktivitetshus/ },
   { id: "kulturoasen", namn: "Kulturoasen", monster: /kulturoasen/ },
   { id: "saluhall", namn: "Uppsala Saluhall", monster: /saluhall/, kategori: "mat" },
   { id: "domkyrkan", namn: "Uppsala domkyrka", monster: /uppsala domkyrka|domkyrkan/ },
   { id: "missionskyrkan", namn: "Missionskyrkan", monster: /missionskyrka/ },
-  { id: "stadsbib", namn: "Stadsbiblioteket", monster: /stadsbiblioteket|läsfabriken/, kategori: "prat" },
+  // Biblioteken. Alla filialer från bibliotekets egen data, plus de mindre orterna.
+  { id: "stadsbib", namn: "Stadsbiblioteket", monster: /stadsbiblioteket|uppsala stadsbibliotek|läsfabriken/, kategori: "prat", byggnad: "stadsbib", omrade: "centrum" },
+  { id: "fyriskallan", namn: "Fyriskällan", monster: /fyriskällan/, byggnad: "stadsbib", omrade: "centrum" },
+  { id: "gottsundabib", namn: "Gottsunda bibliotek", monster: /gottsund?a ?bibliotek/, byggnad: "gottsundacentrum", omrade: "sodra" },
+  { id: "savjabib", namn: "Sävja bibliotek", monster: /sävjabiblioteket|sävja bibliotek/, omrade: "sodra" },
+  { id: "storvretabib", namn: "Storvreta bibliotek", monster: /storvretabiblioteket|storvreta bibliotek/, omrade: "norra-land" },
+  { id: "stenhagenbib", namn: "Stenhagen bibliotek", monster: /stenhagenbiblioteket|stenhagens? bibliotek/, omrade: "vastra" },
+  { id: "balingebib", namn: "Bälinge bibliotek", monster: /bälingebiblioteket|bälinge bibliotek/, omrade: "vastra-land" },
+  { id: "rosendalbib", namn: "Rosendal bibliotek", monster: /rosendalsbiblioteket|rosendals? bibliotek/, omrade: "vastra" },
+  { id: "granbybib", namn: "Gränby bibliotek", monster: /gränbybiblioteket|gränby bibliotek/, omrade: "ostra" },
+  { id: "almungebib", namn: "Almunge bibliotek", monster: /almungebiblioteket|almunge bibliotek/, omrade: "ostra-land" },
+  { id: "knutbybib", namn: "Knutby bibliotek", monster: /knutbybiblioteket|knutby bibliotek/, omrade: "ostra-land" },
+  { id: "bjorklingebib", namn: "Björklinge bibliotek", monster: /björklingebiblioteket|björklinge bibliotek/, omrade: "norra-land" },
+  { id: "vattholmabib", namn: "Vattholma bibliotek", monster: /vattholmabiblioteket|vattholma bibliotek/, omrade: "norra-land" },
+  { id: "skyttorpbib", namn: "Skyttorp bibliotek", monster: /skyttorpsbiblioteket|skyttorps? bibliotek/, omrade: "norra-land" },
+  { id: "vangebib", namn: "Vänge bibliotek", monster: /vängebiblioteket|vänge bibliotek/, omrade: "vastra-land" },
+  { id: "jarlasabib", namn: "Järlåsa bibliotek", monster: /järlåsabiblioteket|järlåsa bibliotek/, omrade: "vastra-land" },
+  { id: "vonbahr", namn: "Von Bahrs förskola", monster: /von bahrs? förskola/, omrade: "ostra" },
+  { id: "savjaoppnaforskola", namn: "Sävja öppna förskola", monster: /sävja öppna förskola/, omrade: "sodra" },
+  // Allaktivitetshus, kulturhus och fritidsgårdar (ofta hos Kubik).
+  { id: "gottsundaallaktivitetshus", namn: "Gottsunda allaktivitetshus", monster: /gottsunda allaktivitetshus|allaktivitetshuset gottsunda/, omrade: "sodra" },
+  { id: "savjakulturhus", namn: "Sävja kulturhus", monster: /sävja kulturhus/, omrade: "sodra" },
+  { id: "grand", namn: "Kulturhuset Grand", monster: /kulturhuset grand|funkis på grand/, omrade: "centrum" },
+  { id: "litteraturenshus", namn: "Litteraturens hus", monster: /litteraturens hus/, omrade: "centrum" },
+  { id: "konstnarsklubben", namn: "Uppsala Konstnärsklubb", monster: /uppsala konstnärsklubb|galleri 1 ?(&|och) ?2/, kategori: "museum", omrade: "centrum" },
+  { id: "pumphuset", namn: "Pumphuset", monster: /pumphuset/, kategori: "museum", omrade: "centrum" },
+  { id: "disponentvillan", namn: "Disponentvillan, Ekeby bruk", monster: /disponentvillan/, omrade: "centrum" },
+  { id: "fyrisbiografen", namn: "Fyrisbiografen", monster: /fyrisbiografen/, kategori: "scen", omrade: "centrum" },
+  { id: "universitetshuset", namn: "Universitetshuset", monster: /universitetshuset|universitetsaulan/, omrade: "centrum" },
+  { id: "musicum", namn: "Musicum", monster: /musicum/, kategori: "musik", omrade: "centrum" },
+  { id: "akademihotellet", namn: "Akademihotellet", monster: /akademihotellet/, omrade: "centrum" },
+  { id: "klosterparken", namn: "Klosterparken", monster: /klosterparken/, omrade: "centrum" },
+  { id: "storatorget", namn: "Stora torget", monster: /^stort?a torget/, omrade: "centrum" },
+  { id: "himlen", namn: "Himlen är blå som en apelsin", monster: /himlen är blå som en apelsin/, omrade: "vastra" },
+  { id: "odinsborg", namn: "Odinsborg", monster: /odinsborg/, kategori: "mat", omrade: "norra" },
+  { id: "solglimtsparken", namn: "Solglimtsparken", monster: /solglimtsparken/, omrade: "sodra" },
+  { id: "salstaslott", namn: "Salsta slott", monster: /salst?a slott/, kategori: "museum", omrade: "norra-land" },
   { id: "brygghus", namn: "Uppsala Brygghus", monster: /uppsala brygghus/, kategori: "mat" },
-  { id: "kulturpunkten", namn: "Kulturpunkten, Gottsunda", monster: /kulturpunkten/ },
+  { id: "kulturpunkten", namn: "Kulturpunkten, Gottsunda", monster: /kulturpunkten/, byggnad: "gottsundacentrum", omrade: "sodra" },
+  { id: "temaverkstaden", namn: "Temaverkstaden, Gottsunda centrum", monster: /temaverkstad(en)?,? gottsunda|gottsunda centrum,? temaverksta/, byggnad: "gottsundacentrum", omrade: "sodra" },
   { id: "kaija", namn: "KAIJA, Stallet", monster: /kaija/ },
   { id: "ulva", namn: "Ulva kvarn", monster: /ulva kvarn/ },
 ];
 
 // Namn som inte är en riktig plats.
-const INGEN_PLATS = /^(uppsala|annan plats|flera platser|okänd plats)$/;
+const INGEN_PLATS = /^(uppsala|uppsala city|city|annan plats|flera platser|okänd plats)$/;
 
-// Tar ut salen ur "Plats, Sal". Ortnamnet i slutet ("Katalin, Uppsala") är ingen sal.
+// Ord som betyder ett rum i ett hus, inte en egen plats.
+export const RUM =
+  /^(sagorummet|temaverksta(n|den)|ateljén|bildsalen|idrottshallen|lilla salen|stora salen|aulan|sal [a-d]|matsalen|lilla matsalen|entrén|rum [a-z0-9]+|zoom|hörsalen|studion|spektaklet|kulturpunkten|höjdpunkten|konferensrummet|glasgården|drömverkstan.*|mallas (sal|grupprum)|molnets grupprum|barnavdelningen.*|ungdomsavdelningen.*|bokhallen.*|lekrummet|rörelserummet|danssal(en)?|musiksalen|gymnastikhall(en)?)$/i;
+
+// Tar ut salen ur "Plats, Sal" eller "Sal, Plats". Ortnamnet ("Katalin, Uppsala") är ingen sal.
 function rumIFrån(namn, plats) {
   const delar = namn.split(",").map((d) => d.trim());
-  const rest = delar.slice(1).filter((d) => d && !/^uppsala$/i.test(d) && !plats.monster.test(d.toLowerCase()));
+  const rest = delar.filter((d) => d && !/^uppsala$/i.test(d) && !plats.monster.test(d.toLowerCase()));
   return rest.join(", ") || null;
 }
 
 export function hittaPlats(namn) {
   const lagt = String(namn || "").toLowerCase().trim();
   return PLATSER.find((p) => p.monster.test(lagt)) || null;
+}
+
+// För platser som inte finns i tabellen: "Sävja kulturhus, ateljén (Bildsalen)" blir
+// platsen "Sävja kulturhus" och rummet "ateljén (Bildsalen)".
+function delaRum(namn) {
+  const delar = String(namn).split(",").map((d) => d.trim()).filter(Boolean);
+  if (delar.length < 2) return null;
+  const rum = delar.filter((d) => RUM.test(d.replace(/\s*\(.*\)$/, "")));
+  if (!rum.length || rum.length === delar.length) return null;
+  return { namn: delar.filter((d) => !rum.includes(d)).join(", "), rum: rum.join(", ") };
 }
 
 // Ger evenemanget kanonisk plats. Med kategoriFranPlats blir "ovrigt"
@@ -83,6 +139,9 @@ export function normaliseraPlats(evenemang, { kategoriFranPlats = false } = {}) 
     plats = { ...evenemang.plats, namn: kand.namn, id: kand.id, ...(rum && { rum }) };
   } else if (INGEN_PLATS.test(original.toLowerCase())) {
     plats = { ...evenemang.plats, namn: "Uppsala", id: "uppsala" };
+  } else {
+    const delad = delaRum(original);
+    if (delad) plats = { ...evenemang.plats, namn: delad.namn, rum: evenemang.plats.rum || delad.rum };
   }
   const kategori =
     kategoriFranPlats && evenemang.kategori === "ovrigt" && kand?.kategori ? kand.kategori : evenemang.kategori;

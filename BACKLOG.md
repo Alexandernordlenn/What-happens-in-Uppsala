@@ -59,6 +59,18 @@ Idéer att fundera på:
 - [ ] Karta över platser.
 - [ ] Prenumerera på sina favoriter som kalender i telefonen.
 
+## Antaganden i kvalitetslyftet (okt 2026)
+
+Beslut som Claude tog under arbetet med `UPPDRAG-KVALITET.md`, enligt regeln "välj det säkraste och skriv in antagandet". Ändra gärna.
+
+- Kubiks kulturskola (titlar med "Kulturis"), "undervisning" och "skridskoskola" räknas som kurser och visas inte. De kräver anmälan till en termin.
+- "Årskurs" i en titel är målgrupp, inte kurs, och ger ingen ålder (bara utskrivna åldrar räknas).
+- Område från postnummer bara där numret säkert hör till ett område: 753 centrum, 755 norra, 756–757 södra, 740–741 östra landsbygden. 752 och 754 delas av flera områden och används inte.
+- Rosendal räknas till Västra staden, som Kubik gör med Rosendalsbiblioteket. Därför ligger USIF Arena och Himlen är blå som en apelsin där.
+- Kommungränsen kommer från OpenStreetMap (ODbL, kräver att vi anger källan, vilket görs i `scripts/gemensamt/kommungrans.mjs`). Förenklad, så den kan slå fel med några hundra meter.
+- Kubiks aktivitetssidor läses för veckodagar en gång i veckan. Tolken är provad mot påhittad text, eftersom källorna inte fick hämtas om under arbetet. **Claude:** kontrollera första riktiga körningen (hur många perioder fick veckodagar?).
+- Fakta från källorna (kategorier, taggar, adress, datum, veckodagar) sparas från första körningen efter sammanslagningen. Före-mätningen och de första efter-siffrorna bygger delvis på äldre rådata.
+
 ## Återkommande underhåll
 
 - [ ] **Inför varje säsong:** uppdatera ligornas och lagens id:n i `scripts/sport/konfig.mjs`. Hämtningen varnar på GitHub när en rad ger noll matcher. Ungefärliga tider:

@@ -68,10 +68,14 @@ export function spannFranEtikett(etikett) {
 // Letar efter ålder i en titel: "Sagostund 3-6 år", "från 7 år", "för barn 0-2 år".
 export function spannFranText(text) {
   const t = String(text || "").toLowerCase();
-  let m = t.match(/(\d{1,2})\s*[-–]\s*(\d{1,2})\s*år/);
+  // "3-6 år", "1–3 år", "3–5-åringar", "3-5 åringar"
+  let m = t.match(/(\d{1,2})\s*[-–]\s*(\d{1,2})\s*-?\s*år/);
   if (m && +m[1] <= +m[2]) return [+m[1], +m[2]];
   m = t.match(/från\s*(\d{1,2})\s*år/);
   if (m) return [+m[1], 99];
+  // "för 3-åringar"
+  m = t.match(/(?:^|[^\d–-])(\d{1,2})\s*-?\s*åringar/);
+  if (m) return [+m[1], +m[1]];
   return null;
 }
 

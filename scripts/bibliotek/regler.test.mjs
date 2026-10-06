@@ -50,6 +50,6 @@ test("taggar ger kategori, stödtjänster tas bort, tom sal ignoreras", () => {
     ev(3, ["Läxhjälp"]),
     ev(4, ["Sagostund", "Småbarn"], { room: { id: null, value: null } }),
   ]);
-  assert.deepEqual(r.map((e) => e.kategori), ["musik", "scen", "ovrigt"]);
+  assert.deepEqual(r.map((e) => e.kategori), ["musik", "scen", "aktivitet"]);
   assert.equal(r[2].plats.rum, undefined);
 });

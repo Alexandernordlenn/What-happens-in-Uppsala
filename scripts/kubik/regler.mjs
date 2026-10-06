@@ -16,6 +16,7 @@
 import { enRad, avkoda } from "../gemensamt/text.mjs";
 import { tillSvenskTid } from "../gemensamt/tid.mjs";
 import { slaIhopSpann, spannFranEtikett } from "../gemensamt/omraden.mjs";
+import { lasVeckodagar } from "../gemensamt/veckodagar.mjs";
 
 export const KALLA = {
   id: "kubik",
@@ -35,12 +36,15 @@ const KATEGORIER = {
   "Teater": "scen", "Dans": "scen", "Film/Foto": "scen", "Cirkus": "scen",
   "Bollsport": "sport", "Ridsport": "sport", "Orientering": "sport", "Issport/Skidsport": "sport", "Kampsport": "sport",
   "Litteratur/Skrivande": "prat", "Vetenskap/Samhälle": "prat", "Workshop/Föreläsning": "prat", "Kurser": "prat",
-  "Konst/Skapande": "museum", "Museum/Kulturarv": "museum", "Slöjd": "museum",
+  "Konst/Skapande": "aktivitet", "Slöjd": "aktivitet", "Djur/Natur": "aktivitet", "Övrigt": "aktivitet",
+  // "Museum/Kulturarv" avgörs i bygget (klassa.mjs): museum om det är en utställning eller visning.
+  "Museum/Kulturarv": "aktivitet",
 };
-const ORDNING = ["musik", "scen", "sport", "museum", "prat"];
+const ORDNING = ["musik", "scen", "sport", "aktivitet", "prat"];
 
 // Stödtjänster snarare än aktiviteter, som på biblioteket.
 const TJANSTER = /^(läxhjälp)$/i;
+const TJANSTETITEL = /läxhjälp|juridisk rådgivning/i;
 
 const tvasiffrig = (n) => String(n).padStart(2, "0");
 
@@ -116,7 +120,7 @@ const medTid = (dag, tid) => (tid ? tillSvenskTid(`${dag}T${tid}`) : dag);
 
 // Ett kort blir ett eller flera evenemang: ett per tillfälle eller period.
 export function tillEvenemang(k) {
-  if (k.kategorier.some((c) => TJANSTER.test(c))) return [];
+  if (k.kategorier.some((c) => TJANSTER.test(c)) || TJANSTETITEL.test(k.titel)) return [];
   const barn = !k.malgrupp.length || k.malgrupp.some((m) => m !== "19-25 år");
   const gemensamt = {
     titel: k.titel,
@@ -135,6 +139,7 @@ export function tillEvenemang(k) {
       ...(k.adress && { adress: k.adress }),
       ...(k.dagar?.length && { dagar: k.dagar }),
       ...(k.tid && { tider: k.tid }),
+      ...(k.varannan && { varannan: true }),
     },
   };
   return k.tider
@@ -154,11 +159,27 @@ export function tillEvenemang(k) {
             ...gemensamt,
             start: t.fran,
             slut: t.till,
-            ...(t.start && { notering: `Återkommande${t.slut ? `, kl. ${t.start}–${t.slut}` : `, kl. ${t.start}`}. Se Kubik för vilka dagar.` }),
             langvarig: true,
+            // Periodens klockslag är oftast tiden varje gång. Dagarna avgörs i bygget.
+            fakta: { ...gemensamt.fakta, ...(!k.tid && t.start && { tider: { start: t.start, ...(t.slut && { slut: t.slut }) } }) },
           },
     )
     .map(({ id, ...resten }) => ({ id, ...resten }));
+}
+
+// ---------- Aktivitetens egen sida ----------
+//
+// För perioder står veckodagarna bara i fritext på aktivitetens sida, till
+// exempel "Vi ses varje tisdag kl. 15–17". Texten läses här men sparas aldrig.
+// Bara de utlästa dagarna och tiderna sparas, som fakta.
+export function lasDetaljsida(html) {
+  const s = String(html || "");
+  const beskrivning = (s.match(/<meta (?:name="description"|property="og:description") content="([^"]*)"/) || [, ""])[1];
+  const huvud = (s.match(/<main[\s\S]*?<\/main>/) || [s])[0]
+    .replace(/<(script|style|nav|header|footer|form)[\s\S]*?<\/\1>/g, " ");
+  const text = `${avkoda(beskrivning)}\n${enRad(huvud)}`;
+  const dagar = lasVeckodagar(text);
+  return dagar ? { dagar: dagar.dagar, ...(dagar.start && { tider: { start: dagar.start, ...(dagar.slut && { slut: dagar.slut }) } }) } : { dagar: [] };
 }
 
 export function bearbeta(kort) {

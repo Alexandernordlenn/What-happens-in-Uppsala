@@ -10,9 +10,11 @@
 //   3. Skriver ett kompakt format som index.html förstår.
 
 import { readFile, writeFile } from "node:fs/promises";
-import { PLATSER } from "./gemensamt/platser.mjs";
+import { PLATSER, hittaPlats, normaliseraPlats } from "./gemensamt/platser.mjs";
+import { tillSvenskTid } from "./gemensamt/tid.mjs";
+import { serieDatum } from "./gemensamt/veckodagar.mjs";
 import { omradeForPlats, slaIhopSpann, spannFranText } from "./gemensamt/omraden.mjs";
-import { franKallan, tillampaRattelser } from "./gemensamt/klassa.mjs";
+import { klassa, stadaTitel, tillampaRattelser } from "./gemensamt/klassa.mjs";
 
 // Källornas id i filerna och bokstaven sidan använder för dem.
 // Ordningen avgör vems titel och kategori som vinner vid en sammanslagning:
@@ -114,7 +116,7 @@ export function tillSidformat(grupp, kandaOmraden = {}) {
 
   const ut = {
     id: kortId(e.id || `${e.titel}|${e.start}|${e.plats.namn}`),
-    t: e.titel,
+    t: stadaTitel(e.titel, e.kategori),
     d: datumDel(start),
     v: platsnyckel(e.plats),
     c: e.kategori,
@@ -143,8 +145,10 @@ export function tillSidformat(grupp, kandaOmraden = {}) {
   if (alder) ut.a = alder;
   const omrade =
     grupp.map((p) => p.e.omrade).find(Boolean) ||
+    grupp.map((p) => hittaPlats(p.e.plats.namn)?.omrade).find(Boolean) ||
     omradeForPlats(e.plats.namn, ut.v) ||
-    kandaOmraden[titelnyckel(e.plats.namn)];
+    kandaOmraden[titelnyckel(e.plats.namn)] ||
+    grupp.map((p) => omradeFranPostnummer(p.e.fakta?.adress)).find(Boolean);
   if (omrade) ut.o = omrade;
   for (const p of grupp) {
     const lank = p.e.kallor?.[0]?.url;
@@ -152,6 +156,31 @@ export function tillSidformat(grupp, kandaOmraden = {}) {
     if (lank && !ut.s.includes(s)) ut.s.push(s);
   }
   return { ut, platsnamn: e.plats.namn };
+}
+
+// Postnummer som säkert hör till ett område. 752 och 754 delas av flera områden.
+export function omradeFranPostnummer(adress) {
+  const m = String(adress || "").match(/\b(7[45]\d)\s?\d\d\b/);
+  if (!m) return null;
+  return { 753: "centrum", 755: "norra", 756: "sodra", 757: "sodra", 740: "ostra-land", 741: "ostra-land" }[m[1]] || null;
+}
+
+// Kubik skrev tidigare tiderna för perioder som notering. Nu blir de en serie.
+const KUBIKNOTERING = /^Återkommande(?:, kl\. [\d:–]+)?\. Se Kubik för vilka dagar\.$/;
+
+// Ett återkommande evenemang blir ett tillfälle per dag inom fönstret.
+export function tillfallen(e, fran, till) {
+  const forsta = datumDel(e.start);
+  const sista = datumDel(e.slut) || forsta;
+  const dagar = serieDatum(e.serie, fran > forsta ? fran : forsta, till < sista ? till : sista, forsta);
+  return dagar.map((dag) => ({
+    ...e,
+    id: `${e.id}-${dag}`,
+    serieId: e.id,
+    start: e.serie.start ? tillSvenskTid(`${dag}T${e.serie.start}`) : dag,
+    slut: e.serie.slut ? tillSvenskTid(`${dag}T${e.serie.slut}`) : null,
+    langvarig: false,
+  }));
 }
 
 function idagISverige() {
@@ -175,18 +204,30 @@ export function bygg(filer, idag = idagISverige(), { rattelser = null } = {}) {
   const sista = plusDagar(idag, DAGAR_FRAMAT);
   const poster = [];
   const kallinfo = {};
+  const kurser = {};
   KALLOR.forEach(({ id, bokstav }, ordning) => {
     const fil = filer[id];
     if (!fil) return;
     kallinfo[bokstav] = { hamtad: fil.hamtad, antal: 0 };
     if (fil.hamtad && String(fil.hamtad).slice(0, 10) < plusDagar(idag, -INAKTUELL_EFTER_DAGAR)) kallinfo[bokstav].inaktuell = 1;
     for (const original of fil.evenemang) {
-      const e = tillampaRattelser(franKallan(sportFranNotering(original, bokstav)), rattelser);
-      const fran = datumDel(e.start);
-      const till = datumDel(e.slut) || fran;
-      if (till < idag || fran > sista) continue;
-      poster.push({ e, bokstav, ordning });
-      kallinfo[bokstav].antal++;
+      // Platsen normaliseras igen, så att nya rader i platstabellen gäller direkt.
+      let e = normaliseraPlats(sportFranNotering(original, bokstav));
+      e = tillampaRattelser(klassa(e, bokstav), rattelser);
+      if (KUBIKNOTERING.test(e.notering || "")) e = { ...e, notering: undefined };
+      // Kurser visas inte på sidan, men räknas i kvalitetsrapporten.
+      if (e.format === "kurs") {
+        if ((datumDel(e.slut) || datumDel(e.start)) >= idag) kurser[bokstav] = (kurser[bokstav] || 0) + 1;
+        continue;
+      }
+      const delar = e.format === "aterkommande" && e.serie ? tillfallen(e, idag, sista) : [e];
+      for (const del of delar) {
+        const fran = datumDel(del.start);
+        const till = datumDel(del.slut) || fran;
+        if (till < idag || fran > sista) continue;
+        poster.push({ e: del, bokstav, ordning });
+        kallinfo[bokstav].antal++;
+      }
     }
   });
   poster.sort((a, b) => a.ordning - b.ordning);
@@ -208,7 +249,7 @@ export function bygg(filer, idag = idagISverige(), { rattelser = null } = {}) {
     return ut;
   });
   evenemang.sort((a, b) => (a.d + (a.tm || "99")).localeCompare(b.d + (b.tm || "99")));
-  return { byggd: new Date().toISOString(), idag, kallor: kallinfo, platser, evenemang };
+  return { byggd: new Date().toISOString(), idag, kallor: kallinfo, platser, statistik: { kurser }, evenemang };
 }
 
 async function main() {

@@ -10,6 +10,7 @@
 import { enRad } from "../gemensamt/text.mjs";
 import { tillSvenskTid } from "../gemensamt/tid.mjs";
 import { gissaKategori } from "../gemensamt/kategori.mjs";
+import { iUppsalaKommun } from "../gemensamt/kommungrans.mjs";
 
 export const KALLA = {
   id: "tickster",
@@ -101,6 +102,8 @@ export function lasEvenemangssida(html) {
 // ---------- Färdiga evenemang ----------
 
 export function iKommunen(detaljer) {
+  // Koordinater avgör i första hand: ligger platsen innanför kommungränsen?
+  if (typeof detaljer?.lat === "number" && typeof detaljer?.lng === "number") return iUppsalaKommun(detaljer.lat, detaljer.lng);
   if (!detaljer?.ort) return true; // Vet vi inte ort litar vi på listan vi hittade den i.
   return ORTER.includes(detaljer.ort.toLowerCase());
 }

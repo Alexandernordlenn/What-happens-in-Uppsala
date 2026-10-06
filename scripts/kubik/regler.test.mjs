@@ -2,7 +2,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
-import { bearbeta, lasKort, tolkaTid } from "./regler.mjs";
+import { bearbeta, lasKort, tillEvenemang, tolkaTid } from "./regler.mjs";
 
 const kort = lasKort(await readFile(new URL("./exempel.html", import.meta.url), "utf8"));
 const resultat = bearbeta(kort);
@@ -32,12 +32,13 @@ test("enstaka tillfällen blir ett evenemang var", () => {
   assert.equal(f[0].barnOchFamilj, true);
 });
 
-test("en period blir ett långvarigt evenemang med klockslag som notering", () => {
+test("en period blir ett långvarigt evenemang med klockslagen som fakta", () => {
   const [h] = av("hoerlurar-paa-1");
   assert.equal(h.start, "2026-09-25");
   assert.equal(h.slut, "2026-12-18");
   assert.equal(h.langvarig, true);
-  assert.match(h.notering, /14:30–15:30/);
+  assert.deepEqual(h.fakta.tider, { start: "14:30", slut: "15:30" });
+  assert.equal(h.notering, undefined);
 });
 
 test("två perioder ger två evenemang, och aktivitet utan tid ger inget", () => {
@@ -45,12 +46,25 @@ test("två perioder ger två evenemang, och aktivitet utan tid ger inget", () =>
   assert.equal(av("schack-paa-graenby").length, 0);
 });
 
+test("juridisk rådgivning är en tjänst och tas bort", () => {
+  assert.equal(av("juridisk-raadgivning").length, 0);
+});
+
 test("bara 19-25 år räknas inte som barn och familj", () => {
-  const [j] = av("juridisk-raadgivning");
+  const [j] = tillEvenemang({ slug: "x", url: "u", titel: "Språkcafé", tider: ["2 okt. 2026 18:00 - 20:00"], plats: "P", kategorier: ["Övrigt"], malgrupp: ["19-25 år"] });
   assert.equal(j.barnOchFamilj, false);
+  assert.equal(j.kategori, "aktivitet");
 });
 
 test("inga kontaktuppgifter sparas", () => {
   const text = JSON.stringify(kort);
   assert.ok(!/tel:|mailto:|@uppsala\.se/.test(text));
+});
+
+test("veckodagar läses från aktivitetens sida, men texten sparas inte", async () => {
+  const { lasDetaljsida } = await import("./regler.mjs");
+  const html = `<html><head><meta name="description" content="Kom och skapa!"></head><body><nav>Måndagar stängt</nav>
+    <main><h1>Designlabbet</h1><p>Vi ses varje onsdag kl. 15.00–17.30 i ateljén.</p></main><footer>Söndagar</footer></body></html>`;
+  assert.deepEqual(lasDetaljsida(html), { dagar: ["on"], tider: { start: "15:00", slut: "17:30" } });
+  assert.deepEqual(lasDetaljsida("<main>Startar 5 september.</main>"), { dagar: [] });
 });
