@@ -9,6 +9,15 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
 
 ## Nu
 
+- [ ] **Du:** Skapa en token för Claude-prenumerationen, så att AI-klassningen kommer igång:
+  1. Installera Claude Code på datorn och kör `claude setup-token`.
+  2. Lägg in token som hemligheten `CLAUDE_CODE_OAUTH_TOKEN` (GitHub → *Settings* → *Secrets and variables* → *Actions*), eller kör `/install-github-app` i Claude Code.
+  3. Om prenumerationen är jobbets: kontrollera först att den får användas för ett privat projekt.
+  Tills token finns står ett larmärende "AI-steget fungerar inte" öppet. Det är väntat.
+- [ ] **Du:** Lägg in `TICKSTER_API_KEY` när Tickster svarar. API-vägen är redan byggd.
+- [ ] **Du:** Håll ett öga på ärenden med etiketten `larm` under *Issues*. De skapas och stängs automatiskt. Kommer en begäran om att ta bort ett evenemang (från `integritet.html`), be Claude lägga in den i `data/rattelser.json` samma dag (Ticketmasters villkor: inom 24 timmar).
+- [ ] **Claude:** Efter första körningen med det nya bygget: kontrollera kvalitetsrapporten (`data/kvalitet.json`), hur många Kubik-perioder som fick veckodagar, och att inga larm är oväntade.
+
 - [ ] **Du:** Lägg in Svenska kyrkans nyckel som hemligheten `SVK_API_KEY` (GitHub → *Settings* → *Secrets and variables* → *Actions*). Då kommer kyrkornas konserter med nästa morgon.
 - [ ] **Claude:** Kontrollera Svenska kyrkans första riktiga körning. Fältnamnen i API-svaret är gissade och kan behöva justeras.
 - [ ] **Du:** Skicka de fem viktigaste förfrågningarna. Be gärna Claude skriva mejlen.
@@ -37,7 +46,7 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
 
 När nycklarna kommer:
 
-- [ ] **Claude:** Tickster: byt från webbsidorna till API:et.
+- [x] **Claude:** Tickster: API-vägen byggd (okt 2026). Används automatiskt när `TICKSTER_API_KEY` finns.
 - [ ] **Claude:** Ticketmaster: kontrollera första riktiga körningen när nyckeln finns.
 - [ ] **Claude:** Billetto
 - [ ] **Claude:** Profixio: byt från kalenderfiler och schemasidor till API:et.
@@ -48,7 +57,8 @@ När nycklarna kommer:
 - [ ] **Claude:** Låt arrangörer lägga in evenemang själva, eller klistra in en kalenderlänk (iCal). Löser alla små arrangörer utan API.
 - [ ] **Du:** Skapa Firebase-projektet: Firestore i EU, inloggning med e-postlänk, GitHub Pages-adressen som tillåten domän.
 - [ ] **Claude:** Riktig inloggning och sparade favoriter och kategorier mellan enheter (Firebase).
-- [ ] **Claude:** Integritetspolicy länkad i sidfoten, och möjlighet att radera sitt konto (GDPR). Behövs innan inloggning blir skarp. Ticketmasters villkor kräver också en integritetspolicy i sidfoten.
+- [x] **Claude:** Integritetssida (`integritet.html`) länkad i sidfoten, med borttagning av evenemang inom 24 timmar (okt 2026).
+- [ ] **Claude:** Möjlighet att radera sitt konto (GDPR), när riktig inloggning byggs.
 - [ ] **Claude:** Uppdatera "Om datan och källorna" när källor tillkommer.
 
 Idéer, senare:
@@ -74,7 +84,7 @@ Beslut som Claude tog under arbetet med `UPPDRAG-KVALITET.md`, enligt regeln "v�
 
 ## Återkommande underhåll
 
-- [ ] **Inför varje säsong:** uppdatera ligornas och lagens id:n i `scripts/sport/konfig.mjs`. Hämtningen varnar på GitHub när en rad ger noll matcher. Ungefärliga tider:
+- [ ] **Inför varje säsong:** Allsvenskan, Superettan, Damallsvenskan, Elitettan och SSL byter säsong automatiskt. Swehockey och Profixio (hockey, bandy, basket, handboll, volleyboll) behöver nya id:n i `scripts/sport/konfig.mjs`. Ett larmärende "Sport: <lag> saknar matcher" säger till när det behövs. Be då Claude uppdatera. Ungefärliga tider:
   - Allsvenskan och Damallsvenskan: februari–mars
   - Ishockey, basket, innebandy, handboll och volleyboll: augusti–september
   - Bandy: oktober
@@ -83,6 +93,8 @@ Beslut som Claude tog under arbetet med `UPPDRAG-KVALITET.md`, enligt regeln "v�
 - [ ] **Löpande:** titta under *Actions* ibland. En röd körning eller en gul varning betyder att en källa har ändrat något. Du får också mejl från GitHub.
 
 ## Klart
+
+- [x] 6 okt 2026: kvalitetslyftet (`UPPDRAG-KVALITET.md`): mätning och personkontroller, datamodell med format och stabila id, regler för kategori, format och ålder, kategorin Aktiviteter, kurser bort, dubbletter med byggnader och specialfall, sidan med utställningar, återkommande och åldersgrupper, spärr och larm, Ticksters API, lagtabell för sporten, AI-klassning (väntar på token), facit och integritetssida
 
 - [x] 24 sep 2026: automatisk hämtning varje morgon med GitHub Actions
 - [x] 24 sep: Svenska kyrkan (väntar på nyckel), Uppsala stadsteater, Destination Uppsala, Tickster och Bibliotek Uppsala

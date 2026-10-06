@@ -1,0 +1,5986 @@
+{
+ "_om": "Facit för reglerna: verkliga evenemang från 6 oktober 2026, märkta av Claude utifrån titel, plats och källans egna uppgifter. formatSaker=false betyder att formatet inte går att avgöra utan beskrivningen, och då räknas formatet inte. Ålder anges bara när den står i titeln eller i källans målgrupper. Används av facit.test.mjs.",
+ "poster": [
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Fotboll med Late Starters (för nybörjare 10-15 år)",
+    "start": "2026-02-01",
+    "slut": "2026-11-30",
+    "plats": {
+     "namn": "Årsta IP",
+     "id": "kubik-plats-årsta-ip"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     15
+    ],
+    "fakta": {
+     "kategorier": [
+      "Bollsport"
+     ],
+     "malgrupp": [
+      "10-12 år",
+      "13-15 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 00:00–23:59. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "sport",
+    "alder": [
+     10,
+     15
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Djurläger på 4H-gårdarna",
+    "start": "2026-02-16",
+    "slut": "2026-10-30",
+    "plats": {
+     "namn": "Uppsala Läns 4H",
+     "id": "kubik-plats-uppsala-läns-4h"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Djur/Natur",
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 09:00–16:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     7,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Hästläger på 4H-gårdarna",
+    "start": "2026-02-17",
+    "slut": "2026-10-29",
+    "plats": {
+     "namn": "Uppsala Läns 4H",
+     "id": "kubik-plats-uppsala-läns-4h"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Djur/Natur",
+      "Ridsport",
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 09:00–16:37. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "sport",
+    "alder": [
+     7,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Hittaut",
+    "start": "2026-05-01",
+    "slut": "2026-10-31",
+    "plats": {
+     "namn": "Uppsala",
+     "id": "uppsala"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     99
+    ],
+    "fakta": {
+     "kategorier": [
+      "Orientering"
+     ],
+     "malgrupp": [
+      "För alla åldrar"
+     ]
+    },
+    "notering": "Återkommande, kl. 00:00–23:59. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "sport",
+    "alder": [
+     0,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "DESIGNLABBET I SÄVJA, ÅRSKURS 4-9",
+    "start": "2026-08-07",
+    "slut": "2026-12-04",
+    "plats": {
+     "namn": "Sävja kulturhus, ateljén (Bildsalen)",
+     "id": "kubik-plats-sävja-kulturhus-atelj-n-bildsalen-"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": []
+    },
+    "notering": "Återkommande, kl. 15:30–18:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Nattfotboll i Stenhagen med Procyon BK",
+    "start": "2026-08-14",
+    "slut": "2027-04-01",
+    "plats": {
+     "namn": "Västra Stenhagensskola Gymnastikhall",
+     "id": "kubik-plats-västra-stenhagensskola-gymnastikhall"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Bollsport"
+     ],
+     "malgrupp": [
+      "13-15 år",
+      "16-18 år",
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 20:00–20:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "sport",
+    "alder": [
+     13,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Höstens kurser på Gränby 4H-gård",
+    "start": "2026-08-17",
+    "slut": "2026-12-06",
+    "plats": {
+     "namn": "Gränby 4H-gård",
+     "id": "kubik-plats-gränby-4h-gård"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Djur/Natur",
+      "Kurser",
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "0-4 år",
+      "5-6 år",
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:00–15:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Höstens kurser på Sävja 4H-gård",
+    "start": "2026-08-17",
+    "slut": "2026-12-06",
+    "plats": {
+     "namn": "Sävja 4H-gård",
+     "id": "kubik-plats-sävja-4h-gård"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Djur/Natur",
+      "Kurser",
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "0-4 år",
+      "5-6 år",
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:00–20:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Höstens kurser på Årsta 4H-gård",
+    "start": "2026-08-17",
+    "slut": "2026-12-06",
+    "plats": {
+     "namn": "Årsta 4H-gård",
+     "id": "kubik-plats-årsta-4h-gård"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Djur/Natur",
+      "Kurser",
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "0-4 år",
+      "5-6 år",
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:00–20:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Nattfotboll i Gränby",
+    "start": "2026-08-21",
+    "slut": "2027-06-18",
+    "plats": {
+     "namn": "Gränbyskolans idrottshall",
+     "id": "kubik-plats-gränbyskolans-idrottshall"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     18
+    ],
+    "fakta": {
+     "kategorier": [
+      "Bollsport"
+     ],
+     "malgrupp": [
+      "13-15 år",
+      "16-18 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 18:00–21:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "sport",
+    "alder": [
+     13,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "3D-ritning i Blender",
+    "start": "2026-08-22",
+    "slut": "2027-07-31",
+    "plats": {
+     "namn": "Uppsala Makerspace",
+     "id": "kubik-plats-uppsala-makerspace"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Kurser"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år",
+      "13-15 år",
+      "16-18 år",
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 10:15–12:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": [
+     7,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Arduino-kurs",
+    "start": "2026-08-22",
+    "slut": "2027-07-31",
+    "plats": {
+     "namn": "Uppsala Makerspace",
+     "id": "kubik-plats-uppsala-makerspace"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Kurser"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år",
+      "13-15 år",
+      "16-18 år",
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 10:15–12:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": [
+     7,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Teater och dans med Morias unga talanger",
+    "start": "2026-08-23",
+    "slut": "2026-12-20",
+    "plats": {
+     "namn": "Gränbyskolans aula",
+     "id": "kubik-plats-gränbyskolans-aula"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     18
+    ],
+    "fakta": {
+     "kategorier": [
+      "Teater"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år",
+      "13-15 år",
+      "16-18 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 13:00–14:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "scen",
+    "alder": [
+     7,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Dans och teater för vuxna",
+    "start": "2026-08-23",
+    "slut": "2026-12-20",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": false,
+    "alder": [
+     19,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Dans",
+      "Teater"
+     ],
+     "malgrupp": [
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 14:30–15:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "scen",
+    "alder": [
+     19,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Designlabbet på Gränby allaktivitetshus",
+    "start": "2026-08-24",
+    "slut": "2026-11-30",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     15
+    ],
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande",
+      "Workshop/Föreläsning"
+     ],
+     "malgrupp": [
+      "10-12 år",
+      "13-15 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:30–18:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     10,
+     15
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "DESIGNLABBET I GRÄNBY, ÅRSKURS 4-9",
+    "start": "2026-08-24",
+    "slut": "2026-11-30",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": []
+    },
+    "notering": "Återkommande, kl. 15:30–18:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "DESIGNLABBET I GOTTSUNDA, ÅRSKURS 1-3",
+    "start": "2026-08-24",
+    "slut": "2026-12-07",
+    "plats": {
+     "namn": "Gottsunda Centrum, Föreningshuset Kontakten/Ateljén",
+     "id": "kubik-plats-gottsunda-centrum-föreningshuset-kontakten-atelj-n"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": []
+    },
+    "notering": "Återkommande, kl. 15:00–17:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Yoga på Gränby allaktivitetshus",
+    "start": "2026-08-24",
+    "slut": "2026-12-14",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": false,
+    "alder": [
+     19,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 18:30–19:45. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     19,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Språkcafé på Gränby allaktivitetshus",
+    "start": "2026-08-24",
+    "slut": "2026-12-14",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": false,
+    "alder": [
+     19,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Workshop/Föreläsning",
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 18:00–20:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     19,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "DESIGNLABBET I ALMUNGE, ÅRSKURS 3-9",
+    "start": "2026-08-25",
+    "slut": "2026-12-01",
+    "plats": {
+     "namn": "Almunge skola",
+     "id": "kubik-plats-almunge-skola"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": []
+    },
+    "notering": "Återkommande, kl. 14:00–16:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Sömnad och textil",
+    "start": "2026-08-25",
+    "slut": "2026-12-15",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false,
+    "alder": [
+     19,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande",
+      "Slöjd"
+     ],
+     "malgrupp": [
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:30–17:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     19,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "BollyX på Gränby allaktivitetshus",
+    "start": "2026-08-25",
+    "slut": "2026-12-15",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": false,
+    "alder": [
+     19,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Dans"
+     ],
+     "malgrupp": [
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 18:30–19:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "scen",
+    "alder": [
+     19,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "SyskonSKAP Midi 13–18 år",
+    "start": "2026-08-25",
+    "slut": "2026-12-22",
+    "plats": {
+     "namn": "Temaverkstaden, Gottsunda centrum",
+     "id": "kubik-plats-temaverkstaden-gottsunda-centrum"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     18
+    ],
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": [
+      "13-15 år",
+      "16-18 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:00–18:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     13,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Teater Elin 9-12 år Lindbacken Kulturis",
+    "start": "2026-08-26",
+    "slut": "2026-12-02",
+    "plats": {
+     "namn": "Musiksalen Lindbackens skola",
+     "id": "kubik-plats-musiksalen-lindbackens-skola"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Teater"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:00–17:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     9,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "DESIGNLABBET I STENHAGEN, ÅRSKURS 4-9",
+    "start": "2026-08-26",
+    "slut": "2026-12-02",
+    "plats": {
+     "namn": "Östra Stenhagenskolan (Bildsal i skolbarack nära skolan)",
+     "id": "kubik-plats-östra-stenhagenskolan-bildsal-i-skolbarack-nära-skolan-"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": []
+    },
+    "notering": "Återkommande, kl. 16:00–18:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Onsdagspromenad i Gränby",
+    "start": "2026-08-26",
+    "slut": "2026-12-16",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": false,
+    "alder": [
+     19,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 13:00–14:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "aterkommande",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     19,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Skapa film - filmkurs på Gränby allaktivitetshus",
+    "start": "2026-08-26",
+    "slut": "2026-12-16",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     18
+    ],
+    "fakta": {
+     "kategorier": [
+      "Film/Foto",
+      "Kurser"
+     ],
+     "malgrupp": [
+      "13-15 år",
+      "16-18 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:00–19:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     13,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Magdans på Gränby allaktivitetshus",
+    "start": "2026-08-26",
+    "slut": "2026-12-16",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     99
+    ],
+    "fakta": {
+     "kategorier": [
+      "Dans"
+     ],
+     "malgrupp": [
+      "För alla åldrar"
+     ]
+    },
+    "notering": "Återkommande, kl. 18:00–20:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "scen",
+    "alder": [
+     0,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Kreativa kvällar på Gränby allaktivitetshus",
+    "start": "2026-08-26",
+    "slut": "2026-12-16",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false,
+    "alder": [
+     19,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande",
+      "Kurser"
+     ],
+     "malgrupp": [
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 18:00–21:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     19,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "SyskonSKAP Mini 7–12 år",
+    "start": "2026-08-26",
+    "slut": "2026-12-22",
+    "plats": {
+     "namn": "Uppsala",
+     "id": "uppsala"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:00–18:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     7,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Teater Elin 9-12 år torsdagar Lindbacken Kulturis",
+    "start": "2026-08-27",
+    "slut": "2026-12-03",
+    "plats": {
+     "namn": "Musiksalen Lindbackens skola",
+     "id": "kubik-plats-musiksalen-lindbackens-skola"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Teater"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:00–17:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     9,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "DESIGNLABBET I EKEBY BRUK, ÅRSKURS 4-9",
+    "start": "2026-08-27",
+    "slut": "2026-12-03",
+    "plats": {
+     "namn": "Disponentvillan i Ekeby Bruk, nedre plan",
+     "id": "kubik-plats-disponentvillan-i-ekeby-bruk-nedre-plan"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": []
+    },
+    "notering": "Återkommande, kl. 15:30–18:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Skaparverkstad på Gränby allaktivitetshus",
+    "start": "2026-08-27",
+    "slut": "2026-12-17",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     99
+    ],
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": [
+      "För alla åldrar"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:00–16:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Musikalgrupp för flerspråkiga ungdomar 16-20 år",
+    "start": "2026-08-27",
+    "slut": "2027-05-27",
+    "plats": {
+     "namn": "Språkateatern",
+     "id": "sprakateatern"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "alder": [
+     16,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Dans",
+      "Musik",
+      "Teater"
+     ],
+     "malgrupp": [
+      "16-18 år",
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 18:30–20:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "scen",
+    "alder": [
+     16,
+     20
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "DESIGNLABBET I STENHAGEN, ÅRSKURS 1-3",
+    "start": "2026-08-28",
+    "slut": "2026-12-04",
+    "plats": {
+     "namn": "Östra Stenhagenskolan (Bildsal i skolbarack nära skolan)",
+     "id": "kubik-plats-östra-stenhagenskolan-bildsal-i-skolbarack-nära-skolan-"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": []
+    },
+    "notering": "Återkommande, kl. 16:00–18:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "DESIGNLABBET I SÄVJA, ÅRSKURS 1-3",
+    "start": "2026-08-28",
+    "slut": "2026-12-11",
+    "plats": {
+     "namn": "Sävja kulturhus, ateljén (Bildsalen)",
+     "id": "kubik-plats-sävja-kulturhus-atelj-n-bildsalen-"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": []
+    },
+    "notering": "Återkommande, kl. 15:00–17:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Teater Elin 9-12 år Almunge Kulturis",
+    "start": "2026-08-28",
+    "slut": "2026-12-11",
+    "plats": {
+     "namn": "Almunge församlingsgård",
+     "id": "kubik-plats-almunge-församlingsgård"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Teater"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:00–18:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     9,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Brädspelsfredag på Gränby allaktivitetshus",
+    "start": "2026-08-28",
+    "slut": "2026-12-18",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "13-15 år",
+      "16-18 år",
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:00–17:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "aterkommande",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     13,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Teater för mellanstadiet i Stenhagen",
+    "start": "2026-08-28",
+    "slut": "2027-05-14",
+    "plats": {
+     "namn": "Lekrummet i Sankta Maria Kyrka. Stenhagen",
+     "id": "kubik-plats-lekrummet-i-sankta-maria-kyrka-stenhagen"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Teater"
+     ],
+     "malgrupp": [
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:00–16:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "scen",
+    "alder": [
+     10,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Inomhusfotboll i Liljeforsskolans idrottshall",
+    "start": "2026-08-31",
+    "slut": "2026-12-14",
+    "plats": {
+     "namn": "Liljeforsskolans idrottshall",
+     "id": "kubik-plats-liljeforsskolans-idrottshall"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Bollsport"
+     ],
+     "malgrupp": [
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:00–17:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "sport",
+    "alder": [
+     10,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Barndans på Gränby allaktivitetshus",
+    "start": "2026-08-31",
+    "slut": "2026-12-14",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     6
+    ],
+    "fakta": {
+     "kategorier": [
+      "Dans"
+     ],
+     "malgrupp": [
+      "0-4 år",
+      "5-6 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:00–17:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "scen",
+    "alder": [
+     0,
+     6
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Siriklubban Gottsunda 7-14 år",
+    "start": "2026-08-31",
+    "slut": "2027-05-31",
+    "plats": {
+     "namn": "Nya Gottsundaskolans idrottshall",
+     "id": "kubik-plats-nya-gottsundaskolans-idrottshall"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     15
+    ],
+    "fakta": {
+     "kategorier": [
+      "Bollsport"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år",
+      "13-15 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:00–17:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "sport",
+    "alder": [
+     7,
+     14
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "DESIGNLABBET I ALMUNGE, ÅRSKURS 1-2",
+    "start": "2026-09-01",
+    "slut": "2026-12-08",
+    "plats": {
+     "namn": "Almunge skola",
+     "id": "kubik-plats-almunge-skola"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": []
+    },
+    "notering": "Återkommande, kl. 14:00–16:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Musiklek 6-9 år Skyttorp Kulturis",
+    "start": "2026-09-01",
+    "slut": "2026-12-15",
+    "plats": {
+     "namn": "F klassrum Skyttorp skola",
+     "id": "kubik-plats-f-klassrum-skyttorp-skola"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "alder": [
+     5,
+     9
+    ],
+    "fakta": {
+     "kategorier": [
+      "Musik"
+     ],
+     "malgrupp": [
+      "5-6 år",
+      "7-9 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 12:00–15:10. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": [
+     6,
+     9
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Dans åk 1-3 Gåvstad Kulturis",
+    "start": "2026-09-01",
+    "slut": "2026-12-15",
+    "plats": {
+     "namn": "Gåvsta skola Hall 2000",
+     "id": "kubik-plats-gåvsta-skola-hall-2000"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     9
+    ],
+    "fakta": {
+     "kategorier": [
+      "Dans"
+     ],
+     "malgrupp": [
+      "7-9 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 14:50–15:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     7,
+     9
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Teckna manga",
+    "start": "2026-09-01",
+    "slut": "2026-12-15",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": [
+      "13-15 år",
+      "16-18 år",
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:00–16:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     13,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Siriklubban Gränby 10-16 år",
+    "start": "2026-09-01",
+    "slut": "2027-06-01",
+    "plats": {
+     "namn": "Gränbyskolans idrottshall",
+     "id": "kubik-plats-gränbyskolans-idrottshall"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     18
+    ],
+    "fakta": {
+     "kategorier": [
+      "Bollsport"
+     ],
+     "malgrupp": [
+      "10-12 år",
+      "13-15 år",
+      "16-18 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:30–16:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "sport",
+    "alder": [
+     10,
+     16
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Nyhetsklubb",
+    "start": "2026-09-02",
+    "slut": "2026-11-25",
+    "plats": {
+     "namn": "Gottsundabiblioteket, Sagorummet",
+     "id": "kubik-plats-gottsundabiblioteket-sagorummet"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Litteratur/Skrivande"
+     ],
+     "malgrupp": [
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:00–15:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "prat",
+    "alder": [
+     10,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Teater för högstadiet i Gränby",
+    "start": "2026-09-02",
+    "slut": "2026-12-09",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     15
+    ],
+    "fakta": {
+     "kategorier": [
+      "Teater"
+     ],
+     "malgrupp": [
+      "13-15 år"
+     ]
+    }
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "scen",
+    "alder": [
+     13,
+     15
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Teater för åk 2-3 i Gränby",
+    "start": "2026-09-02",
+    "slut": "2026-12-09",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     9
+    ],
+    "fakta": {
+     "kategorier": [
+      "Teater"
+     ],
+     "malgrupp": [
+      "7-9 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 14:00–15:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "scen",
+    "alder": [
+     7,
+     9
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Dans 2019-2020 Sävja Kulturis",
+    "start": "2026-09-02",
+    "slut": "2026-12-09",
+    "plats": {
+     "namn": "Sävja Kulturhus",
+     "id": "kubik-plats-sävja-kulturhus"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     5,
+     9
+    ],
+    "fakta": {
+     "kategorier": [
+      "Dans"
+     ],
+     "malgrupp": [
+      "5-6 år",
+      "7-9 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:00–15:45. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     5,
+     9
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Teater för mellanstadiet i Gränby",
+    "start": "2026-09-02",
+    "slut": "2026-12-09",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Teater"
+     ],
+     "malgrupp": [
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:00–16:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "scen",
+    "alder": [
+     10,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Klarinett 6-9 år Storvreta Kulturis",
+    "start": "2026-09-02",
+    "slut": "2026-12-16",
+    "plats": {
+     "namn": "Pluggparadiset, grupprum åk 1, Storvreta",
+     "id": "kubik-plats-pluggparadiset-grupprum-åk-1-storvreta"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "alder": [
+     5,
+     9
+    ],
+    "fakta": {
+     "kategorier": [
+      "Musik"
+     ],
+     "malgrupp": [
+      "5-6 år",
+      "7-9 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 14:00–14:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": [
+     6,
+     9
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Gitarr 9-12 år Allaktivitetshuset Gottsunda Kulturis",
+    "start": "2026-09-02",
+    "slut": "2026-12-16",
+    "plats": {
+     "namn": "Treklangens fritidsklubb Allaktivitetshuset Gottsunda",
+     "id": "kubik-plats-treklangens-fritidsklubb-allaktivitetshuset-gottsunda"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Musik"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 14:00–16:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": [
+     9,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Onsdagshäng",
+    "start": "2026-09-02",
+    "slut": "2026-12-16",
+    "plats": {
+     "namn": "Stadsbiblioteket",
+     "id": "stadsbib"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     18
+    ],
+    "notering": "Återkommande, kl. 15:30–16:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "aterkommande",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     13,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "DESIGNLABBET I GOTTSUNDA, ÅRSKURS 4-9",
+    "start": "2026-09-02",
+    "slut": "2026-12-16",
+    "plats": {
+     "namn": "Gottsunda Centrum, Temaverkstan (Längst ned, bredvid teatern och biblioteket. )",
+     "id": "kubik-plats-gottsunda-centrum-temaverkstan-längst-ned-bredvid-teatern-och-biblioteket-"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": []
+    },
+    "notering": "Återkommande, kl. 15:00–17:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Gitarr 9-12 år Gränby Allaktivitetshus Kulturis",
+    "start": "2026-09-02",
+    "slut": "2026-12-16",
+    "plats": {
+     "namn": "Allaktivitetshuset Gränby",
+     "id": "kubik-plats-allaktivitetshuset-gränby"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Musik"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 17:00–18:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": [
+     9,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Gitarr 13-20 år Allaktivitetshuset Gränby",
+    "start": "2026-09-02",
+    "slut": "2026-12-16",
+    "plats": {
+     "namn": "Allaktivitetshuset Gränby",
+     "id": "kubik-plats-allaktivitetshuset-gränby"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Musik"
+     ],
+     "malgrupp": [
+      "13-15 år",
+      "16-18 år",
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 18:00–19:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "musik",
+    "alder": [
+     13,
+     20
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Siriklubban Gränby 7-9 år",
+    "start": "2026-09-03",
+    "slut": "2027-06-03",
+    "plats": {
+     "namn": "Gränbyskolans idrottshall",
+     "id": "kubik-plats-gränbyskolans-idrottshall"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     9
+    ],
+    "fakta": {
+     "kategorier": [
+      "Bollsport"
+     ],
+     "malgrupp": [
+      "7-9 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:00–16:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "sport",
+    "alder": [
+     7,
+     9
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Dans åk 1-3 Funbo Kulturis",
+    "start": "2026-09-04",
+    "slut": "2026-12-11",
+    "plats": {
+     "namn": "Funbo skola",
+     "id": "kubik-plats-funbo-skola"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     9
+    ],
+    "fakta": {
+     "kategorier": [
+      "Dans"
+     ],
+     "malgrupp": [
+      "7-9 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 14:15–14:55. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     7,
+     9
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Lördagsöppet på Gränby allaktivitetshus",
+    "start": "2026-09-05",
+    "slut": "2026-12-12",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     99
+    ],
+    "fakta": {
+     "kategorier": [
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "För alla åldrar"
+     ]
+    },
+    "notering": "Återkommande, kl. 11:00–16:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "aterkommande",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Läs tillsammans!",
+    "start": "2026-09-07",
+    "slut": "2026-11-30",
+    "plats": {
+     "namn": "Gottsundabiblioteket",
+     "id": "kubik-plats-gottsundabiblioteket"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Litteratur/Skrivande"
+     ],
+     "malgrupp": [
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:00–15:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "prat",
+    "alder": [
+     10,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Dans åk 3-5 Gränby Kulturis",
+    "start": "2026-09-07",
+    "slut": "2026-12-07",
+    "plats": {
+     "namn": "Gränbyskolans aula ingång via Allaktivitetshuset",
+     "id": "kubik-plats-gränbyskolans-aula-ingång-via-allaktivitetshuset"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Dans"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:10–16:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     7,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Thaiboxning för dig 12-18 år",
+    "start": "2026-09-08",
+    "slut": "2026-12-15",
+    "plats": {
+     "namn": "Kvarngärdesskolans idrottshall, Lilla salen",
+     "id": "kubik-plats-kvarngärdesskolans-idrottshall-lilla-salen"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Kampsport"
+     ],
+     "malgrupp": [
+      "13-15 år",
+      "16-18 år",
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:00–18:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "sport",
+    "alder": [
+     12,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Ung bokcirkel tisdagar",
+    "start": "2026-09-08",
+    "slut": "2027-01-19",
+    "plats": {
+     "namn": "Stadsbiblioteket",
+     "id": "stadsbib"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     18
+    ],
+    "notering": "Återkommande, kl. 17:00–18:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "aterkommande",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": [
+     13,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Dans åk 2-5 Nåntuna Kulturis",
+    "start": "2026-09-09",
+    "slut": "2026-12-09",
+    "plats": {
+     "namn": "Nåntunaskolan rörelserummet",
+     "id": "kubik-plats-nåntunaskolan-rörelserummet"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Dans"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 15:00–15:45. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     7,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Torsdagskul på Biotopia",
+    "start": "2026-09-10",
+    "slut": "2026-12-10",
+    "plats": {
+     "namn": "Biotopia",
+     "id": "biotopia"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     6
+    ],
+    "fakta": {
+     "kategorier": [
+      "Djur/Natur",
+      "Konst/Skapande",
+      "Museum/Kulturarv",
+      "Slöjd",
+      "Vetenskap/Samhälle",
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "0-4 år",
+      "5-6 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 14:30–15:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "aterkommande",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     6
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "DESIGNLABBET FUNKIS PÅ GRAND, Fr. 13 år m",
+    "start": "2026-09-10",
+    "slut": "2026-12-17",
+    "plats": {
+     "namn": "Kulturhuset Grand",
+     "id": "kubik-plats-kulturhuset-grand"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": []
+    },
+    "notering": "Återkommande, kl. 15:30–17:15. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Ebru pappersmarmorering på Gränby allaktivitetshus",
+    "start": "2026-09-12",
+    "slut": "2026-11-07",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     5,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande",
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "5-6 år",
+      "7-9 år",
+      "10-12 år",
+      "13-15 år",
+      "16-18 år",
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 11:00–13:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     5,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Science Lab på Gränby allaktivitetshus",
+    "start": "2026-09-12",
+    "slut": "2026-11-14",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     5,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Vetenskap/Samhälle",
+      "Workshop/Föreläsning"
+     ],
+     "malgrupp": [
+      "5-6 år",
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 13:00–15:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     5,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Juridisk rådgivning med Gatujuristerna",
+    "start": "2026-09-14",
+    "slut": "2026-12-14",
+    "plats": {
+     "namn": "Gränby allaktivitetshus",
+     "id": "granbyallaktivitetshus"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": false,
+    "alder": [
+     19,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Workshop/Föreläsning",
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:00–18:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     19,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "SyskonSKAP Stenhagen 13–18 år",
+    "start": "2026-09-14",
+    "slut": "2026-12-14",
+    "plats": {
+     "namn": "Västra Stenhagenskolans fritidsgård, vid Östra Stenhagenskolan.",
+     "id": "kubik-plats-västra-stenhagenskolans-fritidsgård-vid-östra-stenhagenskolan-"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     18
+    ],
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande"
+     ],
+     "malgrupp": [
+      "13-15 år",
+      "16-18 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 18:00–20:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     13,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Cirkus",
+    "start": "2026-09-14",
+    "slut": "2026-12-18",
+    "plats": {
+     "namn": "Stenhagens idrottshall, Brantingsskolans idrottshall",
+     "id": "kubik-plats-stenhagens-idrottshall-brantingsskolans-idrottshall"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     5,
+     15
+    ],
+    "fakta": {
+     "kategorier": [
+      "Cirkus"
+     ],
+     "malgrupp": [
+      "5-6 år",
+      "7-9 år",
+      "10-12 år",
+      "13-15 år"
+     ]
+    }
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "scen",
+    "alder": [
+     5,
+     15
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "“Så enkelt går du ner 10 kg!” (teaterföreställning om att överleva anorexia, med Teater Elin)",
+    "start": "2026-09-19",
+    "slut": "2026-11-14",
+    "plats": {
+     "namn": "Språkateatern",
+     "id": "sprakateatern"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     25
+    ],
+    "fakta": {
+     "kategorier": [
+      "Teater"
+     ],
+     "malgrupp": [
+      "13-15 år",
+      "16-18 år",
+      "19-25 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 19:00–15:15. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "speltid",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     13,
+     25
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Skridskoskola",
+    "start": "2026-09-19",
+    "slut": "2026-11-21",
+    "plats": {
+     "namn": "Gränby ishall",
+     "id": "granbyishall"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     99
+    ],
+    "fakta": {
+     "kategorier": [
+      "Issport/Skidsport"
+     ],
+     "malgrupp": [
+      "För alla åldrar"
+     ]
+    }
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "sport",
+    "alder": [
+     0,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Fit Boots träning",
+    "start": "2026-09-23",
+    "slut": "2027-06-09",
+    "plats": {
+     "namn": "Tiundaskolans idrottshall - danssal",
+     "id": "kubik-plats-tiundaskolans-idrottshall-danssal"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     99
+    ],
+    "notering": "Återkommande, kl. 17:00–18:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "scen",
+    "alder": [
+     0,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Gitarrundervisning i grupp",
+    "start": "2026-09-24",
+    "slut": "2026-12-03",
+    "plats": {
+     "namn": "Disponentvillan",
+     "id": "kubik-plats-disponentvillan"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Musik"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 16:45–17:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "kurs",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": [
+     7,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Hörlurar på!",
+    "start": "2026-09-25",
+    "slut": "2026-12-18",
+    "plats": {
+     "namn": "Gottsunabiblioteke, Sagorummet",
+     "id": "kubik-plats-gottsunabiblioteke-sagorummet"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Litteratur/Skrivande"
+     ],
+     "malgrupp": [
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 14:30–15:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "prat",
+    "alder": [
+     10,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Pumphusets lördags- och söndagsöppet",
+    "start": "2026-09-26",
+    "slut": "2026-12-20",
+    "plats": {
+     "namn": "Pumphuset",
+     "id": "kubik-plats-pumphuset"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     99
+    ],
+    "fakta": {
+     "kategorier": [
+      "Museum/Kulturarv",
+      "Vetenskap/Samhälle"
+     ],
+     "malgrupp": [
+      "För alla åldrar"
+     ]
+    },
+    "notering": "Återkommande, kl. 12:00–16:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "aterkommande",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Digital skattjakt med Musse & Helium",
+    "start": "2026-10-24",
+    "slut": "2026-11-01",
+    "plats": {
+     "namn": "Uppsala city",
+     "id": "kubik-plats-uppsala-city"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     15
+    ],
+    "notering": "Återkommande, kl. 10:00–17:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     15
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Pumpatävling - Rösta på din favorit",
+    "start": "2026-10-24",
+    "slut": "2026-10-31",
+    "plats": {
+     "namn": "Uppsala city",
+     "id": "kubik-plats-uppsala-city"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     99
+    ],
+    "notering": "Återkommande, kl. 10:00–23:59. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Återbruksverkstad på Höstlovet",
+    "start": "2026-10-24",
+    "slut": "2026-11-01",
+    "plats": {
+     "namn": "Biotopia",
+     "id": "biotopia"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     99
+    ],
+    "fakta": {
+     "kategorier": [
+      "Djur/Natur",
+      "Museum/Kulturarv",
+      "Slöjd",
+      "Vetenskap/Samhälle",
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "För alla åldrar"
+     ]
+    },
+    "notering": "Återkommande, kl. 11:00–17:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Leksaksbyte på höstlovet",
+    "start": "2026-10-24",
+    "slut": "2026-11-01",
+    "plats": {
+     "namn": "Pumphuset",
+     "id": "kubik-plats-pumphuset"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     9
+    ],
+    "notering": "Återkommande, kl. 12:00–16:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     9
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Höstlovsbio på Fyrisbiografen",
+    "start": "2026-10-24",
+    "slut": "2026-11-01",
+    "plats": {
+     "namn": "Fyrisbiografen",
+     "id": "kubik-plats-fyrisbiografen"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     18
+    ],
+    "notering": "Återkommande, kl. 13:10–16:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     0,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Skaparläger på höstlovet",
+    "start": "2026-10-25",
+    "slut": "2026-10-29",
+    "plats": {
+     "namn": "Orsa Hornberga Gård",
+     "id": "kubik-plats-orsa-hornberga-gård"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     18
+    ],
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande",
+      "Slöjd"
+     ],
+     "malgrupp": [
+      "10-12 år",
+      "13-15 år",
+      "16-18 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 10:00–19:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     10,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Sloga Uppsalas Höstlov Skills Basketläger Kvarngärdesskolan",
+    "start": "2026-10-26",
+    "slut": "2026-10-30",
+    "plats": {
+     "namn": "Kvarngärdesskolan",
+     "id": "kubik-plats-kvarngärdesskolan"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     18
+    ],
+    "fakta": {
+     "kategorier": [
+      "Bollsport"
+     ],
+     "malgrupp": [
+      "10-12 år",
+      "13-15 år",
+      "16-18 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 09:00–14:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "sport",
+    "alder": [
+     10,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Fotbollsläger med GFC - för dig mellan 9-14 år!",
+    "start": "2026-10-26",
+    "slut": "2026-10-30",
+    "plats": {
+     "namn": "Gottsunda Allaktivitetshus (Idrottshallen, Gottsundaskolan)",
+     "id": "kubik-plats-gottsunda-allaktivitetshus-idrottshallen-gottsundaskolan-"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     15
+    ],
+    "notering": "Återkommande, kl. 10:00–14:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "sport",
+    "alder": [
+     9,
+     14
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Changes Höstlovsläger 2026 (5 - 8 år)",
+    "start": "2026-10-26",
+    "slut": "2026-10-30",
+    "plats": {
+     "namn": "Sävja Kulturhus",
+     "id": "kubik-plats-sävja-kulturhus"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "alder": [
+     5,
+     9
+    ],
+    "notering": "Återkommande, kl. 10:00–17:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "musik",
+    "alder": [
+     5,
+     8
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Changes Höstläger 9 - 15 år",
+    "start": "2026-10-26",
+    "slut": "2026-10-30",
+    "plats": {
+     "namn": "Kungsgatan 45 & Sävja Kulturhus",
+     "id": "kubik-plats-kungsgatan-45-sävja-kulturhus"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     15
+    ],
+    "notering": "Återkommande, kl. 10:00–17:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "musik",
+    "alder": [
+     9,
+     15
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Höstlov: Mat och snacks på vikingatiden",
+    "start": "2026-10-26",
+    "slut": "2026-11-01",
+    "plats": {
+     "namn": "Gamla Uppsala museum",
+     "id": "gamlauppsalamuseum"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     5,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Museum/Kulturarv"
+     ],
+     "malgrupp": [
+      "5-6 år",
+      "7-9 år",
+      "10-12 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 12:00–16:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     5,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Kampsportsläger på Gränby allaktivitetshus",
+    "start": "2026-10-26",
+    "slut": "2026-10-30",
+    "plats": {
+     "namn": "Kvarngärdesskolan, Lilla idrottshallen",
+     "id": "kubik-plats-kvarngärdesskolan-lilla-idrottshallen"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     18
+    ],
+    "notering": "Återkommande, kl. 12:00–14:30. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "sport",
+    "alder": [
+     13,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Höstlov på Lötens fritidsgården",
+    "start": "2026-10-26",
+    "slut": "2026-10-30",
+    "plats": {
+     "namn": "Lötens fritidsgård",
+     "id": "kubik-plats-lötens-fritidsgård"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     18
+    ],
+    "notering": "Återkommande, kl. 18:00–23:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     13,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Höstlov på Lindbackens fritidsklubb",
+    "start": "2026-10-26",
+    "slut": "2026-10-30",
+    "plats": {
+     "namn": "Lindbackens fritidsgård",
+     "id": "kubik-plats-lindbackens-fritidsgård"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     18
+    ],
+    "notering": "Återkommande, kl. 18:00–23:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     13,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Läs för Sotis",
+    "start": "2026-11-01",
+    "slut": "2026-11-30",
+    "plats": {
+     "namn": "Storvretabiblioteket",
+     "id": "kubik-plats-storvretabiblioteket"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     5,
+     12
+    ]
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "prat",
+    "alder": [
+     5,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Återbruksverkstad Helgtema på Biotopia",
+    "start": "2026-11-07",
+    "slut": "2026-11-22",
+    "plats": {
+     "namn": "Biotopia",
+     "id": "biotopia"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     99
+    ],
+    "fakta": {
+     "kategorier": [
+      "Djur/Natur",
+      "Konst/Skapande",
+      "Museum/Kulturarv",
+      "Övrigt"
+     ],
+     "malgrupp": [
+      "För alla åldrar"
+     ]
+    },
+    "notering": "Återkommande, kl. 11:00–17:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Life. Play. End. – interaktiv och digital konstutställning med Elsa Beskow",
+    "start": "2025-11-05",
+    "slut": "2026-10-18",
+    "plats": {
+     "namn": "Cube of Art",
+     "id": "cube"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true
+   },
+   "facit": {
+    "format": "utstallning",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Bakluckeloppis vid Ulva kvarn",
+    "start": "2026-05-03",
+    "slut": "2026-10-11",
+    "plats": {
+     "namn": "Ulva kvarn",
+     "id": "ulva"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "ovrigt",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Katarina Jagellonica 500 år",
+    "start": "2026-05-08",
+    "slut": "2026-11-08",
+    "plats": {
+     "namn": "Uppsala domkyrka",
+     "id": "domkyrkan"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true
+   },
+   "facit": {
+    "format": "utstallning",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Takvandring på Uppsala slott",
+    "start": "2026-05-30",
+    "slut": "2026-10-18",
+    "plats": {
+     "namn": "Uppsala slott",
+     "id": "slott"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "HER STORY – THE COAT",
+    "start": "2026-06-06",
+    "slut": "2027-01-17",
+    "plats": {
+     "namn": "Upplandsmuseet",
+     "id": "upplandsmuseet"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "utstallning",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Bruno Liljefors – tillfällig utställning",
+    "start": "2026-06-13",
+    "slut": "2027-09-19",
+    "plats": {
+     "namn": "Gustavianum",
+     "id": "gustavianum"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "utstallning",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Stuart Mayes – Following Eugène: A Spring Outing",
+    "start": "2026-08-29",
+    "slut": "2026-10-11",
+    "plats": {
+     "namn": "Uppsala konstmuseum",
+     "id": "konstmuseum"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "utstallning",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Art Night 2026",
+    "start": "2026-09-03",
+    "slut": "2026-12-03",
+    "plats": {
+     "namn": "Uppsala konstmuseum",
+     "id": "konstmuseum"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Bara två stjärnor",
+    "start": "2026-09-03",
+    "slut": "2026-10-22",
+    "plats": {
+     "namn": "Uppsala stadsteater",
+     "id": "stadsteatern"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "speltid",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Familjelördagar på Uppsala Konstmuseum",
+    "start": "2026-09-05",
+    "slut": "2026-12-05",
+    "plats": {
+     "namn": "Uppsala konstmuseum",
+     "id": "konstmuseum"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true
+   },
+   "facit": {
+    "format": "aterkommande",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Sveriges första julgranar?",
+    "start": "2026-09-06",
+    "slut": "2026-12-20",
+    "plats": {
+     "namn": "Salsta slott",
+     "id": "du-plats-salsta-slott"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "utstallning",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Jävla parasiter",
+    "start": "2026-09-11",
+    "slut": "2026-10-16",
+    "plats": {
+     "namn": "Gottsunda Dans & Teater",
+     "id": "gottsundadt"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "speltid",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Medan vi brinner",
+    "start": "2026-09-19",
+    "slut": "2026-11-19",
+    "plats": {
+     "namn": "Uppsala stadsteater",
+     "id": "stadsteatern"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "speltid",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Stadens ljus",
+    "start": "2026-09-25",
+    "slut": "2026-12-19",
+    "plats": {
+     "namn": "Uppsala stadsteater",
+     "id": "stadsteatern"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "speltid",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Eija-Liisa Ahtila – A Possible Image – of what is just becoming reality",
+    "start": "2026-10-03",
+    "slut": "2027-01-21",
+    "plats": {
+     "namn": "Uppsala konstmuseum",
+     "id": "konstmuseum"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "utstallning",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Johan Thurfjell – Ljuset",
+    "start": "2026-10-10",
+    "slut": "2026-11-22",
+    "plats": {
+     "namn": "Bror Hjorths Hus",
+     "id": "brorhjorth"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "utstallning",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "VEM BLIR DU? – Interaktiv konstutställning med Carl Larsson",
+    "start": "2026-10-14",
+    "slut": "2027-06-30",
+    "plats": {
+     "namn": "Cube of Art",
+     "id": "cube"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true
+   },
+   "facit": {
+    "format": "utstallning",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Anna Pehrsson – Långtifrån var det en ö",
+    "start": "2026-10-15",
+    "slut": "2026-12-06",
+    "plats": {
+     "namn": "Uppsala konstmuseum",
+     "id": "konstmuseum"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "utstallning",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Nyårsöppet i Tropiska växthuset",
+    "start": "2027-01-01",
+    "slut": "2028-01-03",
+    "plats": {
+     "namn": "Botaniska trädgården",
+     "id": "botaniska"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "fakta": {
+     "datum": [
+      "2027-01-01",
+      "2027-01-03"
+     ]
+    }
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "ovrigt",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Halloween på Odinsborg",
+    "start": "2027-10-30",
+    "slut": "2027-11-06",
+    "plats": {
+     "namn": "Odinsborg",
+     "id": "du-plats-odinsborg"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Julmarknad på Kaleido",
+    "start": "2027-11-21",
+    "slut": "2028-01-05",
+    "plats": {
+     "namn": "Kaleido konsthantverk",
+     "id": "du-plats-kaleido-konsthantverk"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "ovrigt",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Förnuft och känsla",
+    "start": "2027-11-27",
+    "slut": "2028-02-20",
+    "plats": {
+     "namn": "Uppsala stadsteater",
+     "id": "stadsteatern"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "speltid",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Uplands konstförenings konstnärsprofil 2026 – Roine Jansson",
+    "start": "2027-12-12",
+    "slut": "2028-01-24",
+    "plats": {
+     "namn": "Uppsala konstmuseum",
+     "id": "konstmuseum"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "utstallning",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Utställn: Katarina Jagellonica i Domkyrkan",
+    "start": "2026-05-08",
+    "slut": "2026-10-31",
+    "plats": {
+     "namn": "Uppsala domkyrka",
+     "id": "domkyrkan"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-05-08",
+      "2026-11-08"
+     ],
+     "tider": {
+      "start": "08:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "utstallning",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Visning: Walmstedtska gården",
+    "start": "2026-07-04",
+    "slut": "2026-10-11",
+    "plats": {
+     "namn": "Upplandsmuseet",
+     "id": "upplandsmuseet"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-07-04",
+      "2026-12-20"
+     ],
+     "tider": {
+      "start": "15:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "PUNKT",
+    "start": "2026-10-03",
+    "slut": "2026-10-18",
+    "plats": {
+     "namn": "Galleri 1&2",
+     "id": "heja-plats-galleri-1-2"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-10-03",
+      "2026-10-18"
+     ],
+     "tider": {
+      "start": "12:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "utstallning",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Prova på curling",
+    "start": "2026-10-11",
+    "slut": "2027-12-04",
+    "plats": {
+     "namn": "Curlingcompaniet",
+     "id": "heja-plats-curlingcompaniet"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-10-11"
+     ],
+     "tider": {
+      "start": "11:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "sport",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Uppsala Kortfilmfestival",
+    "start": "2026-10-19",
+    "slut": "2026-10-25",
+    "plats": {
+     "namn": "Uppsala Konsert & Kongress",
+     "id": "ukk"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-10-19",
+      "2026-10-25"
+     ],
+     "tider": {
+      "start": "09:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Digital skattjakt",
+    "start": "2026-10-24",
+    "slut": "2026-11-01",
+    "plats": {
+     "namn": "Klosterparken",
+     "id": "heja-plats-klosterparken"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "fakta": {
+     "datum": [
+      "2026-10-24",
+      "2026-11-01"
+     ],
+     "tider": {
+      "start": "10:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Pumpatävling i city",
+    "start": "2026-10-24",
+    "slut": "2026-10-31",
+    "plats": {
+     "namn": "City",
+     "id": "heja-plats-city"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "fakta": {
+     "datum": [
+      "2026-10-24",
+      "2026-10-31"
+     ],
+     "tider": {
+      "start": "10:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "ovrigt",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Halloween på Odinsborg",
+    "start": "2026-10-31",
+    "slut": "2026-11-06",
+    "plats": {
+     "namn": "Odinsborg Restaurang & Café",
+     "id": "heja-plats-odinsborg-restaurang-caf-"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-10-31",
+      "2026-11-06"
+     ],
+     "tider": {
+      "start": "18:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Back to the 50s christmas show",
+    "start": "2026-12-04",
+    "slut": "2026-12-12",
+    "plats": {
+     "namn": "Fyrishov",
+     "id": "fyrishov"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-12-04",
+      "2026-12-12"
+     ],
+     "tider": {
+      "start": "18:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Torsdagskul - Tema: Bygga drake (15/10 & 22/10)",
+    "start": "2026-10-15T14:30:00+02:00",
+    "slut": "2026-10-22T15:30:00+02:00",
+    "plats": {
+     "namn": "Biotopia",
+     "id": "biotopia"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false,
+    "fakta": {
+     "taggar": [
+      "torsdagskul"
+     ]
+    }
+   },
+   "facit": {
+    "format": "aterkommande",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Torsdagskul - Tema: Utter (5/11 & 12/11)",
+    "start": "2026-11-05T14:30:00+01:00",
+    "slut": "2026-11-12T15:30:00+01:00",
+    "plats": {
+     "namn": "Biotopia",
+     "id": "biotopia"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false,
+    "fakta": {
+     "taggar": [
+      "torsdagskul"
+     ]
+    }
+   },
+   "facit": {
+    "format": "aterkommande",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Torsdagskul - Tema: Solsystemet (26/11 & 3/12)",
+    "start": "2026-11-26T14:30:00+01:00",
+    "slut": "2026-12-03T15:30:00+01:00",
+    "plats": {
+     "namn": "Biotopia",
+     "id": "biotopia"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": false,
+    "fakta": {
+     "taggar": [
+      "torsdagskul"
+     ]
+    }
+   },
+   "facit": {
+    "format": "aterkommande",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Greczula",
+    "start": "2027-02-06T20:00:00+01:00",
+    "slut": "2027-11-07T23:00:00+01:00",
+    "plats": {
+     "namn": "Katalin",
+     "id": "katalin"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "taggar": [
+      "katalinlive",
+      "uppsala",
+      "katalin",
+      "musik",
+      "konsert",
+      "kaliber live",
+      "greczula",
+      "pop",
+      "mello",
+      "melodifestivalen"
+     ]
+    }
+   },
+   "facit": {
+    "format": "period",
+    "formatSaker": false,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "i",
+   "post": {
+    "titel": "IK Sirius – Djurgårdens IF",
+    "start": "2026-11-22T14:00:00+01:00",
+    "slut": null,
+    "plats": {
+     "namn": "Studenternas",
+     "id": "studenternas"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": false,
+    "notering": "Fotboll, Allsvenskan"
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "sport",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "s",
+   "post": {
+    "titel": "Petra von Kants bittra tårar",
+    "start": "2027-02-12T18:00:00+01:00",
+    "slut": null,
+    "plats": {
+     "namn": "Uppsala stadsteater",
+     "id": "stadsteatern"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": false,
+    "notering": "Genrep"
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Sagostund på svenska för barn 1–3 år",
+    "start": "2026-10-06T10:30:00+02:00",
+    "slut": "2026-10-06T11:00:00+02:00",
+    "plats": {
+     "namn": "Stadsbiblioteket",
+     "id": "stadsbib"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "alder": [
+     1,
+     3
+    ],
+    "fakta": {
+     "taggar": [
+      "Sagostund",
+      "Småbarn"
+     ],
+     "malgrupp": [
+      "Barn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     1,
+     3
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Barnrytmik 3–5-åringar",
+    "start": "2026-10-06T15:00:00+02:00",
+    "slut": "2026-10-06T15:30:00+02:00",
+    "plats": {
+     "namn": "Gottsundabiblioteket",
+     "id": "bibliotek-gottsundabiblioteket"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     12
+    ],
+    "fakta": {
+     "taggar": [],
+     "malgrupp": [
+      "Barn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     3,
+     5
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Bokklubb 9–12 år",
+    "start": "2026-10-06T16:00:00+02:00",
+    "slut": "2026-10-06T17:00:00+02:00",
+    "plats": {
+     "namn": "Stadsbiblioteket",
+     "id": "stadsbib"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     9,
+     12
+    ],
+    "fakta": {
+     "taggar": [
+      "Bokcirkel"
+     ],
+     "malgrupp": [
+      "Barn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": [
+     9,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Ungdomszon",
+    "start": "2026-10-06T16:00:00+02:00",
+    "slut": "2026-10-06T17:30:00+02:00",
+    "plats": {
+     "namn": "Sävjabiblioteket",
+     "id": "bibliotek-sävjabiblioteket"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     19
+    ],
+    "fakta": {
+     "taggar": [],
+     "malgrupp": [
+      "Ungdom"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": [
+     13,
+     19
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Babysagostund",
+    "start": "2026-10-07T10:00:00+02:00",
+    "slut": "2026-10-07T10:30:00+02:00",
+    "plats": {
+     "namn": "Bälingebiblioteket",
+     "id": "bibliotek-bälingebiblioteket"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     12
+    ],
+    "fakta": {
+     "taggar": [
+      "Småbarn",
+      "Sagostund"
+     ],
+     "malgrupp": [
+      "Barn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Babyrytmik",
+    "start": "2026-10-08T10:00:00+02:00",
+    "slut": "2026-10-08T11:00:00+02:00",
+    "plats": {
+     "namn": "Stadsbiblioteket",
+     "id": "stadsbib"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     12
+    ],
+    "fakta": {
+     "taggar": [
+      "Småbarn"
+     ],
+     "malgrupp": [
+      "Barn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Vem får Nobelpriset i litteratur?",
+    "start": "2026-10-08T12:55:00+02:00",
+    "slut": "2026-10-08T13:15:00+02:00",
+    "plats": {
+     "namn": "Stadsbiblioteket",
+     "id": "stadsbib"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": false,
+    "alder": [
+     18,
+     99
+    ]
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": [
+     18,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Vernissage: Utställning om barnböckerna om bävern Ottar",
+    "start": "2026-10-10T12:00:00+02:00",
+    "slut": "2026-10-10T14:00:00+02:00",
+    "plats": {
+     "namn": "Storvretabiblioteket",
+     "id": "bibliotek-storvretabiblioteket"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     99
+    ],
+    "fakta": {
+     "taggar": [
+      "Utställning"
+     ],
+     "malgrupp": [
+      "Barn",
+      "Vuxen"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": [
+     0,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Banned books-festival med barnteater",
+    "start": "2026-10-10T13:00:00+02:00",
+    "slut": "2026-10-10T14:00:00+02:00",
+    "plats": {
+     "namn": "Stadsbiblioteket",
+     "id": "stadsbib"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     12
+    ],
+    "fakta": {
+     "taggar": [
+      "Teater",
+      "Banned Books Week"
+     ],
+     "malgrupp": [
+      "Barn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     0,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Demokrati-quiz för barn",
+    "start": "2026-10-17T12:00:00+02:00",
+    "slut": "2026-10-17T15:30:00+02:00",
+    "plats": {
+     "namn": "Sävjabiblioteket",
+     "id": "bibliotek-sävjabiblioteket"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     12
+    ],
+    "fakta": {
+     "taggar": [
+      "Samhälle och debatt",
+      "Demokrativecka"
+     ],
+     "malgrupp": [
+      "Barn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Lördagskul: Sjung barnsånger med Ako!",
+    "start": "2026-10-17T13:00:00+02:00",
+    "slut": "2026-10-17T14:00:00+02:00",
+    "plats": {
+     "namn": "Stenhagenbiblioteket",
+     "id": "bibliotek-stenhagenbiblioteket"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     12
+    ],
+    "fakta": {
+     "taggar": [
+      "Musik",
+      "Småbarn"
+     ],
+     "malgrupp": [
+      "Barn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": [
+     0,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Barnteater: Stjärnhimlar",
+    "start": "2026-10-18T13:30:00+02:00",
+    "slut": "2026-10-18T14:00:00+02:00",
+    "plats": {
+     "namn": "Stadsbiblioteket",
+     "id": "stadsbib"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     12
+    ],
+    "fakta": {
+     "taggar": [
+      "Teater",
+      "Många språk",
+      "Nationell minoritet"
+     ],
+     "malgrupp": [
+      "Barn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     0,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Bokklubb 10–13 år",
+    "start": "2026-10-20T16:00:00+02:00",
+    "slut": "2026-10-20T16:45:00+02:00",
+    "plats": {
+     "namn": "Gottsundabiblioteket",
+     "id": "bibliotek-gottsundabiblioteket"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     13
+    ],
+    "fakta": {
+     "taggar": [
+      "Bokcirkel"
+     ],
+     "malgrupp": [
+      "Barn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": [
+     10,
+     13
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Babybokis",
+    "start": "2026-11-05T10:00:00+01:00",
+    "slut": "2026-11-05T11:00:00+01:00",
+    "plats": {
+     "namn": "Sävja öppna förskola",
+     "id": "bibliotek-sävja-öppna-förskola"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     12
+    ],
+    "fakta": {
+     "taggar": [
+      "Sagostund",
+      "Småbarn"
+     ],
+     "malgrupp": [
+      "Barn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Å bebis, bebis",
+    "start": "2026-11-08T14:00:00+01:00",
+    "slut": "2026-11-08T14:30:00+01:00",
+    "plats": {
+     "namn": "Stadsbiblioteket",
+     "id": "stadsbib"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     12
+    ],
+    "fakta": {
+     "taggar": [
+      "Teater",
+      "Småbarn"
+     ],
+     "malgrupp": [
+      "Barn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": [
+     0,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Å bebis bebis",
+    "start": "2026-11-10T10:00:00+01:00",
+    "slut": "2026-11-10T10:30:00+01:00",
+    "plats": {
+     "namn": "Gottsundabiblioteket",
+     "id": "bibliotek-gottsundabiblioteket"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     12
+    ]
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": [
+     0,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Ellinor Skagegård",
+    "start": "2026-11-11T18:00:00+01:00",
+    "slut": "2026-11-11T19:00:00+01:00",
+    "plats": {
+     "namn": "Stadsbiblioteket",
+     "id": "stadsbib"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": false,
+    "alder": [
+     18,
+     99
+    ],
+    "fakta": {
+     "taggar": [
+      "Författarbesök"
+     ],
+     "malgrupp": [
+      "Vuxen"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": [
+     18,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Vad händer med vår data när vi dör?",
+    "start": "2026-11-17T18:30:00+01:00",
+    "slut": "2026-11-17T20:00:00+01:00",
+    "plats": {
+     "namn": "Storvretabiblioteket",
+     "id": "bibliotek-storvretabiblioteket"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": false,
+    "alder": [
+     18,
+     99
+    ],
+    "fakta": {
+     "taggar": [
+      "Föredrag",
+      "Författarbesök",
+      "Samhälle och debatt"
+     ],
+     "malgrupp": [
+      "Vuxen"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": [
+     18,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "b",
+   "post": {
+    "titel": "Gottsundabiblioteket fyller 50 år!",
+    "start": "2026-11-20T12:00:00+01:00",
+    "slut": "2026-11-20T19:00:00+01:00",
+    "plats": {
+     "namn": "Gottsundabiblioteket",
+     "id": "bibliotek-gottsundabiblioteket"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     99
+    ],
+    "fakta": {
+     "taggar": [],
+     "malgrupp": [
+      "Barn",
+      "Ungdom",
+      "Vuxen"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": [
+     0,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Sagostund för barn 1-3 år",
+    "start": "2026-10-06T10:30:00+02:00",
+    "slut": "2026-10-06T11:00:00+02:00",
+    "plats": {
+     "namn": "Stadsbiblioteket",
+     "id": "stadsbib"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     4
+    ],
+    "fakta": {
+     "kategorier": [
+      "Litteratur/Skrivande"
+     ],
+     "malgrupp": [
+      "0-4 år"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     1,
+     3
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Barnrytmik 3-5 åringar",
+    "start": "2026-10-06T15:00:00+02:00",
+    "slut": "2026-10-06T15:30:00+02:00",
+    "plats": {
+     "namn": "Kulturpunkten, Gottsunda",
+     "id": "kulturpunkten"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     6
+    ]
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": [
+     3,
+     5
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Stjärnhimlar – barnteater på finska och svenska",
+    "start": "2026-10-18T13:30:00+02:00",
+    "slut": "2026-10-18T14:00:00+02:00",
+    "plats": {
+     "namn": "Stadsbiblioteket",
+     "id": "stadsbib"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     6
+    ],
+    "fakta": {
+     "kategorier": [
+      "Teater"
+     ],
+     "malgrupp": [
+      "5-6 år",
+      "0-4 år"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     0,
+     6
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Pizza & Poesi Gränby Fritidsgård",
+    "start": "2026-10-24T11:00:00+02:00",
+    "slut": "2026-10-24T14:00:00+02:00",
+    "plats": {
+     "namn": "Gränby Fritidsgård",
+     "id": "kubik-plats-gränby-fritidsgård"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     18
+    ]
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     13,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Innebandyläger, höstlov för barn födda 2017-18",
+    "start": "2026-10-26",
+    "slut": "2026-10-28",
+    "plats": {
+     "namn": "Vänge Sporthall",
+     "id": "kubik-plats-vänge-sporthall"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     7,
+     9
+    ],
+    "fakta": {
+     "kategorier": [
+      "Bollsport"
+     ],
+     "malgrupp": [
+      "7-9 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 09:00–15:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "sport",
+    "alder": [
+     7,
+     9
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Höstlov på Gränby fritidsgård!",
+    "start": "2026-10-26",
+    "slut": "2026-10-29",
+    "plats": {
+     "namn": "Gränby fritidsgård",
+     "id": "kubik-plats-gränby-fritidsgård"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     18
+    ],
+    "notering": "Återkommande, kl. 18:00–21:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": false,
+    "kategori": "aktivitet",
+    "alder": [
+     13,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Katarina Jagellonica 500 år",
+    "start": "2026-10-26T10:00:00+01:00",
+    "slut": "2026-10-26T11:30:00+01:00",
+    "plats": {
+     "namn": "Uppsala domkyrka",
+     "id": "domkyrkan"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     5,
+     12
+    ],
+    "fakta": {
+     "kategorier": [
+      "Konst/Skapande",
+      "Museum/Kulturarv"
+     ],
+     "malgrupp": [
+      "7-9 år",
+      "5-6 år",
+      "10-12 år"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     5,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Gör egen skräckfilm 10-15 år",
+    "start": "2026-10-28T13:00:00+01:00",
+    "slut": "2026-10-28T15:30:00+01:00",
+    "plats": {
+     "namn": "Höjdpunkten, Gottsunda allaktivitetshus",
+     "id": "kubik-plats-höjdpunkten-gottsunda-allaktivitetshus"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": true,
+    "alder": [
+     10,
+     15
+    ]
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": [
+     10,
+     15
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Innebandyläger, höstlov för barn födda 2019-20",
+    "start": "2026-10-29",
+    "slut": "2026-10-30",
+    "plats": {
+     "namn": "Vänge Sporthall",
+     "id": "kubik-plats-vänge-sporthall"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": true,
+    "alder": [
+     5,
+     6
+    ],
+    "fakta": {
+     "kategorier": [
+      "Bollsport"
+     ],
+     "malgrupp": [
+      "5-6 år"
+     ]
+    },
+    "notering": "Återkommande, kl. 09:00–15:00. Se Kubik för vilka dagar."
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "sport",
+    "alder": [
+     5,
+     6
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Familjevisning med verkstad",
+    "start": "2026-10-29T12:30:00+01:00",
+    "slut": "2026-10-29T13:45:00+01:00",
+    "plats": {
+     "namn": "Bror Hjorth Hus",
+     "id": "kubik-plats-bror-hjorth-hus"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "alder": [
+     5,
+     12
+    ]
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     5,
+     12
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Bowling med Vattholma fritidsgård!",
+    "start": "2026-10-30T17:00:00+01:00",
+    "slut": "2026-10-30T18:00:00+01:00",
+    "plats": {
+     "namn": "Vattholma fritidsgård",
+     "id": "kubik-plats-vattholma-fritidsgård"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "alder": [
+     13,
+     18
+    ]
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     13,
+     18
+    ]
+   }
+  },
+  {
+   "kalla": "u",
+   "post": {
+    "titel": "Halloween på Sävja 4H-gård",
+    "start": "2026-10-31T11:00:00+01:00",
+    "slut": "2026-10-31T15:00:00+01:00",
+    "plats": {
+     "namn": "Sävja 4H-gård",
+     "id": "kubik-plats-sävja-4h-gård"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "alder": [
+     0,
+     99
+    ]
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     0,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Seminarium om 2026 års Nobelpris i fysik",
+    "start": "2026-10-06T15:30:00+02:00",
+    "slut": null,
+    "plats": {
+     "namn": "Uppsala Universitet",
+     "id": "du-plats-uppsala-universitet"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-10-06"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "”Så enkelt går du ner 10 kg!” – Teater Elin",
+    "start": "2026-10-17",
+    "slut": null,
+    "plats": {
+     "namn": "Språkateatern",
+     "id": "sprakateatern"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-11-14"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Robert Wells – 40 år vid flygeln",
+    "start": "2026-10-18T16:00:00+02:00",
+    "slut": null,
+    "plats": {
+     "namn": "Uppsala Konsert & Kongress",
+     "id": "ukk"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-10-18"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "13×13: Jordens förhistoriska klimatförändringar – istider och värmetider under 600 miljoner år",
+    "start": "2026-10-28T18:30:00+01:00",
+    "slut": null,
+    "plats": {
+     "namn": "Humanistiska teatern",
+     "id": "humanistiska"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-10-28"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Viktor Norén & Linus Wahlgren – Våra liv, våra musikaler",
+    "start": "2026-10-29T19:30:00+01:00",
+    "slut": null,
+    "plats": {
+     "namn": "Uppsala Konsert & Kongress",
+     "id": "ukk"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-10-29"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Fotboll: IK Sirius – Djurgårdens IF",
+    "start": "2026-11-22",
+    "slut": null,
+    "plats": {
+     "namn": "Studenternas",
+     "id": "studenternas"
+    },
+    "kategori": "sport",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-11-22"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "sport",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "d",
+   "post": {
+    "titel": "Julmarknad vid Storvreta församlingsgård 2026",
+    "start": "2026-12-05T11:00:00+01:00",
+    "slut": null,
+    "plats": {
+     "namn": "Storvreta församlingsgård",
+     "id": "du-plats-storvreta-församlingsgård"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-12-05"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "ovrigt",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Familjelördagar på Uppsala konstmuseum",
+    "start": "2026-10-10",
+    "slut": null,
+    "plats": {
+     "namn": "Uppsala konstmuseum",
+     "id": "konstmuseum"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true,
+    "fakta": {
+     "datum": [
+      "2026-10-10"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "museum",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Långbacka/Bådagård",
+    "start": "2026-10-21",
+    "slut": null,
+    "plats": {
+     "namn": "Katalin",
+     "id": "katalin"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {}
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Familjekonsert Peter och vargen",
+    "start": "2026-10-24T13:00:00+02:00",
+    "slut": null,
+    "plats": {
+     "namn": "Uppsala Konsert & Kongress",
+     "id": "ukk"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "fakta": {
+     "datum": [
+      "2026-10-24"
+     ],
+     "tider": {
+      "start": "13:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Phontrattarnes 70-års jubileum",
+    "start": "2026-11-06T20:00:00+01:00",
+    "slut": "2026-11-07",
+    "plats": {
+     "namn": "Katalin",
+     "id": "katalin"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-11-06",
+      "2026-11-07"
+     ],
+     "tider": {
+      "start": "20:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Linnékvintetten 40 år",
+    "start": "2026-11-08T16:00:00+01:00",
+    "slut": null,
+    "plats": {
+     "namn": "Uppsala Konsert & Kongress",
+     "id": "ukk"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-11-08"
+     ],
+     "tider": {
+      "start": "16:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Författarbesök: Ellinor Skagegård",
+    "start": "2026-11-11T18:00:00+01:00",
+    "slut": null,
+    "plats": {
+     "namn": "Stadsbiblioteket",
+     "id": "stadsbib"
+    },
+    "kategori": "prat",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-11-11"
+     ],
+     "tider": {
+      "start": "18:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Den Eviga Ungdomens Stad – Rimeika hyllar Uppsala",
+    "start": "2026-11-25T20:00:00+01:00",
+    "slut": null,
+    "plats": {
+     "namn": "Katalin",
+     "id": "katalin"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "datum": [
+      "2026-11-25"
+     ],
+     "tider": {
+      "start": "20:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "h",
+   "post": {
+    "titel": "Barnens Julvärld med Nassim Al fakir",
+    "start": "2026-12-12T14:00:00+01:00",
+    "slut": null,
+    "plats": {
+     "namn": "Uppsala Konsert & Kongress",
+     "id": "ukk"
+    },
+    "kategori": "ovrigt",
+    "barnOchFamilj": true,
+    "fakta": {
+     "datum": [
+      "2026-12-12"
+     ],
+     "tider": {
+      "start": "14:00"
+     }
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Familjekonsert: Flamencotopia",
+    "start": "2026-10-11T14:00:00+02:00",
+    "slut": "2026-10-11T15:00:00+02:00",
+    "plats": {
+     "namn": "Uppsala konstmuseum",
+     "id": "konstmuseum"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Familjeverkstad: Drottning Kristina 400 år",
+    "start": "2026-10-18T14:30:00+02:00",
+    "slut": "2026-10-18T16:30:00+02:00",
+    "plats": {
+     "namn": "Uppsala slottshistoriska",
+     "id": "slottshist"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Långbacka/Bådagård - Katalins Backficka",
+    "start": "2026-10-21T20:00:00+02:00",
+    "slut": "2026-10-21T23:00:00+02:00",
+    "plats": {
+     "namn": "Katalin",
+     "id": "katalin"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "taggar": [
+      "katalinandallthatjazz",
+      "katalinuppsala",
+      "katalinsbakficka",
+      "långbacka",
+      "badegård"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Familjekonsert – Peter och vargen",
+    "start": "2026-10-24T13:00:00+02:00",
+    "slut": "2026-10-24T13:45:00+02:00",
+    "plats": {
+     "namn": "Uppsala Konsert & Kongress",
+     "id": "ukk"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true,
+    "fakta": {
+     "taggar": [
+      "klassiskt",
+      "barn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Zilverzurfarn 70 år - release ny platta",
+    "start": "2026-11-05T20:00:00+01:00",
+    "slut": "2026-11-05T22:00:00+01:00",
+    "plats": {
+     "namn": "Blackbird",
+     "id": "blackbird"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "taggar": [
+      "blackbird",
+      "jazz",
+      "uppsala",
+      "late night jazz",
+      "musik",
+      "konsert",
+      "live",
+      "kaliber live",
+      "östra station",
+      "zilverzurfarn"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Sven Ingvars – Igår. Idag. Imorgon. 70 år.",
+    "start": "2026-11-06T19:00:00+01:00",
+    "slut": "2026-11-06T20:45:00+01:00",
+    "plats": {
+     "namn": "Uppsala Konsert & Kongress",
+     "id": "ukk"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "taggar": [
+      "musik"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Phontrattarnes 70-års jubileum!",
+    "start": "2026-11-06T20:00:00+01:00",
+    "slut": "2026-11-06T23:00:00+01:00",
+    "plats": {
+     "namn": "Katalin",
+     "id": "katalin"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "taggar": [
+      "katalinuppsala",
+      "katalinsbakficka"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Familjekonsert: Gärna ville jag vara ett träd",
+    "start": "2026-11-08T14:00:00+01:00",
+    "slut": "2026-11-08T15:00:00+01:00",
+    "plats": {
+     "namn": "Uppsala konstmuseum",
+     "id": "konstmuseum"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": true
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Linnékvintetten 40 år – Jubileumskonsert",
+    "start": "2026-11-08T16:00:00+01:00",
+    "slut": "2026-11-08T18:00:00+01:00",
+    "plats": {
+     "namn": "Uppsala Konsert & Kongress",
+     "id": "ukk"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "taggar": [
+      "klassiskt"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Den Eviga Ungdomens Stad - Rimeika hyllar Uppsala",
+    "start": "2026-11-25T20:00:00+01:00",
+    "slut": "2026-11-25T23:00:00+01:00",
+    "plats": {
+     "namn": "Katalin",
+     "id": "katalin"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "taggar": [
+      "katalinsjazzbar",
+      "katalinlive",
+      "katalinandallthatjazz",
+      "katalin"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Sopplunch: Carl Fredrik Hill – Vi följer dina spår",
+    "start": "2026-11-26T12:00:00+01:00",
+    "slut": "2026-11-26T13:00:00+01:00",
+    "plats": {
+     "namn": "Uppsala konstmuseum",
+     "id": "konstmuseum"
+    },
+    "kategori": "mat",
+    "barnOchFamilj": false
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "prat",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Familjelördag: Måla självporträtt (från 5 år)",
+    "start": "2026-11-28T13:30:00+01:00",
+    "slut": "2026-11-28T15:00:00+01:00",
+    "plats": {
+     "namn": "Uppsala konstmuseum",
+     "id": "konstmuseum"
+    },
+    "kategori": "museum",
+    "barnOchFamilj": true
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "aktivitet",
+    "alder": [
+     5,
+     99
+    ]
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
+    "start": "2026-12-09T18:30:00+01:00",
+    "slut": "2026-12-09T22:30:00+01:00",
+    "plats": {
+     "namn": "Uppsala Konsert & Kongress",
+     "id": "ukk"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "taggar": [
+      "jul",
+      "cirkus"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Klas Kalas – Klas Hallberg best of 30 år på scen",
+    "start": "2027-02-24T19:00:00+01:00",
+    "slut": "2027-02-24T21:30:00+01:00",
+    "plats": {
+     "namn": "Uppsala Konsert & Kongress",
+     "id": "ukk"
+    },
+    "kategori": "scen",
+    "barnOchFamilj": false,
+    "fakta": {
+     "taggar": [
+      "humor"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "scen",
+    "alder": null
+   }
+  },
+  {
+   "kalla": "t",
+   "post": {
+    "titel": "Laleh vårturné 2027 – Jag såg hur vi var stjärnor",
+    "start": "2027-03-05T19:30:00+01:00",
+    "slut": "2027-03-05T21:00:00+01:00",
+    "plats": {
+     "namn": "Uppsala Konsert & Kongress",
+     "id": "ukk"
+    },
+    "kategori": "musik",
+    "barnOchFamilj": false,
+    "fakta": {
+     "taggar": [
+      "pop"
+     ]
+    }
+   },
+   "facit": {
+    "format": "enstaka",
+    "formatSaker": true,
+    "kategori": "musik",
+    "alder": null
+   }
+  }
+ ]
+}

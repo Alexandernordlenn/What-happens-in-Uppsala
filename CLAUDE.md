@@ -28,7 +28,7 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 
 ## Källor
 
-### Svenska kyrkan CalendarAPI (aktiv)
+### Svenska kyrkan CalendarAPI (byggd, väntar på nyckel)
 
 - Anrop: `GET https://svk-apim-prod.azure-api.net/calendar/v1/event/search`
 - Nyckel i rubriken `Ocp-Apim-Subscription-Key`, från GitHub-hemligheten `SVK_API_KEY` (subscription "uppsala-just-nu-hamtning").
@@ -133,6 +133,17 @@ Gemensamma delar i `scripts/gemensamt/`:
 - Rådatan (`data/radata/`) läggs inte i repot. Den sparas i Firestore och som bilaga till varje körning i 14 dagar.
 - Testerna körs med `npm test`. Varje källa har en `regler.test.mjs` med sparad exempeldata.
 - Dubbletter slås ihop i `scripts/bygg-sida.mjs` (`slaIhop`), med titeljämförelsen i `scripts/gemensamt/dubbletter.mjs`. Sex steg: långvariga med samma titel och plats, samma källas identiska poster, serier mot en annan källas uttryckliga datum, speltider mot föreställningar, festivaler med sina programpunkter, och huvudregeln (olika källor, samma dag och plats eller byggnad, klockslag inom 60 minuter, titlar som matchar). Sport: samma dag, arena och tid. Varje sammanslagning loggas i kvalitetsrapporten. Facit finns som tester i `scripts/bygg-sida.test.mjs`.
+
+## Kvalitet (okt 2026)
+
+Uppdraget i `UPPDRAG-KVALITET.md` gav automatisk kvalitet utan manuellt arbete:
+
+- **Mätning:** `scripts/kvalitet/matt.mjs` skriver `data/kvalitet.json` varje morgon. Personkontrollerna (`personer.mjs`) prövar Lisa, studenten, pensionären, tonåringen och sportfanet. Före-mätningen ligger i `data/kvalitet-fore.json`.
+- **Klassning i bygget:** `scripts/gemensamt/klassa.mjs` (kategori, format, ålder, titlar), `veckodagar.mjs` (återkommande), `dubbletter.mjs` (titeljämförelse), `kommungrans.mjs` (OpenStreetMap-polygon).
+- **Kurser** (anmälan till en termin) visas inte, men räknas. Kubik länkas för kurser.
+- **Skydd och larm:** `spara.mjs` behåller gårdagens fil när en källa ger under hälften av medianen (högst 3 dagar). `scripts/kvalitet/larm.mjs` skapar GitHub-ärenden med etiketten `larm` och stänger dem när problemet är borta.
+- **Facit:** `scripts/kvalitet/facit.json` med 194 verkliga evenemang, prövas i `npm test`.
+- **Borttagning på begäran:** `{ "dolj": true }` i `data/rattelser.json`, inom 24 timmar (`integritet.html`).
 
 ## Att inte glömma
 

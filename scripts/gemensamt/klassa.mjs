@@ -119,6 +119,8 @@ export function klassaKategori(e, bokstav) {
   // En visning med verkstad för familjer räknas också som aktivitet.
   const verkstad = /verkstad|workshop|pyssel/i.test(titel);
   if (["ovrigt", "prat", "museum"].includes(kategori) && AKTIVITETSTITEL.test(titel) && (verkstad || !MUSEITITEL.test(titel))) kategori = "aktivitet";
+  // Film hör till scen och film, även när källan kallar det konst.
+  if (kategori === "museum" && /kortfilm|filmfestival|\bfilm\b|\bbio\b/i.test(titel) && !MUSEITITEL.test(titel)) kategori = "scen";
   // Övrigt är sista utvägen. Pröva texten en gång till med de nya reglerna.
   if (kategori === "ovrigt") kategori = gissaKategori(titel, "ovrigt");
   return kategori;
@@ -130,7 +132,7 @@ const KURSORD = /kurs(er|en)?\b|\btermin|anmälan krävs|nybörjarkurs|kulturis|
 const SCENPLATSER = new Set(["ukk"]);
 const MUSEIPLATS = /museum|museet|konsthall|galleri|konstnärsklubb|bror hjorth|gustavianum|biotopia|cube of art|slottshistoriska/i;
 // Långvariga saker på museer som inte är utställningar: lovaktiviteter, verkstäder, tävlingar.
-const INTE_UTSTALLNING = /lov(et)?\b|verkstad|läger|workshop|pyssel|tävling|skattjakt|byte|bio\b|pop ?up|öppet|visning|vandring|kul\b|night|kväll/i;
+const INTE_UTSTALLNING = /lov(et)?\b|verkstad|läger|workshop|pyssel|tävling|skattjakt|byte|bio\b|pop ?up|öppet|visning|vandring|kul\b|night|kväll|festival/i;
 
 function platsInfo(e) {
   const p = hittaPlats(e.plats?.namn) || null;
@@ -180,7 +182,9 @@ export function klassaFormat(e) {
   // 3. Utställning.
   const plats = platsInfo(e);
   if (/vernissage|finissage/i.test(titel)) return { format: "enstaka" };
-  if (/utställ|exhibition/i.test(titel) || (plats.museum && e.kategori === "museum" && !INTE_UTSTALLNING.test(titel))) {
+  // Källan har själv sagt "utställning" eller "konst och museum" (kategori museum från källan).
+  const kallanMuseum = e.kategori === "museum" && e.ursprung?.kategori === "kalla";
+  if (/utställ|exhibition/i.test(titel) || ((plats.museum || kallanMuseum) && e.kategori === "museum" && !INTE_UTSTALLNING.test(titel))) {
     return { format: "utstallning" };
   }
 
@@ -194,9 +198,10 @@ export function klassaFormat(e) {
 
 // ---------- Ålder och barn ----------
 
+// Ålder som står i titeln ("Siriklubban 7-14 år") är säkrare än källans
+// målgrupper ("7-9 år", "10-12 år", "13-15 år"), så titeln går först.
 export function klassaAlder(e) {
-  if (e.alder) return e.alder;
-  return spannFranText(e.titel);
+  return spannFranText(e.titel) || e.alder || null;
 }
 
 // ---------- Titlar ----------
@@ -256,7 +261,7 @@ export function klassa(e, bokstav) {
   ut = satt(ut, "format", format, "regel");
   if (serie && ut.format === "aterkommande" && !ut.serie) ut = { ...ut, serie };
   const alder = klassaAlder(ut);
-  if (alder && !ut.alder) ut = satt(ut, "alder", alder, "regel");
+  if (alder && JSON.stringify(alder) !== JSON.stringify(ut.alder)) ut = { ...ut, alder, ursprung: { ...ut.ursprung, alder: "regel" } };
   // Övre åldersgräns högst 15 betyder barn och familj. Att källan inte sa det
   // räknas inte som att den sa nej.
   if (ut.alder && ut.alder[1] <= 15 && !ut.barnOchFamilj) ut = { ...ut, barnOchFamilj: true, ursprung: { ...ut.ursprung, barn: "regel" } };

@@ -16,7 +16,8 @@ Kort svar: **JavaScript**, både på sidan och i hämtningarna. Hämtningarna k�
 | Hämtningarna | **JavaScript som körs med Node.js** (version 22) | Node.js är ett program som kör JavaScript utanför webbläsaren, till exempel på en server. Skripten ligger i `scripts/`. |
 | Schema | **GitHub Actions** | GitHubs tjänst för att köra program automatiskt. Den startar hämtningarna varje morgon kl. 06.13 svensk sommartid (04:13 UTC). Inställningen finns i `.github/workflows/hamta-evenemang.yml`. |
 | Data | **JSON-filer** i `data/` | JSON är ett vanligt textformat för data. Sidan läser `data/sida.json`. |
-| Tester | Node.js inbyggda testverktyg | `npm test` kör 65 tester som kontrollerar att varje källa tolkas rätt. |
+| Tester | Node.js inbyggda testverktyg | `npm test` kör 122 tester: att varje källa tolkas rätt, reglerna, dubbletterna och ett facit med 194 verkliga evenemang. |
+| AI (valfritt) | **Claude** via GitHub Actions | Fyller luckor som reglerna lämnar (format, dagar, ålder, kategori). Sidan fungerar utan. Se `.claude/skills/klassa/`. |
 | Paket | **npm** | Node.js pakethanterare. Projektet använder bara ett paket, `firebase-admin`, och bara när Firebase är inställt. |
 | Databas (senare) | **Firebase / Firestore** | Planerad för inloggning och sparade favoriter. Inte aktiv än. |
 
@@ -55,7 +56,11 @@ Nio källor är byggda: Tickster, Destination Uppsala, Heja Uppsala, Uppsala sta
 | `scripts/<källa>/` | En mapp per källa: `hamta.mjs` hämtar, `regler.mjs` tolkar, `regler.test.mjs` testar, `exempel*` är testdata |
 | `scripts/gemensamt/` | Delar som alla källor använder: schysst hämtning, tider, platser, kategorier, områden och åldrar |
 | `scripts/sport/konfig.mjs` | Vilka ligor och lag som hämtas. Uppdateras inför varje säsong. |
-| `scripts/bygg-sida.mjs` | Slår ihop alla källor till `data/sida.json` |
+| `scripts/bygg-sida.mjs` | Slår ihop alla källor till `data/sida.json`: klassning, dubbletter och sidans format |
+| `scripts/kvalitet/` | Kvalitetsmätning, personkontroller, larm och facit |
+| `scripts/klassning/` | Kön och kontrollen för AI-klassningen |
+| `integritet.html` | Integritet och hur man begär att ett evenemang tas bort |
+| `UPPDRAG-KVALITET.md` | Uppdraget om kvalitetslyftet, fas för fas |
 | `data/` | Hämtad data. `data/cache/` minns sidor som redan lästs. |
 | `.github/workflows/` | Schemat för GitHub Actions |
 | `CLAUDE.md` | Beslut, regler och teknisk beskrivning (läses också av Claude) |
@@ -101,4 +106,6 @@ API-nycklar skrivs aldrig i koden. De sparas som hemligheter i GitHub (*Settings
 
 - `SVK_API_KEY`: Svenska kyrkans nyckel
 - `TICKETMASTER_API_KEY`: Ticketmasters nyckel
+- `TICKSTER_API_KEY`: Ticksters nyckel (utan den läses webbsidorna)
+- `CLAUDE_CODE_OAUTH_TOKEN`: token för Claude-prenumerationen, för AI-klassningen (utan den byggs sidan med bara reglerna)
 - `FIREBASE_SERVICE_ACCOUNT`: Firebase, när det är inställt

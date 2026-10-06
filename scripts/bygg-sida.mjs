@@ -14,7 +14,7 @@ import { PLATSER, hittaPlats, normaliseraPlats } from "./gemensamt/platser.mjs";
 import { tillSvenskTid } from "./gemensamt/tid.mjs";
 import { serieDatum } from "./gemensamt/veckodagar.mjs";
 import { omradeForPlats, slaIhopSpann, spannFranText } from "./gemensamt/omraden.mjs";
-import { klassa, stadaTitel, tillampaEtikett, tillampaRattelser } from "./gemensamt/klassa.mjs";
+import { klassa, rattelserFor, stadaTitel, tillampaEtikett, tillampaRattelser } from "./gemensamt/klassa.mjs";
 import { innehallshash } from "./gemensamt/kalltext.mjs";
 import { arGenerisk, jamforTitlar, ordfrekvens, titelord } from "./gemensamt/dubbletter.mjs";
 
@@ -379,6 +379,8 @@ export function bygg(filer, idag = idagISverige(), { rattelser = null, etiketter
       e = tillampaEtikett(e, etiketter?.poster?.[original.id], innehallshash(original));
       if (Object.values(e.ursprung || {}).includes("ai")) aiAntal++;
       e = tillampaRattelser(e, rattelser);
+      // Borttaget på begäran (se integritet.html): { "dolj": true } i data/rattelser.json.
+      if (rattelserFor(e, rattelser)?.dolj) continue;
       if (KUBIKNOTERING.test(e.notering || "")) e = { ...e, notering: undefined };
       // Kurser visas inte på sidan, men räknas i kvalitetsrapporten.
       if (e.format === "kurs") {

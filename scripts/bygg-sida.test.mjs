@@ -276,3 +276,12 @@ test("facit: ska inte slås ihop: olika platser och olika program", () => {
     kalla("bibliotek", ev("Föreläsning del 2", T("2026-10-08", "18:00"), P.stadsbib)),
   )), 2);
 });
+
+test("ett evenemang kan tas bort på begäran med dolj i rättelserna", () => {
+  const sida = bygg(
+    { heja: { hamtad: "x", evenemang: [ev("Ta bort mig", "2026-09-26", katalin, { id: "heja-x" }), ev("Behåll mig", "2026-09-26", katalin, { id: "heja-y" })] } },
+    "2026-09-24",
+    { rattelser: { poster: { "heja-x": { dolj: true } } } },
+  );
+  assert.deepEqual(sida.evenemang.map((e) => e.t), ["Behåll mig"]);
+});

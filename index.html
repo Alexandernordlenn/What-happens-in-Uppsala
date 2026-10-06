@@ -363,7 +363,7 @@ footer p{margin:0 0 8px}
   <footer>
     <p id="footsrc">Det här är en demo. Evenemangen kommer från publika sidor hos Tickster, Heja Uppsala, Destination Uppsala, Svenska kyrkan, Bibliotek Uppsala och Uppsala stadsteater, hämtade 22 september 2026.</p>
     <p>Sidan visar bara fakta (titel, datum, tid och plats) och länkar alltid vidare till arrangören för beskrivning, bilder och biljetter.</p>
-    <p>Inloggningen är en demo av hur det kan fungera: inget mejl skickas, och dina val sparas bara i den här webbläsaren. <button class="linkbtn" id="openSources">Om datan och källorna</button></p>
+    <p>Inloggningen är en demo av hur det kan fungera: inget mejl skickas, och dina val sparas bara i den här webbläsaren. <button class="linkbtn" id="openSources">Om datan och källorna</button> · <a href="integritet.html">Integritet och borttagning</a></p>
   </footer>
 </div>
 
@@ -982,6 +982,8 @@ function showEvent(id){
       return '<li><span class="sn">'+SRC[s.k].name+'<span class="sm">'+SRC[s.k].how+'</span></span><a href="'+esc(s.url)+'" target="_blank" rel="noopener">Öppna hos '+SRC[s.k].name+'</a></li>';
     }).join("")+'</ul>';
   if(e.bl) html+='<p style="margin:12px 0 0"><a href="'+esc(e.bl)+'" target="_blank" rel="noopener">Köp biljett hos klubben</a></p>';
+  // Svenska kyrkans licens kräver källhänvisning.
+  if(srcs.some(function(s){ return s.k==="k"; })) html+='<p class="small">Källa: Svenska kyrkan, <a href="https://creativecommons.org/licenses/by/4.0/deed.sv" target="_blank" rel="noopener">CC BY 4.0</a>, bearbetad.</p>';
   if(srcs.length>1){
     html+='<div class="note"><b>Sammanslaget från '+srcs.length+' källor.</b> Samma datum, samma plats och liknande titel'+(e.tw?' (“'+esc(e.tw)+'” hos Heja Uppsala)':'')+'.'+(e.al?' Platsen heter olika i källorna, till exempel “Katalin and all that Jazz” hos Tickster, men räknas som samma ställe.':'')+'</div>';
   }

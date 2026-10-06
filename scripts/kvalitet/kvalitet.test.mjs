@@ -80,3 +80,13 @@ test("larm: problem blir ärenden, gamla stängs, befintliga får en kommentar",
   assert.deepEqual(plan.kommentera.map((p) => p.number), [7]);
   assert.deepEqual(plan.stang.map((o) => o.number), [8]);
 });
+
+test("sidans åldersfilter: 0–99 är ingen exakt träff, familj utan ålder hamnar under ålder ej angiven", async () => {
+  const { aldersgrupp } = lasSidansFilter(await readFile(new URL("../../index.html", import.meta.url), "utf8"));
+  assert.equal(aldersgrupp({ t: "Schackturnering", a: [0, 99] }, ["0-4"]), null);
+  assert.equal(aldersgrupp({ t: "Schackturnering", a: [0, 99], fam: 1 }, ["0-4"]), "okand");
+  assert.equal(aldersgrupp({ t: "Familjelördagar på Uppsala konstmuseum", fam: 1 }, ["0-4"]), "okand");
+  assert.equal(aldersgrupp({ t: "Familjekonsert: Flamencotopia", fam: 1 }, ["0-4"]), "okand");
+  assert.equal(aldersgrupp({ t: "Sagostund 1–3 år", a: [1, 3], fam: 1 }, ["0-4"]), "exakt");
+  assert.equal(aldersgrupp({ t: "Bokklubb 9–12 år", a: [9, 12], fam: 1 }, ["0-4"]), null);
+});
