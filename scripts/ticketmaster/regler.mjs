@@ -101,7 +101,7 @@ export function tillEvenemang(ev) {
     ...(notering && { notering }),
     kallor: [{ id: KALLA.id, namn: KALLA.namn, url: ev.url, biljetter: ev.url }],
     langvarig: false,
-    installd: status === "cancelled",
+    installd: status === "canceled" || status === "cancelled", // API:et skriver "canceled", men vi godtar båda.
   };
 }
 
