@@ -13,6 +13,11 @@ on:
     # Varje dag 04:13 UTC, alltså 06:13 svensk sommartid och 05:13 vintertid.
     - cron: "13 4 * * *"
   workflow_dispatch:
+    inputs:
+      bara_bygg:
+        description: "Bara bygg om sidan från dagens data, utan att hämta från källorna"
+        type: boolean
+        default: false
 
 permissions:
   contents: write # behövs för att spara de nya datafilerna i repot
@@ -35,6 +40,9 @@ jobs:
       # Mindre modell först. Byt till en större om facit visar för låg träffsäkerhet.
       KLASSA_MODELL: claude-haiku-4-5-20251001
       FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+      # "false" när någon startar körningen för hand med "Bara bygg om sidan".
+      # Då hämtas inget från källorna (högst en hämtning per källa och dygn).
+      HAMTA: ${{ github.event.inputs.bara_bygg != 'true' }}
     steps:
       - name: Hämta koden
         uses: actions/checkout@v7
@@ -54,41 +62,48 @@ jobs:
       - name: Svenska kyrkan
         id: svk
         # Hoppas över tills hemligheten SVK_API_KEY finns.
-        if: env.SVK_API_KEY != ''
+        if: env.HAMTA == 'true' && env.SVK_API_KEY != ''
         continue-on-error: true
         run: npm run hamta:svk
 
       - name: Uppsala stadsteater
+        if: env.HAMTA == 'true'
         id: stadsteatern
         continue-on-error: true
         run: npm run hamta:stadsteatern
 
       - name: Destination Uppsala
+        if: env.HAMTA == 'true'
         id: destination
         continue-on-error: true
         run: npm run hamta:destination-uppsala
 
       - name: Tickster
+        if: env.HAMTA == 'true'
         id: tickster
         continue-on-error: true
         run: npm run hamta:tickster
 
       - name: Bibliotek Uppsala
+        if: env.HAMTA == 'true'
         id: bibliotek
         continue-on-error: true
         run: npm run hamta:bibliotek
 
       - name: Heja Uppsala
+        if: env.HAMTA == 'true'
         id: heja
         continue-on-error: true
         run: npm run hamta:heja
 
       - name: Kubik Uppsala
+        if: env.HAMTA == 'true'
         id: kubik
         continue-on-error: true
         run: npm run hamta:kubik
 
       - name: Förbund och ligor (sport)
+        if: env.HAMTA == 'true'
         id: sport
         continue-on-error: true
         run: npm run hamta:sport
@@ -96,7 +111,7 @@ jobs:
       - name: Ticketmaster
         id: ticketmaster
         # Hoppas över tills hemligheten TICKETMASTER_API_KEY finns.
-        if: env.TICKETMASTER_API_KEY != ''
+        if: env.HAMTA == 'true' && env.TICKETMASTER_API_KEY != ''
         continue-on-error: true
         run: npm run hamta:ticketmaster
 
