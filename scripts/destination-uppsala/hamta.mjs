@@ -64,10 +64,12 @@ async function main() {
 
 
   const evenemang = unika.map((k) => tillEvenemang(k, nyCache[k.url]));
-  await sparaKalla(KALLA, evenemang, unika);
+  const sparad = await sparaKalla(KALLA, evenemang, unika);
 
   // Minnesfilen sparas först när allt annat har lyckats. Om källan gav noll
   // evenemang stoppar sparaKalla körningen, och då ska minnet inte skrivas över.
+  // Behölls gårdagens fil (för få evenemang) behålls också gårdagens minne.
+  if (!sparad) return;
   await mkdir("data/cache", { recursive: true });
   await writeFile(CACHE, JSON.stringify(nyCache, null, 2) + "\n");
 }

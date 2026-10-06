@@ -56,3 +56,27 @@ test("åldersfiltret går att läsa ur index.html", async () => {
   assert.equal(aldersgrupp({ a: [3, 6] }, ["0-4"]), "exakt");
   assert.equal(aldersgrupp({ a: [7, 9] }, ["0-4"]), null);
 });
+
+test("larm: problem blir ärenden, gamla stängs, befintliga får en kommentar", async () => {
+  const { hittaProblem, planera } = await import("./larm.mjs");
+  const problem = hittaProblem({
+    historik: { tickster: { senaste: { datum: "2026-10-06", antal: 0, status: "noll" } }, heja: { senaste: { datum: "2026-10-06", antal: 100, status: "behallen" } } },
+    sida: { idag: "2026-10-06", kallor: { b: { hamtad: "2026-10-01T05:00:00Z", inaktuell: 1 } } },
+    kvalitet: { personer: [{ person: "Lisa", namn: "Helgen", ok: false, varde: 2, krav: "minst 5" }, { person: "Student", ok: true }] },
+    sportLag: { lag: [{ lag: "Almtuna IS", sport: "Ishockey", liga: "HockeyAllsvenskan", iSasong: true, hemmamatcher30: 0 }] },
+    utfall: { Tickster: "failure", AI: "failure", Heja: "success" },
+  });
+  const titlar = problem.map((p) => p.titel);
+  assert.deepEqual(titlar.sort(), [
+    "AI-steget fungerar inte",
+    "Källa: Bibliotek Uppsala är inaktuell",
+    "Källa: Heja Uppsala gav för få",
+    "Källa: Tickster gav 0",
+    "Kvalitet: Lisa-testet",
+    "Sport: Almtuna IS saknar matcher",
+  ].sort());
+  const plan = planera(problem, [{ number: 7, title: "Källa: Tickster gav 0" }, { number: 8, title: "Kvalitet: Student-testet" }]);
+  assert.equal(plan.skapa.length, 5);
+  assert.deepEqual(plan.kommentera.map((p) => p.number), [7]);
+  assert.deepEqual(plan.stang.map((o) => o.number), [8]);
+});

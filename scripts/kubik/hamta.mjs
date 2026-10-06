@@ -87,10 +87,10 @@ async function main() {
     console.log(`${kort.filter((k) => k.omrade).length} av ${kort.length} aktiviteter har område.`);
     nyCache = await veckodagar(kort);
   }
-  await sparaKalla(KALLA, bearbeta(kort), kort);
+  const sparad = await sparaKalla(KALLA, bearbeta(kort), kort);
 
   // Minnesfilen sparas först när allt annat har lyckats.
-  if (nyCache) {
+  if (nyCache && sparad) {
     await mkdir("data/cache", { recursive: true });
     await writeFile(CACHE, JSON.stringify(nyCache, null, 2) + "\n");
   }
