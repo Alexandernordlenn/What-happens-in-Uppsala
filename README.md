@@ -90,6 +90,13 @@ Nio källor är byggda: Tickster, Destination Uppsala, Heja Uppsala, Uppsala sta
 | `bl` | Klubbens biljettsida |
 | `s` | Källor som `"bokstav:url"` |
 
+## Starta en körning för hand
+
+Under *Actions* → **Hämta evenemang** → **Run workflow**:
+
+- Utan kryss: allt hämtas från källorna och sidan byggs, som varje morgon.
+- Med kryss i **Bara bygg om sidan**: inget hämtas. Sidan och kvalitetsrapporten byggs om från dagens data. Använd det efter en ändring i koden, så att sidan uppdateras utan en extra hämtning (högst en hämtning per källa och dygn).
+
 ## Köra själv
 
 Behövs bara för den som vill köra hämtningarna på sin egen dator. Installera Node.js 22 eller senare och kör:
