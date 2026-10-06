@@ -19,7 +19,7 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
   - [ ] Uppsala kommun, kulturförvaltningen: konstmuseet, Biotopia, Bror Hjorths Hus, Kulturnatten.
 - [ ] **Du:** Påminn Tickster om API-ansökan om inget har hänt.
 - [ ] **Du:** Skaffa gratisnycklar som ger fler evenemang direkt:
-  - [ ] Ticketmaster Discovery API (developer.ticketmaster.com)
+  - [ ] Ticketmaster Discovery API: skapa konto på developer.ticketmaster.com, skapa en app, och lägg in nyckeln ("Consumer Key") som hemligheten `TICKETMASTER_API_KEY`. Hämtningen är redan byggd och startar automatiskt.
   - [ ] Billetto (billetto.se), som ger Musicum, Upplandsmuseet och små arrangörer
 - [ ] **Du:** Skicka ett kort "ok?"-mejl till källor vi redan använder: Uppsala stadsteater, Bibliotek Uppsala, Kubik och Destination Uppsala. Tala om att vi visar deras evenemang med länk tillbaka.
 
@@ -38,7 +38,7 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
 När nycklarna kommer:
 
 - [ ] **Claude:** Tickster: byt från webbsidorna till API:et.
-- [ ] **Claude:** Ticketmaster
+- [ ] **Claude:** Ticketmaster: kontrollera första riktiga körningen när nyckeln finns.
 - [ ] **Claude:** Billetto
 - [ ] **Claude:** Profixio: byt från kalenderfiler och schemasidor till API:et.
 - [ ] **Claude:** Nationsguiden, Uppsala universitet och kommunens kultur, beroende på vad de svarar.
@@ -48,7 +48,7 @@ När nycklarna kommer:
 - [ ] **Claude:** Låt arrangörer lägga in evenemang själva, eller klistra in en kalenderlänk (iCal). Löser alla små arrangörer utan API.
 - [ ] **Du:** Skapa Firebase-projektet: Firestore i EU, inloggning med e-postlänk, GitHub Pages-adressen som tillåten domän.
 - [ ] **Claude:** Riktig inloggning och sparade favoriter och kategorier mellan enheter (Firebase).
-- [ ] **Claude:** Integritetspolicy och möjlighet att radera sitt konto (GDPR). Behövs innan inloggning blir skarp.
+- [ ] **Claude:** Integritetspolicy länkad i sidfoten, och möjlighet att radera sitt konto (GDPR). Behövs innan inloggning blir skarp. Ticketmasters villkor kräver också en integritetspolicy i sidfoten.
 - [ ] **Claude:** Enkel redaktörsvy för att rätta kategorier och godkänna osäkra dubbletter.
 - [ ] **Claude:** Uppdatera "Om datan och källorna" när källor tillkommer.
 
@@ -82,3 +82,4 @@ Idéer att fundera på:
 - [x] 25 sep: kartläggning av källor och API:er (`KALLOR.md`)
 - [x] 25 sep: nya versioner av GitHubs verktyg (Node.js 24)
 - [x] 27 sep: README och backlog
+- [x] 27 sep: Ticketmaster byggd, väntar på nyckel

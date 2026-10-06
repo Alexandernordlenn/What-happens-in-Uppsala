@@ -61,10 +61,13 @@ async function main() {
   }
   console.log(`Läste ${nya} nya evenemangssidor, ${unika.length - Object.keys(nyCache).length} väntar till nästa gång.`);
 
-  await mkdir("data/cache", { recursive: true });
-  await writeFile(CACHE, JSON.stringify(nyCache, null, 2) + "\n");
 
   await sparaKalla(KALLA, unika.map((k) => tillEvenemang(k, nyCache[k.url])), unika);
+
+  // Minnesfilen sparas först när allt annat har lyckats. Om källan gav noll
+  // evenemang stoppar sparaKalla körningen, och då ska minnet inte skrivas över.
+  await mkdir("data/cache", { recursive: true });
+  await writeFile(CACHE, JSON.stringify(nyCache, null, 2) + "\n");
 }
 
 kor(main);

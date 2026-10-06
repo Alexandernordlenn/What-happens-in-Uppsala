@@ -45,7 +45,7 @@ Gratis och utan förhandling. Ett konto räcker.
 |---|---|---|---|
 | **Svenska kyrkan** | Nyckeln finns redan. Lägg in den som hemligheten `SVK_API_KEY` i GitHub. | Konserter och musik i Uppsala pastorat | Högt |
 | **SvFF öppna data (FOGIS)** | api-fogis-opendata.developer.azure-api.net: skapa konto och prenumeration. Mejla sedan förbundet och be om matchdata. | Just nu bara föreningar. Med matchdata: lägre divisioner som Dalkurd, Upsala IF och Sirius dam | Medel |
-| **Ticketmaster Discovery API** | developer.ticketmaster.com: nyckeln kommer direkt | Större turnéer och Katalin, fyller luckor utanför Tickster | Medel |
+| **Ticketmaster Discovery API** | developer.ticketmaster.com: skapa konto och en app, nyckeln kommer direkt. Lägg in den som `TICKETMASTER_API_KEY`. Hämtningen är redan byggd. | Större konserter och festivaler på Katalin, Fyrishov och Studenternas. 5 000 anrop per dygn, vi använder några få. | Medel |
 | **Billetto** | Skapa konto på billetto.se och hämta en nyckel till Public Event Search API | Musicum (Uppsala universitet), Upplandsmuseet och många små arrangörer | Medel |
 
 

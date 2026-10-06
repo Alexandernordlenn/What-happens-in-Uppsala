@@ -30,19 +30,46 @@ async function lasCache() {
   }
 }
 
+const vanta = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// Vad sidan innehöll, för loggen när något ser fel ut.
+function beskriv(html) {
+  const titel = String(html).match(/<title>([^<]*)/i);
+  return `rubrik "${titel ? titel[1].trim() : "saknas"}", ${String(html).length} tecken`;
+}
+
+// Läser första sidan för en ort. Ger Uppsala en tom lista har Tickster troligen
+// ett tillfälligt fel, så då väntar vi en minut och försöker igen (högst två gånger).
+async function forstaSidan(ort) {
+  const forsok = ort === "uppsala" ? 3 : 1;
+  for (let i = 1; i <= forsok; i++) {
+    try {
+      const html = await hamta(listadress(ort, 0));
+      if (lasLista(html).length || antalTraffar(html) === 0 && ort !== "uppsala") return html;
+      console.log(`${ort}: tom lista (${beskriv(html)}), försök ${i} av ${forsok}.`);
+      if (i === forsok) return html;
+    } catch (fel) {
+      console.log(`${ort}: ${fel.message}, försök ${i} av ${forsok}.`); // Okända orter ger 404.
+      if (i === forsok) return null;
+    }
+    await vanta(60000);
+  }
+  return null;
+}
+
 async function hamtaOrt(ort) {
   const brickor = [];
-  for (let sida = 0; sida < MAX_SIDOR_PER_ORT; sida++) {
-    let html;
-    try {
-      html = await hamta(listadress(ort, sida * PER_SIDA));
-    } catch (fel) {
-      console.log(`${ort}: ${fel.message}`); // Okända orter ger 404.
-      break;
-    }
+  let html = await forstaSidan(ort);
+  for (let sida = 0; html && sida < MAX_SIDOR_PER_ORT; sida++) {
     const nya = lasLista(html);
     brickor.push(...nya);
     if (nya.length < PER_SIDA || brickor.length >= antalTraffar(html)) break;
+    try {
+      html = await hamta(listadress(ort, (sida + 1) * PER_SIDA));
+    } catch (fel) {
+      console.log(`${ort}: ${fel.message}`);
+      break;
+    }
   }
   console.log(`${ort}: ${brickor.length} evenemang`);
   return brickor;
@@ -71,11 +98,14 @@ async function main() {
   }
   console.log(`Läste ${nya} nya evenemangssidor, ${brickor.length - Object.keys(nyCache).length} väntar till nästa gång.`);
 
-  await mkdir("data/cache", { recursive: true });
-  await writeFile(CACHE, JSON.stringify(nyCache, null, 2) + "\n");
 
   const evenemang = brickor.filter((b) => iKommunen(nyCache[b.url])).map((b) => tillEvenemang(b, nyCache[b.url]));
   await sparaKalla(KALLA, evenemang, brickor);
+
+  // Minnesfilen sparas först när allt annat har lyckats. Om källan gav noll
+  // evenemang stoppar sparaKalla körningen, och då ska minnet inte skrivas över.
+  await mkdir("data/cache", { recursive: true });
+  await writeFile(CACHE, JSON.stringify(nyCache, null, 2) + "\n");
 }
 
 kor(main);
