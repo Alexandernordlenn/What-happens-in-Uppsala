@@ -18,6 +18,7 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 - **Backend:** Firebase. Firestore som databas, Authentication med inloggning via e-postlänk (magisk länk). Databasen ska ligga i en region i EU.
 - **Hämtningar:** GitHub Actions enligt schema, som skriver till Firestore. Inte Cloud Functions tills vidare, eftersom de kräver Blaze-planen.
 - **Princip:** officiella API:er och direkta flöden i första hand. Små arrangörer ska senare kunna lägga in evenemang själva eller klistra in en iCal-länk.
+- **AI (beslut okt 2026):** regler är grunden och Claude fyller bara luckor (format, dagar, ålder, kategori). Claude körs i morgonkörningen via Alexanders Claude-prenumeration (hemligheten `CLAUDE_CODE_OAUTH_TOKEN`) och skillen `.claude/skills/klassa/SKILL.md`. Källtext får läsas tillfälligt för klassningen (`tmp/kalltext/`, högst 600 tecken per evenemang) men sparas aldrig i repot, i bilagor eller i loggen. Varje svar kontrolleras av `scripts/klassning/validera.mjs` (belägg ordagrant ur texten, åldersiffror i belägget) och godkända sparas i `data/etiketter.json`. Sidan fungerar fullt ut utan AI-steget.
 - **Tillfälligt undantag (beslut sep 2026):** tills vi har API-nycklar eller avtal får vi hämta från källornas publika webbsidor. Villkor:
   - Följ robots.txt. Säger den nej hoppar vi över sidan.
   - Använd strukturerad data när den finns (iCal, RSS, WordPress-API, JSON-LD) före att läsa av HTML.

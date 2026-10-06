@@ -18,6 +18,7 @@ import { hamta, USER_AGENT } from "../gemensamt/webb.mjs";
 import { sparaKalla, kor } from "../gemensamt/spara.mjs";
 import { KALLA, ORTER, antalTraffar, iKommunen, lasEvenemangssida, lasLista, tillEvenemang } from "./regler.mjs";
 import { DUMP, SOK, slaSamman, tolkaDump, tolkaSok, vantetid } from "./api.mjs";
+import { sparaKalltext } from "../gemensamt/kalltext.mjs";
 
 const CACHE = "data/cache/tickster.json";
 const PER_SIDA = 100; // Mer än så ger Tickster inte per sida.
@@ -119,6 +120,8 @@ async function hamtaFranApi(nyckel) {
   }
   console.log(`Tickster Event API: ${farska.length} evenemang de närmaste 7 dagarna.`);
   const evenemang = slaSamman(franDump, farska);
+  // Beskrivningen läses bara tillfälligt, för AI-klassningen. Den sparas aldrig i repot.
+  await sparaKalltext(KALLA.id, Object.fromEntries((dump.events || []).map((ev) => [`tickster-${String(ev.id).toLowerCase()}`, typeof ev.description === "string" ? ev.description : ev.description?.markdown || ""])));
   // Rådatan: dumpens poster i kommunen, utan beskrivningar, bilder, artister och priser.
   const ids = new Set(evenemang.map((e) => e.id));
   const radata = (dump.events || [])

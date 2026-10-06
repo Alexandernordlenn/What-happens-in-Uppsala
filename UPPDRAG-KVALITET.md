@@ -15,7 +15,7 @@ Uppdateras efter varje fas. Fortsätt med den första fasen som inte är klar.
 | 6. Skydd och larm | Klar. Spärren behåller gårdagens fil i upp till 3 dagar, larmen blir ärenden med etiketten larm. |
 | 7. Tickster-API, Ticketmaster och biljettlänkar | Klar. API-vägen väntar på `TICKSTER_API_KEY`, webbsidorna är reserv. Ticketmaster godtar canceled. Klubbarnas biljettlänkar görs i fas 8. |
 | 8. Sport på de tre högsta nivåerna | Klar. Lagtabell med 15 lag, Superettan tillagd, biljettlänkar för Sirius och Almtuna, larm per lag. Luckorna i KALLOR.md. |
-| 9. Claude som klassare | – |
+| 9. Claude som klassare | Klar. Kön, skillen, kontrollen och workflowet är byggda. Väntar på `CLAUDE_CODE_OAUTH_TOKEN`, så AI-steget är inte provkört. |
 | 10. Facit, dokumentation och villkor | – |
 
 Gren: arbetet görs i `claude/svenska-kyrkan-auto-fetch-l14p8s` i stället för `kvalitet-v1`, eftersom Claude Code-sessionen bara får pusha till sin egen gren. Antaganden och beslut som tas under arbetet står i BACKLOG.md under "Antaganden".

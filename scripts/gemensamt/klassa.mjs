@@ -220,6 +220,30 @@ export function stadaTitel(titel, kategori) {
   return t;
 }
 
+// ---------- AI-etiketter ----------
+//
+// Godkända svar från Claude (data/etiketter.json). De fyller bara luckor:
+// kategori bara om den är "ovrigt", format bara om det är "period", ålder
+// bara om den saknas. De gäller bara om innehållet är oförändrat (hash).
+
+export function tillampaEtikett(e, etikett, hash) {
+  if (!etikett || etikett.hash !== hash) return e;
+  let ut = e;
+  const ai = (falt, namn = falt) => ({ ...ut.ursprung, [namn]: "ai" });
+  if (etikett.kategori && ut.kategori === "ovrigt") ut = { ...ut, kategori: etikett.kategori, ursprung: ai("kategori") };
+  if (etikett.format && ut.format === "period") {
+    ut = { ...ut, format: etikett.format, ursprung: ai("format") };
+    if (etikett.format === "aterkommande" && etikett.serie?.dagar?.length) ut = { ...ut, serie: etikett.serie };
+    if (etikett.format === "aterkommande" && !ut.serie) ut = { ...ut, format: "period" };
+  }
+  if (etikett.alder && !ut.alder) {
+    ut = { ...ut, alder: etikett.alder, ursprung: ai("alder") };
+    if (etikett.alder[1] <= 15 && !ut.barnOchFamilj) ut = { ...ut, barnOchFamilj: true };
+  }
+  if (etikett.barnOchFamilj === true && !ut.barnOchFamilj) ut = { ...ut, barnOchFamilj: true, ursprung: ai("barnOchFamilj", "barn") };
+  return ut;
+}
+
 // ---------- Allt på en gång ----------
 
 export function klassa(e, bokstav) {

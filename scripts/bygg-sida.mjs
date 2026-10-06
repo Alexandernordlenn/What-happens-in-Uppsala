@@ -14,7 +14,8 @@ import { PLATSER, hittaPlats, normaliseraPlats } from "./gemensamt/platser.mjs";
 import { tillSvenskTid } from "./gemensamt/tid.mjs";
 import { serieDatum } from "./gemensamt/veckodagar.mjs";
 import { omradeForPlats, slaIhopSpann, spannFranText } from "./gemensamt/omraden.mjs";
-import { klassa, stadaTitel, tillampaRattelser } from "./gemensamt/klassa.mjs";
+import { klassa, stadaTitel, tillampaEtikett, tillampaRattelser } from "./gemensamt/klassa.mjs";
+import { innehallshash } from "./gemensamt/kalltext.mjs";
 import { arGenerisk, jamforTitlar, ordfrekvens, titelord } from "./gemensamt/dubbletter.mjs";
 
 // Källornas id i filerna och bokstaven sidan använder för dem.
@@ -359,11 +360,12 @@ function sportFranNotering(e, bokstav) {
   return { ...e, sport, liga: liga.join(", ") };
 }
 
-export function bygg(filer, idag = idagISverige(), { rattelser = null } = {}) {
+export function bygg(filer, idag = idagISverige(), { rattelser = null, etiketter = null } = {}) {
   const sista = plusDagar(idag, DAGAR_FRAMAT);
   const poster = [];
   const kallinfo = {};
   const kurser = {};
+  let aiAntal = 0;
   KALLOR.forEach(({ id, bokstav }, ordning) => {
     const fil = filer[id];
     if (!fil) return;
@@ -372,7 +374,11 @@ export function bygg(filer, idag = idagISverige(), { rattelser = null } = {}) {
     for (const original of fil.evenemang) {
       // Platsen normaliseras igen, så att nya rader i platstabellen gäller direkt.
       let e = normaliseraPlats(sportFranNotering(original, bokstav));
-      e = tillampaRattelser(klassa(e, bokstav), rattelser);
+      // Ordning: regler, sedan AI i luckorna, sist rättelser (som går före allt).
+      e = klassa(e, bokstav);
+      e = tillampaEtikett(e, etiketter?.poster?.[original.id], innehallshash(original));
+      if (Object.values(e.ursprung || {}).includes("ai")) aiAntal++;
+      e = tillampaRattelser(e, rattelser);
       if (KUBIKNOTERING.test(e.notering || "")) e = { ...e, notering: undefined };
       // Kurser visas inte på sidan, men räknas i kvalitetsrapporten.
       if (e.format === "kurs") {
@@ -409,7 +415,7 @@ export function bygg(filer, idag = idagISverige(), { rattelser = null } = {}) {
     return ut;
   });
   evenemang.sort((a, b) => (a.d + (a.tm || "99")).localeCompare(b.d + (b.tm || "99")));
-  return { byggd: new Date().toISOString(), idag, kallor: kallinfo, platser, statistik: { kurser, sammanslagna: logg.length }, evenemang, logg };
+  return { byggd: new Date().toISOString(), idag, kallor: kallinfo, platser, statistik: { kurser, sammanslagna: logg.length, ai: { evenemang: aiAntal } }, evenemang, logg };
 }
 
 async function main() {
@@ -427,7 +433,13 @@ async function main() {
   } catch {
     // Filen är valfri.
   }
-  const sida = bygg(filer, idagISverige(), { rattelser });
+  let etiketter = null;
+  try {
+    etiketter = JSON.parse(await readFile("data/etiketter.json", "utf8"));
+  } catch {
+    // Inga AI-etiketter än. Sidan byggs med bara reglerna.
+  }
+  const sida = bygg(filer, idagISverige(), { rattelser, etiketter });
   const poster = Object.values(sida.kallor).reduce((s, k) => s + k.antal, 0);
   console.log(`${poster} poster från källorna blev ${sida.evenemang.length} evenemang.`);
   if (!sida.evenemang.length) throw new Error("Inga evenemang alls. Sidan skrivs inte över.");

@@ -182,6 +182,13 @@ export function lasDetaljsida(html) {
   return dagar ? { dagar: dagar.dagar, ...(dagar.start && { tider: { start: dagar.start, ...(dagar.slut && { slut: dagar.slut }) } }) } : { dagar: [] };
 }
 
+// Samma text, för AI-klassningen. Sparas aldrig i repot eller i minnesfilen.
+export function textFranDetaljsida(html) {
+  const s = String(html || "");
+  const huvud = (s.match(/<main[\s\S]*?<\/main>/) || [s])[0].replace(/<(script|style|nav|header|footer|form)[\s\S]*?<\/\1>/g, " ");
+  return enRad(huvud);
+}
+
 export function bearbeta(kort) {
   return kort.flatMap(tillEvenemang);
 }

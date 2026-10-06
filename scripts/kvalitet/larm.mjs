@@ -24,8 +24,11 @@ const KALLNAMN = {
 const BOKSTAV_TILL_ID = { i: "sport", s: "stadsteatern", b: "bibliotek", u: "kubik", k: "svenska-kyrkan", d: "destination-uppsala", m: "ticketmaster", h: "heja", t: "tickster" };
 
 // Samlar alla problem från dagens körning. Ren funktion, så att den går att testa.
-export function hittaProblem({ historik = {}, kvalitet = null, sida = null, sportLag = null, utfall = {} } = {}) {
+export function hittaProblem({ historik = {}, kvalitet = null, sida = null, sportLag = null, utfall = {}, harClaude = null } = {}) {
   const ut = [];
+  if (harClaude === false) {
+    ut.push({ titel: "AI-steget fungerar inte", text: "Hemligheten CLAUDE_CODE_OAUTH_TOKEN saknas, så Claude-steget körs inte. Sidan byggs med bara reglerna. Se BACKLOG.md för hur token skapas." });
+  }
   const idag = sida?.idag;
   for (const [id, h] of Object.entries(historik)) {
     const namn = KALLNAMN[id] || id;
@@ -42,6 +45,7 @@ export function hittaProblem({ historik = {}, kvalitet = null, sida = null, spor
   for (const [namn, resultat] of Object.entries(utfall)) {
     if (resultat !== "failure") continue;
     if (namn === "AI") {
+      if (ut.some((p) => p.titel === "AI-steget fungerar inte")) continue;
       ut.push({ titel: "AI-steget fungerar inte", text: "Claude-steget misslyckades. Sidan byggdes med bara reglerna. Kontrollera att hemligheten CLAUDE_CODE_OAUTH_TOKEN finns och inte har gått ut." });
       continue;
     }
@@ -99,6 +103,7 @@ async function main() {
     sida: await lasJson("data/sida.json"),
     sportLag: await lasJson("data/sport-lag.json"),
     utfall: JSON.parse(process.env.UTFALL || "{}"),
+    harClaude: process.env.HAR_CLAUDE ? process.env.HAR_CLAUDE === "true" : null,
   });
   console.log(`${problem.length} problem: ${problem.map((p) => p.titel).join(", ") || "inga"}`);
   if (!process.env.GH_TOKEN) {

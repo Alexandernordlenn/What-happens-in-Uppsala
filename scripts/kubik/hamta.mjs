@@ -11,7 +11,8 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { hamta } from "../gemensamt/webb.mjs";
 import { sparaKalla, kor } from "../gemensamt/spara.mjs";
-import { KALLA, SOK, SOKFORMULAR, bearbeta, lasDetaljsida, lasKort, tolkaTid } from "./regler.mjs";
+import { KALLA, SOK, SOKFORMULAR, bearbeta, lasDetaljsida, lasKort, textFranDetaljsida, tolkaTid } from "./regler.mjs";
+import { sparaKalltext } from "../gemensamt/kalltext.mjs";
 import { OMRADEN } from "../gemensamt/omraden.mjs";
 
 const FORMULAR = { "Content-Type": "application/x-www-form-urlencoded" };
@@ -45,6 +46,7 @@ async function omradenPerAktivitet() {
 async function veckodagar(kort) {
   const cache = await lasCache();
   const nyCache = {};
+  const kalltext = {};
   let nya = 0;
   for (const k of kort) {
     const arPeriod = k.tider.map(tolkaTid).some((t) => t?.typ === "period");
@@ -55,7 +57,9 @@ async function veckodagar(kort) {
     } else if (nya < MAX_NYA_DETALJSIDOR) {
       nya++;
       try {
-        nyCache[k.url] = { ...lasDetaljsida(await hamta(k.url)), hamtad: idag() };
+        const html = await hamta(k.url);
+        nyCache[k.url] = { ...lasDetaljsida(html), hamtad: idag() };
+        kalltext[`kubik-${k.slug}`] = textFranDetaljsida(html); // bara för AI-klassningen
       } catch (fel) {
         console.log(`Kunde inte läsa ${k.url}: ${fel.message}`);
         if (tidigare) nyCache[k.url] = tidigare;
@@ -70,6 +74,7 @@ async function veckodagar(kort) {
     }
   }
   console.log(`Läste ${nya} aktivitetssidor. ${kort.filter((k) => k.dagar).length} perioder har kända veckodagar.`);
+  await sparaKalltext(KALLA.id, kalltext);
   return nyCache;
 }
 

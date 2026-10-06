@@ -57,7 +57,7 @@ function matt(evenemang, sida, kursAntal = 0) {
     sammanslagna: evenemang.reduce((s, e) => s + Math.max(0, e.s.length - 1), 0),
     pagar14: pagar.length,
     borttagnaKurser: kursAntal,
-    ...(sida.statistik?.ai && { aiTackning: sida.statistik.ai.tackning }),
+    ...(sida.statistik?.ai && { aiEvenemang: sida.statistik.ai.evenemang }),
   };
 }
 
@@ -121,6 +121,13 @@ async function main() {
   const sida = await lasJson("data/sida.json");
   if (!sida) throw new Error("Hittade inte data/sida.json");
   const rapport = mat(sida);
+  // AI-täckning: hur stor del av kön som har fått ett godkänt svar.
+  const ko = await lasJson("tmp/ko.json");
+  const etiketter = await lasJson("data/etiketter.json");
+  if (ko?.evenemang?.length) {
+    const besvarade = ko.evenemang.filter((k) => etiketter?.poster?.[k.id]?.hash === k.hash).length;
+    rapport.totalt.aiTackning = Math.round((besvarade / ko.evenemang.length) * 1000) / 1000;
+  }
   // Bygget loggar varje sammanslagning: regel, poäng och källor.
   const logg = await lasJson("tmp/sammanslagningar.json");
   if (logg) {
