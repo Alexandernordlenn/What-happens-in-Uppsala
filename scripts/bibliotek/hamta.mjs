@@ -10,6 +10,8 @@ import { readFile } from "node:fs/promises";
 import { hamta } from "../gemensamt/webb.mjs";
 import { sparaKalla, kor } from "../gemensamt/spara.mjs";
 import { API, KALLA, bearbeta, sokParametrar } from "./regler.mjs";
+import { sparaKalltext } from "../gemensamt/kalltext.mjs";
+import { renText } from "../gemensamt/text.mjs";
 
 const PER_SIDA = 50;
 const MAX_SIDOR = 40;
@@ -42,6 +44,8 @@ async function main() {
     return resten;
   });
   await sparaKalla(KALLA, bearbeta(traffar), radata);
+  // Beskrivningen läses bara tillfälligt, för AI-klassningen. Den sparas aldrig i repot.
+  await sparaKalltext(KALLA.id, Object.fromEntries(traffar.map((t) => t.event ?? t).map((ev) => [`bibliotek-${ev.id}`, renText(ev.description)])));
 }
 
 kor(main);

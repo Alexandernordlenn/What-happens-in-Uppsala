@@ -44,3 +44,25 @@ test("platser: alias blir samma plats, salen blir rum", async () => {
   assert.equal(p("Katalin", "scen").kategori, "scen"); // Källans egen kategori vinner.
   assert.equal(p("Annan plats").plats.namn, "Uppsala");
 });
+
+test("spärr: färre än hälften av medianen behåller gårdagens fil i högst 3 dagar", async () => {
+  const { bedomAntal, median } = await import("./spara.mjs");
+  assert.equal(median([300, 340, 360]), 340);
+  const hist = { antal: [300, 340, 360, 350].map((antal, i) => ({ datum: `2026-10-0${i + 1}`, antal })) };
+  const ok = bedomAntal(hist, 330, "2026-10-06");
+  assert.equal(ok.spara, true);
+  assert.equal(ok.historik.antal.length, 5);
+
+  let h = hist;
+  for (let dag = 1; dag <= 3; dag++) {
+    const b = bedomAntal(h, 100, `2026-10-1${dag}`);
+    assert.equal(b.spara, false, `dag ${dag}`);
+    assert.equal(b.status, "behallen");
+    h = b.historik;
+  }
+  const fjarde = bedomAntal(h, 100, "2026-10-14");
+  assert.equal(fjarde.spara, true);
+  assert.equal(fjarde.status, "lagt");
+  assert.match(fjarde.varning, /krympt/);
+  assert.equal(bedomAntal(null, 5, "2026-10-06").spara, true); // ingen historik än
+});

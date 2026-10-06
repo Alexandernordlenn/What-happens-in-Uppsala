@@ -18,6 +18,7 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 - **Backend:** Firebase. Firestore som databas, Authentication med inloggning via e-postlänk (magisk länk). Databasen ska ligga i en region i EU.
 - **Hämtningar:** GitHub Actions enligt schema, som skriver till Firestore. Inte Cloud Functions tills vidare, eftersom de kräver Blaze-planen.
 - **Princip:** officiella API:er och direkta flöden i första hand. Små arrangörer ska senare kunna lägga in evenemang själva eller klistra in en iCal-länk.
+- **AI (beslut okt 2026):** regler är grunden och Claude fyller bara luckor (format, dagar, ålder, kategori). Claude körs i morgonkörningen via Alexanders Claude-prenumeration (hemligheten `CLAUDE_CODE_OAUTH_TOKEN`) och skillen `.claude/skills/klassa/SKILL.md`. Källtext får läsas tillfälligt för klassningen (`tmp/kalltext/`, högst 600 tecken per evenemang) men sparas aldrig i repot, i bilagor eller i loggen. Varje svar kontrolleras av `scripts/klassning/validera.mjs` (belägg ordagrant ur texten, åldersiffror i belägget) och godkända sparas i `data/etiketter.json`. Sidan fungerar fullt ut utan AI-steget.
 - **Tillfälligt undantag (beslut sep 2026):** tills vi har API-nycklar eller avtal får vi hämta från källornas publika webbsidor. Villkor:
   - Följ robots.txt. Säger den nej hoppar vi över sidan.
   - Använd strukturerad data när den finns (iCal, RSS, WordPress-API, JSON-LD) före att läsa av HTML.
@@ -27,7 +28,7 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 
 ## Källor
 
-### Svenska kyrkan CalendarAPI (aktiv)
+### Svenska kyrkan CalendarAPI (byggd, väntar på nyckel)
 
 - Anrop: `GET https://svk-apim-prod.azure-api.net/calendar/v1/event/search`
 - Nyckel i rubriken `Ocp-Apim-Subscription-Key`, från GitHub-hemligheten `SVK_API_KEY` (subscription "uppsala-just-nu-hamtning").
@@ -54,7 +55,7 @@ Se `KALLOR.md` för hela kartläggningen: vilka API:er och flöden som ska begä
 
 
 - Begära data från offentlig verksamhet: Reginateatern, Musik i Uppland. (Destination Uppsala, Kubik, Bibliotek Uppsala och Uppsala stadsteater hämtas redan, se "Hämtningarna".)
-- Heja Uppsala: hämtas tillfälligt under testfasen. Eventuellt samarbete.
+- Heja Uppsala: hämtas tillfälligt under testfasen. **Beslut 6 okt 2026 (alternativ C):** Heja ligger kvar som under testfasen, och sidan lanseras inte förrän det är löst med Heja (avtal eller nyckel).
 
 ## Datamodell
 
@@ -64,7 +65,26 @@ Ett färdigt evenemang har: id, titel, start, slut, plats (namn och id), kategor
 
 Områden och åldersgrupper följer Kubiks indelning (`scripts/gemensamt/omraden.mjs`): åtta områden (Centrala, Norra, Östra, Södra och Västra staden samt Norra, Östra och Västra landsbygden) och åldersgrupperna 0–4, 5–6, 7–9, 10–12, 13–15, 16–18 och 19–25 år. Ett evenemang passar en åldersgrupp om spannen överlappar.
 
-Kategorier: musik, scen (scen och film), museum (konst och museum), prat (föredrag och samtal), sport, mat, natt (klubb och nattliv), ovrigt (marknad och festival).
+Kategorier: musik, scen (scen och film), museum (konst och museum), prat (föredrag och samtal), aktivitet (verkstäder, pyssel, spel, sagostunder, häng och prova på), sport, mat, natt (klubb och nattliv), ovrigt (marknad, festival och övrigt). `ovrigt` behåller sitt id eftersom sparade val bygger på det.
+
+Format (fältet `format`), ett av sex:
+
+- `enstaka`: ett tillfälle, också en festival på 2–4 dagar.
+- `aterkommande`: samma aktivitet på kända dagar. Fältet `serie` anger dagarna (`{ dagar: ["lö"], start: "11:00", slut: "15:00" }`) eller uttryckliga datum (`{ datum: [...] }`). Bygget gör ett tillfälle per dag inom fönstret med id `<seriens id>-<datum>`. Uttryckliga datum från en källa går före uträknade. Datum hittas aldrig på.
+- `utstallning`: pågår över tid, man går dit när det är öppet.
+- `speltid`: en uppsättning som spelas under en period, utan kända föreställningsdagar.
+- `period`: långvarigt med okända dagar, varken utställning eller kurs.
+- `kurs`: kräver anmälan till en serie tillfällen. Tas bort ur `sida.json` men räknas i kvalitetsrapporten.
+
+Ursprung (fältet `ursprung`, per uppgift: format, kategori, alder, barn): `rattelse` före `kalla` före `regel` före `ai`. AI fyller bara luckor och skriver aldrig över något. Se `scripts/gemensamt/klassa.mjs`.
+
+Fakta från källan (fältet `fakta`, sparas från 6 okt 2026): källans egna kategorier och taggar, målgrupp, adress, uttryckliga datum, utlästa veckodagar och tider. Själva beskrivningstexten läses bara under hämtningen och sparas aldrig, utom Svenska kyrkans beskrivning som licensen tillåter.
+
+Sport har fälten `sport` och `liga` (till exempel "Ishockey" och "HockeyAllsvenskan").
+
+Rättelser: `data/rattelser.json` (valfri) rättar kategori, format, ålder och barn, nycklat på källpostens id eller på ett titelmönster. Den skrivs av Claude, Alexander behöver aldrig röra den.
+
+Sidans kompakta format (`data/sida.json`) beskrivs i README.
 
 Platser har ett kanoniskt namn och alias, till exempel är "Katalin and all that Jazz" samma plats som Katalin.
 
@@ -91,7 +111,7 @@ Allt körs av `.github/workflows/hamta-evenemang.yml` varje dag 04:13 UTC, och k
 | Svenska kyrkan | `scripts/svenska-kyrkan/` | Officiellt API med nyckel | Väntar på `SVK_API_KEY`. Fältnamnen är obekräftade. |
 | Uppsala stadsteater | `scripts/stadsteatern/` | Teaterns öppna WordPress-flöde (`performance-page`) | Provkörd, runt 200 föreställningar. |
 | Destination Uppsala | `scripts/destination-uppsala/` | Läser listan `/event/`, klockslag från evenemangens sidor | Provkörd, runt 160 evenemang. |
-| Tickster | `scripts/tickster/` | Läser listan per ort och evenemangens sidor (schema.org) | Provkörd, runt 360 evenemang. Byt till API när nyckeln kommer. |
+| Tickster | `scripts/tickster/` | Med `TICKSTER_API_KEY`: Event Dump API plus Event API för närmaste veckan, filtrerat på kommungränsen (`api.mjs`). Utan nyckel, eller om API:et inte svarar: listan per ort och evenemangens sidor (schema.org). | Webbsidorna provkörda, runt 350 evenemang. API-vägen byggd mot Swagger och dokumentationen, väntar på nyckel. |
 | Bibliotek Uppsala | `scripts/bibliotek/` | Axiells öppna API, samma som bibliotekets sida använder | Provkörd, runt 500 evenemang. Läxhjälp, IT-handledning och juridisk rådgivning tas bort. |
 | Heja Uppsala | `scripts/heja/` | Läser kalenderlistan och "När och var?" på evenemangens sidor | Provkörd, runt 460 evenemang. Tillfälligt under testfasen, enligt Alexanders beslut. Deras RSS är låst med nyckel och kalendern är en betaltjänst, så fråga dem innan sidan blir skarp. |
 | Förbund och ligor (sport) | `scripts/sport/` | Ligornas och förbundens egna system, se `scripts/sport/konfig.mjs` | Provkörd, runt 160 matcher på arenor i Uppsala. Id för ligor och lag byts varje säsong. |
@@ -112,11 +132,22 @@ Gemensamma delar i `scripts/gemensamt/`:
 - `data/cache/` minns evenemangssidor vi redan läst, så att de inte hämtas varje dag.
 - Rådatan (`data/radata/`) läggs inte i repot. Den sparas i Firestore och som bilaga till varje körning i 14 dagar.
 - Testerna körs med `npm test`. Varje källa har en `regler.test.mjs` med sparad exempeldata.
-- Dubbletter mellan källor slås ihop i `scripts/bygg-sida.mjs`: samma dag, plats och titel från olika källor, och för sport samma dag, arena och tid.
+- Dubbletter slås ihop i `scripts/bygg-sida.mjs` (`slaIhop`), med titeljämförelsen i `scripts/gemensamt/dubbletter.mjs`. Sex steg: långvariga med samma titel och plats, samma källas identiska poster, serier mot en annan källas uttryckliga datum, speltider mot föreställningar, festivaler med sina programpunkter, och huvudregeln (olika källor, samma dag och plats eller byggnad, klockslag inom 60 minuter, titlar som matchar). Sport: samma dag, arena och tid. Varje sammanslagning loggas i kvalitetsrapporten. Facit finns som tester i `scripts/bygg-sida.test.mjs`.
+
+## Kvalitet (okt 2026)
+
+Uppdraget i `UPPDRAG-KVALITET.md` gav automatisk kvalitet utan manuellt arbete:
+
+- **Mätning:** `scripts/kvalitet/matt.mjs` skriver `data/kvalitet.json` varje morgon. Personkontrollerna (`personer.mjs`) prövar Lisa, studenten, pensionären, tonåringen och sportfanet. Före-mätningen ligger i `data/kvalitet-fore.json`.
+- **Klassning i bygget:** `scripts/gemensamt/klassa.mjs` (kategori, format, ålder, titlar), `veckodagar.mjs` (återkommande), `dubbletter.mjs` (titeljämförelse), `kommungrans.mjs` (OpenStreetMap-polygon).
+- **Kurser** (anmälan till en termin) visas inte, men räknas. Kubik länkas för kurser.
+- **Skydd och larm:** `spara.mjs` behåller gårdagens fil när en källa ger under hälften av medianen (högst 3 dagar). `scripts/kvalitet/larm.mjs` skapar GitHub-ärenden med etiketten `larm` och stänger dem när problemet är borta.
+- **Facit:** `scripts/kvalitet/facit.json` med 194 verkliga evenemang, prövas i `npm test`.
+- **Borttagning på begäran:** `{ "dolj": true }` i `data/rattelser.json`, inom 24 timmar (`integritet.html`).
 
 ## Att inte glömma
 
 - GDPR: integritetspolicy, möjlighet att radera sitt konto.
 - Inställda evenemang markeras som inställda i stället för att tas bort.
-- En enkel redaktörsvy för att rätta kategorier och godkänna osäkra dubbletter.
+- Ingen manuell granskning i vardagen (beslut okt 2026). Kvaliteten mäts och larmar automatiskt. En redaktörsvy ligger under "Idéer, senare" i BACKLOG.
 - Larm om en källa plötsligt ger noll evenemang eller hälften så många som vanligt.

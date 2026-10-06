@@ -2,7 +2,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
-import { bearbeta, geohash, sokadress } from "./regler.mjs";
+import { bearbeta, geohash, sokadress, tillEvenemang } from "./regler.mjs";
 
 const exempel = JSON.parse(await readFile(new URL("./exempel.json", import.meta.url), "utf8"));
 const resultat = bearbeta([exempel]);
@@ -32,6 +32,14 @@ test("tid som inte är bestämd ger bara datum, familj och ålder från titeln",
 
 test("inställda evenemang markeras", () => {
   assert.equal(hitta("Påhittad inställd").installd, true);
+  assert.equal(hitta("Påhittad konsert").installd, false);
+});
+
+test("både \"canceled\" och \"cancelled\" räknas som inställt", () => {
+  const med = (code) => tillEvenemang({ id: "X", name: "X", url: "u", dates: { start: { localDate: "2026-10-10" }, status: { code } } });
+  assert.equal(med("canceled").installd, true); // Så skriver Discovery API.
+  assert.equal(med("cancelled").installd, true);
+  assert.equal(med("onsale").installd, false);
 });
 
 test("sökningen görs runt Uppsala", () => {

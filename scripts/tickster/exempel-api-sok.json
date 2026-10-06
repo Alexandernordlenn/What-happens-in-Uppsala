@@ -1,0 +1,25 @@
+{
+  "totalItems": 2,
+  "skipped": 0,
+  "items": [
+    {
+      "id": "v9103ug80ax09zz",
+      "name": "Tess Liautaud - Klubb Uffe",
+      "startUtc": "2026-10-06T18:30:00Z",
+      "endUtc": "2026-10-06T21:00:00Z",
+      "state": "cancelled",
+      "infoUrl": "https://www.tickster.com/sv/events/v9103ug80ax09zz/2026-10-06/tess-liautaud-klubb-uffe",
+      "shopUrl": "https://secure.tickster.com/sv/v9103ug80ax09zz",
+      "eventHierarchyType": "event",
+      "venue": { "id": "08109wbnt3jawkn", "name": "Katalin", "city": "Uppsala", "geo": { "latitude": 59.8621, "longitude": 17.6523 } }
+    },
+    {
+      "id": "knivsta0000001",
+      "name": "Konsert i Knivsta",
+      "startUtc": "2026-10-08T17:00:00Z",
+      "eventHierarchyType": "event",
+      "venue": { "id": "knivstavenue001", "name": "Knivsta kulturhus", "city": "Knivsta", "geo": { "latitude": 59.7262, "longitude": 17.7866 } }
+    }
+  ],
+  "links": []
+}

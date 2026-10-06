@@ -12,7 +12,7 @@
   --bg:#EEF2F0; --surface:#FFFFFF; --ink:#16262B; --muted:#5A6B70; --line:#D3DDD9;
   --accent:#0E6166; --accent-ink:#FFFFFF; --weekend:#E1E9E6; --soft:#F6F8F7;
   --c-musik:#2F54D6; --c-scen:#C0266A; --c-museum:#C98A00; --c-prat:#6D3FD1;
-  --c-sport:#178A57; --c-mat:#D9531E; --c-natt:#243066; --c-ovrigt:#7C6F5A;
+  --c-sport:#178A57; --c-mat:#D9531E; --c-natt:#243066; --c-ovrigt:#7C6F5A; --c-aktivitet:#0B7F99;
   --shadow:0 12px 40px rgba(14,40,44,.18);
   box-sizing:border-box;
   padding-top:env(safe-area-inset-top,0px);
@@ -24,7 +24,7 @@
     --bg:#0F1A1C; --surface:#16252A; --ink:#E6EEEC; --muted:#93A6A9; --line:#2A3C40;
     --accent:#4FB3B0; --accent-ink:#06201F; --weekend:#142226; --soft:#13211F;
     --c-musik:#7C95F5; --c-scen:#F06FA4; --c-museum:#F2C14E; --c-prat:#A98AF2;
-    --c-sport:#4FC98E; --c-mat:#F4884F; --c-natt:#8C9BE0; --c-ovrigt:#BFB29B;
+    --c-sport:#4FC98E; --c-mat:#F4884F; --c-natt:#8C9BE0; --c-ovrigt:#BFB29B; --c-aktivitet:#4CC3DB;
     --shadow:0 12px 40px rgba(0,0,0,.5);
     color-scheme:dark;
   }
@@ -33,7 +33,7 @@
   --bg:#0F1A1C; --surface:#16252A; --ink:#E6EEEC; --muted:#93A6A9; --line:#2A3C40;
   --accent:#4FB3B0; --accent-ink:#06201F; --weekend:#142226; --soft:#13211F;
   --c-musik:#7C95F5; --c-scen:#F06FA4; --c-museum:#F2C14E; --c-prat:#A98AF2;
-  --c-sport:#4FC98E; --c-mat:#F4884F; --c-natt:#8C9BE0; --c-ovrigt:#BFB29B;
+  --c-sport:#4FC98E; --c-mat:#F4884F; --c-natt:#8C9BE0; --c-ovrigt:#BFB29B; --c-aktivitet:#4CC3DB;
   --shadow:0 12px 40px rgba(0,0,0,.5);
   color-scheme:dark;
 }
@@ -204,6 +204,14 @@ a{color:var(--accent)}
 .og b{display:block;font-weight:600;line-height:1.25;margin-bottom:4px}
 .og span{display:block;font-size:.84rem;color:var(--muted)}
 
+.periods{margin:14px 0 4px;border:1px solid var(--line);border-radius:10px;background:var(--surface)}
+.periods summary{cursor:pointer;padding:12px 14px;font-weight:600;min-height:44px;display:flex;align-items:center;gap:8px}
+.periods summary small{color:var(--muted);font-weight:500;font-variant-numeric:tabular-nums}
+.periods .inner{padding:0 14px 8px}
+.og .tags{margin-top:6px}
+.agegrp{font-size:.8rem;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.04em;margin:14px 0 2px}
+.kurslank{margin:12px 0 0}
+
 /* Agenda */
 .day{margin:26px 0 0}
 .dayhead{display:flex;align-items:baseline;justify-content:space-between;gap:10px;padding-bottom:8px;border-bottom:2px solid var(--ink)}
@@ -355,7 +363,7 @@ footer p{margin:0 0 8px}
   <footer>
     <p id="footsrc">Det här är en demo. Evenemangen kommer från publika sidor hos Tickster, Heja Uppsala, Destination Uppsala, Svenska kyrkan, Bibliotek Uppsala och Uppsala stadsteater, hämtade 22 september 2026.</p>
     <p>Sidan visar bara fakta (titel, datum, tid och plats) och länkar alltid vidare till arrangören för beskrivning, bilder och biljetter.</p>
-    <p>Inloggningen är en demo av hur det kan fungera: inget mejl skickas, och dina val sparas bara i den här webbläsaren. <button class="linkbtn" id="openSources">Om datan och källorna</button></p>
+    <p>Inloggningen är en demo av hur det kan fungera: inget mejl skickas, och dina val sparas bara i den här webbläsaren. <button class="linkbtn" id="openSources">Om datan och källorna</button> · <a href="integritet.html">Integritet och borttagning</a></p>
   </footer>
 </div>
 
@@ -386,13 +394,13 @@ var SRC = {
      status:"Samma öppna källa som bibliotekets egen kalender använder. Läxhjälp, IT-handledning och juridisk rådgivning tas inte med.",
      demo:"I demon: länk hittad via Heja Uppsala."},
   i:{name:"Förbund och ligor", base:"https://www.profixio.com/", how:"Förbundens system",
-     status:"Matcher på arenor i Uppsala från ligornas och förbundens egna system: Allsvenskan, Damallsvenskan, Elitettan, SSL, HockeyAllsvenskan och Profixio (bandy, basket, handboll, volleyboll).",
+     status:"Matcher på arenor i Uppsala från ligornas och förbundens egna system: Allsvenskan, Superettan, Damallsvenskan, Elitettan, SSL, HockeyAllsvenskan och Profixio (bandy, basket, handboll, volleyboll).",
      demo:"I demon: inte med."},
   m:{name:"Ticketmaster", base:"https://www.ticketmaster.se/", how:"Öppet API",
      status:"Ticketmasters Discovery API. Större konserter, festivaler och turnéer på bland annat Katalin, Fyrishov och Studenternas. Hämtas när nyckeln ligger i GitHub.",
      demo:"I demon: inte med."},
   u:{name:"Kubik Uppsala", base:"https://www.kubikuppsala.se/", how:"Kommunens kalender",
-     status:"Uppsala kommuns kalender för barn och unga. Återkommande aktiviteter, till exempel en kurs varje tisdag, visas som en period.",
+     status:"Uppsala kommuns kalender för barn och unga. Återkommande aktiviteter visas de dagar de händer. Kurser och terminsaktiviteter med anmälan visas inte här, de finns hos Kubik.",
      demo:"I demon: inte med."}
 };
 var SOURCE_MAP = [
@@ -419,9 +427,10 @@ var SOURCE_MAP = [
 ];
 var CATS = {
   musik:{label:"Musik"}, scen:{label:"Scen & film"}, museum:{label:"Konst & museum"}, prat:{label:"Föredrag & samtal"},
-  sport:{label:"Sport"}, mat:{label:"Mat & dryck"}, natt:{label:"Klubb & nattliv"}, ovrigt:{label:"Marknad & festival"}
+  sport:{label:"Sport"}, mat:{label:"Mat & dryck"}, natt:{label:"Klubb & nattliv"},
+  aktivitet:{label:"Aktiviteter"}, ovrigt:{label:"Marknad, festival & övrigt"}
 };
-var CAT_ORDER = ["musik","scen","museum","prat","sport","mat","natt","ovrigt"];
+var CAT_ORDER = ["musik","scen","museum","prat","aktivitet","sport","mat","natt","ovrigt"];
 /* Åldersgrupper och områden, samma indelning som Kubik (kommunens kalender för barn och unga). */
 var AGES = [["0-4",0,4],["5-6",5,6],["7-9",7,9],["10-12",10,12],["13-15",13,15],["16-18",16,18],["19-25",19,25]];
 var AREAS = [["centrum","Centrala staden"],["norra","Norra staden"],["ostra","Östra staden"],["sodra","Södra staden"],["vastra","Västra staden"],
@@ -629,6 +638,12 @@ function range(a,b){
 }
 function isoWeek(d){ var t=new Date(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate())); var n=t.getUTCDay()||7; t.setUTCDate(t.getUTCDate()+4-n); var y0=new Date(Date.UTC(t.getUTCFullYear(),0,1)); return Math.ceil(((t-y0)/86400000+1)/7); }
 function srcUrl(s){ var k=s.charAt(0), p=s.slice(2); if(k==="D") return {k:"d",url:p}; if(p.indexOf("http")===0) return {k:k,url:p}; return {k:k,url:SRC[k].base+p}; }
+var DAGNAMN = {"må":"måndag","ti":"tisdag","on":"onsdag","to":"torsdag","fr":"fredag","lö":"lördag","sö":"söndag"};
+function veckodagText(w){
+  var n = w.map(function(d){ return DAGNAMN[d]||d; });
+  if(n.length===1) return "Varje "+n[0];
+  return "Varje "+n.slice(0,-1).join(", ")+" och "+n[n.length-1];
+}
 function venueName(e){ return (V[e.v]||e.v) + (e.r ? ", "+e.r : ""); }
 
 function prepare(){ E.forEach(function(e,i){
@@ -636,6 +651,9 @@ function prepare(){ E.forEach(function(e,i){
   e.sd = pd(e.d); e.ed = e.e ? pd(e.e) : e.sd;
   e.span = diff(e.sd,e.ed)+1;
   e.long = e.span > 4;
+  // Raden "Pågår": utställningar och speltider. Perioder utan kända dagar får en egen hopfälld rad.
+  e.rail = e.long && (e.f ? (e.f==="utstallning" || e.f==="speltid") : true);
+  e.period = e.long && e.f==="period";
   e.src = e.s.map(srcUrl);
   e.records = e.s.length + (e.occ ? e.occ-1 : 0);
   e.hay = fold(e.t+" "+venueName(e)+" "+(ALIASES[e.v]||[]).join(" "));
@@ -665,11 +683,21 @@ function passBase(e){
   if(st.q){ var q=fold(st.q.trim()); if(q && e.hay.indexOf(q)<0) return false; }
   return true;
 }
-// Ett evenemang för 3-6 år passar både gruppen 0-4 och 5-6. Evenemang utan åldersuppgift visas inte när en ålder är vald.
+/* FILTER:START – kvalitetskontrollerna (scripts/kvalitet/personer.mjs) läser den här delen. */
+// Ett evenemang för 3-6 år passar både gruppen 0-4 och 5-6.
+// Ger "exakt" när en känd ålder passar, "okand" för barn- och familjeevenemang
+// utan ålder (eller "alla åldrar", 0-99), annars null. Inget familjeevenemang
+// döljs alltså för att åldern saknas.
+function aldersgrupp(e, ages){
+  var alla = e.a && e.a[0]===0 && e.a[1]>=99;
+  if(e.a && !alla && AGES.some(function(g){ return ages.indexOf(g[0])>=0 && e.a[0]<=g[2] && e.a[1]>=g[1]; })) return "exakt";
+  if(e.fam && (!e.a || alla)) return "okand";
+  return null;
+}
+/* FILTER:SLUT */
 function ageOk(e){
   if(!st.ages.length) return true;
-  if(!e.a) return false;
-  return AGES.some(function(g){ return st.ages.indexOf(g[0])>=0 && e.a[0]<=g[2] && e.a[1]>=g[1]; });
+  return aldersgrupp(e, st.ages)!==null;
 }
 function areaOk(e){ return !st.areas.length || (e.o && st.areas.indexOf(e.o)>=0); }
 function ageText(e){
@@ -706,7 +734,7 @@ function catList(arr){
 }
 function suggestions(){
   var lo=TODAY, hi=addDays(TODAY,13);
-  var cand=E.filter(function(e){ return srcOn(e) && !e.long && e.ed>=lo && e.sd<=hi; });
+  var cand=E.filter(function(e){ return srcOn(e) && !e.long && e.f!=="kurs" && e.f!=="period" && e.ed>=lo && e.sd<=hi; });
   var mine=prefs.cats.length>0;
   if(mine) cand=cand.filter(function(e){ return prefs.cats.indexOf(e.c)>=0; });
   function day(e){ return e.sd<lo ? lo : e.sd; }
@@ -822,13 +850,15 @@ function evRow(e,d){
   if(e.x) tags.push('<span class="tag warn">Inställt</span>');
   if(e.free) tags.push('<span class="tag free">Gratis</span>');
   if(e.fam) tags.push('<span class="tag">Barn & familj</span>');
+  if(e.sp) tags.push('<span class="tag">'+esc(e.sp)+'</span>');
+  if(e.w && e.w.length) tags.push('<span class="tag">'+esc(veckodagText(e.w))+'</span>');
   var at=ageText(e); if(at) tags.push('<span class="tag">'+at+'</span>');
   var a=activeSrc(e).length; if(a>1) tags.push('<span class="tag merge">'+a+' källor</span>');
   if(e.occ) tags.push('<span class="tag">'+e.occ+' tillfällen</span>');
   if(e.pd) tags.push('<span class="tag warn">Möjlig dubblett</span>');
   var meta = esc(venueName(e));
   if(e.span>1) meta += ", "+range(e.sd,e.ed);
-  var tm = e.tm ? '<span class="tm">'+e.tm+'</span>' : (e.span>1 ? '<span class="tm none" title="Pågår flera dagar">flera</span>' : '<span class="tm none" title="Tid saknas i underlaget">–</span>');
+  var tm = e.tm ? '<span class="tm">'+e.tm+'</span>' : e.hd ? '<span class="tm none">Hela dagen</span>' : (e.span>1 ? '<span class="tm none" title="Pågår flera dagar">flera</span>' : '<span class="tm none" title="Tid saknas i underlaget">–</span>');
   var fav = favs.indexOf(e.id)>=0;
   return '<div class="ev" style="--c:var(--c-'+e.c+')">'+
     '<button class="open" data-open="'+e.id+'">'+tm+'<span class="cbar"></span><span><span class="t">'+esc(e.t)+'</span><span class="m">'+meta+'</span>'+(tags.length?'<span class="tags">'+tags.join("")+'</span>':'')+'</span></button>'+
@@ -842,18 +872,39 @@ function emptyState(){
 function renderList(){
   var days=periodDays(), html="";
   var lo=days[0], hi=days[days.length-1];
-  var ongoing=E.filter(function(e){ return e.long && passBase(e) && e.sd<=hi && e.ed>=lo; });
+  var ongoing=E.filter(function(e){ return e.rail && passBase(e) && e.sd<=hi && e.ed>=lo; });
+  // Sista dagarna först, sedan det som öppnar, sedan resten.
+  var vecka=addDays(TODAY,7);
+  function markning(e){ return e.ed<=vecka ? 0 : (e.sd>TODAY && (e.sd<=hi || e.sd<=vecka)) ? 1 : 2; }
+  ongoing.sort(function(a,b){ return markning(a)-markning(b) || a.ed-b.ed; });
   if(ongoing.length){
     html += '<section class="ongoing"><h2>Pågår under perioden</h2><p class="hint">Utställningar och föreställningar som går under längre tid.</p><div class="rail">'+
-      ongoing.map(function(e){ return '<button class="og" data-open="'+e.id+'" style="--c:var(--c-'+e.c+')"><b>'+esc(e.t)+'</b><span>'+esc(venueName(e))+'</span><span>t.o.m. '+e.ed.getDate()+' '+MOS[e.ed.getMonth()]+'</span></button>'; }).join("")+'</div></section>';
+      ongoing.map(function(e){
+        var m=markning(e), etikett = m===0 ? '<span class="tag warn">Sista dagarna</span>' : m===1 ? '<span class="tag merge">Öppnar '+dayShort(e.sd)+'</span>' : '';
+        return '<button class="og" data-open="'+e.id+'" style="--c:var(--c-'+e.c+')"><b>'+esc(e.t)+'</b><span>'+esc(venueName(e))+'</span><span>t.o.m. '+e.ed.getDate()+' '+MOS[e.ed.getMonth()]+'</span>'+(etikett?'<span class="tags">'+etikett+'</span>':'')+'</button>'; }).join("")+'</div></section>';
+  }
+  var perioder=E.filter(function(e){ return e.period && passBase(e) && e.sd<=hi && e.ed>=lo; });
+  if(perioder.length){
+    html += '<details class="periods"><summary>Återkommande, se dagar hos arrangören <small>'+perioder.length+'</small></summary><div class="inner">'+
+      perioder.sort(function(a,b){ return a.t.localeCompare(b.t,"sv"); }).map(function(e){ return evRow(e); }).join("")+'</div></details>';
+  }
+  if(st.ages.length || st.fam){
+    html += '<p class="hint kurslank">Kurser och terminsaktiviteter för barn och unga finns hos <a href="https://www.kubikuppsala.se/hitta-aktiviteter/" target="_blank" rel="noopener">Kubik</a>.</p>';
   }
   var any=false;
   days.forEach(function(d,i){
     var list=E.filter(function(e){ return passBase(e) && activeOn(e,d); }).sort(sortDay);
     if(!list.length) return; any=true;
     var rel = diff(TODAY,d)===0?" <span>idag</span>":diff(TODAY,d)===1?" <span>i morgon</span>":"";
-    html += '<section class="day" id="d-'+iso(d)+'"><div class="dayhead"><h2>'+dayLong(d)+rel+'</h2><span class="n">'+list.length+' st</span></div>'+
-      list.map(function(e){ return evRow(e,d); }).join("")+'</section>';
+    var rader;
+    if(st.ages.length){
+      // Först det som passar åldern, sedan familjeevenemang där åldern inte står.
+      var exakt=list.filter(function(e){ return aldersgrupp(e,st.ages)==="exakt"; });
+      var okand=list.filter(function(e){ return aldersgrupp(e,st.ages)==="okand"; });
+      rader = (exakt.length?'<h3 class="agegrp">Passar åldern</h3>'+exakt.map(function(e){ return evRow(e,d); }).join(""):'')+
+        (okand.length?'<h3 class="agegrp">Familjevänligt, ålder ej angiven</h3>'+okand.map(function(e){ return evRow(e,d); }).join(""):'');
+    } else rader = list.map(function(e){ return evRow(e,d); }).join("");
+    html += '<section class="day" id="d-'+iso(d)+'"><div class="dayhead"><h2>'+dayLong(d)+rel+'</h2><span class="n">'+list.length+' st</span></div>'+rader+'</section>';
   });
   if(!any && !ongoing.length) html = emptyState();
   else if(!any) html += '<div class="empty"><p>Inga enskilda evenemang matchar den här perioden.</p><button class="btn ghost" data-reset="1">Rensa filter</button></div>';
@@ -924,18 +975,21 @@ function showEvent(id){
   var srcs=activeSrc(e);
   var fav=favs.indexOf(e.id)>=0;
   var html='<div class="dx"><span class="cat" style="--c:var(--c-'+e.c+')"><i></i>'+CATS[e.c].label+'</span><button class="close" data-close="1">Stäng</button></div>'+
-    '<h2 id="dTitle">'+esc(e.t)+'</h2><dl class="facts"><dt>När</dt><dd>'+when+'</dd><dt>Tid</dt><dd>'+(e.tm||(e.span>1?'Flera dagar, se arrangören':'<span style="color:var(--muted)">Saknas i underlaget</span>'))+'</dd><dt>Plats</dt><dd>'+esc(venueName(e))+'</dd>'+
+    '<h2 id="dTitle">'+esc(e.t)+'</h2><dl class="facts"><dt>När</dt><dd>'+when+'</dd><dt>Tid</dt><dd>'+(e.tm||(e.hd?'Hela dagen':e.span>1?'Flera dagar, se arrangören':'<span style="color:var(--muted)">Saknas i underlaget</span>'))+'</dd><dt>Plats</dt><dd>'+esc(venueName(e))+'</dd>'+(e.w&&e.w.length?'<dt>Återkommer</dt><dd>'+esc(veckodagText(e.w))+'</dd>':'')+
     (ageText(e)?'<dt>Ålder</dt><dd>'+ageText(e)+'</dd>':'')+(e.o?'<dt>Område</dt><dd>'+AREA_NAME[e.o]+'</dd>':'')+
-    (e.n?'<dt>Info</dt><dd>'+esc(e.n)+'</dd>':'')+(e.free?'<dt>Pris</dt><dd>Gratis</dd>':'')+'</dl>'+
+    (e.sp?'<dt>Sport</dt><dd>'+esc(e.sp)+'</dd>':'')+(e.n?'<dt>Info</dt><dd>'+esc(e.n)+'</dd>':'')+(e.free?'<dt>Pris</dt><dd>Gratis</dd>':'')+'</dl>'+
     '<h3>Läs mer och köp biljett</h3><ul class="srcl">'+srcs.map(function(s){
       return '<li><span class="sn">'+SRC[s.k].name+'<span class="sm">'+SRC[s.k].how+'</span></span><a href="'+esc(s.url)+'" target="_blank" rel="noopener">Öppna hos '+SRC[s.k].name+'</a></li>';
     }).join("")+'</ul>';
+  if(e.bl) html+='<p style="margin:12px 0 0"><a href="'+esc(e.bl)+'" target="_blank" rel="noopener">Köp biljett hos klubben</a></p>';
+  // Svenska kyrkans licens kräver källhänvisning.
+  if(srcs.some(function(s){ return s.k==="k"; })) html+='<p class="small">Källa: Svenska kyrkan, <a href="https://creativecommons.org/licenses/by/4.0/deed.sv" target="_blank" rel="noopener">CC BY 4.0</a>, bearbetad.</p>';
   if(srcs.length>1){
     html+='<div class="note"><b>Sammanslaget från '+srcs.length+' källor.</b> Samma datum, samma plats och liknande titel'+(e.tw?' (“'+esc(e.tw)+'” hos Heja Uppsala)':'')+'.'+(e.al?' Platsen heter olika i källorna, till exempel “Katalin and all that Jazz” hos Tickster, men räknas som samma ställe.':'')+'</div>';
   }
   if(e.occ) html+='<div class="note"><b>'+e.occ+' föreställningar samma dag</b> fanns som '+e.occ+' separata poster hos Tickster och visas här som ett evenemang.</div>';
-  if(e.pd) html+='<div class="note"><b>Möjlig dubblett av “'+esc(e.pd)+'”.</b> Samma dag och plats men olika titel, så systemet slår inte ihop dem automatiskt. En redaktör avgör.</div>';
-  if(!e.tm && e.span===1){
+  if(e.pd) html+='<div class="note"><b>Möjlig dubblett av “'+esc(e.pd)+'”.</b> Samma dag och plats men olika titel. Systemet slår bara ihop när titlarna tydligt matchar, så de visas var för sig.</div>';
+  if(!e.tm && !e.hd && e.span===1){
     var viaT = e.src.some(function(s){return s.k==="t";});
     html+='<div class="note">'+(LIVE?'Källan anger inget klockslag. Se arrangörens sida.':(viaT?'Tiden kommer via Tickster-API:t i en skarp version.':'Tiden finns på arrangörens sida och läses in när källan är ansluten.'))+'</div>';
   }
@@ -950,10 +1004,12 @@ function showSources(){
   E.forEach(function(e){ e.src.forEach(function(s){ counts[s.k]++; }); });
   var html='<div class="dx"><span class="cat">Så samlas allt</span><button class="close" data-close="1">Stäng</button></div>'+
     '<h2 id="dTitle">Källor</h2><p style="margin:0 0 12px;color:var(--muted);font-size:.92rem">Stäng av en källa för att se vad den bidrar med. Evenemang som finns i flera källor visas bara en gång.</p>'+
-    '<div class="stats"><div><b>'+recs+'</b><span>poster från källorna</span></div><div><b>'+evs+'</b><span>unika evenemang</span></div><div><b>'+merged+'</b><span>dubbletter sammanslagna</span></div></div>';
+    '<div class="stats"><div><b>'+recs+'</b><span>poster från källorna</span></div><div><b>'+evs+'</b><span>unika evenemang</span></div><div><b>'+merged+'</b><span>dubbletter sammanslagna</span></div></div>'+
+    (LIVE && LIVE.statistik ? '<p style="margin:0 0 12px;color:var(--muted);font-size:.86rem">Kvalitet: '+(LIVE.statistik.sammanslagna||0)+' sammanslagningar mellan och inom källor, och '+
+      Object.keys(LIVE.statistik.kurser||{}).reduce(function(n,k){ return n+LIVE.statistik.kurser[k]; },0)+' kurser med anmälan som inte visas här (de finns hos Kubik). Allt mäts automatiskt varje morgon.</p>' : '');
   html+=Object.keys(SRC).map(function(k){ var s=SRC[k];
     return '<div class="srow"><div class="h"><span><b>'+s.name+'</b><span class="how">'+s.how+'</span></span><button class="switch" role="switch" data-src="'+k+'" aria-checked="'+st.src[k]+'" aria-label="Visa evenemang från '+s.name+'"></button></div>'+
-      '<p>'+s.status+'</p><p class="demo">'+(LIVE ? (LIVE.kallor[k] ? 'Hämtad '+fmtHamtad(LIVE.kallor[k].hamtad)+':' : 'Inte hämtad än:') : s.demo)+' '+counts[k]+(counts[k]===1?' post.':' poster.')+'</p></div>';
+      '<p>'+s.status+'</p><p class="demo">'+(LIVE ? (LIVE.kallor[k] ? 'Hämtad '+fmtHamtad(LIVE.kallor[k].hamtad)+(LIVE.kallor[k].inaktuell?' (inaktuell, källan har inte gått att hämta på flera dagar)':'')+':' : 'Inte hämtad än:') : s.demo)+' '+counts[k]+(counts[k]===1?' post.':' poster.')+'</p></div>';
   }).join("");
   html+='<h3>Källkarta för Uppsala</h3><p style="margin:0 0 4px;color:var(--muted);font-size:.86rem">Källor som inte är med än, sorterade efter hur man får tillgång.</p>'+SOURCE_MAP.map(function(grp){
     return '<p style="margin:16px 0 0;font-weight:600;font-size:.9rem">'+grp.g+'</p>'+grp.items.map(function(s){

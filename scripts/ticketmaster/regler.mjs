@@ -13,6 +13,7 @@
 import { tillSvenskTid } from "../gemensamt/tid.mjs";
 import { gissaKategori } from "../gemensamt/kategori.mjs";
 import { spannFranText } from "../gemensamt/omraden.mjs";
+import { iUppsalaKommun } from "../gemensamt/kommungrans.mjs";
 
 export const KALLA = {
   id: "ticketmaster",
@@ -101,12 +102,16 @@ export function tillEvenemang(ev) {
     ...(notering && { notering }),
     kallor: [{ id: KALLA.id, namn: KALLA.namn, url: ev.url, biljetter: ev.url }],
     langvarig: false,
-    installd: status === "cancelled",
+    installd: status === "canceled" || status === "cancelled", // API:et skriver "canceled", men vi godtar båda.
   };
 }
 
 export function iKommunen(ev) {
-  const ort = ev._embedded?.venues?.[0]?.city?.name || "";
+  const plats = ev._embedded?.venues?.[0];
+  const lat = Number(plats?.location?.latitude);
+  const lng = Number(plats?.location?.longitude);
+  if (lat && lng) return iUppsalaKommun(lat, lng);
+  const ort = plats?.city?.name || "";
   return ORTER.test(ort.trim());
 }
 

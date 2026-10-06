@@ -1,0 +1,57 @@
+{
+  "count": 4,
+  "created": "2026-10-05T07:00:00.2250984+00:00",
+  "events": [
+    {
+      "id": "V9103UG80AX09ZZ",
+      "published": true,
+      "name": "Tess Liautaud - Klubb Uffe",
+      "start": "2026-10-06T20:00:00+02:00",
+      "end": "2026-10-06T23:00:00+02:00",
+      "hierarchyType": "event",
+      "infoUri": "https://www.tickster.com/sv/events/v9103ug80ax09zz/2026-10-06/tess-liautaud-klubb-uffe",
+      "shopUri": "https://secure.tickster.com/v9103ug80ax09zz",
+      "description": "Beskrivningen sparas inte.",
+      "imageUrl": "https://example.com/bild.jpg",
+      "tags": ["musik", "#katalinsbakficka"],
+      "venueId": "08109wbnt3jawkn",
+      "organizerId": "nbgw5rza2z1e9xu",
+      "childEvents": []
+    },
+    {
+      "id": "prodparent00001",
+      "published": true,
+      "name": "Julshow (alla föreställningar)",
+      "start": "2026-12-01T19:00:00+01:00",
+      "end": "2026-12-20T21:00:00+01:00",
+      "hierarchyType": "production",
+      "venueId": "v3gu3ky2h68ytd5"
+    },
+    {
+      "id": "prodchild000001",
+      "published": true,
+      "name": "Julshow",
+      "start": "2026-12-01T19:00:00+01:00",
+      "end": "2026-12-01T21:00:00+01:00",
+      "hierarchyType": "production-child",
+      "productionParentId": "prodparent00001",
+      "tags": ["show", "barn"],
+      "venueId": "v3gu3ky2h68ytd5"
+    },
+    {
+      "id": "73chcv2b644xb0f",
+      "published": true,
+      "name": "Spinal Tap Reunion",
+      "start": "2026-12-31T21:00:00+01:00",
+      "hierarchyType": "event",
+      "tags": ["musik"],
+      "venueId": "cz7kd22tt48lhpf"
+    }
+  ],
+  "venues": [
+    { "id": "08109wbnt3jawkn", "name": "Katalin", "city": "Uppsala", "country": "SE", "geo": { "latitude": 59.8621, "longitude": 17.6523 } },
+    { "id": "v3gu3ky2h68ytd5", "name": "Uppsala Konsert & Kongress, Stora salen", "city": "Uppsala", "country": "SE", "geo": { "latitude": 59.8617, "longitude": 17.6469 } },
+    { "id": "cz7kd22tt48lhpf", "name": "Galaxen", "city": "Arvika", "country": "SE", "geo": { "latitude": 59.6553, "longitude": 12.5852 } }
+  ],
+  "organizers": []
+}

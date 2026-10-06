@@ -174,7 +174,7 @@ export function tolkaProfixioSida(html, { liga, sport, url }) {
 // ---------- Till evenemang ----------
 
 const SYSTEMNAMN = {
-  sportomedia: "Allsvenskan",
+  sportomedia: "Svensk Elitfotboll",
   sportality: "Ligans webbplats",
   swehockey: "Svenska Ishockeyförbundet",
   profixio: "Profixio",
@@ -192,7 +192,7 @@ function medSvenskTid(start) {
   return svensk && svensk.slice(11, 16) === "00:00" ? svensk.slice(0, 10) : svensk;
 }
 
-export function tillEvenemang(m) {
+export function tillEvenemang(m, lag = null) {
   const start = medSvenskTid(m.start);
   const dag = String(start || "").slice(0, 10);
   const slug = `${m.hemma}-${m.borta}`.toLowerCase().replace(/[^a-z0-9åäö]+/g, "-");
@@ -206,19 +206,20 @@ export function tillEvenemang(m) {
     kategori: "sport",
     gratis: null,
     barnOchFamilj: false,
-    notering: `${m.sport}, ${m.liga}`,
-    kallor: [{ id: KALLA.id, namn: SYSTEMNAMN[m.system] || KALLA.namn, url: m.url }],
+    sport: m.sport,
+    liga: m.liga,
+    kallor: [{ id: KALLA.id, namn: SYSTEMNAMN[m.system] || KALLA.namn, url: m.url, ...(lag?.biljetter && { biljetter: lag.biljetter }) }],
     langvarig: false,
     installd: false,
   };
 }
 
-export function bearbeta(matcher, nu = new Date()) {
+export function bearbeta(matcher, nu = new Date(), hittaLag = () => null) {
   const idag = new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Stockholm" }).format(nu);
   const sedda = new Set();
   return matcher
     .filter((m) => m.start && iUppsala(m.arena || m.plats))
-    .map(tillEvenemang)
+    .map((m) => tillEvenemang(m, hittaLag(m)))
     .filter((e) => e.start && e.start.slice(0, 10) >= idag)
     .filter((e) => (sedda.has(e.id) ? false : sedda.add(e.id)));
 }

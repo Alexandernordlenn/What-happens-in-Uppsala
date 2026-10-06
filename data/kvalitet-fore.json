@@ -1,0 +1,436 @@
+{
+  "matt": "2026-10-06T10:54:00.755Z",
+  "idag": "2026-10-06",
+  "totalt": {
+    "antal": 1446,
+    "utanKlockslag": 0.026,
+    "ovrigt": 0.139,
+    "familjUtanAlder": 0.14,
+    "utanOmrade": 0.055,
+    "sammanslagna": 302,
+    "pagar14": 109,
+    "borttagnaKurser": 0,
+    "misstanktaDubbletter": 38
+  },
+  "perKalla": {
+    "i": {
+      "namn": "Sport",
+      "antal": 107,
+      "utanKlockslag": 0,
+      "ovrigt": 0,
+      "familjUtanAlder": 0,
+      "utanOmrade": 0.131,
+      "sammanslagna": 47,
+      "pagar14": 0,
+      "borttagnaKurser": 0,
+      "misstanktaDubbletter": 0
+    },
+    "s": {
+      "namn": "Stadsteatern",
+      "antal": 117,
+      "utanKlockslag": 0,
+      "ovrigt": 0,
+      "familjUtanAlder": 1,
+      "utanOmrade": 0,
+      "sammanslagna": 0,
+      "pagar14": 0,
+      "borttagnaKurser": 0,
+      "misstanktaDubbletter": 0
+    },
+    "b": {
+      "namn": "Biblioteket",
+      "antal": 462,
+      "utanKlockslag": 0,
+      "ovrigt": 0.284,
+      "familjUtanAlder": 0,
+      "utanOmrade": 0.035,
+      "sammanslagna": 87,
+      "pagar14": 0,
+      "borttagnaKurser": 0,
+      "misstanktaDubbletter": 15
+    },
+    "u": {
+      "namn": "Kubik",
+      "antal": 284,
+      "utanKlockslag": 0,
+      "ovrigt": 0.243,
+      "familjUtanAlder": 0.04,
+      "utanOmrade": 0.018,
+      "sammanslagna": 92,
+      "pagar14": 80,
+      "borttagnaKurser": 0,
+      "misstanktaDubbletter": 1
+    },
+    "d": {
+      "namn": "Destination Uppsala",
+      "antal": 75,
+      "utanKlockslag": 0.148,
+      "ovrigt": 0.213,
+      "familjUtanAlder": 1,
+      "utanOmrade": 0.053,
+      "sammanslagna": 53,
+      "pagar14": 18,
+      "borttagnaKurser": 0,
+      "misstanktaDubbletter": 0
+    },
+    "h": {
+      "namn": "Heja",
+      "antal": 413,
+      "utanKlockslag": 0.066,
+      "ovrigt": 0.048,
+      "familjUtanAlder": 0.864,
+      "utanOmrade": 0.102,
+      "sammanslagna": 207,
+      "pagar14": 11,
+      "borttagnaKurser": 0,
+      "misstanktaDubbletter": 36
+    },
+    "t": {
+      "namn": "Tickster",
+      "antal": 290,
+      "utanKlockslag": 0,
+      "ovrigt": 0.038,
+      "familjUtanAlder": 0.647,
+      "utanOmrade": 0.014,
+      "sammanslagna": 162,
+      "pagar14": 1,
+      "borttagnaKurser": 0,
+      "misstanktaDubbletter": 4
+    }
+  },
+  "exempelDubbletter": [
+    {
+      "dag": "2026-05-08",
+      "plats": "domkyrkan",
+      "titlar": [
+        "Utställn: Katarina Jagellonica i Domkyrkan",
+        "Utställn: Katarina Jagellonica i Domkyrkan"
+      ],
+      "tider": [
+        null,
+        null
+      ]
+    },
+    {
+      "dag": "2026-07-04",
+      "plats": "upplandsmuseet",
+      "titlar": [
+        "Visning: Walmstedtska gården",
+        "Visning: Walmstedtska gården"
+      ],
+      "tider": [
+        null,
+        null
+      ]
+    },
+    {
+      "dag": "2026-07-04",
+      "plats": "upplandsmuseet",
+      "titlar": [
+        "Visning: Walmstedtska gården",
+        "Visning: Walmstedtska gården"
+      ],
+      "tider": [
+        null,
+        null
+      ]
+    },
+    {
+      "dag": "2026-07-04",
+      "plats": "upplandsmuseet",
+      "titlar": [
+        "Visning: Walmstedtska gården",
+        "Visning: Walmstedtska gården"
+      ],
+      "tider": [
+        null,
+        null
+      ]
+    },
+    {
+      "dag": "2026-07-04",
+      "plats": "upplandsmuseet",
+      "titlar": [
+        "Visning: Walmstedtska gården",
+        "Visning: Walmstedtska gården"
+      ],
+      "tider": [
+        null,
+        null
+      ]
+    },
+    {
+      "dag": "2026-07-04",
+      "plats": "upplandsmuseet",
+      "titlar": [
+        "Visning: Walmstedtska gården",
+        "Visning: Walmstedtska gården"
+      ],
+      "tider": [
+        null,
+        null
+      ]
+    },
+    {
+      "dag": "2026-07-04",
+      "plats": "upplandsmuseet",
+      "titlar": [
+        "Visning: Walmstedtska gården",
+        "Visning: Walmstedtska gården"
+      ],
+      "tider": [
+        null,
+        null
+      ]
+    },
+    {
+      "dag": "2026-07-04",
+      "plats": "upplandsmuseet",
+      "titlar": [
+        "Visning: Walmstedtska gården",
+        "Visning: Walmstedtska gården"
+      ],
+      "tider": [
+        null,
+        null
+      ]
+    },
+    {
+      "dag": "2026-07-04",
+      "plats": "upplandsmuseet",
+      "titlar": [
+        "Visning: Walmstedtska gården",
+        "Visning: Walmstedtska gården"
+      ],
+      "tider": [
+        null,
+        null
+      ]
+    },
+    {
+      "dag": "2026-07-04",
+      "plats": "upplandsmuseet",
+      "titlar": [
+        "Visning: Walmstedtska gården",
+        "Visning: Walmstedtska gården"
+      ],
+      "tider": [
+        null,
+        null
+      ]
+    },
+    {
+      "dag": "2026-07-04",
+      "plats": "upplandsmuseet",
+      "titlar": [
+        "Visning: Walmstedtska gården",
+        "Visning: Walmstedtska gården"
+      ],
+      "tider": [
+        null,
+        null
+      ]
+    },
+    {
+      "dag": "2026-09-24",
+      "plats": "disponentvillan",
+      "titlar": [
+        "Gitarrundervisning i grupp",
+        "Gitarrundervisning i grupp"
+      ],
+      "tider": [
+        null,
+        null
+      ]
+    },
+    {
+      "dag": "2026-10-06",
+      "plats": "himlenarblasomenapelsin",
+      "titlar": [
+        "Art Muse Music",
+        "Art Muse Music"
+      ],
+      "tider": [
+        "18:00",
+        "18:00"
+      ]
+    },
+    {
+      "dag": "2026-10-06",
+      "plats": "himlenarblasomenapelsin",
+      "titlar": [
+        "Art Muse Music",
+        "Art Muse Music"
+      ],
+      "tider": [
+        "18:00",
+        "18:00"
+      ]
+    },
+    {
+      "dag": "2026-10-06",
+      "plats": "himlenarblasomenapelsin",
+      "titlar": [
+        "Art Muse Music",
+        "Art Muse Music"
+      ],
+      "tider": [
+        "18:00",
+        "18:00"
+      ]
+    },
+    {
+      "dag": "2026-10-06",
+      "plats": "himlenarblasomenapelsin",
+      "titlar": [
+        "Art Muse Music",
+        "Art Muse Music"
+      ],
+      "tider": [
+        "18:00",
+        "18:00"
+      ]
+    },
+    {
+      "dag": "2026-10-06",
+      "plats": "himlenarblasomenapelsin",
+      "titlar": [
+        "Art Muse Music",
+        "Art Muse Music"
+      ],
+      "tider": [
+        "18:00",
+        "18:00"
+      ]
+    },
+    {
+      "dag": "2026-10-06",
+      "plats": "himlenarblasomenapelsin",
+      "titlar": [
+        "Art Muse Music",
+        "Art Muse Music"
+      ],
+      "tider": [
+        "18:00",
+        "18:00"
+      ]
+    },
+    {
+      "dag": "2026-10-07",
+      "plats": "stadsbib",
+      "titlar": [
+        "Elin Ylvasdotter",
+        "Författarbesök: Elin Ylvasdotter"
+      ],
+      "tider": [
+        "18:00",
+        "18:00"
+      ]
+    },
+    {
+      "dag": "2026-10-09",
+      "plats": "blackbird",
+      "titlar": [
+        "Ebbot Lundberg",
+        "Ebbot Lundberg"
+      ],
+      "tider": [
+        "19:30",
+        "20:00"
+      ]
+    }
+  ],
+  "personer": [
+    {
+      "person": "Lisa",
+      "namn": "Helgen, 0–4 år: evenemang med känd ålder",
+      "ok": true,
+      "varde": 6,
+      "krav": "minst 5"
+    },
+    {
+      "person": "Lisa",
+      "namn": "Helgen, 0–4 år: inga kurser",
+      "ok": true,
+      "varde": 0,
+      "krav": "0"
+    },
+    {
+      "person": "Lisa",
+      "namn": "Familjeevenemang utan ålder (eller 0–99) syns under \"ålder ej angiven\"",
+      "ok": false,
+      "varde": "0 av 11",
+      "krav": "alla"
+    },
+    {
+      "person": "Lisa",
+      "namn": "Konst & museum, raden \"Pågår\": andel utställningar",
+      "ok": false,
+      "varde": "0 % (0 av 43)",
+      "krav": "minst 80 %"
+    },
+    {
+      "person": "Lisa",
+      "namn": "Inga barnverkstäder i Konst & museum",
+      "ok": false,
+      "varde": 29,
+      "krav": "0"
+    },
+    {
+      "person": "Student",
+      "namn": "7 dagar: kvällar med musik eller natt",
+      "ok": true,
+      "varde": 25,
+      "krav": "minst 10"
+    },
+    {
+      "person": "Pensionär",
+      "namn": "7 dagar: vardagar 10–16 med prat eller musik",
+      "ok": true,
+      "varde": 29,
+      "krav": "minst 10"
+    },
+    {
+      "person": "Tonåring",
+      "namn": "7 dagar: evenemang för 13–15 år",
+      "ok": true,
+      "varde": 9,
+      "krav": "minst 5"
+    },
+    {
+      "person": "Sportfan",
+      "namn": "Lag mitt i säsongen har en hemmamatch inom 30 dagar",
+      "ok": null,
+      "varde": "lagtabell saknas",
+      "krav": "alla"
+    },
+    {
+      "person": "Allmänt",
+      "namn": "Misstänkta dubbletter",
+      "ok": false,
+      "varde": 38,
+      "krav": "0"
+    },
+    {
+      "person": "Allmänt",
+      "namn": "Andel i kategorin övrigt",
+      "ok": false,
+      "varde": "13.9 %",
+      "krav": "under 10 %"
+    },
+    {
+      "person": "Allmänt",
+      "namn": "Andel utan område",
+      "ok": false,
+      "varde": "5.5 %",
+      "krav": "under 2 %"
+    },
+    {
+      "person": "Allmänt",
+      "namn": "Endagsevenemang utan klockslag",
+      "ok": true,
+      "varde": "2.6 %",
+      "krav": "under 5 %"
+    }
+  ]
+}

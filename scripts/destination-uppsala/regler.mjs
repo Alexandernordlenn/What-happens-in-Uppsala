@@ -12,6 +12,7 @@
 import { enRad, avkoda } from "../gemensamt/text.mjs";
 import { tillSvenskTid } from "../gemensamt/tid.mjs";
 import { MANADER, raknaUtDatum, tolkaNar } from "../gemensamt/datum.mjs";
+import { lasVeckodagar } from "../gemensamt/veckodagar.mjs";
 
 export { raknaUtDatum, tolkaNar };
 
@@ -138,5 +139,12 @@ export function tillEvenemang(k, detaljer = null) {
     ],
     langvarig,
     installd: /inställ/i.test(k.titel),
+    fakta: {
+      kategorier: k.kategorier,
+      ...(nar.datumIText.length && { datum: [...new Set(nar.datumIText)].sort() }),
+      // Veckodagar ur "När"-texten, till exempel "Lördagar kl. 11–15". Bara för långvariga.
+      ...(langvarig && lasVeckodagar(detaljer?.nar)?.dagar && { dagar: lasVeckodagar(detaljer.nar).dagar }),
+      ...(nar.klockslag && { tider: { start: nar.klockslag } }),
+    },
   };
 }

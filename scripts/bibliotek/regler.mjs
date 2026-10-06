@@ -48,7 +48,7 @@ const TAGGAR = [
   ["scen", /^(film|teater|dans)$/i],
   ["museum", /^utställning$/i],
   ["prat", /^(föredrag|författarbesök|samhälle och debatt|historia|filosofi|bokcirkel|klimat och miljö|demokrativecka|boktips|skriva)$/i],
-  ["ovrigt", /^(quiz|spel|rollspel|pyssel|pyssla|sagostund)$/i],
+  ["aktivitet", /^(quiz|spel|rollspel|pyssel|pyssla|sagostund)$/i],
 ];
 
 // Stödtjänster snarare än evenemang. Tas inte med.
@@ -90,6 +90,7 @@ export function tillEvenemang(ev) {
     kallor: [{ id: KALLA.id, namn: KALLA.namn, url: `https://bibliotekuppsala.se/evenemang#/events/${ev.id}` }],
     langvarig: false,
     installd: ev.status === "CANCELLED",
+    fakta: { taggar, malgrupp: malgrupper },
   };
 }
 

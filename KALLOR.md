@@ -29,6 +29,26 @@ Matcher på arenor i Uppsala hämtas nu direkt från ligornas och förbundens sy
 
 Fortfarande utan källa: lägre fotbollsdivisioner (Dalkurd, Upsala IF, Sirius dam), innebandyns Allsvenskan (Sirius IBK kommer via Tickster), amerikansk fotboll (säsong på våren) och ungdomsmatcher.
 
+### Luckor i sporten (okt 2026)
+
+Målet är seniorlag från Uppsala kommun på de tre högsta nivåerna, herr och dam. Lagtabellen finns i `scripts/sport/konfig.mjs` (`LAG`). Det här går inte att hämta i dag:
+
+| Sport | Nivå | Varför |
+|---|---|---|
+| Fotboll herr, Ettan (nivå 3) | Dalkurd FF, Upsala IF med flera | Bara på svenskfotboll.se, som förbjuder automatisk hämtning. Kräver matchdata från SvFF (FOGIS). Superettan hämtas via Sportomedia men har inget Uppsalalag 2026. |
+| Fotboll dam, division 1 (nivå 3) | | Samma som ovan. |
+| Innebandy, Allsvenskan och division 1 (nivå 2–3) | Sirius IBK, Hagunda IF med flera | Bara på innebandyns statistiksida, som blockerar robotar. Sirius och Hagunda kommer delvis via Tickster. |
+| Ishockey, Hockeyettan och damligorna (nivå 3, dam) | | Inget Uppsalalag hittat 2026/27. Serierna finns på stats.swehockey.se och kan läggas till i `SWEHOCKEY` med seriens id. |
+| Bandy herr, Allsvenskan (nivå 2) | | Inget lag kontrollerat. Profixio-lagsidan kan läggas till i `PROFIXIO_SIDA`. |
+| Basket, handboll och volleyboll, nivå 2–3 | | Inte kartlagt lag för lag. Lägg till lagets Profixio-sida i `PROFIXIO_KALENDER` och en rad i `LAG`. |
+
+Säsongsbyte:
+- **Sportomedia** (Allsvenskan, Superettan): säsongen räknas från årtalet, automatiskt.
+- **Sportality** (Damallsvenskan, Elitettan, SSL): säsongens id läses från ligans startsida vid varje körning. Dagens id är reserv.
+- **Swehockey och Profixio**: id:t byts varje säsong och har ingen stabil sida att läsa det från. Dagens id används. Om ett lag mitt i sin säsong ger noll matcher skapas larmet "Sport: <lag> saknar matcher" (fas 6), och då behöver id:t bytas i `konfig.mjs`.
+
+Biljettlänkar: bara kontrollerade adresser (Sirius fotboll och Almtuna). Storvreta IBK och Uppsala Basket visar samma sida för alla adresser, så där går det inte att kontrollera en biljettsida. AXS hämtas inte.
+
 Förbunden i korthet:
 - **Svenska Fotbollförbundet (FOGIS öppna data):** gratis nyckel direkt, men API:et innehåller i dag bara föreningar, inga matcher. Svenskfotboll.se förbjuder automatisk hämtning av matchsidorna. Ansök om matchdata, då är det enda vägen till de lägre divisionerna.
 - **Svenska Ishockeyförbundet:** inget öppet API. Schemasidorna är tillåtna. Fråga om ett dataavtal.

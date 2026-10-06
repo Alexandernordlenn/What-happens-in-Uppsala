@@ -1,0 +1,5 @@
+{
+  "_om": "Rättelser som går före källan och reglerna. Skrivs av Claude, aldrig för hand. Nycklarna i 'poster' är källpostens id, till exempel bibliotek-<uuid> eller kubik-<slug>. 'monster' gäller titlar som matchar ett reguljärt uttryck. { \"dolj\": true } tar bort ett evenemang från sidan, till exempel på begäran (inom 24 timmar, se integritet.html). Se scripts/gemensamt/klassa.mjs.",
+  "poster": {},
+  "monster": []
+}

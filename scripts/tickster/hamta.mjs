@@ -7,12 +7,18 @@
 // 2. Läser evenemangets egen sida för exakt tid och plats, men bara för
 //    evenemang vi inte har sett förut. Det vi läst sparas i data/cache/.
 //
-// Tillfällig lösning tills vi får en API-nyckel från Tickster.
+// Finns hemligheten TICKSTER_API_KEY används Ticksters officiella API i
+// stället (api.mjs): dumpen som grund och Event API för den närmaste veckan.
+// Svarar inte API:et används webbsidorna som reserv. Loggen säger vilken väg
+// som användes. Nyckeln skrivs aldrig ut.
 
 import { mkdir, readFile, writeFile } from "node:fs/promises";
-import { hamta } from "../gemensamt/webb.mjs";
+import { gunzipSync } from "node:zlib";
+import { hamta, USER_AGENT } from "../gemensamt/webb.mjs";
 import { sparaKalla, kor } from "../gemensamt/spara.mjs";
 import { KALLA, ORTER, antalTraffar, iKommunen, lasEvenemangssida, lasLista, tillEvenemang } from "./regler.mjs";
+import { DUMP, SOK, slaSamman, tolkaDump, tolkaSok, vantetid } from "./api.mjs";
+import { sparaKalltext } from "../gemensamt/kalltext.mjs";
 
 const CACHE = "data/cache/tickster.json";
 const PER_SIDA = 100; // Mer än så ger Tickster inte per sida.
@@ -75,7 +81,58 @@ async function hamtaOrt(ort) {
   return brickor;
 }
 
-async function main() {
+// ---------- API-vägen ----------
+
+const idagISverige = () => new Intl.DateTimeFormat("sv-SE", { timeZone: "Europe/Stockholm" }).format(new Date());
+const plusDagar = (dag, n) => new Date(Date.parse(`${dag}T12:00:00Z`) + n * 86400000).toISOString().slice(0, 10);
+
+// Vanlig fetch, så att adressen med nyckeln aldrig skrivs i loggen.
+async function apiAnrop(adress, rubriker = {}) {
+  const svar = await fetch(adress, { headers: { "User-Agent": USER_AGENT, Accept: "application/json", ...rubriker } });
+  const vanta_ms = vantetid(svar.headers);
+  if (vanta_ms) {
+    console.log(`Tickster ber oss vänta ${Math.round(vanta_ms / 1000)} sekunder (X-RATELIMIT).`);
+    await vanta(vanta_ms);
+  }
+  if (!svar.ok) throw new Error(`Tickster API svarade ${svar.status}`);
+  return svar;
+}
+
+async function hamtaFranApi(nyckel) {
+  const idag = idagISverige();
+  // 1. Dumpen med hela utbudet.
+  const info = await (await apiAnrop(DUMP(nyckel))).json();
+  const fil = Buffer.from(await (await apiAnrop(info.uri)).arrayBuffer());
+  const dump = JSON.parse((fil[0] === 0x1f && fil[1] === 0x8b ? gunzipSync(fil) : fil).toString("utf8"));
+  const franDump = tolkaDump(dump, idag);
+  console.log(`Tickster-dumpen (${info.id}): ${dump.events?.length ?? 0} evenemang i Sverige, ${franDump.length} i Uppsala kommun.`);
+
+  // 2. Event API för den närmaste veckan, sökt per ort.
+  const sista = plusDagar(idag, 7);
+  const farska = [];
+  for (const ort of ORTER) {
+    for (let skip = 0; skip < 1000; skip += 100) {
+      const svar = await (await apiAnrop(SOK(ort, skip), { "x-api-key": nyckel })).json();
+      farska.push(...tolkaSok(svar, idag, sista));
+      if ((svar.items || []).length < 100) break;
+    }
+    await vanta(500);
+  }
+  console.log(`Tickster Event API: ${farska.length} evenemang de närmaste 7 dagarna.`);
+  const evenemang = slaSamman(franDump, farska);
+  // Beskrivningen läses bara tillfälligt, för AI-klassningen. Den sparas aldrig i repot.
+  await sparaKalltext(KALLA.id, Object.fromEntries((dump.events || []).map((ev) => [`tickster-${String(ev.id).toLowerCase()}`, typeof ev.description === "string" ? ev.description : ev.description?.markdown || ""])));
+  // Rådatan: dumpens poster i kommunen, utan beskrivningar, bilder, artister och priser.
+  const ids = new Set(evenemang.map((e) => e.id));
+  const radata = (dump.events || [])
+    .filter((ev) => ids.has(`tickster-${String(ev.id).toLowerCase()}`))
+    .map(({ description, imageUrl, performers, goods, links, ...resten }) => resten);
+  return { evenemang, radata };
+}
+
+// ---------- Webbsidorna (reserv) ----------
+
+async function hamtaFranWebben() {
   const allaBrickor = [];
   for (const ort of ORTER) allaBrickor.push(...(await hamtaOrt(ort)));
   // Samma evenemang kan dyka upp flera gånger, till exempel när listan ändras medan vi läser.
@@ -100,12 +157,32 @@ async function main() {
 
 
   const evenemang = brickor.filter((b) => iKommunen(nyCache[b.url])).map((b) => tillEvenemang(b, nyCache[b.url]));
-  await sparaKalla(KALLA, evenemang, brickor);
+  return { evenemang, radata: brickor, nyCache };
+}
+
+async function main() {
+  const nyckel = process.env.TICKSTER_API_KEY;
+  let resultat = null;
+  if (nyckel) {
+    try {
+      resultat = await hamtaFranApi(nyckel);
+      console.log("Väg: Ticksters API.");
+    } catch (fel) {
+      console.log(`::warning::Tickster API fungerade inte (${fel.message}). Läser webbsidorna i stället.`);
+    }
+  } else {
+    console.log("Ingen TICKSTER_API_KEY. Väg: Ticksters webbsidor.");
+  }
+  if (!resultat) resultat = await hamtaFranWebben();
+
+  const sparad = await sparaKalla(KALLA, resultat.evenemang, resultat.radata);
 
   // Minnesfilen sparas först när allt annat har lyckats. Om källan gav noll
   // evenemang stoppar sparaKalla körningen, och då ska minnet inte skrivas över.
+  // Behölls gårdagens fil (för få evenemang) behålls också gårdagens minne.
+  if (!sparad || !resultat.nyCache) return;
   await mkdir("data/cache", { recursive: true });
-  await writeFile(CACHE, JSON.stringify(nyCache, null, 2) + "\n");
+  await writeFile(CACHE, JSON.stringify(resultat.nyCache, null, 2) + "\n");
 }
 
 kor(main);
