@@ -9,6 +9,8 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
 
 ## Nu
 
+- [ ] **Du:** Test med fem personer i oktober 2026, se `TEST.md` (välkomsttext och checklista). Ta bort testbanderollen när testet är slut.
+
 - [ ] **Du:** Skapa en token för Claude-prenumerationen, så att AI-klassningen kommer igång:
   1. Installera Claude Code på datorn och kör `claude setup-token`.
   2. Lägg in token som hemligheten `CLAUDE_CODE_OAUTH_TOKEN` (GitHub → *Settings* → *Secrets and variables* → *Actions*), eller kör `/install-github-app` i Claude Code.

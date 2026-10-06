@@ -322,12 +322,20 @@ a{color:var(--accent)}
 .switch[aria-checked="true"]{background:var(--accent)}
 .switch[aria-checked="true"]::after{transform:translateX(18px)}
 .nc{opacity:.75}
+.testbar{display:flex;align-items:flex-start;gap:10px;margin:12px 0 0;padding:10px 12px;border:1px solid color-mix(in srgb,var(--accent) 40%,transparent);background:color-mix(in srgb,var(--accent) 8%,var(--surface));border-radius:10px;font-size:.9rem}
+.testbar[hidden]{display:none}
+.testbar p{margin:0;flex:1;min-width:0}
+.testclose{flex:0 0 auto;border:0;background:transparent;width:32px;height:32px;margin:-6px -6px 0 0;border-radius:8px;color:var(--muted);font-size:1rem}
 footer{margin:48px 0 40px;padding-top:16px;border-top:1px solid var(--line);font-size:.85rem;color:var(--muted);max-width:70ch}
 footer p{margin:0 0 8px}
 </style>
 </head>
 <body>
 <div class="wrap">
+  <div class="testbar" id="testbar" role="note" hidden>
+    <p><b>Testversion.</b> Tack för att du testar! Saknar du något, eller krånglar något? Berätta det för Alexander, gärna med en skärmbild.</p>
+    <button class="testclose" id="testclose" aria-label="Stäng meddelandet om testversionen">✕</button>
+  </div>
   <header class="top">
     <div>
       <div class="brand"><span class="brand-mark" aria-hidden="true"><i style="height:8px"></i><i style="height:14px"></i><i style="height:18px"></i><i style="height:11px"></i></span>Uppsala just nu</div>
@@ -1116,6 +1124,10 @@ document.addEventListener("keydown",function(ev){
   if(ev.key==="Escape" && $("drawer").classList.contains("on")) closeDrawer();
   if((ev.key==="Enter"||ev.key===" ") && ev.target.classList && ev.target.classList.contains("sg")){ ev.preventDefault(); showEvent(ev.target.dataset.open); }
 });
+/* Testversion: meddelandet kan stängas och kommer ihåg det i den här webbläsaren. */
+var TKEY="ujn-testbar-v1";
+try{ if(localStorage.getItem(TKEY)!=="stangd") $("testbar").hidden=false; }catch(err){ $("testbar").hidden=false; }
+$("testclose").addEventListener("click",function(){ $("testbar").hidden=true; try{ localStorage.setItem(TKEY,"stangd"); }catch(err){} });
 var qt; $("q").addEventListener("input",function(ev){ clearTimeout(qt); qt=setTimeout(function(){ st.q=ev.target.value; render(); },120); });
 
 /* ---------- Riktig data ----------
