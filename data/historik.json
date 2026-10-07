@@ -1,0 +1,110 @@
+{
+  "stadsteatern": {
+    "antal": [
+      {
+        "datum": "tidigare",
+        "antal": 186
+      },
+      {
+        "datum": "2026-10-07",
+        "antal": 185
+      }
+    ],
+    "dagarBehallen": 0,
+    "senaste": {
+      "datum": "2026-10-07",
+      "antal": 185,
+      "status": "ok"
+    }
+  },
+  "destination-uppsala": {
+    "antal": [
+      {
+        "datum": "tidigare",
+        "antal": 112
+      },
+      {
+        "datum": "2026-10-07",
+        "antal": 85
+      }
+    ],
+    "dagarBehallen": 0,
+    "senaste": {
+      "datum": "2026-10-07",
+      "antal": 85,
+      "status": "ok"
+    }
+  },
+  "tickster": {
+    "antal": [
+      {
+        "datum": "tidigare",
+        "antal": 347
+      },
+      {
+        "datum": "2026-10-07",
+        "antal": 347
+      }
+    ],
+    "dagarBehallen": 0,
+    "senaste": {
+      "datum": "2026-10-07",
+      "antal": 347,
+      "status": "ok"
+    }
+  },
+  "heja": {
+    "antal": [
+      {
+        "datum": "tidigare",
+        "antal": 457
+      },
+      {
+        "datum": "2026-10-07",
+        "antal": 456
+      }
+    ],
+    "dagarBehallen": 0,
+    "senaste": {
+      "datum": "2026-10-07",
+      "antal": 456,
+      "status": "ok"
+    }
+  },
+  "kubik": {
+    "antal": [
+      {
+        "datum": "tidigare",
+        "antal": 284
+      },
+      {
+        "datum": "2026-10-07",
+        "antal": 284
+      }
+    ],
+    "dagarBehallen": 0,
+    "senaste": {
+      "datum": "2026-10-07",
+      "antal": 284,
+      "status": "ok"
+    }
+  },
+  "sport": {
+    "antal": [
+      {
+        "datum": "tidigare",
+        "antal": 144
+      },
+      {
+        "datum": "2026-10-07",
+        "antal": 144
+      }
+    ],
+    "dagarBehallen": 0,
+    "senaste": {
+      "datum": "2026-10-07",
+      "antal": 144,
+      "status": "ok"
+    }
+  }
+}

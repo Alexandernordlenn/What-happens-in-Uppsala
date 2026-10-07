@@ -1,0 +1,156 @@
+{
+  "uppdaterad": "2026-10-07T04:38:17.941Z",
+  "antalMatcherIUppsala": 144,
+  "lag": [
+    {
+      "lag": "IK Sirius",
+      "sport": "Fotboll",
+      "kon": "herr",
+      "niva": 1,
+      "liga": "Allsvenskan",
+      "antal": 4,
+      "hemmamatcher30": 3,
+      "iSasong": true
+    },
+    {
+      "lag": "IK Uppsala",
+      "sport": "Fotboll",
+      "kon": "dam",
+      "niva": 1,
+      "liga": "OBOS Damallsvenskan",
+      "antal": 3,
+      "hemmamatcher30": 2,
+      "iSasong": true
+    },
+    {
+      "lag": "Gamla Upsala SK",
+      "sport": "Fotboll",
+      "kon": "dam",
+      "niva": 2,
+      "liga": "Elitettan",
+      "antal": 2,
+      "hemmamatcher30": 1,
+      "iSasong": true
+    },
+    {
+      "lag": "Almtuna IS",
+      "sport": "Ishockey",
+      "kon": "herr",
+      "niva": 2,
+      "liga": "HockeyAllsvenskan",
+      "antal": 23,
+      "hemmamatcher30": 6,
+      "iSasong": true
+    },
+    {
+      "lag": "Storvreta IBK",
+      "sport": "Innebandy",
+      "kon": "herr",
+      "niva": 1,
+      "liga": "SSL herr",
+      "antal": 10,
+      "hemmamatcher30": 1,
+      "iSasong": true
+    },
+    {
+      "lag": "Storvreta IBK dam",
+      "sport": "Innebandy",
+      "kon": "dam",
+      "niva": 1,
+      "liga": "SSL dam",
+      "antal": 12,
+      "hemmamatcher30": 3,
+      "iSasong": true
+    },
+    {
+      "lag": "IK Sirius bandy",
+      "sport": "Bandy",
+      "kon": "herr",
+      "niva": 1,
+      "liga": "Elitserien herr",
+      "antal": 7,
+      "hemmamatcher30": 1,
+      "iSasong": true
+    },
+    {
+      "lag": "IK Sirius bandy dam",
+      "sport": "Bandy",
+      "kon": "dam",
+      "niva": 2,
+      "liga": "Allsvenskan dam",
+      "antal": 8,
+      "hemmamatcher30": 1,
+      "iSasong": false
+    },
+    {
+      "lag": "Uppsala BoIS dam",
+      "sport": "Bandy",
+      "kon": "dam",
+      "niva": 2,
+      "liga": "Allsvenskan dam",
+      "antal": 8,
+      "hemmamatcher30": 1,
+      "iSasong": false
+    },
+    {
+      "lag": "Uppsala Basket",
+      "sport": "Basket",
+      "kon": "herr",
+      "niva": 1,
+      "liga": "Basketligan herr",
+      "antal": 17,
+      "hemmamatcher30": 2,
+      "iSasong": true
+    },
+    {
+      "lag": "Sloga Uppsala",
+      "sport": "Basket",
+      "kon": "herr",
+      "niva": 1,
+      "liga": "Basketligan herr",
+      "antal": 17,
+      "hemmamatcher30": 3,
+      "iSasong": true
+    },
+    {
+      "lag": "Uppsala Basket dam",
+      "sport": "Basket",
+      "kon": "dam",
+      "niva": 1,
+      "liga": "Basketligan dam",
+      "antal": 10,
+      "hemmamatcher30": 2,
+      "iSasong": true
+    },
+    {
+      "lag": "Uppsala HK",
+      "sport": "Handboll",
+      "kon": "herr",
+      "niva": 3,
+      "liga": "Herr 1",
+      "antal": 10,
+      "hemmamatcher30": 1,
+      "iSasong": true
+    },
+    {
+      "lag": "Uppsala VBS",
+      "sport": "Volleyboll",
+      "kon": "herr",
+      "niva": 1,
+      "liga": "Elitserien herr",
+      "antal": 10,
+      "hemmamatcher30": 1,
+      "iSasong": true
+    },
+    {
+      "lag": "Uppsala VBS dam",
+      "sport": "Volleyboll",
+      "kon": "dam",
+      "niva": 3,
+      "liga": "Division 1 dam",
+      "antal": 8,
+      "hemmamatcher30": 2,
+      "iSasong": true
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-06T06:45:44.667Z",
+  "hamtad": "2026-10-07T04:38:17.931Z",
   "antal": 144,
   "evenemang": [
     {
@@ -16,7 +16,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL dam",
+      "sport": "Innebandy",
+      "liga": "SSL dam",
       "kallor": [
         {
           "id": "sport",
@@ -39,12 +40,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -62,7 +65,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -85,7 +89,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Division 1 dam",
+      "sport": "Volleyboll",
+      "liga": "Division 1 dam",
       "kallor": [
         {
           "id": "sport",
@@ -108,7 +113,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL dam",
+      "sport": "Innebandy",
+      "liga": "SSL dam",
       "kallor": [
         {
           "id": "sport",
@@ -131,12 +137,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -154,7 +162,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -177,12 +186,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -200,7 +211,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Fotboll, OBOS Damallsvenskan",
+      "sport": "Fotboll",
+      "liga": "OBOS Damallsvenskan",
       "kallor": [
         {
           "id": "sport",
@@ -223,7 +235,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan dam",
+      "sport": "Basket",
+      "liga": "Basketligan dam",
       "kallor": [
         {
           "id": "sport",
@@ -246,12 +259,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Fotboll, Allsvenskan",
+      "sport": "Fotboll",
+      "liga": "Allsvenskan",
       "kallor": [
         {
           "id": "sport",
-          "namn": "Allsvenskan",
-          "url": "https://allsvenskan.se/matcher"
+          "namn": "Svensk Elitfotboll",
+          "url": "https://allsvenskan.se/matcher",
+          "biljetter": "https://www.siriusfotboll.se/matchdag/biljetter/"
         }
       ],
       "langvarig": false,
@@ -269,12 +284,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -292,7 +309,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -315,7 +333,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Division 1 dam",
+      "sport": "Volleyboll",
+      "liga": "Division 1 dam",
       "kallor": [
         {
           "id": "sport",
@@ -338,12 +357,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Fotboll, Allsvenskan",
+      "sport": "Fotboll",
+      "liga": "Allsvenskan",
       "kallor": [
         {
           "id": "sport",
-          "namn": "Allsvenskan",
-          "url": "https://allsvenskan.se/matcher"
+          "namn": "Svensk Elitfotboll",
+          "url": "https://allsvenskan.se/matcher",
+          "biljetter": "https://www.siriusfotboll.se/matchdag/biljetter/"
         }
       ],
       "langvarig": false,
@@ -361,7 +382,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL herr",
+      "sport": "Innebandy",
+      "liga": "SSL herr",
       "kallor": [
         {
           "id": "sport",
@@ -384,7 +406,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan dam",
+      "sport": "Basket",
+      "liga": "Basketligan dam",
       "kallor": [
         {
           "id": "sport",
@@ -407,7 +430,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Handboll, Herr 1",
+      "sport": "Handboll",
+      "liga": "Herr 1",
       "kallor": [
         {
           "id": "sport",
@@ -430,7 +454,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Fotboll, Elitettan",
+      "sport": "Fotboll",
+      "liga": "Elitettan",
       "kallor": [
         {
           "id": "sport",
@@ -453,7 +478,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Elitserien herr",
+      "sport": "Volleyboll",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -476,12 +502,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -499,7 +527,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL dam",
+      "sport": "Innebandy",
+      "liga": "SSL dam",
       "kallor": [
         {
           "id": "sport",
@@ -522,7 +551,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Elitserien herr",
+      "sport": "Bandy",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -545,12 +575,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -568,7 +600,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -591,7 +624,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -614,7 +648,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Fotboll, OBOS Damallsvenskan",
+      "sport": "Fotboll",
+      "liga": "OBOS Damallsvenskan",
       "kallor": [
         {
           "id": "sport",
@@ -637,7 +672,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -660,12 +696,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Fotboll, Allsvenskan",
+      "sport": "Fotboll",
+      "liga": "Allsvenskan",
       "kallor": [
         {
           "id": "sport",
-          "namn": "Allsvenskan",
-          "url": "https://allsvenskan.se/matcher"
+          "namn": "Svensk Elitfotboll",
+          "url": "https://allsvenskan.se/matcher",
+          "biljetter": "https://www.siriusfotboll.se/matchdag/biljetter/"
         }
       ],
       "langvarig": false,
@@ -683,7 +721,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -706,7 +745,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Fotboll, Elitettan",
+      "sport": "Fotboll",
+      "liga": "Elitettan",
       "kallor": [
         {
           "id": "sport",
@@ -729,7 +769,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan dam",
+      "sport": "Basket",
+      "liga": "Basketligan dam",
       "kallor": [
         {
           "id": "sport",
@@ -752,7 +793,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -775,7 +817,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -798,7 +841,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -821,12 +865,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -844,7 +890,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Elitserien herr",
+      "sport": "Bandy",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -867,7 +914,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -890,7 +938,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Handboll, Herr 1",
+      "sport": "Handboll",
+      "liga": "Herr 1",
       "kallor": [
         {
           "id": "sport",
@@ -913,7 +962,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Division 1 dam",
+      "sport": "Volleyboll",
+      "liga": "Division 1 dam",
       "kallor": [
         {
           "id": "sport",
@@ -936,12 +986,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -959,7 +1011,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Fotboll, OBOS Damallsvenskan",
+      "sport": "Fotboll",
+      "liga": "OBOS Damallsvenskan",
       "kallor": [
         {
           "id": "sport",
@@ -982,7 +1035,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -1005,7 +1059,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -1028,7 +1083,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Elitserien herr",
+      "sport": "Volleyboll",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -1051,7 +1107,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL herr",
+      "sport": "Innebandy",
+      "liga": "SSL herr",
       "kallor": [
         {
           "id": "sport",
@@ -1074,12 +1131,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -1097,7 +1156,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL herr",
+      "sport": "Innebandy",
+      "liga": "SSL herr",
       "kallor": [
         {
           "id": "sport",
@@ -1120,7 +1180,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Elitserien herr",
+      "sport": "Bandy",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -1143,7 +1204,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Handboll, Herr 1",
+      "sport": "Handboll",
+      "liga": "Herr 1",
       "kallor": [
         {
           "id": "sport",
@@ -1166,12 +1228,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Fotboll, Allsvenskan",
+      "sport": "Fotboll",
+      "liga": "Allsvenskan",
       "kallor": [
         {
           "id": "sport",
-          "namn": "Allsvenskan",
-          "url": "https://allsvenskan.se/matcher"
+          "namn": "Svensk Elitfotboll",
+          "url": "https://allsvenskan.se/matcher",
+          "biljetter": "https://www.siriusfotboll.se/matchdag/biljetter/"
         }
       ],
       "langvarig": false,
@@ -1189,7 +1253,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -1212,7 +1277,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Elitserien herr",
+      "sport": "Volleyboll",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -1235,7 +1301,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -1258,7 +1325,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Elitserien herr",
+      "sport": "Bandy",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -1281,12 +1349,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -1304,7 +1374,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL dam",
+      "sport": "Innebandy",
+      "liga": "SSL dam",
       "kallor": [
         {
           "id": "sport",
@@ -1327,7 +1398,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Division 1 dam",
+      "sport": "Volleyboll",
+      "liga": "Division 1 dam",
       "kallor": [
         {
           "id": "sport",
@@ -1350,7 +1422,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan dam",
+      "sport": "Basket",
+      "liga": "Basketligan dam",
       "kallor": [
         {
           "id": "sport",
@@ -1373,7 +1446,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -1396,7 +1470,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Elitserien herr",
+      "sport": "Bandy",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -1419,12 +1494,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -1442,12 +1519,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -1465,7 +1544,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -1488,7 +1568,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Handboll, Herr 1",
+      "sport": "Handboll",
+      "liga": "Herr 1",
       "kallor": [
         {
           "id": "sport",
@@ -1511,7 +1592,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -1534,7 +1616,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -1557,12 +1640,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -1580,7 +1665,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Elitserien herr",
+      "sport": "Bandy",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -1603,7 +1689,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -1626,7 +1713,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -1649,7 +1737,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Elitserien herr",
+      "sport": "Volleyboll",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -1672,7 +1761,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan dam",
+      "sport": "Basket",
+      "liga": "Basketligan dam",
       "kallor": [
         {
           "id": "sport",
@@ -1695,12 +1785,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -1718,7 +1810,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL dam",
+      "sport": "Innebandy",
+      "liga": "SSL dam",
       "kallor": [
         {
           "id": "sport",
@@ -1741,7 +1834,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Handboll, Herr 1",
+      "sport": "Handboll",
+      "liga": "Herr 1",
       "kallor": [
         {
           "id": "sport",
@@ -1764,7 +1858,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -1787,7 +1882,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -1810,7 +1906,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Elitserien herr",
+      "sport": "Volleyboll",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -1833,7 +1930,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Elitserien herr",
+      "sport": "Bandy",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -1856,12 +1954,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -1879,7 +1979,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -1902,7 +2003,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -1925,7 +2027,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL herr",
+      "sport": "Innebandy",
+      "liga": "SSL herr",
       "kallor": [
         {
           "id": "sport",
@@ -1948,7 +2051,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -1971,12 +2075,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -1994,7 +2100,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL dam",
+      "sport": "Innebandy",
+      "liga": "SSL dam",
       "kallor": [
         {
           "id": "sport",
@@ -2017,7 +2124,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan dam",
+      "sport": "Basket",
+      "liga": "Basketligan dam",
       "kallor": [
         {
           "id": "sport",
@@ -2040,7 +2148,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -2063,7 +2172,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -2086,7 +2196,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL herr",
+      "sport": "Innebandy",
+      "liga": "SSL herr",
       "kallor": [
         {
           "id": "sport",
@@ -2109,7 +2220,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Elitserien herr",
+      "sport": "Volleyboll",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -2132,7 +2244,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -2155,7 +2268,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL dam",
+      "sport": "Innebandy",
+      "liga": "SSL dam",
       "kallor": [
         {
           "id": "sport",
@@ -2178,12 +2292,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -2201,7 +2317,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Handboll, Herr 1",
+      "sport": "Handboll",
+      "liga": "Herr 1",
       "kallor": [
         {
           "id": "sport",
@@ -2224,7 +2341,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -2247,7 +2365,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -2270,12 +2389,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -2293,7 +2414,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -2316,7 +2438,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -2339,12 +2462,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -2362,7 +2487,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL dam",
+      "sport": "Innebandy",
+      "liga": "SSL dam",
       "kallor": [
         {
           "id": "sport",
@@ -2385,7 +2511,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan dam",
+      "sport": "Basket",
+      "liga": "Basketligan dam",
       "kallor": [
         {
           "id": "sport",
@@ -2408,7 +2535,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Handboll, Herr 1",
+      "sport": "Handboll",
+      "liga": "Herr 1",
       "kallor": [
         {
           "id": "sport",
@@ -2431,7 +2559,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Division 1 dam",
+      "sport": "Volleyboll",
+      "liga": "Division 1 dam",
       "kallor": [
         {
           "id": "sport",
@@ -2454,7 +2583,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Elitserien herr",
+      "sport": "Volleyboll",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -2477,12 +2607,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -2500,7 +2632,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL herr",
+      "sport": "Innebandy",
+      "liga": "SSL herr",
       "kallor": [
         {
           "id": "sport",
@@ -2523,7 +2656,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -2546,7 +2680,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -2569,7 +2704,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -2592,7 +2728,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -2615,7 +2752,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Elitserien herr",
+      "sport": "Volleyboll",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -2638,7 +2776,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -2661,7 +2800,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Division 1 dam",
+      "sport": "Volleyboll",
+      "liga": "Division 1 dam",
       "kallor": [
         {
           "id": "sport",
@@ -2684,7 +2824,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -2707,7 +2848,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL dam",
+      "sport": "Innebandy",
+      "liga": "SSL dam",
       "kallor": [
         {
           "id": "sport",
@@ -2730,7 +2872,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL herr",
+      "sport": "Innebandy",
+      "liga": "SSL herr",
       "kallor": [
         {
           "id": "sport",
@@ -2753,7 +2896,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Handboll, Herr 1",
+      "sport": "Handboll",
+      "liga": "Herr 1",
       "kallor": [
         {
           "id": "sport",
@@ -2776,12 +2920,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -2799,7 +2945,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan dam",
+      "sport": "Basket",
+      "liga": "Basketligan dam",
       "kallor": [
         {
           "id": "sport",
@@ -2822,7 +2969,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Bandy, Allsvenskan dam",
+      "sport": "Bandy",
+      "liga": "Allsvenskan dam",
       "kallor": [
         {
           "id": "sport",
@@ -2845,7 +2993,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Elitserien herr",
+      "sport": "Volleyboll",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -2868,12 +3017,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -2891,7 +3042,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL herr",
+      "sport": "Innebandy",
+      "liga": "SSL herr",
       "kallor": [
         {
           "id": "sport",
@@ -2914,7 +3066,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Division 1 dam",
+      "sport": "Volleyboll",
+      "liga": "Division 1 dam",
       "kallor": [
         {
           "id": "sport",
@@ -2937,7 +3090,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Elitserien herr",
+      "sport": "Volleyboll",
+      "liga": "Elitserien herr",
       "kallor": [
         {
           "id": "sport",
@@ -2960,12 +3114,14 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Ishockey, HockeyAllsvenskan",
+      "sport": "Ishockey",
+      "liga": "HockeyAllsvenskan",
       "kallor": [
         {
           "id": "sport",
           "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962"
+          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
+          "biljetter": "https://www.almtuna.com/biljettinformation"
         }
       ],
       "langvarig": false,
@@ -2983,7 +3139,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -3006,7 +3163,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Handboll, Herr 1",
+      "sport": "Handboll",
+      "liga": "Herr 1",
       "kallor": [
         {
           "id": "sport",
@@ -3029,7 +3187,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL dam",
+      "sport": "Innebandy",
+      "liga": "SSL dam",
       "kallor": [
         {
           "id": "sport",
@@ -3052,7 +3211,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan dam",
+      "sport": "Basket",
+      "liga": "Basketligan dam",
       "kallor": [
         {
           "id": "sport",
@@ -3075,7 +3235,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -3098,7 +3259,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Volleyboll, Division 1 dam",
+      "sport": "Volleyboll",
+      "liga": "Division 1 dam",
       "kallor": [
         {
           "id": "sport",
@@ -3121,7 +3283,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL herr",
+      "sport": "Innebandy",
+      "liga": "SSL herr",
       "kallor": [
         {
           "id": "sport",
@@ -3144,7 +3307,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -3167,7 +3331,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -3190,7 +3355,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Handboll, Herr 1",
+      "sport": "Handboll",
+      "liga": "Herr 1",
       "kallor": [
         {
           "id": "sport",
@@ -3213,7 +3379,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan herr",
+      "sport": "Basket",
+      "liga": "Basketligan herr",
       "kallor": [
         {
           "id": "sport",
@@ -3236,7 +3403,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL dam",
+      "sport": "Innebandy",
+      "liga": "SSL dam",
       "kallor": [
         {
           "id": "sport",
@@ -3259,7 +3427,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Basket, Basketligan dam",
+      "sport": "Basket",
+      "liga": "Basketligan dam",
       "kallor": [
         {
           "id": "sport",
@@ -3282,7 +3451,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL herr",
+      "sport": "Innebandy",
+      "liga": "SSL herr",
       "kallor": [
         {
           "id": "sport",
@@ -3305,7 +3475,8 @@
       "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
-      "notering": "Innebandy, SSL dam",
+      "sport": "Innebandy",
+      "liga": "SSL dam",
       "kallor": [
         {
           "id": "sport",

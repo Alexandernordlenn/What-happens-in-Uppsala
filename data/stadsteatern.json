@@ -1,34 +1,9 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-10-06T06:41:02.692Z",
-  "antal": 186,
+  "hamtad": "2026-10-07T04:30:28.569Z",
+  "antal": 185,
   "evenemang": [
-    {
-      "id": "stadsteatern-129544",
-      "titel": "Sommar",
-      "start": "2026-10-06T12:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Intiman"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Lunchföreställning",
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/sommar-2/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30895/129544/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "stadsteatern-126003",
       "titel": "Bara två stjärnor",
@@ -90,7 +65,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
-      "notering": "Lunchföreställning",
+      "notering": "Lunchföreställning, Få biljetter kvar",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -476,7 +451,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
-      "notering": "Genrep",
+      "notering": "Genrep, Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -1054,6 +1029,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
       "kallor": [
         {
           "id": "stadsteatern",

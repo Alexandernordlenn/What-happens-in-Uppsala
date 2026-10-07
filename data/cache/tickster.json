@@ -1,24 +1,4 @@
 {
-  "https://www.tickster.com/se/sv/events/v9103ug80ax09zz/2026-10-06/tess-liautaud-klubb-uffe": {
-    "titel": "Tess Liautaud - Klubb Uffe",
-    "start": "2026-10-06T20:00:00",
-    "slut": "2026-10-06T23:00:00",
-    "platsId": "08109wbnt3jawkn",
-    "plats": "Katalin, Uppsala",
-    "ort": "Uppsala",
-    "lat": 59.8621,
-    "lng": 17.6523,
-    "taggar": [
-      "katalinsbakficka",
-      "katalinuppsala",
-      "katalinandallthatjazz"
-    ],
-    "arrangorId": "nbgw5rza2z1e9xu",
-    "arrangor": "Katalin",
-    "kop": "https://secure.tickster.com/sv/v9103ug80ax09zz",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/z8bxwlz639kddy0/2026-10-07/cd-release-med-swingin-uppsala": {
     "titel": "CD – release med Swingin´Uppsala",
     "start": "2026-10-07T19:30:00",
@@ -6050,6 +6030,33 @@
     "kop": "https://secure.tickster.com/sv/1ea0pntuaudmv1a",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/etxbdmcpb133bwm/2027-02-19/svart-rida": {
+    "titel": "Svart Ridå",
+    "start": "2027-02-19T20:00:00",
+    "slut": "2027-02-19T22:00:00",
+    "platsId": "l0h5xlh16zztxwa",
+    "plats": "Katalin and all that Jazz",
+    "ort": "Uppsala",
+    "lat": 59.8595,
+    "lng": 17.6465,
+    "taggar": [
+      "katalinlive",
+      "uppsala",
+      "katalin",
+      "musik",
+      "konsert",
+      "kaliber live",
+      "svart ridå",
+      "rock",
+      "pop",
+      "luger"
+    ],
+    "arrangorId": "gf5dj34fjr9ddw5",
+    "arrangor": "Kaliber Live",
+    "kop": null,
+    "status": "",
+    "hamtad": "2026-10-07"
   },
   "https://www.tickster.com/se/sv/events/mjluje9u10d70ll/2027-02-20/tourbjorn-med-torbjorn-averas-skorup": {
     "titel": "Tourbjörn – Med Torbjörn Averås Skorup",

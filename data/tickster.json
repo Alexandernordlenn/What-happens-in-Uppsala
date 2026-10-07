@@ -1,34 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-06T06:42:29.551Z",
+  "hamtad": "2026-10-07T04:31:50.574Z",
   "antal": 347,
   "evenemang": [
-    {
-      "id": "tickster-v9103ug80ax09zz",
-      "titel": "Tess Liautaud - Klubb Uffe",
-      "start": "2026-10-06T20:00:00+02:00",
-      "slut": "2026-10-06T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/v9103ug80ax09zz/2026-10-06/tess-liautaud-klubb-uffe",
-          "biljetter": "https://secure.tickster.com/sv/v9103ug80ax09zz"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "tickster-z8bxwlz639kddy0",
       "titel": "CD – release med Swingin´Uppsala",
@@ -50,7 +25,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "swinginuppsala"
+        ]
+      }
     },
     {
       "id": "tickster-nnl2v30w28b73x3",
@@ -138,7 +127,7 @@
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "musik",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -163,7 +152,7 @@
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "musik",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -225,7 +214,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uigf",
+          "jazz",
+          "pop",
+          "rock",
+          "akustiskt",
+          "musik",
+          "konsert",
+          "live",
+          "uppsala"
+        ]
+      }
     },
     {
       "id": "tickster-9ubdj8rhd80rk5p",
@@ -286,7 +289,7 @@
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "musik",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -311,7 +314,7 @@
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "musik",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -411,7 +414,7 @@
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "musik",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -436,7 +439,7 @@
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "musik",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -461,7 +464,7 @@
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "musik",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -486,7 +489,7 @@
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "musik",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -511,7 +514,7 @@
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "musik",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -536,7 +539,7 @@
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "musik",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -621,7 +624,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "ebbot lundberg"
+        ]
+      }
     },
     {
       "id": "tickster-yx51gwzep532tpz",
@@ -646,7 +663,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinuppsala",
+          "katalinandallthatjazz",
+          "katalinsbakficka"
+        ]
+      }
     },
     {
       "id": "tickster-6pd5rvmbl5nzcdb",
@@ -684,7 +708,7 @@
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "musik",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -709,7 +733,7 @@
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "musik",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -734,7 +758,7 @@
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "musik",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -946,7 +970,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinuppsala",
+          "katalinandallthatjazz",
+          "katalinsbakficka"
+        ]
+      }
     },
     {
       "id": "tickster-ypzhmyrp2lk94n3",
@@ -971,7 +1002,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "the plan",
+          "pop",
+          "indie",
+          "party"
+        ]
+      }
     },
     {
       "id": "tickster-jf3wbnaju0pplyp",
@@ -1045,7 +1090,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "dans"
+        ]
+      }
     },
     {
       "id": "tickster-z9984pj83525c5g",
@@ -1071,7 +1121,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-xwauav7w4pfer94",
@@ -1094,7 +1149,19 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "the kaliber room",
+          "united stage",
+          "pop",
+          "uppsala",
+          "konsert",
+          "live",
+          "musik",
+          "grommet"
+        ]
+      }
     },
     {
       "id": "tickster-1bwkmw8mwe8hf28",
@@ -1120,7 +1187,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-aag1b4vb7uk2a9y",
@@ -1171,7 +1243,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "dans"
+        ]
+      }
     },
     {
       "id": "tickster-8e944nma96u313y",
@@ -1196,7 +1273,20 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "live",
+          "the animals",
+          "pop",
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-wyybha8epcf0djz",
@@ -1221,7 +1311,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsbakficka",
+          "katalinuppsala",
+          "katalinandallthatjazz"
+        ]
+      }
     },
     {
       "id": "tickster-w3dlm59l15b1r1d",
@@ -1246,7 +1343,12 @@
         }
       ],
       "langvarig": true,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "torsdagskul"
+        ]
+      }
     },
     {
       "id": "tickster-ftdgtxyxwpg2c9t",
@@ -1365,7 +1467,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsjazzbar",
+          "hermansilow",
+          "allthingslive",
+          "isabellalundgren",
+          "katalinsbakficka"
+        ]
+      }
     },
     {
       "id": "tickster-brx91kx4m2m78j8",
@@ -1390,7 +1501,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "stefan sundström",
+          "sista jäntan",
+          "visa",
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-arkclwmhj4vnm5e",
@@ -1416,7 +1541,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "tribute"
+        ]
+      }
     },
     {
       "id": "tickster-vaafnvzztkcnhnf",
@@ -1442,7 +1572,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik",
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-52m60v5lwl654yt",
@@ -1468,7 +1604,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jazz"
+        ]
+      }
     },
     {
       "id": "tickster-ecfx6c8gyw7bz89",
@@ -1493,7 +1634,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsjazzbar",
+          "katalinsbakficka",
+          "katalinuppsala"
+        ]
+      }
     },
     {
       "id": "tickster-zte6y43pbtbwtd3",
@@ -1518,7 +1666,19 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinuppsala",
+          "folkmusik",
+          "folkmusikfestival",
+          "fränder",
+          "frander",
+          "polenta",
+          "nickhart",
+          "tommoore"
+        ]
+      }
     },
     {
       "id": "tickster-6f7647r62ze0uw9",
@@ -1529,7 +1689,7 @@
         "namn": "Missionskyrkan",
         "id": "missionskyrkan"
       },
-      "kategori": "ovrigt",
+      "kategori": "musik",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1564,7 +1724,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "martin sjöstedt  erik tengholm"
+        ]
+      }
     },
     {
       "id": "tickster-mkk703b1mmulwez",
@@ -1614,7 +1788,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "genesis",
+          "rock",
+          "progg",
+          "progressiv rock"
+        ]
+      }
     },
     {
       "id": "tickster-ezmb91pndt3jjeg",
@@ -1650,7 +1838,7 @@
         "lat": 59.8542,
         "lng": 17.6351
       },
-      "kategori": "museum",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": true,
       "kallor": [
@@ -1762,7 +1950,19 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "teddybears",
+          "luger"
+        ]
+      }
     },
     {
       "id": "tickster-9gd1pwwyfc50fwh",
@@ -1788,7 +1988,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "samhälle"
+        ]
+      }
     },
     {
       "id": "tickster-x2bg4aml16va1p2",
@@ -1814,7 +2019,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "samhälle"
+        ]
+      }
     },
     {
       "id": "tickster-rwau01hbcanpumf",
@@ -1840,7 +2050,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik",
+          "jazz"
+        ]
+      }
     },
     {
       "id": "tickster-dkp90bnexze4avh",
@@ -1865,7 +2081,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "teddybears",
+          "luger",
+          "pop",
+          "indie"
+        ]
+      }
     },
     {
       "id": "tickster-k47htwfae7c199n",
@@ -1890,7 +2120,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsbakficka",
+          "katalinuppsala",
+          "katalinandallthatjazz"
+        ]
+      }
     },
     {
       "id": "tickster-pzpu05af5up0abf",
@@ -1913,7 +2150,17 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "uppsala",
+          "flustret",
+          "nattklubb",
+          "fest",
+          "halloween",
+          "15fest"
+        ]
+      }
     },
     {
       "id": "tickster-544l30392u0ergz",
@@ -1938,7 +2185,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinandallthatjazz",
+          "katalinuppsala",
+          "katalinsbakficka",
+          "långbacka",
+          "badegård"
+        ]
+      }
     },
     {
       "id": "tickster-78c1lm096awzf3h",
@@ -1963,7 +2219,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "sara parkman",
+          "indie",
+          "folkmusik",
+          "luger"
+        ]
+      }
     },
     {
       "id": "tickster-hkp07hwp8kt2uuj",
@@ -1989,7 +2259,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "samtal"
+        ]
+      }
     },
     {
       "id": "tickster-c8m8w11rjd7nzgt",
@@ -2015,7 +2290,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "samhälle"
+        ]
+      }
     },
     {
       "id": "tickster-1phnynvyr0mm2m6",
@@ -2066,7 +2346,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-y4hj8v8yb4regmn",
@@ -2140,7 +2425,15 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinandallthatjazz",
+          "katalinuppsala",
+          "katalinsbakficka",
+          "daniellemma"
+        ]
+      }
     },
     {
       "id": "tickster-vhfnpvybld9u485",
@@ -2165,7 +2458,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "uppsala",
+          "ölprovning",
+          "presentkort",
+          "öl",
+          "bryggeri"
+        ]
+      }
     },
     {
       "id": "tickster-5frhmajdlzeczrn",
@@ -2191,7 +2493,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-b0chlt6hexgl88f",
@@ -2216,7 +2523,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "jlt",
+          "rock",
+          "rockabilly",
+          "john lindberg trio"
+        ]
+      }
     },
     {
       "id": "tickster-9fbean9vkvf067t",
@@ -2242,7 +2563,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jazz"
+        ]
+      }
     },
     {
       "id": "tickster-td1cb3vtathfecf",
@@ -2265,7 +2591,15 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "studentfesternauppsala",
+          "studentfesterna",
+          "flustret",
+          "hemlig"
+        ]
+      }
     },
     {
       "id": "tickster-dm6vj49lppufeny",
@@ -2291,7 +2625,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt",
+          "barn"
+        ]
+      }
     },
     {
       "id": "tickster-5nf0y16rwfey5rh",
@@ -2340,7 +2680,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-bypgrad8gx7we6p",
@@ -2363,7 +2708,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "martin sjöstedt  erik tengholm"
+        ]
+      }
     },
     {
       "id": "tickster-bmguyl82vulwk50",
@@ -2389,7 +2748,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-b63jvll7p4jt96y",
@@ -2414,7 +2778,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "william sundman sääf",
+          "unitedstage",
+          "pop",
+          "visa"
+        ]
+      }
     },
     {
       "id": "tickster-3bbzjjufl8y1g93",
@@ -2463,7 +2841,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-c5r5fel0an6cdww",
@@ -2512,7 +2895,18 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "the kaliber room",
+          "occrasy",
+          "luger",
+          "rock",
+          "konsert",
+          "musik",
+          "live"
+        ]
+      }
     },
     {
       "id": "tickster-aufzakrk2jbh666",
@@ -2538,7 +2932,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-pd1ke8weme0fu4b",
@@ -2564,7 +2963,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt",
+          "barn"
+        ]
+      }
     },
     {
       "id": "tickster-9bx3v707y07f4nx",
@@ -2614,7 +3019,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "terra",
+          "luger",
+          "indie",
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-5k13eg4wze32f7l",
@@ -2639,7 +3058,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsjazzbar",
+          "katalinuppsala",
+          "katalinandallthatjazz",
+          "jonatanstenson",
+          "katalinsbakficka"
+        ]
+      }
     },
     {
       "id": "tickster-cxgnyurzvg8h3m9",
@@ -2711,7 +3139,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-wmbpfkx17ehr3pl",
@@ -2736,7 +3169,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinuppsala",
+          "katalinandallthatjazz",
+          "katalinsjazzbar"
+        ]
+      }
     },
     {
       "id": "tickster-l2ygdth812avj6e",
@@ -2761,7 +3201,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "terra",
+          "luger",
+          "indie",
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-l3leggvprmf3rf7",
@@ -2812,7 +3266,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn"
+        ]
+      }
     },
     {
       "id": "tickster-wke3m53wxa4blbj",
@@ -2838,7 +3297,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn"
+        ]
+      }
     },
     {
       "id": "tickster-n7ju6ftr5f2dkg9",
@@ -2864,7 +3328,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-4gyb5n9pxd40zvt",
@@ -2889,7 +3358,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "mwuana",
+          "luger",
+          "hip hop",
+          "rnb"
+        ]
+      }
     },
     {
       "id": "tickster-u51tcb05ahpfgth",
@@ -2914,7 +3397,15 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsbakficka",
+          "bakfickan",
+          "otto",
+          "katalinuppsala"
+        ]
+      }
     },
     {
       "id": "tickster-bdhxpyce6rxw2mr",
@@ -2937,7 +3428,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "flustret",
+          "uppsala",
+          "halloween"
+        ]
+      }
     },
     {
       "id": "tickster-rjd0dnh0e5x2kxj",
@@ -2962,7 +3460,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "folk"
+        ]
+      }
     },
     {
       "id": "tickster-pcb532krw06dp97",
@@ -3035,7 +3538,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "punk",
+          "marky ramone",
+          "ramones",
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-gg5dvg174ucyu11",
@@ -3060,7 +3577,15 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "bakfickan",
+          "halloween",
+          "katalinsbakficka",
+          "fatlizzy"
+        ]
+      }
     },
     {
       "id": "tickster-tjj3k405nml7l9p",
@@ -3098,7 +3623,7 @@
         "lat": 59.8542,
         "lng": 17.6351
       },
-      "kategori": "museum",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -3136,7 +3661,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn"
+        ]
+      }
     },
     {
       "id": "tickster-axfwrh6drhg7wa1",
@@ -3185,7 +3715,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-hay7utmctlpkd36",
@@ -3210,7 +3745,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "dungen",
+          "indie",
+          "luger",
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-lf9epdwruu0hwk5",
@@ -3235,7 +3784,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinuppsala",
+          "katalinandallthatjazz",
+          "katalinsbakficka"
+        ]
+      }
     },
     {
       "id": "tickster-e8yeczx8a5mjuw6",
@@ -3260,7 +3816,15 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsjazzbar",
+          "katalinlive",
+          "katalinandallthatjazz",
+          "katalin"
+        ]
+      }
     },
     {
       "id": "tickster-f0462pryj6lb4p7",
@@ -3285,7 +3849,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "hårdrock",
+          "unitedstage",
+          "hardcore superstar",
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-h3hznumbfldp6vm",
@@ -3310,7 +3888,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "jazz",
+          "kaliber",
+          "musik",
+          "konsert",
+          "live",
+          "björn yttling",
+          "yttlig jazz"
+        ]
+      }
     },
     {
       "id": "tickster-2wgafy94ywbvcn0",
@@ -3335,7 +3927,12 @@
         }
       ],
       "langvarig": true,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "torsdagskul"
+        ]
+      }
     },
     {
       "id": "tickster-fj41pzyh2bcfcvd",
@@ -3432,7 +4029,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-mlmuh0r4t1jnkxc",
@@ -3455,7 +4057,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "zilverzurfarn"
+        ]
+      }
     },
     {
       "id": "tickster-g51txflwbv7058x",
@@ -3506,7 +4122,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-z9kumevvuzjmk4y",
@@ -3532,7 +4153,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jazz"
+        ]
+      }
     },
     {
       "id": "tickster-j76ykfm0hjvh87g",
@@ -3557,7 +4183,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinuppsala",
+          "katalinsbakficka"
+        ]
+      }
     },
     {
       "id": "tickster-xjlxf97wkvpveh2",
@@ -3580,7 +4212,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "stina wollter"
+        ]
+      }
     },
     {
       "id": "tickster-bvlznwjvck3514f",
@@ -3605,7 +4251,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinuppsala",
+          "katalinsbakficka",
+          "phontrattarne"
+        ]
+      }
     },
     {
       "id": "tickster-6dzkvv97pc8he95",
@@ -3628,7 +4281,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "martin sjöstedt  erik tengholm"
+        ]
+      }
     },
     {
       "id": "tickster-2rlj361an8cvmb6",
@@ -3654,7 +4321,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-vvp6vcprfmc35g6",
@@ -3680,7 +4352,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-317cpfzb54vve17",
@@ -3705,7 +4382,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsbakficka",
+          "bakfickan",
+          "thedaytrippers"
+        ]
+      }
     },
     {
       "id": "tickster-4n9tyntpn3bh3pd",
@@ -3730,7 +4414,17 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "reggae",
+          "chezidek",
+          "rootsteppaz",
+          "lancy rankin",
+          "sound system",
+          "dub"
+        ]
+      }
     },
     {
       "id": "tickster-g1u3ek9f41t9ke7",
@@ -3756,7 +4450,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "punk",
+          "samhälle"
+        ]
+      }
     },
     {
       "id": "tickster-yfuurubx7e7c2ah",
@@ -3805,7 +4505,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-fncy478lctthnvj",
@@ -3881,7 +4586,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "rotting christ",
+          "metal",
+          "håtdrock",
+          "dösmetal"
+        ]
+      }
     },
     {
       "id": "tickster-3kpne7exwtlge3l",
@@ -3980,7 +4699,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-7m443cyl9c54uk1",
@@ -4030,7 +4754,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "gerd",
+          "luger",
+          "indie",
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-3jxaj917cyx9759",
@@ -4053,7 +4791,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "martin sjöstedt  erik tengholm"
+        ]
+      }
     },
     {
       "id": "tickster-hd0xp7td8k4554a",
@@ -4079,7 +4831,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-rmgj8y2mgvljcmb",
@@ -4104,7 +4861,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "les big byrd",
+          "inide",
+          "pop",
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-bl9nydw5a9xa9tm",
@@ -4129,7 +4900,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsbakficka",
+          "katalinuppsala",
+          "katalinandallthatjazz"
+        ]
+      }
     },
     {
       "id": "tickster-1a2xndbynpjnu71",
@@ -4152,7 +4930,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "mats öberg"
+        ]
+      }
     },
     {
       "id": "tickster-kr8mp1x0x3ftb6x",
@@ -4177,7 +4969,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "jonas lundqvist",
+          "pop",
+          "indie",
+          "live nation"
+        ]
+      }
     },
     {
       "id": "tickster-f7fxnztxa068avz",
@@ -4202,7 +5008,17 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalin",
+          "uppsala",
+          "stadup",
+          "dessi hietala",
+          "uppland",
+          "gästrikland"
+        ]
+      }
     },
     {
       "id": "tickster-jnzthcumj2pgct4",
@@ -4275,7 +5091,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "moonica mac",
+          "pop",
+          "indie",
+          "elektroniskt"
+        ]
+      }
     },
     {
       "id": "tickster-93lgrljfzgyhazj",
@@ -4300,7 +5130,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "moonica mac",
+          "indie",
+          "pop",
+          "elektroniskt"
+        ]
+      }
     },
     {
       "id": "tickster-6rd9lm2gtxk9ugn",
@@ -4326,7 +5170,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "samhälle"
+        ]
+      }
     },
     {
       "id": "tickster-w4ml1mwgut1xby1",
@@ -4375,7 +5224,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "dans"
+        ]
+      }
     },
     {
       "id": "tickster-n8zvr142drx3cya",
@@ -4401,7 +5255,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "folk"
+        ]
+      }
     },
     {
       "id": "tickster-jbxpthwt3hz4nv2",
@@ -4426,7 +5285,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "atomic swing",
+          "rock",
+          "pop",
+          "jubel"
+        ]
+      }
     },
     {
       "id": "tickster-uzkc89k7ez5zrn9",
@@ -4452,7 +5325,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "tribute"
+        ]
+      }
     },
     {
       "id": "tickster-w1fhg0kklbgwkv5",
@@ -4503,7 +5381,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinuppsala",
+          "katalinandallthatjazz",
+          "katalinsbakficka"
+        ]
+      }
     },
     {
       "id": "tickster-vtd7m1f2dbkb92e",
@@ -4528,7 +5413,20 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "hardline",
+          "rock",
+          "hårdrock"
+        ]
+      }
     },
     {
       "id": "tickster-p0f85rd2utcn7b5",
@@ -4553,7 +5451,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "pascal",
+          "headstomp",
+          "indie",
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-83a2gr80uxzaet2",
@@ -4579,7 +5491,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn"
+        ]
+      }
     },
     {
       "id": "tickster-zxtda4nfhuafn6t",
@@ -4605,7 +5522,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn"
+        ]
+      }
     },
     {
       "id": "tickster-th6r0ntr7lzp04e",
@@ -4631,7 +5553,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn"
+        ]
+      }
     },
     {
       "id": "tickster-dca4ve7tbt6fapc",
@@ -4654,7 +5581,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "aron"
+        ]
+      }
     },
     {
       "id": "tickster-r3bvjlc43u2zf45",
@@ -4680,7 +5621,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-lyteel2l67pdxfr",
@@ -4730,7 +5676,15 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinuppsala",
+          "katalinsjazzbar",
+          "katalinandallthatjazz",
+          "katalin"
+        ]
+      }
     },
     {
       "id": "tickster-tj424z35xyaz0w6",
@@ -4781,7 +5735,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-uj90utypjpun05a",
@@ -4807,7 +5766,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-rfc3uc9t99w1eh0",
@@ -4830,7 +5794,18 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "the kaliber room",
+          "musik",
+          "uppsala",
+          "konsert",
+          "pop",
+          "lovis",
+          "unitedstage"
+        ]
+      }
     },
     {
       "id": "tickster-dxfaf6fvbvyz4tz",
@@ -4855,7 +5830,15 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsjazzbar",
+          "katalinlive",
+          "katalinandallthatjazz",
+          "katalin"
+        ]
+      }
     },
     {
       "id": "tickster-bt0h780evxam345",
@@ -4903,7 +5886,12 @@
         }
       ],
       "langvarig": true,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "torsdagskul"
+        ]
+      }
     },
     {
       "id": "tickster-13v7ayry6hfx492",
@@ -4977,7 +5965,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-4wm772axpl1pc9n",
@@ -5025,7 +6018,17 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalin",
+          "uppsala",
+          "uppland",
+          "gästrikland",
+          "mia karlsson",
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-f2b1p11merey76h",
@@ -5050,7 +6053,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "den svenska björnstammen",
+          "unitedstage",
+          "pop",
+          "indie"
+        ]
+      }
     },
     {
       "id": "tickster-wxjdebfv4l3kght",
@@ -5076,7 +6093,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "samhälle"
+        ]
+      }
     },
     {
       "id": "tickster-p3r6wnt9aj2vb5t",
@@ -5101,7 +6123,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "uppsala",
+          "ölprovning",
+          "presentkort",
+          "öl",
+          "bryggeri"
+        ]
+      }
     },
     {
       "id": "tickster-ytny4jyvdvwcuun",
@@ -5126,7 +6157,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "uppsala",
+          "ölprovning",
+          "presentkort",
+          "öl",
+          "bryggeri"
+        ]
+      }
     },
     {
       "id": "tickster-dypwy88b3nyd7xl",
@@ -5151,7 +6191,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "den svenska björnstammen",
+          "unitedstage",
+          "pop",
+          "indie"
+        ]
+      }
     },
     {
       "id": "tickster-3adxb3zp82edf3r",
@@ -5176,7 +6230,18 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinuppsala",
+          "katalinlive",
+          "gustavz",
+          "gustavzorchester",
+          "jazz",
+          "katalinsjazz",
+          "katalinsjazzbar"
+        ]
+      }
     },
     {
       "id": "tickster-x8k0b610pnll0gp",
@@ -5202,7 +6267,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-4zmlk10e3xnlfj2",
@@ -5248,7 +6318,15 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "johannamoraeus",
+          "davidcarbe",
+          "malenaernman",
+          "grandlive"
+        ]
+      }
     },
     {
       "id": "tickster-tb2gnm1jzu5ph5v",
@@ -5271,7 +6349,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "martin sjöstedt  erik tengholm"
+        ]
+      }
     },
     {
       "id": "tickster-zj9z073x7lux5jm",
@@ -5296,7 +6388,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "maggie reilly",
+          "cutting crew trio",
+          "80s",
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-hnvxczyuh19axt4",
@@ -5321,7 +6427,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsjazzbar",
+          "katalinsbakficka",
+          "katalinuppsala"
+        ]
+      }
     },
     {
       "id": "tickster-944n6ccvvhv5hv4",
@@ -5344,7 +6457,15 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "flustret",
+          "nostalgiklubben",
+          "kulturnatten",
+          "uppsala"
+        ]
+      }
     },
     {
       "id": "tickster-uupp1n1az1tbb3y",
@@ -5395,7 +6516,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "dans"
+        ]
+      }
     },
     {
       "id": "tickster-4rrya293mdgu5xd",
@@ -5446,7 +6572,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsjazzbar",
+          "katalinsbakficka",
+          "katalinuppsala"
+        ]
+      }
     },
     {
       "id": "tickster-6654u6zlkw7y6m7",
@@ -5497,7 +6630,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-8g8b38tkxtlz0a8",
@@ -5522,7 +6660,20 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "jazz",
+          "julkonsert",
+          "mta",
+          "musik",
+          "konsert",
+          "amanda ginsburg"
+        ]
+      }
     },
     {
       "id": "tickster-x5x5dy9ab9a89jy",
@@ -5547,7 +6698,15 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "livetsorkester",
+          "katalinuppsala",
+          "katalinsbakficka",
+          "livetnord"
+        ]
+      }
     },
     {
       "id": "tickster-74b9bpdvmg68pl8",
@@ -5573,7 +6732,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "samtal"
+        ]
+      }
     },
     {
       "id": "tickster-pdngmntpcm5ftrb",
@@ -5624,7 +6788,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "fröken elvis jul",
+          "mta",
+          "julkonsert",
+          "jul",
+          "musik",
+          "konsert",
+          "live"
+        ]
+      }
     },
     {
       "id": "tickster-m1yg424yr7bkpeh",
@@ -5650,7 +6828,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jul"
+        ]
+      }
     },
     {
       "id": "tickster-wvbb07338wr1fzt",
@@ -5675,7 +6858,18 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalin",
+          "uppsala",
+          "uppland",
+          "gästrikland",
+          "musik",
+          "timo räisänen",
+          "julkonsert"
+        ]
+      }
     },
     {
       "id": "tickster-hr4k0nrulzxhhd7",
@@ -5700,7 +6894,18 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalin",
+          "uppland",
+          "musik",
+          "uppsala",
+          "the fantastic four",
+          "show",
+          "motown"
+        ]
+      }
     },
     {
       "id": "tickster-rxmu5d6epf1512z",
@@ -5708,10 +6913,10 @@
       "start": "2026-12-05T12:00:00+01:00",
       "slut": "2026-12-05T17:00:00+01:00",
       "plats": {
-        "namn": "LIFE ARENA",
-        "id": "tickster-plats-82hj2dkl9916m04"
+        "namn": "Life Arena",
+        "id": "lifearena"
       },
-      "kategori": "ovrigt",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -5749,7 +6954,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "dans"
+        ]
+      }
     },
     {
       "id": "tickster-8gx1caf6umuzre4",
@@ -5773,7 +6983,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "julbord",
+          "julmiddag"
+        ]
+      }
     },
     {
       "id": "tickster-612d5a0zwx467e7",
@@ -5796,7 +7012,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "martin sjöstedt  erik tengholm"
+        ]
+      }
     },
     {
       "id": "tickster-jz54x83e4617292",
@@ -5821,7 +7051,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "julkonsert",
+          "katalin",
+          "uppsala",
+          "pernilla andersson",
+          "live nation",
+          "visa",
+          "akustiskt",
+          "musik",
+          "konsert"
+        ]
+      }
     },
     {
       "id": "tickster-rah561y9xppak5k",
@@ -5919,7 +7163,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinuppsala",
+          "katalinsbakficka",
+          "uujo"
+        ]
+      }
     },
     {
       "id": "tickster-w96v0u2kpy9j66g",
@@ -5945,7 +7196,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jul",
+          "cirkus"
+        ]
+      }
     },
     {
       "id": "tickster-d0rb9tjhm3fggbt",
@@ -5971,7 +7228,13 @@
         }
       ],
       "langvarig": true,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jul",
+          "cirkus"
+        ]
+      }
     },
     {
       "id": "tickster-3t5m7pt0g4yp81p",
@@ -5994,7 +7257,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "martin sjöstedt  erik tengholm"
+        ]
+      }
     },
     {
       "id": "tickster-c7c2latx1g4m045",
@@ -6020,7 +7297,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-h029ng1tbzhfndg",
@@ -6045,7 +7327,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinandallthatjazz",
+          "katalinuppsala",
+          "katalinsbakficka"
+        ]
+      }
     },
     {
       "id": "tickster-ft7xpcb55hl2v47",
@@ -6070,7 +7359,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "torsdagskul"
+        ]
+      }
     },
     {
       "id": "tickster-nm7ztxm7vk8nlm7",
@@ -6096,7 +7390,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jul",
+          "cirkus"
+        ]
+      }
     },
     {
       "id": "tickster-ghdvw7t98l58vlz",
@@ -6122,7 +7422,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jul",
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-9a0dk1k2upn6lw9",
@@ -6148,7 +7454,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jul"
+        ]
+      }
     },
     {
       "id": "tickster-b4rvuxxzejbjm42",
@@ -6174,7 +7485,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jul",
+          "cirkus"
+        ]
+      }
     },
     {
       "id": "tickster-lkua0zxttp96r1k",
@@ -6200,7 +7517,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jul",
+          "jazz"
+        ]
+      }
     },
     {
       "id": "tickster-6c67nlpz8e76g8j",
@@ -6226,7 +7549,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn"
+        ]
+      }
     },
     {
       "id": "tickster-l9jmlxtjwwcb2ba",
@@ -6251,7 +7579,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "bombus",
+          "rock",
+          "metal",
+          "hårdrock"
+        ]
+      }
     },
     {
       "id": "tickster-mpgxk6jjd77w0vn",
@@ -6276,7 +7618,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinandallthatjazz",
+          "katalinsbakficka",
+          "katalinuppsala"
+        ]
+      }
     },
     {
       "id": "tickster-8r4h27crbvtxug8",
@@ -6302,7 +7651,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn"
+        ]
+      }
     },
     {
       "id": "tickster-8xzxzdl7bpaaxex",
@@ -6328,7 +7682,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jul",
+          "cirkus"
+        ]
+      }
     },
     {
       "id": "tickster-7nrw6fane9t7zvr",
@@ -6351,7 +7711,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "martin sjöstedt  erik tengholm"
+        ]
+      }
     },
     {
       "id": "tickster-4jfal2cu9uutnh8",
@@ -6376,7 +7750,20 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "live",
+          "emma  the dusty roses",
+          "country",
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-jbptmjw6b7k06a0",
@@ -6401,7 +7788,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "kulturhjältarna",
+          "musik",
+          "jazz",
+          "konsert",
+          "live",
+          "the virtues",
+          "film"
+        ]
+      }
     },
     {
       "id": "tickster-6e922edl44ke4h4",
@@ -6427,7 +7828,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-402uukunkec7cfn",
@@ -6453,7 +7859,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jul",
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-j4t5l1a8bvxm4ea",
@@ -6476,7 +7888,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "uppsala"
+        ]
+      }
     },
     {
       "id": "tickster-2vxg5hpyv2a43kg",
@@ -6501,7 +7918,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "valter nilsson",
+          "pop",
+          "inide",
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-7bhdp3pf0ugbwuh",
@@ -6526,7 +7957,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "valter nilsson",
+          "pop",
+          "inide",
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-72ypaj48u516nlj",
@@ -6551,7 +7996,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "the crown",
+          "cmg",
+          "metal",
+          "hårdrock"
+        ]
+      }
     },
     {
       "id": "tickster-v3z27ykmzflgvu3",
@@ -6577,7 +8036,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "tribute"
+        ]
+      }
     },
     {
       "id": "tickster-ul04ankdb3g0wlv",
@@ -6602,7 +8066,15 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "anders ekborg",
+          "en stilla jul",
+          "julkonsert",
+          "jul"
+        ]
+      }
     },
     {
       "id": "tickster-yt68jhjvnu26gup",
@@ -6625,7 +8097,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "play it santa"
+        ]
+      }
     },
     {
       "id": "tickster-9vptptkw8mm6w2c",
@@ -6650,7 +8136,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "junior brielle",
+          "luger",
+          "indie",
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-33a871dggzcankv",
@@ -6676,7 +8176,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-ymgh75hb71gx76j",
@@ -6702,7 +8207,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-rt3c0cclzv2t92d",
@@ -6725,7 +8235,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "martin sjöstedt  erik tengholm"
+        ]
+      }
     },
     {
       "id": "tickster-1kzcfyap0xvt3cr",
@@ -6750,7 +8274,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "punk",
+          "rock",
+          "charta 77",
+          "bonta"
+        ]
+      }
     },
     {
       "id": "tickster-ztpm05lw995a0jn",
@@ -6776,7 +8314,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jul"
+        ]
+      }
     },
     {
       "id": "tickster-g33dw4jtaj92cj3",
@@ -6801,7 +8344,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "björnarna",
+          "perkele",
+          "coca carola",
+          "uppsala rumble"
+        ]
+      }
     },
     {
       "id": "tickster-dgfjlx3g6fytytn",
@@ -6827,7 +8384,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-htyve4u3p10edr7",
@@ -6877,7 +8439,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "per persson  nya packet",
+          "uppsala",
+          "katalin",
+          "pop",
+          "rock",
+          "jubel",
+          "musik",
+          "konsert",
+          "kaliber"
+        ]
+      }
     },
     {
       "id": "tickster-u3uwyfm19bnxv1c",
@@ -6902,7 +8478,20 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "elvis",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "live",
+          "elvis presley birthday party",
+          "kulturhjältarna"
+        ]
+      }
     },
     {
       "id": "tickster-wfeezykm0tu9xn7",
@@ -6950,7 +8539,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "lkn",
+          "luger",
+          "tiktok",
+          "rnb"
+        ]
+      }
     },
     {
       "id": "tickster-7z2bw1c1xeneehb",
@@ -6975,7 +8578,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "bowie",
+          "uppsala",
+          "katalin",
+          "rock",
+          "pop",
+          "musik",
+          "konsert",
+          "live",
+          "tms bowie"
+        ]
+      }
     },
     {
       "id": "tickster-adbg24052n8j0r4",
@@ -7001,7 +8618,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn",
+          "musik",
+          "övrigt"
+        ]
+      }
     },
     {
       "id": "tickster-1t0bg5ypeydh4g1",
@@ -7027,7 +8651,14 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn",
+          "musik",
+          "övrigt"
+        ]
+      }
     },
     {
       "id": "tickster-7yefrjgl17hm9r4",
@@ -7050,7 +8681,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "pär lindh"
+        ]
+      }
     },
     {
       "id": "tickster-7u5xxfv6bth9p98",
@@ -7076,7 +8721,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-r0r7g2xf5bgtyjx",
@@ -7102,7 +8752,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-3cfgpfkglbmwxm0",
@@ -7126,7 +8781,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "sushi",
+          "matlagning",
+          "matevent",
+          "gästspel",
+          "asiatisk"
+        ]
+      }
     },
     {
       "id": "tickster-azjevznl5wf8m22",
@@ -7152,7 +8816,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-v93449drn3txn9u",
@@ -7177,7 +8846,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "hannes aitman",
+          "unitedstage",
+          "pop",
+          "indie"
+        ]
+      }
     },
     {
       "id": "tickster-pw09t0by0ahzf56",
@@ -7227,7 +8910,20 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "geoff tate",
+          "rock",
+          "hårdrock"
+        ]
+      }
     },
     {
       "id": "tickster-ac01aaggf4u5mrw",
@@ -7253,7 +8949,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-2hcab98vb4n49l6",
@@ -7279,7 +8980,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-m38p1nue54p9r4z",
@@ -7304,7 +9010,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "louisiana avenue",
+          "mta",
+          "soul",
+          "party"
+        ]
+      }
     },
     {
       "id": "tickster-3xd3kt3rd5y68z8",
@@ -7330,7 +9050,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-abw0z29x84w9dzc",
@@ -7355,7 +9080,21 @@
         }
       ],
       "langvarig": true,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "greczula",
+          "pop",
+          "mello",
+          "melodifestivalen"
+        ]
+      }
     },
     {
       "id": "tickster-g1u6mx2pxhc04da",
@@ -7381,7 +9120,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik",
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-rtat7ch8y7zgugl",
@@ -7432,7 +9177,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "simon superti",
+          "pop",
+          "visa",
+          "live nation"
+        ]
+      }
     },
     {
       "id": "tickster-f8ga8mzk0ehb1uk",
@@ -7458,7 +9217,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-7de740jdu0wm74h",
@@ -7483,7 +9247,20 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "simon superti",
+          "pop",
+          "live nation"
+        ]
+      }
     },
     {
       "id": "tickster-6xnxx840xdvjcdn",
@@ -7506,7 +9283,21 @@
         }
       ],
       "langvarig": true,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "minfulness",
+          "utforskande",
+          "personligutveckling",
+          "openfloor",
+          "retreat",
+          "tystnad",
+          "musik",
+          "wellness",
+          "rörelse",
+          "yoga"
+        ]
+      }
     },
     {
       "id": "tickster-adrwbfh77uy5ecz",
@@ -7532,7 +9323,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-ylj4kxccmxnmnkw",
@@ -7558,7 +9354,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "folk"
+        ]
+      }
     },
     {
       "id": "tickster-1ea0pntuaudmv1a",
@@ -7583,7 +9384,55 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsjazzbar",
+          "katalinsbakficka",
+          "bakfickan",
+          "stikoper",
+          "stiko"
+        ]
+      }
+    },
+    {
+      "id": "tickster-etxbdmcpb133bwm",
+      "titel": "Svart Ridå",
+      "start": "2027-02-19T20:00:00+01:00",
+      "slut": "2027-02-19T22:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/etxbdmcpb133bwm/2027-02-19/svart-rida",
+          "biljetter": "https://secure.tickster.com/sv/etxbdmcpb133bwm"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "svart ridå",
+          "rock",
+          "pop",
+          "luger"
+        ]
+      }
     },
     {
       "id": "tickster-mjluje9u10d70ll",
@@ -7609,7 +9458,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-30zehcuw46a5ktp",
@@ -7635,7 +9489,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-blrychnf2g7zmu4",
@@ -7661,7 +9520,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-k45xdlnljt6c72r",
@@ -7687,7 +9551,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn"
+        ]
+      }
     },
     {
       "id": "tickster-yrmvpam1jf90v9y",
@@ -7713,7 +9582,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-zwj0zgdxm9jkyjy",
@@ -7738,7 +9612,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinuppsala",
+          "katalinandallthatjazz",
+          "katalinsbakficka",
+          "klubbuffe",
+          "jesperlindell"
+        ]
+      }
     },
     {
       "id": "tickster-4k49xmnc403y1vu",
@@ -7764,7 +9647,13 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor",
+          "teater"
+        ]
+      }
     },
     {
       "id": "tickster-5xgw2w4blu4rp07",
@@ -7790,7 +9679,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musik"
+        ]
+      }
     },
     {
       "id": "tickster-8ab3ed8de0ff5uw",
@@ -7841,7 +9735,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-uxfta84v5rjre74",
@@ -7866,7 +9765,19 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "jazz",
+          "skrikhult",
+          "jazz på svenska",
+          "jan johansson",
+          "bröderna"
+        ]
+      }
     },
     {
       "id": "tickster-kc7zenzreben83x",
@@ -7892,7 +9803,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "musikal"
+        ]
+      }
     },
     {
       "id": "tickster-bv8u7mj6b3g3hpw",
@@ -7918,7 +9834,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-yzbv9756xctwf09",
@@ -7943,7 +9864,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "lisa ekdahl",
+          "pop",
+          "visa",
+          "live nation"
+        ]
+      }
     },
     {
       "id": "tickster-bycra2ryrkpny7l",
@@ -7969,7 +9904,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-5xv46jn2yrbbunu",
@@ -7992,7 +9932,20 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "aphaca",
+          "uppsala",
+          "konsert",
+          "musik",
+          "live",
+          "unitedstage",
+          "kaliber room",
+          "rock",
+          "garage"
+        ]
+      }
     },
     {
       "id": "tickster-5mk041j56bludkj",
@@ -8018,7 +9971,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-l2eptd3za9kzdr3",
@@ -8043,7 +10001,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "sunnan",
+          "indie",
+          "pop",
+          "sustanable punk"
+        ]
+      }
     },
     {
       "id": "tickster-nr7ap19ygw1aj9e",
@@ -8093,7 +10065,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "thorbjrn risager  the black tornado",
+          "rock",
+          "blues",
+          "danmark"
+        ]
+      }
     },
     {
       "id": "tickster-5g7u6rkp06c82z1",
@@ -8119,7 +10105,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-glhthaghmhtjwfb",
@@ -8145,7 +10136,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-krj9k1l31yja6ny",
@@ -8197,7 +10193,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "rock"
+        ]
+      }
     },
     {
       "id": "tickster-leu22wx8y2665zm",
@@ -8222,7 +10223,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "guppy",
+          "musik",
+          "jens hultn",
+          "johan hedenberg",
+          "eddie hultn",
+          "monolog",
+          "teater"
+        ]
+      }
     },
     {
       "id": "tickster-vgej4zyhmdbz3d9",
@@ -8248,7 +10263,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-fn3dp2zf8ye006y",
@@ -8274,7 +10294,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-fk7zec2k51epmp6",
@@ -8299,7 +10324,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "hfmc",
+          "rock",
+          "prog",
+          "uppsala",
+          "katalin",
+          "avskedskonsert",
+          "musik",
+          "live",
+          "hårdrock"
+        ]
+      }
     },
     {
       "id": "tickster-6bj9eyze51yn0un",
@@ -8325,7 +10364,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-m7xzavt7gdp4za1",
@@ -8351,7 +10395,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-570k06nhl9cgz3h",
@@ -8377,7 +10426,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
     },
     {
       "id": "tickster-4ghfx4lt846rxfa",
@@ -8403,7 +10457,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-mfjx1dpux41fmva",
@@ -8428,7 +10487,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "the orb",
+          "uk",
+          "dansmusik",
+          "ambient"
+        ]
+      }
     },
     {
       "id": "tickster-ct9zd81m1hbgwbv",
@@ -8451,7 +10524,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "uppsala",
+          "studentskiva",
+          "nattklubb",
+          "flustret",
+          "18"
+        ]
+      }
     },
     {
       "id": "tickster-2clj75545wcx9tw",
@@ -8474,7 +10556,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "uppsala",
+          "studentskiva",
+          "nattklubb",
+          "flustret",
+          "18"
+        ]
+      }
     },
     {
       "id": "tickster-gcb7dbrzft6zzkd",
@@ -8497,7 +10588,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "uppsala",
+          "studentskiva",
+          "nattklubb",
+          "flustret",
+          "18"
+        ]
+      }
     },
     {
       "id": "tickster-1c4pu6gmxa891vf",
@@ -8523,7 +10623,12 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-ymp73lupjpmkw86",
@@ -8546,7 +10651,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "uppsala",
+          "studentskiva",
+          "nattklubb",
+          "flustret",
+          "18"
+        ]
+      }
     },
     {
       "id": "tickster-vn1bhn6l9td1jbv",
@@ -8594,7 +10708,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "parksnäckan",
+          "uppsala",
+          "sommar",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "love",
+          "johnny",
+          "echols"
+        ]
+      }
     },
     {
       "id": "tickster-fg9heurhg8nmf87",
@@ -8617,7 +10745,21 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "parksnäckan",
+          "uppsala",
+          "sommar",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "punk",
+          "rock",
+          "uk subs"
+        ]
+      }
     },
     {
       "id": "tickster-6tpyxlllywvucer",
