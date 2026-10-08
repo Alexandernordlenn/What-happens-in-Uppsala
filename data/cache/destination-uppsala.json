@@ -1,33 +1,315 @@
 {
-  "https://destinationuppsala.se/event/13x13-magneter-overallt-fran-kompasser-till-konstgjorda-hjarnor/": {
-    "nar": "7 oktober 2026, kl. 18.30–19.30",
+  "https://destinationuppsala.se/event/uppsala-internationella-gitarrfestival-2026/": {
+    "nar": "8–10 oktober",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://www.uppsalagitarrfestival.se/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/back-to-the-50s-christmas-show/": {
+    "nar": "4 – 5 & 10 – 12 december 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://brakevent.se/julshow-uppsala-2026",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/uf-julmarknad-pa-forumtorget-2026/": {
+    "nar": "4–5 december, 2026. 4 december kl. 15.00–18.00, 5 december kl. 12.00–15.00",
+    "pris": "Gratis",
+    "arrangorensSida": "https://forumtorget.se/kalendarium/uf-julmarknad-2/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/stumfilm-med-levande-musik-dec26/": {
+    "nar": "5 nov & 4 dec 2026",
+    "pris": "",
+    "arrangorensSida": "http://www.slottsbio.com/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/uppsala-historiska-julmarknad-2026/": {
+    "nar": "5–6 december 2026",
+    "pris": "",
+    "arrangorensSida": "https://destinationuppsala.se/uppsala-historiska-julmarknad/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/isprinsessan-julbalett-med-strakkvartett/": {
+    "nar": "Lördag 5 december, kl. 16.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://ukk.se/isprinsessan-julbalett-med-strakkvartett/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/julmarknad-vid-storvreta-forsamlingsgard-2026/": {
+    "nar": "5 december, 2026, kl. 11.00–15.00",
+    "pris": "Gratis",
+    "arrangorensSida": "https://www.svenskakyrkan.se/vattholma/julmarknad",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/visning-i-advent-tropiska-vaxthuset/": {
+    "nar": "6 december 2026, kl. 13.00–14.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://www.uu.se/botaniska-tradgarden",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/local-femmes-julmarknad/": {
+    "nar": "6 december, 2026",
+    "pris": "Gratis",
+    "arrangorensSida": "https://ukk.se/local-femmes-julmarknad-2026/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/julmarknad-och-adventskonsert-pa-salsta-slott-2026/": {
+    "nar": "6 december, 2026",
+    "pris": "Gratis (konserten kräver betald biljett)",
+    "arrangorensSida": "https://salstaslott.understory.io/experience/8c3bc21ba62bbc177f2cb307b776e1e8",
+    "hamtad": "2026-10-03"
+  },
+  "https://destinationuppsala.se/event/fyris-comedy-stand-up-med-sommarkatten-josefin-sonck-hemlig-gast/": {
+    "nar": "8 december, 2026, kl. 19.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "http://www.fyriscomedy.com/biljetter",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/weeping-willows-christmas/": {
+    "nar": "9 december 2026 kl. 19.30",
+    "pris": "",
+    "arrangorensSida": "http://ukk.se/weeping-willows-christmas/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/thomas-jarvheden-sveriges-roligaste-julkonsert/": {
+    "nar": "10 december 2026 kl. 19.00",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/thomas-jarvheden-sveriges-roligaste-julkonsert/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/back-to-the-50s-christmas-show-2/": {
+    "nar": "4 – 5 & 10 – 12 december 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://brakevent.se/julshow-uppsala-2026",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/julkonsert-med-romeo-julia-koren/": {
+    "nar": "10 december, 2026, kl. 19.30",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://ukk.se/julkonsert-med-romeo-julia-koren/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/labero-a-magic-night-dec2026/": {
+    "nar": "11 december 2026 kl. 19.00",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/labero-a-magic-night/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/robert-wells-40-ar-vid-flygeln/": {
+    "nar": "18 oktober 2026, kl. 16.00",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/robert-wells-40-ar-vid-flygeln/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/bo-kaspers-orkester-il-magnifico/": {
+    "nar": "18 oktober 2026 kl. 19.00",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/bo-kaspers-orkester-il-magnifico/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/fotboll-ik-sirius-if-elfsborg-2/": {
+    "nar": "18 okt 2026",
+    "pris": "",
+    "arrangorensSida": "https://www.siriusfotboll.se/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/lisa-nilsson-moter-bohuslan-big-band/": {
+    "nar": "20 oktober 2026 kl. 19.30",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/lisa-nilsson-bohuslan-big-band/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/teddybears/": {
+    "nar": "20 oktober 2026, kl. 20.00",
+    "pris": "",
+    "arrangorensSida": "https://www.katalin.com/events/teddybears/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/13x13-evolutionen-av-ett-langt-liv-hur-ar-det-mojligt/": {
+    "nar": "21 oktober 2026, kl. 18.30–19.30",
     "pris": "Gratis",
     "arrangorensSida": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13",
-    "hamtad": "2026-09-24"
+    "hamtad": "2026-10-08"
   },
-  "https://destinationuppsala.se/event/west-of-eden-celtic-christmas-2026/": {
-    "nar": "13 december 2026 kl. 19.00",
-    "pris": "",
-    "arrangorensSida": "https://ukk.se/west-of-eden-celtic-christmas-2026/",
-    "hamtad": "2026-09-24"
-  },
-  "https://destinationuppsala.se/event/valter-nilsson-3/": {
-    "nar": "15 december, 2026",
+  "https://destinationuppsala.se/event/carl-johan-vallgren/": {
+    "nar": "Torsdag 22 oktober 2026, kl. 19.00",
     "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://secure.tickster.com/sv/2vxg5hpyv2a43kg/selectproductgroup",
-    "hamtad": "2026-09-24"
+    "arrangorensSida": "https://ukk.se/carl-johan-vallgren/",
+    "hamtad": "2026-10-08"
   },
-  "https://destinationuppsala.se/event/valter-nilsson-2/": {
-    "nar": "16 december, 2026, kl. 20.00",
+  "https://destinationuppsala.se/event/bruch-och-brahms-uppsala-kammarorkester/": {
+    "nar": "22 oktober 2026",
     "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://secure.tickster.com/sv/7bhdp3pf0ugbwuh/selectproductgroup",
-    "hamtad": "2026-09-24"
+    "arrangorensSida": "https://www.musikiuppland.se/konsert/bruch-och-brahms/",
+    "hamtad": "2026-10-08"
   },
-  "https://destinationuppsala.se/event/hogwarts-magic-symphony-med-lords-of-the-sound/": {
-    "nar": "19 december 2026 kl. 15.00",
+  "https://destinationuppsala.se/event/halloweenmarknad-pa-chokladfabriken/": {
+    "nar": "24 oktober 2026, kl. 11.00–17.00",
     "pris": "",
-    "arrangorensSida": "https://ukk.se/hogwarts-magic-symphony-med-lords-of-the-sound/",
-    "hamtad": "2026-09-24"
+    "arrangorensSida": "https://fb.me/e/4oIwXlSKj",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/saltstank-smuggelsprit/": {
+    "nar": "Lördag 24 oktober, kl. 16.00 + 19:30",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://ukk.se/?s=saltst%C3%A4nk",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/peter-och-vargen-familjekonsert-med-uppsala-kammarorkester/": {
+    "nar": "24 oktober 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://www.musikiuppland.se/konsert/familjekonsert-peter-och-vargen/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/fotboll-ik-sirius-aik/": {
+    "nar": "24 okt 2026",
+    "pris": "",
+    "arrangorensSida": "https://www.siriusfotboll.se/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/retro-antikmassa-2026-10/": {
+    "nar": "24–25 oktober, 2026. Lördag kl. 10.00–17.00, söndag kl. 10.00–16.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://www.knivstamassor.se/uppsala",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/swedenborgs-uppsala-2026/": {
+    "nar": "24 oktober, 2026, kl. 11.00 och 14.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "http://www.peterfrisk.se/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/ett-rekviem-av-manga/": {
+    "nar": "24 oktober, 2026, kl. 16.00",
+    "pris": "Gratis",
+    "arrangorensSida": "https://www.svenskakyrkan.se/uppsala/nyheter/ett-rekviem-av-manga",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/tomas-ledin-symphonia-politropou/": {
+    "nar": "25 oktober 2026 kl. 19.00",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/tomas-ledin-symphonia-politropou/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/fyris-comedy-stand-up-med-johanna-wagrell-johanna-westlin-mfl/": {
+    "nar": "27 oktober 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "http://www.fyriscomedy.com/biljetter",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/terra-2/": {
+    "nar": "28 oktober, 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://secure.tickster.com/sv/fj2mkwvn0terxl1/selectproductgroup",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/13x13-jordens-forhistoriska-klimatforandringar-istider-och-varmetider-under-600-miljoner-ar/": {
+    "nar": "28 oktober 2026, kl. 18.30–19.30",
+    "pris": "Gratis",
+    "arrangorensSida": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/ozzy-black-sabbath-back-to-the-beginning/": {
+    "nar": "28–29 oktober, 2026, kl. 18.15",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://www.nfbio.se/ozzy-black-sabbath-back-beginning?city=uppsala#buy-btn",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/viktor-noren-linus-wahlgren-vara-liv-vara-musikaler/": {
+    "nar": "29 oktober 2026 kl. 19.30",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/viktor-noren-linus-wahlgren/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/terra/": {
+    "nar": "29 oktober, 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://secure.tickster.com/sv/l2ygdth812avj6e/selectproductgroup",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/elton-john-meets-freddie-mercury/": {
+    "nar": "30 oktober 2026 kl. 19.30",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/elton-john-meets-freddie-mercury/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/fran-aladdin-till-elsa/": {
+    "nar": "30 oktober, 2026, kl. 11.00 och 13.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://ukk.se/fran-aladdin-till-elsa/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/marky-ramones-blitzkrieg/": {
+    "nar": "Lördag 31 oktober 2026",
+    "pris": "",
+    "arrangorensSida": "https://kaliberlive.com/events/marky-ramones-blitzkrieg-us",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/halloween-pa-savja-4h-gard/": {
+    "nar": "31 oktober, 2026, kl. 11.00–15.00",
+    "pris": "Gratis",
+    "arrangorensSida": "https://fb.me/e/7zIZY65au",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/elvis-elvis-elvis-2026/": {
+    "nar": "1 november 2026 kl. 18:00",
+    "pris": "",
+    "arrangorensSida": "https://www.ukk.se/program/elvis-elvis-elvis-2026",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/fem-myror/": {
+    "nar": "1 november, 2026, kl. 14.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "http://ukk.se/fem-myror-konsert/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/fotboll-ik-sirius-halmstads-bk/": {
+    "nar": "3 nov 2026",
+    "pris": "",
+    "arrangorensSida": "https://www.siriusfotboll.se/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/13x13-3d-skrivning-av-magnesium-for-framtidens-implantat/": {
+    "nar": "4 november 2026, kl. 18.30–19.30",
+    "pris": "Gratis",
+    "arrangorensSida": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/maksim-segmenti-world-tour/": {
+    "nar": "Torsdag 5 november 2026, kl. 19.30",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://ukk.se/maksim-segmenti-world-tour/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/stumfilm-med-levande-musik-nov2026/": {
+    "nar": "5 nov & 4 dec 2026",
+    "pris": "",
+    "arrangorensSida": "http://www.slottsbio.com/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/sven-ingvars-igar-idag-imorgon-70-ar/": {
+    "nar": "6 november 2026, kl. 19:00",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/sven-ingvars-igar-idag-imorgon-70-ar/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/creedence-tribute-best-of-ccr-john-fogerty-tour/": {
+    "nar": "7 november 2026 kl. 19.30",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/creedence-tribute-best-of-ccr-john-fogerty-tour/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/kaeli-abdi-paskkarringen/": {
+    "nar": "7 november 2026 kl. 20.00",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/kaeli-abdi-paskkarringen/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/pussy-riot-riot-days/": {
+    "nar": "7 november, 2026, kl. 21.30",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://ukk.se/pussy-riot-riot-days/",
+    "hamtad": "2026-10-08"
   },
   "https://destinationuppsala.se/event/museidagen-2026/": {
     "nar": "8 november 2026",
@@ -71,6 +353,12 @@
     "arrangorensSida": "https://www.teaterelin.com/home2/",
     "hamtad": "2026-10-07"
   },
+  "https://destinationuppsala.se/event/matmilen-uppsala-nov26/": {
+    "nar": "14 november, 2026, kl. 12.00–17.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://matmilenkampanj.understory.io/experience/87b1cc919cb3742bef1ccb4c9a0868a2",
+    "hamtad": "2026-10-08"
+  },
   "https://destinationuppsala.se/event/moonica-mac/": {
     "nar": "17 november 2026",
     "pris": "Betald biljett krävs",
@@ -89,6 +377,12 @@
     "arrangorensSida": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13",
     "hamtad": "2026-10-06"
   },
+  "https://destinationuppsala.se/event/en-vackrare-varld-de-andersons-med-siw-malmkvist/": {
+    "nar": "18 november, 2026, kl. 19.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://billetto.se/e/en-vackrare-varld-biljetter-2021663",
+    "hamtad": "2026-10-08"
+  },
   "https://destinationuppsala.se/event/ana-moura-fado-utan-granser/": {
     "nar": "19 november 2026 kl. 19.30",
     "pris": "",
@@ -106,6 +400,12 @@
     "pris": "",
     "arrangorensSida": "https://ukk.se/per-andersson-kardborreshowen-2026/",
     "hamtad": "2026-10-06"
+  },
+  "https://destinationuppsala.se/event/saffransmysteriet-lassemajas-detektivbyra/": {
+    "nar": "12 december 2026 kl. 13:00",
+    "pris": "",
+    "arrangorensSida": "https://www.teaterbristol.se/teater/saffransmysteriet/",
+    "hamtad": "2026-09-24"
   },
   "https://destinationuppsala.se/event/ulva-julmarknad-2026/": {
     "nar": "21–22 november 2026, kl. 10.00–16.00",
@@ -209,83 +509,107 @@
     "arrangorensSida": "https://ukk.se/christmas-night/",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/back-to-the-50s-christmas-show/": {
-    "nar": "4 – 5 & 10 – 12 december 2026",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://brakevent.se/julshow-uppsala-2026",
-    "hamtad": "2026-09-24"
-  },
-  "https://destinationuppsala.se/event/uppsala-historiska-julmarknad-2026/": {
-    "nar": "5–6 december 2026",
-    "pris": "",
-    "arrangorensSida": "https://destinationuppsala.se/uppsala-historiska-julmarknad/",
-    "hamtad": "2026-09-24"
-  },
-  "https://destinationuppsala.se/event/isprinsessan-julbalett-med-strakkvartett/": {
-    "nar": "Lördag 5 december, kl. 16.00",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://ukk.se/isprinsessan-julbalett-med-strakkvartett/",
-    "hamtad": "2026-09-24"
-  },
-  "https://destinationuppsala.se/event/julmarknad-vid-storvreta-forsamlingsgard-2026/": {
-    "nar": "5 december, 2026, kl. 11.00–15.00",
+  "https://destinationuppsala.se/event/lantlig-julmarknad-pa-ekbolanda-gard/": {
+    "nar": "12–13 december, 2026, kl. 11.00–16.00",
     "pris": "Gratis",
-    "arrangorensSida": "https://www.svenskakyrkan.se/vattholma/julmarknad",
+    "arrangorensSida": "https://www.facebook.com/Ekbolanda/?locale=sv_SE",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/arvingarna-klart-det-ska-bli-jul-igen/": {
+    "nar": "13 december 2026 kl. 19.30",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/arvingarna-klart-det-ska-bli-jul-igen/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/west-of-eden-celtic-christmas-2026/": {
+    "nar": "13 december 2026 kl. 19.00",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/west-of-eden-celtic-christmas-2026/",
     "hamtad": "2026-09-24"
   },
-  "https://destinationuppsala.se/event/visning-i-advent-tropiska-vaxthuset/": {
-    "nar": "6 december 2026, kl. 13.00–14.00",
+  "https://destinationuppsala.se/event/valter-nilsson-3/": {
+    "nar": "15 december, 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://secure.tickster.com/sv/2vxg5hpyv2a43kg/selectproductgroup",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/valter-nilsson-2/": {
+    "nar": "16 december, 2026, kl. 20.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://secure.tickster.com/sv/7bhdp3pf0ugbwuh/selectproductgroup",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/hogwarts-magic-symphony-med-lords-of-the-sound/": {
+    "nar": "19 december 2026 kl. 15.00",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/hogwarts-magic-symphony-med-lords-of-the-sound/",
+    "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/julmarknad-pa-forumtorget-2026/": {
+    "nar": "19 december, 2026, kl. 12.00–16.00",
+    "pris": "Gratis",
+    "arrangorensSida": "https://forumtorget.se/kalendarium/julmarknad-pa-forumtorget/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/nyarsoppet-i-tropiska-vaxthuset-2026/": {
+    "nar": "1 januari 2027 kl. 12.00–3 januari 2027 kl. 15.00",
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://www.uu.se/botaniska-tradgarden",
-    "hamtad": "2026-09-24"
+    "hamtad": "2026-10-08"
   },
-  "https://destinationuppsala.se/event/local-femmes-julmarknad/": {
-    "nar": "6 december, 2026",
-    "pris": "Gratis",
-    "arrangorensSida": "https://ukk.se/local-femmes-julmarknad-2026/",
-    "hamtad": "2026-09-24"
-  },
-  "https://destinationuppsala.se/event/julmarknad-och-adventskonsert-pa-salsta-slott-2026/": {
-    "nar": "6 december, 2026",
-    "pris": "Gratis (konserten kräver betald biljett)",
-    "arrangorensSida": "https://salstaslott.understory.io/experience/8c3bc21ba62bbc177f2cb307b776e1e8",
-    "hamtad": "2026-10-03"
-  },
-  "https://destinationuppsala.se/event/fyris-comedy-stand-up-med-sommarkatten-josefin-sonck-hemlig-gast/": {
-    "nar": "8 december, 2026, kl. 19.00",
+  "https://destinationuppsala.se/event/trettondagsafton-2027-uppsala-kammarorkester/": {
+    "nar": "5 januari 2027",
     "pris": "Betald biljett krävs",
-    "arrangorensSida": "http://www.fyriscomedy.com/biljetter",
-    "hamtad": "2026-09-24"
+    "arrangorensSida": "https://www.musikiuppland.se/konsert/trettondagsafton-2027/",
+    "hamtad": "2026-10-08"
   },
-  "https://destinationuppsala.se/event/weeping-willows-christmas/": {
-    "nar": "9 december 2026 kl. 19.30",
+  "https://destinationuppsala.se/event/djungelboken-the-musical/": {
+    "nar": "Lördag 23 januari 2027",
     "pris": "",
-    "arrangorensSida": "http://ukk.se/weeping-willows-christmas/",
-    "hamtad": "2026-09-24"
+    "arrangorensSida": "https://ukk.se/djungelboken-the-musical-2/",
+    "hamtad": "2026-10-08"
   },
-  "https://destinationuppsala.se/event/thomas-jarvheden-sveriges-roligaste-julkonsert/": {
-    "nar": "10 december 2026 kl. 19.00",
-    "pris": "",
-    "arrangorensSida": "https://ukk.se/thomas-jarvheden-sveriges-roligaste-julkonsert/",
-    "hamtad": "2026-09-24"
-  },
-  "https://destinationuppsala.se/event/back-to-the-50s-christmas-show-2/": {
-    "nar": "4 – 5 & 10 – 12 december 2026",
+  "https://destinationuppsala.se/event/poste-restante-24-1/": {
+    "nar": "24 januari 2027",
     "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://brakevent.se/julshow-uppsala-2026",
-    "hamtad": "2026-09-24"
+    "arrangorensSida": "https://www.musikiuppland.se/konsert/poste-restante-24-1/",
+    "hamtad": "2026-10-08"
   },
-  "https://destinationuppsala.se/event/labero-a-magic-night-dec2026/": {
-    "nar": "11 december 2026 kl. 19.00",
-    "pris": "",
-    "arrangorensSida": "https://ukk.se/labero-a-magic-night/",
-    "hamtad": "2026-09-24"
+  "https://destinationuppsala.se/event/copland-och-beethoven-uppsala-kammarorkester/": {
+    "nar": "28 januari 2027",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://www.musikiuppland.se/konsert/copland-och-beethoven/",
+    "hamtad": "2026-10-08"
   },
-  "https://destinationuppsala.se/event/saffransmysteriet-lassemajas-detektivbyra/": {
-    "nar": "12 december 2026 kl. 13:00",
+  "https://destinationuppsala.se/event/ser-jag-tjock-ut-i-den-har/": {
+    "nar": "29 januari 2027 kl. 19.00",
     "pris": "",
-    "arrangorensSida": "https://www.teaterbristol.se/teater/saffransmysteriet/",
-    "hamtad": "2026-09-24"
+    "arrangorensSida": "https://ukk.se/ser-jag-tjock-ut-i-den-har/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/the-dire-straits-experience-hand-upon-the-lever-2027/": {
+    "nar": "4 februari 2027",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://fkpscorpio.se/evenemang/detail/the-dire-straits-experience/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/nour-el-refai-glows-in-the-dark/": {
+    "nar": "5 februari 2027, kl. 19.00–20.15",
+    "pris": "",
+    "arrangorensSida": "https://www.kahlo.se/nourelrefai",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/molly-hammar-livsvittne/": {
+    "nar": "11 februari 2027 kl. 19.00",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/molly-hammar/",
+    "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/kim-wilde-the-singles-tour-2027/": {
+    "nar": "Lördag 13 februari 2027 kl. 19.30",
+    "pris": "",
+    "arrangorensSida": "https://ukk.se/kim-wilde-the-singles-tour-2027/",
+    "hamtad": "2026-10-08"
   },
   "https://destinationuppsala.se/event/korngolds-violinkonsert-uppsala-kammarorkester/": {
     "nar": "18 februari 2027",

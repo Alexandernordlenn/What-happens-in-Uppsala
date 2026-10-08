@@ -1,4 +1,20 @@
 {
+  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovskul-formstarkt-och-eldigt/": {
+    "dagar": [
+      "må",
+      "ti",
+      "on",
+      "to",
+      "fr",
+      "lö",
+      "sö"
+    ],
+    "tider": {
+      "start": "10:00",
+      "slut": "15:00"
+    },
+    "hamtad": "2026-10-08"
+  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/digital-skattjakt-med-musse-helium/": {
     "dagar": [
       "må",
@@ -54,6 +70,18 @@
     "dagar": [],
     "hamtad": "2026-10-07"
   },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-med-bad-och-bus-paa-fyrishov/": {
+    "dagar": [
+      "on",
+      "to",
+      "fr",
+      "lö"
+    ],
+    "tider": {
+      "start": "17:00"
+    },
+    "hamtad": "2026-10-08"
+  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/fotbollslaeger-med-gfc-foer-dig-mellan-9-14-aar/": {
     "dagar": [
       "må",
@@ -92,6 +120,10 @@
       "fr"
     ],
     "hamtad": "2026-10-07"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/gameplan-open-court/": {
+    "dagar": [],
+    "hamtad": "2026-10-08"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/pop-up-med-gottsunda-allaktivitetshus/": {
     "dagar": [

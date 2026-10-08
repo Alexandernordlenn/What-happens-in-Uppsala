@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-07T04:37:29.238Z",
-  "antal": 284,
+  "hamtad": "2026-10-08T04:45:55.466Z",
+  "antal": 287,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -3425,43 +3425,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-sagostund-graenby-allaktivitetshus-2026-10-07-1000",
-      "titel": "Sagostund på Gränby allaktivitetshus",
-      "plats": {
-        "namn": "Gränby allaktivitetshus",
-        "id": "granbyallaktivitetshus"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        4
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-graenby-allaktivitetshus/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Litteratur/Skrivande"
-        ],
-        "malgrupp": [
-          "0-4 år"
-        ],
-        "adress": "Gränby allaktivitetshus, Liljefors torg 1, Uppsala"
-      },
-      "start": "2026-10-07T10:00:00+02:00",
-      "slut": "2026-10-07T10:30:00+02:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-babyrytmik-ht-2026-2026-10-08-1000",
       "titel": "Babyrytmik",
       "plats": {
@@ -5062,6 +5025,57 @@
       "langvarig": false
     },
     {
+      "id": "kubik-hoestlovskul-formstarkt-och-eldigt",
+      "titel": "Höstlovskul: Formstarkt och eldigt",
+      "plats": {
+        "namn": "Botaniska trädgården",
+        "id": "botaniska"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovskul-formstarkt-och-eldigt/",
+          "arrangor": "https://www.uu.se/botaniska-tradgarden/utstallningar-och-evenemang/evenemang/arkiv/2026-10-24-hostlovskul-formstarkt-och-eldigt"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Djur/Natur",
+          "Museum/Kulturarv"
+        ],
+        "malgrupp": [
+          "För alla åldrar"
+        ],
+        "adress": "Tropiska växthuset, Villavägen 6, Uppsala",
+        "dagar": [
+          "må",
+          "ti",
+          "on",
+          "to",
+          "fr",
+          "lö",
+          "sö"
+        ],
+        "tider": {
+          "start": "10:00",
+          "slut": "15:00"
+        }
+      },
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "langvarig": true
+    },
+    {
       "id": "kubik-digital-skattjakt-med-musse-helium",
       "titel": "Digital skattjakt med Musse & Helium",
       "plats": {
@@ -5786,6 +5800,56 @@
       "langvarig": true
     },
     {
+      "id": "kubik-hoestlov-med-bad-och-bus-paa-fyrishov",
+      "titel": "Höstlov med bad och bus på Fyrishov",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "omrade": "norra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-med-bad-och-bus-paa-fyrishov/",
+          "arrangor": "https://fyrishov.se/bad/hostlov/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Vattensport",
+          "Övrigt"
+        ],
+        "malgrupp": [
+          "0-4 år",
+          "5-6 år",
+          "7-9 år",
+          "10-12 år"
+        ],
+        "adress": "Fyrishov, Idrottsgatan 2, Uppsala",
+        "dagar": [
+          "on",
+          "to",
+          "fr",
+          "lö"
+        ],
+        "tider": {
+          "start": "17:00"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-31",
+      "langvarig": true
+    },
+    {
       "id": "kubik-fotbollslaeger-med-gfc-foer-dig-mellan-9-14-aar",
       "titel": "Fotbollsläger med GFC - för dig mellan 9-14 år!",
       "plats": {
@@ -6055,6 +6119,49 @@
       },
       "start": "2026-10-26",
       "slut": "2026-10-30",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-gameplan-open-court",
+      "titel": "Gameplan Open Court",
+      "plats": {
+        "namn": "Gränbyskolans idrottshall",
+        "id": "kubik-plats-gränbyskolans-idrottshall"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        18
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/gameplan-open-court/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Bollsport"
+        ],
+        "malgrupp": [
+          "7-9 år",
+          "10-12 år",
+          "13-15 år",
+          "16-18 år"
+        ],
+        "adress": "Gränbyskolans idrottshall, Liljefors Torg 1, Uppsala",
+        "tider": {
+          "start": "12:00",
+          "slut": "15:00"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-29",
       "langvarig": true
     },
     {
@@ -9668,6 +9775,52 @@
       },
       "start": "2026-11-21T11:15:00+01:00",
       "slut": "2026-11-21T11:45:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-fritid-foer-alla-dagen-hitta-din-grej-2026-11-21-1200",
+      "titel": "Fritid för alla-dagen - hitta din grej",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "norra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fritid-foer-alla-dagen-hitta-din-grej/",
+          "arrangor": "https://fritidforalla.se/aktivitet/fritid-for-alla-dagen/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Bollsport",
+          "Dans",
+          "Friidrott",
+          "Hushåll",
+          "Konst/Skapande",
+          "Museum/Kulturarv",
+          "Musik",
+          "Ridsport",
+          "Slöjd",
+          "Teater"
+        ],
+        "malgrupp": [
+          "För alla åldrar"
+        ],
+        "adress": "Fyrishov i hall E och F, Idrottsgatan 2, Uppsala"
+      },
+      "start": "2026-11-21T12:00:00+01:00",
+      "slut": "2026-11-21T15:00:00+01:00",
       "langvarig": false
     },
     {

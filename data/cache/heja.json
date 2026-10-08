@@ -1,20 +1,8 @@
 {
-  "https://hejauppsala.com/kalender/eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum/": {
-    "nar": "3 okt 2026 – 31 jan 2027\n\nUppsala Konstmuseum, Uppsala slott",
-    "lank": null,
-    "knapptext": null,
-    "hamtad": "2026-10-07"
-  },
   "https://hejauppsala.com/kalender/katarina-jagellonica-okt-2026/": {
     "nar": "8 maj 2026 – 8 nov 2026\n\nKl 08:00 – 18:00\n\nDomkyrkan, Uppsala",
     "lank": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/utstallning-om-katarina-jagellonica-visas-hela-sommaren",
     "knapptext": "Mer info",
-    "hamtad": "2026-09-24"
-  },
-  "https://hejauppsala.com/kalender/almtuna-visby-roma-7-okt-2026/": {
-    "nar": "7 oktober 2026\n\n19.00\n\nGränby ishall, Uppsala",
-    "lank": null,
-    "knapptext": null,
     "hamtad": "2026-09-24"
   },
   "https://hejauppsala.com/kalender/punkt/": {
@@ -23,29 +11,11 @@
     "knapptext": "Mer info",
     "hamtad": "2026-09-24"
   },
-  "https://hejauppsala.com/kalender/forfattarbesok-elin-ylvasdotter-2026/": {
-    "nar": "7 okt 2026\n\nKl: 18-19\n\nStadsbiblioteket, Mallas sal, Uppsala",
-    "lank": "https://bibliotekuppsala.se/evenemang#/events/f01bb8ad-d740-4d48-91f7-6826adcc2ed8?location=Stadsbiblioteket&tag=F%C3%B6rfattarbes%C3%B6k",
-    "knapptext": "Mer info",
-    "hamtad": "2026-09-24"
-  },
-  "https://hejauppsala.com/kalender/storvreta-dam-taby-7-okt-2026/": {
-    "nar": "7 oktober 2026\n\nKl: 18.30\n\nIfu Arena",
-    "lank": null,
-    "knapptext": null,
-    "hamtad": "2026-09-24"
-  },
-  "https://hejauppsala.com/kalender/seth-and-the-car-thief-kaliber-room-2026/": {
-    "nar": "",
+  "https://hejauppsala.com/kalender/eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum/": {
+    "nar": "3 okt 2026 – 31 jan 2027\n\nUppsala Konstmuseum, Uppsala slott",
     "lank": null,
     "knapptext": null,
     "hamtad": "2026-10-07"
-  },
-  "https://hejauppsala.com/kalender/oslipat-med-henrik-nyblom-2026/": {
-    "nar": "7 oktober 2026\n\nKl. 20.00 (insläpp 19.00)\n\nKatalin, Uppsala",
-    "lank": "https://billetto.se/e/oslipat-med-henrik-nyblom-och-dessi-hietala-biljetter-1989066?",
-    "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-06"
   },
   "https://hejauppsala.com/kalender/vetenskapsfestivalen-scifest/": {
     "nar": "10 oktober (öppet för allämnheten)\n\nKl. 9-16\n\nFyrishov, Multihallarna, Idrottsgatan 2, Uppsala",
@@ -69,7 +39,7 @@
     "nar": "",
     "lank": null,
     "knapptext": null,
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/flogstavralet-the-kaliber-room8-okt-2026/": {
     "nar": "8 oktober 2026\n\nKl: 21.00 (insläpp: 16.00)\n\nThe Kaliber Room, Uppsala",
@@ -255,13 +225,7 @@
     "nar": "",
     "lank": null,
     "knapptext": null,
-    "hamtad": "2026-10-07"
-  },
-  "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026-2/": {
-    "nar": "4 jul 2026 – 20 dec 2026\n\nKl 15:00 – 15:45\n\nUpplandsmuseet\n\nUppsala kommun",
-    "lank": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/",
-    "knapptext": "Mer info",
-    "hamtad": "2026-10-02"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/banned-book-festival-10-okt-202/": {
     "nar": "10 okt 2026 – 10 okt 2026\n\nKl 11:00 – 16:00\n\nUppsala stadsbibliotek\n\nUppsala kommun",
@@ -274,6 +238,12 @@
     "lank": "https://www.upplandsmuseet.se/gamla-uppsala-museum/besok-gamla-uppsala-museum/",
     "knapptext": "Mer info",
     "hamtad": "2026-10-07"
+  },
+  "https://hejauppsala.com/kalender/stadsvandring-okt-2026/": {
+    "nar": "Oktober 2026\n\nLördagar och Söndagar\n\nKl 15:00\n\nUpplandsmuseet\n\nUppsala",
+    "lank": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/",
+    "knapptext": "Mer info",
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/a-tribute-to-dire-straits-ukk-2026/": {
     "nar": "11 oktober 2026\n\nKl. 19.30\n\nUppsala Konsert & Kongress, Uppsala",
@@ -323,6 +293,18 @@
     "knapptext": "Mer info",
     "hamtad": "2026-09-30"
   },
+  "https://hejauppsala.com/kalender/curlingens-dag-11-oktober-2026/": {
+    "nar": "11 oktober 2026\n\nKl: 11.00-15.00\n\nCurlingkompaniet (bakom ICA Maxi Stenhagen), Uppsala",
+    "lank": null,
+    "knapptext": null,
+    "hamtad": "2026-10-06"
+  },
+  "https://hejauppsala.com/kalender/bakluckeloppis-ulva-kvarn-2026-27-okt/": {
+    "nar": "11 oktober 2026\n\nKl 10:30 – 16:00\n\nUlva kvarn, Uppsala",
+    "lank": "https://www.ulvakvarn.com/ulva-bakluckeloppis-besokare/",
+    "knapptext": "Mer info",
+    "hamtad": "2026-10-08"
+  },
   "https://hejauppsala.com/kalender/forfattarbesok-erika-bjerstrom-2026/": {
     "nar": "12 oktober 2026\n\nKl: 19-20\n\nGottsundabiblioteket, Uppsala",
     "lank": "https://bibliotekuppsala.se/evenemang#/events/bb3110fc-6d2d-429c-812b-a58fc9a5a9dc?tag=F%C3%B6rfattarbes%C3%B6k&tag=Klimat%20och%20milj%C3%B6&targetAudience=Vuxen",
@@ -358,6 +340,12 @@
     "lank": "http://himlenarblasomenapelsin.com",
     "knapptext": "Mer info",
     "hamtad": "2026-10-06"
+  },
+  "https://hejauppsala.com/kalender/eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum-2/": {
+    "nar": "3 okt 2026 – 31 jan 2027\n\nTisdag–onsdag: 11:00–17:00\n\nTorsdag: 11:00–21:00\n\nFredag–söndag: 11:00–17:00\n\nCafé och bar har samma öppettider.\n\nUppsala Konstmuseum, Uppsala slott",
+    "lank": "https://konstmuseum.uppsala.se/utstallningar/a-possible-image--of-what-is-just-becoming-reality/",
+    "knapptext": "Mer info",
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/fredrik-lindborg-katalins-bakficka-2026/": {
     "nar": "14 oktober 2026\n\nKl. 20.00 (insläpp 18)\n\nKatalins bakficka, Uppsala",
@@ -437,6 +425,12 @@
     "knapptext": null,
     "hamtad": "2026-10-05"
   },
+  "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-2/": {
+    "nar": "10 okt – 22 nov 2026\n\nKl 12:00 – 16:00\n\nBror Hjorths Hus, Norbyvägen 26, Uppsala",
+    "lank": "https://brorhjorthshus.se/besok-bror-hjorths-hus/",
+    "knapptext": "Besöks info",
+    "hamtad": "2026-10-08"
+  },
   "https://hejauppsala.com/kalender/eva-dahlgren-ukk-2026/": {
     "nar": "16 oktober 2026\n\nKl. 19.00\n\nUppsala Konsert & Kongress, Uppsala",
     "lank": null,
@@ -495,7 +489,7 @@
     "nar": "",
     "lank": null,
     "knapptext": null,
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/lordagsjazz-katalin-2026-2-2-2-2/": {
     "nar": "17 oktober 2026\n\nKl. 14.30-16.30\n\nKatalin, Uppsala",
@@ -513,7 +507,7 @@
     "nar": "",
     "lank": "https://taysta.se/biljetter/uppsala?event=28324",
     "knapptext": "Läs mer & boka",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/lordagsmusik-orgelkonsert-13/": {
     "nar": "17 okt 2026\n\nKl 11:30\n\nDomkyrkan\n\nUppsala",
@@ -537,19 +531,25 @@
     "nar": "",
     "lank": null,
     "knapptext": null,
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
-  "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026-2-2/": {
-    "nar": "4 jul 2026 – 20 dec 2026\n\nKl 15:00 – 15:45\n\nUpplandsmuseet\n\nUppsala kommun",
+  "https://hejauppsala.com/kalender/stadsvandring-okt-2026-2/": {
+    "nar": "Oktober 2026\n\nLördagar och Söndagar\n\nKl 15:00\n\nUpplandsmuseet\n\nUppsala",
     "lank": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/",
     "knapptext": "Mer info",
-    "hamtad": "2026-10-02"
+    "hamtad": "2026-10-08"
+  },
+  "https://hejauppsala.com/kalender/korkonsert-okt-2026/": {
+    "nar": "17 okt 2026\n\nKl 16:00\n\nDomkyrkan\n\nUppsala",
+    "lank": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/flickkorer-fran-lund-och-uppsala-i-tva-uruppforanden",
+    "knapptext": "Mer info",
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/robert-wells-ukk-2026/": {
     "nar": "",
     "lank": "https://secure.tickster.com/sv/tpmbjbvpmpr00rz/selectproductgroup",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/bo-kaspers-orkester/": {
     "nar": "18 oktober 2026\n\nKl. 19.00\n\nUppsala Konsert & Kongress",
@@ -591,7 +591,7 @@
     "nar": "",
     "lank": "https://secure.tickster.com/sv/k47htwfae7c199n/products",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2-2-2/": {
     "nar": "20 oktober 2026\n\nKl. 11.30\n\nKatalins Bakficka, Uppsala",
@@ -605,11 +605,23 @@
     "knapptext": "Mer info",
     "hamtad": "2026-10-06"
   },
+  "https://hejauppsala.com/kalender/eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum-2-2/": {
+    "nar": "3 okt 2026 – 31 jan 2027\n\nTisdag–onsdag: 11:00–17:00\n\nTorsdag: 11:00–21:00\n\nFredag–söndag: 11:00–17:00\n\nCafé och bar har samma öppettider.\n\nUppsala Konstmuseum, Uppsala slott",
+    "lank": "https://konstmuseum.uppsala.se/utstallningar/a-possible-image--of-what-is-just-becoming-reality/",
+    "knapptext": "Mer info",
+    "hamtad": "2026-10-08"
+  },
+  "https://hejauppsala.com/kalender/uppsala-tillsammans-2026/": {
+    "nar": "20 oktober 2026\n\nKl. 15.00 & 19.00\n\nUppsala Konsert & Kongress, Uppsala",
+    "lank": null,
+    "knapptext": null,
+    "hamtad": "2026-10-08"
+  },
   "https://hejauppsala.com/kalender/langbacka-badagard-2026/": {
     "nar": "",
     "lank": "https://secure.tickster.com/sv/544l30392u0ergz/products",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/sara-parkman-2026/": {
     "nar": "21 oktober 2026\n\nKl. 20.00 (insläpp 18)\n\nKatalin, Uppsala",
@@ -621,7 +633,7 @@
     "nar": "",
     "lank": null,
     "knapptext": null,
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/daniel-lemma-2026/": {
     "nar": "22 oktober 2026\n\nKl. 20.00 (insläpp 18)\n\nKatalins Bakficka, Uppsala",
@@ -675,13 +687,19 @@
     "nar": "",
     "lank": null,
     "knapptext": null,
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/demokrati-debatt-i-uppsala-2026/": {
     "nar": "22 okt 2026\n\nKl 18:30 – 20:30\n\nTovensalen, Uppsala Missionskyrka",
     "lank": null,
     "knapptext": null,
     "hamtad": "2026-10-06"
+  },
+  "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-2-2/": {
+    "nar": "10 okt – 22 nov 2026\n\nKl 12:00 – 16:00\n\nBror Hjorths Hus, Norbyvägen 26, Uppsala",
+    "lank": "https://brorhjorthshus.se/besok-bror-hjorths-hus/",
+    "knapptext": "Besöks info",
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/grymlings-ukk-2026/": {
     "nar": "23 oktober 2026\n\nKl. 19.30\n\nUppsala Konsert & Kongress, Uppsala",
@@ -777,7 +795,7 @@
     "nar": "",
     "lank": null,
     "knapptext": null,
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/kunskapslordag-uppsala-auktionskammare-2026-2-2/": {
     "nar": "24 oktober 2026\n\nKl 13.oo\n\nUppsala Auktionskammare, Säbygatan 4 i främre Boländerna, Uppsala",
@@ -839,11 +857,11 @@
     "knapptext": "Mer info",
     "hamtad": "2026-09-30"
   },
-  "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026-2-2-2/": {
-    "nar": "4 jul 2026 – 20 dec 2026\n\nKl 15:00 – 15:45\n\nUpplandsmuseet\n\nUppsala kommun",
+  "https://hejauppsala.com/kalender/stadsvandring-okt-2026-2-2/": {
+    "nar": "Oktober 2026\n\nLördagar och Söndagar\n\nKl 15:00\n\nUpplandsmuseet\n\nUppsala",
     "lank": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/",
     "knapptext": "Mer info",
-    "hamtad": "2026-10-02"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/tomas-ledin-ukk-2026/": {
     "nar": "25 oktober 2026\n\nKl. 19.00\n\nUppsala Konsert & Kongress, Uppsala",
@@ -874,6 +892,12 @@
     "lank": null,
     "knapptext": null,
     "hamtad": "2026-09-24"
+  },
+  "https://hejauppsala.com/kalender/norwich-cathedral-choir-2026/": {
+    "nar": "25 okt 2026\n\nKl 18:00\n\nDomkyrkan\n\nUppsala",
+    "lank": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/norwich-cathedral-choir-gastar-med-engelsk-korklang",
+    "knapptext": "Mer info",
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/1789-2026/": {
     "nar": "26 oktober 2026\n\nKl. 13.00\n\nUppsala Konsert & Kongress, Uppsala",
@@ -910,6 +934,12 @@
     "lank": "http://himlenarblasomenapelsin.com",
     "knapptext": "Mer info",
     "hamtad": "2026-10-06"
+  },
+  "https://hejauppsala.com/kalender/eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum-2-2-2/": {
+    "nar": "3 okt 2026 – 31 jan 2027\n\nTisdag–onsdag: 11:00–17:00\n\nTorsdag: 11:00–21:00\n\nFredag–söndag: 11:00–17:00\n\nCafé och bar har samma öppettider.\n\nUppsala Konstmuseum, Uppsala slott",
+    "lank": "https://konstmuseum.uppsala.se/utstallningar/a-possible-image--of-what-is-just-becoming-reality/",
+    "knapptext": "Mer info",
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/jonatan-stenson-blackheart-2026/": {
     "nar": "28 oktober 2026\n\nKl. 20.00 (insläpp 18.00)\n\nKatalins Bakficka, Uppsala",
@@ -976,6 +1006,12 @@
     "lank": null,
     "knapptext": null,
     "hamtad": "2026-09-28"
+  },
+  "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-2-2-2/": {
+    "nar": "10 okt – 22 nov 2026\n\nKl 12:00 – 16:00\n\nBror Hjorths Hus, Norbyvägen 26, Uppsala",
+    "lank": "https://brorhjorthshus.se/besok-bror-hjorths-hus/",
+    "knapptext": "Besöks info",
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/elton-john-meets-freddie-mercury-ukk/": {
     "nar": "30 oktober 2026\n\nKl. 19.30\n\nUppsala Konsert & Kongress, Uppsala",
@@ -1103,6 +1139,12 @@
     "knapptext": "Köp biljetter",
     "hamtad": "2026-10-02"
   },
+  "https://hejauppsala.com/kalender/stadsvandring-okt-2026-2-2-2/": {
+    "nar": "Oktober 2026\n\nLördagar och Söndagar\n\nKl 15:00\n\nUpplandsmuseet\n\nUppsala",
+    "lank": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/",
+    "knapptext": "Mer info",
+    "hamtad": "2026-10-08"
+  },
   "https://hejauppsala.com/kalender/elvis-elvis-elvis-ukk-2026/": {
     "nar": "1 november 2026\n\nKl. 18.00\n\nUppsala Konsert & Kongress, Uppsala",
     "lank": "https://secure.tickster.com/sv/x29dukujjlzlpt9/selectproductgroup",
@@ -1131,7 +1173,13 @@
     "nar": "",
     "lank": "https://secure.tickster.com/sv/n6zu4plvze6vdb8/seating",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
+  },
+  "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-nov/": {
+    "nar": "10 okt – 22 nov 2026\n\nKl 12:00 – 16:00\n\nBror Hjorths Hus, Norbyvägen 26, Uppsala",
+    "lank": "https://brorhjorthshus.se/besok-bror-hjorths-hus/",
+    "knapptext": "Besöks info",
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/uppsala-basket-h-boras-2-nov-2026/": {
     "nar": "2 november 2026\n\n19:04\n\nFyrishov A, Uppsala",
@@ -1192,6 +1240,12 @@
     "lank": null,
     "knapptext": null,
     "hamtad": "2026-10-05"
+  },
+  "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-nov-2/": {
+    "nar": "10 okt – 22 nov 2026\n\nKl 12:00 – 16:00\n\nBror Hjorths Hus, Norbyvägen 26, Uppsala",
+    "lank": "https://brorhjorthshus.se/besok-bror-hjorths-hus/",
+    "knapptext": "Besöks info",
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/sven-ingvars-ukk-2026/": {
     "nar": "6 november 2026\n\nKl. 19.00\n\nUppsala Konsert & Kongress, Uppsala",
@@ -1307,6 +1361,12 @@
     "knapptext": "Mer info",
     "hamtad": "2026-10-01"
   },
+  "https://hejauppsala.com/kalender/framtidsglod-2026/": {
+    "nar": "8 november 2026\n\nKl. 13.00-18.00\n\nUppsala Konsert & Kongress",
+    "lank": "https://ukk.se/framtidsglod/",
+    "knapptext": "Mer info",
+    "hamtad": "2026-10-08"
+  },
   "https://hejauppsala.com/kalender/jazzlunch-pa-katalins-bakficka-2026-10-nov/": {
     "nar": "10 november 2026\n\nKl. 11.30\n\nKatalins Bakficka, Uppsala",
     "lank": "https://www.katalin.com/events/jazzlunch-med-jazzfellows-med-laura/",
@@ -1373,11 +1433,17 @@
     "knapptext": null,
     "hamtad": "2026-09-28"
   },
+  "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-nov-2-2/": {
+    "nar": "10 okt – 22 nov 2026\n\nKl 12:00 – 16:00\n\nBror Hjorths Hus, Norbyvägen 26, Uppsala",
+    "lank": "https://brorhjorthshus.se/besok-bror-hjorths-hus/",
+    "knapptext": "Besöks info",
+    "hamtad": "2026-10-08"
+  },
   "https://hejauppsala.com/kalender/les-big-byrd/": {
     "nar": "",
     "lank": "https://secure.tickster.com/sv/rmgj8y2mgvljcmb/selectproductgroup",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/christoffer-nyqvist/": {
     "nar": "13 november 2026\n\nKl. 19.30\n\nUppsala Konsert & Kongress",
@@ -1461,7 +1527,7 @@
     "nar": "",
     "lank": null,
     "knapptext": null,
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/jonas-lundqvist-2026/": {
     "nar": "14 november 2026\n\nKl. 20.00 (insläpp 18)\n\nKatalin, Uppsala",
@@ -1595,11 +1661,17 @@
     "knapptext": null,
     "hamtad": "2026-09-28"
   },
+  "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-nov-2-2-2/": {
+    "nar": "10 okt – 22 nov 2026\n\nKl 12:00 – 16:00\n\nBror Hjorths Hus, Norbyvägen 26, Uppsala",
+    "lank": "https://brorhjorthshus.se/besok-bror-hjorths-hus/",
+    "knapptext": "Besöks info",
+    "hamtad": "2026-10-08"
+  },
   "https://hejauppsala.com/kalender/hansson-de-wolfe-united/": {
     "nar": "",
     "lank": "https://secure.tickster.com/sv/w1fhg0kklbgwkv5/selectproductgroup",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/en-kvall-pa-operan-katalins-bakficka/": {
     "nar": "20 november 2026\n\nKl. 20.00 (insläpp kl 18.00)\n\nBordsbokning: Sker i samband med biljettköp. Matgästerna ska vara på plats senast kl 19.00\n\nKatalins bakficka, Uppsala",
@@ -1647,7 +1719,7 @@
     "nar": "",
     "lank": "https://taysta.se/biljetter/uppsala?event=29672",
     "knapptext": "Läs mer & boka",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/carte-blanche-21-november/": {
     "nar": "21 november 2026\n\nKl. 16.00 (restaurangen öppnar 14.00)\n\nUppsala Konsert & Kongress, Uppsala",
@@ -1857,7 +1929,7 @@
     "nar": "",
     "lank": null,
     "knapptext": null,
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/kunskapslordag-uppsala-auktionskammare-2026-2-2-2/": {
     "nar": "28 november 2026\n\nKl 13.oo\n\nUppsala Auktionskammare, Säbygatan 4 i främre Boländerna, Uppsala",
@@ -2171,12 +2243,6 @@
     "knapptext": "Köp biljetter",
     "hamtad": "2026-09-24"
   },
-  "https://hejauppsala.com/kalender/curlingens-dag-11-oktober-2026/": {
-    "nar": "11 oktober 2026\n\nKl: 11.00-15.00\n\nCurlingkompaniet (bakom ICA Maxi Stenhagen), Uppsala",
-    "lank": null,
-    "knapptext": null,
-    "hamtad": "2026-10-06"
-  },
   "https://hejauppsala.com/kalender/the-last-waltz/": {
     "nar": "12 december 2026\n\nKl. 20.00 (insläpp 18)\n\nKatalin, Uppsala",
     "lank": "https://secure.tickster.com/sv/jbptmjw6b7k06a0/selectproductgroup",
@@ -2199,7 +2265,7 @@
     "nar": "",
     "lank": "https://billetto.se/users/musicum-uppsala-universitet",
     "knapptext": "Mer info och biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/barnens-julvarld-ukk-2026/": {
     "nar": "12 december 2026\n\nKl. 14.00\n\nUppsala Konsert & Kongress",
@@ -2289,7 +2355,7 @@
     "nar": "",
     "lank": null,
     "knapptext": null,
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/storvreta-dam-lockerud-19-dec-2026/": {
     "nar": "19 december 2026\n\nKl: 14.00\n\nIfu Arena",
@@ -2313,7 +2379,7 @@
     "nar": "",
     "lank": null,
     "knapptext": null,
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/uppsala-rumble-mellandagspunk-2026/": {
     "nar": "26 december 2026\n\nKl. 20.00 (insläpp 18.00)\n\nKatalin, Uppsala",
@@ -2367,7 +2433,7 @@
     "nar": "",
     "lank": null,
     "knapptext": null,
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/almtuna-mora-8-jan-2027/": {
     "nar": "8 januari 2027\n\n19.00\n\nGränby ishall, Uppsala",
@@ -2441,6 +2507,18 @@
     "knapptext": null,
     "hamtad": "2026-09-24"
   },
+  "https://hejauppsala.com/kalender/djungelboken-the-musical-2027/": {
+    "nar": "23 januari 2027\n\nKl. 12.00 & 16.00\n\nUppsala Konsert & Kongress, Uppsala",
+    "lank": "https://secure.tickster.com/sv/adbg24052n8j0r4/selectproductgroup",
+    "knapptext": "Köp biljetter till 12.00",
+    "hamtad": "2026-10-08"
+  },
+  "https://hejauppsala.com/kalender/poste-restante-jan-2027/": {
+    "nar": "24 januari 2027\n\nKl. 16.00\n\nUppsala Konsert & Kongress, Uppsala",
+    "lank": "https://secure.tickster.com/sv/7u5xxfv6bth9p98/selectproductgroup",
+    "knapptext": "Köp biljetter",
+    "hamtad": "2026-10-08"
+  },
   "https://hejauppsala.com/kalender/almtuna-vasteras-27-jan-2026/": {
     "nar": "27 januari 2027\n\n19.00\n\nGränby ishall, Uppsala",
     "lank": null,
@@ -2453,6 +2531,18 @@
     "knapptext": "Köp biljett",
     "hamtad": "2026-09-24"
   },
+  "https://hejauppsala.com/kalender/uppsala-kammarorkester-copland-och-beethoven-2027/": {
+    "nar": "28 januari 2027\n\nKl. 19.00\n\nUppsala Konsert & Kongress, Uppsala",
+    "lank": null,
+    "knapptext": null,
+    "hamtad": "2026-10-08"
+  },
+  "https://hejauppsala.com/kalender/exklusivt-gastspel-asiatisk-middagsupplevelse/": {
+    "nar": "29 januari 2027\n\nKl. 18.00\n\nKAIJA (Vaksala-Lunda 220)",
+    "lank": "https://www.tickster.com/se/sv/events/3cfgpfkglbmwxm0/2027-01-29/asiatisk-middagsupplevelse",
+    "knapptext": "Boka plats",
+    "hamtad": "2026-10-08"
+  },
   "https://hejauppsala.com/kalender/ser-jag-tjock-ut-i-den-har-2026/": {
     "nar": "29 jan 2027\n\nKl 19:00 – 20:30\n\nUKK, Stora salen\n\nUppsala",
     "lank": "https://ukk.se/ser-jag-tjock-ut-i-den-har/",
@@ -2463,13 +2553,13 @@
     "nar": "",
     "lank": "https://secure.tickster.com/sv/v93449drn3txn9u/selectproductgroup",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/ost-och-vinprovning-pa-saluhallen-30-jan-2027/": {
     "nar": "",
     "lank": "https://taysta.se/biljetter/uppsala?event=28326",
     "knapptext": "Läs mer & boka",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/uppsala-basket-d-alvik-30-jan-2027/": {
     "nar": "30 januari 2027\n\n15.00\n\nRosendalshallen Usif Arena, Uppsala",
@@ -2481,7 +2571,13 @@
     "nar": "",
     "lank": "https://secure.tickster.com/sv/vzxc44bxnwzezdk/selectproductgroup",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
+  },
+  "https://hejauppsala.com/kalender/the-dire-straits-experience-2027/": {
+    "nar": "4 februari 2027\n\nKl. 19.30\n\nUppsala Konsert & Kongress, Uppsala",
+    "lank": "https://secure.tickster.com/sv/ac01aaggf4u5mrw/selectproductgroup",
+    "knapptext": "Köp biljetter",
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/nour-el-refai-ukk-2027/": {
     "nar": "5 februari 2027\n\nKl. 19.00\n\nUppsala Konsert & Kongress, Uppsala",
@@ -2523,7 +2619,13 @@
     "nar": "",
     "lank": "https://secure.tickster.com/sv/abw0z29x84w9dzc/selectproductgroup",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
+  },
+  "https://hejauppsala.com/kalender/the-very-best-of-thin-lizzy-phil-lynott-and-gary-moore-2027/": {
+    "nar": "6 februari 2027\n\nKl. 19.30\n\nUppsala Konsert & Kongress, Uppsala",
+    "lank": "https://secure.tickster.com/sv/3xd3kt3rd5y68z8/selectproductgroup",
+    "knapptext": "Köp biljetter",
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/molly-hammar/": {
     "nar": "11 februari 2027\n\nKl. 19.30\n\nUppsala Konsert och Kongress",
@@ -2535,7 +2637,7 @@
     "nar": "",
     "lank": "https://secure.tickster.com/sv/rtat7ch8y7zgugl/selectproductgroup",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/sirius-saik-12-feb-2027/": {
     "nar": "12 februari 2027\n\nKl 19.00\n\nStudenternas\n\nUppsala kommun",
@@ -2547,7 +2649,13 @@
     "nar": "",
     "lank": "https://secure.tickster.com/sv/132pra2x5t5xb26/selectproductgroup",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
+  },
+  "https://hejauppsala.com/kalender/keramikkurs-pa-fredagar-e-m/": {
+    "nar": "12 feb 2027 – 9 apr 2027\n\nKl 13:00 – 16:00\n\nSt Persgatan 22B\n\nUppsala",
+    "lank": "https://www.abf.se/aros/kurs/keramik-fredagar-kl-13-16-122-uppsala-3954006/",
+    "knapptext": "Mer info",
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/kim-wilde/": {
     "nar": "13 februari 2027\n\nKl. 19.30\n\nUppsala Konsert & Kongress",
@@ -2559,7 +2667,7 @@
     "nar": "",
     "lank": "https://secure.tickster.com/sv/7de740jdu0wm74h/selectproductgroup",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/storvreta-dam-warberg-14-feb-2027/": {
     "nar": "14 februari 2027\n\nKl: 13.00\n\nIfu Arena",
@@ -2573,6 +2681,12 @@
     "knapptext": null,
     "hamtad": "2026-09-24"
   },
+  "https://hejauppsala.com/kalender/uppsala-kammarorkester-korngolds-violinkonsert-2027/": {
+    "nar": "18 februari 2027\n\nKl. 19.00\n\nUppsala Konsert & Kongress, Uppsala",
+    "lank": null,
+    "knapptext": null,
+    "hamtad": "2026-10-08"
+  },
   "https://hejauppsala.com/kalender/almtuna-sodertalje-19-feb-2026/": {
     "nar": "19 februari 2027\n\n19.00\n\nGränby ishall, Uppsala",
     "lank": null,
@@ -2584,6 +2698,12 @@
     "lank": "https://secure.tickster.com/sv/1ea0pntuaudmv1a/products",
     "knapptext": "Köp biljetter",
     "hamtad": "2026-10-06"
+  },
+  "https://hejauppsala.com/kalender/orsa-spelman-med-tina-ahlin-bengan-janson-ukk-2027/": {
+    "nar": "19 februari 2027\n\nKl. 19.00\n\nUppsala Konsert & Kongress, Uppsala",
+    "lank": null,
+    "knapptext": null,
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/uppsala-basket-d-hogsbo-20-feb-2027/": {
     "nar": "20 februari 2027\n\n15.00\n\nRosendalshallen Usif Arena, Uppsala",
@@ -2625,7 +2745,7 @@
     "nar": "",
     "lank": "https://secure.tickster.com/sv/uxfta84v5rjre74/selectproductgroup",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/lisa-ekdahl-2027-katalin/": {
     "nar": "5 mars 2027\n\nKl. 20.00 (insläpp 18)\n\nKatalin, Uppsala",
@@ -2715,19 +2835,19 @@
     "nar": "",
     "lank": "https://taysta.se/biljetter/uppsala?event=29673",
     "knapptext": "Läs mer & boka",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/doktor-glas-en-monolog-med-jens-hulten-2027-katalin/": {
     "nar": "",
     "lank": "https://secure.tickster.com/sv/leu22wx8y2665zm/selectproductgroup",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/hfmc-hasse-froberg-musical-companion-avskedskonsert/": {
     "nar": "",
     "lank": "https://secure.tickster.com/sv/fk7zec2k51epmp6/selectproductgroup",
     "knapptext": "Köp biljetter",
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-08"
   },
   "https://hejauppsala.com/kalender/hipphipp-live-ukk-2027/": {
     "nar": "24 april 2027\n\nKl. 19.30\n\n25 april 2027\n\nKl. 15.00\n\nUppsala Konsert & Kongress, Uppsala",

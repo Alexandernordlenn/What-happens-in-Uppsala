@@ -1,57 +1,9 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-10-07T04:30:28.569Z",
-  "antal": 185,
+  "hamtad": "2026-10-08T04:30:02.410Z",
+  "antal": 184,
   "evenemang": [
-    {
-      "id": "stadsteatern-126003",
-      "titel": "Bara två stjärnor",
-      "start": "2026-10-07T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Intiman"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/bara-tva-stjarnor/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30414/126003/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-121679",
-      "titel": "Stadens ljus",
-      "start": "2026-10-07T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Stora scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/121679/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "stadsteatern-129545",
       "titel": "Sommar",
@@ -531,6 +483,31 @@
           "namn": "Uppsala stadsteater",
           "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
           "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125901/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-135440",
+      "titel": "Samtal med Lena Andersson",
+      "start": "2026-10-23T21:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Lilla scenen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Med författaren Lena Andersson",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/samtal-med-lena-andersson/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32902/135440/"
         }
       ],
       "langvarig": false,

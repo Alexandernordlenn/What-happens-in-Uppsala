@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-10-07T04:33:41.986Z",
-  "antal": 456,
+  "hamtad": "2026-10-08T04:45:32.566Z",
+  "antal": 476,
   "evenemang": [
     {
       "id": "heja-charta-77-bonta-fran-asta-kask-2026",
@@ -116,117 +116,6 @@
       }
     },
     {
-      "id": "heja-visning-walmstedtska-garden-oktober-2026-2",
-      "titel": "Visning: Walmstedtska gården",
-      "start": "2026-07-04",
-      "slut": "2026-10-11",
-      "plats": {
-        "namn": "Upplandsmuseet",
-        "id": "upplandsmuseet"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026-2/",
-          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "museum",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-07-04",
-          "2026-12-20"
-        ],
-        "tider": {
-          "start": "15:00"
-        }
-      }
-    },
-    {
-      "id": "heja-visning-walmstedtska-garden-oktober-2026-2-2",
-      "titel": "Visning: Walmstedtska gården",
-      "start": "2026-07-04",
-      "slut": "2026-10-18",
-      "plats": {
-        "namn": "Upplandsmuseet",
-        "id": "upplandsmuseet"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026-2-2/",
-          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "museum",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-07-04",
-          "2026-12-20"
-        ],
-        "tider": {
-          "start": "15:00"
-        }
-      }
-    },
-    {
-      "id": "heja-visning-walmstedtska-garden-oktober-2026-2-2-2",
-      "titel": "Visning: Walmstedtska gården",
-      "start": "2026-07-04",
-      "slut": "2026-10-25",
-      "plats": {
-        "namn": "Upplandsmuseet",
-        "id": "upplandsmuseet"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/visning-walmstedtska-garden-oktober-2026-2-2-2/",
-          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "museum",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-07-04",
-          "2026-12-20"
-        ],
-        "tider": {
-          "start": "15:00"
-        }
-      }
-    },
-    {
       "id": "heja-visning-walmstedtska-garden-2-2-2-2-2-2-2-2-2-2-2",
       "titel": "Visning: Walmstedtska gården",
       "start": "2026-07-04",
@@ -299,39 +188,6 @@
       }
     },
     {
-      "id": "heja-eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum",
-      "titel": "Eija-Liisa Ahtila – A Possible Image",
-      "start": "2026-10-03",
-      "slut": "2027-01-31",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konst",
-          "museum",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-03",
-          "2027-01-31"
-        ]
-      }
-    },
-    {
       "id": "heja-punkt",
       "titel": "PUNKT",
       "start": "2026-10-03",
@@ -365,6 +221,172 @@
         ],
         "tider": {
           "start": "12:00"
+        }
+      }
+    },
+    {
+      "id": "heja-eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum",
+      "titel": "Eija-Liisa Ahtila – A Possible Image",
+      "start": "2026-10-03",
+      "slut": "2026-10-10",
+      "plats": {
+        "namn": "Uppsala konstmuseum",
+        "id": "konstmuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "konst",
+          "museum",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-03",
+          "2027-01-31"
+        ]
+      }
+    },
+    {
+      "id": "heja-eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum-2",
+      "titel": "Eija-Liisa Ahtila – A Possible Image",
+      "start": "2026-10-03",
+      "slut": "2026-10-17",
+      "plats": {
+        "namn": "Uppsala konstmuseum",
+        "id": "konstmuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum-2/",
+          "arrangor": "https://konstmuseum.uppsala.se/utstallningar/a-possible-image--of-what-is-just-becoming-reality/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konst",
+          "museum",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-03",
+          "2027-01-31"
+        ],
+        "dagar": [
+          "ti",
+          "on",
+          "fr",
+          "lö",
+          "sö"
+        ],
+        "tider": {
+          "start": "11:00"
+        }
+      }
+    },
+    {
+      "id": "heja-eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum-2-2",
+      "titel": "Eija-Liisa Ahtila – A Possible Image",
+      "start": "2026-10-03",
+      "slut": "2026-10-24",
+      "plats": {
+        "namn": "Uppsala konstmuseum",
+        "id": "konstmuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum-2-2/",
+          "arrangor": "https://konstmuseum.uppsala.se/utstallningar/a-possible-image--of-what-is-just-becoming-reality/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konst",
+          "museum",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-03",
+          "2027-01-31"
+        ],
+        "dagar": [
+          "ti",
+          "on",
+          "fr",
+          "lö",
+          "sö"
+        ],
+        "tider": {
+          "start": "11:00"
+        }
+      }
+    },
+    {
+      "id": "heja-eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum-2-2-2",
+      "titel": "Eija-Liisa Ahtila – A Possible Image",
+      "start": "2026-10-03",
+      "slut": "2026-10-31",
+      "plats": {
+        "namn": "Uppsala konstmuseum",
+        "id": "konstmuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum-2-2-2/",
+          "arrangor": "https://konstmuseum.uppsala.se/utstallningar/a-possible-image--of-what-is-just-becoming-reality/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konst",
+          "museum",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-03",
+          "2027-01-31"
+        ],
+        "dagar": [
+          "ti",
+          "on",
+          "fr",
+          "lö",
+          "sö"
+        ],
+        "tider": {
+          "start": "11:00"
         }
       }
     },
@@ -485,176 +507,6 @@
         ],
         "tider": {
           "start": "18:00"
-        }
-      }
-    },
-    {
-      "id": "heja-seth-and-the-car-thief-kaliber-room-2026",
-      "titel": "Seth and the Car Thief",
-      "start": "2026-10-07",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/seth-and-the-car-thief-kaliber-room-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "musik",
-          "uppsala"
-        ]
-      }
-    },
-    {
-      "id": "heja-forfattarbesok-elin-ylvasdotter-2026",
-      "titel": "Författarbesök: Elin Ylvasdotter",
-      "start": "2026-10-07T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/forfattarbesok-elin-ylvasdotter-2026/",
-          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/f01bb8ad-d740-4d48-91f7-6826adcc2ed8?location=Stadsbiblioteket&tag=F%C3%B6rfattarbes%C3%B6k"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "foredrag",
-          "hojdpunkter-hejauppsala",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-07"
-        ],
-        "tider": {
-          "start": "18:00"
-        }
-      }
-    },
-    {
-      "id": "heja-storvreta-dam-taby-7-okt-2026",
-      "titel": "Storvreta Dam-Täby",
-      "start": "2026-10-07T18:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/storvreta-dam-taby-7-okt-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "sport",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-07"
-        ],
-        "tider": {
-          "start": "18:30"
-        }
-      }
-    },
-    {
-      "id": "heja-almtuna-visby-roma-7-okt-2026",
-      "titel": "Almtuna-Visby/Roma",
-      "start": "2026-10-07T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Gränby ishall",
-        "id": "granbyishall"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/almtuna-visby-roma-7-okt-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "sport",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-07"
-        ],
-        "tider": {
-          "start": "19:00"
-        }
-      }
-    },
-    {
-      "id": "heja-oslipat-med-henrik-nyblom-2026",
-      "titel": "Oslipat med Henrik Nyblom",
-      "start": "2026-10-07T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/oslipat-med-henrik-nyblom-2026/",
-          "arrangor": "https://billetto.se/e/oslipat-med-henrik-nyblom-och-dessi-hietala-biljetter-1989066?"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "scen",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-07"
-        ],
-        "tider": {
-          "start": "20:00"
         }
       }
     },
@@ -1241,41 +1093,6 @@
       }
     },
     {
-      "id": "heja-johan-thurfjell-ljuset-2026",
-      "titel": "Johan Thurfjell – Ljuset",
-      "start": "2026-10-10",
-      "slut": "2026-11-22",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konst",
-          "museum",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-11-22"
-        ],
-        "tider": {
-          "start": "12:00"
-        }
-      }
-    },
-    {
       "id": "heja-the-overthrone-kaliber-room-2026",
       "titel": "The Overthrone",
       "start": "2026-10-10",
@@ -1409,6 +1226,42 @@
         ],
         "tider": {
           "start": "11:30"
+        }
+      }
+    },
+    {
+      "id": "heja-johan-thurfjell-ljuset-2026",
+      "titel": "Johan Thurfjell – Ljuset",
+      "start": "2026-10-10T12:00:00+02:00",
+      "slut": "2026-10-11",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "konst",
+          "museum",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-22"
+        ],
+        "tider": {
+          "start": "12:00"
         }
       }
     },
@@ -1703,6 +1556,39 @@
       }
     },
     {
+      "id": "heja-stadsvandring-okt-2026",
+      "titel": "Stadsvandring på svenska",
+      "start": "2026-10-10T15:00:00+02:00",
+      "slut": "2026-10-11",
+      "plats": {
+        "namn": "Upplandsmuseet",
+        "id": "upplandsmuseet"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/stadsvandring-okt-2026/",
+          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "museum",
+          "uppsala"
+        ],
+        "tider": {
+          "start": "15:00"
+        }
+      }
+    },
+    {
       "id": "heja-kiko-loureiro-2026-ukk",
       "titel": "Kiko Loureiro",
       "start": "2026-10-10T16:00:00+02:00",
@@ -1956,10 +1842,46 @@
       }
     },
     {
+      "id": "heja-bakluckeloppis-ulva-kvarn-2026-27-okt",
+      "titel": "Bakluckeloppis Ulva kvarn",
+      "start": "2026-10-11T10:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Ulva kvarn",
+        "id": "ulva"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/bakluckeloppis-ulva-kvarn-2026-27-okt/",
+          "arrangor": "https://www.ulvakvarn.com/ulva-bakluckeloppis-besokare/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "ovrigt",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-11"
+        ],
+        "tider": {
+          "start": "10:30"
+        }
+      }
+    },
+    {
       "id": "heja-curlingens-dag-11-oktober-2026",
       "titel": "Prova på curling",
-      "start": "2026-10-11",
-      "slut": "2027-10-11",
+      "start": "2026-10-11T11:00:00+02:00",
+      "slut": null,
       "plats": {
         "namn": "Curlingcompaniet",
         "id": "heja-plats-curlingcompaniet"
@@ -1974,7 +1896,7 @@
           "url": "https://hejauppsala.com/kalender/curlingens-dag-11-oktober-2026/"
         }
       ],
-      "langvarig": true,
+      "langvarig": false,
       "installd": false,
       "fakta": {
         "kategorier": [
@@ -2708,6 +2630,43 @@
       }
     },
     {
+      "id": "heja-johan-thurfjell-ljuset-2026-2",
+      "titel": "Johan Thurfjell – Ljuset",
+      "start": "2026-10-15",
+      "slut": "2026-10-18",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-2/",
+          "arrangor": "https://brorhjorthshus.se/besok-bror-hjorths-hus/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "konst",
+          "museum",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-22"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
+      }
+    },
+    {
       "id": "heja-art-night-2026-2-2-2-2-2",
       "titel": "Art Night på Uppsala konstmuseum",
       "start": "2026-10-15T17:00:00+02:00",
@@ -3427,6 +3386,75 @@
       }
     },
     {
+      "id": "heja-stadsvandring-okt-2026-2",
+      "titel": "Stadsvandring på svenska",
+      "start": "2026-10-17T15:00:00+02:00",
+      "slut": "2026-10-18",
+      "plats": {
+        "namn": "Upplandsmuseet",
+        "id": "upplandsmuseet"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/stadsvandring-okt-2026-2/",
+          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "museum",
+          "uppsala"
+        ],
+        "tider": {
+          "start": "15:00"
+        }
+      }
+    },
+    {
+      "id": "heja-korkonsert-okt-2026",
+      "titel": "Körkonsert",
+      "start": "2026-10-17T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala domkyrka",
+        "id": "domkyrkan"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/korkonsert-okt-2026/",
+          "arrangor": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/flickkorer-fran-lund-och-uppsala-i-tva-uruppforanden"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "gratis",
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-17"
+        ],
+        "tider": {
+          "start": "16:00"
+        }
+      }
+    },
+    {
       "id": "heja-bambo-och-abdou-cissokho-2026",
       "titel": "Bambo och Abdou Cissokho",
       "start": "2026-10-17T17:00:00+02:00",
@@ -3817,6 +3845,41 @@
       }
     },
     {
+      "id": "heja-uppsala-tillsammans-2026",
+      "titel": "Uppsala tillsammans",
+      "start": "2026-10-20T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/uppsala-tillsammans-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "ovrigt",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-20"
+        ],
+        "tider": {
+          "start": "15:00"
+        }
+      }
+    },
+    {
       "id": "heja-lisa-nilsson-moter-bohuslan-big-band-ukk-2026",
       "titel": "Lisa Nilsson möter Bohuslän Big Band – UKK – 2026",
       "start": "2026-10-20T19:30:00+02:00",
@@ -4045,6 +4108,42 @@
           "musik",
           "uppsala"
         ]
+      }
+    },
+    {
+      "id": "heja-johan-thurfjell-ljuset-2026-2-2",
+      "titel": "Johan Thurfjell – Ljuset",
+      "start": "2026-10-22",
+      "slut": "2026-10-25",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-2-2/",
+          "arrangor": "https://brorhjorthshus.se/besok-bror-hjorths-hus/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konst",
+          "museum",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-22"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
       }
     },
     {
@@ -4474,7 +4573,7 @@
     },
     {
       "id": "heja-grymlings-ukk-2026",
-      "titel": "Grymlings – Ukk – 2026",
+      "titel": "Grymlings",
       "start": "2026-10-23T19:30:00+02:00",
       "slut": null,
       "plats": {
@@ -5039,6 +5138,38 @@
       }
     },
     {
+      "id": "heja-stadsvandring-okt-2026-2-2",
+      "titel": "Stadsvandring på svenska",
+      "start": "2026-10-24T15:00:00+02:00",
+      "slut": "2026-10-25",
+      "plats": {
+        "namn": "Upplandsmuseet",
+        "id": "upplandsmuseet"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/stadsvandring-okt-2026-2-2/",
+          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "museum",
+          "uppsala"
+        ],
+        "tider": {
+          "start": "15:00"
+        }
+      }
+    },
+    {
       "id": "heja-carte-blanche-24-oktober",
       "titel": "Carte Blanche – 24 oktober",
       "start": "2026-10-24T16:00:00+02:00",
@@ -5249,6 +5380,43 @@
         ],
         "tider": {
           "start": "14:00"
+        }
+      }
+    },
+    {
+      "id": "heja-norwich-cathedral-choir-2026",
+      "titel": "Norwich Cathedral Choir",
+      "start": "2026-10-25T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala domkyrka",
+        "id": "domkyrkan"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/norwich-cathedral-choir-2026/",
+          "arrangor": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/norwich-cathedral-choir-gastar-med-engelsk-korklang"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "gratis",
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-25"
+        ],
+        "tider": {
+          "start": "18:00"
         }
       }
     },
@@ -5712,6 +5880,42 @@
         ],
         "tider": {
           "start": "20:00"
+        }
+      }
+    },
+    {
+      "id": "heja-johan-thurfjell-ljuset-2026-2-2-2",
+      "titel": "Johan Thurfjell – Ljuset",
+      "start": "2026-10-29T12:00:00+01:00",
+      "slut": "2026-10-30",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-2-2-2/",
+          "arrangor": "https://brorhjorthshus.se/besok-bror-hjorths-hus/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konst",
+          "museum",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-22"
+        ],
+        "tider": {
+          "start": "12:00"
         }
       }
     },
@@ -6424,6 +6628,38 @@
       }
     },
     {
+      "id": "heja-stadsvandring-okt-2026-2-2-2",
+      "titel": "Stadsvandring på svenska",
+      "start": "2026-10-31T15:00:00+01:00",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Upplandsmuseet",
+        "id": "upplandsmuseet"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/stadsvandring-okt-2026-2-2-2/",
+          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "museum",
+          "uppsala"
+        ],
+        "tider": {
+          "start": "15:00"
+        }
+      }
+    },
+    {
       "id": "heja-den-lille-prinsen-2026",
       "titel": "Den Lille Prinsen",
       "start": "2026-10-31T16:00:00+01:00",
@@ -6695,6 +6931,43 @@
           "musik",
           "uppsala"
         ]
+      }
+    },
+    {
+      "id": "heja-johan-thurfjell-ljuset-2026-nov",
+      "titel": "Johan Thurfjell – Ljuset",
+      "start": "2026-11-01T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-nov/",
+          "arrangor": "https://brorhjorthshus.se/besok-bror-hjorths-hus/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "konst",
+          "museum",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-22"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
       }
     },
     {
@@ -7016,6 +7289,42 @@
         ],
         "tider": {
           "start": "20:00"
+        }
+      }
+    },
+    {
+      "id": "heja-johan-thurfjell-ljuset-2026-nov-2",
+      "titel": "Johan Thurfjell – Ljuset",
+      "start": "2026-11-05",
+      "slut": "2026-11-08",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-nov-2/",
+          "arrangor": "https://brorhjorthshus.se/besok-bror-hjorths-hus/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konst",
+          "museum",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-22"
+        ],
+        "tider": {
+          "start": "12:00"
         }
       }
     },
@@ -7658,6 +7967,43 @@
       }
     },
     {
+      "id": "heja-framtidsglod-2026",
+      "titel": "Framtidsglöd",
+      "start": "2026-11-08T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/framtidsglod-2026/",
+          "arrangor": "https://ukk.se/framtidsglod/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "gratis",
+          "hojdpunkter-hejauppsala",
+          "ovrigt",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-08"
+        ],
+        "tider": {
+          "start": "13:00"
+        }
+      }
+    },
+    {
       "id": "heja-svenska-rocklegender-2026",
       "titel": "Svenska Rocklegender",
       "start": "2026-11-08T14:00:00+01:00",
@@ -8014,6 +8360,42 @@
         ],
         "tider": {
           "start": "20:00"
+        }
+      }
+    },
+    {
+      "id": "heja-johan-thurfjell-ljuset-2026-nov-2-2",
+      "titel": "Johan Thurfjell – Ljuset",
+      "start": "2026-11-12",
+      "slut": "2026-11-15",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-nov-2-2/",
+          "arrangor": "https://brorhjorthshus.se/besok-bror-hjorths-hus/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konst",
+          "museum",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-22"
+        ],
+        "tider": {
+          "start": "12:00"
         }
       }
     },
@@ -9199,6 +9581,42 @@
         ],
         "tider": {
           "start": "20:00"
+        }
+      }
+    },
+    {
+      "id": "heja-johan-thurfjell-ljuset-2026-nov-2-2-2",
+      "titel": "Johan Thurfjell – Ljuset",
+      "start": "2026-11-19",
+      "slut": "2026-11-22",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026-nov-2-2-2/",
+          "arrangor": "https://brorhjorthshus.se/besok-bror-hjorths-hus/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konst",
+          "museum",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-22"
+        ],
+        "tider": {
+          "start": "12:00"
         }
       }
     },
@@ -14364,6 +14782,79 @@
       }
     },
     {
+      "id": "heja-djungelboken-the-musical-2027",
+      "titel": "Djungelboken – The Musical",
+      "start": "2027-01-23T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/djungelboken-the-musical-2027/",
+          "arrangor": "https://secure.tickster.com/sv/adbg24052n8j0r4/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "familj",
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-01-23"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
+      }
+    },
+    {
+      "id": "heja-poste-restante-jan-2027",
+      "titel": "Poste Restante – 24/1",
+      "start": "2027-01-24T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/poste-restante-jan-2027/",
+          "arrangor": "https://secure.tickster.com/sv/7u5xxfv6bth9p98/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-01-24"
+        ],
+        "tider": {
+          "start": "16:00"
+        }
+      }
+    },
+    {
       "id": "heja-almtuna-vasteras-27-jan-2026",
       "titel": "Almtuna-Västerås",
       "start": "2027-01-27T19:00:00+01:00",
@@ -14433,6 +14924,41 @@
       }
     },
     {
+      "id": "heja-uppsala-kammarorkester-copland-och-beethoven-2027",
+      "titel": "Uppsala Kammarorkester – Copland och Beethoven",
+      "start": "2027-01-28T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/uppsala-kammarorkester-copland-och-beethoven-2027/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-01-28"
+        ],
+        "tider": {
+          "start": "19:00"
+        }
+      }
+    },
+    {
       "id": "heja-hannes-aitman-2027-katalin",
       "titel": "Hannes Aitman",
       "start": "2027-01-29",
@@ -14460,6 +14986,42 @@
           "musik",
           "uppsala"
         ]
+      }
+    },
+    {
+      "id": "heja-exklusivt-gastspel-asiatisk-middagsupplevelse",
+      "titel": "Exklusivt gästspel: Asiatisk middagsupplevelse",
+      "start": "2027-01-29T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "KAIJA, Stallet",
+        "id": "kaija"
+      },
+      "kategori": "mat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/exklusivt-gastspel-asiatisk-middagsupplevelse/",
+          "arrangor": "https://www.tickster.com/se/sv/events/3cfgpfkglbmwxm0/2027-01-29/asiatisk-middagsupplevelse"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "mat-dryck",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-01-29"
+        ],
+        "tider": {
+          "start": "18:00"
+        }
       }
     },
     {
@@ -14594,6 +15156,42 @@
       }
     },
     {
+      "id": "heja-the-dire-straits-experience-2027",
+      "titel": "The Dire Straits Experience",
+      "start": "2027-02-04T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/the-dire-straits-experience-2027/",
+          "arrangor": "https://secure.tickster.com/sv/ac01aaggf4u5mrw/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-02-04"
+        ],
+        "tider": {
+          "start": "19:30"
+        }
+      }
+    },
+    {
       "id": "heja-almtuna-ostersund-5-feb-2027",
       "titel": "Almtuna-Östersund",
       "start": "2027-02-05T18:00:00+01:00",
@@ -14663,7 +15261,7 @@
     },
     {
       "id": "heja-nour-el-refai-ukk-2027",
-      "titel": "Nour El Refai – UKK – 2027",
+      "titel": "Nour El Refai",
       "start": "2027-02-05T19:00:00+01:00",
       "slut": null,
       "plats": {
@@ -14834,6 +15432,42 @@
       }
     },
     {
+      "id": "heja-the-very-best-of-thin-lizzy-phil-lynott-and-gary-moore-2027",
+      "titel": "The Very Best of Thin Lizzy Phil Lynott and Gary Moore",
+      "start": "2027-02-06T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/the-very-best-of-thin-lizzy-phil-lynott-and-gary-moore-2027/",
+          "arrangor": "https://secure.tickster.com/sv/3xd3kt3rd5y68z8/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-02-06"
+        ],
+        "tider": {
+          "start": "19:30"
+        }
+      }
+    },
+    {
       "id": "heja-molly-hammar",
       "titel": "Molly Hammar",
       "start": "2027-02-11T19:30:00+01:00",
@@ -14927,6 +15561,42 @@
           "musik",
           "uppsala"
         ]
+      }
+    },
+    {
+      "id": "heja-keramikkurs-pa-fredagar-e-m",
+      "titel": "Keramikkurs på fredagar e.m.",
+      "start": "2027-02-12",
+      "slut": "2027-03-12",
+      "plats": {
+        "namn": "St Persgatan 22B",
+        "id": "heja-plats-st-persgatan-22b"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/keramikkurs-pa-fredagar-e-m/",
+          "arrangor": "https://www.abf.se/aros/kurs/keramik-fredagar-kl-13-16-122-uppsala-3954006/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "kurser",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-02-12",
+          "2027-04-09"
+        ],
+        "tider": {
+          "start": "13:00"
+        }
       }
     },
     {
@@ -15099,6 +15769,41 @@
       }
     },
     {
+      "id": "heja-uppsala-kammarorkester-korngolds-violinkonsert-2027",
+      "titel": "Uppsala Kammarorkester – Korngolds violinkonsert",
+      "start": "2027-02-18T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/uppsala-kammarorkester-korngolds-violinkonsert-2027/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-02-18"
+        ],
+        "tider": {
+          "start": "19:00"
+        }
+      }
+    },
+    {
       "id": "heja-almtuna-sodertalje-19-feb-2026",
       "titel": "Almtuna-Södertälje",
       "start": "2027-02-19T19:00:00+01:00",
@@ -15122,6 +15827,41 @@
       "fakta": {
         "kategorier": [
           "sport",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-02-19"
+        ],
+        "tider": {
+          "start": "19:00"
+        }
+      }
+    },
+    {
+      "id": "heja-orsa-spelman-med-tina-ahlin-bengan-janson-ukk-2027",
+      "titel": "Orsa Spelmän med Tina Ahlin & Bengan Janson",
+      "start": "2027-02-19T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/orsa-spelman-med-tina-ahlin-bengan-janson-ukk-2027/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "musik",
           "uppsala"
         ],
         "datum": [
