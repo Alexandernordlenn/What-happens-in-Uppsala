@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-10-08T04:45:32.566Z",
-  "antal": 476,
+  "hamtad": "2026-10-09T04:35:34.113Z",
+  "antal": 489,
   "evenemang": [
     {
       "id": "heja-charta-77-bonta-fran-asta-kask-2026",
@@ -191,7 +191,7 @@
       "id": "heja-punkt",
       "titel": "PUNKT",
       "start": "2026-10-03",
-      "slut": "2026-10-18",
+      "slut": "2026-10-11",
       "plats": {
         "namn": "Uppsala Konstnärsklubb",
         "id": "konstnarsklubben"
@@ -299,6 +299,43 @@
         ],
         "tider": {
           "start": "11:00"
+        }
+      }
+    },
+    {
+      "id": "heja-punkt-2",
+      "titel": "PUNKT",
+      "start": "2026-10-03",
+      "slut": "2026-10-18",
+      "plats": {
+        "namn": "Uppsala Konstnärsklubb",
+        "id": "konstnarsklubben"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/punkt-2/",
+          "arrangor": "https://www.uppsalakonstnarsklubb.se"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "konst",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-03",
+          "2026-10-18"
+        ],
+        "tider": {
+          "start": "12:00"
         }
       }
     },
@@ -511,34 +548,6 @@
       }
     },
     {
-      "id": "heja-nowhere-blue-kaliber-room-2026",
-      "titel": "Nowhere Blue",
-      "start": "2026-10-08",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/nowhere-blue-kaliber-room-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "musik",
-          "uppsala"
-        ]
-      }
-    },
-    {
       "id": "heja-vetenskapsfestivalen-scifest",
       "titel": "Vetenskapsfestivalen SciFest",
       "start": "2026-10-08T09:00:00+02:00",
@@ -568,112 +577,6 @@
         ],
         "tider": {
           "start": "09:00"
-        }
-      }
-    },
-    {
-      "id": "heja-art-night-2026-2-2-2-2",
-      "titel": "Art Night på Uppsala konstmuseum",
-      "start": "2026-10-08T17:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/art-night-2026-2-2-2-2/",
-          "arrangor": "https://konstmuseum.uppsala.se/kalendarium/art-night2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "museum",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-08"
-        ],
-        "tider": {
-          "start": "17:00"
-        }
-      }
-    },
-    {
-      "id": "heja-uppsala-internationella-gitarrfestival-2026",
-      "titel": "Uppsala Internationella Gitarrfestival",
-      "start": "2026-10-08T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/uppsala-internationella-gitarrfestival-2026/",
-          "arrangor": "https://secure.tickster.com/sv/pdm9n77v6cn2w73/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-08"
-        ],
-        "tider": {
-          "start": "19:00"
-        }
-      }
-    },
-    {
-      "id": "heja-flogstavralet-the-kaliber-room8-okt-2026",
-      "titel": "Flogstavrålet",
-      "start": "2026-10-08T21:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/flogstavralet-the-kaliber-room8-okt-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-08"
-        ],
-        "tider": {
-          "start": "21:00"
         }
       }
     },
@@ -802,7 +705,6 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "hojdpunkter-hejauppsala",
           "musik",
           "uppsala"
         ],
@@ -1046,7 +948,6 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "hojdpunkter-hejauppsala",
           "musik",
           "uppsala"
         ],
@@ -2339,6 +2240,126 @@
         ],
         "tider": {
           "start": "18:00"
+        }
+      }
+    },
+    {
+      "id": "heja-voice-and-rhytmh-2026",
+      "titel": "Voice and Rhytmh",
+      "start": "2026-10-13T18:45:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "himlen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/voice-and-rhytmh-2026/",
+          "arrangor": "https://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "dans-event",
+          "kurser",
+          "musik",
+          "ovrigt",
+          "scen",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-13",
+          "2027-05-13"
+        ],
+        "tider": {
+          "start": "18:45"
+        }
+      }
+    },
+    {
+      "id": "heja-voice-and-rhytmh-2026-2",
+      "titel": "Voice and Rhytmh",
+      "start": "2026-10-13T18:45:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "himlen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/voice-and-rhytmh-2026-2/",
+          "arrangor": "https://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "dans-event",
+          "kurser",
+          "musik",
+          "ovrigt",
+          "scen",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-13",
+          "2027-05-13"
+        ],
+        "tider": {
+          "start": "18:45"
+        }
+      }
+    },
+    {
+      "id": "heja-voice-and-rhytmh-2026-2-2",
+      "titel": "Voice and Rhytmh",
+      "start": "2026-10-13T18:45:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "himlen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/voice-and-rhytmh-2026-2-2/",
+          "arrangor": "https://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "dans-event",
+          "kurser",
+          "musik",
+          "ovrigt",
+          "scen",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-13",
+          "2027-05-13"
+        ],
+        "tider": {
+          "start": "18:45"
         }
       }
     },
@@ -3737,6 +3758,43 @@
         ],
         "tider": {
           "start": "09:00"
+        }
+      }
+    },
+    {
+      "id": "heja-lunchkonsert-med-utah-santana-okt-2026-2",
+      "titel": "Lunchkonsert med Utah Santana",
+      "start": "2026-10-19T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "himlen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/lunchkonsert-med-utah-santana-okt-2026-2/",
+          "arrangor": "https://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "familj",
+          "mat-dryck",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-19"
+        ],
+        "tider": {
+          "start": "12:00"
         }
       }
     },
@@ -7079,6 +7137,43 @@
       }
     },
     {
+      "id": "heja-lunchkonsert-med-utah-santana-nov-2026",
+      "titel": "Lunchkonsert med Utah Santana",
+      "start": "2026-11-02T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "himlen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/lunchkonsert-med-utah-santana-nov-2026/",
+          "arrangor": "https://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "familj",
+          "mat-dryck",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-02"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
+      }
+    },
+    {
       "id": "heja-uppsala-basket-h-boras-2-nov-2026",
       "titel": "Uppsala basket H-Borås",
       "start": "2026-11-02T19:04:00+01:00",
@@ -7498,6 +7593,35 @@
         "kategorier": [
           "hojdpunkter-hejauppsala",
           "mat-dryck",
+          "uppsala"
+        ]
+      }
+    },
+    {
+      "id": "heja-allt-ljus-pa-uppsala-2026",
+      "titel": "Allt ljus på Uppsala",
+      "start": "2026-11-06",
+      "slut": "2026-11-22",
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/allt-ljus-pa-uppsala-2026/",
+          "arrangor": "https://www.alltljuspauppsala.se/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "ovrigt",
           "uppsala"
         ]
       }
@@ -9333,6 +9457,43 @@
         ],
         "tider": {
           "start": "16:00"
+        }
+      }
+    },
+    {
+      "id": "heja-lunchkonsert-med-utah-santana-nov-2026-2",
+      "titel": "Lunchkonsert med Utah Santana",
+      "start": "2026-11-16T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "himlen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/lunchkonsert-med-utah-santana-nov-2026-2/",
+          "arrangor": "https://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "familj",
+          "mat-dryck",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-16"
+        ],
+        "tider": {
+          "start": "12:00"
         }
       }
     },
@@ -11739,6 +11900,43 @@
       }
     },
     {
+      "id": "heja-lunchkonsert-med-utah-santana-nov-2026-2-2",
+      "titel": "Lunchkonsert med Utah Santana",
+      "start": "2026-11-30T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "himlen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/lunchkonsert-med-utah-santana-nov-2026-2-2/",
+          "arrangor": "https://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "familj",
+          "mat-dryck",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-30"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
+      }
+    },
+    {
       "id": "heja-christmas-in-ireland-ukk",
       "titel": "Christmas in Ireland",
       "start": "2026-11-30T19:00:00+01:00",
@@ -13609,6 +13807,43 @@
       }
     },
     {
+      "id": "heja-lunchkonsert-med-utah-santana-dec-2026",
+      "titel": "Lunchkonsert med Utah Santana",
+      "start": "2026-12-14T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "himlen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/lunchkonsert-med-utah-santana-dec-2026/",
+          "arrangor": "https://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "familj",
+          "mat-dryck",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-12-14"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
+      }
+    },
+    {
       "id": "heja-korpen-the-kaliber-room-16-dec-2026c",
       "titel": "Korpen",
       "start": "2026-12-16T20:00:00+01:00",
@@ -14568,6 +14803,45 @@
         ],
         "tider": {
           "start": "15:00"
+        }
+      }
+    },
+    {
+      "id": "heja-voice-and-rhytmh-2027",
+      "titel": "Voice and Rhytmh",
+      "start": "2027-01-13T18:45:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "himlen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/voice-and-rhytmh-2027/",
+          "arrangor": "https://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "dans-event",
+          "kurser",
+          "musik",
+          "ovrigt",
+          "scen",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-05-13"
+        ],
+        "tider": {
+          "start": "18:45"
         }
       }
     },
@@ -15665,6 +15939,45 @@
       }
     },
     {
+      "id": "heja-voice-and-rhytmh-2027-2",
+      "titel": "Voice and Rhytmh",
+      "start": "2027-02-13T18:45:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "himlen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/voice-and-rhytmh-2027-2/",
+          "arrangor": "https://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "dans-event",
+          "kurser",
+          "musik",
+          "ovrigt",
+          "scen",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-05-13"
+        ],
+        "tider": {
+          "start": "18:45"
+        }
+      }
+    },
+    {
       "id": "heja-kim-wilde",
       "titel": "Kim Wilde",
       "start": "2027-02-13T19:30:00+01:00",
@@ -15940,6 +16253,76 @@
         ],
         "tider": {
           "start": "15:00"
+        }
+      }
+    },
+    {
+      "id": "heja-tourbjorn-2027",
+      "titel": "Tourbjörn",
+      "start": "2027-02-20T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/tourbjorn-2027/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "scen",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-02-20"
+        ],
+        "tider": {
+          "start": "18:00"
+        }
+      }
+    },
+    {
+      "id": "heja-nannes-jubileumsshow-2027",
+      "titel": "Nannes jubileumsshow",
+      "start": "2027-02-20T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/nannes-jubileumsshow-2027/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-02-20"
+        ],
+        "tider": {
+          "start": "19:30"
         }
       }
     },
@@ -16390,6 +16773,45 @@
       }
     },
     {
+      "id": "heja-voice-and-rhytmh-2027-2-2",
+      "titel": "Voice and Rhytmh",
+      "start": "2027-03-13T18:45:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "himlen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/voice-and-rhytmh-2027-2-2/",
+          "arrangor": "https://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "dans-event",
+          "kurser",
+          "musik",
+          "ovrigt",
+          "scen",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-05-13"
+        ],
+        "tider": {
+          "start": "18:45"
+        }
+      }
+    },
+    {
       "id": "heja-thorbjorn-risager-the-black-tornado-2027",
       "titel": "Thorbjørn Risager & The Black Tornado",
       "start": "2027-03-13T20:00:00+01:00",
@@ -16693,6 +17115,45 @@
       }
     },
     {
+      "id": "heja-voice-and-rhytmh-2027-2-2-2",
+      "titel": "Voice and Rhytmh",
+      "start": "2027-04-13T18:45:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "himlen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/voice-and-rhytmh-2027-2-2-2/",
+          "arrangor": "https://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "dans-event",
+          "kurser",
+          "musik",
+          "ovrigt",
+          "scen",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-05-13"
+        ],
+        "tider": {
+          "start": "18:45"
+        }
+      }
+    },
+    {
       "id": "heja-hfmc-hasse-froberg-musical-companion-avskedskonsert",
       "titel": "HFMC Hasse Fröberg Musical Companion – Avskedskonsert",
       "start": "2027-04-16",
@@ -16755,6 +17216,45 @@
         ],
         "tider": {
           "start": "19:30"
+        }
+      }
+    },
+    {
+      "id": "heja-voice-and-rhytmh-2027-2-2-2-2",
+      "titel": "Voice and Rhytmh",
+      "start": "2027-05-13T18:45:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Himlen är blå som en apelsin",
+        "id": "himlen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/voice-and-rhytmh-2027-2-2-2-2/",
+          "arrangor": "https://himlenarblasomenapelsin.com"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "dans-event",
+          "kurser",
+          "musik",
+          "ovrigt",
+          "scen",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-05-13"
+        ],
+        "tider": {
+          "start": "18:45"
         }
       }
     }

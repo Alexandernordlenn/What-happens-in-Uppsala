@@ -82,18 +82,9 @@
     },
     "hamtad": "2026-10-08"
   },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/fotbollslaeger-med-gfc-foer-dig-mellan-9-14-aar/": {
-    "dagar": [
-      "må",
-      "ti",
-      "on",
-      "to",
-      "fr"
-    ],
-    "tider": {
-      "start": "10:00"
-    },
-    "hamtad": "2026-10-07"
+  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovskul-i-gottsunda/": {
+    "dagar": [],
+    "hamtad": "2026-10-09"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/haestkompisdagar/": {
     "dagar": [],
@@ -106,6 +97,23 @@
   "https://www.kubikuppsala.se/hitta-aktiviteter/changes-hoestlaeger-9-15-aar/": {
     "dagar": [],
     "hamtad": "2026-10-07"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/fotbollslaeger-med-gottsunda-fc-1/": {
+    "dagar": [
+      "må",
+      "ti",
+      "on",
+      "to",
+      "fr"
+    ],
+    "tider": {
+      "start": "10:00"
+    },
+    "hamtad": "2026-10-09"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-storvreta-ponnyklubb/": {
+    "dagar": [],
+    "hamtad": "2026-10-09"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-mat-och-snacks-paa-vikingatiden/": {
     "dagar": [],
@@ -124,6 +132,10 @@
   "https://www.kubikuppsala.se/hitta-aktiviteter/gameplan-open-court/": {
     "dagar": [],
     "hamtad": "2026-10-08"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovslaeger-artistisk-gymnastik/": {
+    "dagar": [],
+    "hamtad": "2026-10-09"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/pop-up-med-gottsunda-allaktivitetshus/": {
     "dagar": [

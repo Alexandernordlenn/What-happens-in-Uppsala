@@ -1,58 +1,9 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-10-08T04:30:02.410Z",
-  "antal": 184,
+  "hamtad": "2026-10-09T04:30:48.483Z",
+  "antal": 182,
   "evenemang": [
-    {
-      "id": "stadsteatern-129545",
-      "titel": "Sommar",
-      "start": "2026-10-08T12:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Intiman"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Lunchföreställning, Få biljetter kvar",
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/sommar-2/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30895/129545/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-125955",
-      "titel": "Medan vi brinner",
-      "start": "2026-10-08T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Lilla scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125955/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "stadsteatern-121675",
       "titel": "Stadens ljus",
@@ -403,7 +354,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
-      "notering": "Genrep, Slutsåld",
+      "notering": "Genrep, Få biljetter kvar",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -1445,6 +1396,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
       "kallor": [
         {
           "id": "stadsteatern",

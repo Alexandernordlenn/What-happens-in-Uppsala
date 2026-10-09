@@ -1,126 +1,14 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-07T04:31:50.574Z",
+  "hamtad": "2026-10-09T04:33:09.225Z",
   "antal": 347,
   "evenemang": [
     {
-      "id": "tickster-z8bxwlz639kddy0",
-      "titel": "CD – release med Swingin´Uppsala",
-      "start": "2026-10-07T19:30:00+02:00",
-      "slut": "2026-10-07T22:00:00+02:00",
-      "plats": {
-        "namn": "Blackbird",
-        "id": "blackbird"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/z8bxwlz639kddy0/2026-10-07/cd-release-med-swingin-uppsala",
-          "biljetter": "https://secure.tickster.com/sv/z8bxwlz639kddy0"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "blackbird",
-          "jazz",
-          "uppsala",
-          "late night jazz",
-          "musik",
-          "konsert",
-          "live",
-          "kaliber live",
-          "östra station",
-          "swinginuppsala"
-        ]
-      }
-    },
-    {
-      "id": "tickster-nnl2v30w28b73x3",
-      "titel": "Filmvisning – Musik från ett öppet fönster",
-      "start": "2026-10-08T10:00:00+02:00",
-      "slut": "2026-10-08T11:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/nnl2v30w28b73x3/2026-10-08/filmvisning-musik-fran-ett-oppet-fonster",
-          "biljetter": "https://secure.tickster.com/sv/nnl2v30w28b73x3"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-1m6dgkj85wnyhbm",
-      "titel": "Masterclass – Zoran Dukić",
-      "start": "2026-10-08T13:30:00+02:00",
-      "slut": "2026-10-08T14:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/1m6dgkj85wnyhbm/2026-10-08/masterclass-zoran-dukic",
-          "biljetter": "https://secure.tickster.com/sv/1m6dgkj85wnyhbm"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-hk8lgkdwg3jfuct",
-      "titel": "Föreläsning – Stefan Löfvenius",
-      "start": "2026-10-08T13:30:00+02:00",
-      "slut": "2026-10-08T14:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/hk8lgkdwg3jfuct/2026-10-08/forelasning-stefan-lofvenius",
-          "biljetter": "https://secure.tickster.com/sv/hk8lgkdwg3jfuct"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-4z2233hp6clf0xd",
-      "titel": "Workshop – Jan-Olof Andersson",
-      "start": "2026-10-08T14:30:00+02:00",
-      "slut": "2026-10-08T15:30:00+02:00",
+      "id": "tickster-x4tgyv31kzh5utv",
+      "titel": "Workshop – Maggie Cullén",
+      "start": "2026-10-09T10:00:00+02:00",
+      "slut": "2026-10-09T11:00:00+02:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
         "id": "ukk",
@@ -134,120 +22,8 @@
         {
           "id": "tickster",
           "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/4z2233hp6clf0xd/2026-10-08/workshop-jan-olof-andersson",
-          "biljetter": "https://secure.tickster.com/sv/4z2233hp6clf0xd"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-ydfx9gtcdarwf3c",
-      "titel": "Workshop – Thomas Arnesen",
-      "start": "2026-10-08T15:30:00+02:00",
-      "slut": "2026-10-08T16:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/ydfx9gtcdarwf3c/2026-10-08/workshop-thomas-arnesen",
-          "biljetter": "https://secure.tickster.com/sv/ydfx9gtcdarwf3c"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-bzdc0c22r2vc5cy",
-      "titel": "Föredrag – Lars Petersson",
-      "start": "2026-10-08T16:00:00+02:00",
-      "slut": "2026-10-08T17:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/bzdc0c22r2vc5cy/2026-10-08/foredrag-lars-petersson",
-          "biljetter": "https://secure.tickster.com/sv/bzdc0c22r2vc5cy"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-pdm9n77v6cn2w73",
-      "titel": "Uppsala Internationella Gitarrfestival Katalin",
-      "start": "2026-10-08T19:00:00+02:00",
-      "slut": "2026-10-08T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8603,
-        "lng": 17.6456
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/pdm9n77v6cn2w73/2026-10-08/uppsala-internationella-gitarrfestival-katalin",
-          "biljetter": "https://secure.tickster.com/sv/pdm9n77v6cn2w73"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinlive",
-          "uigf",
-          "jazz",
-          "pop",
-          "rock",
-          "akustiskt",
-          "musik",
-          "konsert",
-          "live",
-          "uppsala"
-        ]
-      }
-    },
-    {
-      "id": "tickster-9ubdj8rhd80rk5p",
-      "titel": "Preview: Uppsala kortfilmfestival",
-      "start": "2026-10-08T19:00:00+02:00",
-      "slut": "2026-10-08T20:15:00+02:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/9ubdj8rhd80rk5p/2026-10-08/preview-uppsala-kortfilmfestival",
-          "biljetter": "https://secure.tickster.com/sv/9ubdj8rhd80rk5p"
+          "url": "https://www.tickster.com/se/sv/events/x4tgyv31kzh5utv/2026-10-09/workshop-maggie-cullen",
+          "biljetter": "https://secure.tickster.com/sv/x4tgyv31kzh5utv"
         }
       ],
       "langvarig": false,
@@ -279,25 +55,25 @@
       "installd": false
     },
     {
-      "id": "tickster-x4tgyv31kzh5utv",
-      "titel": "Workshop – Maggie Cullén",
-      "start": "2026-10-09T10:00:00+02:00",
-      "slut": "2026-10-09T11:00:00+02:00",
+      "id": "tickster-b3ex54gvvlab8av",
+      "titel": "Föredrag & uppvisning – Diego Jascalevich",
+      "start": "2026-10-09T11:00:00+02:00",
+      "slut": "2026-10-09T12:00:00+02:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
         "id": "ukk",
         "lat": 59.8617,
         "lng": 17.6469
       },
-      "kategori": "aktivitet",
+      "kategori": "museum",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
         {
           "id": "tickster",
           "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/x4tgyv31kzh5utv/2026-10-09/workshop-maggie-cullen",
-          "biljetter": "https://secure.tickster.com/sv/x4tgyv31kzh5utv"
+          "url": "https://www.tickster.com/se/sv/events/b3ex54gvvlab8av/2026-10-09/foredrag-and-uppvisning-diego-jascalevich",
+          "biljetter": "https://secure.tickster.com/sv/b3ex54gvvlab8av"
         }
       ],
       "langvarig": false,
@@ -323,31 +99,6 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/zv8vn122j01g4wn/2026-10-09/workshop-juanfe-perez",
           "biljetter": "https://secure.tickster.com/sv/zv8vn122j01g4wn"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-b3ex54gvvlab8av",
-      "titel": "Föredrag & uppvisning – Diego Jascalevich",
-      "start": "2026-10-09T11:00:00+02:00",
-      "slut": "2026-10-09T12:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/b3ex54gvvlab8av/2026-10-09/foredrag-and-uppvisning-diego-jascalevich",
-          "biljetter": "https://secure.tickster.com/sv/b3ex54gvvlab8av"
         }
       ],
       "langvarig": false,
@@ -2237,7 +1988,7 @@
     },
     {
       "id": "tickster-hkp07hwp8kt2uuj",
-      "titel": "Kulturfrukost – Ett kulturliv för alla",
+      "titel": "Inställt: Kulturfrukost – Ett kulturliv för alla",
       "start": "2026-10-22T08:00:00+02:00",
       "slut": "2026-10-22T09:30:00+02:00",
       "plats": {
@@ -2254,12 +2005,12 @@
         {
           "id": "tickster",
           "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/hkp07hwp8kt2uuj/2026-10-22/kulturfrukost-ett-kulturliv-for-alla",
+          "url": "https://www.tickster.com/se/sv/events/hkp07hwp8kt2uuj/2026-10-22/installt-kulturfrukost-ett-kulturliv-for-alla",
           "biljetter": "https://secure.tickster.com/sv/hkp07hwp8kt2uuj"
         }
       ],
       "langvarig": false,
-      "installd": false,
+      "installd": true,
       "fakta": {
         "taggar": [
           "samtal"
@@ -2323,37 +2074,6 @@
       "installd": false
     },
     {
-      "id": "tickster-tfwjdg6m57bjy8b",
-      "titel": "Bruch och Brahms – Uppsala Kammarorkester",
-      "start": "2026-10-22T19:00:00+02:00",
-      "slut": "2026-10-22T21:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/tfwjdg6m57bjy8b/2026-10-22/bruch-och-brahms-uppsala-kammarorkester",
-          "biljetter": "https://secure.tickster.com/sv/tfwjdg6m57bjy8b"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "klassiskt"
-        ]
-      }
-    },
-    {
       "id": "tickster-y4hj8v8yb4regmn",
       "titel": "Livepodd – om växternas intelligens",
       "start": "2026-10-22T19:00:00+02:00",
@@ -2401,6 +2121,37 @@
       ],
       "langvarig": false,
       "installd": false
+    },
+    {
+      "id": "tickster-tfwjdg6m57bjy8b",
+      "titel": "Bruch och Brahms – Uppsala Kammarorkester",
+      "start": "2026-10-22T19:00:00+02:00",
+      "slut": "2026-10-22T21:00:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/tfwjdg6m57bjy8b/2026-10-22/bruch-och-brahms-uppsala-kammarorkester",
+          "biljetter": "https://secure.tickster.com/sv/tfwjdg6m57bjy8b"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
+        ]
+      }
     },
     {
       "id": "tickster-1n30wv8krbb0r9t",
@@ -2795,6 +2546,31 @@
       }
     },
     {
+      "id": "tickster-ran1n3m760v4dbf",
+      "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
+      "start": "2026-10-25T11:30:00+01:00",
+      "slut": "2026-10-25T12:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/ran1n3m760v4dbf/2026-10-25/hostlov-ficklampsvisning-i-slottskallarens-morker",
+          "biljetter": "https://secure.tickster.com/sv/ran1n3m760v4dbf"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-3bbzjjufl8y1g93",
       "titel": "Konstfika på finska - Eija Liisa Ahtila",
       "start": "2026-10-25T14:00:00+01:00",
@@ -2972,6 +2748,56 @@
       }
     },
     {
+      "id": "tickster-ube3vuh418fdy7y",
+      "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
+      "start": "2026-10-27T11:30:00+01:00",
+      "slut": "2026-10-27T12:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/ube3vuh418fdy7y/2026-10-27/hostlov-ficklampsvisning-i-slottskallarens-morker",
+          "biljetter": "https://secure.tickster.com/sv/ube3vuh418fdy7y"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-abt3utwwg88jfkb",
+      "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
+      "start": "2026-10-28T11:30:00+01:00",
+      "slut": "2026-10-28T12:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/abt3utwwg88jfkb/2026-10-28/hostlov-ficklampsvisning-i-slottskallarens-morker",
+          "biljetter": "https://secure.tickster.com/sv/abt3utwwg88jfkb"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-9bx3v707y07f4nx",
       "titel": "Sirius vs Sundsvall FBC",
       "start": "2026-10-28T19:00:00+01:00",
@@ -3068,6 +2894,31 @@
           "katalinsbakficka"
         ]
       }
+    },
+    {
+      "id": "tickster-l5yewmgpzflnue0",
+      "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
+      "start": "2026-10-29T11:30:00+01:00",
+      "slut": "2026-10-29T12:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/l5yewmgpzflnue0/2026-10-29/hostlov-ficklampsvisning-i-slottskallarens-morker",
+          "biljetter": "https://secure.tickster.com/sv/l5yewmgpzflnue0"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
     },
     {
       "id": "tickster-cxgnyurzvg8h3m9",
@@ -3272,6 +3123,31 @@
           "barn"
         ]
       }
+    },
+    {
+      "id": "tickster-cf7dgdzav0k4mxk",
+      "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
+      "start": "2026-10-30T11:30:00+01:00",
+      "slut": "2026-10-30T12:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/cf7dgdzav0k4mxk/2026-10-30/hostlov-ficklampsvisning-i-slottskallarens-morker",
+          "biljetter": "https://secure.tickster.com/sv/cf7dgdzav0k4mxk"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
     },
     {
       "id": "tickster-wke3m53wxa4blbj",
@@ -6710,7 +6586,7 @@
     },
     {
       "id": "tickster-74b9bpdvmg68pl8",
-      "titel": "Kulturfrukost – Klimatsmart kultur i praktiken",
+      "titel": "Inställt: Kulturfrukost – Klimatsmart kultur",
       "start": "2026-12-03T08:00:00+01:00",
       "slut": "2026-12-03T09:30:00+01:00",
       "plats": {
@@ -6727,12 +6603,12 @@
         {
           "id": "tickster",
           "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/74b9bpdvmg68pl8/2026-12-03/kulturfrukost-klimatsmart-kultur-i-praktiken",
+          "url": "https://www.tickster.com/se/sv/events/74b9bpdvmg68pl8/2026-12-03/installt-kulturfrukost-klimatsmart-kultur",
           "biljetter": "https://secure.tickster.com/sv/74b9bpdvmg68pl8"
         }
       ],
       "langvarig": false,
-      "installd": false,
+      "installd": true,
       "fakta": {
         "taggar": [
           "samtal"
@@ -7691,6 +7567,37 @@
       }
     },
     {
+      "id": "tickster-wu8522ltuz6meuc",
+      "titel": "Goder afton, mitt herrskap! 2026",
+      "start": "2026-12-12T19:00:00+01:00",
+      "slut": "2026-12-12T21:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/wu8522ltuz6meuc/2026-12-12/goder-afton-mitt-herrskap-2026",
+          "biljetter": "https://secure.tickster.com/sv/wu8522ltuz6meuc"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn"
+        ]
+      }
+    },
+    {
       "id": "tickster-7nrw6fane9t7zvr",
       "titel": "Mainland Jazz Collective",
       "start": "2026-12-12T19:30:00+01:00",
@@ -8361,6 +8268,31 @@
       }
     },
     {
+      "id": "tickster-nfa0rg5m1jyll49",
+      "titel": "Nyårsfesten!",
+      "start": "2026-12-31T23:00:00+01:00",
+      "slut": "2027-01-01T03:00:00+01:00",
+      "plats": {
+        "namn": "Birger Jarl",
+        "id": "birgerjarl",
+        "lat": 59.8542,
+        "lng": 17.6377
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/nfa0rg5m1jyll49/2026-12-31/nyarsfesten",
+          "biljetter": "https://secure.tickster.com/sv/nfa0rg5m1jyll49"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-dgfjlx3g6fytytn",
       "titel": "Trettondagsafton 2027",
       "start": "2027-01-05T17:00:00+01:00",
@@ -8859,6 +8791,37 @@
           "unitedstage",
           "pop",
           "indie"
+        ]
+      }
+    },
+    {
+      "id": "tickster-x5m7ggvjt7ya8ft",
+      "titel": "Upzala Terminus 2027 – Warhammer Tournament",
+      "start": "2027-01-30T08:30:00+01:00",
+      "slut": "2027-01-31T18:30:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Sal B (ståplats)"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/x5m7ggvjt7ya8ft/2027-01-30/upzala-terminus-2027-warhammer-tournament",
+          "biljetter": "https://secure.tickster.com/sv/x5m7ggvjt7ya8ft"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "samhälle"
         ]
       }
     },
@@ -10686,6 +10649,38 @@
       ],
       "langvarig": false,
       "installd": false
+    },
+    {
+      "id": "tickster-kr338gu7necwpl7",
+      "titel": "FLUSTRET - STUDENTSKIVA LUNDELLSKA 27 MAJ",
+      "start": "2027-05-27T21:30:00+02:00",
+      "slut": "2027-05-28T02:00:00+02:00",
+      "plats": {
+        "namn": "Flustret",
+        "id": "flustret"
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/kr338gu7necwpl7/2027-05-27/flustret-studentskiva-lundellska-27-maj",
+          "biljetter": "https://secure.tickster.com/sv/kr338gu7necwpl7"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "uppsala",
+          "studentskiva",
+          "nattklubb",
+          "flustret",
+          "18"
+        ]
+      }
     },
     {
       "id": "tickster-wkerv76ph3w42a8",
