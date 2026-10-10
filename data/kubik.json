@@ -1,7 +1,7 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-09T04:35:59.060Z",
+  "hamtad": "2026-10-10T04:33:05.275Z",
   "antal": 287,
   "evenemang": [
     {
@@ -3425,48 +3425,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-fredagsmys-2026-2026-10-09-1400",
-      "titel": "Fredagsmys",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Dans",
-          "Litteratur/Skrivande",
-          "Musik",
-          "Teater",
-          "Övrigt"
-        ],
-        "malgrupp": [
-          "0-4 år",
-          "5-6 år"
-        ],
-        "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
-      },
-      "start": "2026-10-09T14:00:00+02:00",
-      "slut": "2026-10-09T14:30:00+02:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-scifest-2026-2026-10-10-0900",
       "titel": "SciFest 2026",
       "plats": {
@@ -4087,6 +4045,44 @@
       "langvarig": false
     },
     {
+      "id": "kubik-ritsagor-2026-10-16-1400",
+      "titel": "Ritsagor",
+      "plats": {
+        "namn": "Gottsunda bibliotek",
+        "id": "gottsundabib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        6
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/ritsagor/",
+          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/97c01eef-d99b-4775-8e12-52c65bc4ee4a?location=Gottsundabiblioteket"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Litteratur/Skrivande"
+        ],
+        "malgrupp": [
+          "0-4 år",
+          "5-6 år"
+        ],
+        "adress": "Gottsundabiblioteket, Valthornsvägen 11 756 50, Uppsala"
+      },
+      "start": "2026-10-16T14:00:00+02:00",
+      "slut": "2026-10-16T14:30:00+02:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-fredagsmys-2026-2026-10-16-1400",
       "titel": "Fredagsmys",
       "plats": {
@@ -4123,44 +4119,6 @@
           "5-6 år"
         ],
         "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
-      },
-      "start": "2026-10-16T14:00:00+02:00",
-      "slut": "2026-10-16T14:30:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-ritsagor-2026-10-16-1400",
-      "titel": "Ritsagor",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/ritsagor/",
-          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/97c01eef-d99b-4775-8e12-52c65bc4ee4a?location=Gottsundabiblioteket"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Litteratur/Skrivande"
-        ],
-        "malgrupp": [
-          "0-4 år",
-          "5-6 år"
-        ],
-        "adress": "Gottsundabiblioteket, Valthornsvägen 11 756 50, Uppsala"
       },
       "start": "2026-10-16T14:00:00+02:00",
       "slut": "2026-10-16T14:30:00+02:00",
@@ -6606,6 +6564,47 @@
       "start": "2026-10-26T18:00:00+01:00",
       "slut": "2026-10-26T20:00:00+01:00",
       "langvarig": false
+    },
+    {
+      "id": "kubik-hoestlov-paa-upplandsmuseet",
+      "titel": "Höstlov på Upplandsmuseet!",
+      "plats": {
+        "namn": "Upplandsmuseet",
+        "id": "upplandsmuseet"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-upplandsmuseet/",
+          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/hostlov-pa-upplandsmuseet/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Museum/Kulturarv"
+        ],
+        "malgrupp": [
+          "För alla åldrar"
+        ],
+        "adress": "Upplandsmuseet, S:t Eriks torg 10, Uppsala",
+        "tider": {
+          "start": "12:00",
+          "slut": "17:00"
+        }
+      },
+      "start": "2026-10-27",
+      "slut": "2026-11-01",
+      "langvarig": true
     },
     {
       "id": "kubik-hjaelp-till-att-morgonoeppna-gottsundabiblioteket-2026-10-27-0815",

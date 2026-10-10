@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-10-09T04:35:34.113Z",
-  "antal": 489,
+  "hamtad": "2026-10-10T04:32:46.344Z",
+  "antal": 492,
   "evenemang": [
     {
       "id": "heja-charta-77-bonta-fran-asta-kask-2026",
@@ -211,7 +211,6 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "hojdpunkter-hejauppsala",
           "konst",
           "uppsala"
         ],
@@ -548,39 +547,6 @@
       }
     },
     {
-      "id": "heja-vetenskapsfestivalen-scifest",
-      "titel": "Vetenskapsfestivalen SciFest",
-      "start": "2026-10-08T09:00:00+02:00",
-      "slut": "2026-10-10",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/vetenskapsfestivalen-scifest/",
-          "arrangor": "https://www.scifest.se/w/sf/for-allmanheten"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "familj",
-          "hojdpunkter-hejauppsala",
-          "uppsala"
-        ],
-        "tider": {
-          "start": "09:00"
-        }
-      }
-    },
-    {
       "id": "heja-skaldjurshelger-i-uppsala-saluhall-2026-2-2",
       "titel": "Skaldjurshelger i Uppsala Saluhall",
       "start": "2026-10-09",
@@ -608,6 +574,39 @@
           "mat-dryck",
           "uppsala"
         ]
+      }
+    },
+    {
+      "id": "heja-vetenskapsfestivalen-scifest",
+      "titel": "Vetenskapsfestivalen SciFest",
+      "start": "2026-10-09T09:00:00+02:00",
+      "slut": "2026-10-10",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/vetenskapsfestivalen-scifest/",
+          "arrangor": "https://www.scifest.se/w/sf/for-allmanheten"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "familj",
+          "hojdpunkter-hejauppsala",
+          "uppsala"
+        ],
+        "tider": {
+          "start": "09:00"
+        }
       }
     },
     {
@@ -642,320 +641,6 @@
         ],
         "tider": {
           "start": "11:00"
-        }
-      }
-    },
-    {
-      "id": "heja-lunchkonsert-med-jan-olof-anderson-2026",
-      "titel": "Lunchkonsert med Jan Olof Anderson",
-      "start": "2026-10-09T12:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/lunchkonsert-med-jan-olof-anderson-2026/",
-          "arrangor": "https://secure.tickster.com/sv/vt1vlk6hg2yjxhf/eventsaleclosed"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-09"
-        ],
-        "tider": {
-          "start": "12:00"
-        }
-      }
-    },
-    {
-      "id": "heja-joscho-stephan-workshop-2026",
-      "titel": "Joscho Stephan Workshop",
-      "start": "2026-10-09T14:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/joscho-stephan-workshop-2026/",
-          "arrangor": "https://secure.tickster.com/sv/h9mvu5th36p3zy3/eventsaleclosed"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-09"
-        ],
-        "tider": {
-          "start": "14:30"
-        }
-      }
-    },
-    {
-      "id": "heja-richard-smith-workshop-2026-2",
-      "titel": "Richard Smith Workshop",
-      "start": "2026-10-09T15:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/richard-smith-workshop-2026-2/",
-          "arrangor": "https://secure.tickster.com/sv/a821glulyxn0bcl/eventsaleclosed"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-09"
-        ],
-        "tider": {
-          "start": "15:30"
-        }
-      }
-    },
-    {
-      "id": "heja-rory-hoffman-workshop-2026",
-      "titel": "Rory Hoffman Workshop",
-      "start": "2026-10-09T16:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/rory-hoffman-workshop-2026/",
-          "arrangor": "https://secure.tickster.com/sv/pcv9wew5ge5jun7/eventsaleclosed"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-09"
-        ],
-        "tider": {
-          "start": "16:30"
-        }
-      }
-    },
-    {
-      "id": "heja-zoran-dukic-2026-ukk",
-      "titel": "Zoran Dukic",
-      "start": "2026-10-09T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/zoran-dukic-2026-ukk/",
-          "arrangor": "https://secure.tickster.com/sv/858gkptc855e63c/eventsaleclosed"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-09"
-        ],
-        "tider": {
-          "start": "18:00"
-        }
-      }
-    },
-    {
-      "id": "heja-ebbot-lundberg-9-okt-2026",
-      "titel": "Ebbot Lundberg",
-      "start": "2026-10-09T19:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Black bird",
-        "id": "heja-plats-black-bird"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/ebbot-lundberg-9-okt-2026/",
-          "arrangor": "https://secure.tickster.com/sv/rvxmwlyt679vu6n/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-09"
-        ],
-        "tider": {
-          "start": "19:30"
-        }
-      }
-    },
-    {
-      "id": "heja-camilla-widell-quartet-katalins-backficka-2026",
-      "titel": "Camilla Widell Quartet – Katalins Backficka",
-      "start": "2026-10-09T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/camilla-widell-quartet-katalins-backficka-2026/",
-          "arrangor": "https://secure.tickster.com/sv/yx51gwzep532tpz/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-09"
-        ],
-        "tider": {
-          "start": "20:00"
-        }
-      }
-    },
-    {
-      "id": "heja-zardonic-dj-format",
-      "titel": "Zardonic & DJ Format",
-      "start": "2026-10-09T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/zardonic-dj-format/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "musik",
-          "uppsala"
-        ],
-        "tider": {
-          "start": "20:00"
-        }
-      }
-    },
-    {
-      "id": "heja-transatlantic-guitar-trio-2026-ukk",
-      "titel": "Transatlantic Guitar Trio",
-      "start": "2026-10-09T21:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/transatlantic-guitar-trio-2026-ukk/",
-          "arrangor": "https://secure.tickster.com/sv/6pd5rvmbl5nzcdb/eventsaleclosed"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-09"
-        ],
-        "tider": {
-          "start": "21:00"
         }
       }
     },
@@ -2684,6 +2369,41 @@
         ],
         "tider": {
           "start": "12:00"
+        }
+      }
+    },
+    {
+      "id": "heja-konstutstallning-gull-britt-jansson-ovre-slottsgatan-2026",
+      "titel": "Konstutställning – Gull-Britt Jansson",
+      "start": "2026-10-15",
+      "slut": "2026-10-18",
+      "plats": {
+        "namn": "Studio Hörngren",
+        "id": "heja-plats-studio-hörngren"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/konstutstallning-gull-britt-jansson-ovre-slottsgatan-2026/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "konst",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-18"
+        ],
+        "tider": {
+          "start": "13:00"
         }
       }
     },
@@ -5372,6 +5092,44 @@
       }
     },
     {
+      "id": "heja-peacock-gastar-birger-jarl-2026",
+      "titel": "Peacock gästar Birger Jarl",
+      "start": "2026-10-24T21:00:00+02:00",
+      "slut": "2026-10-25",
+      "plats": {
+        "namn": "Birger Jarl",
+        "id": "birgerjarl"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/peacock-gastar-birger-jarl-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "dans-event",
+          "hojdpunkter-hejauppsala",
+          "mat-dryck",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-24",
+          "2026-10-25"
+        ],
+        "tider": {
+          "start": "21:00"
+        }
+      }
+    },
+    {
       "id": "heja-nightrage-kaliber-room-2026",
       "titel": "Nightrage",
       "start": "2026-10-24T22:00:00+02:00",
@@ -5938,6 +5696,43 @@
         ],
         "tider": {
           "start": "20:00"
+        }
+      }
+    },
+    {
+      "id": "heja-hostsalong-pa-galleri-brink-2026",
+      "titel": "Höstsalong på Galleri BRINK",
+      "start": "2026-10-29",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Galleri BRINK, Storgatan 23 c, Uppsala",
+        "id": "heja-plats-galleri-brink-storgatan-23-c-uppsala"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/hostsalong-pa-galleri-brink-2026/",
+          "arrangor": "https://www.galleribrink.se/hostsalong"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "konst",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-29",
+          "2026-11-01"
+        ],
+        "tider": {
+          "start": "12:00"
         }
       }
     },
@@ -9448,6 +9243,43 @@
       "fakta": {
         "kategorier": [
           "gratis",
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-15"
+        ],
+        "tider": {
+          "start": "16:00"
+        }
+      }
+    },
+    {
+      "id": "heja-skrot-tips-och-trix-2026",
+      "titel": "SKROT tips och trix",
+      "start": "2026-11-15T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Kulturoasen",
+        "id": "kulturoasen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/skrot-tips-och-trix-2026/",
+          "arrangor": "https://www.kulturoasen.se/events/barn-familj-skrot-tips-och-trix/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "familj",
           "hojdpunkter-hejauppsala",
           "musik",
           "uppsala"
@@ -16222,6 +16054,42 @@
       }
     },
     {
+      "id": "heja-svart-rida-2027",
+      "titel": "Svart Ridå",
+      "start": "2027-02-19T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/svart-rida-2027/",
+          "arrangor": "https://secure.tickster.com/sv/etxbdmcpb133bwm/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-02-19"
+        ],
+        "tider": {
+          "start": "20:00"
+        }
+      }
+    },
+    {
       "id": "heja-uppsala-basket-d-hogsbo-20-feb-2027",
       "titel": "Uppsala basket D-Högsbo",
       "start": "2027-02-20T15:00:00+01:00",
@@ -16327,6 +16195,42 @@
       }
     },
     {
+      "id": "heja-bamse-och-sjorovarskatten-2027",
+      "titel": "Bamse och Sjörövarskatten",
+      "start": "2027-02-21T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/bamse-och-sjorovarskatten-2027/",
+          "arrangor": "https://secure.tickster.com/sv/k45xdlnljt6c72r/seating"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "familj",
+          "hojdpunkter-hejauppsala",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-02-21"
+        ],
+        "tider": {
+          "start": "14:00"
+        }
+      }
+    },
+    {
       "id": "heja-almtuna-kalmar-24-feb-2026",
       "titel": "Almtuna-Kalmar",
       "start": "2027-02-24T19:00:00+01:00",
@@ -16350,6 +16254,42 @@
       "fakta": {
         "kategorier": [
           "sport",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-02-24"
+        ],
+        "tider": {
+          "start": "19:00"
+        }
+      }
+    },
+    {
+      "id": "heja-klas-kalas-2027",
+      "titel": "Klas Kalas",
+      "start": "2027-02-24T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/klas-kalas-2027/",
+          "arrangor": "https://secure.tickster.com/sv/yrmvpam1jf90v9y/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "scen",
           "uppsala"
         ],
         "datum": [
@@ -16390,6 +16330,42 @@
         ],
         "datum": [
           "2027-02-24"
+        ],
+        "tider": {
+          "start": "20:00"
+        }
+      }
+    },
+    {
+      "id": "heja-jesper-ronndahl-och-marie-agerhall-2027",
+      "titel": "Jesper Rönndahl och Marie Agerhäll",
+      "start": "2027-02-25T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/jesper-ronndahl-och-marie-agerhall-2027/",
+          "arrangor": "https://secure.tickster.com/sv/4k49xmnc403y1vu/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "scen",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-02-25"
         ],
         "tider": {
           "start": "20:00"
@@ -16463,6 +16439,42 @@
         ],
         "tider": {
           "start": "17:00"
+        }
+      }
+    },
+    {
+      "id": "heja-poste-restante-feb-2027",
+      "titel": "Poste Restante – 28/2",
+      "start": "2027-02-28T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/poste-restante-feb-2027/",
+          "arrangor": "https://secure.tickster.com/sv/w768vzlh7lbxz35/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-02-28"
+        ],
+        "tider": {
+          "start": "16:00"
         }
       }
     },
@@ -16562,6 +16574,76 @@
         ],
         "tider": {
           "start": "18:00"
+        }
+      }
+    },
+    {
+      "id": "heja-night-of-famous-musicals-2027",
+      "titel": "Night of Famous Musicals",
+      "start": "2027-03-03T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/night-of-famous-musicals-2027/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-03-03"
+        ],
+        "tider": {
+          "start": "19:00"
+        }
+      }
+    },
+    {
+      "id": "heja-laleh-varturne-2027-uppsala",
+      "titel": "Laleh",
+      "start": "2027-03-05T19:30:00+01:00",
+      "slut": "2027-03-06",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/laleh-varturne-2027-uppsala/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-03-06"
+        ],
+        "tider": {
+          "start": "19:30"
         }
       }
     },
@@ -16878,6 +16960,42 @@
         ],
         "tider": {
           "start": "18:30"
+        }
+      }
+    },
+    {
+      "id": "heja-henning-2027",
+      "titel": "Henning",
+      "start": "2027-03-18T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/henning-2027/",
+          "arrangor": "https://secure.tickster.com/sv/6hthcku6uau1560/eventsaleclosed"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-03-18"
+        ],
+        "tider": {
+          "start": "20:00"
         }
       }
     },

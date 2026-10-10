@@ -1,33 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-09T04:36:49.727Z",
-  "antal": 142,
+  "hamtad": "2026-10-10T04:33:52.762Z",
+  "antal": 141,
   "evenemang": [
-    {
-      "id": "sport-profixio-32636864",
-      "titel": "Sloga Uppsala – Köping Stars",
-      "start": "2026-10-09T19:04:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Basket",
-      "liga": "Basketligan herr",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid27640/match/32636864"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-profixio-32656505",
       "titel": "Uppsala VBS – Södertelge VBK (dam)",

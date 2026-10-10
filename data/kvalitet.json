@@ -1,13 +1,13 @@
 {
-  "matt": "2026-10-09T04:36:50.308Z",
-  "idag": "2026-10-09",
+  "matt": "2026-10-10T04:33:53.795Z",
+  "idag": "2026-10-10",
   "totalt": {
-    "antal": 1872,
+    "antal": 1854,
     "utanKlockslag": 0.038,
-    "ovrigt": 0.028,
+    "ovrigt": 0.029,
     "familjUtanAlder": 0.181,
-    "utanOmrade": 0.013,
-    "sammanslagna": 556,
+    "utanOmrade": 0.015,
+    "sammanslagna": 545,
     "pagar14": 12,
     "borttagnaKurser": 23,
     "aiEvenemang": 0,
@@ -15,12 +15,12 @@
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
       "langvariga": 8,
-      "samma-kalla": 26,
+      "samma-kalla": 24,
       "serie-uttryckliga-datum": 6,
       "speltid-mot-tillfallen": 11,
       "festival": 17,
-      "lika": 257,
-      "innehaller": 92,
+      "lika": 250,
+      "innehaller": 91,
       "likhet": 3,
       "sport": 50
     }
@@ -41,12 +41,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 120,
+      "antal": 117,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 82,
+      "sammanslagna": 79,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,10 +67,10 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 765,
+      "antal": 761,
       "utanKlockslag": 0.044,
       "ovrigt": 0.009,
-      "familjUtanAlder": 0.127,
+      "familjUtanAlder": 0.126,
       "utanOmrade": 0.007,
       "sammanslagna": 163,
       "pagar14": 0,
@@ -80,12 +80,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 258,
-      "utanKlockslag": 0.085,
-      "ovrigt": 0.101,
-      "familjUtanAlder": 0.754,
+      "antal": 255,
+      "utanKlockslag": 0.086,
+      "ovrigt": 0.102,
+      "familjUtanAlder": 0.75,
       "utanOmrade": 0.043,
-      "sammanslagna": 249,
+      "sammanslagna": 246,
       "pagar14": 11,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -93,12 +93,12 @@
     },
     "h": {
       "namn": "Heja",
-      "antal": 449,
-      "utanKlockslag": 0.059,
+      "antal": 443,
+      "utanKlockslag": 0.06,
       "ovrigt": 0.038,
-      "familjUtanAlder": 0.788,
-      "utanOmrade": 0.013,
-      "sammanslagna": 307,
+      "familjUtanAlder": 0.794,
+      "utanOmrade": 0.016,
+      "sammanslagna": 299,
       "pagar14": 3,
       "borttagnaKurser": 1,
       "aiEvenemang": 0,
@@ -106,12 +106,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 290,
+      "antal": 277,
       "utanKlockslag": 0.004,
-      "ovrigt": 0.031,
+      "ovrigt": 0.032,
       "familjUtanAlder": 0.462,
-      "utanOmrade": 0.01,
-      "sammanslagna": 232,
+      "utanOmrade": 0.018,
+      "sammanslagna": 224,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -271,18 +271,6 @@
     },
     {
       "regel": "samma-kalla",
-      "dag": "2026-10-09",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
       "dag": "2026-10-10",
       "plats": "konstmuseum",
       "kallor": [
@@ -344,18 +332,6 @@
     {
       "regel": "samma-kalla",
       "dag": "2026-10-17",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
-      "dag": "2026-10-09",
       "plats": "konstmuseum",
       "kallor": [
         "h",
@@ -612,7 +588,7 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-09",
+      "dag": "2026-10-16",
       "plats": "gottsundabib",
       "kallor": [
         "u",
@@ -697,7 +673,7 @@
       "titlar": [
         "Bara två stjärnor"
       ],
-      "tillfallen": 3
+      "tillfallen": 2
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -710,7 +686,7 @@
       "titlar": [
         "Medan vi brinner"
       ],
-      "tillfallen": 14
+      "tillfallen": 13
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -723,7 +699,7 @@
       "titlar": [
         "Stadens ljus"
       ],
-      "tillfallen": 20
+      "tillfallen": 19
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -930,7 +906,7 @@
     },
     {
       "regel": "festival",
-      "dag": "2026-10-08",
+      "dag": "2026-10-09",
       "plats": "fyrishov",
       "kallor": [
         "h",
@@ -943,7 +919,7 @@
     },
     {
       "regel": "festival",
-      "dag": "2026-10-08",
+      "dag": "2026-10-09",
       "plats": "fyrishov",
       "kallor": [
         "h",
@@ -1174,19 +1150,6 @@
     {
       "regel": "lika",
       "dag": "2026-10-16",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Fredagsmys"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-16",
       "plats": "gottsundabib",
       "kallor": [
         "b",
@@ -1194,6 +1157,19 @@
       ],
       "titlar": [
         "Ritsagor"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-10-16",
+      "plats": "stadsbib",
+      "kallor": [
+        "b",
+        "u"
+      ],
+      "titlar": [
+        "Fredagsmys"
       ],
       "poang": 1
     },
@@ -4237,116 +4213,6 @@
       "poang": 0.5
     },
     {
-      "regel": "innehaller",
-      "dag": "2026-10-09",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Lunchkonsert med Jan Olof Anderson",
-        "Jan Olof Anderson – Lunchkonsert"
-      ],
-      "poang": 0.75
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-09",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Joscho Stephan Workshop",
-        "Joscho Stephan – Workshop"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-09",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Richard Smith Workshop",
-        "Richard Smith – Workshop"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-09",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Rory Hoffman Workshop",
-        "Rory Hoffman – Workshop"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-09",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Zoran Dukic"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-09",
-      "plats": "blackbird",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Ebbot Lundberg"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-09",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Camilla Widell Quartet – Katalins Backficka",
-        "Camilla Widell Quartet – på Katalins Backficka"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-09",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Transatlantic Guitar Trio",
-        "Transatlantic Guitar Trio (TGT)"
-      ],
-      "poang": 0.75
-    },
-    {
       "regel": "lika",
       "dag": "2026-10-10",
       "plats": "ukk",
@@ -5375,7 +5241,7 @@
       "poang": 0.83
     },
     {
-      "regel": "lika",
+      "regel": "innehaller",
       "dag": "2026-11-11",
       "plats": "katalin",
       "kallor": [
@@ -5383,9 +5249,10 @@
         "t"
       ],
       "titlar": [
-        "Rotting Christ"
+        "Rotting Christ",
+        "Rotting Christ & Grand Harvest"
       ],
-      "poang": 1
+      "poang": 0.5
     },
     {
       "regel": "lika",
@@ -6615,14 +6482,14 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 28,
+      "varde": 29,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 18,
+      "varde": 17,
       "krav": "minst 10"
     },
     {
@@ -6650,14 +6517,14 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "2.8 %",
+      "varde": "2.9 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "1.3 %",
+      "varde": "1.5 %",
       "krav": "under 2 %"
     },
     {

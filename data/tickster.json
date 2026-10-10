@@ -1,134 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-09T04:33:09.225Z",
-  "antal": 347,
+  "hamtad": "2026-10-10T04:30:29.623Z",
+  "antal": 337,
   "evenemang": [
-    {
-      "id": "tickster-x4tgyv31kzh5utv",
-      "titel": "Workshop – Maggie Cullén",
-      "start": "2026-10-09T10:00:00+02:00",
-      "slut": "2026-10-09T11:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/x4tgyv31kzh5utv/2026-10-09/workshop-maggie-cullen",
-          "biljetter": "https://secure.tickster.com/sv/x4tgyv31kzh5utv"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-m92mhd75e5t6mgc",
-      "titel": "Masterclass – Pavel Steidl",
-      "start": "2026-10-09T10:00:00+02:00",
-      "slut": "2026-10-09T11:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/m92mhd75e5t6mgc/2026-10-09/masterclass-pavel-steidl",
-          "biljetter": "https://secure.tickster.com/sv/m92mhd75e5t6mgc"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-b3ex54gvvlab8av",
-      "titel": "Föredrag & uppvisning – Diego Jascalevich",
-      "start": "2026-10-09T11:00:00+02:00",
-      "slut": "2026-10-09T12:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/b3ex54gvvlab8av/2026-10-09/foredrag-and-uppvisning-diego-jascalevich",
-          "biljetter": "https://secure.tickster.com/sv/b3ex54gvvlab8av"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-zv8vn122j01g4wn",
-      "titel": "Workshop – Juanfe Perez",
-      "start": "2026-10-09T11:00:00+02:00",
-      "slut": "2026-10-09T12:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/zv8vn122j01g4wn/2026-10-09/workshop-juanfe-perez",
-          "biljetter": "https://secure.tickster.com/sv/zv8vn122j01g4wn"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-vt1vlk6hg2yjxhf",
-      "titel": "Jan Olof Anderson – Lunchkonsert",
-      "start": "2026-10-09T12:00:00+02:00",
-      "slut": "2026-10-09T12:50:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/vt1vlk6hg2yjxhf/2026-10-09/jan-olof-anderson-lunchkonsert",
-          "biljetter": "https://secure.tickster.com/sv/vt1vlk6hg2yjxhf"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "tickster-z0eabcln8gb52ya",
       "titel": "Uppsala Internationella Gitarrfestival 2026",
@@ -149,300 +24,6 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/z0eabcln8gb52ya/2026-10-09/uppsala-internationella-gitarrfestival-2026",
           "biljetter": "https://secure.tickster.com/sv/z0eabcln8gb52ya"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-8hme7zdwh804b7t",
-      "titel": "Workshop – La Tremendita",
-      "start": "2026-10-09T13:00:00+02:00",
-      "slut": "2026-10-09T14:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/8hme7zdwh804b7t/2026-10-09/workshop-la-tremendita",
-          "biljetter": "https://secure.tickster.com/sv/8hme7zdwh804b7t"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-4htl21arwwce4hn",
-      "titel": "Workshop – Emil Ernebro & Filip Jers",
-      "start": "2026-10-09T13:00:00+02:00",
-      "slut": "2026-10-09T14:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/4htl21arwwce4hn/2026-10-09/workshop-emil-ernebro-and-filip-jers",
-          "biljetter": "https://secure.tickster.com/sv/4htl21arwwce4hn"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-et9j045yd5kr4pk",
-      "titel": "Workshop – Seva Castro",
-      "start": "2026-10-09T14:00:00+02:00",
-      "slut": "2026-10-09T15:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/et9j045yd5kr4pk/2026-10-09/workshop-seva-castro",
-          "biljetter": "https://secure.tickster.com/sv/et9j045yd5kr4pk"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-h9mvu5th36p3zy3",
-      "titel": "Joscho Stephan – Workshop",
-      "start": "2026-10-09T14:30:00+02:00",
-      "slut": "2026-10-09T15:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/h9mvu5th36p3zy3/2026-10-09/joscho-stephan-workshop",
-          "biljetter": "https://secure.tickster.com/sv/h9mvu5th36p3zy3"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-a821glulyxn0bcl",
-      "titel": "Richard Smith – Workshop",
-      "start": "2026-10-09T15:30:00+02:00",
-      "slut": "2026-10-09T16:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/a821glulyxn0bcl/2026-10-09/richard-smith-workshop",
-          "biljetter": "https://secure.tickster.com/sv/a821glulyxn0bcl"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-pcv9wew5ge5jun7",
-      "titel": "Rory Hoffman – Workshop",
-      "start": "2026-10-09T16:30:00+02:00",
-      "slut": "2026-10-09T17:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/pcv9wew5ge5jun7/2026-10-09/rory-hoffman-workshop",
-          "biljetter": "https://secure.tickster.com/sv/pcv9wew5ge5jun7"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-858gkptc855e63c",
-      "titel": "Zoran Dukic",
-      "start": "2026-10-09T18:00:00+02:00",
-      "slut": "2026-10-09T19:10:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/858gkptc855e63c/2026-10-09/zoran-dukic",
-          "biljetter": "https://secure.tickster.com/sv/858gkptc855e63c"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-mz1dnz5k8lxmzmw",
-      "titel": "Sirius vs Hagunda",
-      "start": "2026-10-09T19:00:00+02:00",
-      "slut": "2026-10-09T21:00:00+02:00",
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu",
-        "lat": 59.882,
-        "lng": 17.6562
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/mz1dnz5k8lxmzmw/2026-10-09/sirius-vs-hagunda",
-          "biljetter": "https://secure.tickster.com/sv/mz1dnz5k8lxmzmw"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-rvxmwlyt679vu6n",
-      "titel": "Ebbot Lundberg",
-      "start": "2026-10-09T20:00:00+02:00",
-      "slut": "2026-10-09T22:00:00+02:00",
-      "plats": {
-        "namn": "Blackbird",
-        "id": "blackbird"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/rvxmwlyt679vu6n/2026-10-09/ebbot-lundberg",
-          "biljetter": "https://secure.tickster.com/sv/rvxmwlyt679vu6n"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "blackbird",
-          "jazz",
-          "uppsala",
-          "late night jazz",
-          "musik",
-          "konsert",
-          "live",
-          "kaliber live",
-          "östra station",
-          "ebbot lundberg"
-        ]
-      }
-    },
-    {
-      "id": "tickster-yx51gwzep532tpz",
-      "titel": "Camilla Widell Quartet – på Katalins Backficka",
-      "start": "2026-10-09T20:00:00+02:00",
-      "slut": "2026-10-09T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/yx51gwzep532tpz/2026-10-09/camilla-widell-quartet-pa-katalins-backficka",
-          "biljetter": "https://secure.tickster.com/sv/yx51gwzep532tpz"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinuppsala",
-          "katalinandallthatjazz",
-          "katalinsbakficka"
-        ]
-      }
-    },
-    {
-      "id": "tickster-6pd5rvmbl5nzcdb",
-      "titel": "Transatlantic Guitar Trio (TGT)",
-      "start": "2026-10-09T21:00:00+02:00",
-      "slut": "2026-10-09T22:20:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/6pd5rvmbl5nzcdb/2026-10-09/transatlantic-guitar-trio-tgt",
-          "biljetter": "https://secure.tickster.com/sv/6pd5rvmbl5nzcdb"
         }
       ],
       "langvarig": false,
@@ -1676,6 +1257,29 @@
         }
       ],
       "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-78lvkn39wy9c4xr",
+      "titel": "45:e Uppsala Kortfilmfestival 19-25 oktober",
+      "start": "2026-10-19T13:00:00+02:00",
+      "slut": "2026-10-25T23:59:00+01:00",
+      "plats": {
+        "namn": "Slottsbiografen",
+        "id": "tickster-plats-h3j3ba8g6w72cuv"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/78lvkn39wy9c4xr/2026-10-19/45-e-uppsala-kortfilmfestival-19-25-oktober",
+          "biljetter": "https://secure.tickster.com/sv/78lvkn39wy9c4xr"
+        }
+      ],
+      "langvarig": true,
       "installd": false
     },
     {
@@ -3489,6 +3093,29 @@
       "installd": false
     },
     {
+      "id": "tickster-lzvgxtv9gk5vw6b",
+      "titel": "Urban Vybez Club • Halloween 31 Oct",
+      "start": "2026-10-31T23:00:00+01:00",
+      "slut": "2026-11-01T03:00:00+01:00",
+      "plats": {
+        "namn": "Heaven Grill De Brazil",
+        "id": "tickster-plats-nuaevm5hbwlxz09"
+      },
+      "kategori": "natt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/lzvgxtv9gk5vw6b/2026-10-31/urban-vybez-club-halloween-31-oct",
+          "biljetter": "https://secure.tickster.com/sv/lzvgxtv9gk5vw6b"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-kfyfxrah1edy3hn",
       "titel": "Workshop: Stadskroki",
       "start": "2026-11-01T13:00:00+01:00",
@@ -4440,45 +4067,6 @@
       "installd": false
     },
     {
-      "id": "tickster-hu3dyzhnhg35bvt",
-      "titel": "Rotting Christ",
-      "start": "2026-11-11T20:00:00+01:00",
-      "slut": "2026-11-11T22:00:00+01:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8595,
-        "lng": 17.6465
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/hu3dyzhnhg35bvt/2026-11-11/rotting-christ",
-          "biljetter": "https://secure.tickster.com/sv/hu3dyzhnhg35bvt"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinlive",
-          "uppsala",
-          "katalin",
-          "musik",
-          "konsert",
-          "kaliber live",
-          "rotting christ",
-          "metal",
-          "håtdrock",
-          "dösmetal"
-        ]
-      }
-    },
-    {
       "id": "tickster-3kpne7exwtlge3l",
       "titel": "Happy Birthday Neil Young!",
       "start": "2026-11-11T20:00:00+01:00",
@@ -4502,6 +4090,45 @@
       ],
       "langvarig": false,
       "installd": false
+    },
+    {
+      "id": "tickster-hu3dyzhnhg35bvt",
+      "titel": "Rotting Christ & Grand Harvest",
+      "start": "2026-11-11T20:00:00+01:00",
+      "slut": "2026-11-11T22:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/hu3dyzhnhg35bvt/2026-11-11/rotting-christ-and-grand-harvest",
+          "biljetter": "https://secure.tickster.com/sv/hu3dyzhnhg35bvt"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "rotting christ",
+          "metal",
+          "håtdrock",
+          "dösmetal"
+        ]
+      }
     },
     {
       "id": "tickster-7t555zhjtwlcfww",
@@ -6864,6 +6491,37 @@
         "taggar": [
           "julbord",
           "julmiddag"
+        ]
+      }
+    },
+    {
+      "id": "tickster-k4pt35ml013fupk",
+      "titel": "Anna Heikkinen & Längtans Kapell",
+      "start": "2026-12-05T17:30:00+01:00",
+      "slut": "2026-12-05T18:30:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/k4pt35ml013fupk/2026-12-05/anna-heikkinen-and-langtans-kapell",
+          "biljetter": "https://secure.tickster.com/sv/k4pt35ml013fupk"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "folk"
         ]
       }
     },
@@ -9844,6 +9502,37 @@
       }
     },
     {
+      "id": "tickster-benufv8jw8cafjt",
+      "titel": "Laleh vårturné 2027 – Jag såg hur vi var stjärnor",
+      "start": "2027-03-06T15:00:00+01:00",
+      "slut": "2027-03-06T16:30:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/benufv8jw8cafjt/2027-03-06/laleh-varturne-2027-jag-sag-hur-vi-var-stjarnor",
+          "biljetter": "https://secure.tickster.com/sv/benufv8jw8cafjt"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "pop"
+        ]
+      }
+    },
+    {
       "id": "tickster-bycra2ryrkpny7l",
       "titel": "Laleh vårturné 2027 – Jag såg hur vi var stjärnor",
       "start": "2027-03-06T19:30:00+01:00",
@@ -10072,6 +9761,45 @@
       "fakta": {
         "taggar": [
           "klassiskt"
+        ]
+      }
+    },
+    {
+      "id": "tickster-6hthcku6uau1560",
+      "titel": "Henning",
+      "start": "2027-03-18T20:00:00+01:00",
+      "slut": "2027-03-18T22:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/6hthcku6uau1560/2027-03-18/henning",
+          "biljetter": "https://secure.tickster.com/sv/6hthcku6uau1560"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "henning",
+          "pop",
+          "rock",
+          "live"
         ]
       }
     },
@@ -10590,6 +10318,41 @@
       "fakta": {
         "taggar": [
           "klassiskt"
+        ]
+      }
+    },
+    {
+      "id": "tickster-29zfc21z70p5n80",
+      "titel": "Ola Aurell – Mänsklighetens lyckligaste tid – Ups",
+      "start": "2027-05-20T20:00:00+02:00",
+      "slut": "2027-05-20T21:50:00+02:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8598,
+        "lng": 17.6459
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/29zfc21z70p5n80/2027-05-20/ola-aurell-mansklighetens-lyckligaste-tid-ups",
+          "biljetter": "https://secure.tickster.com/sv/29zfc21z70p5n80"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalin",
+          "uppland",
+          "musik",
+          "uppsala",
+          "mänsklighetens lyckligaste tid",
+          "ola aurell"
         ]
       }
     },

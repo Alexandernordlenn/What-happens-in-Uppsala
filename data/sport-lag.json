@@ -1,6 +1,6 @@
 {
-  "uppdaterad": "2026-10-09T04:36:49.734Z",
-  "antalMatcherIUppsala": 142,
+  "uppdaterad": "2026-10-10T04:33:52.775Z",
+  "antalMatcherIUppsala": 141,
   "lag": [
     {
       "lag": "IK Sirius",
@@ -108,7 +108,7 @@
       "kon": "herr",
       "niva": 1,
       "liga": "Basketligan herr",
-      "antal": 17,
+      "antal": 16,
       "hemmamatcher30": 3,
       "iSasong": true
     },
