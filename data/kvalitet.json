@@ -1,26 +1,26 @@
 {
-  "matt": "2026-10-10T04:33:53.795Z",
-  "idag": "2026-10-10",
+  "matt": "2026-10-11T04:33:22.912Z",
+  "idag": "2026-10-11",
   "totalt": {
-    "antal": 1854,
-    "utanKlockslag": 0.038,
-    "ovrigt": 0.029,
-    "familjUtanAlder": 0.181,
+    "antal": 1805,
+    "utanKlockslag": 0.037,
+    "ovrigt": 0.027,
+    "familjUtanAlder": 0.18,
     "utanOmrade": 0.015,
-    "sammanslagna": 545,
+    "sammanslagna": 524,
     "pagar14": 12,
     "borttagnaKurser": 23,
     "aiEvenemang": 0,
-    "misstanktaDubbletter": 1,
+    "misstanktaDubbletter": 0,
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
-      "langvariga": 8,
-      "samma-kalla": 24,
+      "langvariga": 7,
+      "samma-kalla": 22,
       "serie-uttryckliga-datum": 6,
       "speltid-mot-tillfallen": 11,
-      "festival": 17,
-      "lika": 250,
-      "innehaller": 91,
+      "festival": 13,
+      "lika": 240,
+      "innehaller": 88,
       "likhet": 3,
       "sport": 50
     }
@@ -28,11 +28,11 @@
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 108,
+      "antal": 107,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.009,
+      "utanOmrade": 0,
       "sammanslagna": 50,
       "pagar14": 0,
       "borttagnaKurser": 0,
@@ -41,12 +41,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 117,
+      "antal": 115,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 79,
+      "sammanslagna": 77,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 429,
+      "antal": 418,
       "utanKlockslag": 0,
-      "ovrigt": 0.002,
+      "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 143,
+      "sammanslagna": 139,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 761,
-      "utanKlockslag": 0.044,
+      "antal": 749,
+      "utanKlockslag": 0.043,
       "ovrigt": 0.009,
-      "familjUtanAlder": 0.126,
+      "familjUtanAlder": 0.128,
       "utanOmrade": 0.007,
-      "sammanslagna": 163,
+      "sammanslagna": 158,
       "pagar14": 0,
       "borttagnaKurser": 22,
       "aiEvenemang": 0,
@@ -80,58 +80,45 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 255,
-      "utanKlockslag": 0.086,
-      "ovrigt": 0.102,
-      "familjUtanAlder": 0.75,
-      "utanOmrade": 0.043,
-      "sammanslagna": 246,
+      "antal": 250,
+      "utanKlockslag": 0.082,
+      "ovrigt": 0.104,
+      "familjUtanAlder": 0.754,
+      "utanOmrade": 0.044,
+      "sammanslagna": 238,
       "pagar14": 11,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
-      "misstanktaDubbletter": 1
+      "misstanktaDubbletter": 0
     },
     "h": {
       "namn": "Heja",
-      "antal": 443,
-      "utanKlockslag": 0.06,
-      "ovrigt": 0.038,
-      "familjUtanAlder": 0.794,
-      "utanOmrade": 0.016,
-      "sammanslagna": 299,
-      "pagar14": 3,
+      "antal": 418,
+      "utanKlockslag": 0.058,
+      "ovrigt": 0.031,
+      "familjUtanAlder": 0.821,
+      "utanOmrade": 0.017,
+      "sammanslagna": 284,
+      "pagar14": 2,
       "borttagnaKurser": 1,
       "aiEvenemang": 0,
-      "misstanktaDubbletter": 1
+      "misstanktaDubbletter": 0
     },
     "t": {
       "namn": "Tickster",
-      "antal": 277,
+      "antal": 263,
       "utanKlockslag": 0.004,
-      "ovrigt": 0.032,
+      "ovrigt": 0.034,
       "familjUtanAlder": 0.462,
-      "utanOmrade": 0.018,
-      "sammanslagna": 224,
+      "utanOmrade": 0.019,
+      "sammanslagna": 214,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
       "misstanktaDubbletter": 0
     }
   },
-  "exempelDubbletter": [
-    {
-      "dag": "2026-10-10",
-      "plats": "brorhjorth",
-      "titlar": [
-        "Johan Thurfjell – Ljuset",
-        "Johan Thurfjell – Ljuset"
-      ],
-      "tider": [
-        "12:00",
-        null
-      ]
-    }
-  ],
+  "exempelDubbletter": [],
   "sammanslagningar": [
     {
       "regel": "langvariga",
@@ -169,19 +156,6 @@
       "titlar": [
         "Katarina Jagellonica 500 år",
         "Utställn: Katarina Jagellonica i Domkyrkan"
-      ]
-    },
-    {
-      "regel": "langvariga",
-      "dag": "2026-10-03",
-      "plats": "konstmuseum",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image – of what is just becoming reality",
-        "Eija-Liisa Ahtila – A Possible Image"
       ]
     },
     {
@@ -271,18 +245,6 @@
     },
     {
       "regel": "samma-kalla",
-      "dag": "2026-10-10",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
       "dag": "2026-10-11",
       "plats": "konstmuseum",
       "kallor": [
@@ -332,18 +294,6 @@
     {
       "regel": "samma-kalla",
       "dag": "2026-10-17",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
-      "dag": "2026-10-10",
       "plats": "konstmuseum",
       "kallor": [
         "h",
@@ -603,11 +553,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-10",
+      "dag": "2026-10-17",
       "plats": "konstmuseum",
       "kallor": [
         "d",
-        "h",
         "h",
         "h",
         "h",
@@ -686,7 +635,7 @@
       "titlar": [
         "Medan vi brinner"
       ],
-      "tillfallen": 13
+      "tillfallen": 12
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -699,7 +648,7 @@
       "titlar": [
         "Stadens ljus"
       ],
-      "tillfallen": 19
+      "tillfallen": 18
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -767,30 +716,6 @@
         "Greczula"
       ],
       "tillfallen": 1
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-10-08",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Uppsala Internationella Gitarrfestival 2026"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-10-10",
-      "plats": "gamlauppsalamuseum",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Historisk modevisning"
-      ]
     },
     {
       "regel": "festival",
@@ -906,34 +831,6 @@
     },
     {
       "regel": "festival",
-      "dag": "2026-10-09",
-      "plats": "fyrishov",
-      "kallor": [
-        "h",
-        "u"
-      ],
-      "titlar": [
-        "Vetenskapsfestivalen SciFest",
-        "SciFest 2026"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-10-09",
-      "plats": "fyrishov",
-      "kallor": [
-        "h",
-        "u",
-        "d"
-      ],
-      "titlar": [
-        "Vetenskapsfestivalen SciFest",
-        "SciFest 2026",
-        "Vetenskapsfestivalen SciFest 2026"
-      ]
-    },
-    {
-      "regel": "festival",
       "dag": "2026-11-06",
       "plats": "katalin",
       "kallor": [
@@ -998,45 +895,6 @@
         "Oktoberstämman 2026",
         "Oktoberstämman"
       ]
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-10",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Banned books-festival med barnteater"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-10",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Kortfilmsbio: Stor och liten"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-10",
-      "plats": "storvretabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Kortfilmsbio: Stor och liten"
-      ],
-      "poang": 1
     },
     {
       "regel": "lika",
@@ -2536,19 +2394,6 @@
         "Julmarknad med drop-in-vigsel"
       ],
       "poang": 0.8
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-10",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Banned Books Festival"
-      ],
-      "poang": 1
     },
     {
       "regel": "sport",
@@ -4211,128 +4056,6 @@
         "Nour El Refai"
       ],
       "poang": 0.5
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-10",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Young Talents Competition",
-        "Young Talents Competition 2026"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-10",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Jack Gardiner",
-        "Jack Gardiner – Clinic"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-10",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Henrik Linder",
-        "Henrik Linder – Clinic"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-10",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Kiko Loureiro",
-        "Kiko Loureiro – Master Clinic"
-      ],
-      "poang": 0.5
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-10",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "La Tremendita feat. Juanfe Pérez"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-10",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "European Guitar Quartet"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-10",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Svenska Trion tolkar Jan Johansson"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-10",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "The Plan"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-10",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Jack Gardiner & Henrik Linder",
-        "Jack Gardiner & Henrik Linder – Konsert"
-      ],
-      "poang": 1
     },
     {
       "regel": "lika",
@@ -6446,8 +6169,8 @@
     {
       "person": "Lisa",
       "namn": "Helgen, 0–4 år: evenemang med känd ålder",
-      "ok": true,
-      "varde": 6,
+      "ok": false,
+      "varde": 2,
       "krav": "minst 5"
     },
     {
@@ -6461,7 +6184,7 @@
       "person": "Lisa",
       "namn": "Familjeevenemang utan ålder (eller 0–99) syns under \"ålder ej angiven\"",
       "ok": true,
-      "varde": "12 av 12",
+      "varde": "3 av 3",
       "krav": "alla"
     },
     {
@@ -6482,7 +6205,7 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 29,
+      "varde": 28,
       "krav": "minst 10"
     },
     {
@@ -6509,15 +6232,15 @@
     {
       "person": "Allmänt",
       "namn": "Misstänkta dubbletter",
-      "ok": false,
-      "varde": 1,
+      "ok": true,
+      "varde": 0,
       "krav": "0"
     },
     {
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "2.9 %",
+      "varde": "2.7 %",
       "krav": "under 10 %"
     },
     {
@@ -6531,7 +6254,7 @@
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "3.8 %",
+      "varde": "3.7 %",
       "krav": "under 5 %"
     }
   ]

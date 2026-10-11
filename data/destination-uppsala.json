@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-10T04:29:32.767Z",
-  "antal": 183,
+  "hamtad": "2026-10-11T04:29:43.487Z",
+  "antal": 181,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -417,35 +417,6 @@
       }
     },
     {
-      "id": "du-uppsala-internationella-gitarrfestival-2026",
-      "titel": "Uppsala Internationella Gitarrfestival 2026",
-      "start": "2026-10-08",
-      "slut": "2026-10-10",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/uppsala-internationella-gitarrfestival-2026/",
-          "arrangor": "https://www.uppsalagitarrfestival.se/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "festival",
-          "konsert"
-        ]
-      }
-    },
-    {
       "id": "du-johan-thurfjell-ljuset",
       "titel": "Johan Thurfjell – Ljuset",
       "start": "2026-10-10",
@@ -470,41 +441,6 @@
         "kategorier": [
           "utstallning"
         ]
-      }
-    },
-    {
-      "id": "du-vetenskapsfestivalen-scifest-2026",
-      "titel": "Vetenskapsfestivalen SciFest 2026",
-      "start": "2026-10-10T09:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/vetenskapsfestivalen-scifest-2026/",
-          "arrangor": "http://www.scifest.se/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "barn-familj",
-          "festival"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "09:00"
-        }
       }
     },
     {

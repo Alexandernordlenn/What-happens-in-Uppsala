@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-10-10T04:32:46.344Z",
-  "antal": 492,
+  "hamtad": "2026-10-11T04:32:17.538Z",
+  "antal": 470,
   "evenemang": [
     {
       "id": "heja-charta-77-bonta-fran-asta-kask-2026",
@@ -227,7 +227,7 @@
       "id": "heja-eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum",
       "titel": "Eija-Liisa Ahtila – A Possible Image",
       "start": "2026-10-03",
-      "slut": "2026-10-10",
+      "slut": null,
       "plats": {
         "namn": "Uppsala konstmuseum",
         "id": "konstmuseum"
@@ -242,7 +242,7 @@
           "url": "https://hejauppsala.com/kalender/eija-liisa-ahtila-a-possible-image-uppsala-konstmuseum/"
         }
       ],
-      "langvarig": true,
+      "langvarig": false,
       "installd": false,
       "fakta": {
         "kategorier": [
@@ -547,390 +547,10 @@
       }
     },
     {
-      "id": "heja-skaldjurshelger-i-uppsala-saluhall-2026-2-2",
-      "titel": "Skaldjurshelger i Uppsala Saluhall",
-      "start": "2026-10-09",
-      "slut": "2026-10-10",
-      "plats": {
-        "namn": "Uppsala Saluhall",
-        "id": "saluhall"
-      },
-      "kategori": "mat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/skaldjurshelger-i-uppsala-saluhall-2026-2-2/",
-          "arrangor": "http://www.svenssonskrogar.se/evenemang/skaldjurshelger-i-uppsala-saluhall-2026"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "mat-dryck",
-          "uppsala"
-        ]
-      }
-    },
-    {
-      "id": "heja-vetenskapsfestivalen-scifest",
-      "titel": "Vetenskapsfestivalen SciFest",
-      "start": "2026-10-09T09:00:00+02:00",
-      "slut": "2026-10-10",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/vetenskapsfestivalen-scifest/",
-          "arrangor": "https://www.scifest.se/w/sf/for-allmanheten"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "familj",
-          "hojdpunkter-hejauppsala",
-          "uppsala"
-        ],
-        "tider": {
-          "start": "09:00"
-        }
-      }
-    },
-    {
-      "id": "heja-gitarrmassa-2026-ukk",
-      "titel": "Gitarrmässa",
-      "start": "2026-10-09T11:00:00+02:00",
-      "slut": "2026-10-10",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/gitarrmassa-2026-ukk/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "gratis",
-          "ovrigt",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "11:00"
-        }
-      }
-    },
-    {
-      "id": "heja-familjelordagar-uppsala-konstmuseum-2026-2-2-2",
-      "titel": "Familjelördagar på Uppsala konstmuseum",
-      "start": "2026-10-10",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/familjelordagar-uppsala-konstmuseum-2026-2-2-2/",
-          "arrangor": "https://konstmuseum.uppsala.se/program-och-aktiviteter/familjelordagar/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "familj",
-          "hojdpunkter-hejauppsala",
-          "museum",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ]
-      }
-    },
-    {
-      "id": "heja-the-overthrone-kaliber-room-2026",
-      "titel": "The Overthrone",
-      "start": "2026-10-10",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/the-overthrone-kaliber-room-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "musik",
-          "uppsala"
-        ]
-      }
-    },
-    {
-      "id": "heja-arena-loppis-life-arena-2026",
-      "titel": "Arena loppis Life Arena",
-      "start": "2026-10-10T09:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Life Arena",
-        "id": "lifearena"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/arena-loppis-life-arena-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "gratis",
-          "hojdpunkter-hejauppsala",
-          "ovrigt",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "09:30"
-        }
-      }
-    },
-    {
-      "id": "heja-banned-book-festival-10-okt-202",
-      "titel": "Banned Books Festival",
-      "start": "2026-10-10T11:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/banned-book-festival-10-okt-202/",
-          "arrangor": "https://bannedbooksfestival.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "familj",
-          "foredrag",
-          "gratis",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "11:00"
-        }
-      }
-    },
-    {
-      "id": "heja-lordagsmusik-orgelkonsert-14",
-      "titel": "Lördagsmusik: orgelkonsert",
-      "start": "2026-10-10T11:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala domkyrka",
-        "id": "domkyrkan"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/lordagsmusik-orgelkonsert-14/",
-          "arrangor": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/lordagsmusik-i-uppsala-domkyrka"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "gratis",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "11:30"
-        }
-      }
-    },
-    {
-      "id": "heja-johan-thurfjell-ljuset-2026",
-      "titel": "Johan Thurfjell – Ljuset",
-      "start": "2026-10-10T12:00:00+02:00",
-      "slut": "2026-10-11",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "konst",
-          "museum",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-11-22"
-        ],
-        "tider": {
-          "start": "12:00"
-        }
-      }
-    },
-    {
-      "id": "heja-skapa-musik-tillsammans-ukk-2026",
-      "titel": "Skapa Musik Tillsammans",
-      "start": "2026-10-10T12:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/skapa-musik-tillsammans-ukk-2026/",
-          "arrangor": "https://ukk.se/skapa-musik-tillsammans-konsert/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "familj",
-          "gratis",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "12:00"
-        }
-      }
-    },
-    {
-      "id": "heja-rosa-brunchen-clarion-gillet-2026",
-      "titel": "Rosa Brunchen – Clarion Gillet",
-      "start": "2026-10-10T12:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Clarion Hotel Gillet",
-        "id": "heja-plats-clarion-hotel-gillet"
-      },
-      "kategori": "mat",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/rosa-brunchen-clarion-gillet-2026/",
-          "arrangor": "https://www.strawberry.se/restaurang/sverige/uppsala/the-social-uppsala/?book"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "familj",
-          "hojdpunkter-hejauppsala",
-          "mat-dryck",
-          "ovrigt",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "12:00"
-        }
-      }
-    },
-    {
       "id": "heja-historisk-modevisning-2026",
       "titel": "Historisk modevisning",
       "start": "2026-10-10T12:00:00+02:00",
-      "slut": "2026-10-11",
+      "slut": null,
       "plats": {
         "namn": "Gamla Uppsala museum",
         "id": "gamlauppsalamuseum"
@@ -960,470 +580,6 @@
         ],
         "tider": {
           "start": "12:00"
-        }
-      }
-    },
-    {
-      "id": "heja-young-talents-competition-2026",
-      "titel": "Young Talents Competition",
-      "start": "2026-10-10T13:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/young-talents-competition-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "13:00"
-        }
-      }
-    },
-    {
-      "id": "heja-jack-gardiner-2026-ukk",
-      "titel": "Jack Gardiner",
-      "start": "2026-10-10T14:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/jack-gardiner-2026-ukk/",
-          "arrangor": "https://secure.tickster.com/sv/1t5178ev92wd7bh/eventsaleclosed"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "14:00"
-        }
-      }
-    },
-    {
-      "id": "heja-lordagsjazz-katalin-2026-2-2-2",
-      "titel": "Lördagsjazz",
-      "start": "2026-10-10T14:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/lordagsjazz-katalin-2026-2-2-2/",
-          "arrangor": "https://www.katalin.com/lordagsjazz/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "14:30"
-        }
-      }
-    },
-    {
-      "id": "heja-henrik-linder-2026-ukk",
-      "titel": "Henrik Linder",
-      "start": "2026-10-10T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/henrik-linder-2026-ukk/",
-          "arrangor": "https://secure.tickster.com/sv/4dy9pnpe299gdpf/eventsaleclosed"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "15:00"
-        }
-      }
-    },
-    {
-      "id": "heja-boksignering-med-johan-norberg",
-      "titel": "Boksignering med Johan Norberg",
-      "start": "2026-10-10T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/boksignering-med-johan-norberg/",
-          "arrangor": "https://ukk.se/johan-norberg-gitarrist-och-skribent/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "gratis",
-          "ovrigt",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "15:00"
-        }
-      }
-    },
-    {
-      "id": "heja-stadsvandring-okt-2026",
-      "titel": "Stadsvandring på svenska",
-      "start": "2026-10-10T15:00:00+02:00",
-      "slut": "2026-10-11",
-      "plats": {
-        "namn": "Upplandsmuseet",
-        "id": "upplandsmuseet"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/stadsvandring-okt-2026/",
-          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "museum",
-          "uppsala"
-        ],
-        "tider": {
-          "start": "15:00"
-        }
-      }
-    },
-    {
-      "id": "heja-kiko-loureiro-2026-ukk",
-      "titel": "Kiko Loureiro",
-      "start": "2026-10-10T16:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/kiko-loureiro-2026-ukk/",
-          "arrangor": "https://secure.tickster.com/sv/kdxhb4hzxcecg1g/eventsaleclosed"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "16:00"
-        }
-      }
-    },
-    {
-      "id": "heja-la-tremendita-feat-juanfe-perez-2026-ukk",
-      "titel": "La Tremendita feat. Juanfe Pérez",
-      "start": "2026-10-10T16:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/la-tremendita-feat-juanfe-perez-2026-ukk/",
-          "arrangor": "https://secure.tickster.com/sv/uml3lprpewme6ly/eventsaleclosed"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "16:00"
-        }
-      }
-    },
-    {
-      "id": "heja-konsert-med-simplyfive-2026",
-      "titel": "Konsert med Simplyfive",
-      "start": "2026-10-10T17:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala domkyrka",
-        "id": "domkyrkan"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/konsert-med-simplyfive-2026/",
-          "arrangor": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/simplyfive-firar-femton-ar-av-skonsang-med-gastande-gosskorer"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "gratis",
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "17:00"
-        }
-      }
-    },
-    {
-      "id": "heja-european-guitar-quartet-2026-ukk",
-      "titel": "European Guitar Quartet",
-      "start": "2026-10-10T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/european-guitar-quartet-2026-ukk/",
-          "arrangor": "https://secure.tickster.com/sv/rpd2nntrwr7ufwe/eventsaleclosed"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "19:00"
-        }
-      }
-    },
-    {
-      "id": "heja-the-plan",
-      "titel": "The Plan",
-      "start": "2026-10-10T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/the-plan/",
-          "arrangor": "https://secure.tickster.com/sv/ypzhmyrp2lk94n3/selectproductgroup"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "20:00"
-        }
-      }
-    },
-    {
-      "id": "heja-svenska-trion-tolkar-jan-johansson-katalins-bakficka",
-      "titel": "Svenska Trion tolkar Jan Johansson",
-      "start": "2026-10-10T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/svenska-trion-tolkar-jan-johansson-katalins-bakficka/",
-          "arrangor": "https://secure.tickster.com/sv/w5yv0bp0xw48b54/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "20:00"
-        }
-      }
-    },
-    {
-      "id": "heja-jack-gardiner-henrik-linder-2026-ukk",
-      "titel": "Jack Gardiner & Henrik Linder",
-      "start": "2026-10-10T21:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/jack-gardiner-henrik-linder-2026-ukk/",
-          "arrangor": "https://secure.tickster.com/sv/jf3wbnaju0pplyp/eventsaleclosed"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-10"
-        ],
-        "tider": {
-          "start": "21:00"
         }
       }
     },
@@ -1499,6 +655,42 @@
       }
     },
     {
+      "id": "heja-johan-thurfjell-ljuset-2026",
+      "titel": "Johan Thurfjell – Ljuset",
+      "start": "2026-10-11T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/johan-thurfjell-ljuset-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "konst",
+          "museum",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-22"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
+      }
+    },
+    {
       "id": "heja-anna-lena-brundin-2026",
       "titel": "French Connection – Anna Lena Brundin",
       "start": "2026-10-11T14:00:00+02:00",
@@ -1565,6 +757,39 @@
         ],
         "tider": {
           "start": "14:00"
+        }
+      }
+    },
+    {
+      "id": "heja-stadsvandring-okt-2026",
+      "titel": "Stadsvandring på svenska",
+      "start": "2026-10-11T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Upplandsmuseet",
+        "id": "upplandsmuseet"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/stadsvandring-okt-2026/",
+          "arrangor": "https://www.upplandsmuseet.se/besok-oss/KalenderUpplandsmuseet/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "museum",
+          "uppsala"
+        ],
+        "tider": {
+          "start": "15:00"
         }
       }
     },

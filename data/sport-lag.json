@@ -1,6 +1,6 @@
 {
-  "uppdaterad": "2026-10-10T04:33:52.775Z",
-  "antalMatcherIUppsala": 141,
+  "uppdaterad": "2026-10-11T04:33:21.944Z",
+  "antalMatcherIUppsala": 140,
   "lag": [
     {
       "lag": "IK Sirius",
@@ -148,8 +148,8 @@
       "kon": "dam",
       "niva": 3,
       "liga": "Division 1 dam",
-      "antal": 8,
-      "hemmamatcher30": 2,
+      "antal": 7,
+      "hemmamatcher30": 1,
       "iSasong": true
     }
   ]

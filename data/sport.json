@@ -1,33 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-10T04:33:52.762Z",
-  "antal": 141,
+  "hamtad": "2026-10-11T04:33:21.928Z",
+  "antal": 140,
   "evenemang": [
-    {
-      "id": "sport-profixio-32656505",
-      "titel": "Uppsala VBS – Södertelge VBK (dam)",
-      "start": "2026-10-10T14:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Bolandsskolan",
-        "id": "sport-plats-bolandsskolan"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Volleyboll",
-      "liga": "Division 1 dam",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid27937/match/32656505"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-sportality-bfrxvd849m",
       "titel": "Storvreta IBK – Endre IF (dam)",
@@ -638,7 +614,7 @@
     },
     {
       "id": "sport-profixio-32636892",
-      "titel": "Sloga Uppsala – Högsbo Basket",
+      "titel": "Sloga Uppsala – Högsbo Lions",
       "start": "2026-11-03T19:04:00+01:00",
       "slut": null,
       "plats": {
@@ -2862,7 +2838,7 @@
     },
     {
       "id": "sport-profixio-32682505",
-      "titel": "Uppsala Basket – Högsbo Basket (dam)",
+      "titel": "Uppsala Basket – Högsbo Lions (dam)",
       "start": "2027-02-20T15:00:00+01:00",
       "slut": null,
       "plats": {
