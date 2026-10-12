@@ -1,58 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-11T04:33:21.928Z",
-  "antal": 140,
+  "hamtad": "2026-10-12T04:36:40.934Z",
+  "antal": 138,
   "evenemang": [
-    {
-      "id": "sport-sportality-bfrxvd849m",
-      "titel": "Storvreta IBK – Endre IF (dam)",
-      "start": "2026-10-11T14:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Innebandy",
-      "liga": "SSL dam",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Ligans webbplats",
-          "url": "https://www.ssl.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-swehockey-90131064",
-      "titel": "Almtuna IS – Nybro Vikings IF",
-      "start": "2026-10-11T14:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Gränby ishall",
-        "id": "granbyishall"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Ishockey",
-      "liga": "HockeyAllsvenskan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
-          "biljetter": "https://www.almtuna.com/biljettinformation"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-profixio-32636869",
       "titel": "Sloga Uppsala – Norrköping Dolphins",

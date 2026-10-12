@@ -1,39 +1,39 @@
 {
-  "matt": "2026-10-11T04:33:22.912Z",
-  "idag": "2026-10-11",
+  "matt": "2026-10-12T04:36:41.917Z",
+  "idag": "2026-10-12",
   "totalt": {
-    "antal": 1805,
+    "antal": 1782,
     "utanKlockslag": 0.037,
-    "ovrigt": 0.027,
-    "familjUtanAlder": 0.18,
+    "ovrigt": 0.026,
+    "familjUtanAlder": 0.179,
     "utanOmrade": 0.015,
-    "sammanslagna": 524,
-    "pagar14": 12,
+    "sammanslagna": 513,
+    "pagar14": 11,
     "borttagnaKurser": 23,
     "aiEvenemang": 0,
     "misstanktaDubbletter": 0,
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
-      "langvariga": 7,
-      "samma-kalla": 22,
+      "langvariga": 6,
+      "samma-kalla": 20,
       "serie-uttryckliga-datum": 6,
-      "speltid-mot-tillfallen": 11,
+      "speltid-mot-tillfallen": 10,
       "festival": 13,
-      "lika": 240,
-      "innehaller": 88,
-      "likhet": 3,
-      "sport": 50
+      "lika": 234,
+      "innehaller": 87,
+      "likhet": 2,
+      "sport": 49
     }
   },
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 107,
+      "antal": 106,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 50,
+      "sammanslagna": 49,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 418,
+      "antal": 416,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 139,
+      "sammanslagna": 137,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 749,
-      "utanKlockslag": 0.043,
+      "antal": 743,
+      "utanKlockslag": 0.042,
       "ovrigt": 0.009,
-      "familjUtanAlder": 0.128,
+      "familjUtanAlder": 0.129,
       "utanOmrade": 0.007,
-      "sammanslagna": 158,
+      "sammanslagna": 156,
       "pagar14": 0,
       "borttagnaKurser": 22,
       "aiEvenemang": 0,
@@ -80,25 +80,25 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 250,
-      "utanKlockslag": 0.082,
-      "ovrigt": 0.104,
-      "familjUtanAlder": 0.754,
-      "utanOmrade": 0.044,
-      "sammanslagna": 238,
-      "pagar14": 11,
+      "antal": 244,
+      "utanKlockslag": 0.079,
+      "ovrigt": 0.098,
+      "familjUtanAlder": 0.75,
+      "utanOmrade": 0.045,
+      "sammanslagna": 233,
+      "pagar14": 10,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
       "misstanktaDubbletter": 0
     },
     "h": {
       "namn": "Heja",
-      "antal": 418,
-      "utanKlockslag": 0.058,
-      "ovrigt": 0.031,
+      "antal": 405,
+      "utanKlockslag": 0.06,
+      "ovrigt": 0.03,
       "familjUtanAlder": 0.821,
-      "utanOmrade": 0.017,
-      "sammanslagna": 284,
+      "utanOmrade": 0.015,
+      "sammanslagna": 275,
       "pagar14": 2,
       "borttagnaKurser": 1,
       "aiEvenemang": 0,
@@ -106,12 +106,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 263,
+      "antal": 258,
       "utanKlockslag": 0.004,
-      "ovrigt": 0.034,
-      "familjUtanAlder": 0.462,
+      "ovrigt": 0.035,
+      "familjUtanAlder": 0.44,
       "utanOmrade": 0.019,
-      "sammanslagna": 214,
+      "sammanslagna": 208,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -196,18 +196,6 @@
       ]
     },
     {
-      "regel": "langvariga",
-      "dag": "2026-10-03",
-      "plats": "konstnarsklubben",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "PUNKT"
-      ]
-    },
-    {
       "regel": "samma-kalla",
       "dag": "2026-11-18",
       "plats": "balingebib",
@@ -241,18 +229,6 @@
       ],
       "titlar": [
         "Gymnastikläger"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
-      "dag": "2026-10-11",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
       ]
     },
     {
@@ -294,18 +270,6 @@
     {
       "regel": "samma-kalla",
       "dag": "2026-10-17",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
-      "dag": "2026-10-11",
       "plats": "konstmuseum",
       "kallor": [
         "h",
@@ -582,20 +546,6 @@
         "”Så enkelt går du ner 10 kg!” – Teater Elin"
       ],
       "tillfallen": 2
-    },
-    {
-      "regel": "speltid-mot-tillfallen",
-      "dag": "2026-05-03",
-      "plats": "ulva",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Bakluckeloppis vid Ulva kvarn",
-        "Bakluckeloppis Ulva kvarn"
-      ],
-      "tillfallen": 1
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -895,34 +845,6 @@
         "Oktoberstämman 2026",
         "Oktoberstämman"
       ]
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-11",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Sagostund på polska – Czytanie bajek po polsku",
-        "Sagostund på polska / Czytanie bajek po polsku"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-11",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Sagostund på franska – Le temps d’une histoire en français",
-        "Sagostund på franska/ Le temps d’une histoire en français"
-      ],
-      "poang": 1
     },
     {
       "regel": "lika",
@@ -2392,47 +2314,6 @@
       "titlar": [
         "Julmarknad med ponnyridning och drop-in-vigsel",
         "Julmarknad med drop-in-vigsel"
-      ],
-      "poang": 0.8
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-10-11",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – Nybro Vikings IF",
-        "Almtuna-Nybro"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-11",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Moto Boy tolkar Lana Del Rey"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-11",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "A Tribute to Dire Straits",
-        "A Tribute to Dire Straits – Ukk – 2026"
       ],
       "poang": 0.8
     },
@@ -4056,62 +3937,6 @@
         "Nour El Refai"
       ],
       "poang": 0.5
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-11",
-      "plats": "ukk",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "InTension"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "likhet",
-      "dag": "2026-10-11",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Moto Boy tolkar Lana Del Rey",
-        "Moto Boy – En hyllning till Lana Del Rey"
-      ],
-      "poang": 0.83
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-11",
-      "plats": "kaliber",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Grommet"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-11",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "A Tribute to Dire Straits",
-        "A Tribute to Dire Straits – Ukk – 2026"
-      ],
-      "poang": 1
     },
     {
       "regel": "lika",
@@ -6169,8 +5994,8 @@
     {
       "person": "Lisa",
       "namn": "Helgen, 0–4 år: evenemang med känd ålder",
-      "ok": false,
-      "varde": 2,
+      "ok": true,
+      "varde": 5,
       "krav": "minst 5"
     },
     {
@@ -6184,14 +6009,14 @@
       "person": "Lisa",
       "namn": "Familjeevenemang utan ålder (eller 0–99) syns under \"ålder ej angiven\"",
       "ok": true,
-      "varde": "3 av 3",
+      "varde": "6 av 6",
       "krav": "alla"
     },
     {
       "person": "Lisa",
       "namn": "Konst & museum, raden \"Pågår\": andel utställningar",
       "ok": true,
-      "varde": "100 % (11 av 11)",
+      "varde": "100 % (10 av 10)",
       "krav": "minst 80 %"
     },
     {
@@ -6205,7 +6030,7 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 28,
+      "varde": 25,
       "krav": "minst 10"
     },
     {
@@ -6240,7 +6065,7 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "2.7 %",
+      "varde": "2.6 %",
       "krav": "under 10 %"
     },
     {
