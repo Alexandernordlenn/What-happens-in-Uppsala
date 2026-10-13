@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-10-12T04:35:33.152Z",
-  "antal": 455,
+  "hamtad": "2026-10-13T04:41:57.228Z",
+  "antal": 458,
   "evenemang": [
     {
       "id": "heja-charta-77-bonta-fran-asta-kask-2026",
@@ -478,42 +478,6 @@
       }
     },
     {
-      "id": "heja-forfattarbesok-erika-bjerstrom-2026",
-      "titel": "Författarbesök: Erika Bjerström",
-      "start": "2026-10-12T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/forfattarbesok-erika-bjerstrom-2026/",
-          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/bb3110fc-6d2d-429c-812b-a58fc9a5a9dc?tag=F%C3%B6rfattarbes%C3%B6k&tag=Klimat%20och%20milj%C3%B6&targetAudience=Vuxen"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "foredrag",
-          "hojdpunkter-hejauppsala",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-12"
-        ],
-        "tider": {
-          "start": "19:00"
-        }
-      }
-    },
-    {
       "id": "heja-jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2-2",
       "titel": "Jazzlunch på Katalins Bakficka 13/10",
       "start": "2026-10-13T11:30:00+02:00",
@@ -651,10 +615,9 @@
       "fakta": {
         "kategorier": [
           "dans-event",
+          "hojdpunkter-hejauppsala",
           "kurser",
           "musik",
-          "ovrigt",
-          "scen",
           "uppsala"
         ],
         "datum": [
@@ -845,6 +808,7 @@
         "kategorier": [
           "dans-event",
           "gratis",
+          "hojdpunkter-hejauppsala",
           "musik",
           "uppsala"
         ],
@@ -880,6 +844,7 @@
       "installd": false,
       "fakta": {
         "kategorier": [
+          "hojdpunkter-hejauppsala",
           "sport",
           "uppsala"
         ],
@@ -1679,6 +1644,42 @@
           "musik",
           "uppsala"
         ]
+      }
+    },
+    {
+      "id": "heja-utstallning-elisabet-berg-2026",
+      "titel": "Utställning Elisabet Berg",
+      "start": "2026-10-17",
+      "slut": "2026-11-18",
+      "plats": {
+        "namn": "Öster om Ån",
+        "id": "heja-plats-öster-om-ån"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/utstallning-elisabet-berg-2026/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
+          "konst",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-17",
+          "2026-11-18"
+        ],
+        "tider": {
+          "start": "11:00"
+        }
       }
     },
     {
@@ -3288,6 +3289,42 @@
         ],
         "tider": {
           "start": "10:00"
+        }
+      }
+    },
+    {
+      "id": "heja-katriina-flensburg",
+      "titel": "KATRIINA FLENSBURG",
+      "start": "2026-10-24",
+      "slut": "2026-11-08",
+      "plats": {
+        "namn": "Uppsala Konstnärsklubb",
+        "id": "konstnarsklubben"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/katriina-flensburg/",
+          "arrangor": "https://www.uppsalakonstnarsklubb.se/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konst",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-24",
+          "2026-11-08"
+        ],
+        "tider": {
+          "start": "12:00"
         }
       }
     },
@@ -6718,6 +6755,44 @@
         "kategorier": [
           "hojdpunkter-hejauppsala",
           "musik",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-11-08"
+        ],
+        "tider": {
+          "start": "16:00"
+        }
+      }
+    },
+    {
+      "id": "heja-fars-dag-middag-musikquiz-2026",
+      "titel": "Fars Dag: Middag & Musikquiz",
+      "start": "2026-11-08T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "The Social Bar & Bistro",
+        "id": "heja-plats-the-social-bar-bistro"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/fars-dag-middag-musikquiz-2026/",
+          "arrangor": "https://www.strawberry.se/hotell/sverige/uppsala/clarion-hotel-gillet/erbjudanden/promo/SE085-fathers-day-dinner-quiz-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "familj",
+          "mat-dryck",
+          "musik",
+          "ovrigt",
           "uppsala"
         ],
         "datum": [
@@ -14466,6 +14541,41 @@
           "musik",
           "uppsala"
         ]
+      }
+    },
+    {
+      "id": "heja-after-ski-vinterparty-13-feb-2027",
+      "titel": "After Ski – vinterparty",
+      "start": "2027-02-13T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "KAIJA, Stallet",
+        "id": "kaija"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/after-ski-vinterparty-13-feb-2027/",
+          "arrangor": "https://www.tickster.com/se/sv/events/n13253ku4ldhx61/2027-02-13/after-ski-vinterparty"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "ovrigt",
+          "uppsala"
+        ],
+        "datum": [
+          "2027-02-13"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
       }
     },
     {

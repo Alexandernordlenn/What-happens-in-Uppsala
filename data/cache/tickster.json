@@ -2685,22 +2685,6 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
-  "https://www.tickster.com/se/sv/events/w4ml1mwgut1xby1/2026-11-19/konsert-alva-press-kvartett": {
-    "titel": "Konsert: Alva Press Kvartett",
-    "start": "2026-11-19T19:00:00",
-    "slut": "2026-11-19T20:00:00",
-    "platsId": "x01kba461v6968w",
-    "plats": "Uppsala konstmuseum",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "6x97by0jdkknn6z",
-    "arrangor": "Uppsala konstmuseum",
-    "kop": "https://secure.tickster.com/sv/w4ml1mwgut1xby1",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/lbf49tfupxa3z0z/2026-11-19/groove": {
     "titel": "GROOVE",
     "start": "2026-11-19T19:00:00",
@@ -2716,6 +2700,22 @@
     "arrangorId": "y5zw8v159wk4fe3",
     "arrangor": "Uppsala Konsert & Kongress",
     "kop": "https://secure.tickster.com/sv/lbf49tfupxa3z0z",
+    "status": "",
+    "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/w4ml1mwgut1xby1/2026-11-19/konsert-alva-press-kvartett": {
+    "titel": "Konsert: Alva Press Kvartett",
+    "start": "2026-11-19T19:00:00",
+    "slut": "2026-11-19T20:00:00",
+    "platsId": "x01kba461v6968w",
+    "plats": "Uppsala konstmuseum",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [],
+    "arrangorId": "6x97by0jdkknn6z",
+    "arrangor": "Uppsala konstmuseum",
+    "kop": "https://secure.tickster.com/sv/w4ml1mwgut1xby1",
     "status": "",
     "hamtad": "2026-09-24"
   },
@@ -4184,6 +4184,24 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/6c67nlpz8e76g8j/2026-12-11/labero-a-magic-night": {
+    "titel": "LABERO – A Magic Night",
+    "start": "2026-12-11T19:00:00",
+    "slut": "2026-12-11T20:40:00",
+    "platsId": "v3gu3ky2h68ytd5",
+    "plats": "Uppsala Konsert & Kongress, Stora salen",
+    "ort": "Uppsala",
+    "lat": 59.8617,
+    "lng": 17.6469,
+    "taggar": [
+      "barn"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": "https://secure.tickster.com/sv/6c67nlpz8e76g8j",
+    "status": "",
+    "hamtad": "2026-09-24"
+  },
   "https://www.tickster.com/se/sv/events/lkua0zxttp96r1k/2026-12-11/jul-med-franska-trion": {
     "titel": "Jul med Franska Trion",
     "start": "2026-12-11T19:00:00",
@@ -4200,24 +4218,6 @@
     "arrangorId": "y5zw8v159wk4fe3",
     "arrangor": "Uppsala Konsert & Kongress",
     "kop": "https://secure.tickster.com/sv/lkua0zxttp96r1k",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/6c67nlpz8e76g8j/2026-12-11/labero-a-magic-night": {
-    "titel": "LABERO – A Magic Night",
-    "start": "2026-12-11T19:00:00",
-    "slut": "2026-12-11T20:40:00",
-    "platsId": "v3gu3ky2h68ytd5",
-    "plats": "Uppsala Konsert & Kongress, Stora salen",
-    "ort": "Uppsala",
-    "lat": 59.8617,
-    "lng": 17.6469,
-    "taggar": [
-      "barn"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/6c67nlpz8e76g8j",
     "status": "",
     "hamtad": "2026-09-24"
   },
@@ -6176,28 +6176,6 @@
     "status": "",
     "hamtad": "2026-09-29"
   },
-  "https://www.tickster.com/se/sv/events/ct9zd81m1hbgwbv/2027-05-11/flustret-studentskiva-lundellska-11-maj": {
-    "titel": "FLUSTRET - STUDENTSKIVA LUNDELLSKA 11 MAJ",
-    "start": "2027-05-11T21:30:00",
-    "slut": "2027-05-12T02:00:00",
-    "platsId": "zdg5wnnb2fv7y63",
-    "plats": "Flustret",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [
-      "uppsala",
-      "studentskiva",
-      "nattklubb",
-      "flustret",
-      "18"
-    ],
-    "arrangorId": "jj4714e98nnl9cz",
-    "arrangor": "Flustret",
-    "kop": "https://secure.tickster.com/sv/ct9zd81m1hbgwbv",
-    "status": "",
-    "hamtad": "2026-09-29"
-  },
   "https://www.tickster.com/se/sv/events/2clj75545wcx9tw/2027-05-18/flustret-studentskiva-lundellska-celsius-18-maj": {
     "titel": "FLUSTRET - STUDENTSKIVA LUNDELLSKA CELSIUS 18 MAJ",
     "start": "2027-05-18T21:30:00",
@@ -6321,28 +6299,6 @@
     "status": "",
     "hamtad": "2026-10-01"
   },
-  "https://www.tickster.com/se/sv/events/kr338gu7necwpl7/2027-05-27/flustret-studentskiva-lundellska-27-maj": {
-    "titel": "FLUSTRET - STUDENTSKIVA LUNDELLSKA 27 MAJ",
-    "start": "2027-05-27T21:30:00",
-    "slut": "2027-05-28T02:00:00",
-    "platsId": "zdg5wnnb2fv7y63",
-    "plats": "Flustret",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [
-      "uppsala",
-      "studentskiva",
-      "nattklubb",
-      "flustret",
-      "18"
-    ],
-    "arrangorId": "jj4714e98nnl9cz",
-    "arrangor": "Flustret",
-    "kop": null,
-    "status": "Det är inte möjligt att köpa biljetter till detta evenemang. Evenemanget har inte öppnats för försäljning av arrangören.",
-    "hamtad": "2026-10-09"
-  },
   "https://www.tickster.com/se/sv/events/wkerv76ph3w42a8/2027-06-05/love-with-johnny-echols-us": {
     "titel": "Love - with Johnny Echols (US)",
     "start": "2027-06-05T19:00:00",
@@ -6410,22 +6366,6 @@
     "arrangorId": "ymr2wnygv5eagur",
     "arrangor": "Urban Vybez AB",
     "kop": "https://secure.tickster.com/sv/6tpyxlllywvucer",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/m9rbmjxxw04wuc9/2027-10-22/fredrik-andersson-too-soon": {
-    "titel": "Fredrik Andersson – Too soon",
-    "start": "2027-10-22T19:30:00",
-    "slut": "2027-10-22T20:50:00",
-    "platsId": "v3gu3ky2h68ytd5",
-    "plats": "Uppsala Konsert & Kongress, Stora salen",
-    "ort": "Uppsala",
-    "lat": 59.8617,
-    "lng": 17.6469,
-    "taggar": [],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/m9rbmjxxw04wuc9",
     "status": "",
     "hamtad": "2026-09-24"
   },

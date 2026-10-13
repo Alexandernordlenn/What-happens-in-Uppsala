@@ -115,6 +115,19 @@
     "dagar": [],
     "hamtad": "2026-10-09"
   },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/multisport-med-procyon-bk/": {
+    "dagar": [
+      "må",
+      "ti",
+      "on",
+      "to",
+      "fr"
+    ],
+    "tider": {
+      "start": "11:00"
+    },
+    "hamtad": "2026-10-13"
+  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-mat-och-snacks-paa-vikingatiden/": {
     "dagar": [],
     "hamtad": "2026-10-07"
@@ -150,6 +163,10 @@
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-kontakten/": {
     "dagar": [],
     "hamtad": "2026-10-07"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/brottning-hos-armeniska-bk/": {
+    "dagar": [],
+    "hamtad": "2026-10-13"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-loetens-fritidsgaarden/": {
     "dagar": [],
@@ -671,6 +688,10 @@
       "sö"
     ],
     "hamtad": "2026-10-07"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/sportis/": {
+    "dagar": [],
+    "hamtad": "2026-10-13"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoerlurar-paa-1/": {
     "dagar": [

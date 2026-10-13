@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-12T04:35:50.732Z",
-  "antal": 277,
+  "hamtad": "2026-10-13T04:42:20.431Z",
+  "antal": 289,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -3121,6 +3121,40 @@
       "langvarig": true
     },
     {
+      "id": "kubik-sportis",
+      "titel": "Sportis",
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        12
+      ],
+      "omrade": "vastra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sportis/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [],
+        "malgrupp": [
+          "7-9 år",
+          "10-12 år"
+        ]
+      },
+      "start": "2026-09-14",
+      "slut": "2026-12-18",
+      "langvarig": true
+    },
+    {
       "id": "kubik-saa-enkelt-gaar-du-ner-10-kg-teaterfoerestaellning-om-att-oeverleva-anorexia-med-teater-elin",
       "titel": "“Så enkelt går du ner 10 kg!” (teaterföreställning om att överleva anorexia, med Teater Elin)",
       "plats": {
@@ -3423,44 +3457,6 @@
       "start": "2026-09-26",
       "slut": "2026-12-20",
       "langvarig": true
-    },
-    {
-      "id": "kubik-spela-schack-ht26-gottsunda-2026-10-12-1500",
-      "titel": "Spela schack",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        18
-      ],
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spela-schack-ht26-gottsunda/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Övrigt"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år",
-          "13-15 år",
-          "16-18 år"
-        ],
-        "adress": "Gottsundabiblioteket, Valthornsvägen 11, Uppsala"
-      },
-      "start": "2026-10-12T15:00:00+02:00",
-      "slut": "2026-10-12T16:00:00+02:00",
-      "langvarig": false
     },
     {
       "id": "kubik-sagostund-1-3-aar-2026-2026-10-13-1030",
@@ -5564,6 +5560,53 @@
       "langvarig": true
     },
     {
+      "id": "kubik-multisport-med-procyon-bk",
+      "titel": "Multisport med Procyon BK",
+      "plats": {
+        "namn": "Västra Stenhagenskolan Idrottshall",
+        "id": "kubik-plats-västra-stenhagenskolan-idrottshall"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        12
+      ],
+      "omrade": "vastra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/multisport-med-procyon-bk/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Bollsport"
+        ],
+        "malgrupp": [
+          "7-9 år",
+          "10-12 år"
+        ],
+        "adress": "Västra Stenhagenskolan Idrottshall, Herrhagsvägen 8, Uppsala",
+        "dagar": [
+          "må",
+          "ti",
+          "on",
+          "to",
+          "fr"
+        ],
+        "tider": {
+          "start": "11:00"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-30",
+      "langvarig": true
+    },
+    {
       "id": "kubik-hoestlov-mat-och-snacks-paa-vikingatiden",
       "titel": "Höstlov: Mat och snacks på vikingatiden",
       "plats": {
@@ -5793,6 +5836,49 @@
       "langvarig": true
     },
     {
+      "id": "kubik-brottning-hos-armeniska-bk",
+      "titel": "Brottning hos Armeniska BK",
+      "plats": {
+        "namn": "Suprime Gym",
+        "id": "kubik-plats-suprime-gym"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        5,
+        15
+      ],
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/brottning-hos-armeniska-bk/",
+          "arrangor": "https://armeniskabrottningsklubben.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Kampsport"
+        ],
+        "malgrupp": [
+          "5-6 år",
+          "7-9 år",
+          "10-12 år",
+          "13-15 år"
+        ],
+        "adress": "Suprime Gym, Rapsgatan 8A, Uppsala",
+        "tider": {
+          "start": "16:00",
+          "slut": "19:00"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-30",
+      "langvarig": true
+    },
+    {
       "id": "kubik-hoestlov-paa-loetens-fritidsgaarden",
       "titel": "Höstlov på Lötens fritidsgården",
       "plats": {
@@ -5987,8 +6073,8 @@
       "langvarig": false
     },
     {
-      "id": "kubik-domyrkans-hoestlovsvisning-katarina-jagellonica-500-aar-2026-10-26-1000",
-      "titel": "Domyrkans höstlovsvisning - Katarina Jagellonica 500 år",
+      "id": "kubik-domkyrkans-hoestlovsvisning-katarina-jagellonica-500-aar-2026-10-26-1000",
+      "titel": "Domkyrkans höstlovsvisning - Katarina Jagellonica 500 år",
       "plats": {
         "namn": "Uppsala domkyrka",
         "id": "domkyrkan"
@@ -6005,7 +6091,7 @@
         {
           "id": "kubik",
           "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/domyrkans-hoestlovsvisning-katarina-jagellonica-500-aar/",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/domkyrkans-hoestlovsvisning-katarina-jagellonica-500-aar/",
           "arrangor": "http://www.uppsaladomkyrka.se/"
         }
       ],
@@ -6138,6 +6224,84 @@
       },
       "start": "2026-10-26T15:00:00+01:00",
       "slut": "2026-10-26T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-hoestlov-hos-designlabbet-graenby-allaktivitetshus-vaesen-och-sagovaerldar-2026-10-26-1530",
+      "titel": "Höstlov hos Designlabbet Gränby Allaktivitetshus: Väsen och sagovärldar",
+      "plats": {
+        "namn": "Gränby allaktivitetshus",
+        "id": "granbyallaktivitetshus"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        15
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-hos-designlabbet-graenby-allaktivitetshus-vaesen-och-sagovaerldar/",
+          "arrangor": "http://designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande"
+        ],
+        "malgrupp": [
+          "10-12 år",
+          "13-15 år"
+        ],
+        "adress": "Gränby Allaktivitetshus, Liljefors torg 1, Uppsala"
+      },
+      "start": "2026-10-26T15:30:00+01:00",
+      "slut": "2026-10-26T18:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-mervaerde-varannan-maandag-2026-10-26-1600",
+      "titel": "Mervärde varannan måndag",
+      "plats": {
+        "namn": "Träffpunkt Lindblomman",
+        "id": "kubik-plats-träffpunkt-lindblomman"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        16,
+        25
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/mervaerde-varannan-maandag/",
+          "arrangor": "https://www.studieframjandet.se/uppsala/mervarde/ht26"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Kurser",
+          "Vetenskap/Samhälle",
+          "Övrigt"
+        ],
+        "malgrupp": [
+          "16-18 år",
+          "19-25 år"
+        ],
+        "adress": "Träffpunkt Lindblomman, Sysslomansgatan 25B, Uppsala"
+      },
+      "start": "2026-10-26T16:00:00+01:00",
+      "slut": "2026-10-26T18:15:00+01:00",
       "langvarig": false
     },
     {
@@ -6445,8 +6609,8 @@
       "langvarig": false
     },
     {
-      "id": "kubik-domyrkans-hoestlovsvisning-katarina-jagellonica-500-aar-2026-10-27-1330",
-      "titel": "Domyrkans höstlovsvisning - Katarina Jagellonica 500 år",
+      "id": "kubik-domkyrkans-hoestlovsvisning-katarina-jagellonica-500-aar-2026-10-27-1330",
+      "titel": "Domkyrkans höstlovsvisning - Katarina Jagellonica 500 år",
       "plats": {
         "namn": "Uppsala domkyrka",
         "id": "domkyrkan"
@@ -6463,7 +6627,7 @@
         {
           "id": "kubik",
           "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/domyrkans-hoestlovsvisning-katarina-jagellonica-500-aar/",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/domkyrkans-hoestlovsvisning-katarina-jagellonica-500-aar/",
           "arrangor": "http://www.uppsaladomkyrka.se/"
         }
       ],
@@ -7055,6 +7219,45 @@
       "langvarig": false
     },
     {
+      "id": "kubik-hoestlov-hos-designlabbet-stenhagen-herrhagsvaegen-423-vaesen-och-sagovaerldar-2026-10-28-1600",
+      "titel": "Höstlov hos Designlabbet Stenhagen Herrhagsvägen 423 - Väsen och sagovärldar",
+      "plats": {
+        "namn": "Stenhagen Herrhagsvägen 423",
+        "id": "kubik-plats-stenhagen-herrhagsvägen-423"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        15
+      ],
+      "omrade": "vastra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-hos-designlabbet-stenhagen-herrhagsvaegen-423-vaesen-och-sagovaerldar/",
+          "arrangor": "http://designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande"
+        ],
+        "malgrupp": [
+          "10-12 år",
+          "13-15 år",
+          "7-9 år"
+        ],
+        "adress": "Stenhagen Herrhagsvägen 423, Herrhagsvägen 423, Uppsala"
+      },
+      "start": "2026-10-28T16:00:00+01:00",
+      "slut": "2026-10-28T18:30:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-utflykt-till-observatoriet-med-graenby-allaktivitetshus-2026-10-28-1800",
       "titel": "Utflykt till Observatoriet med Gränby allaktivitetshus",
       "plats": {
@@ -7440,6 +7643,120 @@
       "langvarig": false
     },
     {
+      "id": "kubik-hoestlov-hos-designlabbet-centrum-kulturhuset-grand-vaesen-och-sagovaerldar-2026-10-29-1530",
+      "titel": "Höstlov hos Designlabbet Centrum Kulturhuset Grand - Väsen och sagovärldar",
+      "plats": {
+        "namn": "Kulturhuset Grand",
+        "id": "grand"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-hos-designlabbet-centrum-kulturhuset-grand-vaesen-och-sagovaerldar/",
+          "arrangor": "http://designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande"
+        ],
+        "malgrupp": [
+          "13-15 år",
+          "16-18 år"
+        ],
+        "adress": "Centrum Kulturhuset Grand, Trädgårdsgatan 5, Uppsala"
+      },
+      "start": "2026-10-29T15:30:00+01:00",
+      "slut": "2026-10-29T17:15:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-hoestlov-hos-designlabbet-saevja-kulturhus-ateljen-vaesen-och-sagovaerldar-2026-10-29-1530",
+      "titel": "Höstlov hos Designlabbet Sävja Kulturhus Ateljén - Väsen och sagovärldar",
+      "plats": {
+        "namn": "Sävja kulturhus",
+        "id": "savjakulturhus"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        15
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-hos-designlabbet-saevja-kulturhus-ateljen-vaesen-och-sagovaerldar/",
+          "arrangor": "http://designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande"
+        ],
+        "malgrupp": [
+          "10-12 år",
+          "13-15 år"
+        ],
+        "adress": "Sävja Kulturhus Ateljén, Västgötaresan 133, Uppsala"
+      },
+      "start": "2026-10-29T15:30:00+01:00",
+      "slut": "2026-10-29T18:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-hoestlov-hos-designlabbet-ekeby-disponentvillan-vaesen-och-sagovaerldar-2026-10-29-1530",
+      "titel": "Höstlov hos Designlabbet Ekeby Disponentvillan - Väsen och sagovärldar",
+      "plats": {
+        "namn": "Disponentvillan, Ekeby bruk",
+        "id": "disponentvillan"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        15
+      ],
+      "omrade": "vastra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-hos-designlabbet-ekeby-disponentvillan-vaesen-och-sagovaerldar/",
+          "arrangor": "http://designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande"
+        ],
+        "malgrupp": [
+          "10-12 år",
+          "13-15 år"
+        ],
+        "adress": "Ekeby Disponentvillan, Vänortsgatan 115, Uppsala"
+      },
+      "start": "2026-10-29T15:30:00+01:00",
+      "slut": "2026-10-29T18:00:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-hoestbakning-ljuslyktor-2026-10-29-1800",
       "titel": "Höstbakning & ljuslyktor",
       "plats": {
@@ -7721,6 +8038,45 @@
       },
       "start": "2026-10-30T14:30:00+01:00",
       "slut": "2026-10-30T15:45:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-hoestlov-hos-designlabbet-stenhagen-herrhagsvaegen-423-vaesen-och-sagovaerldar-2026-10-30-1600",
+      "titel": "Höstlov hos Designlabbet Stenhagen Herrhagsvägen 423 - Väsen och sagovärldar",
+      "plats": {
+        "namn": "Stenhagen Herrhagsvägen 423",
+        "id": "kubik-plats-stenhagen-herrhagsvägen-423"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        15
+      ],
+      "omrade": "vastra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-hos-designlabbet-stenhagen-herrhagsvaegen-423-vaesen-och-sagovaerldar/",
+          "arrangor": "http://designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande"
+        ],
+        "malgrupp": [
+          "10-12 år",
+          "13-15 år",
+          "7-9 år"
+        ],
+        "adress": "Stenhagen Herrhagsvägen 423, Herrhagsvägen 423, Uppsala"
+      },
+      "start": "2026-10-30T16:00:00+01:00",
+      "slut": "2026-10-30T18:30:00+01:00",
       "langvarig": false
     },
     {
@@ -8491,6 +8847,46 @@
       },
       "start": "2026-11-08T14:00:00+01:00",
       "slut": "2026-11-08T14:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-mervaerde-varannan-maandag-2026-11-09-1600",
+      "titel": "Mervärde varannan måndag",
+      "plats": {
+        "namn": "Träffpunkt Lindblomman",
+        "id": "kubik-plats-träffpunkt-lindblomman"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        16,
+        25
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/mervaerde-varannan-maandag/",
+          "arrangor": "https://www.studieframjandet.se/uppsala/mervarde/ht26"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Kurser",
+          "Vetenskap/Samhälle",
+          "Övrigt"
+        ],
+        "malgrupp": [
+          "16-18 år",
+          "19-25 år"
+        ],
+        "adress": "Träffpunkt Lindblomman, Sysslomansgatan 25B, Uppsala"
+      },
+      "start": "2026-11-09T16:00:00+01:00",
+      "slut": "2026-11-09T18:15:00+01:00",
       "langvarig": false
     },
     {
@@ -9644,6 +10040,46 @@
       "langvarig": false
     },
     {
+      "id": "kubik-mervaerde-varannan-maandag-2026-11-23-1600",
+      "titel": "Mervärde varannan måndag",
+      "plats": {
+        "namn": "Träffpunkt Lindblomman",
+        "id": "kubik-plats-träffpunkt-lindblomman"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        16,
+        25
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/mervaerde-varannan-maandag/",
+          "arrangor": "https://www.studieframjandet.se/uppsala/mervarde/ht26"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Kurser",
+          "Vetenskap/Samhälle",
+          "Övrigt"
+        ],
+        "malgrupp": [
+          "16-18 år",
+          "19-25 år"
+        ],
+        "adress": "Träffpunkt Lindblomman, Sysslomansgatan 25B, Uppsala"
+      },
+      "start": "2026-11-23T16:00:00+01:00",
+      "slut": "2026-11-23T18:15:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-sagostund-1-3-aar-2026-2026-11-24-1030",
       "titel": "Sagostund för barn 1-3 år",
       "plats": {
@@ -10694,6 +11130,46 @@
       },
       "start": "2026-12-05T13:00:00+01:00",
       "slut": "2026-12-05T15:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-mervaerde-varannan-maandag-2026-12-07-1600",
+      "titel": "Mervärde varannan måndag",
+      "plats": {
+        "namn": "Träffpunkt Lindblomman",
+        "id": "kubik-plats-träffpunkt-lindblomman"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        16,
+        25
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/mervaerde-varannan-maandag/",
+          "arrangor": "https://www.studieframjandet.se/uppsala/mervarde/ht26"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Kurser",
+          "Vetenskap/Samhälle",
+          "Övrigt"
+        ],
+        "malgrupp": [
+          "16-18 år",
+          "19-25 år"
+        ],
+        "adress": "Träffpunkt Lindblomman, Sysslomansgatan 25B, Uppsala"
+      },
+      "start": "2026-12-07T16:00:00+01:00",
+      "slut": "2026-12-07T18:15:00+01:00",
       "langvarig": false
     },
     {

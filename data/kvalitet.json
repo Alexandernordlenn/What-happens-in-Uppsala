@@ -1,26 +1,26 @@
 {
-  "matt": "2026-10-12T04:36:41.917Z",
-  "idag": "2026-10-12",
+  "matt": "2026-10-13T04:43:14.156Z",
+  "idag": "2026-10-13",
   "totalt": {
-    "antal": 1782,
-    "utanKlockslag": 0.037,
+    "antal": 1781,
+    "utanKlockslag": 0.036,
     "ovrigt": 0.026,
-    "familjUtanAlder": 0.179,
-    "utanOmrade": 0.015,
-    "sammanslagna": 513,
-    "pagar14": 11,
+    "familjUtanAlder": 0.174,
+    "utanOmrade": 0.016,
+    "sammanslagna": 504,
+    "pagar14": 13,
     "borttagnaKurser": 23,
     "aiEvenemang": 0,
     "misstanktaDubbletter": 0,
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
       "langvariga": 6,
-      "samma-kalla": 20,
+      "samma-kalla": 21,
       "serie-uttryckliga-datum": 6,
       "speltid-mot-tillfallen": 10,
-      "festival": 13,
-      "lika": 234,
+      "festival": 12,
       "innehaller": 87,
+      "lika": 225,
       "likhet": 2,
       "sport": 49
     }
@@ -41,12 +41,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 115,
+      "antal": 116,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 77,
+      "sammanslagna": 78,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 416,
+      "antal": 408,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 137,
+      "sammanslagna": 135,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 743,
-      "utanKlockslag": 0.042,
-      "ovrigt": 0.009,
-      "familjUtanAlder": 0.129,
-      "utanOmrade": 0.007,
-      "sammanslagna": 156,
+      "antal": 750,
+      "utanKlockslag": 0.041,
+      "ovrigt": 0.011,
+      "familjUtanAlder": 0.125,
+      "utanOmrade": 0.008,
+      "sammanslagna": 155,
       "pagar14": 0,
       "borttagnaKurser": 22,
       "aiEvenemang": 0,
@@ -80,12 +80,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 244,
-      "utanKlockslag": 0.079,
-      "ovrigt": 0.098,
-      "familjUtanAlder": 0.75,
-      "utanOmrade": 0.045,
-      "sammanslagna": 233,
+      "antal": 230,
+      "utanKlockslag": 0.068,
+      "ovrigt": 0.091,
+      "familjUtanAlder": 0.722,
+      "utanOmrade": 0.043,
+      "sammanslagna": 220,
       "pagar14": 10,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -93,25 +93,25 @@
     },
     "h": {
       "namn": "Heja",
-      "antal": 405,
+      "antal": 407,
       "utanKlockslag": 0.06,
-      "ovrigt": 0.03,
-      "familjUtanAlder": 0.821,
-      "utanOmrade": 0.015,
-      "sammanslagna": 275,
-      "pagar14": 2,
+      "ovrigt": 0.032,
+      "familjUtanAlder": 0.828,
+      "utanOmrade": 0.02,
+      "sammanslagna": 268,
+      "pagar14": 4,
       "borttagnaKurser": 1,
       "aiEvenemang": 0,
       "misstanktaDubbletter": 0
     },
     "t": {
       "namn": "Tickster",
-      "antal": 258,
-      "utanKlockslag": 0.004,
-      "ovrigt": 0.035,
+      "antal": 261,
+      "utanKlockslag": 0.016,
+      "ovrigt": 0.038,
       "familjUtanAlder": 0.44,
       "utanOmrade": 0.019,
-      "sammanslagna": 208,
+      "sammanslagna": 201,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -205,6 +205,18 @@
       ],
       "titlar": [
         "Babysagostund"
+      ]
+    },
+    {
+      "regel": "samma-kalla",
+      "dag": "2026-12-10",
+      "plats": "stadsbib",
+      "kallor": [
+        "b",
+        "b"
+      ],
+      "titlar": [
+        "Deep reading"
       ]
     },
     {
@@ -473,7 +485,7 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-12",
+      "dag": "2026-10-19",
       "plats": "gottsundabib",
       "kallor": [
         "u",
@@ -624,7 +636,7 @@
       "titlar": [
         "Förnuft och känsla"
       ],
-      "tillfallen": 22
+      "tillfallen": 23
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -768,19 +780,6 @@
     },
     {
       "regel": "festival",
-      "dag": "2026-12-13",
-      "plats": "domkyrkan",
-      "kallor": [
-        "d",
-        "d"
-      ],
-      "titlar": [
-        "Luciakonsert i Uppsala domkyrka",
-        "Luciakonsert för yngre i Uppsala domkyrka"
-      ]
-    },
-    {
-      "regel": "festival",
       "dag": "2026-11-06",
       "plats": "katalin",
       "kallor": [
@@ -845,19 +844,6 @@
         "Oktoberstämman 2026",
         "Oktoberstämman"
       ]
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-12",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Spela schack"
-      ],
-      "poang": 1
     },
     {
       "regel": "innehaller",
@@ -2319,20 +2305,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-10-12",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Erika Bjerström",
-        "Författarbesök: Erika Bjerström"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-10-13",
       "plats": "ukk",
       "kallor": [
@@ -3521,47 +3493,6 @@
       "poang": 0.4
     },
     {
-      "regel": "lika",
-      "dag": "2026-12-10",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Julkonsert med Romeo & Julia Kören"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-11",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "LABERO – A Magic Night",
-        "Labero – A Magic Night"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-12",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Barnens Julvärld med Nassim Al Fakir",
-        "Barnens Julvärld med Nassim Al fakir"
-      ],
-      "poang": 1
-    },
-    {
       "regel": "sport",
       "dag": "2026-12-13",
       "plats": "usif",
@@ -3572,34 +3503,6 @@
       "titlar": [
         "Uppsala Basket – Luleå Basket (dam)",
         "Uppsala basket D-Luleå"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-13",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "West Of Eden – Celtic Christmas 2026",
-        "West of Eden – Celtic Christmas – 2026"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-13",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Arvingarna – Klart det ska bli jul, igen!",
-        "Arvingarna – Klart det ska bli jul, igen"
       ],
       "poang": 1
     },
@@ -3630,20 +3533,6 @@
         "Storvreta Dam-Lockerud"
       ],
       "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-12-19",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Hogwarts Magic Symphony med Lords of the Sound",
-        "Hogwarts Magic Symphony"
-      ],
-      "poang": 0.6
     },
     {
       "regel": "sport",
@@ -5540,7 +5429,6 @@
       "dag": "2026-12-10",
       "plats": "ukk",
       "kallor": [
-        "d",
         "h",
         "t"
       ],
@@ -5558,7 +5446,8 @@
         "t"
       ],
       "titlar": [
-        "Jul med Franska Trion"
+        "Labero – A Magic Night",
+        "LABERO – A Magic Night"
       ],
       "poang": 1
     },
@@ -5567,13 +5456,11 @@
       "dag": "2026-12-11",
       "plats": "ukk",
       "kallor": [
-        "d",
         "h",
         "t"
       ],
       "titlar": [
-        "LABERO – A Magic Night",
-        "Labero – A Magic Night"
+        "Jul med Franska Trion"
       ],
       "poang": 1
     },
@@ -5609,26 +5496,11 @@
       "dag": "2026-12-12",
       "plats": "ukk",
       "kallor": [
-        "d",
         "h",
         "t"
       ],
       "titlar": [
-        "Barnens Julvärld med Nassim Al Fakir",
         "Barnens Julvärld med Nassim Al fakir"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-12",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Goder afton, mitt herrskap! 2026"
       ],
       "poang": 1
     },
@@ -5664,12 +5536,10 @@
       "dag": "2026-12-13",
       "plats": "ukk",
       "kallor": [
-        "d",
         "h",
         "t"
       ],
       "titlar": [
-        "West Of Eden – Celtic Christmas 2026",
         "West of Eden – Celtic Christmas – 2026",
         "West Of Eden – Celtic Christmas"
       ],
@@ -5680,13 +5550,12 @@
       "dag": "2026-12-13",
       "plats": "ukk",
       "kallor": [
-        "d",
         "h",
         "t"
       ],
       "titlar": [
-        "Arvingarna – Klart det ska bli jul, igen!",
-        "Arvingarna – Klart det ska bli jul, igen"
+        "Arvingarna – Klart det ska bli jul, igen",
+        "Arvingarna – Klart det ska bli jul, igen!"
       ],
       "poang": 1
     },
@@ -5745,20 +5614,18 @@
       "poang": 1
     },
     {
-      "regel": "lika",
+      "regel": "innehaller",
       "dag": "2026-12-19",
       "plats": "ukk",
       "kallor": [
-        "d",
         "h",
         "t"
       ],
       "titlar": [
-        "Hogwarts Magic Symphony med Lords of the Sound",
         "Hogwarts Magic Symphony",
         "Hogwarts Magic Symphony – med Lords of the Sound"
       ],
-      "poang": 1
+      "poang": 0.6
     },
     {
       "regel": "innehaller",
@@ -6016,7 +5883,7 @@
       "person": "Lisa",
       "namn": "Konst & museum, raden \"Pågår\": andel utställningar",
       "ok": true,
-      "varde": "100 % (10 av 10)",
+      "varde": "100 % (12 av 12)",
       "krav": "minst 80 %"
     },
     {
@@ -6030,21 +5897,21 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 25,
+      "varde": 26,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 17,
+      "varde": 18,
       "krav": "minst 10"
     },
     {
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 24,
+      "varde": 25,
       "krav": "minst 5"
     },
     {
@@ -6072,14 +5939,14 @@
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "1.5 %",
+      "varde": "1.6 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "3.7 %",
+      "varde": "3.6 %",
       "krav": "under 5 %"
     }
   ]
