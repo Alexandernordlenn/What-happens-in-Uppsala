@@ -28,27 +28,27 @@
     "tider": {
       "start": "10:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/pumpataevling-roesta-paa-din-favorit/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/aterbruksverkstad-paa-hoestlovet/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/leksaksbyte-paa-hoestlovet/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovsbio-paa-fyrisbiografen/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/skaparlaeger-paa-hoestlovet/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/gymnastiklaeger/": {
     "dagar": [
@@ -60,15 +60,15 @@
     "tider": {
       "start": "08:30"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/innebandylaeger-hoestlov-foer-barn-foedda-2017-18/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/sloga-uppsalas-hoestlov-skills-basketlaeger-kvarngaerdesskolan/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-med-bad-och-bus-paa-fyrishov/": {
     "dagar": [
@@ -88,15 +88,15 @@
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/haestkompisdagar/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/changes-hoestlovslaeger-2026-5-8-aar/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/changes-hoestlaeger-9-15-aar/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/fotbollslaeger-med-gottsunda-fc-1/": {
     "dagar": [
@@ -130,7 +130,7 @@
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-mat-och-snacks-paa-vikingatiden/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/kampsportslaeger-paa-graenby-allaktivitetshus/": {
     "dagar": [
@@ -140,7 +140,7 @@
       "to",
       "fr"
     ],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/gameplan-open-court/": {
     "dagar": [],
@@ -150,6 +150,19 @@
     "dagar": [],
     "hamtad": "2026-10-09"
   },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/mask-verkstad-foer-alla-aaldrar/": {
+    "dagar": [
+      "må",
+      "ti",
+      "on",
+      "to",
+      "fr"
+    ],
+    "tider": {
+      "start": "12:00"
+    },
+    "hamtad": "2026-10-14"
+  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/pop-up-med-gottsunda-allaktivitetshus/": {
     "dagar": [
       "må",
@@ -158,11 +171,11 @@
       "to",
       "fr"
     ],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-kontakten/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/brottning-hos-armeniska-bk/": {
     "dagar": [],
@@ -170,15 +183,19 @@
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-loetens-fritidsgaarden/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-lindbackens-fritidsklubb/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-graenby-fritidsgaard/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/skraecklov-paa-gdt-kulturis-hoestlovslaeger-27-29-oktober/": {
+    "dagar": [],
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-upplandsmuseet/": {
     "dagar": [],
@@ -186,27 +203,27 @@
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/innebandylaeger-hoestlov-foer-barn-foedda-2019-20/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/haestlaeger-paa-4h-gaardarna/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/djurlaeger-paa-4h-gaardarna/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hittaut/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/laes-foer-sotis/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/aterbruksverkstad-helgtema-paa-biotopia/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/ebru-pappersmarmorering-paa-graenby-allaktivitetshus/": {
     "dagar": [
@@ -215,7 +232,7 @@
     "tider": {
       "start": "11:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/science-lab-paa-graenby-allaktivitetshus/": {
     "dagar": [
@@ -225,43 +242,43 @@
       "start": "13:00",
       "slut": "14:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/saa-enkelt-gaar-du-ner-10-kg-teaterfoerestaellning-om-att-oeverleva-anorexia-med-teater-elin/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/skridskoskola/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/nyhetsklubb/": {
     "dagar": [
       "on"
     ],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/laes-tillsammans/": {
     "dagar": [
       "må"
     ],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-paa-graenby-allaktivitetshus/": {
     "dagar": [
       "må"
     ],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-granby-arskurs-4-9/": {
     "dagar": [
       "må"
     ],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/fotboll-med-late-starters-foer-nyboerjare-10-15-aar/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-almunge-arskurs-3-9/": {
     "dagar": [
@@ -270,7 +287,7 @@
     "tider": {
       "start": "14:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/teater-elin-9-12-aar-lindbacken-kulturis/": {
     "dagar": [
@@ -279,7 +296,7 @@
     "tider": {
       "start": "15:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-stenhagen-arskurs-4-9/": {
     "dagar": [
@@ -288,7 +305,7 @@
     "tider": {
       "start": "16:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/teater-elin-9-12-aar-torsdagar-lindbacken-kulturis/": {
     "dagar": [
@@ -297,7 +314,7 @@
     "tider": {
       "start": "16:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/gitarrundervisning-i-grupp/": {
     "dagar": [
@@ -306,7 +323,7 @@
     "tider": {
       "start": "16:45"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-ekeby-bruk-arskurs-4-9/": {
     "dagar": [
@@ -315,7 +332,7 @@
     "tider": {
       "start": "15:30"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-savja-arskurs-4-9/": {
     "dagar": [
@@ -324,23 +341,23 @@
     "tider": {
       "start": "15:30"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-stenhagen-arskurs-1-3/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestens-kurser-paa-graenby-4h-gaard/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestens-kurser-paa-saevja-4h-gaard/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestens-kurser-paa-arsta-4h-gaard/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/dans-aak-3-5-graenby-kulturis/": {
     "dagar": [
@@ -349,7 +366,7 @@
     "tider": {
       "start": "15:10"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-gottsunda-arskurs-1-3/": {
     "dagar": [
@@ -358,7 +375,7 @@
     "tider": {
       "start": "15:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-almunge-arskurs-1-2/": {
     "dagar": [
@@ -367,15 +384,15 @@
     "tider": {
       "start": "14:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/teater-foer-hoegstadiet-i-graenby/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/teater-foer-aak-2-3-i-graenby/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/dans-aak-2-5-naantuna-kulturis/": {
     "dagar": [
@@ -384,7 +401,7 @@
     "tider": {
       "start": "15:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/dans-2019-2020-saevja-kulturis/": {
     "dagar": [
@@ -393,11 +410,11 @@
     "tider": {
       "start": "15:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/teater-foer-mellanstadiet-i-graenby/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagskul-paa-biotopia/": {
     "dagar": [
@@ -406,7 +423,7 @@
     "tider": {
       "start": "14:30"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/raeknestuga/": {
     "dagar": [
@@ -415,7 +432,7 @@
     "tider": {
       "start": "17:30"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/dans-aak-1-3-funbo-kulturis/": {
     "dagar": [
@@ -424,7 +441,7 @@
     "tider": {
       "start": "14:15"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-savja-arskurs-1-3/": {
     "dagar": [
@@ -433,7 +450,7 @@
     "tider": {
       "start": "15:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/teater-elin-9-12-aar-almunge-kulturis/": {
     "dagar": [
@@ -442,7 +459,7 @@
     "tider": {
       "start": "16:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/loerdagsoeppet-paa-graenby-allaktivitetshus/": {
     "dagar": [
@@ -452,13 +469,13 @@
       "start": "11:00",
       "slut": "12:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/inomhusfotboll-i-liljeforsskolans-idrottshall/": {
     "dagar": [
       "må"
     ],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/barndans-paa-graenby-allaktivitetshus/": {
     "dagar": [
@@ -467,7 +484,7 @@
     "tider": {
       "start": "16:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/juridisk-raadgivning-med-gatujuristerna/": {
     "dagar": [
@@ -476,7 +493,7 @@
     "tider": {
       "start": "16:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/yoga-paa-graenby-allaktivitetshus/": {
     "dagar": [
@@ -485,7 +502,7 @@
     "tider": {
       "start": "18:30"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/spraakcafe-paa-graenby-allaktivitetshus/": {
     "dagar": [
@@ -494,7 +511,7 @@
     "tider": {
       "start": "18:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/syskonskap-stenhagen-13-18-aar/": {
     "dagar": [
@@ -503,7 +520,7 @@
     "tider": {
       "start": "18:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/musiklek-6-9-aar-skyttorp-kulturis/": {
     "dagar": [
@@ -513,7 +530,7 @@
       "start": "12:00",
       "slut": "15:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/dans-aak-1-3-gaavstad-kulturis/": {
     "dagar": [
@@ -523,7 +540,7 @@
       "start": "14:50",
       "slut": "15:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/teckna-manga/": {
     "dagar": [
@@ -532,7 +549,7 @@
     "tider": {
       "start": "15:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/soemnad-och-textil/": {
     "dagar": [
@@ -541,7 +558,7 @@
     "tider": {
       "start": "15:30"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/thaiboxning-foer-dig-12-18-aar/": {
     "dagar": [
@@ -550,7 +567,7 @@
     "tider": {
       "start": "16:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/laexhjaelp/": {
     "dagar": [
@@ -559,7 +576,7 @@
     "tider": {
       "start": "17:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/bollyx-paa-graenby-allaktivitetshus/": {
     "dagar": [
@@ -568,7 +585,7 @@
     "tider": {
       "start": "18:30"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/onsdagspromenad-i-graenby/": {
     "dagar": [
@@ -578,7 +595,7 @@
       "start": "13:00",
       "slut": "16:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/klarinett-6-9-aar-storvreta-kulturis/": {
     "dagar": [
@@ -588,7 +605,7 @@
       "start": "14:00",
       "slut": "16:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/gitarr-9-12-aar-allaktivitetshuset-gottsunda-kulturis/": {
     "dagar": [
@@ -598,7 +615,7 @@
       "start": "14:00",
       "slut": "16:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/onsdagshaeng/": {
     "dagar": [
@@ -608,13 +625,13 @@
       "start": "15:30",
       "slut": "16:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-i-gottsunda-arskurs-4-9/": {
     "dagar": [
       "on"
     ],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/gitarr-9-12-aar-graenby-allaktivitetshus-kulturis/": {
     "dagar": [
@@ -623,7 +640,7 @@
     "tider": {
       "start": "17:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/skapa-film-filmkurs-paa-graenby-allaktivitetshus/": {
     "dagar": [
@@ -632,7 +649,7 @@
     "tider": {
       "start": "16:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/gitarr-13-20-aar-allaktivitetshuset-graenby/": {
     "dagar": [
@@ -641,7 +658,7 @@
     "tider": {
       "start": "18:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/magdans-paa-graenby-allaktivitetshus/": {
     "dagar": [
@@ -650,7 +667,7 @@
     "tider": {
       "start": "18:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/kreativa-kvaellar-paa-graenby-allaktivitetshus/": {
     "dagar": [
@@ -659,7 +676,7 @@
     "tider": {
       "start": "18:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/skaparverkstad-paa-graenby-allaktivitetshus/": {
     "dagar": [
@@ -669,7 +686,7 @@
       "start": "15:00",
       "slut": "17:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/designlabbet-funkis-pa-grand-fr-13-aar-m/": {
     "dagar": [
@@ -679,7 +696,7 @@
       "start": "15:30",
       "slut": "17:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/cirkus/": {
     "dagar": [
@@ -687,7 +704,7 @@
       "lö",
       "sö"
     ],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/sportis/": {
     "dagar": [],
@@ -701,7 +718,7 @@
       "start": "14:30",
       "slut": "18:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/braedspelsfredag-paa-graenby-allaktivitetshus/": {
     "dagar": [
@@ -711,7 +728,7 @@
       "start": "15:00",
       "slut": "18:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/teater-och-dans-med-morias-unga-talanger/": {
     "dagar": [
@@ -721,7 +738,7 @@
       "start": "13:00",
       "slut": "20:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/dans-och-teater-foer-vuxna/": {
     "dagar": [
@@ -731,7 +748,7 @@
       "start": "14:30",
       "slut": "20:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/pumphusets-loerdags-och-soendagsoeppet/": {
     "dagar": [
@@ -741,7 +758,17 @@
       "start": "12:00",
       "slut": "20:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/spela-schack-ht26-gottsunda/": {
+    "dagar": [
+      "må"
+    ],
+    "tider": {
+      "start": "15:00",
+      "slut": "21:00"
+    },
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/syskonskap-mini-7-12-aar/": {
     "dagar": [
@@ -751,7 +778,7 @@
       "start": "16:00",
       "slut": "22:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/syskonskap-midi-13-18-aar/": {
     "dagar": [
@@ -761,13 +788,13 @@
       "start": "16:00",
       "slut": "22:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/ung-bokcirkel-tisdagar/": {
     "dagar": [
       "ti"
     ],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/nattfotboll-i-stenhagen-med-procyon-bk/": {
     "dagar": [
@@ -777,11 +804,11 @@
     "tider": {
       "start": "20:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/teater-foer-mellanstadiet-i-stenhagen/": {
     "dagar": [],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/musikalgrupp-foer-flerspraakiga-ungdomar-16-20-aar/": {
     "dagar": [
@@ -790,7 +817,7 @@
     "tider": {
       "start": "18:30"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/siriklubban-gottsunda-7-14-aar/": {
     "dagar": [
@@ -799,7 +826,7 @@
     "tider": {
       "start": "16:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/siriklubban-graenby-10-16-aar/": {
     "dagar": [
@@ -808,7 +835,7 @@
     "tider": {
       "start": "15:30"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/siriklubban-graenby-7-9-aar/": {
     "dagar": [
@@ -817,7 +844,7 @@
     "tider": {
       "start": "15:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/fit-boots-traening/": {
     "dagar": [
@@ -826,7 +853,7 @@
     "tider": {
       "start": "17:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/nattfotboll-i-graenby/": {
     "dagar": [
@@ -835,19 +862,19 @@
     "tider": {
       "start": "18:00"
     },
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/3d-ritning-i-blender/": {
     "dagar": [
       "lö"
     ],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/arduino-kurs/": {
     "dagar": [
       "lö"
     ],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/uppsala-stadsmission-ungdomsverksamhet/": {
     "dagar": [
@@ -856,6 +883,6 @@
       "on",
       "to"
     ],
-    "hamtad": "2026-10-07"
+    "hamtad": "2026-10-14"
   }
 }

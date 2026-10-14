@@ -1,65 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-13T04:39:58.794Z",
-  "antal": 323,
+  "hamtad": "2026-10-14T04:45:21.171Z",
+  "antal": 322,
   "evenemang": [
-    {
-      "id": "tickster-aag1b4vb7uk2a9y",
-      "titel": "Dolda rum: Rikssalen och drottning Kristina",
-      "start": "2026-10-13T11:00:00+02:00",
-      "slut": "2026-10-13T12:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala slottshistoriska",
-        "id": "slottshist",
-        "lat": 59.8542,
-        "lng": 17.6351
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/aag1b4vb7uk2a9y/2026-10-13/dolda-rum-rikssalen-och-drottning-kristina",
-          "biljetter": "https://secure.tickster.com/sv/aag1b4vb7uk2a9y"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-zbdbgmf4azjkmpm",
-      "titel": "Avig",
-      "start": "2026-10-13T18:00:00+02:00",
-      "slut": "2026-10-13T18:40:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8611,
-        "lng": 17.6458,
-        "rum": "Sal C"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/zbdbgmf4azjkmpm/2026-10-13/avig",
-          "biljetter": "https://secure.tickster.com/sv/zbdbgmf4azjkmpm"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "dans"
-        ]
-      }
-    },
     {
       "id": "tickster-8e944nma96u313y",
       "titel": "The Animals",
@@ -5256,27 +5200,35 @@
       }
     },
     {
-      "id": "tickster-dxz62jf2rm6akcz",
-      "titel": "Jul på slottet med Allmänna Sången - Lör kl. 17",
-      "start": "2026-11-28",
-      "slut": null,
+      "id": "tickster-ktwbd5xwakarg07",
+      "titel": "OKTOBERFEST 200DAGARS - FLUSTRET",
+      "start": "2026-11-27T22:00:00+01:00",
+      "slut": "2026-11-28T02:00:00+01:00",
       "plats": {
-        "namn": "Uppsala slott",
-        "id": "slott"
+        "namn": "Flustret",
+        "id": "flustret"
       },
-      "kategori": "musik",
+      "kategori": "natt",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
         {
           "id": "tickster",
           "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/dxz62jf2rm6akcz/2026-11-28/jul-pa-slottet-med-allmanna-sangen-lor-kl-17",
-          "biljetter": "https://secure.tickster.com/sv/dxz62jf2rm6akcz"
+          "url": "https://www.tickster.com/se/sv/events/ktwbd5xwakarg07/2026-11-27/oktoberfest-200dagars-flustret",
+          "biljetter": "https://secure.tickster.com/sv/ktwbd5xwakarg07"
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "flustret",
+          "uppsala",
+          "oktoberfest",
+          "studentfest"
+        ]
+      }
     },
     {
       "id": "tickster-4zmlk10e3xnlfj2",
@@ -5300,6 +5252,43 @@
       ],
       "langvarig": false,
       "installd": false
+    },
+    {
+      "id": "tickster-dxz62jf2rm6akcz",
+      "titel": "Jul på slottet med Allmänna Sången - Lör kl. 17",
+      "start": "2026-11-28T17:00:00+01:00",
+      "slut": "2026-11-28T18:15:00+01:00",
+      "plats": {
+        "namn": "Uppsala slott",
+        "id": "slott"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/dxz62jf2rm6akcz/2026-11-28/jul-pa-slottet-med-allmanna-sangen-lor-kl-17",
+          "biljetter": "https://secure.tickster.com/sv/dxz62jf2rm6akcz"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "allmänna",
+          "sången",
+          "jul",
+          "kör",
+          "choir",
+          "musik",
+          "konsert",
+          "solist",
+          "mysig",
+          "christmas"
+        ]
+      }
     },
     {
       "id": "tickster-yag7vm5ypkr2pgp",
@@ -5472,52 +5461,6 @@
       }
     },
     {
-      "id": "tickster-pef17flbnxgxk4z",
-      "titel": "Jul på slottet med Allmänna Sången - Sön kl. 14",
-      "start": "2026-11-29",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala slott",
-        "id": "slott"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/pef17flbnxgxk4z/2026-11-29/jul-pa-slottet-med-allmanna-sangen-son-kl-14",
-          "biljetter": "https://secure.tickster.com/sv/pef17flbnxgxk4z"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-pzrhwpdvkwznbpy",
-      "titel": "Jul på slottet med Allmänna Sången - Sön kl. 17",
-      "start": "2026-11-29",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala slott",
-        "id": "slott"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/pzrhwpdvkwznbpy/2026-11-29/jul-pa-slottet-med-allmanna-sangen-son-kl-17",
-          "biljetter": "https://secure.tickster.com/sv/pzrhwpdvkwznbpy"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "tickster-uupp1n1az1tbb3y",
       "titel": "Sirius vs Vetlanda IBF",
       "start": "2026-11-29T14:00:00+01:00",
@@ -5541,6 +5484,43 @@
       ],
       "langvarig": false,
       "installd": false
+    },
+    {
+      "id": "tickster-pef17flbnxgxk4z",
+      "titel": "Jul på slottet med Allmänna Sången - Sön kl. 14",
+      "start": "2026-11-29T14:00:00+01:00",
+      "slut": "2026-11-29T15:15:00+01:00",
+      "plats": {
+        "namn": "Uppsala slott",
+        "id": "slott"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/pef17flbnxgxk4z/2026-11-29/jul-pa-slottet-med-allmanna-sangen-son-kl-14",
+          "biljetter": "https://secure.tickster.com/sv/pef17flbnxgxk4z"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "allmänna",
+          "sången",
+          "jul",
+          "kör",
+          "choir",
+          "musik",
+          "konsert",
+          "solist",
+          "mysig",
+          "christmas"
+        ]
+      }
     },
     {
       "id": "tickster-vb32w5zdxu5a0a1",
@@ -5570,6 +5550,43 @@
       "fakta": {
         "taggar": [
           "dans"
+        ]
+      }
+    },
+    {
+      "id": "tickster-pzrhwpdvkwznbpy",
+      "titel": "Jul på slottet med Allmänna Sången - Sön kl. 17",
+      "start": "2026-11-29T17:00:00+01:00",
+      "slut": "2026-11-29T18:15:00+01:00",
+      "plats": {
+        "namn": "Uppsala slott",
+        "id": "slott"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/pzrhwpdvkwznbpy/2026-11-29/jul-pa-slottet-med-allmanna-sangen-son-kl-17",
+          "biljetter": "https://secure.tickster.com/sv/pzrhwpdvkwznbpy"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "allmänna",
+          "sången",
+          "jul",
+          "kör",
+          "choir",
+          "musik",
+          "konsert",
+          "solist",
+          "mysig",
+          "christmas"
         ]
       }
     },
@@ -6254,38 +6271,6 @@
       }
     },
     {
-      "id": "tickster-w96v0u2kpy9j66g",
-      "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
-      "start": "2026-12-09T18:30:00+01:00",
-      "slut": "2026-12-09T22:30:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8611,
-        "lng": 17.6458,
-        "rum": "Restaurangen/Sal D"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/w96v0u2kpy9j66g/2026-12-09/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord",
-          "biljetter": "https://secure.tickster.com/sv/w96v0u2kpy9j66g"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "jul",
-          "cirkus"
-        ]
-      }
-    },
-    {
       "id": "tickster-d0rb9tjhm3fggbt",
       "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
       "start": "2026-12-09T18:30:00+01:00",
@@ -6309,6 +6294,38 @@
         }
       ],
       "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jul",
+          "cirkus"
+        ]
+      }
+    },
+    {
+      "id": "tickster-w96v0u2kpy9j66g",
+      "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
+      "start": "2026-12-09T18:30:00+01:00",
+      "slut": "2026-12-09T22:30:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458,
+        "rum": "Restaurangen/Sal D"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/w96v0u2kpy9j66g/2026-12-09/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord",
+          "biljetter": "https://secure.tickster.com/sv/w96v0u2kpy9j66g"
+        }
+      ],
+      "langvarig": false,
       "installd": false,
       "fakta": {
         "taggar": [
@@ -8362,30 +8379,6 @@
       }
     },
     {
-      "id": "tickster-n13253ku4ldhx61",
-      "titel": "After Ski - vinterparty",
-      "start": "2027-02-13",
-      "slut": null,
-      "plats": {
-        "namn": "KAIJA, Stallet",
-        "id": "kaija",
-        "rum": "Stallet"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/n13253ku4ldhx61/2027-02-13/after-ski-vinterparty",
-          "biljetter": "https://secure.tickster.com/sv/n13253ku4ldhx61"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "tickster-f8ga8mzk0ehb1uk",
       "titel": "Kim Wilde – The Singles Tour 2027",
       "start": "2027-02-13T19:30:00+01:00",
@@ -8627,27 +8620,34 @@
       }
     },
     {
-      "id": "tickster-w87zxwnw4rye3mz",
-      "titel": "Fanny Avonne",
-      "start": "2027-02-20",
-      "slut": null,
+      "id": "tickster-n13253ku4ldhx61",
+      "titel": "After Ski - vinterparty",
+      "start": "2027-02-20T12:00:00+01:00",
+      "slut": "2027-02-20T17:00:00+01:00",
       "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
+        "namn": "KAIJA, Stallet",
+        "id": "kaija",
+        "rum": "Stallet"
       },
-      "kategori": "musik",
+      "kategori": "ovrigt",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
         {
           "id": "tickster",
           "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/w87zxwnw4rye3mz/2027-02-20/fanny-avonne",
-          "biljetter": "https://secure.tickster.com/sv/w87zxwnw4rye3mz"
+          "url": "https://www.tickster.com/se/sv/events/n13253ku4ldhx61/2027-02-20/after-ski-vinterparty",
+          "biljetter": "https://secure.tickster.com/sv/n13253ku4ldhx61"
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "afterski",
+          "dagfest"
+        ]
+      }
     },
     {
       "id": "tickster-mjluje9u10d70ll",
@@ -8708,6 +8708,44 @@
       "fakta": {
         "taggar": [
           "musik"
+        ]
+      }
+    },
+    {
+      "id": "tickster-w87zxwnw4rye3mz",
+      "titel": "Fanny Avonne",
+      "start": "2027-02-20T20:00:00+01:00",
+      "slut": "2027-02-20T22:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/w87zxwnw4rye3mz/2027-02-20/fanny-avonne",
+          "biljetter": "https://secure.tickster.com/sv/w87zxwnw4rye3mz"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "fanny avonne",
+          "pop",
+          "luger"
         ]
       }
     },
@@ -9791,8 +9829,8 @@
     {
       "id": "tickster-ct9zd81m1hbgwbv",
       "titel": "FÖRSTA STUDENTSKIVA LUNDELLSKA 11 MAJ FLUSTRET",
-      "start": "2027-05-11",
-      "slut": null,
+      "start": "2027-05-11T21:30:00+02:00",
+      "slut": "2027-05-12T02:00:00+02:00",
       "plats": {
         "namn": "Flustret",
         "id": "flustret"
@@ -9809,7 +9847,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "uppsala",
+          "studentskiva",
+          "nattklubb",
+          "flustret",
+          "18"
+        ]
+      }
     },
     {
       "id": "tickster-2clj75545wcx9tw",
@@ -10001,8 +10048,8 @@
     {
       "id": "tickster-kr338gu7necwpl7",
       "titel": "SISTA STUDENTSKIVA LUNDELLSKA 27 MAJ FLUSTRET",
-      "start": "2027-05-27",
-      "slut": null,
+      "start": "2027-05-27T21:30:00+02:00",
+      "slut": "2027-05-28T02:00:00+02:00",
       "plats": {
         "namn": "Flustret",
         "id": "flustret"
@@ -10019,7 +10066,16 @@
         }
       ],
       "langvarig": false,
-      "installd": false
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "uppsala",
+          "studentskiva",
+          "nattklubb",
+          "flustret",
+          "18"
+        ]
+      }
     },
     {
       "id": "tickster-wkerv76ph3w42a8",
@@ -10123,11 +10179,14 @@
     {
       "id": "tickster-m9rbmjxxw04wuc9",
       "titel": "Fredrik Andersson – Too soon 2027",
-      "start": "2027-10-22",
-      "slut": null,
+      "start": "2027-10-22T19:30:00+02:00",
+      "slut": "2027-10-22T20:50:00+02:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
       },
       "kategori": "musik",
       "gratis": null,

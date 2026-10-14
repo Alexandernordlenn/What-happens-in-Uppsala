@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-10-13T04:41:57.228Z",
-  "antal": 458,
+  "hamtad": "2026-10-14T04:47:11.643Z",
+  "antal": 454,
   "evenemang": [
     {
       "id": "heja-charta-77-bonta-fran-asta-kask-2026",
@@ -212,6 +212,7 @@
       "installd": false,
       "fakta": {
         "kategorier": [
+          "hojdpunkter-hejauppsala",
           "konst",
           "museum",
           "uppsala"
@@ -358,46 +359,6 @@
       }
     },
     {
-      "id": "heja-art-muse-music-2026-2",
-      "titel": "Art Muse Music",
-      "start": "2026-10-06T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Himlen är blå som en apelsin",
-        "id": "himlen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/art-muse-music-2026-2/",
-          "arrangor": "http://himlenarblasomenapelsin.com"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "dans-event",
-          "hojdpunkter-hejauppsala",
-          "konst",
-          "mat-dryck",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-06",
-          "2026-10-30"
-        ],
-        "tider": {
-          "start": "18:00"
-        }
-      }
-    },
-    {
       "id": "heja-art-muse-music-2026-2-2",
       "titel": "Art Muse Music",
       "start": "2026-10-06T18:00:00+02:00",
@@ -478,158 +439,6 @@
       }
     },
     {
-      "id": "heja-jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2-2",
-      "titel": "Jazzlunch på Katalins Bakficka 13/10",
-      "start": "2026-10-13T11:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/jazzlunch-pa-katalins-bakficka-2026-2-2-2-2-2-2/",
-          "arrangor": "https://www.katalin.com/events/jazzlunch-med-hemkart-5/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "gratis",
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-13"
-        ],
-        "tider": {
-          "start": "11:30"
-        }
-      }
-    },
-    {
-      "id": "heja-pluggstuga-till-klassisk-musik-2026",
-      "titel": "Pluggstuga till klassisk musik",
-      "start": "2026-10-13T14:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/pluggstuga-till-klassisk-musik-2026/",
-          "arrangor": "https://ukk.se/pluggstuga-till-klassisk-musik/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "ovrigt",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-13"
-        ],
-        "tider": {
-          "start": "14:00"
-        }
-      }
-    },
-    {
-      "id": "heja-avig-2026",
-      "titel": "AVIG",
-      "start": "2026-10-13T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "rum": "Sal C"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/avig-2026/",
-          "arrangor": "https://secure.tickster.com/sv/zbdbgmf4azjkmpm/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "dans-event",
-          "familj",
-          "hojdpunkter-hejauppsala",
-          "scen",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-13"
-        ],
-        "tider": {
-          "start": "18:00"
-        }
-      }
-    },
-    {
-      "id": "heja-voice-and-rhytmh-2026",
-      "titel": "Voice and Rhytmh",
-      "start": "2026-10-13T18:45:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Himlen är blå som en apelsin",
-        "id": "himlen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/voice-and-rhytmh-2026/",
-          "arrangor": "https://himlenarblasomenapelsin.com"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "dans-event",
-          "hojdpunkter-hejauppsala",
-          "kurser",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-13",
-          "2027-05-13"
-        ],
-        "tider": {
-          "start": "18:45"
-        }
-      }
-    },
-    {
       "id": "heja-voice-and-rhytmh-2026-2",
       "titel": "Voice and Rhytmh",
       "start": "2026-10-13T18:45:00+02:00",
@@ -706,42 +515,6 @@
         ],
         "tider": {
           "start": "18:45"
-        }
-      }
-    },
-    {
-      "id": "heja-fyris-comedy-stand-up-open-mic-2026-13-okt",
-      "titel": "Fyris Comedy-Stand Up Open Mic",
-      "start": "2026-10-13T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/fyris-comedy-stand-up-open-mic-2026-13-okt/",
-          "arrangor": "https://www.fyriscomedy.com/biljetter"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "scen",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-13"
-        ],
-        "tider": {
-          "start": "19:00"
         }
       }
     },
@@ -3316,6 +3089,82 @@
       "installd": false,
       "fakta": {
         "kategorier": [
+          "konst",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-24",
+          "2026-11-08"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
+      }
+    },
+    {
+      "id": "heja-aterbruksverkstad-pa-biotopia-2026",
+      "titel": "Återbruksverkstad på Biotopia",
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia",
+        "rum": "Vasagatan 4"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/aterbruksverkstad-pa-biotopia-2026/",
+          "arrangor": "https://biotopia.nu/aterbruksverkstad/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "familj",
+          "hojdpunkter-hejauppsala",
+          "uppsala"
+        ],
+        "datum": [
+          "2026-10-24",
+          "2026-11-01"
+        ],
+        "tider": {
+          "start": "09:00"
+        }
+      }
+    },
+    {
+      "id": "heja-en-fika-med-fyris-2026",
+      "titel": "En Fika med Fyris",
+      "start": "2026-10-24",
+      "slut": "2026-11-08",
+      "plats": {
+        "namn": "Uppsala Konstnärsklubb",
+        "id": "konstnarsklubben",
+        "rum": "Galleri 2, Sysslomansgatan 1"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "heja",
+          "namn": "Heja Uppsala",
+          "url": "https://hejauppsala.com/kalender/en-fika-med-fyris-2026/",
+          "arrangor": "https://www.uppsalakonstnarsklubb.se/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hojdpunkter-hejauppsala",
           "konst",
           "uppsala"
         ],

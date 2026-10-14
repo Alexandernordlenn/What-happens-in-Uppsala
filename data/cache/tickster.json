@@ -1,38 +1,4 @@
 {
-  "https://www.tickster.com/se/sv/events/aag1b4vb7uk2a9y/2026-10-13/dolda-rum-rikssalen-och-drottning-kristina": {
-    "titel": "Dolda rum: Rikssalen och drottning Kristina",
-    "start": "2026-10-13T11:00:00",
-    "slut": "2026-10-13T12:00:00",
-    "platsId": "kl3uktc5vbvyj38",
-    "plats": "Uppsala slottshistoriska",
-    "ort": "Uppsala",
-    "lat": 59.8542,
-    "lng": 17.6351,
-    "taggar": [],
-    "arrangorId": "6aj6nunx2afputb",
-    "arrangor": "Uppsala Slottshistoriska",
-    "kop": "https://secure.tickster.com/sv/aag1b4vb7uk2a9y",
-    "status": "",
-    "hamtad": "2026-10-06"
-  },
-  "https://www.tickster.com/se/sv/events/zbdbgmf4azjkmpm/2026-10-13/avig": {
-    "titel": "Avig",
-    "start": "2026-10-13T18:00:00",
-    "slut": "2026-10-13T18:40:00",
-    "platsId": "ll49xun99llg5lm",
-    "plats": "Uppsala Konsert & Kongress, Sal C",
-    "ort": "Uppsala",
-    "lat": 59.8611,
-    "lng": 17.6458,
-    "taggar": [
-      "dans"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/zbdbgmf4azjkmpm",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/8e944nma96u313y/2026-10-14/the-animals": {
     "titel": "The Animals",
     "start": "2026-10-14T20:00:00",
@@ -3385,6 +3351,27 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/ktwbd5xwakarg07/2026-11-27/oktoberfest-200dagars-flustret": {
+    "titel": "OKTOBERFEST 200DAGARS - FLUSTRET",
+    "start": "2026-11-27T22:00:00",
+    "slut": "2026-11-28T02:00:00",
+    "platsId": "zdg5wnnb2fv7y63",
+    "plats": "Flustret",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "flustret",
+      "uppsala",
+      "oktoberfest",
+      "studentfest"
+    ],
+    "arrangorId": "jj4714e98nnl9cz",
+    "arrangor": "Flustret",
+    "kop": "https://secure.tickster.com/sv/ktwbd5xwakarg07",
+    "status": "",
+    "hamtad": "2026-10-14"
+  },
   "https://www.tickster.com/se/sv/events/4zmlk10e3xnlfj2/2026-11-28/familjelordag-mala-sjalvportratt-fran-5-ar": {
     "titel": "Familjelördag: Måla självporträtt (från 5 år)",
     "start": "2026-11-28T13:30:00",
@@ -3400,6 +3387,33 @@
     "kop": "https://secure.tickster.com/sv/4zmlk10e3xnlfj2",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/dxz62jf2rm6akcz/2026-11-28/jul-pa-slottet-med-allmanna-sangen-lor-kl-17": {
+    "titel": "Jul på slottet med Allmänna Sången - Lör kl. 17",
+    "start": "2026-11-28T17:00:00",
+    "slut": "2026-11-28T18:15:00",
+    "platsId": "mctr8el83fhehgk",
+    "plats": "Uppsala Slott",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "allmänna",
+      "sången",
+      "jul",
+      "kör",
+      "choir",
+      "musik",
+      "konsert",
+      "solist",
+      "mysig",
+      "christmas"
+    ],
+    "arrangorId": "zydv30zvk0c1uyz",
+    "arrangor": "Allmänna Sången",
+    "kop": "https://secure.tickster.com/sv/dxz62jf2rm6akcz",
+    "status": "",
+    "hamtad": "2026-10-14"
   },
   "https://www.tickster.com/se/sv/events/yag7vm5ypkr2pgp/2026-11-28/i-ett-vinterland": {
     "titel": "I ett vinterland",
@@ -3533,6 +3547,33 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/pef17flbnxgxk4z/2026-11-29/jul-pa-slottet-med-allmanna-sangen-son-kl-14": {
+    "titel": "Jul på slottet med Allmänna Sången - Sön kl. 14",
+    "start": "2026-11-29T14:00:00",
+    "slut": "2026-11-29T15:15:00",
+    "platsId": "mctr8el83fhehgk",
+    "plats": "Uppsala Slott",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "allmänna",
+      "sången",
+      "jul",
+      "kör",
+      "choir",
+      "musik",
+      "konsert",
+      "solist",
+      "mysig",
+      "christmas"
+    ],
+    "arrangorId": "zydv30zvk0c1uyz",
+    "arrangor": "Allmänna Sången",
+    "kop": "https://secure.tickster.com/sv/pef17flbnxgxk4z",
+    "status": "",
+    "hamtad": "2026-10-14"
+  },
   "https://www.tickster.com/se/sv/events/vb32w5zdxu5a0a1/2026-11-29/notknapparen-med-international-festival-ballet": {
     "titel": "Nötknäpparen med International Festival Ballet",
     "start": "2026-11-29T15:00:00",
@@ -3550,6 +3591,33 @@
     "kop": "https://secure.tickster.com/sv/vb32w5zdxu5a0a1",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/pzrhwpdvkwznbpy/2026-11-29/jul-pa-slottet-med-allmanna-sangen-son-kl-17": {
+    "titel": "Jul på slottet med Allmänna Sången - Sön kl. 17",
+    "start": "2026-11-29T17:00:00",
+    "slut": "2026-11-29T18:15:00",
+    "platsId": "mctr8el83fhehgk",
+    "plats": "Uppsala Slott",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "allmänna",
+      "sången",
+      "jul",
+      "kör",
+      "choir",
+      "musik",
+      "konsert",
+      "solist",
+      "mysig",
+      "christmas"
+    ],
+    "arrangorId": "zydv30zvk0c1uyz",
+    "arrangor": "Allmänna Sången",
+    "kop": "https://secure.tickster.com/sv/pzrhwpdvkwznbpy",
+    "status": "",
+    "hamtad": "2026-10-14"
   },
   "https://www.tickster.com/se/sv/events/4rrya293mdgu5xd/2026-11-30/christmas-in-ireland": {
     "titel": "Christmas in Ireland",
@@ -3988,25 +4056,6 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
-  "https://www.tickster.com/se/sv/events/w96v0u2kpy9j66g/2026-12-09/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord": {
-    "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
-    "start": "2026-12-09T18:30:00",
-    "slut": "2026-12-09T22:30:00",
-    "platsId": "x41r2gewzkkwxy0",
-    "plats": "Uppsala Konsert & Kongress, Restaurangen/Sal D",
-    "ort": "Uppsala",
-    "lat": 59.8611,
-    "lng": 17.6458,
-    "taggar": [
-      "jul",
-      "cirkus"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/w96v0u2kpy9j66g",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/d0rb9tjhm3fggbt/2026-12-09/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord": {
     "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
     "start": "2026-12-09T18:30:00",
@@ -4023,6 +4072,25 @@
     "arrangorId": "y5zw8v159wk4fe3",
     "arrangor": "Uppsala Konsert & Kongress",
     "kop": "https://secure.tickster.com/sv/d0rb9tjhm3fggbt",
+    "status": "",
+    "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/w96v0u2kpy9j66g/2026-12-09/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord": {
+    "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
+    "start": "2026-12-09T18:30:00",
+    "slut": "2026-12-09T22:30:00",
+    "platsId": "x41r2gewzkkwxy0",
+    "plats": "Uppsala Konsert & Kongress, Restaurangen/Sal D",
+    "ort": "Uppsala",
+    "lat": 59.8611,
+    "lng": 17.6458,
+    "taggar": [
+      "jul",
+      "cirkus"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": "https://secure.tickster.com/sv/w96v0u2kpy9j66g",
     "status": "",
     "hamtad": "2026-09-24"
   },
@@ -5469,6 +5537,25 @@
     "status": "",
     "hamtad": "2026-10-07"
   },
+  "https://www.tickster.com/se/sv/events/n13253ku4ldhx61/2027-02-20/after-ski-vinterparty": {
+    "titel": "After Ski - vinterparty",
+    "start": "2027-02-20T12:00:00",
+    "slut": "2027-02-20T17:00:00",
+    "platsId": "pua28nkd37nlam2",
+    "plats": "KAIJA, Stallet",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "afterski",
+      "dagfest"
+    ],
+    "arrangorId": "phbngtg66capn9m",
+    "arrangor": "Kaija",
+    "kop": "https://secure.tickster.com/sv/n13253ku4ldhx61",
+    "status": "",
+    "hamtad": "2026-10-14"
+  },
   "https://www.tickster.com/se/sv/events/mjluje9u10d70ll/2027-02-20/tourbjorn-med-torbjorn-averas-skorup": {
     "titel": "Tourbjörn – Med Torbjörn Averås Skorup",
     "start": "2027-02-20T18:00:00",
@@ -5504,6 +5591,32 @@
     "kop": "https://secure.tickster.com/sv/30zehcuw46a5ktp",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/w87zxwnw4rye3mz/2027-02-20/fanny-avonne": {
+    "titel": "Fanny Avonne",
+    "start": "2027-02-20T20:00:00",
+    "slut": "2027-02-20T22:00:00",
+    "platsId": "l0h5xlh16zztxwa",
+    "plats": "Katalin and all that Jazz",
+    "ort": "Uppsala",
+    "lat": 59.8595,
+    "lng": 17.6465,
+    "taggar": [
+      "katalinlive",
+      "uppsala",
+      "katalin",
+      "musik",
+      "konsert",
+      "kaliber live",
+      "fanny avonne",
+      "pop",
+      "luger"
+    ],
+    "arrangorId": "gf5dj34fjr9ddw5",
+    "arrangor": "Kaliber Live",
+    "kop": null,
+    "status": "",
+    "hamtad": "2026-10-14"
   },
   "https://www.tickster.com/se/sv/events/blrychnf2g7zmu4/2027-02-20/tourbjorn-med-torbjorn-averas-skorup": {
     "titel": "Tourbjörn – Med Torbjörn Averås Skorup",
@@ -6176,6 +6289,28 @@
     "status": "",
     "hamtad": "2026-09-29"
   },
+  "https://www.tickster.com/se/sv/events/ct9zd81m1hbgwbv/2027-05-11/forsta-studentskiva-lundellska-11-maj-flustret": {
+    "titel": "FÖRSTA STUDENTSKIVA LUNDELLSKA 11 MAJ FLUSTRET",
+    "start": "2027-05-11T21:30:00",
+    "slut": "2027-05-12T02:00:00",
+    "platsId": "zdg5wnnb2fv7y63",
+    "plats": "Flustret",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "uppsala",
+      "studentskiva",
+      "nattklubb",
+      "flustret",
+      "18"
+    ],
+    "arrangorId": "jj4714e98nnl9cz",
+    "arrangor": "Flustret",
+    "kop": "https://secure.tickster.com/sv/ct9zd81m1hbgwbv",
+    "status": "",
+    "hamtad": "2026-10-14"
+  },
   "https://www.tickster.com/se/sv/events/2clj75545wcx9tw/2027-05-18/flustret-studentskiva-lundellska-celsius-18-maj": {
     "titel": "FLUSTRET - STUDENTSKIVA LUNDELLSKA CELSIUS 18 MAJ",
     "start": "2027-05-18T21:30:00",
@@ -6299,6 +6434,28 @@
     "status": "",
     "hamtad": "2026-10-01"
   },
+  "https://www.tickster.com/se/sv/events/kr338gu7necwpl7/2027-05-27/sista-studentskiva-lundellska-27-maj-flustret": {
+    "titel": "SISTA STUDENTSKIVA LUNDELLSKA 27 MAJ FLUSTRET",
+    "start": "2027-05-27T21:30:00",
+    "slut": "2027-05-28T02:00:00",
+    "platsId": "zdg5wnnb2fv7y63",
+    "plats": "Flustret",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "uppsala",
+      "studentskiva",
+      "nattklubb",
+      "flustret",
+      "18"
+    ],
+    "arrangorId": "jj4714e98nnl9cz",
+    "arrangor": "Flustret",
+    "kop": "https://secure.tickster.com/sv/kr338gu7necwpl7",
+    "status": "",
+    "hamtad": "2026-10-14"
+  },
   "https://www.tickster.com/se/sv/events/wkerv76ph3w42a8/2027-06-05/love-with-johnny-echols-us": {
     "titel": "Love - with Johnny Echols (US)",
     "start": "2027-06-05T19:00:00",
@@ -6368,6 +6525,22 @@
     "kop": "https://secure.tickster.com/sv/6tpyxlllywvucer",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/m9rbmjxxw04wuc9/2027-10-22/fredrik-andersson-too-soon-2027": {
+    "titel": "Fredrik Andersson – Too soon 2027",
+    "start": "2027-10-22T19:30:00",
+    "slut": "2027-10-22T20:50:00",
+    "platsId": "v3gu3ky2h68ytd5",
+    "plats": "Uppsala Konsert & Kongress, Stora salen",
+    "ort": "Uppsala",
+    "lat": 59.8617,
+    "lng": 17.6469,
+    "taggar": [],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": "https://secure.tickster.com/sv/m9rbmjxxw04wuc9",
+    "status": "",
+    "hamtad": "2026-10-14"
   },
   "https://www.tickster.com/se/sv/events/6xnxx840xdvjcdn/2027-02-18/pause-of-silence-retreat-i-tystnad": {
     "titel": "Pause of Silence - retreat i tystnad",

@@ -1,33 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-13T04:43:13.204Z",
-  "antal": 138,
+  "hamtad": "2026-10-14T04:51:52.093Z",
+  "antal": 137,
   "evenemang": [
-    {
-      "id": "sport-profixio-32636869",
-      "titel": "Sloga Uppsala – Norrköping Dolphins",
-      "start": "2026-10-13T19:04:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Basket",
-      "liga": "Basketligan herr",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid27640/match/32636869"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-swehockey-90131077",
       "titel": "Almtuna IS – AIK",
@@ -201,30 +177,6 @@
       "installd": false
     },
     {
-      "id": "sport-sportality-yizg2nmru5",
-      "titel": "Storvreta IBK – FBC Kalmarsund",
-      "start": "2026-10-24T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Innebandy",
-      "liga": "SSL herr",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Ligans webbplats",
-          "url": "https://www.ssl.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "sport-profixio-32682420",
       "titel": "Uppsala Basket – AIK (dam)",
       "start": "2026-10-24T15:00:00+02:00",
@@ -291,6 +243,30 @@
           "id": "sport",
           "namn": "Profixio",
           "url": "https://www.profixio.com/app/leagueid27937/match/32656515"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-sportality-yizg2nmru5",
+      "titel": "Storvreta IBK – FBC Kalmarsund",
+      "start": "2026-10-24T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "sport": "Innebandy",
+      "liga": "SSL herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Ligans webbplats",
+          "url": "https://www.ssl.se"
         }
       ],
       "langvarig": false,

@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-13T04:42:20.431Z",
-  "antal": 289,
+  "hamtad": "2026-10-14T04:51:02.666Z",
+  "antal": 291,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -2714,6 +2714,52 @@
       "langvarig": true
     },
     {
+      "id": "kubik-spela-schack-ht26-gottsunda",
+      "titel": "Spela schack",
+      "plats": {
+        "namn": "Gottsunda bibliotek",
+        "id": "gottsundabib"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        18
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spela-schack-ht26-gottsunda/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Övrigt"
+        ],
+        "malgrupp": [
+          "7-9 år",
+          "10-12 år",
+          "13-15 år",
+          "16-18 år"
+        ],
+        "adress": "Gottsundabiblioteket, Valthornsvägen 11, Uppsala",
+        "dagar": [
+          "må"
+        ],
+        "tider": {
+          "start": "15:00",
+          "slut": "21:00"
+        }
+      },
+      "start": "2026-09-07",
+      "slut": "2026-12-21",
+      "langvarig": true
+    },
+    {
       "id": "kubik-thaiboxning-foer-dig-12-18-aar",
       "titel": "Thaiboxning för dig 12-18 år",
       "plats": {
@@ -3459,43 +3505,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-sagostund-1-3-aar-2026-2026-10-13-1030",
-      "titel": "Sagostund för barn 1-3 år",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        4
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-1-3-aar-2026/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Litteratur/Skrivande"
-        ],
-        "malgrupp": [
-          "0-4 år"
-        ],
-        "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
-      },
-      "start": "2026-10-13T10:30:00+02:00",
-      "slut": "2026-10-13T11:00:00+02:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-sagostund-graenby-allaktivitetshus-2026-10-14-1000",
       "titel": "Sagostund på Gränby allaktivitetshus",
       "plats": {
@@ -4001,44 +4010,6 @@
       },
       "start": "2026-10-18T14:00:00+02:00",
       "slut": "2026-10-18T15:00:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-spela-schack-ht26-gottsunda-2026-10-19-1500",
-      "titel": "Spela schack",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        18
-      ],
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spela-schack-ht26-gottsunda/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Övrigt"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år",
-          "13-15 år",
-          "16-18 år"
-        ],
-        "adress": "Gottsundabiblioteket, Valthornsvägen 11, Uppsala"
-      },
-      "start": "2026-10-19T15:00:00+02:00",
-      "slut": "2026-10-19T16:00:00+02:00",
       "langvarig": false
     },
     {
@@ -5784,6 +5755,54 @@
       "langvarig": true
     },
     {
+      "id": "kubik-mask-verkstad-foer-alla-aaldrar",
+      "titel": "Mask-verkstad för alla åldrar",
+      "plats": {
+        "namn": "Fyrisgården",
+        "id": "kubik-plats-fyrisgården"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "norra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/mask-verkstad-foer-alla-aaldrar/",
+          "arrangor": "https://fyrisgarden.se/evenemang/mask-verkstad/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande",
+          "Slöjd"
+        ],
+        "malgrupp": [
+          "För alla åldrar"
+        ],
+        "adress": "Fyrisgården, Svartbäcksgatan 58, Uppsala",
+        "dagar": [
+          "må",
+          "ti",
+          "on",
+          "to",
+          "fr"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-27",
+      "langvarig": true
+    },
+    {
       "id": "kubik-pop-up-med-gottsunda-allaktivitetshus",
       "titel": "Pop Up med Gottsunda Allaktivitetshus",
       "plats": {
@@ -6189,44 +6208,6 @@
       "langvarig": false
     },
     {
-      "id": "kubik-spela-schack-ht26-gottsunda-2026-10-26-1500",
-      "titel": "Spela schack",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        18
-      ],
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spela-schack-ht26-gottsunda/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Övrigt"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år",
-          "13-15 år",
-          "16-18 år"
-        ],
-        "adress": "Gottsundabiblioteket, Valthornsvägen 11, Uppsala"
-      },
-      "start": "2026-10-26T15:00:00+01:00",
-      "slut": "2026-10-26T16:00:00+01:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-hoestlov-hos-designlabbet-graenby-allaktivitetshus-vaesen-och-sagovaerldar-2026-10-26-1530",
       "titel": "Höstlov hos Designlabbet Gränby Allaktivitetshus: Väsen och sagovärldar",
       "plats": {
@@ -6341,6 +6322,87 @@
       "start": "2026-10-26T18:00:00+01:00",
       "slut": "2026-10-26T20:00:00+01:00",
       "langvarig": false
+    },
+    {
+      "id": "kubik-poesi-pizza-2026-10-26-1800",
+      "titel": "Poesi & Pizza",
+      "plats": {
+        "namn": "Återfika",
+        "id": "kubik-plats-återfika"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        18
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/poesi-pizza/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande",
+          "Litteratur/Skrivande"
+        ],
+        "malgrupp": [
+          "10-12 år",
+          "13-15 år",
+          "16-18 år"
+        ],
+        "adress": "Återfika, Återfika, Bandstolsvägen 2, Uppsala"
+      },
+      "start": "2026-10-26T18:00:00+01:00",
+      "slut": "2026-10-26T19:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-skraecklov-paa-gdt-kulturis-hoestlovslaeger-27-29-oktober",
+      "titel": "Skräcklov på GDT – Kulturis höstlovsläger 27–29 oktober",
+      "plats": {
+        "namn": "Gottsunda Dans & Teater",
+        "id": "gottsundadt"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        12
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/skraecklov-paa-gdt-kulturis-hoestlovslaeger-27-29-oktober/",
+          "arrangor": "http://www.gottsundateater.com/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Dans",
+          "Teater"
+        ],
+        "malgrupp": [
+          "10-12 år"
+        ],
+        "adress": "Gottsunda Dans & Teater, Valthornsvägen 7, Gottsunda",
+        "tider": {
+          "start": "10:00",
+          "slut": "16:00"
+        }
+      },
+      "start": "2026-10-27",
+      "slut": "2026-10-29",
+      "langvarig": true
     },
     {
       "id": "kubik-hoestlov-paa-upplandsmuseet",
@@ -6684,6 +6746,45 @@
       },
       "start": "2026-10-27T14:00:00+01:00",
       "slut": "2026-10-27T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-myspyssel-2026-10-27-1400",
+      "titel": "Myspyssel",
+      "plats": {
+        "namn": "Gottsunda bibliotek",
+        "id": "gottsundabib"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/myspyssel/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande"
+        ],
+        "malgrupp": [
+          "0-4 år",
+          "5-6 år",
+          "7-9 år",
+          "10-12 år"
+        ],
+        "adress": "Gottsundabiblioteket, Valthornsvägen 11, Uppsala"
+      },
+      "start": "2026-10-27T14:00:00+01:00",
+      "slut": "2026-10-27T15:00:00+01:00",
       "langvarig": false
     },
     {
