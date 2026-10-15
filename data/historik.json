@@ -36,12 +36,16 @@
       {
         "datum": "2026-10-14",
         "antal": 177
+      },
+      {
+        "datum": "2026-10-15",
+        "antal": 176
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-14",
-      "antal": 177,
+      "datum": "2026-10-15",
+      "antal": 176,
       "status": "ok"
     }
   },
@@ -82,12 +86,16 @@
       {
         "datum": "2026-10-14",
         "antal": 174
+      },
+      {
+        "datum": "2026-10-15",
+        "antal": 184
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-14",
-      "antal": 174,
+      "datum": "2026-10-15",
+      "antal": 184,
       "status": "ok"
     }
   },
@@ -128,9 +136,9 @@
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-14",
-      "antal": 322,
-      "status": "ok"
+      "datum": "2026-10-15",
+      "antal": 0,
+      "status": "noll"
     }
   },
   "heja": {
@@ -170,12 +178,16 @@
       {
         "datum": "2026-10-14",
         "antal": 454
+      },
+      {
+        "datum": "2026-10-15",
+        "antal": 457
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-14",
-      "antal": 454,
+      "datum": "2026-10-15",
+      "antal": 457,
       "status": "ok"
     }
   },
@@ -216,12 +228,16 @@
       {
         "datum": "2026-10-14",
         "antal": 291
+      },
+      {
+        "datum": "2026-10-15",
+        "antal": 290
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-14",
-      "antal": 291,
+      "datum": "2026-10-15",
+      "antal": 290,
       "status": "ok"
     }
   },
@@ -262,12 +278,16 @@
       {
         "datum": "2026-10-14",
         "antal": 137
+      },
+      {
+        "datum": "2026-10-15",
+        "antal": 136
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-14",
-      "antal": 137,
+      "datum": "2026-10-15",
+      "antal": 136,
       "status": "ok"
     }
   },
@@ -304,12 +324,16 @@
       {
         "datum": "2026-10-14",
         "antal": 398
+      },
+      {
+        "datum": "2026-10-15",
+        "antal": 385
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-14",
-      "antal": 398,
+      "datum": "2026-10-15",
+      "antal": 385,
       "status": "ok"
     }
   }

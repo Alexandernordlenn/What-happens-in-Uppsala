@@ -1,13 +1,13 @@
 {
-  "matt": "2026-10-14T04:51:53.066Z",
-  "idag": "2026-10-14",
+  "matt": "2026-10-15T04:55:26.539Z",
+  "idag": "2026-10-15",
   "totalt": {
-    "antal": 1772,
-    "utanKlockslag": 0.036,
-    "ovrigt": 0.028,
-    "familjUtanAlder": 0.175,
-    "utanOmrade": 0.017,
-    "sammanslagna": 522,
+    "antal": 1764,
+    "utanKlockslag": 0.037,
+    "ovrigt": 0.03,
+    "familjUtanAlder": 0.177,
+    "utanOmrade": 0.02,
+    "sammanslagna": 535,
     "pagar14": 14,
     "borttagnaKurser": 23,
     "aiEvenemang": 0,
@@ -15,14 +15,14 @@
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
       "langvariga": 7,
-      "samma-kalla": 16,
+      "samma-kalla": 14,
       "serie-uttryckliga-datum": 7,
-      "speltid-mot-tillfallen": 10,
-      "festival": 13,
-      "lika": 229,
+      "speltid-mot-tillfallen": 12,
+      "festival": 14,
+      "lika": 231,
       "innehaller": 87,
       "likhet": 2,
-      "sport": 49
+      "sport": 48
     }
   },
   "perKalla": {
@@ -33,7 +33,7 @@
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 49,
+      "sammanslagna": 48,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -41,12 +41,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 118,
+      "antal": 120,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 80,
+      "sammanslagna": 87,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 396,
+      "antal": 383,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 143,
+      "sammanslagna": 140,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,10 +67,10 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 755,
-      "utanKlockslag": 0.04,
+      "antal": 748,
+      "utanKlockslag": 0.041,
       "ovrigt": 0.011,
-      "familjUtanAlder": 0.121,
+      "familjUtanAlder": 0.119,
       "utanOmrade": 0.008,
       "sammanslagna": 164,
       "pagar14": 0,
@@ -80,12 +80,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 247,
-      "utanKlockslag": 0.078,
-      "ovrigt": 0.101,
-      "familjUtanAlder": 0.754,
-      "utanOmrade": 0.049,
-      "sammanslagna": 236,
+      "antal": 266,
+      "utanKlockslag": 0.072,
+      "ovrigt": 0.105,
+      "familjUtanAlder": 0.775,
+      "utanOmrade": 0.064,
+      "sammanslagna": 253,
       "pagar14": 10,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -93,12 +93,12 @@
     },
     "h": {
       "namn": "Heja",
-      "antal": 404,
-      "utanKlockslag": 0.061,
-      "ovrigt": 0.03,
-      "familjUtanAlder": 0.793,
+      "antal": 408,
+      "utanKlockslag": 0.06,
+      "ovrigt": 0.032,
+      "familjUtanAlder": 0.774,
       "utanOmrade": 0.02,
-      "sammanslagna": 274,
+      "sammanslagna": 277,
       "pagar14": 5,
       "borttagnaKurser": 1,
       "aiEvenemang": 0,
@@ -108,10 +108,10 @@
       "namn": "Tickster",
       "antal": 261,
       "utanKlockslag": 0.004,
-      "ovrigt": 0.034,
+      "ovrigt": 0.038,
       "familjUtanAlder": 0.417,
       "utanOmrade": 0.019,
-      "sammanslagna": 209,
+      "sammanslagna": 218,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -246,18 +246,6 @@
     },
     {
       "regel": "samma-kalla",
-      "dag": "2026-10-14",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
       "dag": "2026-10-16",
       "plats": "konstmuseum",
       "kallor": [
@@ -271,18 +259,6 @@
     {
       "regel": "samma-kalla",
       "dag": "2026-10-17",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
-      "dag": "2026-10-14",
       "plats": "konstmuseum",
       "kallor": [
         "h",
@@ -402,7 +378,7 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-14",
+      "dag": "2026-10-21",
       "plats": "gottsundabib",
       "kallor": [
         "u",
@@ -416,11 +392,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-14",
+      "dag": "2026-10-21",
       "plats": "stadsbib",
       "kallor": [
         "u",
-        "b",
         "b",
         "b",
         "b",
@@ -572,7 +547,7 @@
       "titlar": [
         "Medan vi brinner"
       ],
-      "tillfallen": 12
+      "tillfallen": 11
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -602,6 +577,33 @@
     },
     {
       "regel": "speltid-mot-tillfallen",
+      "dag": "2026-10-25",
+      "plats": "slottshist",
+      "kallor": [
+        "d",
+        "t"
+      ],
+      "titlar": [
+        "Ficklampsvisning i slottskällarens mörker",
+        "Höstlov: Ficklampsvisning i slottskällarens mörker"
+      ],
+      "tillfallen": 5
+    },
+    {
+      "regel": "speltid-mot-tillfallen",
+      "dag": "2026-10-28",
+      "plats": "stadsteatern",
+      "kallor": [
+        "d",
+        "s"
+      ],
+      "titlar": [
+        "Monster och gudar"
+      ],
+      "tillfallen": 6
+    },
+    {
+      "regel": "speltid-mot-tillfallen",
       "dag": "2026-11-27",
       "plats": "stadsteatern",
       "kallor": [
@@ -625,7 +627,7 @@
         "Teater: Ingenmansland",
         "Ingenmansland"
       ],
-      "tillfallen": 19
+      "tillfallen": 20
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -639,7 +641,7 @@
         "Teater: Lotten von Kræmer",
         "Lotten von Kræmer"
       ],
-      "tillfallen": 5
+      "tillfallen": 6
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -768,6 +770,19 @@
     },
     {
       "regel": "festival",
+      "dag": "2027-01-30",
+      "plats": "ukk",
+      "kallor": [
+        "d",
+        "t"
+      ],
+      "titlar": [
+        "Upzala Terminus 2027 Warhammer Tournament",
+        "Upzala Terminus 2027 – Warhammer Tournament"
+      ]
+    },
+    {
+      "regel": "festival",
       "dag": "2026-11-06",
       "plats": "katalin",
       "kallor": [
@@ -832,20 +847,6 @@
         "Oktoberstämman 2026",
         "Oktoberstämman"
       ]
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-14",
-      "plats": "granbyallaktivitetshus",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Sagostund",
-        "Sagostund på Gränby allaktivitetshus"
-      ],
-      "poang": 1
     },
     {
       "regel": "lika",
@@ -2183,6 +2184,19 @@
     },
     {
       "regel": "lika",
+      "dag": "2026-10-24",
+      "plats": "celsiustorget",
+      "kallor": [
+        "u",
+        "d"
+      ],
+      "titlar": [
+        "Pimpa pumpan"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
       "dag": "2026-10-30",
       "plats": "ukk",
       "kallor": [
@@ -2266,34 +2280,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-10-14",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Simon Sorgenfrei",
-        "Författarbesök: Simon Sorgenfrei"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-10-14",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – AIK",
-        "Almtuna-AIK"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-10-15",
       "plats": "stadsbib",
       "kallor": [
@@ -2331,6 +2317,19 @@
       "titlar": [
         "Uppsala Basket – Östersund Basket (dam)",
         "Uppsala basket D-Östersund"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-10-18",
+      "plats": "slottshist",
+      "kallor": [
+        "d",
+        "h"
+      ],
+      "titlar": [
+        "Familjeverkstad: Drottning Kristina 400 år"
       ],
       "poang": 1
     },
@@ -2436,6 +2435,7 @@
       "plats": "celsiustorget",
       "kallor": [
         "u",
+        "d",
         "h"
       ],
       "titlar": [
@@ -3022,6 +3022,20 @@
       "titlar": [
         "IK Sirius – Gripen Trollhättan BK",
         "Sirius-Gripen Trollhättan"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-11-21",
+      "plats": "ukk",
+      "kallor": [
+        "u",
+        "h"
+      ],
+      "titlar": [
+        "Saffransmysteriet LasseMajas detektivbyrå",
+        "Saffransmysteriet – LasseMajas detektivbyrå"
       ],
       "poang": 1
     },
@@ -3860,34 +3874,6 @@
     },
     {
       "regel": "innehaller",
-      "dag": "2026-10-14",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "The Animals – 60th Anniversary World Tour",
-        "The Animals"
-      ],
-      "poang": 0.2
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-14",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Fredrik Ljungkvist – Konsert och Jamsession",
-        "Fredrik Ljungkvist - Konsert och jamsession!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
       "dag": "2026-10-15",
       "plats": "biotopia",
       "kallor": [
@@ -4035,6 +4021,20 @@
       "titlar": [
         "THE WATCH plays Genesis",
         "The Watch - Plays Genesis"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-10-18",
+      "plats": "slottshist",
+      "kallor": [
+        "d",
+        "h",
+        "t"
+      ],
+      "titlar": [
+        "Familjeverkstad: Drottning Kristina 400 år"
       ],
       "poang": 1
     },
@@ -4935,6 +4935,7 @@
       "plats": "ukk",
       "kallor": [
         "u",
+        "h",
         "t"
       ],
       "titlar": [
@@ -5909,6 +5910,33 @@
         "Molly Hammar"
       ],
       "poang": 1
+    },
+    {
+      "regel": "innehaller",
+      "dag": "2027-02-12",
+      "plats": "ukk",
+      "kallor": [
+        "h",
+        "t"
+      ],
+      "titlar": [
+        "Tommy Körberg",
+        "Tommy Körberg – Unplugged"
+      ],
+      "poang": 0.67
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-12",
+      "plats": "katalin",
+      "kallor": [
+        "h",
+        "t"
+      ],
+      "titlar": [
+        "Simon Superti"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -5951,14 +5979,14 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 30,
+      "varde": 28,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 16,
+      "varde": 15,
       "krav": "minst 10"
     },
     {
@@ -5986,21 +6014,21 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "2.8 %",
+      "varde": "3 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "1.7 %",
+      "varde": "2 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "3.6 %",
+      "varde": "3.7 %",
       "krav": "under 5 %"
     }
   ]

@@ -1,34 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-14T04:51:52.093Z",
-  "antal": 137,
+  "hamtad": "2026-10-15T04:55:25.890Z",
+  "antal": 136,
   "evenemang": [
-    {
-      "id": "sport-swehockey-90131077",
-      "titel": "Almtuna IS – AIK",
-      "start": "2026-10-14T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Gränby ishall",
-        "id": "granbyishall"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Ishockey",
-      "liga": "HockeyAllsvenskan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
-          "biljetter": "https://www.almtuna.com/biljettinformation"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-sportality-qhpm83sse8",
       "titel": "IK Uppsala – Kristianstads DFF (dam)",

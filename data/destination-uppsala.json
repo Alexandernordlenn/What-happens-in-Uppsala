@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-14T04:44:20.286Z",
-  "antal": 174,
+  "hamtad": "2026-10-15T04:41:25.307Z",
+  "antal": 184,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -422,75 +422,6 @@
       }
     },
     {
-      "id": "du-13x13-fran-hamiltons-huvudbry-via-algebra-och-geometri-till-supersymmetri-2",
-      "titel": "13×13: Från Hamiltons huvudbry, via algebra och geometri, till supersymmetri",
-      "start": "2026-10-14T18:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Humanistiska teatern",
-        "id": "humanistiska"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/13x13-fran-hamiltons-huvudbry-via-algebra-och-geometri-till-supersymmetri-2/",
-          "arrangor": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "ovrigt"
-        ],
-        "datum": [
-          "2026-10-14"
-        ],
-        "tider": {
-          "start": "18:30"
-        }
-      }
-    },
-    {
-      "id": "du-herman-lindqvist-foredrag-om-sveriges-1700-talshistoria",
-      "titel": "Herman Lindqvist – föredrag om Sveriges 1700-talshistoria",
-      "start": "2026-10-14T18:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Salsta slott",
-        "id": "salstaslott"
-      },
-      "kategori": "prat",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/herman-lindqvist-foredrag-om-sveriges-1700-talshistoria/",
-          "arrangor": "https://salstaslott.understory.io/experience/adae360fab4b32f6b80d94a52bbe4833"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "litteratur",
-          "ovrigt"
-        ],
-        "datum": [
-          "2026-10-14"
-        ],
-        "tider": {
-          "start": "18:30"
-        }
-      }
-    },
-    {
       "id": "du-anna-pehrsson-langtifran-var-det-en-o",
       "titel": "Anna Pehrsson – Långtifrån var det en ö",
       "start": "2026-10-15",
@@ -680,6 +611,41 @@
       }
     },
     {
+      "id": "du-familjeverkstad-drottning-kristina-400-ar",
+      "titel": "Familjeverkstad: Drottning Kristina 400 år",
+      "start": "2026-10-18T14:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist"
+      },
+      "kategori": "ovrigt",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/familjeverkstad-drottning-kristina-400-ar/",
+          "arrangor": "https://slottshistoriska.uppsala.se/sv/kalendarium/familjeverkstad-drottning-kristina-400-ar/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "aktiviteter",
+          "barn-familj"
+        ],
+        "datum": [
+          "2026-10-18"
+        ],
+        "tider": {
+          "start": "14:30"
+        }
+      }
+    },
+    {
       "id": "du-robert-wells-40-ar-vid-flygeln",
       "titel": "Robert Wells – 40 år vid flygeln",
       "start": "2026-10-18T16:00:00+02:00",
@@ -773,6 +739,40 @@
           "festival",
           "film"
         ]
+      }
+    },
+    {
+      "id": "du-nobel-60-minuter",
+      "titel": "Nobel 60 minuter",
+      "start": "2026-10-19T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala universitet",
+        "id": "du-plats-uppsala-universitet"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/nobel-60-minuter/",
+          "arrangor": "https://www.uu.se/kalendarium/2026/2026-10-19-nobel-60-minuter"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "ovrigt"
+        ],
+        "datum": [
+          "2026-10-19"
+        ],
+        "tider": {
+          "start": "18:00"
+        }
       }
     },
     {
@@ -1155,6 +1155,35 @@
       }
     },
     {
+      "id": "du-hostoppet-pa-slottet-med-spokvisningar",
+      "titel": "Höstöppet på Skokloster slott med spökvisningar",
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Skokloster slott",
+        "id": "du-plats-skokloster-slott"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/hostoppet-pa-slottet-med-spokvisningar/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn-familj",
+          "hostlov",
+          "visningar"
+        ]
+      }
+    },
+    {
       "id": "du-retro-antikmassa-2026-10",
       "titel": "Retro- & Antikmässa 2026",
       "start": "2026-10-24T10:00:00+02:00",
@@ -1260,6 +1289,42 @@
       }
     },
     {
+      "id": "du-pimpa-pumpan",
+      "titel": "Pimpa pumpan",
+      "start": "2026-10-24T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Celsiustorget",
+        "id": "du-plats-celsiustorget"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/pimpa-pumpan/",
+          "arrangor": "https://uppsalacity.se/pimpa-pumpan/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "aktiviteter",
+          "barn-familj",
+          "hostlov"
+        ],
+        "datum": [
+          "2026-10-24"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
+      }
+    },
+    {
       "id": "du-saltstank-smuggelsprit",
       "titel": "Saltstänk & Smuggelsprit",
       "start": "2026-10-24T16:00:00+02:00",
@@ -1323,6 +1388,35 @@
         "tider": {
           "start": "16:00"
         }
+      }
+    },
+    {
+      "id": "du-ficklampsvisning-i-slottskallarens-morker",
+      "titel": "Ficklampsvisning i slottskällarens mörker",
+      "start": "2026-10-25",
+      "slut": "2026-10-30",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/ficklampsvisning-i-slottskallarens-morker/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn-familj",
+          "hostlov",
+          "visningar"
+        ]
       }
     },
     {
@@ -1504,6 +1598,72 @@
         "datum": [
           "2026-10-28"
         ]
+      }
+    },
+    {
+      "id": "du-monster-och-gudar",
+      "titel": "Monster och gudar",
+      "start": "2026-10-28",
+      "slut": "2026-11-21",
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/monster-och-gudar/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn-familj",
+          "hostlov",
+          "teater"
+        ]
+      }
+    },
+    {
+      "id": "du-hisnande-halloween-klattring-pa-kfum-alnas",
+      "titel": "Hisnande Halloween-klättring på KFUM Alnäs",
+      "start": "2026-10-28T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "KFUM Alnäs Friluftsgård",
+        "id": "du-plats-kfum-alnäs-friluftsgård"
+      },
+      "kategori": "sport",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/hisnande-halloween-klattring-pa-kfum-alnas/",
+          "arrangor": "https://www.facebook.com/events/s/hisnande-halloweenklattring-pa/1726054328481957/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "aktiviteter",
+          "barn-familj",
+          "hostlov",
+          "sport"
+        ],
+        "datum": [
+          "2026-10-28"
+        ],
+        "tider": {
+          "start": "16:00"
+        }
       }
     },
     {
@@ -2262,6 +2422,41 @@
         "datum": [
           "2026-11-08"
         ]
+      }
+    },
+    {
+      "id": "du-fars-dag-2-ratters-middag-livemusikquiz",
+      "titel": "Fars Dag: 2-rätters middag & Livemusikquiz",
+      "start": "2026-11-08T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Clarion Hotel Gillet",
+        "id": "du-plats-clarion-hotel-gillet"
+      },
+      "kategori": "mat",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/fars-dag-2-ratters-middag-livemusikquiz/",
+          "arrangor": "https://www.strawberry.se/hotell/sverige/uppsala/clarion-hotel-gillet/erbjudanden/promo/SE085-fathers-day-dinner-quiz-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "aktiviteter",
+          "mat-dryck"
+        ],
+        "datum": [
+          "2026-11-08"
+        ],
+        "tider": {
+          "start": "17:00"
+        }
       }
     },
     {
@@ -3848,6 +4043,42 @@
       }
     },
     {
+      "id": "du-julmarknad-vid-hammarskogs-herrgard",
+      "titel": "Julmarknad vid Hammarskogs herrgård",
+      "start": "2026-12-06T10:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Hammarskogs Herrgård",
+        "id": "du-plats-hammarskogs-herrgård"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/julmarknad-vid-hammarskogs-herrgard/",
+          "arrangor": "https://fb.me/e/780UuszQP"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jul",
+          "julmarknad",
+          "marknad"
+        ],
+        "datum": [
+          "2026-12-06"
+        ],
+        "tider": {
+          "start": "10:00"
+        }
+      }
+    },
+    {
       "id": "du-visning-i-advent-tropiska-vaxthuset",
       "titel": "Visning i advent – Tropiska växthuset",
       "start": "2026-12-06T13:00:00+01:00",
@@ -4957,6 +5188,75 @@
       }
     },
     {
+      "id": "du-upzala-terminus-2027-warhammer-tournament",
+      "titel": "Upzala Terminus 2027 Warhammer Tournament",
+      "start": "2027-01-30T08:30:00+01:00",
+      "slut": "2027-01-31",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/upzala-terminus-2027-warhammer-tournament/",
+          "arrangor": "https://ukk.se/upzala-terminus-2027-warhammer-tournament/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "aktiviteter",
+          "ovrigt"
+        ],
+        "datum": [
+          "2027-01-31"
+        ],
+        "tider": {
+          "start": "08:30"
+        }
+      }
+    },
+    {
+      "id": "du-twa-ceremony-i-vasaborgen",
+      "titel": "TWA Ceremony i Vasaborgen",
+      "start": "2027-01-30T11:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Vasaborgen",
+        "id": "du-plats-vasaborgen"
+      },
+      "kategori": "ovrigt",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/twa-ceremony-i-vasaborgen/",
+          "arrangor": "https://www.theweddingagency.se/ceremony-vasaborgen"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "ovrigt"
+        ],
+        "datum": [
+          "2027-01-30"
+        ],
+        "tider": {
+          "start": "11:00"
+        }
+      }
+    },
+    {
       "id": "du-the-dire-straits-experience-hand-upon-the-lever-2027",
       "titel": "The Dire Straits Experience – Hand Upon The Lever 2027",
       "start": "2027-02-04",
@@ -5247,6 +5547,41 @@
         "datum": [
           "2027-02-28"
         ]
+      }
+    },
+    {
+      "id": "du-moveat-uppsala-2027-03-06",
+      "titel": "Moveat Uppsala",
+      "start": "2027-03-06T11:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "museum",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/moveat-uppsala-2027-03-06/",
+          "arrangor": "https://se.moveat.co/event/uppsala-2027-03-06"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "mat-dryck",
+          "visningar"
+        ],
+        "datum": [
+          "2027-03-06"
+        ],
+        "tider": {
+          "start": "11:00"
+        }
       }
     },
     {

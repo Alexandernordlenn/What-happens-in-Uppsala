@@ -1,16 +1,4 @@
 {
-  "https://destinationuppsala.se/event/13x13-fran-hamiltons-huvudbry-via-algebra-och-geometri-till-supersymmetri-2/": {
-    "nar": "14 oktober 2026, kl. 18.30–19.30",
-    "pris": "Gratis",
-    "arrangorensSida": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13",
-    "hamtad": "2026-10-09"
-  },
-  "https://destinationuppsala.se/event/herman-lindqvist-foredrag-om-sveriges-1700-talshistoria/": {
-    "nar": "14 oktober, 2026, kl. 18.30",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://salstaslott.understory.io/experience/adae360fab4b32f6b80d94a52bbe4833",
-    "hamtad": "2026-10-09"
-  },
   "https://destinationuppsala.se/event/eva-dahlgren-revalution-club-tour/": {
     "nar": "16 oktober 2026 kl. 19.00",
     "pris": "",
@@ -52,6 +40,18 @@
     "pris": "",
     "arrangorensSida": "https://www.siriusfotboll.se/",
     "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/familjeverkstad-drottning-kristina-400-ar/": {
+    "nar": "18 oktober 2026, kl. 14.30",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://slottshistoriska.uppsala.se/sv/kalendarium/familjeverkstad-drottning-kristina-400-ar/",
+    "hamtad": "2026-10-15"
+  },
+  "https://destinationuppsala.se/event/nobel-60-minuter/": {
+    "nar": "19 oktober 2026, kl. 18.00–19.00",
+    "pris": "Gratis",
+    "arrangorensSida": "https://www.uu.se/kalendarium/2026/2026-10-19-nobel-60-minuter",
+    "hamtad": "2026-10-15"
   },
   "https://destinationuppsala.se/event/lisa-nilsson-moter-bohuslan-big-band/": {
     "nar": "20 oktober 2026 kl. 19.30",
@@ -125,6 +125,12 @@
     "arrangorensSida": "https://www.svenskakyrkan.se/uppsala/nyheter/ett-rekviem-av-manga",
     "hamtad": "2026-10-08"
   },
+  "https://destinationuppsala.se/event/pimpa-pumpan/": {
+    "nar": "24 oktober 2026, kl. 12.00–16.00",
+    "pris": "Gratis (pumpa kostar 20 kr)",
+    "arrangorensSida": "https://uppsalacity.se/pimpa-pumpan/",
+    "hamtad": "2026-10-15"
+  },
   "https://destinationuppsala.se/event/tomas-ledin-symphonia-politropou/": {
     "nar": "25 oktober 2026 kl. 19.00",
     "pris": "",
@@ -154,6 +160,12 @@
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://www.nfbio.se/ozzy-black-sabbath-back-beginning?city=uppsala#buy-btn",
     "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/hisnande-halloween-klattring-pa-kfum-alnas/": {
+    "nar": "28 oktober 2026, kl. 16.00–18.00 och 18.00–20.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://www.facebook.com/events/s/hisnande-halloweenklattring-pa/1726054328481957/",
+    "hamtad": "2026-10-15"
   },
   "https://destinationuppsala.se/event/viktor-noren-linus-wahlgren-vara-liv-vara-musikaler/": {
     "nar": "29 oktober 2026 kl. 19.30",
@@ -262,6 +274,12 @@
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://ukk.se/jag-ar-carola-en-musikalisk-unik-livsberattelse/",
     "hamtad": "2026-10-07"
+  },
+  "https://destinationuppsala.se/event/fars-dag-2-ratters-middag-livemusikquiz/": {
+    "nar": "8 november 2026, musikquiz kl. 17.00 och 19.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://www.strawberry.se/hotell/sverige/uppsala/clarion-hotel-gillet/erbjudanden/promo/SE085-fathers-day-dinner-quiz-2026/",
+    "hamtad": "2026-10-15"
   },
   "https://destinationuppsala.se/event/13x13-radioaktiva-lakemedel-en-stralande-ide-for-framtidens-cancerbehandling/": {
     "nar": "11 november 2026, kl. 18.30–19.30",
@@ -527,6 +545,12 @@
     "arrangorensSida": "https://www.svenskakyrkan.se/uppsaladomkyrka/aktuellt",
     "hamtad": "2026-10-09"
   },
+  "https://destinationuppsala.se/event/julmarknad-vid-hammarskogs-herrgard/": {
+    "nar": "6 december 2026, kl. 10.00–15.00",
+    "pris": "Gratis",
+    "arrangorensSida": "https://fb.me/e/780UuszQP",
+    "hamtad": "2026-10-15"
+  },
   "https://destinationuppsala.se/event/fyris-comedy-stand-up-med-sommarkatten-josefin-sonck-hemlig-gast/": {
     "nar": "8 december, 2026, kl. 19.00",
     "pris": "Betald biljett krävs",
@@ -689,6 +713,18 @@
     "arrangorensSida": "https://ukk.se/ser-jag-tjock-ut-i-den-har/",
     "hamtad": "2026-10-08"
   },
+  "https://destinationuppsala.se/event/twa-ceremony-i-vasaborgen/": {
+    "nar": "30 januari 2027, från kl. 11.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://www.theweddingagency.se/ceremony-vasaborgen",
+    "hamtad": "2026-10-15"
+  },
+  "https://destinationuppsala.se/event/upzala-terminus-2027-warhammer-tournament/": {
+    "nar": "30–31 januari 2027, från kl. 08.30 den 30 januari",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://ukk.se/upzala-terminus-2027-warhammer-tournament/",
+    "hamtad": "2026-10-15"
+  },
   "https://destinationuppsala.se/event/the-dire-straits-experience-hand-upon-the-lever-2027/": {
     "nar": "4 februari 2027",
     "pris": "Betald biljett krävs",
@@ -742,6 +778,12 @@
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://www.musikiuppland.se/konsert/poste-restante-28-2/",
     "hamtad": "2026-10-13"
+  },
+  "https://destinationuppsala.se/event/moveat-uppsala-2027-03-06/": {
+    "nar": "6 mars 2027, kl. 11.00–17.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://se.moveat.co/event/uppsala-2027-03-06",
+    "hamtad": "2026-10-15"
   },
   "https://destinationuppsala.se/event/basta-bystrom-uppsala-kammarorkester/": {
     "nar": "18 mars 2027",

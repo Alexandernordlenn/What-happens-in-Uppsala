@@ -1,33 +1,9 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-10-14T04:43:28.915Z",
-  "antal": 177,
+  "hamtad": "2026-10-15T04:40:37.281Z",
+  "antal": 176,
   "evenemang": [
-    {
-      "id": "stadsteatern-125956",
-      "titel": "Medan vi brinner",
-      "start": "2026-10-14T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Lilla scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125956/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "stadsteatern-125957",
       "titel": "Medan vi brinner",
