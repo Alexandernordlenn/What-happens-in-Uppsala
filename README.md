@@ -16,7 +16,7 @@ Kort svar: **JavaScript**, både på sidan och i hämtningarna. Hämtningarna k�
 | Hämtningarna | **JavaScript som körs med Node.js** (version 22) | Node.js är ett program som kör JavaScript utanför webbläsaren, till exempel på en server. Skripten ligger i `scripts/`. |
 | Schema | **GitHub Actions** | GitHubs tjänst för att köra program automatiskt. Den startar hämtningarna varje morgon kl. 06.13 svensk sommartid (04:13 UTC). Inställningen finns i `.github/workflows/hamta-evenemang.yml`. |
 | Data | **JSON-filer** i `data/` | JSON är ett vanligt textformat för data. Sidan läser `data/sida.json`. |
-| Tester | Node.js inbyggda testverktyg | `npm test` kör 122 tester: att varje källa tolkas rätt, reglerna, dubbletterna och ett facit med 194 verkliga evenemang. |
+| Tester | Node.js inbyggda testverktyg | `npm test` kör 150 tester: att varje källa tolkas rätt, reglerna, dubbletterna och ett facit med 194 verkliga evenemang. |
 | AI (valfritt) | **Claude** via GitHub Actions | Fyller luckor som reglerna lämnar (format, dagar, ålder, kategori). Sidan fungerar utan. Se `.claude/skills/klassa/`. |
 | Paket | **npm** | Node.js pakethanterare. Projektet använder bara ett paket, `firebase-admin`, och bara när Firebase är inställt. |
 | Databas (senare) | **Firebase / Firestore** | Planerad för inloggning och sparade favoriter. Inte aktiv än. |
@@ -42,7 +42,7 @@ index.html läser data/sida.json i besökarens webbläsare
 
 ## Källor
 
-Nio källor är byggda: Tickster, Destination Uppsala, Heja Uppsala, Uppsala stadsteater, Bibliotek Uppsala, Kubik Uppsala, förbund och ligor (sport), Svenska kyrkan och Ticketmaster. Svenska kyrkan och Ticketmaster väntar på att nycklarna läggs in.
+Sexton källor är byggda: Tickster, Destination Uppsala, Heja Uppsala, Uppsala stadsteater, Bibliotek Uppsala, Kubik Uppsala, förbund och ligor (sport), Svenska kyrkan, Ticketmaster, och sju arrangörers egna öppna flöden: Musik i Uppland, Katalin, Uppsala Konsert & Kongress, Uppsala Missionskyrka, Bror Hjorths Hus, Biotopia och Fyrishov. Svenska kyrkan och Ticketmaster väntar på att nycklarna läggs in.
 
 - Hur varje källa hämtas och status: se avsnittet "Hämtningarna" i [`CLAUDE.md`](CLAUDE.md).
 - Alla källor i Uppsala och vilka API:er som ska begäras: [`KALLOR.md`](KALLOR.md).
@@ -54,7 +54,7 @@ Nio källor är byggda: Tickster, Destination Uppsala, Heja Uppsala, Uppsala sta
 |---|---|
 | `index.html` | Hela sidan |
 | `scripts/<källa>/` | En mapp per källa: `hamta.mjs` hämtar, `regler.mjs` tolkar, `regler.test.mjs` testar, `exempel*` är testdata |
-| `scripts/gemensamt/` | Delar som alla källor använder: schysst hämtning, tider, platser, kategorier, områden och åldrar |
+| `scripts/gemensamt/` | Delar som alla källor använder: schysst hämtning, tider, platser, kategorier, områden och åldrar. `wordpress.mjs` läser arrangörernas WordPress-flöden, `ical.mjs` kalenderfiler (även veckovisa upprepningar). |
 | `scripts/sport/konfig.mjs` | Vilka ligor och lag som hämtas. Uppdateras inför varje säsong. |
 | `scripts/bygg-sida.mjs` | Slår ihop alla källor till `data/sida.json`: klassning, dubbletter och sidans format |
 | `scripts/kvalitet/` | Kvalitetsmätning, personkontroller, larm och facit |

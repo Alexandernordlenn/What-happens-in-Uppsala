@@ -1,6 +1,6 @@
 # Källor för Uppsala just nu
 
-Sammanställt 25 september 2026 från en kartläggning av sport- och kulturkalendrar i Uppsala. Adresser och flöden som står som "ej kontrollerat" hittades via sökningar och behöver provas när domänerna är öppnade.
+Sammanställt 25 september 2026 från en kartläggning av sport- och kulturkalendrar i Uppsala, och uppdaterat 16 oktober 2026 efter en genomgång av arrangörernas egna öppna flöden (se "Undersökt 16 oktober" nedan).
 
 ## Det här hämtar vi i dag
 
@@ -13,6 +13,13 @@ Sammanställt 25 september 2026 från en kartläggning av sport- och kulturkalen
 | Bibliotek Uppsala | Öppet API (Axiell) | Fungerar |
 | Kubik Uppsala | Samma sökning som deras sida | Fungerar |
 | Svenska kyrkan | API med nyckel | Väntar på att `SVK_API_KEY` läggs in i GitHub |
+| Musik i Uppland | Öppet WordPress-API | Från 16 okt 2026. Bara konserter i Uppsala kommun. |
+| Katalin | Öppet WordPress-API | Från 16 okt 2026. Ger slutsålt och inställt. |
+| Uppsala Konsert & Kongress | Öppet WordPress-API | Från 16 okt 2026. UKK:s egna kategorier. |
+| Uppsala Missionskyrka | The Events Calendar (API) | Från 16 okt 2026. Gudstjänster tas bort. |
+| Bror Hjorths Hus | The Events Calendar (API) | Från 16 okt 2026. |
+| Biotopia | JSON i kalendersidan | Från 16 okt 2026. Mest datum, sällan klockslag. |
+| Fyrishov | Kalenderfil (iCal) | Från 16 okt 2026. Matcher, mässor och badaktiviteter. |
 
 ## Sport via förbunden (undersökt och byggt 25 september)
 
@@ -66,45 +73,57 @@ Gratis och utan förhandling. Ett konto räcker.
 | **Svenska kyrkan** | Nyckeln finns redan. Lägg in den som hemligheten `SVK_API_KEY` i GitHub. | Konserter och musik i Uppsala pastorat | Högt |
 | **SvFF öppna data (FOGIS)** | api-fogis-opendata.developer.azure-api.net: skapa konto och prenumeration. Mejla sedan förbundet och be om matchdata. | Just nu bara föreningar. Med matchdata: lägre divisioner som Dalkurd, Upsala IF och Sirius dam | Medel |
 | **Ticketmaster Discovery API** | developer.ticketmaster.com: skapa konto och en app, nyckeln kommer direkt. Lägg in den som `TICKETMASTER_API_KEY`. Hämtningen är redan byggd. | Större konserter och festivaler på Katalin, Fyrishov och Studenternas. 5 000 anrop per dygn, vi använder några få. | Medel |
-| **Billetto** | Skapa konto på billetto.se och hämta en nyckel till Public Event Search API | Musicum (Uppsala universitet), Upplandsmuseet och många små arrangörer | Medel |
+| **Billetto** | Skapa ett gratis arrangörskonto (billetto.se/organiser/sign_up) och skapa en nyckel under billetto.se/organiser/integrate/api_keys. Nyckeln skickas som rubriken `Api-Keypair`. Dokumentationen (api.billetto.com) stänger ute robotar, så läs den i webbläsaren och be sedan Claude bygga. | Musicum (Uppsala universitet), Upplandsmuseet, UAK och många små arrangörer. Katalin säljer en del biljetter där. | Medel |
 
 
 ## 2. Förfrågningar att skicka, i prioritetsordning
 
 | # | Vem | Be om | Ger oss |
 |---|---|---|---|
-| 1 | **Kuratorskonventet** (Nationsguiden), kuratorskonventet.se | Lov att använda Nationsguidens kalender, gärna som iCal eller JSON | Alla 13 nationers klubbar, pubar, konserter och gasquer. Vår största lucka: nattliv och studentkultur. |
-| 2 | **Uppsala universitet**, kommunikationsavdelningen, webben | Ett flöde (iCal, RSS eller JSON) från uu.se/kalendarium med publika evenemang | Öppna föreläsningar, Gustavianum, Musicum, Universitetsaulan, Botaniska trädgården, Linnéträdgården |
+| 1 | **Kuratorskonventet** (Nationsguiden), kuratorskonventet.se | Lov att använda Nationsguidens kalender, gärna som iCal eller JSON. I dag finns inget flöde, bara sidans egen sökning en dag i taget (`admin-ajax.php`), och nationernas egna sidor har inga användbara flöden. | Alla 13 nationers klubbar, pubar, konserter och gasquer, runt 40–60 per dag. Vår största lucka: nattliv och studentkultur. |
+| 2 | **Uppsala universitet**, kommunikationsavdelningen, webben | Kalendariet har redan kalenderfil, RSS och JSON (under `/appresource/`), men robots.txt stänger `/appresource` för alla robotar. Be dem öppna den för oss, eller ge oss lov. | Öppna föreläsningar, Gustavianum, Musicum, Universitetsaulan, Botaniska trädgården, Linnéträdgården. Runt 100 publika evenemang. |
 | 3 | **Uppsala kommun, kulturförvaltningen** | Ett gemensamt flöde från kommunens kalendrar | Uppsala konstmuseum, Biotopia, Bror Hjorths Hus, Teater Blanca, Kulturveckan, och Reginateatern när den öppnar igen |
 | 4 | **Kulturnatten**, kulturnatten@uppsala.se | En export av programmet inför 2027 | Hela Kulturnatten, en gång om året |
 | 5 | **Uppsala kommuns arenor** (Sportfastigheter): Studenternas, IFU Arena, Fyrishov | iCal- eller JSON-flöde från arenornas kalendrar | De flesta elitmatcher i fotboll, bandy, innebandy och basket, och andra arrangemang. Det är offentlig verksamhet. |
 | 6 | **Profixio**, profixio.com/app/docs | En läsnyckel (`X-Api-Secret`) för publika matcher | Handboll, basket och volleyboll med en och samma nyckel |
-| 7 | **Region Uppsala / Musik i Uppland** | Ett flöde från konsertkalendern | Uppsala Kammarorkester och regionens konserter |
-| 8 | **Studieförbunden** (Sensus, ABF, Studiefrämjandet, Medborgarskolan, Folkuniversitetet, Bilda), deras nationella webbgrupper | Publika evenemang i Uppsala kommun som flöde | Föreläsningar och mindre konserter |
-| 9 | **Svenska Innebandyförbundet** (iBIS API) | Ideell läsåtkomst till SSL-matcher i Uppsala. Normalt kostar det 3 000 kr per lag och säsong. | Storvreta IBK och Sirius IBK med exakta tider |
-| 10 | **Fyrisbiografen / bio.se** | Ett flöde med visningar | Film på de oberoende biograferna |
-| 11 | **Uppsala Kortfilmfestival** | Programmet som flöde | En vecka i oktober, cirka 300 filmer |
-| 12 | **Everysport Media Group** | En ideell nyckel utöver den fria nivån, som bara ger livedata | Amerikansk fotboll, rugby och mindre sporter |
-| 13 | **Ebiljett och Nortic** | Ett evenemangsflöde för arrangörerna i Uppsala | Sirius fotboll och Uppsala Basket (Ebiljett), Sirius bandy (Nortic) |
-| 14 | **Initcia** (Gratis Uppsala, Barn i Uppsala) | Samarbete eller datautbyte | Gratis- och familjeevenemang |
-| 15 | **Heja Uppsala**, tjena@hejauppsala.com | Avtal eller nyckel till deras låsta RSS | De cirka 135 evenemang som bara finns hos Heja |
+| 7 | **Studieförbunden** (Sensus, ABF, Studiefrämjandet, Medborgarskolan, Folkuniversitetet, Bilda), deras nationella webbgrupper | Publika evenemang i Uppsala kommun som flöde | Föreläsningar och mindre konserter |
+| 8 | **Svenska Innebandyförbundet** (iBIS API) | Ideell läsåtkomst till SSL-matcher i Uppsala. Normalt kostar det 3 000 kr per lag och säsong. | Storvreta IBK och Sirius IBK med exakta tider |
+| 9 | **Fyrisbiografen / bio.se** | Ett flöde med visningar | Film på de oberoende biograferna |
+| 10 | **Uppsala Kortfilmfestival** | Programmet som flöde | En vecka i oktober, cirka 300 filmer |
+| 11 | **Everysport Media Group** | En ideell nyckel utöver den fria nivån, som bara ger livedata | Amerikansk fotboll, rugby och mindre sporter |
+| 12 | **Ebiljett och Nortic** | Ett evenemangsflöde för arrangörerna i Uppsala | Sirius fotboll och Uppsala Basket (Ebiljett), Sirius bandy (Nortic) |
+| 13 | **Initcia** (Gratis Uppsala, Barn i Uppsala) | Samarbete eller datautbyte | Gratis- och familjeevenemang |
+| 14 | **Heja Uppsala**, tjena@hejauppsala.com | Avtal eller nyckel till deras låsta RSS | De cirka 135 evenemang som bara finns hos Heja |
 | – | **Tickster** | Ansökan är redan skickad. Påminn om inget har hänt. | Snabbare och säkrare än webbsidorna |
 
 ## 3. Öppna källor som kan byggas direkt
 
-Det här kräver inget tillstånd. Domänerna behöver bara öppnas här så att jag kan bygga och prova hämtningarna.
+Kräver inget tillstånd. Undersökt 16 oktober 2026: robots.txt tillåter, och det finns strukturerad data.
 
-| Källa | Troligt flöde (ej kontrollerat) | Ger oss |
+| Källa | Flöde | Ger oss | Status |
+|---|---|---|---|
+| IFU Arena | Arenans egen kalender: `/wp-json/gital/calendar/fetch_calendar?date=ÅÅÅÅ-MM` (en månad per anrop, HTML i JSON) | Innebandyns Allsvenskan (Sirius IBK, Hagunda) och SSL, runt 12 evenemang på sex veckor | Nästa att bygga |
+| Laget.se och Svenska lag | En kalenderfil per lag: `cal.laget.se/<lag>.ics` och `cal.svenskalag.se/<id>`. Bara matcher tas med (inte träningar). | Lägre divisioner: Upsala IF, UNIK, Uppsala BoIS, Uppsala 86ers, Uppsala Rugby med flera | Nästa att bygga, lag för lag i `scripts/sport/konfig.mjs` |
+| SLU | Sökningens JSON (`/api/search`, Uppsala = 79) och schema.org Event på varje sida | Öppna föreläsningar på Ultuna ("Värt att veta"), runt 5 publika i månaden. Mest disputationer och konferenser. | Liten, senare |
+| Universitetsbiblioteket | LibCal: `libcal.ub.uu.se` (JSON och iCal, 10 sekunder mellan anrop) | 4 publika av 48, resten är kurser. Finns också i universitetets kalendarium. | Låg prioritet |
+| Kulturoasen, Upplandsmuseet | Bara HTML (inget flöde) | Söndagskonserter och museets helgprogram, runt 5–10 i månaden | Senare, som HTML |
+| Uppsala Missionskyrka, Bror Hjorths Hus, Biotopia, Fyrishov, Katalin, UKK, Musik i Uppland | Se "Det här hämtar vi i dag" | | Byggda 16 okt 2026 |
+
+Inte värt det (undersökt 16 okt): Fyrisgården (mest läger och kurser, inga datum i flödet), Orphei Drängar och UAK (några få konserter om året, finns redan via andra), Studenternas (bara säsonger, inga datum), Slottsbiografen (säljs via Tickster), Visit Swedens öppna data (inga evenemang i Uppsala kommun), kommunens öppna data (inga evenemang).
+
+## Undersökt 16 oktober: behöver nyckel eller lov
+
+| Källa | Vad som finns | Vad som behövs |
 |---|---|---|
-| Uppsala Missionskyrka | The Events Calendar: `?ical=1` och `/wp-json/tribe/events/v1/events` | Stor konsertlokal utanför Svenska kyrkan. Gudstjänster filtreras bort med samma regler. |
-| Bror Hjorths Hus | The Events Calendar, som ovan | Utställningar och program |
-| Kulturoasen | WordPress (`/wp-json/`) | Konserter varje söndag, cirka 40 per år |
-| Biotopia | WordPress (`/wp-json/`) | Veckoaktiviteter, Torsdagskul |
-| Fyrisgården | WordPress (`/wp-json/`) | Ungdom och kultur |
-| Orphei Drängar, Uppsala Akademiska Kammarkör, Domkyrkokören | WordPress | Körkonserter |
-| Universitetsbibliotekets evenemang | LibCal, öppen iCal | Föreläsningar och utställningar |
-| Föreningar på Svenska lag och Laget.se | Kalenderfiler per lag | Upsala IF, Uppsala 86ers, Uppsala Rugby, Sirius innebandy med flera |
-| Studenternas, IFU Arena, Fyrishov | Arenornas kalendrar | Matcher och andra arrangemang (se även förfrågan 5) |
+| Billetto | Public API v3 (`billetto.se/api/v3/public/events`), svarar 401 utan nyckel | En gratis nyckel, se avsnitt 1 |
+| Profixio | Riktigt API (`X-Api-Secret`, 120 anrop per minut) | En nyckel från Profixio (förfrågan 6) |
+| Uppsala universitet | Kalenderfil, RSS och JSON, stängda i robots.txt | Lov eller att de öppnar (förfrågan 2) |
+| Nationsguiden | Ingen datakälla, bara sidans sökning dag för dag | Lov från Kuratorskonventet (förfrågan 1) |
+| Fyrisbiografen | Bara HTML med tre dagar i taget | Fråga om ett flöde (förfrågan 9) |
+| Uppsala konstmuseum | Bara en HTML-sida med månadens program | Fråga kulturförvaltningen (förfrågan 3) |
+| Kulturnatten | Ett internt JSON-API på kulturnatten.uppsala.se, inte dokumenterat | Fråga kommunen (förfrågan 4) |
+| Uppsala Kortfilmfestival | Bara HTML och PDF. Biljetterna säljs via Tickster. | Kommer via Tickster-API:t när nyckeln finns |
+| Nortic, Ebiljett | robots.txt stänger Nortics API. Ebiljett gick inte att nå. | Partneråtkomst (förfrågan 12) |
 
 ## 4. Domäner i Claudes miljö
 

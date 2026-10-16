@@ -18,6 +18,7 @@ import { iPagarRaden, overlapparPeriod, plusDagar } from "./sida.mjs";
 const KALLNAMN = {
   i: "Sport", s: "Stadsteatern", b: "Biblioteket", u: "Kubik", k: "Svenska kyrkan",
   d: "Destination Uppsala", m: "Ticketmaster", h: "Heja", t: "Tickster",
+  r: "Musik i Uppland", l: "Katalin", c: "UKK", e: "Missionskyrkan", j: "Bror Hjorths Hus", n: "Biotopia", f: "Fyrishov",
 };
 
 const minuter = (tm) => (tm ? +tm.slice(0, 2) * 60 + +tm.slice(3, 5) : null);

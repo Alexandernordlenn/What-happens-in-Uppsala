@@ -58,7 +58,7 @@ export function typer(ev) {
 // Gudstjänster, mässor, andakter, böner och meditationer tas bort.
 // "bön" träffar i början av ett ord (bönegrupp) och i slutet (morgonbön),
 // men inte "bönor".
-const GUDSTJANST_ORD =
+export const GUDSTJANST_ORD =
   /mässa|mässan|gudstjänst|andakt|meditation|(^|[^a-zåäö])bön(?!or)|bön(en|er|erna)?(?![a-zåäö])/i;
 
 export function arGudstjanst(ev) {

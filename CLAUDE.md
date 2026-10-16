@@ -54,7 +54,7 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
 Se `KALLOR.md` för hela kartläggningen: vilka API:er och flöden som ska begäras, av vem, och vilka öppna källor som kan byggas direkt.
 
 
-- Begära data från offentlig verksamhet: Reginateatern, Musik i Uppland. (Destination Uppsala, Kubik, Bibliotek Uppsala och Uppsala stadsteater hämtas redan, se "Hämtningarna".)
+- Begära data från offentlig verksamhet: Uppsala universitet (kalenderfilen finns men är stängd i robots.txt), Uppsala konstmuseum och Reginateatern. (Destination Uppsala, Kubik, Bibliotek Uppsala, Uppsala stadsteater, Musik i Uppland, UKK och Biotopia hämtas redan, se "Hämtningarna".)
 - Heja Uppsala: hämtas tillfälligt under testfasen. **Beslut 6 okt 2026 (alternativ C):** Heja ligger kvar som under testfasen, och sidan lanseras inte förrän det är löst med Heja (avtal eller nyckel).
 
 ## Datamodell
@@ -117,6 +117,13 @@ Allt körs av `.github/workflows/hamta-evenemang.yml` varje dag 04:13 UTC, och k
 | Förbund och ligor (sport) | `scripts/sport/` | Ligornas och förbundens egna system, se `scripts/sport/konfig.mjs` | Provkörd, runt 160 matcher på arenor i Uppsala. Id för ligor och lag byts varje säsong. |
 | Ticketmaster | `scripts/ticketmaster/` | Discovery API v2, sökning 25 km runt Uppsala, filtrerat på orter i kommunen | Byggd och testad mot dokumentationens exempel. Väntar på `TICKETMASTER_API_KEY`. |
 | Kubik Uppsala | `scripts/kubik/` | Samma sökning som sidan hitta-aktiviteter gör (`/partials/events/search`) | Provkörd, runt 140 aktiviteter. Perioder (återkommande aktiviteter) blir långvariga evenemang. |
+| Musik i Uppland | `scripts/musik-i-uppland/` | Öppet WordPress-API (`/wp-json/wp/v2/concert`), bara konserter i kommunen | Byggd 16 okt 2026 mot exempeldata. Biljettinformationen sparas aldrig (kan innehålla namn och telefonnummer). |
+| Katalin | `scripts/katalin/` | Öppet WordPress-API (`/wp-json/wp/v2/events`, fälten i `acf`) | Provkörd, runt 100 evenemang. Ger slutsålt och inställt. De flesta slås ihop med Tickster. |
+| Uppsala Konsert & Kongress | `scripts/ukk/` | Öppet WordPress-API, publiceringstiden är starttiden, UKK:s kategorier | Byggd mot exempeldata, runt 125 evenemang väntas. |
+| Uppsala Missionskyrka | `scripts/missionskyrkan/` | The Events Calendar (`/wp-json/tribe/events/v1/events`). robots.txt: 10 sekunder mellan anrop, inga kalenderfiler. | Provkörd, runt 65 evenemang. Gudstjänster, bibelstudier och församlingsmöten tas bort. |
+| Bror Hjorths Hus | `scripts/bror-hjorths-hus/` | The Events Calendar, museets egna kategorier | Provkörd, runt 55 evenemang (mest visningar). Kurser för vuxna tas bort. |
+| Biotopia | `scripts/biotopia/` | JSON i kalendersidan (`data-properties`) | Provkörd, runt 30 evenemang. Bara datum, utom när texten har ett enda tidsintervall. |
+| Fyrishov | `scripts/fyrishov/` | Kalenderfil från All-in-One Event Calendar, veckovisa upprepningar räknas ut | Byggd mot exempeldata. Matcher slås ihop med sporten. |
 
 Gemensamma delar i `scripts/gemensamt/`:
 
@@ -125,6 +132,7 @@ Gemensamma delar i `scripts/gemensamt/`:
 - `platser.mjs`: platstabellen med alias och vanlig kategori per plats. Lägg till platser här.
 - `kategori.mjs`: gissar kategori från text. `tid.mjs`: svensk tid med tidszon. `text.mjs`: städar HTML.
 - `firestore.mjs`: skriver till Firestore om `FIREBASE_SERVICE_ACCOUNT` finns.
+- `wordpress.mjs`: läser arrangörernas WordPress-flöden (`/wp-json/wp/v2/...` och The Events Calendar). `ical.mjs`: kalenderfiler, även veckovisa upprepningar (RRULE och EXDATE) till riktiga datum.
 
 Övrigt:
 

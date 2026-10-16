@@ -1,0 +1,58 @@
+[
+  {
+    "id": 37062,
+    "date": "2026-10-16T12:15:00",
+    "date_gmt": "2026-10-16T10:15:00",
+    "link": "https://ukk.se/lunchkonsert-akessonger/",
+    "title": { "rendered": "Lunch&shy;konsert – Åkessonger" },
+    "class_list": ["category-nostalgi-tribute", "tag-lunchkonsert", "tag-student", "tag-mhv"]
+  },
+  {
+    "id": 34016,
+    "date": "2026-10-16T19:00:00",
+    "date_gmt": "2026-10-16T17:00:00",
+    "link": "https://ukk.se/eva-dahlgren-revalution-club-tour/",
+    "title": { "rendered": "Eva Dahlgren – Revalution Club Tour" },
+    "class_list": ["category-pop-rock", "tag-publikfavoriter"]
+  },
+  {
+    "id": 44566,
+    "date": "2026-10-16T20:00:00",
+    "date_gmt": "2026-10-16T18:00:00",
+    "link": "https://ukk.se/bill-laurance-jazzhornan/",
+    "title": { "rendered": "Bill Laurance – Jazzhörnan" },
+    "class_list": ["category-jazz", "tag-student", "tag-mhv"]
+  },
+  {
+    "id": 45001,
+    "date": "2026-10-28T11:00:00",
+    "date_gmt": "2026-10-28T10:00:00",
+    "link": "https://ukk.se/hostlov-trollkarl/",
+    "title": { "rendered": "Höstlov: Trollkarlen Tom" },
+    "class_list": ["category-barn", "category-humor", "tag-hostlov", "tag-familj"]
+  },
+  {
+    "id": 45002,
+    "date": "2026-11-20T18:30:00",
+    "date_gmt": "2026-11-20T17:30:00",
+    "link": "https://ukk.se/samtal-om-framtiden/",
+    "title": { "rendered": "Samtal om framtiden" },
+    "class_list": ["category-samtal"]
+  },
+  {
+    "id": 45003,
+    "date": "2026-12-31T19:00:00",
+    "date_gmt": "2026-12-31T18:00:00",
+    "link": "https://ukk.se/nyarsafton/",
+    "title": { "rendered": "Nyårsafton med supé" },
+    "class_list": ["category-festligheter-hogtider", "category-ovrigt"]
+  },
+  {
+    "id": 45004,
+    "date": "2026-11-05T19:30:00",
+    "date_gmt": "2026-11-05T18:30:00",
+    "link": "https://ukk.se/installd-konsert/",
+    "title": { "rendered": "INSTÄLLT – Kammarkonsert" },
+    "class_list": ["category-klassiskt"]
+  }
+]

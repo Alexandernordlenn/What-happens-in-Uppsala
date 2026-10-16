@@ -1,0 +1,166 @@
+[
+  {
+    "id": 17447,
+    "link": "https://www.katalin.com/events/jazzlunch-med-jazz-fun/",
+    "title": {
+      "rendered": "Jazzlunch med Jazz &amp; Fun"
+    },
+    "genre_slugs": [
+      "jazz"
+    ],
+    "stage_slugs": [
+      "jazzbaren"
+    ],
+    "acf": {
+      "date_of_event": "20261215",
+      "time": "12:00:00",
+      "ticket_status": "free",
+      "ticket_price": "Fri entré",
+      "book_a_ticket": ""
+    }
+  },
+  {
+    "id": 16931,
+    "link": "https://www.katalin.com/events/daniel-lemma-katalins-bakficka/",
+    "title": {
+      "rendered": "Daniel Lemma &#8211; Katalins Bakficka"
+    },
+    "genre_slugs": [
+      "folk-roots"
+    ],
+    "stage_slugs": [
+      "jazzbaren"
+    ],
+    "acf": {
+      "date_of_event": "20261022",
+      "time": "20:00:00",
+      "ticket_status": "usual",
+      "ticket_price": "365.- ex serviceavgift",
+      "book_a_ticket": "https://secure.tickster.com/sv/1n30wv8krbb0r9t/products"
+    }
+  },
+  {
+    "id": 16862,
+    "link": "https://www.katalin.com/events/shurman-klubb-uffe/",
+    "title": {
+      "rendered": "Shurman &#8211; Klubb Uffe"
+    },
+    "genre_slugs": [
+      "americana"
+    ],
+    "stage_slugs": [
+      "jazzbaren"
+    ],
+    "acf": {
+      "date_of_event": "20261103",
+      "time": "20:00:00",
+      "ticket_status": "canceled",
+      "ticket_price": "260 sek + service",
+      "book_a_ticket": "https://secure.tickster.com/sv/lf9epdwruu0hwk5/products"
+    }
+  },
+  {
+    "id": 17045,
+    "link": "https://www.katalin.com/events/teddybears-extrakonsert/",
+    "title": {
+      "rendered": "Teddybears &#8211; Extrakonsert"
+    },
+    "genre_slugs": [
+      "elektroniskt",
+      "hip-hop",
+      "indie",
+      "punk",
+      "rock"
+    ],
+    "stage_slugs": [
+      "scen"
+    ],
+    "acf": {
+      "date_of_event": "20261019",
+      "time": "20:00:00",
+      "ticket_status": "outsold",
+      "ticket_price": "625 sek + service",
+      "book_a_ticket": "https://secure.tickster.com/43xuemdp9dxjhd6"
+    }
+  },
+  {
+    "id": 17452,
+    "link": "https://www.katalin.com/events/dessi-hietala-sveriges-samsta-norrlanning/",
+    "title": {
+      "rendered": "Dessi Hietala – Sveriges sämsta norrlänning"
+    },
+    "genre_slugs": [
+      "stand-up"
+    ],
+    "stage_slugs": [
+      "jazzbaren"
+    ],
+    "acf": {
+      "date_of_event": "20261114",
+      "time": "20:00:00",
+      "ticket_status": "usual",
+      "ticket_price": "195 sek + service",
+      "book_a_ticket": "https://biljett.kulturaktiebolaget.se/sv/f7fxnztxa068avz/products"
+    }
+  },
+  {
+    "id": 17450,
+    "link": "https://www.katalin.com/events/henning/",
+    "title": {
+      "rendered": "Henning"
+    },
+    "genre_slugs": [
+      "rock"
+    ],
+    "stage_slugs": [
+      "scen"
+    ],
+    "acf": {
+      "date_of_event": "20270318",
+      "time": "",
+      "ticket_status": "usual",
+      "ticket_price": "325 sek + service",
+      "book_a_ticket": "https://secure.tickster.com/6hthcku6uau1560"
+    }
+  },
+  {
+    "id": 17238,
+    "link": "https://www.katalin.com/events/pepperbyrds-pa-katalins-bakficka/",
+    "title": {
+      "rendered": "PEPPERBYRDS på Katalins Bakficka"
+    },
+    "genre_slugs": [
+      "jazz"
+    ],
+    "stage_slugs": [
+      "jazzbaren"
+    ],
+    "acf": {
+      "date_of_event": "20261128",
+      "time": "20:00:00",
+      "ticket_status": "usual",
+      "ticket_price": "200.- ex serviceavgift",
+      "book_a_ticket": "https://secure.tickster.com/sv/hnvxczyuh19axt4/products"
+    }
+  },
+  {
+    "id": 17228,
+    "link": "https://www.katalin.com/events/kulturnatten-13/",
+    "title": {
+      "rendered": "Kulturnatten"
+    },
+    "genre_slugs": [
+      "jazz"
+    ],
+    "stage_slugs": [
+      "scen"
+    ],
+    "acf": {
+      "date_of_event": "20260912",
+      "time": "14:30:00",
+      "ticket_status": "free",
+      "ticket_price": "Fri entré",
+      "book_a_ticket": ""
+    }
+  }
+]

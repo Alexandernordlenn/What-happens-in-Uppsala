@@ -1,0 +1,1678 @@
+{
+  "kalla": "Uppsala Missionskyrka",
+  "webbsida": "https://www.uppsalamissionskyrka.se/",
+  "hamtad": "2026-10-16T10:20:31.991Z",
+  "antal": 65,
+  "evenemang": [
+    {
+      "id": "missionskyrkan-13061",
+      "titel": "Fredagsträffen: Medicinens roll i Carl von Linnés korrespondens",
+      "start": "2026-10-16T14:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/fredagstraffen-medicinens-roll-i-carl-von-linnes-korrespondens/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-12858",
+      "titel": "Ekumenisk kvinnofrukost: 400 år med utlandskyrkan",
+      "start": "2026-10-17T10:00:00+02:00",
+      "slut": "2026-10-17T12:00:00+02:00",
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/ekumenisk-kvinnofrukost-400-ar-med-utlandskyrkan/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13022",
+      "titel": "Konsert: Mozarts Requiem",
+      "start": "2026-10-17T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-barbro-bjorklunds-kammarkor-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13133",
+      "titel": "Konsert: En afton vid Medelhavet",
+      "start": "2026-10-18T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-uppsala-blasorkester-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-12902",
+      "titel": "Litteraturkväll: Sebastian Barrys författarskap",
+      "start": "2026-10-19T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/litteraturkvall-sebastian-barrys-forfattarskap/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-10005272",
+      "titel": "Poetiskt till lunch",
+      "start": "2026-10-20T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/poetiskt-till-lunch-11/2026-10-20/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13155",
+      "titel": "Språk och värld i förändring",
+      "start": "2026-10-20T18:00:00+02:00",
+      "slut": "2026-10-20T19:30:00+02:00",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/sprak-och-varld-i-forandring-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [],
+        "adress": "Svartbäcksgatan 17, 753 75"
+      }
+    },
+    {
+      "id": "missionskyrkan-13049",
+      "titel": "Lunchmusik: Jazzt Friends och Lena Wohlfeil",
+      "start": "2026-10-21T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/lunchmusik-jazzt-friends-och-lena-wohlfeil-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13378",
+      "titel": "Rotary Välgörenhetskonsert",
+      "start": "2026-10-22T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/rotary-valgorenhetskonsert/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13063",
+      "titel": "Fredagsträffen: Ett Ord på vägen Göran Alderborn",
+      "start": "2026-10-23T14:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/fredagstraffen-ett-ord-pa-vagen-goran-alderborn/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13212",
+      "titel": "Konsert Sönerna",
+      "start": "2026-10-24T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-sonerna/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13228",
+      "titel": "Konsert: Korgossarna",
+      "start": "2026-10-25T15:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-korgossarna-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-10005273",
+      "titel": "Poetiskt till lunch",
+      "start": "2026-10-27T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/poetiskt-till-lunch-11/2026-10-27/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13051",
+      "titel": "Lunchmusik: Nina Hamrén, Erik Boström och Hans Ove Olsson",
+      "start": "2026-10-28T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/lunchmusik-nina-hamren-erik-bostrom-och-hans-ove-olsson/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13345",
+      "titel": "Kulturkväll: Mishmosh – Judiska meditationer",
+      "start": "2026-10-28T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/kulturkvall-mishmosh-judiska-meditationer-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13210",
+      "titel": "Konsert Norrlands Nations Kammarkör",
+      "start": "2026-10-30T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-norrlands-nations-kammarkor/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13095",
+      "titel": "Från mörker till ljus: I evig tid",
+      "start": "2026-10-31T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-massa-i-evig-tid/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-10005274",
+      "titel": "Poetiskt till lunch",
+      "start": "2026-11-03T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/poetiskt-till-lunch-11/2026-11-03/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13053",
+      "titel": "Lunchmusik: Jesper Rydén, orgel",
+      "start": "2026-11-04T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/lunchmusik-jesper-ryden-orgel-7/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13123",
+      "titel": "Kvällsfika med världen",
+      "start": "2026-11-04T20:00:00+01:00",
+      "slut": "2026-11-04T20:45:00+01:00",
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/kvallsfika-med-varlden-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13065",
+      "titel": "Fredagsträffen: Låtar ur Sångskafferiet",
+      "start": "2026-11-06T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/fredagstraffen-latar-ur-sangskafferiet/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13214",
+      "titel": "Jubileumskonsert La Cappella",
+      "start": "2026-11-07T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/jubileumskonsert-la-cappella/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13084",
+      "titel": "Samtal pågår i Flottsundskyrkan",
+      "start": "2026-11-08T10:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Flottsundskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/samtal-pagar-i-flottsundskyrkan-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13231",
+      "titel": "Konsert: Uppsala Akademiska Kammarkör med kören Expecto",
+      "start": "2026-11-08T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-uppsala-akademiska-kammarkor-med-koren-expecto/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-12904",
+      "titel": "Litteraturkväll: ”Det lilla huset på prärien” av Laura Ingalls Wilder",
+      "start": "2026-11-09T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/litteraturkvall-det-lilla-huset-pa-prarien-av-laura-ingalls-wilder/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-10005275",
+      "titel": "Poetiskt till lunch",
+      "start": "2026-11-10T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/poetiskt-till-lunch-11/2026-11-10/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13055",
+      "titel": "Lunchmusik: Jazz Fellows & Laura",
+      "start": "2026-11-11T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/lunchmusik-jazz-fellows-laura/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13067",
+      "titel": "Fredagsträffen: Islam i Sverige",
+      "start": "2026-11-13T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/fredagstraffen-islam-i-sverige/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13217",
+      "titel": "Konsert Eric Ericssons Kammarkör & Sveriges Ungdomskör",
+      "start": "2026-11-14T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-eric-ericssons-kammarkor-sveriges-ungdomskor/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-10005276",
+      "titel": "Poetiskt till lunch",
+      "start": "2026-11-17T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/poetiskt-till-lunch-11/2026-11-17/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13057",
+      "titel": "Lunchmusik: Anders Andersson och Kjell-Åke Nordqvist",
+      "start": "2026-11-18T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/lunchmusik-roger-burstrom/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13285",
+      "titel": "Teaterkonsert: De Andersons med Siw Malmkvist",
+      "start": "2026-11-18T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-da-andersons/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13069",
+      "titel": "Fredagsträffen: Studiebesök i Uppsala Moské",
+      "start": "2026-11-20T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/fredagstraffen-studiebesok-i-uppsala-moske/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-12861",
+      "titel": "Ekumenisk kvinnofrukost: Kvinna och biskop, de tolv första i Svenska kyrkan",
+      "start": "2026-11-21T10:00:00+01:00",
+      "slut": "2026-11-21T12:00:00+01:00",
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/ekumenisk-kvinnofrukost-kvinna-och-biskop-de-tolv-forsta-i-svenska-kyrkan/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13222",
+      "titel": "Julkonsert: Harmony Heights Chorus",
+      "start": "2026-11-21T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/julkonsert-harmony-heights-chorus/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13198",
+      "titel": "Konsert Kammarmusikföreningen",
+      "start": "2026-11-23T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-kammarmusikforeningen-42/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-10005277",
+      "titel": "Poetiskt till lunch",
+      "start": "2026-11-24T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/poetiskt-till-lunch-11/2026-11-24/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13059",
+      "titel": "Lunchmusik: Elever från Uppsala kulturskola",
+      "start": "2026-11-25T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/lunchmusik-elever-fran-uppsala-kulturskola-11/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13071",
+      "titel": "Fredagsträffen: Religionens roll i ett post-sekulärt samhälle",
+      "start": "2026-11-27T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/fredagstraffen-religionens-roll-i-ett-post-sekulart-samhalle/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-12906",
+      "titel": "Litteratur: ”Liken vi begravde” av Lina Wolff",
+      "start": "2026-11-30T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/litteratur-liken-vi-begravde-av-lina-wolff/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-10005278",
+      "titel": "Poetiskt till lunch",
+      "start": "2026-12-01T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/poetiskt-till-lunch-11/2026-12-01/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13127",
+      "titel": "Lunchmusik: GLAPP med Claes Janson – Allt mellan himmel och jord",
+      "start": "2026-12-02T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/lunchmusik-glapp-allt-mellan-himmel-och-jord/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13125",
+      "titel": "Kvällsfika med världen",
+      "start": "2026-12-02T20:00:00+01:00",
+      "slut": "2026-12-02T20:45:00+01:00",
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/kvallsfika-med-varlden-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13073",
+      "titel": "Fredagsträffen: Om politik och kristen tro i USA",
+      "start": "2026-12-04T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/fredagstraffen-om-politik-och-kristen-tro-i-usa/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-12778",
+      "titel": "Julkonsert: Loa Falkman och Tina Ahlin",
+      "start": "2026-12-04T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/julkonsert-loa-falkman-och-tina-ahlin/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13395",
+      "titel": "Julmarknad",
+      "start": "2026-12-05T11:00:00+01:00",
+      "slut": "2026-12-05T14:00:00+01:00",
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/julmarknad-5/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13423",
+      "titel": "Konsert: Candlelight: Vivaldis fyra årstider",
+      "start": "2026-12-05T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-candlelight-vivaldis-fyra-arstider/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13421",
+      "titel": "Konsert: Candlelight Hyllning till Michael Jackson",
+      "start": "2026-12-05T20:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-candlelight-hyllning-till-michael-jackson/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13086",
+      "titel": "Samtal pågår i Flottsundskyrkan",
+      "start": "2026-12-06T10:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Flottsundskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/samtal-pagar-i-flottsundskyrkan-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13308",
+      "titel": "Konsert: Bröderna Rongedal Christmas Time Is Near",
+      "start": "2026-12-06T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-broderna-rongedal-christmas-time-is-near/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13200",
+      "titel": "Konsert Kammarmusikföreningen",
+      "start": "2026-12-07T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-kammarmusikforeningen-43/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13129",
+      "titel": "Lunchmusik: Jul med Linnékvintetten",
+      "start": "2026-12-09T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/lunchmusik-jul-med-linnekvintetten/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13299",
+      "titel": "Lucia med Uppsala musikklasser",
+      "start": "2026-12-11T13:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/lucia-med-uppsala-musikklasser/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13076",
+      "titel": "Fredagsträffen: Chansons francaises",
+      "start": "2026-12-11T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/fredagstraffen-chansons-francaises/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13202",
+      "titel": "Joyful Christmas",
+      "start": "2026-12-11T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/joyful-christmas/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13397",
+      "titel": "Schysst julmarknad",
+      "start": "2026-12-12T11:00:00+01:00",
+      "slut": "2026-12-12T16:00:00+01:00",
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/schysst-julmarknad-4/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13225",
+      "titel": "Konsert: Vi sjunger in julen",
+      "start": "2026-12-12T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-vi-sjunger-in-julen/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13235",
+      "titel": "Konsert: Uppsala Blåsorkester",
+      "start": "2026-12-13T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-uppsala-blasorkester-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13131",
+      "titel": "Lunchmusik: Trio X",
+      "start": "2026-12-16T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/lunchmusik-trio-x-4/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13204",
+      "titel": "Konsert En stilla jul Anders Ekborg",
+      "start": "2026-12-18T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-en-stilla-jul-anders-ekborg/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13323",
+      "titel": "Konsert Candlelight 1: Ed Sheeran vs. Coldplay",
+      "start": "2026-12-19T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-candlelight-1-ed-sheeran-vs-coldplay/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13326",
+      "titel": "Konsert Candlelight 2: Julklassiker",
+      "start": "2026-12-19T20:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-candlelight-2-julklassiker/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13237",
+      "titel": "Konsert: Änglarnas tid",
+      "start": "2026-12-20T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-anglarnas-tid-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13418",
+      "titel": "Konsert: Candlelight Julklassiker",
+      "start": "2026-12-21T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-candlelight-julklassiker/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    },
+    {
+      "id": "missionskyrkan-13429",
+      "titel": "Konsert: Candlelight: Queen vs. ABBA",
+      "start": "2026-12-21T20:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/konsert-candlelight-queen-vs-abba/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Extern arrangör"
+        ]
+      }
+    }
+  ]
+}
