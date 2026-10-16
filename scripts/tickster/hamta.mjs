@@ -132,9 +132,20 @@ async function hamtaFranApi(nyckel) {
 
 // ---------- Webbsidorna (reserv) ----------
 
+// Ger Tickster tomma listor för alla orter har sidan troligen underhåll. Det har
+// hänt flera torsdagsmorgnar. Då väntar vi en stund och läser listorna igen.
+const RUNDOR = 3;
+const VANTA_MELLAN_RUNDOR = 10 * 60000;
+
 async function hamtaFranWebben() {
-  const allaBrickor = [];
-  for (const ort of ORTER) allaBrickor.push(...(await hamtaOrt(ort)));
+  let allaBrickor = [];
+  for (let runda = 1; runda <= RUNDOR; runda++) {
+    allaBrickor = [];
+    for (const ort of ORTER) allaBrickor.push(...(await hamtaOrt(ort)));
+    if (allaBrickor.length || runda === RUNDOR) break;
+    console.log(`Alla Ticksters listor var tomma (runda ${runda} av ${RUNDOR}). Väntar ${VANTA_MELLAN_RUNDOR / 60000} minuter och försöker igen.`);
+    await vanta(VANTA_MELLAN_RUNDOR);
+  }
   // Samma evenemang kan dyka upp flera gånger, till exempel när listan ändras medan vi läser.
   const brickor = [...new Map(allaBrickor.map((b) => [b.id, b])).values()];
 
