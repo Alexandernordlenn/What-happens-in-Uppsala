@@ -19,11 +19,11 @@ export const OMRADEN = [
 const ORD = [
   ["sodra", /gottsunda|valsätra|sunnersta|sävja|ulleråker|bergsbrunna|vilan|nåntuna|ultuna/],
   ["vastra", /stenhagen|flogsta|håga|eriksberg|kåbo|luthagen|rackarberg|norby|polacksbacken/],
-  ["ostra", /gränby|kvarngärdet|salabacke|årsta|löten|sala backe|fyrislund|boländerna|ifu arena|husbyborg|vaksala(?! torg)/],
+  ["ostra", /gränby|kvarngärdet|salabacke|årsta|löten|sala backe|fyrislund|boländerna|ifu arena|husbyborg|kvarngärdes|vaksala(?! torg)/],
   ["norra", /gamla uppsala|nyby|svartbäcken|tunabackar|librobäck|fyrishov|fyrisgården|svartbäck|ekeby|bärby|kvarnbo/],
   ["norra-land", /salsta|storvreta|vattholma|björklinge|skyttorp|lövstalöt|ramstalund|tobo|läby/],
-  ["vastra-land", /bälinge|järlåsa|vänge|ulva kvarn|gåvsta|lövsta|skuttunge|hagby|börje|jumkil/],
-  ["ostra-land", /almunge|knutby|rasbo|länna|gunsta|funbo|faringe|stavby|linnés hammarby|alsike/],
+  ["vastra-land", /bälinge|järlåsa|vänge|ulva kvarn|gåvsta|lövsta|skuttunge|hagby|börje|jumkil|hammarskog/],
+  ["ostra-land", /almunge|knutby|rasbo|länna|gunsta|funbo|faringe|stavby|linnés hammarby|alsike|lindbacken/],
 ];
 
 // Kända platser i centrum (från platstabellen i platser.mjs).
@@ -33,7 +33,7 @@ const CENTRUM = new Set([
   "domkyrkan", "missionskyrkan", "stadsbib", "brygghus", "saluhall", "birgerjarl", "flustret", "humanistiska",
   "parksnackan", "kulturoasen",
 ]);
-const CENTRUMORD = /stadsbiblioteket|läsfabriken|domkyrk|vaksala torg|stora torget|s:t eriks torg|resecentrum|stadshus|nation\b|universitetshuset|musicum|engelska parken|carolina|trefaldighet|sysslomansgatan|storgatan|bangårdsgatan|drottninggatan|kungsgatan|st olofsgatan|köttinspektionen|gillet|drabanten|kaija/;
+const CENTRUMORD = /stadsbiblioteket|läsfabriken|domkyrk|vaksala torg|stora torget|s:t eriks torg|resecentrum|stadshus|nation\b|universitetshuset|musicum|engelska parken|carolina|trefaldighet|sysslomansgatan|storgatan|bangårdsgatan|drottninggatan|kungsgatan|st olofsgatan|köttinspektionen|gillet|drabanten|kaija|tiundaskolan/;
 
 export function omradeForPlats(namn, id) {
   const text = String(namn || "").toLowerCase();

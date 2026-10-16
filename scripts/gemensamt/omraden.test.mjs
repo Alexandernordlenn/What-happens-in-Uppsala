@@ -23,3 +23,11 @@ test("ålder från etiketter och titlar", () => {
   assert.equal(spannFranText("Kim Wilde 2027"), null);
   assert.deepEqual(slaIhopSpann([[0, 4], [5, 6], null]), [0, 6]);
 });
+
+test("nya platser får område: Kvarngärdet, Lindbacken, Hammarskog, Tiundaskolan", async () => {
+  const { omradeForPlats } = await import("./omraden.mjs");
+  assert.equal(omradeForPlats("Kvarngärdesskolan idrottshall"), "ostra");
+  assert.equal(omradeForPlats("Lindbackens fritidsgård"), "ostra-land");
+  assert.equal(omradeForPlats("Hammarskogs Herrgård"), "vastra-land");
+  assert.equal(omradeForPlats("Idrottshallen på Tiundaskolan"), "centrum");
+});
