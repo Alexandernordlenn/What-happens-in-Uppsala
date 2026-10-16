@@ -1,0 +1,160 @@
+[
+ {
+  "id": 20270,
+  "status": "publish",
+  "title": "Konsert: SYMBIO",
+  "url": "https://brorhjorthshus.se/evenemang/konsert-symbio-3/",
+  "all_day": false,
+  "start_date": "2026-10-18 19:00:00",
+  "end_date": "2026-10-18 20:00:00",
+  "utc_start_date": "2026-10-18 17:00:00",
+  "utc_end_date": "2026-10-18 18:00:00",
+  "cost": "195kr",
+  "categories": [
+   {
+    "name": "Föredrag &amp; Konsert",
+    "slug": "foredrag"
+   }
+  ],
+  "tags": [],
+  "venue": {
+   "venue": "Bror Hjorths Hus",
+   "address": "Norbyvägen 26",
+   "city": "Uppsala",
+   "zip": "752 39"
+  }
+ },
+ {
+  "id": 20469,
+  "status": "publish",
+  "title": "Höstlovskonstskola för barn 8-12 år",
+  "url": "https://brorhjorthshus.se/evenemang/hostlovskonstskola-2026/2026-10-27/",
+  "all_day": false,
+  "start_date": "2026-10-27 09:00:00",
+  "end_date": "2026-10-27 14:00:00",
+  "utc_start_date": "2026-10-27 08:00:00",
+  "utc_end_date": "2026-10-27 13:00:00",
+  "cost": "350kr",
+  "categories": [
+   {
+    "name": "Barn &amp; Familj",
+    "slug": "familj"
+   },
+   {
+    "name": "Verkstad/kurs",
+    "slug": "verkstad-kurs"
+   }
+  ],
+  "tags": [],
+  "venue": {
+   "venue": "Bror Hjorths Hus",
+   "address": "Norbyvägen 26",
+   "city": "Uppsala",
+   "zip": "752 39"
+  }
+ },
+ {
+  "id": 20435,
+  "status": "publish",
+  "title": "Målerikurs för vuxna &#8211; Måla porträtt i olja",
+  "url": "https://brorhjorthshus.se/evenemang/malerikurs-for-vuxna-mala-portratt-i-olja/",
+  "all_day": false,
+  "start_date": "2026-10-28 18:00:00",
+  "end_date": "2026-10-28 20:30:00",
+  "utc_start_date": "2026-10-28 17:00:00",
+  "utc_end_date": "2026-10-28 19:30:00",
+  "cost": "1650kr",
+  "categories": [
+   {
+    "name": "Verkstad/kurs",
+    "slug": "verkstad-kurs"
+   }
+  ],
+  "tags": [],
+  "venue": {
+   "venue": "Bror Hjorths Hus",
+   "address": "Norbyvägen 26",
+   "city": "Uppsala",
+   "zip": "752 39"
+  }
+ },
+ {
+  "id": 20493,
+  "status": "publish",
+  "title": "Höstlov: Familjeverkstad",
+  "url": "https://brorhjorthshus.se/evenemang/hostlov-familjeverkstad/2026-10-29/",
+  "all_day": false,
+  "start_date": "2026-10-29 12:30:00",
+  "end_date": "2026-10-29 15:45:00",
+  "utc_start_date": "2026-10-29 11:30:00",
+  "utc_end_date": "2026-10-29 14:45:00",
+  "cost": "50kr",
+  "categories": [
+   {
+    "name": "Barn &amp; Familj",
+    "slug": "familj"
+   },
+   {
+    "name": "Verkstad/kurs",
+    "slug": "verkstad-kurs"
+   }
+  ],
+  "tags": [],
+  "venue": {
+   "venue": "Bror Hjorths Hus",
+   "address": "Norbyvägen 26",
+   "city": "Uppsala",
+   "zip": "752 39"
+  }
+ },
+ {
+  "id": 20522,
+  "status": "publish",
+  "title": "Möt konstnären: Johan Thurfjell",
+  "url": "https://brorhjorthshus.se/evenemang/mot-konstnaren-johan-thurfjell/",
+  "all_day": false,
+  "start_date": "2026-11-11 19:00:00",
+  "end_date": "2026-11-11 20:00:00",
+  "utc_start_date": "2026-11-11 18:00:00",
+  "utc_end_date": "2026-11-11 19:00:00",
+  "cost": "100kr",
+  "categories": [
+   {
+    "name": "Föredrag &amp; Konsert",
+    "slug": "foredrag"
+   }
+  ],
+  "tags": [],
+  "venue": {
+   "venue": "Bror Hjorths Hus",
+   "address": "Norbyvägen 26",
+   "city": "Uppsala",
+   "zip": "752 39"
+  }
+ },
+ {
+  "id": 20572,
+  "status": "publish",
+  "title": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+  "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-10-16/",
+  "all_day": false,
+  "start_date": "2026-10-16 14:00:00",
+  "end_date": "2026-10-16 14:30:00",
+  "utc_start_date": "2026-10-16 12:00:00",
+  "utc_end_date": "2026-10-16 12:30:00",
+  "cost": "",
+  "categories": [
+   {
+    "name": "Visning",
+    "slug": "visning"
+   }
+  ],
+  "tags": [],
+  "venue": {
+   "venue": "Bror Hjorths Hus",
+   "address": "Norbyvägen 26",
+   "city": "Uppsala",
+   "zip": "752 39"
+  }
+ }
+]

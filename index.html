@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Uppsala just nu</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 24 24%27%3E%3Crect width=%2724%27 height=%2724%27 rx=%276%27 fill=%27%230E6166%27/%3E%3Cg fill=%27%23fff%27%3E%3Crect x=%274%27 y=%2713%27 width=%273%27 height=%277%27 rx=%271%27/%3E%3Crect x=%278.5%27 y=%278%27 width=%273%27 height=%2712%27 rx=%271%27/%3E%3Crect x=%2713%27 y=%274%27 width=%273%27 height=%2716%27 rx=%271%27/%3E%3Crect x=%2717.5%27 y=%2710%27 width=%273%27 height=%2710%27 rx=%271%27/%3E%3C/g%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -242,8 +243,8 @@ a{color:var(--accent)}
 .t{display:block;font-weight:600;line-height:1.28;overflow-wrap:anywhere}
 .m{display:block;font-size:.86rem;color:var(--muted);margin-top:2px}
 .tags{display:inline-flex;flex-wrap:wrap;gap:5px;margin-top:5px}
-.tag{font-size:.74rem;font-weight:600;padding:2px 7px;border-radius:5px;background:var(--soft);border:1px solid var(--line);color:var(--muted);white-space:nowrap;max-width:100%;overflow-wrap:anywhere}
-@media (max-width:360px){.tag{white-space:normal}.ev{grid-template-columns:48px 4px minmax(0,1fr) auto;gap:0 9px}.ev .open{grid-template-columns:48px 4px minmax(0,1fr);gap:0 9px}}
+.tag{font-size:.74rem;font-weight:600;padding:2px 7px;border-radius:5px;background:var(--soft);border:1px solid var(--line);color:var(--muted);max-width:100%;overflow-wrap:anywhere}
+@media (max-width:360px){.ev{grid-template-columns:48px 4px minmax(0,1fr) auto;gap:0 9px}.ev .open{grid-template-columns:48px 4px minmax(0,1fr);gap:0 9px}}
 .tag.free{color:var(--c-sport);border-color:color-mix(in srgb,var(--c-sport) 35%,transparent)}
 .tag.merge{color:var(--accent);border-color:color-mix(in srgb,var(--accent) 40%,transparent)}
 .tag.warn{color:var(--c-mat);border-color:color-mix(in srgb,var(--c-mat) 40%,transparent)}
@@ -315,7 +316,7 @@ a{color:var(--accent)}
 .srcl li:last-child{border-bottom:1px solid var(--line)}
 .srcl .sn{font-weight:600}
 .srcl .sm{display:block;font-size:.82rem;color:var(--muted);font-weight:400}
-.srcl a{font-weight:600;white-space:nowrap}
+.srcl a{font-weight:600;text-align:right}
 .note{font-size:.88rem;color:var(--muted);background:var(--soft);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-top:14px}
 .note b{color:var(--ink)}
 .dfav{margin-top:18px;display:inline-flex;align-items:center;gap:8px}
@@ -426,24 +427,50 @@ var SRC = {
      demo:"I demon: inte med."},
   u:{name:"Kubik Uppsala", base:"https://www.kubikuppsala.se/", how:"Kommunens kalender",
      status:"Uppsala kommuns kalender för barn och unga. Återkommande aktiviteter visas de dagar de händer. Kurser och terminsaktiviteter med anmälan visas inte här, de finns hos Kubik.",
+     demo:"I demon: inte med."},
+  r:{name:"Musik i Uppland", base:"https://www.musikiuppland.se/", how:"Öppet flöde",
+     status:"Regionens konsertverksamhet, bland annat Uppsala Kammarorkester. Webbplatsens öppna dataflöde. Bara konserter i Uppsala kommun tas med.",
+     demo:"I demon: inte med."},
+  l:{name:"Katalin", base:"https://www.katalin.com/", how:"Öppet flöde",
+     status:"Katalins eget dataflöde med konserter, jazzluncher och Bakfickan, och vilka som är slutsålda eller inställda.",
+     demo:"I demon: inte med."},
+  c:{name:"Uppsala Konsert & Kongress", base:"https://ukk.se/", how:"Öppet flöde",
+     status:"UKK:s eget dataflöde med alla evenemang och UKK:s egna kategorier. Biljetterna säljs via Tickster, så samma evenemang visas bara en gång.",
+     demo:"I demon: inte med."},
+  e:{name:"Uppsala Missionskyrka", base:"https://www.uppsalamissionskyrka.se/", how:"Öppet flöde",
+     status:"Kyrkans kalender via ett öppet dataflöde. Gudstjänster, bibelstudier och församlingsmöten tas bort. Konserter, föredrag och kulturkvällar behålls.",
+     demo:"I demon: inte med."},
+  j:{name:"Bror Hjorths Hus", base:"https://brorhjorthshus.se/", how:"Öppet flöde",
+     status:"Museets program via ett öppet dataflöde: visningar, konserter, samtal och lovverkstäder. Kurser visas inte.",
+     demo:"I demon: inte med."},
+  n:{name:"Biotopia", base:"https://biotopia.nu/kalender/", how:"Kalendersidans data",
+     status:"Kommunens naturmuseum och dess utflykter till bland annat Hammarskog. Läses från kalendersidans strukturerade data. Bara datum, klockslaget står hos Biotopia.",
+     demo:"I demon: inte med."},
+  f:{name:"Fyrishov", base:"https://fyrishov.se/", how:"Öppen kalenderfil",
+     status:"Fyrishovs kalenderfil med matcher, mässor och badaktiviteter. Återkommande aktiviteter visas de dagar de händer.",
      demo:"I demon: inte med."}
 };
 var SOURCE_MAP = [
   {g:"Öppet API, skaffa nyckel direkt", items:[
-    {name:"Ticketmaster", status:"Gratis nyckel direkt, 5 000 anrop per dygn. Sök på stad eller koordinater. Täcker främst större turnéer."}
+    {name:"Ticketmaster", status:"Gratis nyckel direkt, 5 000 anrop per dygn. Hämtningen är byggd och startar när nyckeln finns. Täcker främst större turnéer."},
+    {name:"Billetto", status:"Gratis nyckel med ett arrangörskonto. Ger Musicum, Upplandsmuseet och många små arrangörer."}
   ]},
   {g:"Offentlig verksamhet, begär datan", items:[
+    {name:"Uppsala universitet", status:"Kalendariet har en färdig kalenderfil, men webbplatsens robots.txt stänger den för robotar. Be universitetet öppna den. Ger Gustavianum, Musicum, Universitetsaulan och Botaniska trädgården."},
+    {name:"Uppsala konstmuseum", status:"Bara en webbsida med månadens program, ingen kalenderfil. Be kulturförvaltningen om ett flöde."},
     {name:"Reginateatern", status:"Drivs av kommunens kulturförvaltning. Program och tider är kommunala uppgifter och kan begäras ut."},
-    {name:"Musik i Uppland", status:"Regionens konsertverksamhet. Webbplatsen tillåter inte automatiserad hämtning, så fråga Region Uppsala."},
     {name:"Kulturnatten", status:"Kommunens kulturnämnd äger evenemanget. Hela programmet kommer en gång om året och är värt en egen import."}
   ]},
   {g:"Strukturerade sidor och kalenderfiler", items:[
-    {name:"Uppsala universitet", status:"Varje evenemang har samma fält och en knapp för att lägga till i kalender. Filtrera på öppna föreläsningar och kultur, resten är interna seminarier."},
+    {name:"IFU Arena", status:"Arenans kalender har en öppen datakälla. Byggs härnäst, bland annat för innebandyns Allsvenskan."},
+    {name:"Lagens kalendrar", status:"Lag på Laget.se och Svenska lag har öppna kalenderfiler med sina matcher. Byggs lag för lag."},
     {name:"Föreningar med iCal", status:"Google Kalender, Luma och liknande ger prenumererbara kalenderlänkar. Låt föreningar klistra in sin länk i ett formulär."}
   ]},
   {g:"Kräver samarbete", items:[
+    {name:"Nationsguiden", status:"Nationernas gemensamma kalender med klubbar, pubar och konserter. Ingen öppen datakälla, så fråga Kuratorskonventet om lov."},
+    {name:"Profixio", status:"Förbundens tävlingssystem. En nyckel ger bandy, basket, handboll och volleyboll med exakta tider."},
     {name:"Nortic", status:"Biljettsystem för bland annat Uppsala domkyrkas förköp och Botaniska trädgårdens teater. Inget publikt API hittat, fråga om partneråtkomst."},
-    {name:"Nationsguiden", status:"Nationernas officiella app för evenemang. Kontakta nationerna eller appens ägare."},
+    {name:"Fyrisbiografen", status:"Bara en webbsida med visningar. Fråga om ett flöde."},
     {name:"Heja Uppsala", status:"För de små arrangörerna som bara finns där. Ett avtal eller ett ömsesidigt utbyte är rimligare än att hämta deras kalender."}
   ]},
   {g:"Går inte att hämta", items:[
@@ -694,7 +721,7 @@ var FKEY="ujn-favs-v1", favs=[];
 try{ favs = JSON.parse(localStorage.getItem(FKEY)||"[]"); if(!Array.isArray(favs)) favs=[]; }catch(err){ favs=[]; }
 function saveFavs(){ try{ localStorage.setItem(FKEY, JSON.stringify(favs)); }catch(err){} }
 var st = { q:"", period:"14", view:"list", cats:[], ages:[], areas:[], free:false, fam:false, fav:false, day:null, week:0, fopen:false, fmore:false,
-           src:{t:true,h:true,d:true,s:true,k:true,b:true,u:true,i:true,m:true} };
+           src:Object.keys(SRC).reduce(function(o,k){ o[k]=true; return o; },{}) };
 
 function srcOn(e){ return e.src.some(function(s){ return st.src[s.k]; }); }
 function activeSrc(e){ return e.src.filter(function(s){ return st.src[s.k]; }); }

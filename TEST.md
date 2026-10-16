@@ -6,27 +6,37 @@ Det här är underlaget för det första testet med fem personer. Det är ett te
 
 **Uppsala just nu** samlar allt som händer i Uppsala kommun på ett ställe: konserter, teater, sport, föredrag, utställningar och barnaktiviteter. Evenemangen hämtas automatiskt varje morgon från arrangörernas och biljettbolagens egna källor, och samma evenemang visas bara en gång även om det finns på flera ställen. Sidan visar bara fakta (vad, när och var) och länkar alltid vidare till arrangören för biljetter och mer information.
 
-Det är ett ideellt hobbyprojekt. Sidan använder inga kakor och ingen spårning.
+Det är en testversion, och namnet är ett arbetsnamn. Sidan använder inga kakor och ingen spårning.
 
 ## Välkomsttext att skicka
 
+> **Ämne:** Vill du testa "Uppsala just nu"?
+>
 > **Hej!**
 >
-> Tack för att du vill testa **Uppsala just nu**, en kalender som samlar allt som händer i Uppsala på ett ställe. Det är ett ideellt hobbyprojekt och det här är en tidig testversion.
+> Tack för att du vill testa min nya tjänst:
 >
-> **Länk:** https://alexandernordlenn.github.io/What-happens-in-Uppsala/
+> ### 📅 Uppsala just nu
+> *(arbetsnamn)*
+>
+> **Uppsala just nu** är en kalender som samlar allt som händer i Uppsala på ett ställe, till exempel konserter, teater, sport, föredrag och barnaktiviteter. Det här är en testversion.
+>
+> 👉 **Öppna Uppsala just nu:** https://alexandernordlenn.github.io/What-happens-in-Uppsala/
 >
 > Använd den som du vill, i mobilen eller på datorn. Prova gärna att:
 > 1. hitta något att göra i helgen
 > 2. hitta något för ett barn i en viss ålder (Filter → Ålder)
 > 3. spara ett par evenemang med hjärtat
 >
-> Bra att veta: inloggningen är bara en demo och inget mejl skickas. Evenemangen uppdateras varje morgon.
+> Bra att veta:
+> - Inloggningen är bara en demo. Inget mejl skickas.
+> - Evenemangen uppdateras varje morgon.
 >
 > **Berätta efteråt, gärna med skärmbilder:**
 > - Vad hittade du, och vad saknade du?
 > - Vad var krångligt eller förvirrande?
 > - Skulle du använda den igen?
+> - Har du förslag på ett bättre namn? Det är inte bestämt än.
 >
 > Svara bara på det här meddelandet. Korta svar räcker gott!
 >

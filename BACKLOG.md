@@ -19,6 +19,7 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
 - [ ] **Du:** Lägg in `TICKSTER_API_KEY` när Tickster svarar. API-vägen är redan byggd.
 - [ ] **Du:** Håll ett öga på ärenden med etiketten `larm` under *Issues*. De skapas och stängs automatiskt. Kommer en begäran om att ta bort ett evenemang (från `integritet.html`), be Claude lägga in den i `data/rattelser.json` samma dag (Ticketmasters villkor: inom 24 timmar).
 - [ ] **Claude:** Efter första körningen med det nya bygget: kontrollera kvalitetsrapporten (`data/kvalitet.json`), hur många Kubik-perioder som fick veckodagar, och att inga larm är oväntade.
+- [ ] **Claude:** Kontrollera morgonkörningen 17 okt 2026, den första för de sju nya källorna. UKK, Musik i Uppland och Fyrishov har bara provats mot exempeldata. Väntat: runt 125 från UKK, 25 från Musik i Uppland och 60 från Fyrishov. Kolla också att "Endagsevenemang utan klockslag" ligger under 5 % (Biotopia anger mest datum).
 
 - [ ] **Du:** Lägg in Svenska kyrkans nyckel som hemligheten `SVK_API_KEY` (GitHub → *Settings* → *Secrets and variables* → *Actions*). Då kommer kyrkornas konserter med nästa morgon.
 - [ ] **Claude:** Kontrollera Svenska kyrkans första riktiga körning. Fältnamnen i API-svaret är gissade och kan behöva justeras.
@@ -31,20 +32,17 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
 - [ ] **Du:** Påminn Tickster om API-ansökan om inget har hänt.
 - [ ] **Du:** Skaffa gratisnycklar som ger fler evenemang direkt:
   - [ ] Ticketmaster Discovery API: skapa konto på developer.ticketmaster.com, skapa en app, och lägg in nyckeln ("Consumer Key") som hemligheten `TICKETMASTER_API_KEY`. Hämtningen är redan byggd och startar automatiskt.
-  - [ ] Billetto (billetto.se), som ger Musicum, Upplandsmuseet och små arrangörer
+  - [ ] Billetto: skapa ett gratis arrangörskonto på billetto.se och en nyckel under *Integrera → API-nycklar*. Lägg in den som hemligheten `BILLETTO_API_KEY` och be Claude bygga hämtningen. Ger Musicum, Upplandsmuseet, UAK och små arrangörer.
 - [ ] **Du:** Skicka ett kort "ok?"-mejl till källor vi redan använder: Uppsala stadsteater, Bibliotek Uppsala, Kubik och Destination Uppsala. Tala om att vi visar deras evenemang med länk tillbaka.
 
 ## Nästa: fler källor
 
-Öppna källor som inte kräver tillstånd:
+Öppna källor som inte kräver tillstånd (undersökta 16 okt 2026, se `KALLOR.md`):
 
-- [ ] **Claude:** Uppsala Missionskyrka (kalenderfil). Konserter, gudstjänster filtreras bort.
-- [ ] **Claude:** Bror Hjorths Hus (kalenderfil)
-- [ ] **Claude:** Kulturoasen (WordPress)
-- [ ] **Claude:** Biotopia (WordPress)
-- [ ] **Claude:** Universitetsbibliotekets evenemang (LibCal, kalenderfil)
-- [ ] **Claude:** Fyrishov och IFU Arena (arenornas egna kalendrar). Cuper och arrangemang utöver ligamatcherna.
-- [ ] **Claude:** Körerna: Orphei Drängar, Uppsala Akademiska Kammarkör, Domkyrkokören
+- [ ] **Claude:** IFU Arena (arenans egen kalender). Ger innebandyns Allsvenskan (Sirius IBK, Hagunda), som saknas i dag.
+- [ ] **Claude:** Lagens kalendrar på Laget.se och Svenska lag: Upsala IF, UNIK, Uppsala BoIS, Uppsala 86ers och Uppsala Rugby. Bara matcher, inga träningar. Läggs i `scripts/sport/konfig.mjs`.
+- [ ] **Claude:** SLU:s öppna föreläsningar på Ultuna (JSON). Liten källa.
+- [ ] **Claude:** Kulturoasen och Upplandsmuseet. Bara HTML, så lägre prioritet.
 
 När nycklarna kommer:
 
@@ -95,6 +93,8 @@ Beslut som Claude tog under arbetet med `UPPDRAG-KVALITET.md`, enligt regeln "v�
 - [ ] **Löpande:** titta under *Actions* ibland. En röd körning eller en gul varning betyder att en källa har ändrat något. Du får också mejl från GitHub.
 
 ## Klart
+
+- [x] 16 okt 2026: sju nya källor med öppna flöden: Musik i Uppland, Katalin, Uppsala Konsert & Kongress, Uppsala Missionskyrka, Bror Hjorths Hus, Biotopia och Fyrishov. Kartläggning av ytterligare 25 källor (`KALLOR.md`). Rättat i mobilen: långa etiketter och källänkar gick utanför skärmen på vissa telefoner.
 
 - [x] 6 okt 2026: kvalitetslyftet (`UPPDRAG-KVALITET.md`): mätning och personkontroller, datamodell med format och stabila id, regler för kategori, format och ålder, kategorin Aktiviteter, kurser bort, dubbletter med byggnader och specialfall, sidan med utställningar, återkommande och åldersgrupper, spärr och larm, Ticksters API, lagtabell för sporten, AI-klassning (väntar på token), facit och integritetssida
 

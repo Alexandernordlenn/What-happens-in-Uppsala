@@ -1,0 +1,1526 @@
+{
+  "kalla": "Bror Hjorths Hus",
+  "webbsida": "https://brorhjorthshus.se/",
+  "hamtad": "2026-10-16T10:20:32.113Z",
+  "antal": 54,
+  "evenemang": [
+    {
+      "id": "bror-hjorths-hus-20572",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-10-16T14:00:00+02:00",
+      "slut": "2026-10-16T14:30:00+02:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-10-16/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20610",
+      "titel": "Guided tour: Bror Hjorth’s art and life",
+      "start": "2026-10-17T14:00:00+02:00",
+      "slut": "2026-10-17T14:45:00+02:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guided-tour-bror-hjorths-art-and-life-4-2026-08-15-2026-10-17/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20556",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2026-10-18T13:00:00+02:00",
+      "slut": "2026-10-18T13:30:00+02:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-10-18/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20340",
+      "titel": "Guidad visning : Bror Hjorths konst och hem",
+      "start": "2026-10-18T14:00:00+02:00",
+      "slut": "2026-10-18T14:45:00+02:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-bror-hjorths-konst-och-hem-42/2026-10-18/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20270",
+      "titel": "Konsert: SYMBIO",
+      "start": "2026-10-18T19:00:00+02:00",
+      "slut": "2026-10-18T20:00:00+02:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/konsert-symbio-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Föredrag & Konsert"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20573",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-10-22T14:00:00+02:00",
+      "slut": "2026-10-22T14:30:00+02:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-10-22/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20574",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-10-23T14:00:00+02:00",
+      "slut": "2026-10-23T14:30:00+02:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-10-23/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20248",
+      "titel": "Konsert: FOLK UNIT",
+      "start": "2026-10-23T19:00:00+02:00",
+      "slut": "2026-10-23T20:00:00+02:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/konsert-folk-unit/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Föredrag & Konsert"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20557",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2026-10-25T13:00:00+01:00",
+      "slut": "2026-10-25T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-10-25/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20341",
+      "titel": "Guidad visning : Bror Hjorths konst och hem",
+      "start": "2026-10-25T14:00:00+01:00",
+      "slut": "2026-10-25T14:45:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-bror-hjorths-konst-och-hem-42/2026-10-25/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20469",
+      "titel": "Höstlovskonstskola för barn 8-12 år",
+      "start": "2026-10-27T09:00:00+01:00",
+      "slut": "2026-10-27T14:00:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "aktivitet",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/hostlovskonstskola-2026/2026-10-27/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Barn & Familj",
+          "Verkstad/kurs"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20485",
+      "titel": "Höstlovskonstskola för barn 8-12 år",
+      "start": "2026-10-28T09:00:00+01:00",
+      "slut": "2026-10-28T14:00:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "aktivitet",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/hostlovskonstskola-2026-2026-10-28/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Barn & Familj",
+          "Verkstad/kurs"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20435",
+      "titel": "Målerikurs för vuxna – Måla porträtt i olja",
+      "start": "2026-10-28T18:00:00+01:00",
+      "slut": "2026-10-28T20:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "aktivitet",
+      "format": "kurs",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/malerikurs-for-vuxna-mala-portratt-i-olja/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Verkstad/kurs"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20493",
+      "titel": "Höstlov: Familjeverkstad",
+      "start": "2026-10-29T12:30:00+01:00",
+      "slut": "2026-10-29T15:45:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "aktivitet",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/hostlov-familjeverkstad/2026-10-29/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Barn & Familj",
+          "Verkstad/kurs"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20575",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-10-29T14:00:00+01:00",
+      "slut": "2026-10-29T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-10-29/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20496",
+      "titel": "Höstlov: Familjeverkstad",
+      "start": "2026-10-30T12:30:00+01:00",
+      "slut": "2026-10-30T15:45:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "aktivitet",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/hostlov-familjeverkstad-2026-10-30/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Barn & Familj",
+          "Verkstad/kurs"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20576",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-10-30T14:00:00+01:00",
+      "slut": "2026-10-30T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-10-30/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20497",
+      "titel": "Höstlov: Familjeverkstad",
+      "start": "2026-11-01T12:30:00+01:00",
+      "slut": "2026-11-01T15:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "aktivitet",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/hostlov-familjeverkstad-2026-11-01/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Barn & Familj",
+          "Verkstad/kurs"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20558",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2026-11-01T13:00:00+01:00",
+      "slut": "2026-11-01T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-11-01/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20342",
+      "titel": "Guidad visning : Bror Hjorths konst och hem",
+      "start": "2026-11-01T14:00:00+01:00",
+      "slut": "2026-11-01T14:45:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-bror-hjorths-konst-och-hem-42/2026-11-01/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20577",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-11-05T14:00:00+01:00",
+      "slut": "2026-11-05T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-11-05/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20578",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-11-06T14:00:00+01:00",
+      "slut": "2026-11-06T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-11-06/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20559",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2026-11-08T13:00:00+01:00",
+      "slut": "2026-11-08T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-11-08/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20640",
+      "titel": "Konsert: Erik Rydvall & Ale Möller",
+      "start": "2026-11-10T20:00:00+01:00",
+      "slut": "2026-11-10T21:00:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/konsert-erik-rydvall-ale-moller/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Föredrag & Konsert"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20522",
+      "titel": "Möt konstnären: Johan Thurfjell",
+      "start": "2026-11-11T19:00:00+01:00",
+      "slut": "2026-11-11T20:00:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "prat",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/mot-konstnaren-johan-thurfjell/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Föredrag & Konsert"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20579",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-11-12T14:00:00+01:00",
+      "slut": "2026-11-12T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-11-12/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20580",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-11-13T14:00:00+01:00",
+      "slut": "2026-11-13T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-11-13/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20276",
+      "titel": "Konsert: Täpp Ida Almlöf & Erika Lindgren Liljenstolpe",
+      "start": "2026-11-13T19:00:00+01:00",
+      "slut": "2026-11-13T20:00:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/konsert-tapp-ida-almlof-erika-lindgren-liljenstolpe/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Föredrag & Konsert"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20560",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2026-11-15T13:00:00+01:00",
+      "slut": "2026-11-15T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-11-15/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20581",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-11-19T14:00:00+01:00",
+      "slut": "2026-11-19T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-11-19/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20582",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-11-20T14:00:00+01:00",
+      "slut": "2026-11-20T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-11-20/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20611",
+      "titel": "Guided tour: Bror Hjorth’s art and life",
+      "start": "2026-11-21T14:00:00+01:00",
+      "slut": "2026-11-21T14:45:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guided-tour-bror-hjorths-art-and-life-4-2026-08-15-2026-11-21/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20561",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2026-11-22T13:00:00+01:00",
+      "slut": "2026-11-22T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-11-22/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20583",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-11-26T14:00:00+01:00",
+      "slut": "2026-11-26T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-11-26/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20584",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-11-27T14:00:00+01:00",
+      "slut": "2026-11-27T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-11-27/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20562",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2026-11-29T13:00:00+01:00",
+      "slut": "2026-11-29T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-11-29/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20585",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-12-03T14:00:00+01:00",
+      "slut": "2026-12-03T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-12-03/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20586",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-12-04T14:00:00+01:00",
+      "slut": "2026-12-04T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-12-04/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20563",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2026-12-06T13:00:00+01:00",
+      "slut": "2026-12-06T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-12-06/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20587",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-12-10T14:00:00+01:00",
+      "slut": "2026-12-10T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-12-10/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20588",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-12-11T14:00:00+01:00",
+      "slut": "2026-12-11T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-12-11/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20564",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2026-12-13T13:00:00+01:00",
+      "slut": "2026-12-13T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-12-13/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20589",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-12-17T14:00:00+01:00",
+      "slut": "2026-12-17T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-12-17/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20590",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2026-12-18T14:00:00+01:00",
+      "slut": "2026-12-18T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-12-18/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20612",
+      "titel": "Guided tour: Bror Hjorth’s art and life",
+      "start": "2026-12-19T14:00:00+01:00",
+      "slut": "2026-12-19T14:45:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guided-tour-bror-hjorths-art-and-life-4-2026-08-15-2026-12-19/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20565",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2026-12-20T13:00:00+01:00",
+      "slut": "2026-12-20T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-12-20/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20593",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2026-12-26T13:00:00+01:00",
+      "slut": "2026-12-26T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-12-26/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20566",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2026-12-27T13:00:00+01:00",
+      "slut": "2026-12-27T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-12-27/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20594",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2027-01-01T13:00:00+01:00",
+      "slut": "2027-01-01T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2027-01-01/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20567",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2027-01-03T13:00:00+01:00",
+      "slut": "2027-01-03T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2027-01-03/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20595",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2027-01-06T13:00:00+01:00",
+      "slut": "2027-01-06T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2027-01-06/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20591",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2027-01-07T14:00:00+01:00",
+      "slut": "2027-01-07T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2027-01-07/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20592",
+      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
+      "start": "2027-01-08T14:00:00+01:00",
+      "slut": "2027-01-08T14:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2027-01-08/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20568",
+      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
+      "start": "2027-01-10T13:00:00+01:00",
+      "slut": "2027-01-10T13:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2027-01-10/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    }
+  ]
+}

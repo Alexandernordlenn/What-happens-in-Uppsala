@@ -19,9 +19,13 @@ export const ETIKETT = "larm";
 const KALLNAMN = {
   "svenska-kyrkan": "Svenska kyrkan", stadsteatern: "Uppsala stadsteater", "destination-uppsala": "Destination Uppsala",
   tickster: "Tickster", bibliotek: "Bibliotek Uppsala", heja: "Heja Uppsala", kubik: "Kubik Uppsala", sport: "Sport",
-  ticketmaster: "Ticketmaster",
+  ticketmaster: "Ticketmaster", "musik-i-uppland": "Musik i Uppland", katalin: "Katalin", ukk: "Uppsala Konsert & Kongress",
+  missionskyrkan: "Uppsala Missionskyrka", "bror-hjorths-hus": "Bror Hjorths Hus", biotopia: "Biotopia", fyrishov: "Fyrishov",
 };
-const BOKSTAV_TILL_ID = { i: "sport", s: "stadsteatern", b: "bibliotek", u: "kubik", k: "svenska-kyrkan", d: "destination-uppsala", m: "ticketmaster", h: "heja", t: "tickster" };
+const BOKSTAV_TILL_ID = {
+  i: "sport", s: "stadsteatern", b: "bibliotek", u: "kubik", k: "svenska-kyrkan", d: "destination-uppsala", m: "ticketmaster", h: "heja", t: "tickster",
+  r: "musik-i-uppland", l: "katalin", c: "ukk", e: "missionskyrkan", j: "bror-hjorths-hus", n: "biotopia", f: "fyrishov",
+};
 
 // Samlar alla problem från dagens körning. Ren funktion, så att den går att testa.
 export function hittaProblem({ historik = {}, kvalitet = null, sida = null, sportLag = null, utfall = {}, harClaude = null } = {}) {

@@ -1,0 +1,104 @@
+[
+  {
+    "id": 24278,
+    "link": "https://www.musikiuppland.se/konsert/bruch-och-brahms/",
+    "title": { "rendered": "Bruch och Brahms" },
+    "class_list": ["ensembles-uppsala-kammarorkester"],
+    "acf": {
+      "plats": "Uppsala Konsert & Kongress, Stora salen",
+      "locality": "Uppsala",
+      "konserttid": "2026-10-22 19:00:00",
+      "konsertslut": "2026-10-22 21:10:00",
+      "biljettinfo": "",
+      "kopknapp": true,
+      "adress_kopknapp": "https://secure.tickster.com/tfwjdg6m57bjy8b",
+      "adress": "Vaksala Torg 1",
+      "postnummer": "753 31"
+    }
+  },
+  {
+    "id": 24772,
+    "link": "https://www.musikiuppland.se/konsert/familjekonsert-peter-och-vargen/",
+    "title": { "rendered": "Familjekonsert &#8211; Peter och vargen" },
+    "class_list": ["ensembles-barn-ungdom", "ensembles-uppsala-kammarorkester"],
+    "acf": {
+      "plats": "Uppsala Konsert & Kongress, Sal B",
+      "locality": "Uppsala",
+      "konserttid": "2026-10-24 13:00:00",
+      "konsertslut": "2026-10-24 14:00:00",
+      "biljettinfo": "Vuxen 180 kr, barn 80 kr",
+      "kopknapp": true,
+      "adress_kopknapp": "https://secure.tickster.com/dm6vj49lppufeny",
+      "adress": "Vaksala Torg 1",
+      "postnummer": "753 31"
+    }
+  },
+  {
+    "id": 25559,
+    "link": "https://www.musikiuppland.se/konsert/lena-jonsson-trio-6/",
+    "title": { "rendered": "Lena Jonsson Trio" },
+    "class_list": ["ensembles-konsertkarusellen", "cities-uppsala"],
+    "acf": {
+      "plats": "Café Bredsjön, Järlåsa",
+      "locality": "",
+      "konserttid": "2026-11-09 18:30:00",
+      "konsertslut": "",
+      "biljettinfo": "Biljettpris: 100 kr",
+      "kopknapp": false,
+      "adress_kopknapp": "",
+      "adress": "",
+      "postnummer": ""
+    }
+  },
+  {
+    "id": 25600,
+    "link": "https://www.musikiuppland.se/konsert/lunchkonsert-storvreta/",
+    "title": { "rendered": "Lunchkonsert" },
+    "class_list": ["ensembles-musik-i-uppland"],
+    "acf": {
+      "plats": "Storvreta kyrka, Storvreta",
+      "locality": "",
+      "konserttid": "2026-11-12 12:00:00",
+      "konsertslut": "",
+      "biljettinfo": "Fri entré",
+      "kopknapp": false,
+      "adress_kopknapp": "",
+      "adress": "",
+      "postnummer": ""
+    }
+  },
+  {
+    "id": 25601,
+    "link": "https://www.musikiuppland.se/konsert/kammarmusik-enkoping/",
+    "title": { "rendered": "Kammarmusik i Enköping" },
+    "class_list": ["ensembles-uppsala-kammarorkester", "cities-enkoping"],
+    "acf": {
+      "plats": "Enköpings kyrka",
+      "locality": "Enköping",
+      "konserttid": "2026-11-15 16:00:00",
+      "konsertslut": "",
+      "biljettinfo": "",
+      "kopknapp": false,
+      "adress_kopknapp": "",
+      "adress": "",
+      "postnummer": ""
+    }
+  },
+  {
+    "id": 20001,
+    "link": "https://www.musikiuppland.se/konsert/gammal-konsert/",
+    "title": { "rendered": "Konsert som redan har varit" },
+    "class_list": [],
+    "acf": {
+      "plats": "Uppsala Konsert & Kongress, Stora salen",
+      "locality": "Uppsala",
+      "konserttid": "2026-09-01 19:00:00",
+      "konsertslut": "",
+      "biljettinfo": "",
+      "kopknapp": false,
+      "adress_kopknapp": "",
+      "adress": "",
+      "postnummer": ""
+    }
+  }
+]

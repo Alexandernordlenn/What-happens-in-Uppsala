@@ -1,0 +1,906 @@
+{
+  "kalla": "Biotopia",
+  "webbsida": "https://biotopia.nu/kalender/",
+  "hamtad": "2026-10-16T10:20:32.226Z",
+  "antal": 29,
+  "evenemang": [
+    {
+      "id": "biotopia-2195",
+      "titel": "Livet i skogen",
+      "start": "2026-09-05",
+      "slut": "2026-10-18",
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2195"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "På Biotopia",
+          "Familjeaktivitet",
+          "För barn",
+          "För vuxna",
+          "Helgtema"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-1388",
+      "titel": "Höstmys med brödbak vid viltvattnet i Vedyxa",
+      "start": "2026-10-17",
+      "slut": null,
+      "plats": {
+        "namn": "Viltvattnet i Vedyxa"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=1388"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Smultronställe i Naturen",
+          "För barn",
+          "För vuxna",
+          "Med Biotopia",
+          "Utflyktsprogrammet"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2339",
+      "titel": "Vattenrådsmöte för asp och biotopvård",
+      "start": "2026-10-21",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2339"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "För vuxna",
+          "Föredrag",
+          "Med Biotopia",
+          "Onsdagskvällar",
+          "På Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2290",
+      "titel": "Torsdagskul: Bygga och flya drake!",
+      "start": "2026-10-22",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        3,
+        4
+      ],
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2290"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "På Biotopia",
+          "För barn",
+          "Med Biotopia",
+          "Torsdagskul"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-1189",
+      "titel": "Fågelholkar – höstkoll och nybyggen",
+      "start": "2026-10-24",
+      "slut": null,
+      "plats": {
+        "namn": "Hammarskog",
+        "id": "hammarskog",
+        "rum": "Naturskolan"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=1189"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Lördagar i Hammarskog",
+          "Utflyktsprogrammet"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2050",
+      "titel": "En höstnatt i Hammarskog oktober",
+      "start": "2026-10-24",
+      "slut": "2026-10-25",
+      "plats": {
+        "namn": "Hammarskog",
+        "id": "hammarskog"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2050"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Utflyktsprogrammet"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2224",
+      "titel": "Höstlov: Återbruksverkstad",
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2224"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "På Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-1191",
+      "titel": "Spök- och monsterpyssel samt korvgrillning i Karlssons källare",
+      "start": "2026-10-28",
+      "slut": null,
+      "plats": {
+        "namn": "Hammarskog",
+        "id": "hammarskog",
+        "rum": "Karlssons källare"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=1191"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "För barn",
+          "För vuxna",
+          "Lördagar i Hammarskog"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-1193",
+      "titel": "Brasmys vid Östbergstorpet",
+      "start": "2026-10-31",
+      "slut": null,
+      "plats": {
+        "namn": "Hammarskog",
+        "id": "hammarskog",
+        "rum": "Östbergstorpet"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=1193"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Lördagar i Hammarskog",
+          "Utflyktsprogrammet"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2369",
+      "titel": "Återbruksverkstad: helgtema i november",
+      "start": "2026-10-31",
+      "slut": "2026-11-22",
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2369"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "På Biotopia",
+          "Familjeaktivitet",
+          "För barn",
+          "Med Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2143",
+      "titel": "Bäbis i naturen: fast inne på Biotopia",
+      "start": "2026-11-03T10:00:00+01:00",
+      "slut": "2026-11-03T12:00:00+01:00",
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2143"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "På Biotopia",
+          "Med Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-1870",
+      "titel": "Föredrag om Vita bandet",
+      "start": "2026-11-04",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=1870"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Onsdagskvällar",
+          "För vuxna",
+          "Föredrag",
+          "Med Biotopia",
+          "På Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-1950",
+      "titel": "Laga kläder tillsammans – Mend in Public",
+      "start": "2026-11-04",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=1950"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Workshop",
+          "För vuxna",
+          "In English",
+          "Med Biotopia",
+          "Onsdagskvällar",
+          "På Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2266",
+      "titel": "Seniorlunch: Om Vinterfåglar och fågelmatning",
+      "start": "2026-11-04",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2266"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Föredrag",
+          "För vuxna",
+          "Med Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2375",
+      "titel": "Torsdagskul: Utter!",
+      "start": "2026-11-05",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        3,
+        4
+      ],
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2375"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "På Biotopia",
+          "För barn",
+          "Med Biotopia",
+          "Torsdagskul"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2403",
+      "titel": "Museidagen: baka bröd över elden",
+      "start": "2026-11-08T13:00:00+01:00",
+      "slut": "2026-11-08T15:00:00+01:00",
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2403"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Familjeaktivitet",
+          "För barn",
+          "Med Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2152",
+      "titel": "Bäbis i naturen: Barnvagnspromenad Röbo Tunåsen",
+      "start": "2026-11-10T10:00:00+01:00",
+      "slut": "2026-11-10T12:00:00+01:00",
+      "plats": {
+        "namn": "Röbo Tunåsen, samling Domaringens Skola"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2152"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Med Biotopia",
+          "På Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2379",
+      "titel": "Torsdagskul: Utter!",
+      "start": "2026-11-12",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        3,
+        4
+      ],
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2379"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "På Biotopia",
+          "För barn",
+          "Med Biotopia",
+          "Torsdagskul"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-1267",
+      "titel": "Äventyrscafé – på skidor genom svenska fjällvärlden! (Obs – ändringar kan ske!)",
+      "start": "2026-11-14",
+      "slut": null,
+      "plats": {
+        "namn": "Hammarskog",
+        "id": "hammarskog",
+        "rum": "övervåningen"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=1267"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Lördagar i Hammarskog"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-1998",
+      "titel": "Friluftsliv – en resurs för folkhälsa?",
+      "start": "2026-11-18",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=1998"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Föredrag",
+          "För vuxna",
+          "Onsdagskvällar",
+          "På Biotopia",
+          "Workshop"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2051",
+      "titel": "En höstnatt i Hammarskog november",
+      "start": "2026-11-21",
+      "slut": "2026-11-22",
+      "plats": {
+        "namn": "Hammarskog",
+        "id": "hammarskog"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2051"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Utflyktsprogrammet"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2154",
+      "titel": "Bäbis i naturen: Barnvagnspromenad Stadsskogen med glöggmys",
+      "start": "2026-11-24T10:00:00+01:00",
+      "slut": "2026-11-24T12:00:00+01:00",
+      "plats": {
+        "namn": "Stadskogen"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2154"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Med Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2384",
+      "titel": "Torsdagskul: solsystemet",
+      "start": "2026-11-26",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        3,
+        4
+      ],
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2384"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "På Biotopia",
+          "För barn",
+          "Med Biotopia",
+          "Torsdagskul"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-1195",
+      "titel": "Barnens sagostund i Hammarskogs herrgård",
+      "start": "2026-11-28",
+      "slut": null,
+      "plats": {
+        "namn": "Hammarskog",
+        "id": "hammarskog",
+        "rum": "övervåningen"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=1195"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Lördagar i Hammarskog",
+          "Med Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2268",
+      "titel": "Seniorlunch: Om Julens kryddor",
+      "start": "2026-12-02",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2268"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Föredrag",
+          "För vuxna",
+          "Med Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2387",
+      "titel": "Torsdagskul: solsystemet",
+      "start": "2026-12-03",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        3,
+        4
+      ],
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2387"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "På Biotopia",
+          "För barn",
+          "Med Biotopia",
+          "Torsdagskul"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-1952",
+      "titel": "Jul klädbyte & skapa julkläder – Mend in Public",
+      "start": "2026-12-09",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=1952"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Workshop",
+          "För vuxna",
+          "In English",
+          "Med Biotopia",
+          "Onsdagskvällar",
+          "På Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2389",
+      "titel": "Torsdagskul: NOBELFEST!",
+      "start": "2026-12-10",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        3,
+        4
+      ],
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2389"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "På Biotopia",
+          "För barn",
+          "Med Biotopia",
+          "Torsdagskul"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-1197",
+      "titel": "Braskväll med glöggmingel vid Hammarskogs herrgård",
+      "start": "2026-12-21",
+      "slut": null,
+      "plats": {
+        "namn": "Hammarskog",
+        "id": "hammarskog",
+        "rum": "Karlssons källare"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=1197"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Lördagar i Hammarskog",
+          "Utflyktsprogrammet"
+        ]
+      }
+    }
+  ]
+}

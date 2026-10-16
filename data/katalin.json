@@ -1,0 +1,2890 @@
+{
+  "kalla": "Katalin",
+  "webbsida": "https://www.katalin.com/",
+  "hamtad": "2026-10-16T10:20:31.841Z",
+  "antal": 99,
+  "evenemang": [
+    {
+      "id": "katalin-17268",
+      "titel": "Folkmusikfestival på Katalin",
+      "start": "2026-10-16T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/folkmusikfestival-pa-katalin/",
+          "biljetter": "https://secure.tickster.com/sv/zte6y43pbtbwtd3/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "folkmusik"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17236",
+      "titel": "Daniel Lantz ”Jazz Standards”",
+      "start": "2026-10-16T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/daniel-lantz-jazz-standards/",
+          "biljetter": "https://secure.tickster.com/sv/ecfx6c8gyw7bz89/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16941",
+      "titel": "Celso paco & Dynamo de Luxe",
+      "start": "2026-10-17T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/celso-paco-dynamo-de-luxekopia-katalins-bakficka/",
+          "biljetter": "https://secure.tickster.com/sv/mkk703b1mmulwez/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "afro-pop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17045",
+      "titel": "Teddybears – Extrakonsert",
+      "start": "2026-10-19T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/teddybears-extrakonsert/",
+          "biljetter": "https://secure.tickster.com/43xuemdp9dxjhd6"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "elektroniskt",
+          "hip-hop",
+          "indie",
+          "punk",
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17320",
+      "titel": "Jazzlunch med Dr Rulles Jazzklinik",
+      "start": "2026-10-20T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/jazzlunch-med-dr-rulles-jazzklinik-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17300",
+      "titel": "Andreas Hellkvist Trio",
+      "start": "2026-10-20T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/andreas-hellkvist-trio-2/",
+          "biljetter": "https://secure.tickster.com/sv/k47htwfae7c199n/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16849",
+      "titel": "Teddybears",
+      "start": "2026-10-20T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/teddybears/",
+          "biljetter": "https://secure.tickster.com/dkp90bnexze4avh"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "elektroniskt",
+          "hip-hop",
+          "indie",
+          "pop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17215",
+      "titel": "Sara Parkman",
+      "start": "2026-10-21T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/sara-parkman-2/",
+          "biljetter": "https://secure.tickster.com/78c1lm096awzf3h"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "folkmusik"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16944",
+      "titel": "Långbacka/Bådagård",
+      "start": "2026-10-21T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/langbacka-badagard-katalins-backficka/",
+          "biljetter": "https://secure.tickster.com/sv/544l30392u0ergz/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16931",
+      "titel": "Daniel Lemma",
+      "start": "2026-10-22T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/daniel-lemma-katalins-bakficka/",
+          "biljetter": "https://secure.tickster.com/sv/1n30wv8krbb0r9t/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "folk-roots"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17083",
+      "titel": "John Lindberg Trio",
+      "start": "2026-10-23T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/john-lindberg-trio-13/",
+          "biljetter": "https://secure.tickster.com/sv/b0chlt6hexgl88f/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rockabilly"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16900",
+      "titel": "William Sundman Sääf",
+      "start": "2026-10-24T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/william-sundman-saaf-2/",
+          "biljetter": "https://secure.tickster.com/sv/b63jvll7p4jt96y"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "singer-songwriter"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17322",
+      "titel": "Jazzlunch med Jazzviolinisten Gunnar Lidbergs kvartett",
+      "start": "2026-10-27T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/jazzlunch-med-jazzviolinisten-gunnar-lidbergs-kvartett/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17138",
+      "titel": "Terra – Extrakonsert",
+      "start": "2026-10-28T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/terra-extrakonsert/",
+          "biljetter": "https://secure.tickster.com/fj2mkwvn0terxl1"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "indie"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17012",
+      "titel": "Jonatan Stenson",
+      "start": "2026-10-28T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/jonatan-stenson-katalins-bakficka/",
+          "biljetter": "https://secure.tickster.com/sv/5k13eg4wze32f7l/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "blues"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17089",
+      "titel": "Terra",
+      "start": "2026-10-29T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/terra-2/",
+          "biljetter": "https://secure.tickster.com/l2ygdth812avj6e"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "indie"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17055",
+      "titel": "Gamla Grubblerier – En komisk kabaré om att åldras",
+      "start": "2026-10-29T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/gamla-grubblerier-en-komisk-kabare-om-att-aldras-4/",
+          "biljetter": "https://secure.tickster.com/sv/wmbpfkx17ehr3pl/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "underhallning"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17412",
+      "titel": "OTTO – Tribute till TOTO",
+      "start": "2026-10-30T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/otto-tribute-till-toto-2/",
+          "biljetter": "https://secure.tickster.com/sv/u51tcb05ahpfgth/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16979",
+      "titel": "The Mwuanas",
+      "start": "2026-10-30T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/mwuana-3/",
+          "biljetter": "https://secure.tickster.com/4gyb5n9pxd40zvt"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hip-hop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17410",
+      "titel": "Halloween med Fat Lizzy",
+      "start": "2026-10-31T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/halloween-med-fat-lizzy-bakfickan/",
+          "biljetter": "https://secure.tickster.com/sv/gg5dvg174ucyu11/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17212",
+      "titel": "Dungen",
+      "start": "2026-11-01T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/dungen-4/",
+          "biljetter": "https://secure.tickster.com/hay7utmctlpkd36"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "indie"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17323",
+      "titel": "Jazzlunch med Maggie & Matti Andersson och Per V Johansson",
+      "start": "2026-11-03T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/jazzlunch-med-maggie-matti-andersson-och-per-v-johansson/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17333",
+      "titel": "Four shades of grey",
+      "start": "2026-11-03T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/four-shades-of-grey-bakfickan/",
+          "biljetter": "https://secure.tickster.com/sv/e8yeczx8a5mjuw6/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16862",
+      "titel": "Shurman – Klubb Uffe",
+      "start": "2026-11-03T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/shurman-klubb-uffe/",
+          "biljetter": "https://secure.tickster.com/sv/lf9epdwruu0hwk5/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": true,
+      "fakta": {
+        "kategorier": [
+          "americana"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16821",
+      "titel": "Hardcore Superstar",
+      "start": "2026-11-04T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/hardcore-superstar-8/",
+          "biljetter": "https://secure.tickster.com/f0462pryj6lb4p7"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hardrock",
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16395",
+      "titel": "Yttling Jazz",
+      "start": "2026-11-04T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/yttling-jazz-jazzbaren/",
+          "biljetter": "https://secure.tickster.com/sv/h3hznumbfldp6vm/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17396",
+      "titel": "Oslipat med Johan Glans",
+      "start": "2026-11-05T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/oslipat-med-johan-glans/",
+          "biljetter": "https://billetto.se/e/oslipat-med-johan-glans-biljetter-1989068?bref=eyJzIjoiYmlsbGV0dG8iLCJtIjoiYmlsbGV0dG8iLCJjIjoiZmluZCIsImNvIjoiM1NFIiwidCI6MTc5MDYyMDEwM30%3D"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "katalin-17240",
+      "titel": "Phontrattarnes 70-års jubileum!",
+      "start": "2026-11-06T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/phontrattarnes-70-ars-jubileum/",
+          "biljetter": "https://secure.tickster.com/sv/j76ykfm0hjvh87g/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "underhallning"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17409",
+      "titel": "The DayTrippers",
+      "start": "2026-11-07",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/the-daytrippers-bakfickan/",
+          "biljetter": "https://secure.tickster.com/sv/317cpfzb54vve17/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop",
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17242",
+      "titel": "Phontrattarnes 70-års jubileum!",
+      "start": "2026-11-07T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/phontrattarnes-70-ars-jubileum-2/",
+          "biljetter": "https://secure.tickster.com/sv/bvlznwjvck3514f/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "underhallning"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17440",
+      "titel": "Konsertprat med Louise Palmstierna",
+      "start": "2026-11-10T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/konsertprat-med-louise-palmstierna/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16464",
+      "titel": "Rotting Christ & Grand Harvest",
+      "start": "2026-11-11T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/rotting-christ/",
+          "biljetter": "https://secure.tickster.com/hu3dyzhnhg35bvt"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "metal"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16272",
+      "titel": "Happy Birthday Neil Young!",
+      "start": "2026-11-11T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/happy-birthday-neil-young/",
+          "biljetter": "https://www.tickster.com/se/sv/events/3kpne7exwtlge3l/2026-11-11/happy-birthday-neil-young"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rocknroll"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17200",
+      "titel": "GERD",
+      "start": "2026-11-12T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/gerd-2/",
+          "biljetter": "https://secure.tickster.com/sv/agj66wep02bpn2d/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "indie"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16275",
+      "titel": "Happy Birthday Neil Young!",
+      "start": "2026-11-12T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/happy-birthday-neil-young-2/",
+          "biljetter": "https://www.tickster.com/se/sv/events/7m443cyl9c54uk1/2026-11-12/happy-birthday-neil-young"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rocknroll"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17302",
+      "titel": "Trinity",
+      "start": "2026-11-13T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/trinity/",
+          "biljetter": "https://secure.tickster.com/sv/bl9nydw5a9xa9tm/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16883",
+      "titel": "Les Big Byrd",
+      "start": "2026-11-13T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/les-big-byrd-3/",
+          "biljetter": "https://secure.tickster.com/rmgj8y2mgvljcmb"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "indie",
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17452",
+      "titel": "Dessi Hietala – Sveriges sämsta norrlänning",
+      "start": "2026-11-14T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/dessi-hietala-sveriges-samsta-norrlanning/",
+          "biljetter": "https://biljett.kulturaktiebolaget.se/sv/f7fxnztxa068avz/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "stand-up"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16897",
+      "titel": "Jonas Lundqvist",
+      "start": "2026-11-14T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/jonas-lundqvist-5/",
+          "biljetter": "https://secure.tickster.com/kr8mp1x0x3ftb6x"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "indie"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17324",
+      "titel": "Jazzlunch med Jazzfellows med Laura",
+      "start": "2026-11-17T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/jazzlunch-med-jazzfellows-med-laura/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16949",
+      "titel": "Moonica Mac",
+      "start": "2026-11-17T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/monica-mac/",
+          "biljetter": "https://secure.tickster.com/bjv49wfceyjyeef"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17169",
+      "titel": "Moonica Mac – Extrakonsert",
+      "start": "2026-11-18T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/moonica-mac-extrakonsert/",
+          "biljetter": "https://secure.tickster.com/93lgrljfzgyhazj"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "indie"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16854",
+      "titel": "Klas Toresson Konsert och jamsession!!!!",
+      "start": "2026-11-18T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/klas-toresson-konsert-och-jamsession/",
+          "biljetter": "https://secure.tickster.com/sv/kb7m0pnpp34l20x/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17218",
+      "titel": "Atomic Swing",
+      "start": "2026-11-19T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/atomic-swing-2/",
+          "biljetter": "https://secure.tickster.com/jbxpthwt3hz4nv2"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17145",
+      "titel": "Pascal",
+      "start": "2026-11-20T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/pascal-2/",
+          "biljetter": "https://secure.tickster.com/sv/p0f85rd2utcn7b5/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "indie"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16839",
+      "titel": "En kväll på Operan…",
+      "start": "2026-11-20T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/en-kvall-pa-operan/",
+          "biljetter": "https://secure.tickster.com/sv/njg90jma3embk0c/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "opera"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17128",
+      "titel": "Shadows Tribute",
+      "start": "2026-11-21T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/shadows-tribute-i-katalins-bakficka/",
+          "biljetter": "https://secure.tickster.com/sv/d68bdjx9zu6uh44/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17009",
+      "titel": "UPPSALA BLUES FESTIVAL",
+      "start": "2026-11-21T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/uppsala-blues-festival/",
+          "biljetter": "https://secure.tickster.com/sv/lyteel2l67pdxfr/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "blues"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17442",
+      "titel": "Jazzlunch ”Sinatra – All the way”",
+      "start": "2026-11-24T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/jazzlunch-sinatra-all-the-way/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17325",
+      "titel": "Den Eviga Ungdomens Stad – Rimeika hyllar Uppsala",
+      "start": "2026-11-25T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/den-eviga-ungdomens-stad-rimeika-hyllar-uppsala/",
+          "biljetter": "https://secure.tickster.com/sv/dxfaf6fvbvyz4tz/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17039",
+      "titel": "Mia Karlsson – Coming Home",
+      "start": "2026-11-26T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/mia-karlsson-coming-home-bakfickan/",
+          "biljetter": "https://biljett.kulturaktiebolaget.se/sv/8xf2tkzkgdprvd9/products?_gl=1%2Ayjx62n%2A_gcl_au%2AMTM0NTkzNTM5OS4xNzgzOTUyNDgw"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "katalin-16708",
+      "titel": "Den Svenska Björnstammen",
+      "start": "2026-11-26T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/den-svenska-bjornstammen-8/",
+          "biljetter": "https://secure.tickster.com/f2b1p11merey76h"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "katalin-17259",
+      "titel": "Gustavz Orkester",
+      "start": "2026-11-27T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/gustavz-orkester-bakfickan/",
+          "biljetter": "https://www.tickster.com/se/sv/events/3adxb3zp82edf3r/2026-11-27/gustavz-orkester-bakfickan"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16710",
+      "titel": "Den Svenska Björnstammen",
+      "start": "2026-11-27T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/den-svenska-bjornstammen-9/",
+          "biljetter": "https://secure.tickster.com/dypwy88b3nyd7xl"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "elektroniskt",
+          "indie",
+          "pop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17238",
+      "titel": "PEPPERBYRDS",
+      "start": "2026-11-28T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/pepperbyrds-pa-katalins-bakficka/",
+          "biljetter": "https://secure.tickster.com/sv/hnvxczyuh19axt4/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16374",
+      "titel": "Maggie Reilly (UK)",
+      "start": "2026-11-28T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/maggie-reilly-uk/",
+          "biljetter": "https://secure.tickster.com/zj9z073x7lux5jm"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17443",
+      "titel": "Jazzlunch / JULJAZZ med Ako & Co.",
+      "start": "2026-12-01T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/juljazz-med-ako-co/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17234",
+      "titel": "DANIEL LANTZ QUARTET ft. SARA ENGLUND",
+      "start": "2026-12-01T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/daniel-lantz-quartet-ft-sara-englund/",
+          "biljetter": "https://secure.tickster.com/sv/94lydx74zkjz6n7/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17336",
+      "titel": "Livets Orkester i Bakfickan",
+      "start": "2026-12-02T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/livets-orkester-i-bakfickan/",
+          "biljetter": "https://secure.tickster.com/sv/x5x5dy9ab9a89jy/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16697",
+      "titel": "Amanda Ginsburg- Det är jul nu igen",
+      "start": "2026-12-02T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/amanda-ginsburg-det-ar-jul-nu-igen/",
+          "biljetter": "https://secure.tickster.com/8g8b38tkxtlz0a8"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz",
+          "julkonsert"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16602",
+      "titel": "Fröken Elvis Jul",
+      "start": "2026-12-03T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/froken-elvis-jul-2/",
+          "biljetter": "https://secure.tickster.com/c5mwgtfxmh27cma"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "julkonsert"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16511",
+      "titel": "The Fantastic Four – A Motown Christmas",
+      "start": "2026-12-04T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/the-fantastic-four-a-motown-christmas-2/",
+          "biljetter": "https://biljett.kulturaktiebolaget.se/sv/hr4k0nrulzxhhd7/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "julkonsert"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16947",
+      "titel": "Pernilla Andersson – Vintersånger från Garbo",
+      "start": "2026-12-05T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/pernilla-andersson-vintersanger-fran-garbo/",
+          "biljetter": "https://secure.tickster.com/sv/jz54x83e4617292/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "julkonsert"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17445",
+      "titel": "Jazzlunch med Swingfest med John/ Ulf/ Björn",
+      "start": "2026-12-08T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/swingfest-med-john-ulf-bjorn/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17255",
+      "titel": "UUJO – Swinging Christmas",
+      "start": "2026-12-08T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/uujo-swinging-christmas/",
+          "biljetter": "https://www.tickster.com/se/sv/events/ur67mwry64zh24r/2026-12-08/uujo-swinging-christmas"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "katalin-16855",
+      "titel": "Markus Ahlberg Konsert och jamsession!!!!",
+      "start": "2026-12-09T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/markus-ahlberg-konsert-och-jamsession-2/",
+          "biljetter": "https://secure.tickster.com/sv/h029ng1tbzhfndg/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16888",
+      "titel": "Bombus & Mass Worship",
+      "start": "2026-12-11T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/bombus-mass-worship/",
+          "biljetter": "https://secure.tickster.com/sv/l9jmlxtjwwcb2ba/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hardrock",
+          "metal",
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16841",
+      "titel": "En kväll på operan…",
+      "start": "2026-12-11T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/en-kvall-pa-operan-2/",
+          "biljetter": "https://www.tickster.com/se/sv/events/mpgxk6jjd77w0vn/2026-12-11/en-kvall-pa-operan"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "opera"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17020",
+      "titel": "Emma & The Dusty Roses",
+      "start": "2026-12-12T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/emma-the-dusty-roses/",
+          "biljetter": "https://secure.tickster.com/sv/4jfal2cu9uutnh8/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "country"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16779",
+      "titel": "The Last Waltz!",
+      "start": "2026-12-12T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/the-last-waltz/",
+          "biljetter": "https://secure.tickster.com/sv/jbptmjw6b7k06a0/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17447",
+      "titel": "Jazzlunch med Jazz & Fun",
+      "start": "2026-12-15T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/jazzlunch-med-jazz-fun/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17074",
+      "titel": "Valter Nilsson – Extrakonsert",
+      "start": "2026-12-15T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/valter-nilsson-3/",
+          "biljetter": "https://secure.tickster.com/2vxg5hpyv2a43kg"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "indie"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17022",
+      "titel": "Valter Nilsson",
+      "start": "2026-12-16T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/valter-nilsson-2/",
+          "biljetter": "https://secure.tickster.com/sv/7bhdp3pf0ugbwuh/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "indie"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17266",
+      "titel": "Junior Brielle",
+      "start": "2026-12-18T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/junior-brielle-3/",
+          "biljetter": "https://secure.tickster.com/sv/9vptptkw8mm6w2c/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "indie"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17329",
+      "titel": "Charta 77 + Bonta från Asta Kask",
+      "start": "2026-12-19T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/charta-77-bonta-fran-asta-kask/",
+          "biljetter": "https://secure.tickster.com/sv/1kzcfyap0xvt3cr/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "punk"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17384",
+      "titel": "Björnarna, Perkele, Coca Carola & Digging Graves",
+      "start": "2026-12-26T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/bjornarna-perkele-coca-carola-digging-graves/",
+          "biljetter": "https://secure.tickster.com/sv/g33dw4jtaj92cj3/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "punk"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17177",
+      "titel": "Per Persson & Nya Packet",
+      "start": "2027-01-08T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/per-persson-nya-packet-4/",
+          "biljetter": "https://secure.tickster.com/aau6px0u72p8bgj"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "singer-songwriter"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17093",
+      "titel": "Elvis Presley Birthday Concert 2027",
+      "start": "2027-01-09T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/elvis-presley-birthday-party-2027/",
+          "biljetter": "https://secure.tickster.com/sv/u3uwyfm19bnxv1c/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rocknroll"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17167",
+      "titel": "LKN",
+      "start": "2027-01-15T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/lkn/",
+          "biljetter": "https://secure.tickster.com/t2pya3kfhwp6j2l"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rb"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17091",
+      "titel": "TMS BOWIE LOW+HEROES",
+      "start": "2027-01-16T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/tms-bowie-lowheroes/",
+          "biljetter": "https://secure.tickster.com/sv/7z2bw1c1xeneehb/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16825",
+      "titel": "Hannes Aitman",
+      "start": "2027-01-29T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/hannes-aitman-2/",
+          "biljetter": "https://secure.tickster.com/sv/v93449drn3txn9u/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "indie",
+          "pop",
+          "singer-songwriter"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17150",
+      "titel": "Geoff Tate – The Final Chapter",
+      "start": "2027-02-02T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/geoff-tate-the-final-chapter/",
+          "biljetter": "https://secure.tickster.com/vzxc44bxnwzezdk"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hardrock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17343",
+      "titel": "Louisiana Avenue",
+      "start": "2027-02-05T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/louisiana-avenue-3/",
+          "biljetter": "https://secure.tickster.com/sv/m38p1nue54p9r4z/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "soul"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17296",
+      "titel": "Greczula",
+      "start": "2027-02-06T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/greczula/",
+          "biljetter": "https://secure.tickster.com/abw0z29x84w9dzc"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17308",
+      "titel": "Simon Superti",
+      "start": "2027-02-12T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/simon-superti-3/",
+          "biljetter": "https://secure.tickster.com/132pra2x5t5xb26"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17310",
+      "titel": "Simon Superti",
+      "start": "2027-02-13T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/simon-superti-4/",
+          "biljetter": "https://secure.tickster.com/7de740jdu0wm74h"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17438",
+      "titel": "Svart Ridå",
+      "start": "2027-02-19T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/svart-rida/",
+          "biljetter": "https://secure.tickster.com/etxbdmcpb133bwm"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17340",
+      "titel": "Stiko Per Larsson",
+      "start": "2027-02-19T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/stiko-per-larsson-katalins-bakficka/",
+          "biljetter": "https://secure.tickster.com/sv/1ea0pntuaudmv1a/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "singer-songwriter"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17465",
+      "titel": "Fanny Avonne",
+      "start": "2027-02-20T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/fanny-avonne/",
+          "biljetter": "https://secure.tickster.com/w87zxwnw4rye3mz"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16865",
+      "titel": "Jesper Lindell & Brunnsvik Sounds – Klubb Uffe",
+      "start": "2027-02-24T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/jesper-lindell-brunnsvik-sounds-klubb-uffe/",
+          "biljetter": "https://secure.tickster.com/sv/zwj0zgdxm9jkyjy/selectproductgroup?fbclid=IwY2xjawSbdmlleHRuA2FlbQIxMABicmlkETFFc0wwYklPZFpTN245Mlg2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtvP1NTLU2TVc3g2DVWsCqYuV4bXdZLJ299xGNuiYgBMHu-oDDjIHfFhk5nr_aem_sVAoVl2R3sBi54GXQ9xZIg"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "americana"
+        ]
+      }
+    },
+    {
+      "id": "katalin-16881",
+      "titel": "Jazz på Svenska – Bröderna Johansson",
+      "start": "2027-03-02T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/jazz-pa-svenska-broderna-johansson/",
+          "biljetter": "https://secure.tickster.com/sv/uxfta84v5rjre74/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17436",
+      "titel": "Lisa Ekdahl",
+      "start": "2027-03-05T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/lisa-ekdahl-6/",
+          "biljetter": "https://secure.tickster.com/yzbv9756xctwf09"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "visa"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17431",
+      "titel": "Sunnan",
+      "start": "2027-03-12T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/sunnan/",
+          "biljetter": "https://secure.tickster.com/sv/l2eptd3za9kzdr3/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "indie"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17416",
+      "titel": "Thorbjørn Risager & The Black Tornado (DK)",
+      "start": "2027-03-13T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/thorbjorn-risager-the-black-tornado-3/",
+          "biljetter": "https://secure.tickster.com/sv/p000zrz948bn5hw/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "blues"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17450",
+      "titel": "Henning",
+      "start": "2027-03-18",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/henning/",
+          "biljetter": "https://secure.tickster.com/6hthcku6uau1560"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17159",
+      "titel": "DOKTOR GLAS – en monolog med Jens Hultén",
+      "start": "2027-04-07T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "prat",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/doktor-glas-en-monolog-med-jens-hulten/",
+          "biljetter": "https://secure.tickster.com/leu22wx8y2665zm"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "forelasning"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17311",
+      "titel": "HFMC Hasse Fröberg Musical Companion – Avskedskonsert",
+      "start": "2027-04-16T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/hfmc-avskedskonsert/",
+          "biljetter": "https://secure.tickster.com/sv/fk7zec2k51epmp6/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "progressiv-rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17382",
+      "titel": "The Orb (UK)",
+      "start": "2027-05-08T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/the-orb-uk/",
+          "biljetter": "https://secure.tickster.com/mfjx1dpux41fmva"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "elektroniskt"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17472",
+      "titel": "Nikki Hill (US)",
+      "start": "2027-05-14T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/nikki-hill-us/",
+          "biljetter": "https://secure.tickster.com/sv/lvc9neaxxek1jtx/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "blues"
+        ]
+      }
+    }
+  ]
+}

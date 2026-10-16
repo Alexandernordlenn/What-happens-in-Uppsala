@@ -35,7 +35,7 @@ export const PLATSER = [
   { id: "upplandsmuseet", namn: "Upplandsmuseet", monster: /upplandsmuseet/, kategori: "museum" },
   { id: "gustavianum", namn: "Gustavianum", monster: /gustavianum/, kategori: "museum" },
   { id: "brorhjorth", namn: "Bror Hjorths Hus", monster: /bror hjorth?s? hus/, kategori: "museum" },
-  { id: "biotopia", namn: "Biotopia", monster: /biotopia/, kategori: "museum" },
+  { id: "biotopia", namn: "Biotopia", monster: /biotopia|^vasagatan 4$/, kategori: "museum" },
   { id: "slottshist", namn: "Uppsala slottshistoriska", monster: /slottshistoriska/, kategori: "museum" },
   { id: "slott", namn: "Uppsala slott", monster: /^uppsala slott$/, kategori: "museum" },
   { id: "cube", namn: "Cube of Art", monster: /cube of art/, kategori: "museum" },
@@ -101,6 +101,8 @@ export const PLATSER = [
   { id: "temaverkstaden", namn: "Temaverkstaden, Gottsunda centrum", monster: /temaverkstad(en)?,? gottsunda|gottsunda centrum,? temaverksta/, byggnad: "gottsundacentrum", omrade: "sodra" },
   { id: "kaija", namn: "KAIJA, Stallet", monster: /kaija/ },
   { id: "ulva", namn: "Ulva kvarn", monster: /ulva kvarn/ },
+  // Biotopias utflykter: herrgården, naturskolan och reservatet.
+  { id: "hammarskog", namn: "Hammarskog", monster: /hammarskog/, omrade: "vastra-land" },
 ];
 
 // Namn som inte är en riktig plats.

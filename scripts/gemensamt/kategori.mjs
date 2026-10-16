@@ -4,7 +4,7 @@
 export const ORD_TILL_KATEGORI = [
   ["scen", /musikal|stand.?up|komik|humor|improv/i],
   ["sport", /\bmatch|hockey|fotboll|bandy|basket|innebandy|handboll|volleyboll|superligan|allsvenskan|\((herr|dam)\)|löpning|\blopp\b/i],
-  ["natt", /klubbkväll|nattklubb|\bdj\b|\bclub\b|rave|afterwork/i],
+  ["natt", /klubbkväll|nattklubb|\bdj\b|\bclub\b|\brave\b|afterwork/i],
   ["musik", /konsert|musik|requiem|kör(en|er)?\b|orgel|sång|jazz|psalm|kammar|aftonsång|evensong/i],
   ["scen", /teater|film|bio\b|föreställning|dans|opera|cirkus|show\b/i],
   ["museum", /utställ|vernissage|visning|guidning/i],

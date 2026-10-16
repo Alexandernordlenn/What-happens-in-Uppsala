@@ -17,7 +17,7 @@ export const OMRADEN = [
 
 // Ord i platsnamn som avslöjar området. Första träffen vinner.
 const ORD = [
-  ["sodra", /gottsunda|valsätra|sunnersta|sävja|ulleråker|bergsbrunna|vilan|nåntuna|ultuna/],
+  ["sodra", /gottsunda|valsätra|sunnersta|sävja|ulleråker|bergsbrunna|vilan|nåntuna|ultuna|flottsund/],
   ["vastra", /stenhagen|flogsta|håga|eriksberg|kåbo|luthagen|rackarberg|norby|polacksbacken/],
   ["ostra", /gränby|kvarngärdet|salabacke|årsta|löten|sala backe|fyrislund|boländerna|ifu arena|husbyborg|kvarngärdes|vaksala(?! torg)/],
   ["norra", /gamla uppsala|nyby|svartbäcken|tunabackar|librobäck|fyrishov|fyrisgården|svartbäck|ekeby|bärby|kvarnbo/],

@@ -364,5 +364,61 @@
       "antal": 375,
       "status": "ok"
     }
+  },
+  "katalin": {
+    "antal": [
+      {
+        "datum": "2026-10-16",
+        "antal": 99
+      }
+    ],
+    "dagarBehallen": 0,
+    "senaste": {
+      "datum": "2026-10-16",
+      "antal": 99,
+      "status": "ok"
+    }
+  },
+  "missionskyrkan": {
+    "antal": [
+      {
+        "datum": "2026-10-16",
+        "antal": 65
+      }
+    ],
+    "dagarBehallen": 0,
+    "senaste": {
+      "datum": "2026-10-16",
+      "antal": 65,
+      "status": "ok"
+    }
+  },
+  "bror-hjorths-hus": {
+    "antal": [
+      {
+        "datum": "2026-10-16",
+        "antal": 54
+      }
+    ],
+    "dagarBehallen": 0,
+    "senaste": {
+      "datum": "2026-10-16",
+      "antal": 54,
+      "status": "ok"
+    }
+  },
+  "biotopia": {
+    "antal": [
+      {
+        "datum": "2026-10-16",
+        "antal": 29
+      }
+    ],
+    "dagarBehallen": 0,
+    "senaste": {
+      "datum": "2026-10-16",
+      "antal": 29,
+      "status": "ok"
+    }
   }
 }
