@@ -1,7 +1,7 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-15T04:54:37.358Z",
+  "hamtad": "2026-10-16T04:45:28.701Z",
   "antal": 290,
   "evenemang": [
     {
@@ -3505,127 +3505,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-babyrytmik-ht-2026-2026-10-15-1000",
-      "titel": "Babyrytmik",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        4
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/babyrytmik-ht-2026/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Dans",
-          "Litteratur/Skrivande",
-          "Musik"
-        ],
-        "malgrupp": [
-          "0-4 år"
-        ],
-        "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
-      },
-      "start": "2026-10-15T10:00:00+02:00",
-      "slut": "2026-10-15T11:00:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-torsdagsbibblan-2026-10-15-1500",
-      "titel": "Torsdagsbibblan",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib",
-        "rum": "temaverkstaden"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        5,
-        12
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagsbibblan/",
-          "arrangor": "https://bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande",
-          "Litteratur/Skrivande"
-        ],
-        "malgrupp": [
-          "5-6 år",
-          "7-9 år",
-          "10-12 år"
-        ],
-        "adress": "Gottsundabiblioteket, temaverkstaden, Valthornsvägen 11, Uppsala"
-      },
-      "start": "2026-10-15T15:00:00+02:00",
-      "slut": "2026-10-15T16:00:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-torsdagshaeng-2026-10-15-1600",
-      "titel": "Torsdagshäng!",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        12
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagshaeng/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande",
-          "Litteratur/Skrivande",
-          "Övrigt",
-          "Vetenskap/Samhälle"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år"
-        ],
-        "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
-      },
-      "start": "2026-10-15T16:00:00+02:00",
-      "slut": "2026-10-15T17:00:00+02:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-ritsagor-2026-10-16-1400",
       "titel": "Ritsagor",
       "plats": {
@@ -4595,6 +4474,47 @@
       "langvarig": true
     },
     {
+      "id": "kubik-hoestlovsskoj-i-naturum-faernebofjaerden",
+      "titel": "Höstlovsskoj i naturum Färnebofjärden",
+      "plats": {
+        "namn": "Naturum Färnebofjärden",
+        "id": "kubik-plats-naturum-färnebofjärden"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovsskoj-i-naturum-faernebofjaerden/",
+          "arrangor": "https://www.facebook.com/events/2329018644620557/2329018654620556/?active_tab=about"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Djur/Natur",
+          "Museum/Kulturarv"
+        ],
+        "malgrupp": [
+          "För alla åldrar"
+        ],
+        "adress": "Naturum Färnebofjärden, Benedicks väg 3, Gysinge",
+        "tider": {
+          "start": "11:00",
+          "slut": "15:00"
+        }
+      },
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "langvarig": true
+    },
+    {
       "id": "kubik-leksaksbyte-paa-hoestlovet",
       "titel": "Leksaksbyte på höstlovet",
       "plats": {
@@ -4915,6 +4835,43 @@
       },
       "start": "2026-10-24T13:00:00+02:00",
       "slut": "2026-10-24T16:00:00+02:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-ljuskvaell-i-gysinge-med-mysrys-i-naturum-2026-10-24-1800",
+      "titel": "Ljuskväll i Gysinge - med mysrys i naturum!",
+      "plats": {
+        "namn": "Naturum Färnebofjärden",
+        "id": "kubik-plats-naturum-färnebofjärden"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/ljuskvaell-i-gysinge-med-mysrys-i-naturum/",
+          "arrangor": "https://fb.me/e/7uCObpFDP"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Djur/Natur",
+          "Museum/Kulturarv"
+        ],
+        "malgrupp": [
+          "För alla åldrar"
+        ],
+        "adress": "Naturum Färnebofjärden, Benedicks väg 3, Gysinge"
+      },
+      "start": "2026-10-24T18:00:00+02:00",
+      "slut": "2026-10-24T21:00:00+02:00",
       "langvarig": false
     },
     {
@@ -5977,6 +5934,44 @@
       "start": "2026-10-26",
       "slut": "2026-10-29",
       "langvarig": true
+    },
+    {
+      "id": "kubik-judo-fritids-26-oktober-2026-10-26-0900",
+      "titel": "Judo-Fritids 26 oktober",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        5,
+        9
+      ],
+      "omrade": "norra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/judo-fritids-26-oktober/",
+          "arrangor": "http://www.uppsalajudo.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Kampsport"
+        ],
+        "malgrupp": [
+          "5-6 år",
+          "7-9 år"
+        ],
+        "adress": "Uppsala Judoklubbs lokal i Fyrishov, Gamla Uppsalagatan 4, Uppsala"
+      },
+      "start": "2026-10-26T09:00:00+01:00",
+      "slut": "2026-10-26T15:00:00+01:00",
+      "langvarig": false
     },
     {
       "id": "kubik-halloweenpyssel-paa-graenby-allaktivitetshus-2026-10-26-1000",

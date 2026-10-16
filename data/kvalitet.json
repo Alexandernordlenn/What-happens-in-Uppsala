@@ -1,13 +1,13 @@
 {
-  "matt": "2026-10-15T04:55:26.539Z",
-  "idag": "2026-10-15",
+  "matt": "2026-10-16T04:46:18.959Z",
+  "idag": "2026-10-16",
   "totalt": {
-    "antal": 1764,
+    "antal": 1746,
     "utanKlockslag": 0.037,
-    "ovrigt": 0.03,
-    "familjUtanAlder": 0.177,
-    "utanOmrade": 0.02,
-    "sammanslagna": 535,
+    "ovrigt": 0.031,
+    "familjUtanAlder": 0.176,
+    "utanOmrade": 0.022,
+    "sammanslagna": 525,
     "pagar14": 14,
     "borttagnaKurser": 23,
     "aiEvenemang": 0,
@@ -19,8 +19,8 @@
       "serie-uttryckliga-datum": 7,
       "speltid-mot-tillfallen": 12,
       "festival": 14,
-      "lika": 231,
-      "innehaller": 87,
+      "lika": 229,
+      "innehaller": 85,
       "likhet": 2,
       "sport": 48
     }
@@ -28,7 +28,7 @@
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 105,
+      "antal": 107,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
@@ -41,12 +41,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 120,
+      "antal": 118,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 87,
+      "sammanslagna": 82,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 383,
+      "antal": 373,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 140,
+      "sammanslagna": 136,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 748,
+      "antal": 742,
       "utanKlockslag": 0.041,
       "ovrigt": 0.011,
-      "familjUtanAlder": 0.119,
-      "utanOmrade": 0.008,
-      "sammanslagna": 164,
+      "familjUtanAlder": 0.115,
+      "utanOmrade": 0.011,
+      "sammanslagna": 160,
       "pagar14": 0,
       "borttagnaKurser": 22,
       "aiEvenemang": 0,
@@ -80,12 +80,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 266,
-      "utanKlockslag": 0.072,
-      "ovrigt": 0.105,
-      "familjUtanAlder": 0.775,
-      "utanOmrade": 0.064,
-      "sammanslagna": 253,
+      "antal": 261,
+      "utanKlockslag": 0.074,
+      "ovrigt": 0.107,
+      "familjUtanAlder": 0.771,
+      "utanOmrade": 0.065,
+      "sammanslagna": 249,
       "pagar14": 10,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -93,12 +93,12 @@
     },
     "h": {
       "namn": "Heja",
-      "antal": 408,
-      "utanKlockslag": 0.06,
-      "ovrigt": 0.032,
+      "antal": 403,
+      "utanKlockslag": 0.061,
+      "ovrigt": 0.035,
       "familjUtanAlder": 0.774,
       "utanOmrade": 0.02,
-      "sammanslagna": 277,
+      "sammanslagna": 276,
       "pagar14": 5,
       "borttagnaKurser": 1,
       "aiEvenemang": 0,
@@ -106,11 +106,11 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 261,
+      "antal": 259,
       "utanKlockslag": 0.004,
-      "ovrigt": 0.038,
-      "familjUtanAlder": 0.417,
-      "utanOmrade": 0.019,
+      "ovrigt": 0.039,
+      "familjUtanAlder": 0.458,
+      "utanOmrade": 0.023,
       "sammanslagna": 218,
       "pagar14": 0,
       "borttagnaKurser": 0,
@@ -521,7 +521,7 @@
         "Art Night 2026",
         "Art Night på Uppsala konstmuseum"
       ],
-      "tillfallen": 7
+      "tillfallen": 6
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -547,7 +547,7 @@
       "titlar": [
         "Medan vi brinner"
       ],
-      "tillfallen": 11
+      "tillfallen": 10
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -560,7 +560,7 @@
       "titlar": [
         "Stadens ljus"
       ],
-      "tillfallen": 18
+      "tillfallen": 17
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -627,7 +627,7 @@
         "Teater: Ingenmansland",
         "Ingenmansland"
       ],
-      "tillfallen": 20
+      "tillfallen": 16
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -641,7 +641,7 @@
         "Teater: Lotten von Kræmer",
         "Lotten von Kræmer"
       ],
-      "tillfallen": 6
+      "tillfallen": 7
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -847,46 +847,6 @@
         "Oktoberstämman 2026",
         "Oktoberstämman"
       ]
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-15",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Babyrytmik"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-15",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Torsdagsbibblan"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-15",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Torsdagshäng",
-        "Torsdagshäng!"
-      ],
-      "poang": 1
     },
     {
       "regel": "lika",
@@ -2277,20 +2237,6 @@
         "Julmarknad med drop-in-vigsel"
       ],
       "poang": 0.8
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-15",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Tone Schunnesson",
-        "Författarbesök: Tone Schunnesson"
-      ],
-      "poang": 1
     },
     {
       "regel": "innehaller",
@@ -3874,17 +3820,17 @@
     },
     {
       "regel": "innehaller",
-      "dag": "2026-10-15",
-      "plats": "biotopia",
+      "dag": "2027-02-13",
+      "plats": "ukk",
       "kallor": [
-        "u",
-        "t"
+        "d",
+        "h"
       ],
       "titlar": [
-        "Torsdagskul på Biotopia",
-        "Torsdagskul - Tema: Bygga drake (15/10 & 22/10)"
+        "Kim Wilde – The Singles Tour 2027",
+        "Kim Wilde"
       ],
-      "poang": 0.14
+      "poang": 0.5
     },
     {
       "regel": "innehaller",
@@ -3899,34 +3845,6 @@
         "Torsdagskul - Tema: Bygga drake (15/10 & 22/10)"
       ],
       "poang": 0.14
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-15",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Isabella Lundgren",
-        "Isabella Lundgren - Katalins bakficka"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-15",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Stefan Sundström",
-        "Stefan Sundström & Sista Jäntan"
-      ],
-      "poang": 0.5
     },
     {
       "regel": "innehaller",
@@ -5937,6 +5855,34 @@
         "Simon Superti"
       ],
       "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-13",
+      "plats": "ukk",
+      "kallor": [
+        "d",
+        "h",
+        "t"
+      ],
+      "titlar": [
+        "Kim Wilde – The Singles Tour 2027",
+        "Kim Wilde"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-13",
+      "plats": "katalin",
+      "kallor": [
+        "h",
+        "t"
+      ],
+      "titlar": [
+        "Simon Superti"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -5979,21 +5925,21 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 28,
+      "varde": 25,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 15,
+      "varde": 16,
       "krav": "minst 10"
     },
     {
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 27,
+      "varde": 28,
       "krav": "minst 5"
     },
     {
@@ -6014,14 +5960,14 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "3 %",
+      "varde": "3.1 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
-      "ok": true,
-      "varde": "2 %",
+      "ok": false,
+      "varde": "2.2 %",
       "krav": "under 2 %"
     },
     {

@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-10-15T04:54:14.346Z",
-  "antal": 457,
+  "hamtad": "2026-10-16T04:45:01.655Z",
+  "antal": 448,
   "evenemang": [
     {
       "id": "heja-charta-77-bonta-fran-asta-kask-2026",
@@ -516,45 +516,6 @@
       }
     },
     {
-      "id": "heja-su-en-och-mattias-hallsten-2026",
-      "titel": "SU-EN och Mattias Hållsten",
-      "start": "2026-10-14T18:30:00+02:00",
-      "slut": "2026-10-15",
-      "plats": {
-        "namn": "Uppsala domkyrka",
-        "id": "domkyrkan"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/su-en-och-mattias-hallsten-2026/",
-          "arrangor": "https://www.svenskakyrkan.se/uppsaladomkyrka/nyheter/su-en-och-mattias-hallsten-uppfor-regn"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "dans-event",
-          "gratis",
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-14",
-          "2026-10-15"
-        ],
-        "tider": {
-          "start": "18:30"
-        }
-      }
-    },
-    {
       "id": "heja-johan-thurfjell-ljuset-2026-2",
       "titel": "Johan Thurfjell – Ljuset",
       "start": "2026-10-15",
@@ -623,219 +584,6 @@
         ],
         "tider": {
           "start": "13:00"
-        }
-      }
-    },
-    {
-      "id": "heja-art-night-2026-2-2-2-2-2",
-      "titel": "Art Night på Uppsala konstmuseum",
-      "start": "2026-10-15T17:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/art-night-2026-2-2-2-2-2/",
-          "arrangor": "https://konstmuseum.uppsala.se/kalendarium/art-night2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "museum",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-15"
-        ],
-        "tider": {
-          "start": "17:00"
-        }
-      }
-    },
-    {
-      "id": "heja-forfattarbesok-tone-schunnesson-2026",
-      "titel": "Författarbesök: Tone Schunnesson",
-      "start": "2026-10-15T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/forfattarbesok-tone-schunnesson-2026/",
-          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/eacd7480-8822-4837-bc8f-28ff60141dc1?location=Stadsbiblioteket&tag=F%C3%B6rfattarbes%C3%B6k"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "foredrag",
-          "gratis",
-          "hojdpunkter-hejauppsala",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-15"
-        ],
-        "tider": {
-          "start": "18:00"
-        }
-      }
-    },
-    {
-      "id": "heja-stefan-sundstrom-katalin",
-      "titel": "Stefan Sundström",
-      "start": "2026-10-15T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/stefan-sundstrom-katalin/",
-          "arrangor": "https://secure.tickster.com/sv/brx91kx4m2m78j8/selectproductgroup"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-15"
-        ],
-        "tider": {
-          "start": "20:00"
-        }
-      }
-    },
-    {
-      "id": "heja-isabella-lundgren-katalins-bakficka",
-      "titel": "Isabella Lundgren",
-      "start": "2026-10-15T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/isabella-lundgren-katalins-bakficka/",
-          "arrangor": "https://secure.tickster.com/sv/93xd7rp77tn3km5/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hojdpunkter-hejauppsala",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-15"
-        ],
-        "tider": {
-          "start": "20:00"
-        }
-      }
-    },
-    {
-      "id": "heja-dragon-dolls-the-kaliber-room-15-okt-2026",
-      "titel": "Dragon Dolls",
-      "start": "2026-10-15T21:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/dragon-dolls-the-kaliber-room-15-okt-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-15"
-        ],
-        "tider": {
-          "start": "21:00"
-        }
-      }
-    },
-    {
-      "id": "heja-tizimo-the-kaliber-room-15-okt-2026",
-      "titel": "Tizimo",
-      "start": "2026-10-15T21:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/tizimo-the-kaliber-room-15-okt-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-15"
-        ],
-        "tider": {
-          "start": "21:00"
         }
       }
     },
@@ -2250,42 +1998,6 @@
         ],
         "tider": {
           "start": "12:00"
-        }
-      }
-    },
-    {
-      "id": "heja-kulturfrukost-22-okt-ukk",
-      "titel": "Kulturfrukost 22 okt – UKK",
-      "start": "2026-10-22T08:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/kulturfrukost-22-okt-ukk/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "gratis",
-          "hojdpunkter-hejauppsala",
-          "ovrigt",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-22"
-        ],
-        "tider": {
-          "start": "08:00"
         }
       }
     },
@@ -10386,7 +10098,7 @@
     },
     {
       "id": "heja-juljazz-med-ako-co-2026",
-      "titel": "JULJAZZ med Ako & Co",
+      "titel": "Juljazz med Ako & Co",
       "start": "2026-12-01T11:30:00+01:00",
       "slut": null,
       "plats": {
@@ -10744,42 +10456,6 @@
         ],
         "tider": {
           "start": "20:00"
-        }
-      }
-    },
-    {
-      "id": "heja-kulturfrukost-3-dec-ukk",
-      "titel": "Kulturfrukost 3 dec – UKK",
-      "start": "2026-12-03T08:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/kulturfrukost-3-dec-ukk/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "gratis",
-          "hojdpunkter-hejauppsala",
-          "ovrigt",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-12-03"
-        ],
-        "tider": {
-          "start": "08:00"
         }
       }
     },

@@ -1,499 +1,9 @@
 {
   "kalla": "Bibliotek Uppsala",
   "webbsida": "https://bibliotekuppsala.se/evenemang",
-  "hamtad": "2026-10-15T04:52:13.649Z",
-  "antal": 385,
+  "hamtad": "2026-10-16T04:43:22.832Z",
+  "antal": 375,
   "evenemang": [
-    {
-      "id": "bibliotek-324d1c83-e831-4e67-9f77-967bc1058708",
-      "titel": "Babyrytmik",
-      "start": "2026-10-15T10:00:00+02:00",
-      "slut": "2026-10-15T11:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Barnavdelningen Läsfabriken"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/324d1c83-e831-4e67-9f77-967bc1058708"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Småbarn"
-        ],
-        "malgrupp": [
-          "Barn"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-e128ee6b-93f8-47f6-a35a-6f3ab6d8a8a5",
-      "titel": "Positivt föräldraskap",
-      "start": "2026-10-15T10:30:00+02:00",
-      "slut": "2026-10-15T12:00:00+02:00",
-      "plats": {
-        "namn": "Rosendal bibliotek",
-        "id": "rosendalbib",
-        "rum": "Hörsalen"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/e128ee6b-93f8-47f6-a35a-6f3ab6d8a8a5"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Föredrag"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-c5ee3c5e-e0f6-4696-8c48-b92bc0fcd9b6",
-      "titel": "Språkkurs i engelska",
-      "start": "2026-10-15T11:00:00+02:00",
-      "slut": "2026-10-15T12:00:00+02:00",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib",
-        "rum": "Zoom"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/c5ee3c5e-e0f6-4696-8c48-b92bc0fcd9b6"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Många språk"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-ba2d1403-ad8c-42b2-bff0-605067030e28",
-      "titel": "Handarbetskafé",
-      "start": "2026-10-15T13:00:00+02:00",
-      "slut": "2026-10-15T15:00:00+02:00",
-      "plats": {
-        "namn": "Stenhagen bibliotek",
-        "id": "stenhagenbib",
-        "rum": "Spektaklet"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/ba2d1403-ad8c-42b2-bff0-605067030e28"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Pyssel"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-95bc5021-b6c0-4c91-9555-68e3481bd16a",
-      "titel": "Torsdagsbibblan",
-      "start": "2026-10-15T15:00:00+02:00",
-      "slut": "2026-10-15T16:00:00+02:00",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib",
-        "rum": "Temaverkstan"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/95bc5021-b6c0-4c91-9555-68e3481bd16a"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Pyssel"
-        ],
-        "malgrupp": [
-          "Barn"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-07dbc4e1-17ed-40f2-969e-b7827702092a",
-      "titel": "Skapa en tidning!",
-      "start": "2026-10-15T15:30:00+02:00",
-      "slut": "2026-10-15T16:30:00+02:00",
-      "plats": {
-        "namn": "Sävja bibliotek",
-        "id": "savjabib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/07dbc4e1-17ed-40f2-969e-b7827702092a"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Skriva"
-        ],
-        "malgrupp": [
-          "Barn"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-372fd985-9a5b-43fb-a2af-abf53d866eaa",
-      "titel": "Torsdagshäng",
-      "start": "2026-10-15T16:00:00+02:00",
-      "slut": "2026-10-15T17:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Barnavdelningen Läsfabriken"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/372fd985-9a5b-43fb-a2af-abf53d866eaa"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Pyssel",
-          "Quiz"
-        ],
-        "malgrupp": [
-          "Barn"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-d1d296c9-2af9-4c14-a696-a992ecf5703e",
-      "titel": "Utveckla ditt skrivande",
-      "start": "2026-10-15T17:00:00+02:00",
-      "slut": "2026-10-15T19:30:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Mallas grupprum"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/d1d296c9-2af9-4c14-a696-a992ecf5703e"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Skriva"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-33a2fa8e-2db4-4b72-8150-64e17552ecbc",
-      "titel": "NPF-klubben",
-      "start": "2026-10-15T17:00:00+02:00",
-      "slut": "2026-10-15T18:30:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Barnavdelningen Läsfabriken"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/33a2fa8e-2db4-4b72-8150-64e17552ecbc"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Funkis"
-        ],
-        "malgrupp": [
-          "Barn"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-4fe817e6-6446-4076-9014-f04628999a6a",
-      "titel": "Inställt: Relationscirkel Funkis",
-      "start": "2026-10-15T17:30:00+02:00",
-      "slut": "2026-10-15T19:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Konferensrummet"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/4fe817e6-6446-4076-9014-f04628999a6a"
-        }
-      ],
-      "langvarig": false,
-      "installd": true,
-      "fakta": {
-        "taggar": [
-          "Funkis"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-18182d60-2b65-4b6e-a000-0d59960cf46e",
-      "titel": "Bokcirkel med Lesbiskt rum",
-      "start": "2026-10-15T18:00:00+02:00",
-      "slut": "2026-10-15T19:45:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Glasgården"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/18182d60-2b65-4b6e-a000-0d59960cf46e"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Bokcirkel",
-          "HBTQ"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-eacd7480-8822-4837-bc8f-28ff60141dc1",
-      "titel": "Tone Schunnesson",
-      "start": "2026-10-15T18:00:00+02:00",
-      "slut": "2026-10-15T19:00:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Bokhallen (vuxenavdelningen)"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/eacd7480-8822-4837-bc8f-28ff60141dc1"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Författarbesök"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-3736644f-3e89-4f1c-a6d5-07fb415aea56",
-      "titel": "Lisa Joof: Ljuset bortom bergen",
-      "start": "2026-10-15T18:00:00+02:00",
-      "slut": "2026-10-15T19:00:00+02:00",
-      "plats": {
-        "namn": "Sävja bibliotek",
-        "id": "savjabib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/3736644f-3e89-4f1c-a6d5-07fb415aea56"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Författarbesök",
-          "Demokrativecka"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-24e308c9-10e4-42e9-a08f-ebc4c0dc7616",
-      "titel": "Bokcirkel torsdagar",
-      "start": "2026-10-15T18:30:00+02:00",
-      "slut": "2026-10-15T19:30:00+02:00",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/24e308c9-10e4-42e9-a08f-ebc4c0dc7616"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Bokcirkel"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
     {
       "id": "bibliotek-bf528089-27b6-4277-ad50-81ffa386324e",
       "titel": "Lunchkonsert: Kerstin Frödin och Anna Lindal",
@@ -4258,40 +3768,6 @@
       }
     },
     {
-      "id": "bibliotek-40ea659c-a384-4abe-9dbb-0ec3e5910b13",
-      "titel": "Deckarbokcirkel",
-      "start": "2026-11-03T17:00:00+01:00",
-      "slut": "2026-11-03T18:30:00+01:00",
-      "plats": {
-        "namn": "Sävja bibliotek",
-        "id": "savjabib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/40ea659c-a384-4abe-9dbb-0ec3e5910b13"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Bokcirkel"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
       "id": "bibliotek-a78c67c1-a32e-4f6b-9178-ae12d3212df0",
       "titel": "Ung bokcirkel tisdagar",
       "start": "2026-11-03T17:00:00+01:00",
@@ -4323,6 +3799,40 @@
         ],
         "malgrupp": [
           "Ungdom"
+        ]
+      }
+    },
+    {
+      "id": "bibliotek-40ea659c-a384-4abe-9dbb-0ec3e5910b13",
+      "titel": "Deckarbokcirkel",
+      "start": "2026-11-03T17:00:00+01:00",
+      "slut": "2026-11-03T18:30:00+01:00",
+      "plats": {
+        "namn": "Sävja bibliotek",
+        "id": "savjabib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": [
+        18,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/40ea659c-a384-4abe-9dbb-0ec3e5910b13"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "Bokcirkel"
+        ],
+        "malgrupp": [
+          "Vuxen"
         ]
       }
     },
@@ -4710,41 +4220,6 @@
       "fakta": {
         "taggar": [
           "Bokcirkel"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-70a3c803-a67a-4364-b5ea-91753f7ba83d",
-      "titel": "Utveckla ditt skrivande",
-      "start": "2026-11-05T17:00:00+01:00",
-      "slut": "2026-11-05T19:30:00+01:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Mallas grupprum"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/70a3c803-a67a-4364-b5ea-91753f7ba83d"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Skriva"
         ],
         "malgrupp": [
           "Vuxen"
@@ -6225,40 +5700,6 @@
       }
     },
     {
-      "id": "bibliotek-dc7d4082-3a48-4801-8a29-c2592069c786",
-      "titel": "Bokcirkel torsdagar",
-      "start": "2026-11-12T18:30:00+01:00",
-      "slut": "2026-11-12T19:30:00+01:00",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/dc7d4082-3a48-4801-8a29-c2592069c786"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Bokcirkel"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
       "id": "bibliotek-1d83cd39-b2bb-4d82-9a31-ef34a5588055",
       "titel": "Pysselkväll med Lesbiskt rum",
       "start": "2026-11-12T18:30:00+01:00",
@@ -6295,35 +5736,36 @@
       }
     },
     {
-      "id": "bibliotek-d7cd8131-752b-4a66-9be8-81dde7d5e7aa",
-      "titel": "Fredagsmys",
-      "start": "2026-11-13T14:00:00+01:00",
-      "slut": "2026-11-13T14:30:00+01:00",
+      "id": "bibliotek-dc7d4082-3a48-4801-8a29-c2592069c786",
+      "titel": "Bokcirkel torsdagar",
+      "start": "2026-11-12T18:30:00+01:00",
+      "slut": "2026-11-12T19:30:00+01:00",
       "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Drömverkstan på barnavdelningen"
+        "namn": "Gottsunda bibliotek",
+        "id": "gottsundabib"
       },
       "kategori": "prat",
       "gratis": true,
-      "barnOchFamilj": true,
+      "barnOchFamilj": false,
       "alder": [
-        0,
-        12
+        18,
+        99
       ],
       "kallor": [
         {
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/d7cd8131-752b-4a66-9be8-81dde7d5e7aa"
+          "url": "https://bibliotekuppsala.se/evenemang#/events/dc7d4082-3a48-4801-8a29-c2592069c786"
         }
       ],
       "langvarig": false,
       "installd": false,
       "fakta": {
-        "taggar": [],
+        "taggar": [
+          "Bokcirkel"
+        ],
         "malgrupp": [
-          "Barn"
+          "Vuxen"
         ]
       }
     },
@@ -6348,6 +5790,39 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/4ad68cd1-c3cf-4630-9a4d-f8c8ec8aa8cf"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [],
+        "malgrupp": [
+          "Barn"
+        ]
+      }
+    },
+    {
+      "id": "bibliotek-d7cd8131-752b-4a66-9be8-81dde7d5e7aa",
+      "titel": "Fredagsmys",
+      "start": "2026-11-13T14:00:00+01:00",
+      "slut": "2026-11-13T14:30:00+01:00",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib",
+        "rum": "Drömverkstan på barnavdelningen"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/d7cd8131-752b-4a66-9be8-81dde7d5e7aa"
         }
       ],
       "langvarig": false,
@@ -6916,6 +6391,39 @@
       }
     },
     {
+      "id": "bibliotek-e6a39eeb-6016-4592-83d3-c764ae8fac44",
+      "titel": "Programråd för unga",
+      "start": "2026-11-17T15:45:00+01:00",
+      "slut": "2026-11-17T16:45:00+01:00",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib",
+        "rum": "Molnets grupprum"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        19
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/e6a39eeb-6016-4592-83d3-c764ae8fac44"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [],
+        "malgrupp": [
+          "Ungdom"
+        ]
+      }
+    },
+    {
       "id": "bibliotek-2780d39b-226f-47b5-83dd-841318829d4f",
       "titel": "Bokklubb 10–13 år",
       "start": "2026-11-17T16:00:00+01:00",
@@ -7121,42 +6629,6 @@
       }
     },
     {
-      "id": "bibliotek-111ab454-a238-4793-813a-ca2277a981c8",
-      "titel": "Vad händer med vår data när vi dör?",
-      "start": "2026-11-17T18:30:00+01:00",
-      "slut": "2026-11-17T20:00:00+01:00",
-      "plats": {
-        "namn": "Storvreta bibliotek",
-        "id": "storvretabib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/111ab454-a238-4793-813a-ca2277a981c8"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Föredrag",
-          "Författarbesök",
-          "Samhälle och debatt"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
       "id": "bibliotek-d121293e-d632-4b7e-b706-7b545e32727e",
       "titel": "Bokcirkel på turkiska",
       "start": "2026-11-17T18:30:00+01:00",
@@ -7186,6 +6658,42 @@
         "taggar": [
           "Bokcirkel",
           "Många språk"
+        ],
+        "malgrupp": [
+          "Vuxen"
+        ]
+      }
+    },
+    {
+      "id": "bibliotek-111ab454-a238-4793-813a-ca2277a981c8",
+      "titel": "Vad händer med vår data när vi dör?",
+      "start": "2026-11-17T18:30:00+01:00",
+      "slut": "2026-11-17T20:00:00+01:00",
+      "plats": {
+        "namn": "Storvreta bibliotek",
+        "id": "storvretabib"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": [
+        18,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/111ab454-a238-4793-813a-ca2277a981c8"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "Föredrag",
+          "Författarbesök",
+          "Samhälle och debatt"
         ],
         "malgrupp": [
           "Vuxen"
@@ -7682,6 +7190,42 @@
         ],
         "malgrupp": [
           "Vuxen"
+        ]
+      }
+    },
+    {
+      "id": "bibliotek-ed275bee-6b1a-4ea7-a8b9-d1cd25c8acca",
+      "titel": "Barnrytmik 1–4-åringar",
+      "start": "2026-11-19T11:00:00+01:00",
+      "slut": "2026-11-19T11:30:00+01:00",
+      "plats": {
+        "namn": "Rosendal bibliotek",
+        "id": "rosendalbib",
+        "rum": "Hörsalen"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        1,
+        4
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/ed275bee-6b1a-4ea7-a8b9-d1cd25c8acca"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "Småbarn",
+          "Musik"
+        ],
+        "malgrupp": [
+          "Barn"
         ]
       }
     },
@@ -10588,6 +10132,42 @@
       }
     },
     {
+      "id": "bibliotek-18dbdcba-5128-4da9-974e-9313f7977a73",
+      "titel": "Barnrytmik 1–4-åringar",
+      "start": "2026-12-03T11:00:00+01:00",
+      "slut": "2026-12-03T11:30:00+01:00",
+      "plats": {
+        "namn": "Rosendal bibliotek",
+        "id": "rosendalbib",
+        "rum": "Hörsalen"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        1,
+        4
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/18dbdcba-5128-4da9-974e-9313f7977a73"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "Småbarn",
+          "Musik"
+        ],
+        "malgrupp": [
+          "Barn"
+        ]
+      }
+    },
+    {
       "id": "bibliotek-5266a659-3ced-49d9-bdff-70b8ca2a5e41",
       "titel": "Fullbokat: Finsk bokcirkel – Suomenkielinen lukupiiri",
       "start": "2026-12-03T13:00:00+01:00",
@@ -10989,6 +10569,42 @@
           "id": "bibliotek",
           "namn": "Bibliotek Uppsala",
           "url": "https://bibliotekuppsala.se/evenemang#/events/50368231-91c5-45ff-99fb-8ab37cbcac57"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "Sagostund",
+          "Många språk"
+        ],
+        "malgrupp": [
+          "Barn"
+        ]
+      }
+    },
+    {
+      "id": "bibliotek-7d5cf30a-fcd5-40cc-91dc-d4055b402e4d",
+      "titel": "Sagostund på italienska – Ora delle fiabe in italiano",
+      "start": "2026-12-06T15:00:00+01:00",
+      "slut": "2026-12-06T15:30:00+01:00",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib",
+        "rum": "Barnavdelningen Läsfabriken"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        12
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/7d5cf30a-fcd5-40cc-91dc-d4055b402e4d"
         }
       ],
       "langvarig": false,
@@ -11880,6 +11496,41 @@
       }
     },
     {
+      "id": "bibliotek-8799d736-5fb2-4937-9a29-675f585543d5",
+      "titel": "Deep reading",
+      "start": "2026-12-10T18:00:00+01:00",
+      "slut": "2026-12-10T19:00:00+01:00",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib",
+        "rum": "Mallas sal"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": [
+        18,
+        99
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/8799d736-5fb2-4937-9a29-675f585543d5"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "Bokcirkel"
+        ],
+        "malgrupp": [
+          "Vuxen"
+        ]
+      }
+    },
+    {
       "id": "bibliotek-03ce8275-1c1a-4c6e-a13c-d6759b7c3b43",
       "titel": "Queer bokcirkel",
       "start": "2026-12-10T18:00:00+01:00",
@@ -11909,41 +11560,6 @@
         "taggar": [
           "Bokcirkel",
           "HBTQ"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-8799d736-5fb2-4937-9a29-675f585543d5",
-      "titel": "Deep reading",
-      "start": "2026-12-10T18:00:00+01:00",
-      "slut": "2026-12-10T19:00:00+01:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Mallas sal"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/8799d736-5fb2-4937-9a29-675f585543d5"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Bokcirkel"
         ],
         "malgrupp": [
           "Vuxen"
@@ -12987,6 +12603,42 @@
         ],
         "malgrupp": [
           "Vuxen"
+        ]
+      }
+    },
+    {
+      "id": "bibliotek-2dfbc4e3-7d52-41af-80f5-006fee0e5a4c",
+      "titel": "Barnrytmik 1–4-åringar",
+      "start": "2026-12-17T11:00:00+01:00",
+      "slut": "2026-12-17T11:30:00+01:00",
+      "plats": {
+        "namn": "Rosendal bibliotek",
+        "id": "rosendalbib",
+        "rum": "Hörsalen"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        1,
+        4
+      ],
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/2dfbc4e3-7d52-41af-80f5-006fee0e5a4c"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "Småbarn",
+          "Musik"
+        ],
+        "malgrupp": [
+          "Barn"
         ]
       }
     },

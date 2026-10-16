@@ -1,58 +1,9 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-10-15T04:40:37.281Z",
-  "antal": 176,
+  "hamtad": "2026-10-16T04:41:33.367Z",
+  "antal": 172,
   "evenemang": [
-    {
-      "id": "stadsteatern-125957",
-      "titel": "Medan vi brinner",
-      "start": "2026-10-15T18:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Lilla scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Få biljetter kvar",
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/medan-vi-brinner/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29507/125957/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-121680",
-      "titel": "Stadens ljus",
-      "start": "2026-10-15T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Stora scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/121680/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "stadsteatern-125951",
       "titel": "Medan vi brinner",
@@ -1192,6 +1143,54 @@
       "installd": false
     },
     {
+      "id": "stadsteatern-136292",
+      "titel": "Huller om buller (och lite snubbel)",
+      "start": "2026-11-28T11:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Ettan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/huller-om-buller-och-lite-snubbel/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/33540/136292/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-136293",
+      "titel": "Huller om buller (och lite snubbel)",
+      "start": "2026-11-28T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Ettan"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/huller-om-buller-och-lite-snubbel/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/33540/136293/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "stadsteatern-134804",
       "titel": "Marklyft",
       "start": "2026-11-28T15:00:00+01:00",
@@ -2184,31 +2183,6 @@
       "installd": false
     },
     {
-      "id": "stadsteatern-134253",
-      "titel": "Ingenmansland",
-      "start": "2027-01-19T12:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Intiman"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Lunchföreställning",
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134253/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "stadsteatern-134235",
       "titel": "Ingenmansland",
       "start": "2027-01-20T17:30:00+01:00",
@@ -2251,30 +2225,6 @@
           "namn": "Uppsala stadsteater",
           "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
           "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/124867/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-134236",
-      "titel": "Ingenmansland",
-      "start": "2027-01-21T17:30:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Intiman"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134236/"
         }
       ],
       "langvarig": false,
@@ -2354,31 +2304,6 @@
       "installd": false
     },
     {
-      "id": "stadsteatern-134255",
-      "titel": "Ingenmansland",
-      "start": "2027-01-26T12:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Intiman"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Lunchföreställning",
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134255/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "stadsteatern-134237",
       "titel": "Ingenmansland",
       "start": "2027-01-27T17:30:00+01:00",
@@ -2397,30 +2322,6 @@
           "namn": "Uppsala stadsteater",
           "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
           "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134237/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-134238",
-      "titel": "Ingenmansland",
-      "start": "2027-01-28T17:30:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Intiman"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/ingenmansland/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32547/134238/"
         }
       ],
       "langvarig": false,

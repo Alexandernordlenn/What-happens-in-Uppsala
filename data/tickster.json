@@ -1,79 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-14T04:45:21.171Z",
-  "antal": 322,
+  "hamtad": "2026-10-16T04:43:03.542Z",
+  "antal": 319,
   "evenemang": [
-    {
-      "id": "tickster-8e944nma96u313y",
-      "titel": "The Animals",
-      "start": "2026-10-14T20:00:00+02:00",
-      "slut": "2026-10-14T22:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8603,
-        "lng": 17.6456
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/8e944nma96u313y/2026-10-14/the-animals",
-          "biljetter": "https://secure.tickster.com/sv/8e944nma96u313y"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinlive",
-          "uppsala",
-          "katalin",
-          "musik",
-          "konsert",
-          "live",
-          "the animals",
-          "pop",
-          "rock"
-        ]
-      }
-    },
-    {
-      "id": "tickster-wyybha8epcf0djz",
-      "titel": "Fredrik Ljungkvist - Konsert och jamsession!",
-      "start": "2026-10-14T20:00:00+02:00",
-      "slut": "2026-10-14T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/wyybha8epcf0djz/2026-10-14/fredrik-ljungkvist-konsert-och-jamsession",
-          "biljetter": "https://secure.tickster.com/sv/wyybha8epcf0djz"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinsbakficka",
-          "katalinuppsala",
-          "katalinandallthatjazz"
-        ]
-      }
-    },
     {
       "id": "tickster-w3dlm59l15b1r1d",
       "titel": "Torsdagskul - Tema: Bygga drake (15/10 & 22/10)",
@@ -101,173 +31,6 @@
       "fakta": {
         "taggar": [
           "torsdagskul"
-        ]
-      }
-    },
-    {
-      "id": "tickster-ftdgtxyxwpg2c9t",
-      "titel": "Skulpturjogging: Gottsunda",
-      "start": "2026-10-15T17:30:00+02:00",
-      "slut": "2026-10-15T18:45:00+02:00",
-      "plats": {
-        "namn": "Uppsala",
-        "id": "uppsala"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/ftdgtxyxwpg2c9t/2026-10-15/skulpturjogging-gottsunda",
-          "biljetter": "https://secure.tickster.com/sv/ftdgtxyxwpg2c9t"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-awjjew8ua7mkyer",
-      "titel": "Masterclass: Naturteckning",
-      "start": "2026-10-15T18:00:00+02:00",
-      "slut": "2026-10-15T20:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/awjjew8ua7mkyer/2026-10-15/masterclass-naturteckning",
-          "biljetter": "https://secure.tickster.com/sv/awjjew8ua7mkyer"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-yzhw2vf7a9v5n1e",
-      "titel": "Föredrag: Från hovsal till scen",
-      "start": "2026-10-15T18:30:00+02:00",
-      "slut": "2026-10-15T19:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala slottshistoriska",
-        "id": "slottshist",
-        "lat": 59.8542,
-        "lng": 17.6351
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/yzhw2vf7a9v5n1e/2026-10-15/foredrag-fran-hovsal-till-scen",
-          "biljetter": "https://secure.tickster.com/sv/yzhw2vf7a9v5n1e"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-zm24ye9pv1h9y8u",
-      "titel": "The Deep Dark Woods",
-      "start": "2026-10-15T20:00:00+02:00",
-      "slut": "2026-10-15T22:00:00+02:00",
-      "plats": {
-        "namn": "Blackbird",
-        "id": "blackbird"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/zm24ye9pv1h9y8u/2026-10-15/the-deep-dark-woods",
-          "biljetter": "https://secure.tickster.com/sv/zm24ye9pv1h9y8u"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-93xd7rp77tn3km5",
-      "titel": "Isabella Lundgren - Katalins bakficka",
-      "start": "2026-10-15T20:00:00+02:00",
-      "slut": "2026-10-15T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/93xd7rp77tn3km5/2026-10-15/isabella-lundgren-katalins-bakficka",
-          "biljetter": "https://secure.tickster.com/sv/93xd7rp77tn3km5"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinsjazzbar",
-          "hermansilow",
-          "allthingslive",
-          "isabellalundgren",
-          "katalinsbakficka"
-        ]
-      }
-    },
-    {
-      "id": "tickster-brx91kx4m2m78j8",
-      "titel": "Stefan Sundström & Sista Jäntan",
-      "start": "2026-10-15T20:00:00+02:00",
-      "slut": "2026-10-15T22:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8595,
-        "lng": 17.6465
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/brx91kx4m2m78j8/2026-10-15/stefan-sundstrom-and-sista-jantan",
-          "biljetter": "https://secure.tickster.com/sv/brx91kx4m2m78j8"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinlive",
-          "uppsala",
-          "katalin",
-          "musik",
-          "konsert",
-          "kaliber live",
-          "stefan sundström",
-          "sista jäntan",
-          "visa",
-          "pop"
         ]
       }
     },
@@ -1432,6 +1195,38 @@
       ],
       "langvarig": false,
       "installd": false
+    },
+    {
+      "id": "tickster-l1ff314j7zjw7br",
+      "titel": "Familjekonsert – Peter och vargen",
+      "start": "2026-10-24T14:15:00+02:00",
+      "slut": "2026-10-24T15:00:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/l1ff314j7zjw7br/2026-10-24/familjekonsert-peter-och-vargen",
+          "biljetter": "https://secure.tickster.com/sv/l1ff314j7zjw7br"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt",
+          "barn"
+        ]
+      }
     },
     {
       "id": "tickster-2z3l360euh0lyhh",
@@ -2999,31 +2794,6 @@
       }
     },
     {
-      "id": "tickster-g51txflwbv7058x",
-      "titel": "Sirius vs Strängnäs",
-      "start": "2026-11-06T19:00:00+01:00",
-      "slut": "2026-11-06T21:00:00+01:00",
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu",
-        "lat": 59.882,
-        "lng": 17.6562
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/g51txflwbv7058x/2026-11-06/sirius-vs-strangnas",
-          "biljetter": "https://secure.tickster.com/sv/g51txflwbv7058x"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "tickster-gjeb35zxk1cvp2y",
       "titel": "Sven Ingvars – Igår. Idag. Imorgon. 70 år.",
       "start": "2026-11-06T19:00:00+01:00",
@@ -3053,6 +2823,31 @@
           "musik"
         ]
       }
+    },
+    {
+      "id": "tickster-g51txflwbv7058x",
+      "titel": "Sirius vs Strängnäs",
+      "start": "2026-11-06T19:00:00+01:00",
+      "slut": "2026-11-06T21:00:00+01:00",
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu",
+        "lat": 59.882,
+        "lng": 17.6562
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/g51txflwbv7058x/2026-11-06/sirius-vs-strangnas",
+          "biljetter": "https://secure.tickster.com/sv/g51txflwbv7058x"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
     },
     {
       "id": "tickster-z9kumevvuzjmk4y",
@@ -4223,6 +4018,34 @@
           "rock",
           "pop",
           "jubel"
+        ]
+      }
+    },
+    {
+      "id": "tickster-p2z000mu1akw1p1",
+      "titel": "Uppland i forskningen",
+      "start": "2026-11-20T08:45:00+01:00",
+      "slut": "2026-11-20T16:00:00+01:00",
+      "plats": {
+        "namn": "Arkivcentrum i Uppsala",
+        "id": "tickster-plats-x2gn5vyjb5xjwbb"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/p2z000mu1akw1p1/2026-11-20/uppland-i-forskningen",
+          "biljetter": "https://secure.tickster.com/sv/p2z000mu1akw1p1"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "uppland i forskningen"
         ]
       }
     },
@@ -5461,31 +5284,6 @@
       }
     },
     {
-      "id": "tickster-uupp1n1az1tbb3y",
-      "titel": "Sirius vs Vetlanda IBF",
-      "start": "2026-11-29T14:00:00+01:00",
-      "slut": "2026-11-29T16:00:00+01:00",
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu",
-        "lat": 59.882,
-        "lng": 17.6562
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/uupp1n1az1tbb3y/2026-11-29/sirius-vs-vetlanda-ibf",
-          "biljetter": "https://secure.tickster.com/sv/uupp1n1az1tbb3y"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "tickster-pef17flbnxgxk4z",
       "titel": "Jul på slottet med Allmänna Sången - Sön kl. 14",
       "start": "2026-11-29T14:00:00+01:00",
@@ -5521,6 +5319,31 @@
           "christmas"
         ]
       }
+    },
+    {
+      "id": "tickster-uupp1n1az1tbb3y",
+      "titel": "Sirius vs Vetlanda IBF",
+      "start": "2026-11-29T14:00:00+01:00",
+      "slut": "2026-11-29T16:00:00+01:00",
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu",
+        "lat": 59.882,
+        "lng": 17.6562
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/uupp1n1az1tbb3y/2026-11-29/sirius-vs-vetlanda-ibf",
+          "biljetter": "https://secure.tickster.com/sv/uupp1n1az1tbb3y"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
     },
     {
       "id": "tickster-vb32w5zdxu5a0a1",
@@ -7099,6 +6922,37 @@
           "pop",
           "inide",
           "rock"
+        ]
+      }
+    },
+    {
+      "id": "tickster-7flllwhh4f217d8",
+      "titel": "Julkonsert med Arméns musikkår",
+      "start": "2026-12-17T19:00:00+01:00",
+      "slut": "2026-12-17T21:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/7flllwhh4f217d8/2026-12-17/julkonsert-med-armens-musikkar",
+          "biljetter": "https://secure.tickster.com/sv/7flllwhh4f217d8"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
         ]
       }
     },
@@ -9859,6 +9713,44 @@
       }
     },
     {
+      "id": "tickster-lvc9neaxxek1jtx",
+      "titel": "Nikki Hill (US)",
+      "start": "2027-05-14T20:00:00+02:00",
+      "slut": "2027-05-14T22:00:00+02:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/lvc9neaxxek1jtx/2027-05-14/nikki-hill-us",
+          "biljetter": "https://secure.tickster.com/sv/lvc9neaxxek1jtx"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "blues",
+          "soul",
+          "musik",
+          "konsert",
+          "live",
+          "nikki hill"
+        ]
+      }
+    },
+    {
       "id": "tickster-2clj75545wcx9tw",
       "titel": "FLUSTRET - STUDENTSKIVA LUNDELLSKA CELSIUS 18 MAJ",
       "start": "2027-05-18T21:30:00+02:00",
@@ -10148,6 +10040,43 @@
           "punk",
           "rock",
           "uk subs"
+        ]
+      }
+    },
+    {
+      "id": "tickster-jgapetpmvnpa6v2",
+      "titel": "Celebrating Meat Loaf – Bat50 (US)",
+      "start": "2027-07-11T19:00:00+02:00",
+      "slut": "2027-07-11T21:00:00+02:00",
+      "plats": {
+        "namn": "Parksnäckan",
+        "id": "parksnackan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/jgapetpmvnpa6v2/2027-07-11/celebrating-meat-loaf-bat50-us",
+          "biljetter": "https://secure.tickster.com/sv/jgapetpmvnpa6v2"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "parksnäckan",
+          "uppsala",
+          "sommar",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "meat loaf",
+          "bat out of hell",
+          "rock"
         ]
       }
     },
