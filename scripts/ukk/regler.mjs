@@ -31,6 +31,9 @@ const slugs = (klasser, prefix) => (klasser || []).filter((k) => k.startsWith(pr
 export function kategori(titel, klasser) {
   const egna = slugs(klasser, "category-");
   for (const [slug, kat] of KATEGORIER) if (egna.includes(slug)) return kat;
+  // Bara "Barn & familj": på UKK är det oftast en föreställning ("Bamse och
+  // Sjörövarskatten"), om inte titeln säger något annat (en julmarknad).
+  if (egna.includes("barn")) return gissaKategori(titel, "scen");
   // "Övrigt", "Festligheter & högtider" och "Jul" säger inget. Då får titeln avgöra.
   return gissaKategori(titel, "ovrigt");
 }

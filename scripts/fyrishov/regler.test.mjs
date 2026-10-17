@@ -3,7 +3,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { bearbeta } from "./regler.mjs";
+import { bearbeta, matchSport } from "./regler.mjs";
 
 const text = readFileSync(new URL("./exempel.ics", import.meta.url), "utf8");
 const evenemang = bearbeta(text, "2026-10-16");
@@ -36,4 +36,17 @@ test("Fyrishov: inställt, plats utan rum och ingen beskrivning", () => {
   assert.equal(efter(28002).installd, true);
   assert.equal(efter(28002).plats.rum, undefined);
   assert.ok(!JSON.stringify(evenemang).includes("Påhittad beskrivning"));
+});
+
+test("Fyrishov: träningspass i badet är inga evenemang", () => {
+  assert.equal(efter(28004), undefined, "Virtuell vattenträning tas bort");
+});
+
+test("Fyrishov: matcher blir sport även utan sportord i titeln", () => {
+  assert.equal(efter(28005).kategori, "sport");
+  assert.equal(efter(28005).sport, "Handboll", "Uppsala HK finns i lagtabellen");
+  assert.equal(efter(26697).sport, "Basket");
+  assert.equal(matchSport("Uppsala Volleyboll – Habo Wolley"), "", "en match, men laget finns inte i tabellen");
+  assert.equal(matchSport("Retro- & antikmässa"), null);
+  assert.equal(matchSport("Mega Dance WKND"), null);
 });

@@ -19,7 +19,6 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
 - [ ] **Du:** Lägg in `TICKSTER_API_KEY` när Tickster svarar. API-vägen är redan byggd.
 - [ ] **Du:** Håll ett öga på ärenden med etiketten `larm` under *Issues*. De skapas och stängs automatiskt. Kommer en begäran om att ta bort ett evenemang (från `integritet.html`), be Claude lägga in den i `data/rattelser.json` samma dag (Ticketmasters villkor: inom 24 timmar).
 - [ ] **Claude:** Efter första körningen med det nya bygget: kontrollera kvalitetsrapporten (`data/kvalitet.json`), hur många Kubik-perioder som fick veckodagar, och att inga larm är oväntade.
-- [ ] **Claude:** Kontrollera morgonkörningen 17 okt 2026, den första för de sju nya källorna. UKK, Musik i Uppland och Fyrishov har bara provats mot exempeldata. Väntat: runt 125 från UKK, 25 från Musik i Uppland och 60 från Fyrishov. Kolla också att "Endagsevenemang utan klockslag" ligger under 5 % (Biotopia anger mest datum).
 
 - [ ] **Du:** Lägg in Svenska kyrkans nyckel som hemligheten `SVK_API_KEY` (GitHub → *Settings* → *Secrets and variables* → *Actions*). Då kommer kyrkornas konserter med nästa morgon.
 - [ ] **Claude:** Kontrollera Svenska kyrkans första riktiga körning. Fältnamnen i API-svaret är gissade och kan behöva justeras.
@@ -93,6 +92,8 @@ Beslut som Claude tog under arbetet med `UPPDRAG-KVALITET.md`, enligt regeln "v�
 - [ ] **Löpande:** titta under *Actions* ibland. En röd körning eller en gul varning betyder att en källa har ändrat något. Du får också mejl från GitHub.
 
 ## Klart
+
+- [x] 17 okt 2026: första morgonkörningen med de nya källorna gick igenom. Rättat: Fyrishovs träningspass i badet ("Virtuell vattenträning", runt 200 rader) tas bort och gav 65 falska dubbletter, matcher utan sportord blir sport, och UKK:s barnföreställningar blir scen.
 
 - [x] 16 okt 2026: sju nya källor med öppna flöden: Musik i Uppland, Katalin, Uppsala Konsert & Kongress, Uppsala Missionskyrka, Bror Hjorths Hus, Biotopia och Fyrishov. Kartläggning av ytterligare 25 källor (`KALLOR.md`). Rättat i mobilen: långa etiketter och källänkar gick utanför skärmen på vissa telefoner.
 
