@@ -1,17 +1,17 @@
 {
-  "matt": "2026-10-17T04:45:42.891Z",
+  "matt": "2026-10-17T05:23:43.277Z",
   "idag": "2026-10-17",
   "totalt": {
-    "antal": 2094,
-    "utanKlockslag": 0.038,
-    "ovrigt": 0.027,
+    "antal": 1882,
+    "utanKlockslag": 0.043,
+    "ovrigt": 0.029,
     "familjUtanAlder": 0.197,
-    "utanOmrade": 0.014,
+    "utanOmrade": 0.016,
     "sammanslagna": 767,
     "pagar14": 15,
     "borttagnaKurser": 24,
     "aiEvenemang": 0,
-    "misstanktaDubbletter": 65,
+    "misstanktaDubbletter": 0,
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
       "langvariga": 9,
@@ -19,10 +19,10 @@
       "serie-uttryckliga-datum": 10,
       "speltid-mot-tillfallen": 13,
       "festival": 32,
-      "lika": 386,
+      "lika": 377,
       "innehaller": 109,
       "likhet": 2,
-      "sport": 78
+      "sport": 87
     }
   },
   "perKalla": {
@@ -108,7 +108,7 @@
       "namn": "UKK",
       "antal": 94,
       "utanKlockslag": 0,
-      "ovrigt": 0.053,
+      "ovrigt": 0.021,
       "familjUtanAlder": 0.759,
       "utanOmrade": 0,
       "sammanslagna": 234,
@@ -158,22 +158,22 @@
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 261,
+      "antal": 49,
       "utanKlockslag": 0,
-      "ovrigt": 0.008,
+      "ovrigt": 0.041,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
       "sammanslagna": 47,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
-      "misstanktaDubbletter": 65
+      "misstanktaDubbletter": 0
     },
     "d": {
       "namn": "Destination Uppsala",
       "antal": 257,
       "utanKlockslag": 0.075,
-      "ovrigt": 0.121,
+      "ovrigt": 0.109,
       "familjUtanAlder": 0.778,
       "utanOmrade": 0.031,
       "sammanslagna": 321,
@@ -186,7 +186,7 @@
       "namn": "Heja",
       "antal": 406,
       "utanKlockslag": 0.053,
-      "ovrigt": 0.039,
+      "ovrigt": 0.032,
       "familjUtanAlder": 0.822,
       "utanOmrade": 0.02,
       "sammanslagna": 451,
@@ -199,7 +199,7 @@
       "namn": "Tickster",
       "antal": 255,
       "utanKlockslag": 0.021,
-      "ovrigt": 0.035,
+      "ovrigt": 0.024,
       "familjUtanAlder": 0.647,
       "utanOmrade": 0.02,
       "sammanslagna": 399,
@@ -209,248 +209,7 @@
       "misstanktaDubbletter": 0
     }
   },
-  "exempelDubbletter": [
-    {
-      "dag": "2026-10-17",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "07:45",
-        "08:45"
-      ]
-    },
-    {
-      "dag": "2026-10-18",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "07:45",
-        "08:45"
-      ]
-    },
-    {
-      "dag": "2026-10-19",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    },
-    {
-      "dag": "2026-10-20",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    },
-    {
-      "dag": "2026-10-21",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    },
-    {
-      "dag": "2026-10-22",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    },
-    {
-      "dag": "2026-10-23",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    },
-    {
-      "dag": "2026-10-24",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "07:45",
-        "08:45"
-      ]
-    },
-    {
-      "dag": "2026-10-25",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "07:45",
-        "08:45"
-      ]
-    },
-    {
-      "dag": "2026-10-26",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    },
-    {
-      "dag": "2026-10-27",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    },
-    {
-      "dag": "2026-10-28",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    },
-    {
-      "dag": "2026-10-29",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    },
-    {
-      "dag": "2026-10-30",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    },
-    {
-      "dag": "2026-10-31",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "07:45",
-        "08:45"
-      ]
-    },
-    {
-      "dag": "2026-11-01",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "07:45",
-        "08:45"
-      ]
-    },
-    {
-      "dag": "2026-11-02",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    },
-    {
-      "dag": "2026-11-03",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    },
-    {
-      "dag": "2026-11-04",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    },
-    {
-      "dag": "2026-11-05",
-      "plats": "fyrishov",
-      "titlar": [
-        "Virtuell vattenträning",
-        "Virtuell vattenträning"
-      ],
-      "tider": [
-        "06:45",
-        "07:45"
-      ]
-    }
-  ],
+  "exempelDubbletter": [],
   "sammanslagningar": [
     {
       "regel": "langvariga",
@@ -3022,7 +2781,7 @@
       "poang": 1
     },
     {
-      "regel": "lika",
+      "regel": "sport",
       "dag": "2026-10-24",
       "plats": "fyrishov",
       "kallor": [
@@ -3116,7 +2875,7 @@
       "poang": 1
     },
     {
-      "regel": "lika",
+      "regel": "sport",
       "dag": "2026-11-21",
       "plats": "fyrishov",
       "kallor": [
@@ -3169,7 +2928,7 @@
       "poang": 1
     },
     {
-      "regel": "lika",
+      "regel": "sport",
       "dag": "2026-12-05",
       "plats": "fyrishov",
       "kallor": [
@@ -3221,7 +2980,7 @@
       "poang": 1
     },
     {
-      "regel": "lika",
+      "regel": "sport",
       "dag": "2026-12-12",
       "plats": "fyrishov",
       "kallor": [
@@ -3248,7 +3007,7 @@
       "poang": 1
     },
     {
-      "regel": "lika",
+      "regel": "sport",
       "dag": "2026-12-19",
       "plats": "fyrishov",
       "kallor": [
@@ -3261,7 +3020,7 @@
       "poang": 1
     },
     {
-      "regel": "lika",
+      "regel": "sport",
       "dag": "2026-12-19",
       "plats": "fyrishov",
       "kallor": [
@@ -3382,7 +3141,7 @@
       "poang": 1
     },
     {
-      "regel": "lika",
+      "regel": "sport",
       "dag": "2027-01-25",
       "plats": "fyrishov",
       "kallor": [
@@ -3408,7 +3167,7 @@
       "poang": 1
     },
     {
-      "regel": "lika",
+      "regel": "sport",
       "dag": "2027-01-30",
       "plats": "fyrishov",
       "kallor": [
@@ -3488,7 +3247,7 @@
       "poang": 1
     },
     {
-      "regel": "lika",
+      "regel": "sport",
       "dag": "2027-02-13",
       "plats": "fyrishov",
       "kallor": [
@@ -9733,29 +9492,29 @@
     {
       "person": "Allmänt",
       "namn": "Misstänkta dubbletter",
-      "ok": false,
-      "varde": 65,
+      "ok": true,
+      "varde": 0,
       "krav": "0"
     },
     {
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "2.7 %",
+      "varde": "2.9 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "1.4 %",
+      "varde": "1.6 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "3.8 %",
+      "varde": "4.3 %",
       "krav": "under 5 %"
     }
   ]

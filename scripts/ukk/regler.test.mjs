@@ -3,7 +3,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { bearbeta } from "./regler.mjs";
+import { bearbeta, kategori } from "./regler.mjs";
 
 const exempel = JSON.parse(readFileSync(new URL("./exempel.json", import.meta.url), "utf8"));
 const NU = new Date("2026-10-16T08:00:00Z");
@@ -31,4 +31,10 @@ test("UKK: barn och familj, inställt och fakta", () => {
   assert.equal(efter(34016).barnOchFamilj, false);
   assert.equal(efter(45004).installd, true);
   assert.deepEqual(efter(44566).fakta, { kategorier: ["jazz"], taggar: ["student", "mhv"] });
+});
+
+test("UKK: bara barn och familj blir scen, utom när titeln säger annat", () => {
+  assert.equal(kategori("Bamse och Sjörövarskatten", ["category-barn"]), "scen");
+  assert.equal(kategori("Local Femmes julmarknad", ["category-barn"]), "ovrigt");
+  assert.equal(kategori("Barnens julkonsert", ["category-barn"]), "musik");
 });

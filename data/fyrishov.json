@@ -2,7 +2,7 @@
   "kalla": "Fyrishov",
   "webbsida": "https://fyrishov.se/",
   "hamtad": "2026-10-17T04:45:42.268Z",
-  "antal": 65,
+  "antal": 58,
   "evenemang": [
     {
       "id": "fyrishov-27059",
@@ -31,112 +31,6 @@
       "slut": "2026-10-17T16:00:00+02:00"
     },
     {
-      "id": "fyrishov-27817",
-      "titel": "Virtuell vattenträning",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Äventyrsbadet"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-lor-son-0745-0830/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-17T07:45:00+02:00",
-      "slut": "2026-12-20T08:30:00+01:00",
-      "format": "aterkommande",
-      "serie": {
-        "datum": [
-          "2026-10-17",
-          "2026-10-18",
-          "2026-10-24",
-          "2026-10-25",
-          "2026-10-31",
-          "2026-11-01",
-          "2026-11-07",
-          "2026-11-08",
-          "2026-11-14",
-          "2026-11-15",
-          "2026-11-21",
-          "2026-11-22",
-          "2026-11-28",
-          "2026-11-29",
-          "2026-12-05",
-          "2026-12-06",
-          "2026-12-12",
-          "2026-12-13",
-          "2026-12-19",
-          "2026-12-20"
-        ],
-        "start": "07:45",
-        "slut": "08:30"
-      }
-    },
-    {
-      "id": "fyrishov-27819",
-      "titel": "Virtuell vattenträning",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Äventyrsbadet"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-lor-son-0845-0915/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-17T08:45:00+02:00",
-      "slut": "2026-12-20T09:15:00+01:00",
-      "format": "aterkommande",
-      "serie": {
-        "datum": [
-          "2026-10-17",
-          "2026-10-18",
-          "2026-10-24",
-          "2026-10-25",
-          "2026-10-31",
-          "2026-11-01",
-          "2026-11-07",
-          "2026-11-08",
-          "2026-11-14",
-          "2026-11-15",
-          "2026-11-21",
-          "2026-11-22",
-          "2026-11-28",
-          "2026-11-29",
-          "2026-12-05",
-          "2026-12-06",
-          "2026-12-12",
-          "2026-12-13",
-          "2026-12-19",
-          "2026-12-20"
-        ],
-        "start": "08:45",
-        "slut": "09:15"
-      }
-    },
-    {
       "id": "fyrishov-14685",
       "titel": "Regiontävling rytmisk gymnastik",
       "plats": {
@@ -163,343 +57,6 @@
       "slut": "2026-10-17T18:30:00+02:00"
     },
     {
-      "id": "fyrishov-27808",
-      "titel": "Virtuell vattenträning",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Äventyrsbadet"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-man-fre-0645-0730/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-19T06:45:00+02:00",
-      "slut": "2026-12-18T07:30:00+01:00",
-      "format": "aterkommande",
-      "serie": {
-        "datum": [
-          "2026-10-19",
-          "2026-10-20",
-          "2026-10-21",
-          "2026-10-22",
-          "2026-10-23",
-          "2026-10-26",
-          "2026-10-27",
-          "2026-10-28",
-          "2026-10-29",
-          "2026-10-30",
-          "2026-11-02",
-          "2026-11-03",
-          "2026-11-04",
-          "2026-11-05",
-          "2026-11-06",
-          "2026-11-09",
-          "2026-11-10",
-          "2026-11-11",
-          "2026-11-12",
-          "2026-11-13",
-          "2026-11-16",
-          "2026-11-17",
-          "2026-11-18",
-          "2026-11-19",
-          "2026-11-20",
-          "2026-11-23",
-          "2026-11-24",
-          "2026-11-25",
-          "2026-11-26",
-          "2026-11-27",
-          "2026-11-30",
-          "2026-12-01",
-          "2026-12-02",
-          "2026-12-03",
-          "2026-12-04",
-          "2026-12-07",
-          "2026-12-08",
-          "2026-12-09",
-          "2026-12-10",
-          "2026-12-11",
-          "2026-12-14",
-          "2026-12-15",
-          "2026-12-16",
-          "2026-12-17",
-          "2026-12-18"
-        ],
-        "start": "06:45",
-        "slut": "07:30"
-      }
-    },
-    {
-      "id": "fyrishov-27811",
-      "titel": "Virtuell vattenträning",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Äventyrsbadet"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-man-fre-0745-0830-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-19T07:45:00+02:00",
-      "slut": "2026-12-21T08:30:00+01:00",
-      "format": "aterkommande",
-      "serie": {
-        "datum": [
-          "2026-10-19",
-          "2026-10-20",
-          "2026-10-21",
-          "2026-10-22",
-          "2026-10-23",
-          "2026-10-26",
-          "2026-10-27",
-          "2026-10-28",
-          "2026-10-29",
-          "2026-10-30",
-          "2026-11-02",
-          "2026-11-03",
-          "2026-11-04",
-          "2026-11-05",
-          "2026-11-06",
-          "2026-11-09",
-          "2026-11-10",
-          "2026-11-11",
-          "2026-11-12",
-          "2026-11-13",
-          "2026-11-16",
-          "2026-11-17",
-          "2026-11-18",
-          "2026-11-19",
-          "2026-11-20",
-          "2026-11-23",
-          "2026-11-24",
-          "2026-11-25",
-          "2026-11-26",
-          "2026-11-27",
-          "2026-11-30",
-          "2026-12-01",
-          "2026-12-02",
-          "2026-12-03",
-          "2026-12-04",
-          "2026-12-07",
-          "2026-12-08",
-          "2026-12-09",
-          "2026-12-10",
-          "2026-12-11",
-          "2026-12-14",
-          "2026-12-15",
-          "2026-12-16",
-          "2026-12-17",
-          "2026-12-18",
-          "2026-12-21"
-        ],
-        "start": "07:45",
-        "slut": "08:30"
-      }
-    },
-    {
-      "id": "fyrishov-27813",
-      "titel": "Virtuell vattenträning",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Äventyrsbadet"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-man-fre-1200-1245/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-19T12:00:00+02:00",
-      "slut": "2026-12-21T12:45:00+01:00",
-      "format": "aterkommande",
-      "serie": {
-        "datum": [
-          "2026-10-19",
-          "2026-10-20",
-          "2026-10-21",
-          "2026-10-22",
-          "2026-10-23",
-          "2026-11-02",
-          "2026-11-03",
-          "2026-11-04",
-          "2026-11-05",
-          "2026-11-06",
-          "2026-11-09",
-          "2026-11-10",
-          "2026-11-11",
-          "2026-11-12",
-          "2026-11-13",
-          "2026-11-16",
-          "2026-11-17",
-          "2026-11-18",
-          "2026-11-19",
-          "2026-11-20",
-          "2026-11-23",
-          "2026-11-24",
-          "2026-11-25",
-          "2026-11-26",
-          "2026-11-27",
-          "2026-11-30",
-          "2026-12-01",
-          "2026-12-02",
-          "2026-12-03",
-          "2026-12-04",
-          "2026-12-07",
-          "2026-12-08",
-          "2026-12-09",
-          "2026-12-10",
-          "2026-12-11",
-          "2026-12-14",
-          "2026-12-15",
-          "2026-12-16",
-          "2026-12-17",
-          "2026-12-18",
-          "2026-12-21"
-        ],
-        "start": "12:00",
-        "slut": "12:45"
-      }
-    },
-    {
-      "id": "fyrishov-27815",
-      "titel": "Virtuell vattenträning",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Äventyrsbadet"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-man-tors-1800-1845/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-19T18:00:00+02:00",
-      "slut": "2026-12-17T18:45:00+01:00",
-      "format": "aterkommande",
-      "serie": {
-        "datum": [
-          "2026-10-19",
-          "2026-10-20",
-          "2026-10-21",
-          "2026-10-22",
-          "2026-11-02",
-          "2026-11-03",
-          "2026-11-04",
-          "2026-11-05",
-          "2026-11-09",
-          "2026-11-10",
-          "2026-11-11",
-          "2026-11-12",
-          "2026-11-16",
-          "2026-11-17",
-          "2026-11-18",
-          "2026-11-19",
-          "2026-11-23",
-          "2026-11-24",
-          "2026-11-25",
-          "2026-11-26",
-          "2026-11-30",
-          "2026-12-01",
-          "2026-12-02",
-          "2026-12-03",
-          "2026-12-07",
-          "2026-12-08",
-          "2026-12-09",
-          "2026-12-10",
-          "2026-12-14",
-          "2026-12-15",
-          "2026-12-16",
-          "2026-12-17"
-        ],
-        "start": "18:00",
-        "slut": "18:45"
-      }
-    },
-    {
-      "id": "fyrishov-27853",
-      "titel": "Virtuell vattenträning",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Äventyrsbadet"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-fre-1800-1835/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-23T18:00:00+02:00",
-      "slut": "2026-12-18T18:35:00+01:00",
-      "format": "aterkommande",
-      "serie": {
-        "datum": [
-          "2026-10-23",
-          "2026-11-06",
-          "2026-11-13",
-          "2026-11-20",
-          "2026-11-27",
-          "2026-12-04",
-          "2026-12-11",
-          "2026-12-18"
-        ],
-        "start": "18:00",
-        "slut": "18:35"
-      }
-    },
-    {
       "id": "fyrishov-26697",
       "titel": "Uppsala Basket – Umeå Basket",
       "plats": {
@@ -523,7 +80,8 @@
         "taggar": []
       },
       "start": "2026-10-23T19:04:00+02:00",
-      "slut": "2026-10-23T20:30:00+02:00"
+      "slut": "2026-10-23T20:30:00+02:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-27279",
@@ -559,7 +117,7 @@
         "id": "fyrishov",
         "rum": "Hall B"
       },
-      "kategori": "aktivitet",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -575,7 +133,8 @@
         "taggar": []
       },
       "start": "2026-10-24T16:00:00+02:00",
-      "slut": "2026-10-24T18:00:00+02:00"
+      "slut": "2026-10-24T18:00:00+02:00",
+      "sport": "Handboll"
     },
     {
       "id": "fyrishov-18278",
@@ -731,7 +290,8 @@
         "taggar": []
       },
       "start": "2026-11-02T19:04:00+01:00",
-      "slut": "2026-11-02T20:30:00+01:00"
+      "slut": "2026-11-02T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-26750",
@@ -757,7 +317,8 @@
         "taggar": []
       },
       "start": "2026-11-03T19:04:00+01:00",
-      "slut": "2026-11-03T20:30:00+01:00"
+      "slut": "2026-11-03T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-27079",
@@ -809,7 +370,8 @@
         "taggar": []
       },
       "start": "2026-11-09T19:04:00+01:00",
-      "slut": "2026-11-09T20:30:00+01:00"
+      "slut": "2026-11-09T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-22803",
@@ -861,7 +423,8 @@
         "taggar": []
       },
       "start": "2026-11-13T19:04:00+01:00",
-      "slut": "2026-11-13T20:30:00+01:00"
+      "slut": "2026-11-13T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-18285",
@@ -897,7 +460,7 @@
         "id": "fyrishov",
         "rum": "Hall B"
       },
-      "kategori": "aktivitet",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -913,7 +476,8 @@
         "taggar": []
       },
       "start": "2026-11-21T14:00:00+01:00",
-      "slut": "2026-11-21T16:00:00+01:00"
+      "slut": "2026-11-21T16:00:00+01:00",
+      "sport": "Handboll"
     },
     {
       "id": "fyrishov-18279",
@@ -965,7 +529,8 @@
         "taggar": []
       },
       "start": "2026-11-22T19:04:00+01:00",
-      "slut": "2026-11-22T20:30:00+01:00"
+      "slut": "2026-11-22T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-20750",
@@ -1069,7 +634,8 @@
         "taggar": []
       },
       "start": "2026-12-04T19:04:00+01:00",
-      "slut": "2026-12-04T20:30:00+01:00"
+      "slut": "2026-12-04T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-27899",
@@ -1079,7 +645,7 @@
         "id": "fyrishov",
         "rum": "Hall B"
       },
-      "kategori": "aktivitet",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1095,7 +661,8 @@
         "taggar": []
       },
       "start": "2026-12-05T16:00:00+01:00",
-      "slut": "2026-12-05T18:00:00+01:00"
+      "slut": "2026-12-05T18:00:00+01:00",
+      "sport": "Handboll"
     },
     {
       "id": "fyrishov-26708",
@@ -1121,7 +688,8 @@
         "taggar": []
       },
       "start": "2026-12-05T17:04:00+01:00",
-      "slut": "2026-12-05T18:30:00+01:00"
+      "slut": "2026-12-05T18:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-26745",
@@ -1147,7 +715,8 @@
         "taggar": []
       },
       "start": "2026-12-08T19:04:00+01:00",
-      "slut": "2026-12-08T20:30:00+01:00"
+      "slut": "2026-12-08T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-12761",
@@ -1173,7 +742,8 @@
         "taggar": []
       },
       "start": "2026-12-11T19:04:00+01:00",
-      "slut": "2026-12-11T20:30:00+01:00"
+      "slut": "2026-12-11T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-26740",
@@ -1183,7 +753,7 @@
         "id": "fyrishov",
         "rum": "Hall A"
       },
-      "kategori": "aktivitet",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1199,7 +769,8 @@
         "taggar": []
       },
       "start": "2026-12-12T17:04:00+01:00",
-      "slut": "2026-12-12T18:30:00+01:00"
+      "slut": "2026-12-12T18:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-18276",
@@ -1235,7 +806,7 @@
         "id": "fyrishov",
         "rum": "Hall B"
       },
-      "kategori": "aktivitet",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1251,7 +822,8 @@
         "taggar": []
       },
       "start": "2026-12-19T16:00:00+01:00",
-      "slut": "2026-12-19T18:00:00+01:00"
+      "slut": "2026-12-19T18:00:00+01:00",
+      "sport": "Handboll"
     },
     {
       "id": "fyrishov-26744",
@@ -1261,7 +833,7 @@
         "id": "fyrishov",
         "rum": "Hall A"
       },
-      "kategori": "aktivitet",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1277,7 +849,8 @@
         "taggar": []
       },
       "start": "2026-12-19T17:04:00+01:00",
-      "slut": "2026-12-19T18:30:00+01:00"
+      "slut": "2026-12-19T18:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-18286",
@@ -1329,7 +902,8 @@
         "taggar": []
       },
       "start": "2026-12-30T19:04:00+01:00",
-      "slut": "2026-12-30T20:30:00+01:00"
+      "slut": "2026-12-30T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-23808",
@@ -1355,7 +929,8 @@
         "taggar": []
       },
       "start": "2027-01-05T19:04:00+01:00",
-      "slut": "2027-01-05T20:30:00+01:00"
+      "slut": "2027-01-05T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-27748",
@@ -1381,7 +956,8 @@
         "taggar": []
       },
       "start": "2027-01-09T17:04:00+01:00",
-      "slut": "2027-01-09T18:30:00+01:00"
+      "slut": "2027-01-09T18:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-18272",
@@ -1433,7 +1009,8 @@
         "taggar": []
       },
       "start": "2027-01-10T17:04:00+01:00",
-      "slut": "2027-01-10T18:30:00+01:00"
+      "slut": "2027-01-10T18:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-26736",
@@ -1459,7 +1036,8 @@
         "taggar": []
       },
       "start": "2027-01-18T19:04:00+01:00",
-      "slut": "2027-01-18T20:30:00+01:00"
+      "slut": "2027-01-18T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-12766",
@@ -1485,7 +1063,8 @@
         "taggar": []
       },
       "start": "2027-01-19T19:04:00+01:00",
-      "slut": "2027-01-19T20:30:00+01:00"
+      "slut": "2027-01-19T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-26734",
@@ -1495,7 +1074,7 @@
         "id": "fyrishov",
         "rum": "Hall A"
       },
-      "kategori": "aktivitet",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1511,7 +1090,8 @@
         "taggar": []
       },
       "start": "2027-01-25T19:04:00+01:00",
-      "slut": "2027-01-25T20:30:00+01:00"
+      "slut": "2027-01-25T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-27474",
@@ -1537,7 +1117,8 @@
         "taggar": []
       },
       "start": "2027-01-26T19:04:00+01:00",
-      "slut": "2027-01-26T20:30:00+01:00"
+      "slut": "2027-01-26T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-21251",
@@ -1547,7 +1128,7 @@
         "id": "fyrishov",
         "rum": "Hall B"
       },
-      "kategori": "aktivitet",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1563,7 +1144,8 @@
         "taggar": []
       },
       "start": "2027-01-30T16:00:00+01:00",
-      "slut": "2027-01-30T18:00:00+01:00"
+      "slut": "2027-01-30T18:00:00+01:00",
+      "sport": "Handboll"
     },
     {
       "id": "fyrishov-27893",
@@ -1615,7 +1197,8 @@
         "taggar": []
       },
       "start": "2027-02-05T19:04:00+01:00",
-      "slut": "2027-02-05T20:30:00+01:00"
+      "slut": "2027-02-05T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-27753",
@@ -1641,7 +1224,8 @@
         "taggar": []
       },
       "start": "2027-02-09T19:04:00+01:00",
-      "slut": "2027-02-09T20:30:00+01:00"
+      "slut": "2027-02-09T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-26706",
@@ -1667,7 +1251,8 @@
         "taggar": []
       },
       "start": "2027-02-12T19:04:00+01:00",
-      "slut": "2027-02-12T20:30:00+01:00"
+      "slut": "2027-02-12T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-18274",
@@ -1703,7 +1288,7 @@
         "id": "fyrishov",
         "rum": "Hall A"
       },
-      "kategori": "aktivitet",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1719,7 +1304,8 @@
         "taggar": []
       },
       "start": "2027-02-13T17:04:00+01:00",
-      "slut": "2027-02-13T18:30:00+01:00"
+      "slut": "2027-02-13T18:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-18287",
@@ -1781,7 +1367,7 @@
         "id": "fyrishov",
         "rum": "Hall A"
       },
-      "kategori": "aktivitet",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1797,7 +1383,8 @@
         "taggar": []
       },
       "start": "2027-03-04T19:04:00+01:00",
-      "slut": "2027-03-04T20:30:00+01:00"
+      "slut": "2027-03-04T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-24180",
@@ -1807,7 +1394,7 @@
         "id": "fyrishov",
         "rum": "Hall B"
       },
-      "kategori": "aktivitet",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1823,7 +1410,8 @@
         "taggar": []
       },
       "start": "2027-03-06T13:45:00+01:00",
-      "slut": "2027-03-06T15:45:00+01:00"
+      "slut": "2027-03-06T15:45:00+01:00",
+      "sport": "Handboll"
     },
     {
       "id": "fyrishov-27917",
@@ -1849,7 +1437,8 @@
         "taggar": []
       },
       "start": "2027-03-09T19:04:00+01:00",
-      "slut": "2027-03-09T20:30:00+01:00"
+      "slut": "2027-03-09T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-27754",
@@ -1875,7 +1464,8 @@
         "taggar": []
       },
       "start": "2027-03-17T19:04:00+01:00",
-      "slut": "2027-03-17T20:30:00+01:00"
+      "slut": "2027-03-17T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-27750",
@@ -1901,7 +1491,8 @@
         "taggar": []
       },
       "start": "2027-03-19T19:04:00+01:00",
-      "slut": "2027-03-19T20:30:00+01:00"
+      "slut": "2027-03-19T20:30:00+01:00",
+      "sport": "Basket"
     },
     {
       "id": "fyrishov-25728",
@@ -1911,7 +1502,7 @@
         "id": "fyrishov",
         "rum": "Hall B"
       },
-      "kategori": "aktivitet",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1927,7 +1518,8 @@
         "taggar": []
       },
       "start": "2027-03-20T16:00:00+01:00",
-      "slut": "2027-03-20T18:00:00+01:00"
+      "slut": "2027-03-20T18:00:00+01:00",
+      "sport": "Handboll"
     },
     {
       "id": "fyrishov-27755",
@@ -1937,7 +1529,7 @@
         "id": "fyrishov",
         "rum": "Hall A"
       },
-      "kategori": "aktivitet",
+      "kategori": "sport",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1953,7 +1545,8 @@
         "taggar": []
       },
       "start": "2027-03-20T17:04:00+01:00",
-      "slut": "2027-03-20T18:30:00+01:00"
+      "slut": "2027-03-20T18:30:00+01:00",
+      "sport": "Basket"
     }
   ]
 }

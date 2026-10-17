@@ -88,4 +88,23 @@ LOCATION:Hall B
 SUMMARY:Bröllopsmässa
 URL:https://fyrishov.se/aktivitet/brollopsmassa/
 END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-28004@fyrishov.se/wordpress
+DTSTAMP:20261016T093836Z
+DTSTART;TZID=Europe/Stockholm:20260901T064500
+DTEND;TZID=Europe/Stockholm:20260901T073000
+LOCATION:Träningsbassängen
+RRULE:FREQ=WEEKLY;UNTIL=20261231T225959Z;BYDAY=MO,TU,WE,TH,FR;WKST=MO
+SUMMARY:Virtuell vattenträning
+URL:https://fyrishov.se/aktivitet/virtuell-vattentraning/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai1ec-28005@fyrishov.se/wordpress
+DTSTAMP:20261016T093836Z
+DTSTART;TZID=Europe/Stockholm:20261108T150000
+DTEND;TZID=Europe/Stockholm:20261108T170000
+LOCATION:Hall A
+SUMMARY:Uppsala HK – Täby HBK
+URL:https://fyrishov.se/aktivitet/uppsala-hk-taby-hbk/
+END:VEVENT
 END:VCALENDAR
