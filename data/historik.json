@@ -44,12 +44,16 @@
       {
         "datum": "2026-10-16",
         "antal": 172
+      },
+      {
+        "datum": "2026-10-17",
+        "antal": 170
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-16",
-      "antal": 172,
+      "datum": "2026-10-17",
+      "antal": 170,
       "status": "ok"
     }
   },
@@ -98,12 +102,16 @@
       {
         "datum": "2026-10-16",
         "antal": 184
+      },
+      {
+        "datum": "2026-10-17",
+        "antal": 182
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-16",
-      "antal": 184,
+      "datum": "2026-10-17",
+      "antal": 182,
       "status": "ok"
     }
   },
@@ -144,12 +152,16 @@
       {
         "datum": "2026-10-16",
         "antal": 319
+      },
+      {
+        "datum": "2026-10-17",
+        "antal": 316
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-16",
-      "antal": 319,
+      "datum": "2026-10-17",
+      "antal": 316,
       "status": "ok"
     }
   },
@@ -198,12 +210,16 @@
       {
         "datum": "2026-10-16",
         "antal": 448
+      },
+      {
+        "datum": "2026-10-17",
+        "antal": 449
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-16",
-      "antal": 448,
+      "datum": "2026-10-17",
+      "antal": 449,
       "status": "ok"
     }
   },
@@ -252,12 +268,16 @@
       {
         "datum": "2026-10-16",
         "antal": 290
+      },
+      {
+        "datum": "2026-10-17",
+        "antal": 291
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-16",
-      "antal": 290,
+      "datum": "2026-10-17",
+      "antal": 291,
       "status": "ok"
     }
   },
@@ -306,11 +326,15 @@
       {
         "datum": "2026-10-16",
         "antal": 136
+      },
+      {
+        "datum": "2026-10-17",
+        "antal": 136
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-16",
+      "datum": "2026-10-17",
       "antal": 136,
       "status": "ok"
     }
@@ -356,12 +380,16 @@
       {
         "datum": "2026-10-16",
         "antal": 375
+      },
+      {
+        "datum": "2026-10-17",
+        "antal": 371
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-16",
-      "antal": 375,
+      "datum": "2026-10-17",
+      "antal": 371,
       "status": "ok"
     }
   },
@@ -370,12 +398,16 @@
       {
         "datum": "2026-10-16",
         "antal": 99
+      },
+      {
+        "datum": "2026-10-17",
+        "antal": 100
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-16",
-      "antal": 99,
+      "datum": "2026-10-17",
+      "antal": 100,
       "status": "ok"
     }
   },
@@ -384,12 +416,16 @@
       {
         "datum": "2026-10-16",
         "antal": 65
+      },
+      {
+        "datum": "2026-10-17",
+        "antal": 64
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-16",
-      "antal": 65,
+      "datum": "2026-10-17",
+      "antal": 64,
       "status": "ok"
     }
   },
@@ -398,12 +434,16 @@
       {
         "datum": "2026-10-16",
         "antal": 54
+      },
+      {
+        "datum": "2026-10-17",
+        "antal": 53
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-16",
-      "antal": 54,
+      "datum": "2026-10-17",
+      "antal": 53,
       "status": "ok"
     }
   },
@@ -412,12 +452,58 @@
       {
         "datum": "2026-10-16",
         "antal": 29
+      },
+      {
+        "datum": "2026-10-17",
+        "antal": 29
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-16",
+      "datum": "2026-10-17",
       "antal": 29,
+      "status": "ok"
+    }
+  },
+  "musik-i-uppland": {
+    "antal": [
+      {
+        "datum": "2026-10-17",
+        "antal": 20
+      }
+    ],
+    "dagarBehallen": 0,
+    "senaste": {
+      "datum": "2026-10-17",
+      "antal": 20,
+      "status": "ok"
+    }
+  },
+  "ukk": {
+    "antal": [
+      {
+        "datum": "2026-10-17",
+        "antal": 124
+      }
+    ],
+    "dagarBehallen": 0,
+    "senaste": {
+      "datum": "2026-10-17",
+      "antal": 124,
+      "status": "ok"
+    }
+  },
+  "fyrishov": {
+    "antal": [
+      {
+        "datum": "2026-10-17",
+        "antal": 65
+      }
+    ],
+    "dagarBehallen": 0,
+    "senaste": {
+      "datum": "2026-10-17",
+      "antal": 65,
       "status": "ok"
     }
   }

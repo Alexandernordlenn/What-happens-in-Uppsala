@@ -1,0 +1,3804 @@
+{
+  "kalla": "Uppsala Konsert & Kongress",
+  "webbsida": "https://ukk.se/",
+  "hamtad": "2026-10-17T04:45:21.305Z",
+  "antal": 124,
+  "evenemang": [
+    {
+      "id": "ukk-33242",
+      "titel": "Robert Wells – 40 år vid flygeln",
+      "start": "2026-10-18T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/robert-wells-40-ar-vid-flygeln/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt",
+          "jazz"
+        ],
+        "taggar": [
+          "jazz"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33335",
+      "titel": "Bo Kaspers Orkester – Il magnifico",
+      "start": "2026-10-18T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/bo-kaspers-orkester-il-magnifico/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-45768",
+      "titel": "Uppsala tillsammans – En glittrande funkisfest",
+      "start": "2026-10-20T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/uppsala-tillsammans-en-glittrande-funkisfest/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "samtal",
+          "barn"
+        ],
+        "taggar": [
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45773",
+      "titel": "Uppsala tillsammans – En glittrande funkisfest",
+      "start": "2026-10-20T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/uppsala-tillsammans-en-glittrande-funkisfest-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "samtal",
+          "barn"
+        ],
+        "taggar": [
+          "familj"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33953",
+      "titel": "Lisa Nilsson möter Bohuslän Big Band",
+      "start": "2026-10-20T19:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/lisa-nilsson-bohuslan-big-band/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz",
+          "pop-rock"
+        ],
+        "taggar": [
+          "jazz",
+          "publikfavoriter",
+          "student",
+          "mhv"
+        ]
+      }
+    },
+    {
+      "id": "ukk-31273",
+      "titel": "Inställt: Kulturfrukost – Ett kulturliv för alla",
+      "start": "2026-10-22T08:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/kulturfrukost-ett-kulturliv-for-alla/"
+        }
+      ],
+      "langvarig": false,
+      "installd": true,
+      "fakta": {
+        "kategorier": [
+          "samtal"
+        ],
+        "taggar": [
+          "kulturfrukost"
+        ]
+      }
+    },
+    {
+      "id": "ukk-44718",
+      "titel": "Det idéala – Beredd på vadå?",
+      "start": "2026-10-22T18:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/det-ideala-beredd-pa-vada/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "samtal"
+        ],
+        "taggar": [
+          "student"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34524",
+      "titel": "Bruch och Brahms – Uppsala Kammarorkester",
+      "start": "2026-10-22T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/bruch-och-brahms-uppsala-kammarorkester/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-35815",
+      "titel": "Carl-Johan Vallgren",
+      "start": "2026-10-22T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/carl-johan-vallgren/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": [
+          "student",
+          "mhv"
+        ]
+      }
+    },
+    {
+      "id": "ukk-46215",
+      "titel": "Uppsala Kortfilmfestival",
+      "start": "2026-10-23T10:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/uppsala-kortfilmfestival/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "samtal"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-28015",
+      "titel": "Grymlings – Det bästa för dig",
+      "start": "2026-10-23T19:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/grymlings-det-basta-for-dig/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-44564",
+      "titel": "Ellas Kapell – Jazzhörnan",
+      "start": "2026-10-23T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/ellas-kapell-jazzhornan/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ],
+        "taggar": [
+          "mhv",
+          "jazz",
+          "student"
+        ]
+      }
+    },
+    {
+      "id": "ukk-46228",
+      "titel": "Uppsala Kortfilmfestival",
+      "start": "2026-10-24T10:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/uppsala-kortfilmfestival-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "samtal",
+          "barn"
+        ],
+        "taggar": [
+          "hostlov"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34749",
+      "titel": "Familjekonsert – Peter och vargen",
+      "start": "2026-10-24T13:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/familjekonsert-peter-och-vargen/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn",
+          "klassiskt"
+        ],
+        "taggar": [
+          "familj",
+          "miu",
+          "hostlov"
+        ]
+      }
+    },
+    {
+      "id": "ukk-46198",
+      "titel": "Familjekonsert – Peter och vargen",
+      "start": "2026-10-24T14:15:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/familjekonsert-peter-och-vargen-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn",
+          "klassiskt"
+        ],
+        "taggar": [
+          "miu",
+          "hostlov"
+        ]
+      }
+    },
+    {
+      "id": "ukk-39331",
+      "titel": "Saltstänk & Smuggelsprit – En dö’kul buskis",
+      "start": "2026-10-24T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/saltstank-smuggelsprit-turne/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
+      "id": "ukk-39549",
+      "titel": "Carte Blanche – Trio X med hemliga gäster",
+      "start": "2026-10-24T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/carte-blanche-trio-x-med-hemliga-gaster-okt-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ],
+        "taggar": [
+          "jazz",
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-44267",
+      "titel": "Saltstänk & Smuggelsprit – En dö’kul buskis",
+      "start": "2026-10-24T19:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/saltstank-smuggelsprit-19-30/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "aktuellt",
+          "humor"
+        ]
+      }
+    },
+    {
+      "id": "ukk-46229",
+      "titel": "Uppsala Kortfilmfestival",
+      "start": "2026-10-25T10:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/uppsala-kortfilmfestival-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "samtal",
+          "barn"
+        ],
+        "taggar": [
+          "hostlov"
+        ]
+      }
+    },
+    {
+      "id": "ukk-44815",
+      "titel": "Ghibli Highlights of Joe Hisaishi",
+      "start": "2026-10-25T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/ghibli-highlights-of-joe-hisaishi-16-00/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "familj",
+          "student",
+          "mhv",
+          "hostlov"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33085",
+      "titel": "Tomas Ledin – Symphonia Politropou",
+      "start": "2026-10-25T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/tomas-ledin-symphonia-politropou/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt",
+          "pop-rock"
+        ],
+        "taggar": [
+          "publikfavoriter"
+        ]
+      }
+    },
+    {
+      "id": "ukk-40932",
+      "titel": "Ghibli Highlights of Joe Hisaishi",
+      "start": "2026-10-25T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/ghibli-highlights-of-joe-hisaishi-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "hostlov",
+          "student"
+        ]
+      }
+    },
+    {
+      "id": "ukk-44787",
+      "titel": "1789 – Den franska revolutionen",
+      "start": "2026-10-26T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/1789-den-franska-revolutionen/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt",
+          "barn"
+        ],
+        "taggar": [
+          "aktuellt",
+          "miu",
+          "hostlov",
+          "familj"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33441",
+      "titel": "Viktor Norén & Linus Wahlgren – Våra liv, våra musikaler",
+      "start": "2026-10-29T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/viktor-noren-linus-wahlgren/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-45879",
+      "titel": "Från Aladdin till Elsa",
+      "start": "2026-10-30T11:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/fran-aladdin-till-elsa-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn"
+        ],
+        "taggar": [
+          "aktuellt",
+          "hostlov",
+          "familj"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45138",
+      "titel": "Från Aladdin till Elsa",
+      "start": "2026-10-30T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/fran-aladdin-till-elsa/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn",
+          "teater"
+        ],
+        "taggar": [
+          "familj",
+          "hostlov"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33270",
+      "titel": "Elton John meets Freddie Mercury",
+      "start": "2026-10-30T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/elton-john-meets-freddie-mercury/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock",
+          "nostalgi-tribute"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-44693",
+      "titel": "Oktoberstämman 2026 – med Hoven Droven",
+      "start": "2026-10-31T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/oktoberstamman-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz",
+          "festligheter-hogtider",
+          "barn"
+        ],
+        "taggar": [
+          "hostlov",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45143",
+      "titel": "Fem myror – Konsert!",
+      "start": "2026-11-01T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/fem-myror-konsert/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn",
+          "jazz"
+        ],
+        "taggar": [
+          "hostlov",
+          "jazz",
+          "familj",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-27166",
+      "titel": "Elvis, Elvis, Elvis!",
+      "start": "2026-11-01T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/elvis-elvis-elvis-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "nostalgi-tribute",
+          "pop-rock"
+        ],
+        "taggar": [
+          "publikfavoriter"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34890",
+      "titel": "Maksim – Segmenti World Tour",
+      "start": "2026-11-05T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/maksim-segmenti-world-tour/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-29807",
+      "titel": "Sven Ingvars – Igår. Idag. Imorgon. 70 år.",
+      "start": "2026-11-06T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/sven-ingvars-igar-idag-imorgon-70-ar/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-44562",
+      "titel": "Bach Jazz – Jazzhörnan",
+      "start": "2026-11-06T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/bach-jazz-jazzhornan/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ],
+        "taggar": [
+          "jazz",
+          "aktuellt",
+          "student",
+          "mhv"
+        ]
+      }
+    },
+    {
+      "id": "ukk-32314",
+      "titel": "Creedence Tribute, Best of CCR & John Fogerty Tour",
+      "start": "2026-11-07T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/creedence-tribute-best-of-ccr-john-fogerty-tour/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock",
+          "nostalgi-tribute"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-35016",
+      "titel": "Kaeli Abdi – Påskkärringen",
+      "start": "2026-11-07T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/kaeli-abdi-paskkarringen/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
+      "id": "ukk-44490",
+      "titel": "Pussy Riot – Riot Days",
+      "start": "2026-11-07T21:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/pussy-riot-riot-days/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "samtal",
+          "pop-rock"
+        ],
+        "taggar": [
+          "student",
+          "mhv"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45722",
+      "titel": "Framtidsglöd",
+      "start": "2026-11-08T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/framtidsglod/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "samtal",
+          "barn"
+        ],
+        "taggar": [
+          "familj",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45291",
+      "titel": "Linnékvintetten 40 år – Jubileumskonsert",
+      "start": "2026-11-08T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/linnekvintetten-40-ar-jubileumskonsert/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "aktuellt",
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-43826",
+      "titel": "Jag är Carola – En musikalisk unik livsberättelse",
+      "start": "2026-11-08T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/jag-ar-carola-en-musikalisk-unik-livsberattelse/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": [
+          "publikfavoriter"
+        ]
+      }
+    },
+    {
+      "id": "ukk-27982",
+      "titel": "The Simon & Garfunkel Story",
+      "start": "2026-11-12T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/the-simon-garfunkel-story/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock",
+          "nostalgi-tribute"
+        ],
+        "taggar": [
+          "publikfavoriter"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33906",
+      "titel": "Christoffer Nyqvist – Lejonet från Norden",
+      "start": "2026-11-13T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/christoffer-nyqvist-lejonet-fran-norden/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
+      "id": "ukk-44746",
+      "titel": "Det idéala – Vad är en plats?",
+      "start": "2026-11-19T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/det-ideala-vad-ar-en-plats/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "samtal"
+        ],
+        "taggar": [
+          "student"
+        ]
+      }
+    },
+    {
+      "id": "ukk-44805",
+      "titel": "GROOVE",
+      "start": "2026-11-19T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/groove/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "dans"
+        ],
+        "taggar": [
+          "dans",
+          "familj",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34788",
+      "titel": "Ana Moura",
+      "start": "2026-11-19T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/ana-moura/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ],
+        "taggar": [
+          "mhv",
+          "student"
+        ]
+      }
+    },
+    {
+      "id": "ukk-37171",
+      "titel": "Lunchkonsert – Enkel, vacker, öm",
+      "start": "2026-11-20T12:15:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/lunchkonsert-enkel-vacker-om-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "nostalgi-tribute"
+        ],
+        "taggar": [
+          "student",
+          "mhv",
+          "lunchkonsert"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33159",
+      "titel": "Hansson de Wolfe United",
+      "start": "2026-11-20T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/hansson-de-wolfe-united/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-45834",
+      "titel": "Saffransmysteriet – LasseMajas detektivbyrå",
+      "start": "2026-11-21T11:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/saffransmysteriet-lassemajas-detektivbyra-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn"
+        ],
+        "taggar": [
+          "familj",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45832",
+      "titel": "Saffransmysteriet – LasseMajas detektivbyrå",
+      "start": "2026-11-21T13:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/saffransmysteriet-lassemajas-detektivbyra/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn"
+        ],
+        "taggar": [
+          "familj",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45842",
+      "titel": "Saffransmysteriet – LasseMajas detektivbyrå",
+      "start": "2026-11-21T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/saffransmysteriet-lassemajas-detektivbyra-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn"
+        ],
+        "taggar": [
+          "familj",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-39553",
+      "titel": "Carte Blanche – Trio X med hemliga gäster",
+      "start": "2026-11-21T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/carte-blanche-trio-x-med-hemliga-gaster-nov-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ],
+        "taggar": [
+          "jazz",
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33924",
+      "titel": "Per Andersson – Kardborreshowen",
+      "start": "2026-11-21T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/per-andersson-kardborreshowen-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "publikfavoriter",
+          "humor"
+        ]
+      }
+    },
+    {
+      "id": "ukk-29784",
+      "titel": "Niklas Strömstedt – Tyck OM mig",
+      "start": "2026-11-22T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/niklas-stromstedt-tyck-om-mig-nov/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": [
+          "publikfavoriter"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34516",
+      "titel": "Poste Restante 22/11",
+      "start": "2026-11-22T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/poste-restante-22-11/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34514",
+      "titel": "City Lights – Uppsala Kammarorkester",
+      "start": "2026-11-26T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/city-lights-uppsala-kammarorkester/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45087",
+      "titel": "Framtidsdagen 2026 – Se längre än alla andra",
+      "start": "2026-11-27T07:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/framtidsdagen-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "samtal"
+        ],
+        "taggar": [
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-38432",
+      "titel": "Evigt Edvin – Edvin Törnblom",
+      "start": "2026-11-27T21:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/evigt-edvin-edvin-tornblom-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
+      "id": "ukk-40024",
+      "titel": "Nötknäpparen med International Festival Ballet – Liveorkester",
+      "start": "2026-11-29T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/notknapparen/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "dans",
+          "barn"
+        ],
+        "taggar": [
+          "dans"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33841",
+      "titel": "Christmas in Ireland",
+      "start": "2026-11-30T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/christmas-in-ireland/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "festligheter-hogtider",
+          "jazz"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-39820",
+      "titel": "Toussaint Chiza",
+      "start": "2026-12-02T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/toussaint-chiza/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": [
+          "aktuellt",
+          "student",
+          "mhv"
+        ]
+      }
+    },
+    {
+      "id": "ukk-31271",
+      "titel": "Inställt: Kulturfrukost – Klimatsmart kultur i praktiken",
+      "start": "2026-12-03T08:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/kulturfrukost-klimatsmart-kultur-i-praktiken/"
+        }
+      ],
+      "langvarig": false,
+      "installd": true,
+      "fakta": {
+        "kategorier": [
+          "samtal"
+        ],
+        "taggar": [
+          "kulturfrukost"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33002",
+      "titel": "Seinabo Sey",
+      "start": "2026-12-03T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/seinabo-sey/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": [
+          "publikfavoriter"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34121",
+      "titel": "Christmas Night",
+      "start": "2026-12-04T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/christmas-night/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "festligheter-hogtider"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-39314",
+      "titel": "Isprinsessan – Julbalett med stråkkvartett",
+      "start": "2026-12-05T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/isprinsessan-julbalett-med-strakkvartett/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "dans",
+          "barn",
+          "klassiskt",
+          "festligheter-hogtider"
+        ],
+        "taggar": [
+          "dans",
+          "familj"
+        ]
+      }
+    },
+    {
+      "id": "ukk-46069",
+      "titel": "Anna Heikkinen & Längtans Kapell – Satumaa – Sagolandet",
+      "start": "2026-12-05T17:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/anna-heikkinen-langtans-kapell/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ],
+        "taggar": [
+          "aktuellt",
+          "student",
+          "mhv"
+        ]
+      }
+    },
+    {
+      "id": "ukk-44223",
+      "titel": "Local Femmes julmarknad",
+      "start": "2026-12-06T11:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/local-femmes-julmarknad-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "hantverk-marknader",
+          "festligheter-hogtider"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-39914",
+      "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
+      "start": "2026-12-09T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord-4/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "dans",
+          "festligheter-hogtider"
+        ],
+        "taggar": [
+          "publikfavoriter",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34459",
+      "titel": "Weeping Willows – Christmas",
+      "start": "2026-12-09T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/weeping-willows-christmas/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "festligheter-hogtider",
+          "pop-rock"
+        ],
+        "taggar": [
+          "publikfavoriter"
+        ]
+      }
+    },
+    {
+      "id": "ukk-46261",
+      "titel": "Julkonsert med Romeo & Julia Kören",
+      "start": "2026-12-09T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/julkonsert-med-romeo-julia-koren-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "festligheter-hogtider"
+        ],
+        "taggar": [
+          "aktuellt",
+          "mhv"
+        ]
+      }
+    },
+    {
+      "id": "ukk-39912",
+      "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
+      "start": "2026-12-10T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "festligheter-hogtider",
+          "dans"
+        ],
+        "taggar": [
+          "publikfavoriter",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-35106",
+      "titel": "Thomas Järvheden – Sveriges roligaste julkonsert",
+      "start": "2026-12-10T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/thomas-jarvheden-sveriges-roligaste-julkonsert/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor",
+          "festligheter-hogtider"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-45591",
+      "titel": "Julkonsert med Romeo & Julia Kören",
+      "start": "2026-12-10T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/julkonsert-med-romeo-julia-koren/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "festligheter-hogtider",
+          "klassiskt",
+          "barn"
+        ],
+        "taggar": [
+          "student",
+          "mhv"
+        ]
+      }
+    },
+    {
+      "id": "ukk-39910",
+      "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
+      "start": "2026-12-11T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "festligheter-hogtider",
+          "dans"
+        ],
+        "taggar": [
+          "publikfavoriter",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33345",
+      "titel": "LABERO – A Magic Night",
+      "start": "2026-12-11T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/labero-a-magic-night/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn"
+        ],
+        "taggar": [
+          "familj",
+          "publikfavoriter"
+        ]
+      }
+    },
+    {
+      "id": "ukk-44512",
+      "titel": "Jul med Franska Trion",
+      "start": "2026-12-11T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/jul-med-franska-trion-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz",
+          "festligheter-hogtider"
+        ],
+        "taggar": [
+          "aktuellt",
+          "student",
+          "mhv"
+        ]
+      }
+    },
+    {
+      "id": "ukk-44522",
+      "titel": "Barnens Julvärld med Nassim Al fakir",
+      "start": "2026-12-12T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/barnens-julvarld-med-nassim-al-fakir-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn",
+          "festligheter-hogtider"
+        ],
+        "taggar": [
+          "familj",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-39908",
+      "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
+      "start": "2026-12-12T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "festligheter-hogtider",
+          "dans"
+        ],
+        "taggar": [
+          "publikfavoriter",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45958",
+      "titel": "Goder afton, mitt herrskap! 2026",
+      "start": "2026-12-12T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/goder-afton-mitt-herrskap-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn",
+          "festligheter-hogtider"
+        ],
+        "taggar": [
+          "familj",
+          "publikfavoriter",
+          "aktuellt",
+          "student"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33519",
+      "titel": "West Of Eden – Celtic Christmas",
+      "start": "2026-12-13T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/west-of-eden-celtic-christmas-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz",
+          "festligheter-hogtider"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-33834",
+      "titel": "Arvingarna – Klart det ska bli jul, igen!",
+      "start": "2026-12-13T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/arvingarna-klart-det-ska-bli-jul-igen/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock",
+          "festligheter-hogtider"
+        ],
+        "taggar": [
+          "publikfavoriter"
+        ]
+      }
+    },
+    {
+      "id": "ukk-46237",
+      "titel": "Julkonsert med Arméns musikkår",
+      "start": "2026-12-17T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/julkonsert-med-armens-musikkar/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt",
+          "barn"
+        ],
+        "taggar": [
+          "familj",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-37190",
+      "titel": "Lunchkonsert – Frank Sinatra Livet och musiken Julspecial",
+      "start": "2026-12-18T12:15:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/lunchkonsert-livet-och-musiken-julspecial/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "nostalgi-tribute"
+        ],
+        "taggar": [
+          "lunchkonsert",
+          "student",
+          "mhv"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34070",
+      "titel": "Hogwarts Magic Symphony – med Lords of the Sound",
+      "start": "2026-12-19T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/hogwarts-magic-symphony-med-lords-of-the-sound/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn",
+          "klassiskt"
+        ],
+        "taggar": [
+          "familj"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34067",
+      "titel": "Hans Zimmers musik – spelad av Lords of the Sound",
+      "start": "2026-12-19T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/hans-zimmers-musik-spelad-av-lords-of-the-sound/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "familj"
+        ]
+      }
+    },
+    {
+      "id": "ukk-44539",
+      "titel": "Banna Sona Band Christmas Edition",
+      "start": "2026-12-20T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/banna-sona-band-christmas-edition/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "festligheter-hogtider",
+          "jazz"
+        ],
+        "taggar": [
+          "publikfavoriter",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34512",
+      "titel": "Trettondagsafton 2027",
+      "start": "2027-01-05T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/trettondagsafton-2027/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-30712",
+      "titel": "Djungelboken – The Musical",
+      "start": "2027-01-23T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/djungelboken-the-musical/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn",
+          "teater"
+        ],
+        "taggar": [
+          "familj"
+        ]
+      }
+    },
+    {
+      "id": "ukk-30711",
+      "titel": "Djungelboken – The Musical",
+      "start": "2027-01-23T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/djungelboken-the-musical-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn",
+          "teater"
+        ],
+        "taggar": [
+          "familj"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34510",
+      "titel": "Poste Restante 24/1",
+      "start": "2027-01-24T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/poste-restante-24-1/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34508",
+      "titel": "Copland och Beethoven – Uppsala Kammarorkester",
+      "start": "2027-01-28T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/copland-och-beethoven-uppsala-kammarorkester/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-31560",
+      "titel": "”Ser jag tjock ut i den här..?” – Uppsala",
+      "start": "2027-01-29T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/ser-jag-tjock-ut-i-den-har/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-46019",
+      "titel": "Upzala Terminus 2027 – Warhammer Tournament",
+      "start": "2027-01-30T08:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/upzala-terminus-2027-warhammer-tournament/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "samtal"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-38450",
+      "titel": "The Dire Straits Experience",
+      "start": "2027-02-04T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/the-dire-straits-experience/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock",
+          "nostalgi-tribute"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-33292",
+      "titel": "Nour El Refai – Glows in the dark",
+      "start": "2027-02-05T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/nour-el-refai-glows-in-the-dark/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor",
+          "publikfavoriter"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45541",
+      "titel": "The Very Best of Thin Lizzy Phil Lynott and Gary Moore",
+      "start": "2027-02-06T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/the-very-best-of-thin-lizzy/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": [
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33961",
+      "titel": "Molly Hammar – Livsvittne",
+      "start": "2027-02-11T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/molly-hammar/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-45117",
+      "titel": "Tommy Körberg – Unplugged",
+      "start": "2027-02-12T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/tommy-korberg-unplugged-2027/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": [
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-35060",
+      "titel": "Kim Wilde – The Singles Tour 2027",
+      "start": "2027-02-13T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/kim-wilde-the-singles-tour-2027/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-34506",
+      "titel": "Korngolds violinkonsert – Uppsala Kammarorkester",
+      "start": "2027-02-18T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/korngolds-violinkonsert-uppsala-kammarorkester/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45440",
+      "titel": "Orsa spelmän, Tina Ahlin & Bengan Janson",
+      "start": "2027-02-19T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/orsa-spelman-tina-ahlin-bengan-janson/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ],
+        "taggar": [
+          "publikfavoriter",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45797",
+      "titel": "Tourbjörn – Med Torbjörn Averås Skorup",
+      "start": "2027-02-20T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/tourbjorn-med-torbjorn-averas-skorup-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-26690",
+      "titel": "Nannes jubileumsshow – Här är jag!",
+      "start": "2027-02-20T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/nannes-jubileumsshow/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": [
+          "publikfavoriter"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45633",
+      "titel": "Tourbjörn – Med Torbjörn Averås Skorup",
+      "start": "2027-02-20T20:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/tourbjorn-med-torbjorn-averas-skorup/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45745",
+      "titel": "Bamse och Sjörövarskatten",
+      "start": "2027-02-21T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/bamse-och-sjorovarskatten/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn"
+        ],
+        "taggar": [
+          "aktuellt",
+          "familj"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45621",
+      "titel": "Klas Kalas – Klas Hallberg best of 30 år på scen",
+      "start": "2027-02-24T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/klas-kalas-klas-hallberg-best-of-30-ar-pa-scen/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-39329",
+      "titel": "Jesper Rönndahl och Marie Agerhäll",
+      "start": "2027-02-25T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/jesper-ronndahl-och-marie-agerhall/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor",
+          "teater"
+        ],
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33785",
+      "titel": "No Business Like Show Business",
+      "start": "2027-02-27T17:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/no-business-like-show-business/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "teater"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-34504",
+      "titel": "Poste Restante 28/2",
+      "start": "2027-02-28T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/poste-restante-28-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-39527",
+      "titel": "Night of Famous Musicals",
+      "start": "2027-03-03T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/night-of-famous-musicals/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "teater"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-45470",
+      "titel": "Laleh vårturné 2027 – Jag såg hur vi var stjärnor",
+      "start": "2027-03-05T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/laleh-varturne-2027-jag-sag-hur-vi-var-stjarnor-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock",
+          "barn"
+        ],
+        "taggar": [
+          "publikfavoriter",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-46049",
+      "titel": "Laleh vårturné 2027 – Jag såg hur vi var stjärnor",
+      "start": "2027-03-06T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/laleh-varturne-2027-jag-sag-hur-vi-var-stjarnor-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": [
+          "familj",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45468",
+      "titel": "Laleh vårturné 2027 – Jag såg hur vi var stjärnor",
+      "start": "2027-03-06T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/laleh-varturne-2027-jag-sag-hur-vi-var-stjarnor/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock",
+          "barn"
+        ],
+        "taggar": [
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45604",
+      "titel": "Marika och Klimakteriet",
+      "start": "2027-03-12T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/marika-och-klimakteriet-2027/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34502",
+      "titel": "Bästa Byström – Uppsala Kammarorkester",
+      "start": "2027-03-18T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/basta-bystrom-uppsala-kammarorkester/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-45659",
+      "titel": "The Rock Orchestra by Candlelight",
+      "start": "2027-03-24T20:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/the-rock-orchestra-by-candlelight/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": [
+          "publikfavoriter",
+          "aktuellt"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33580",
+      "titel": "BRUNOZ – En konsert med Bruno Mitsogiannis",
+      "start": "2027-03-28T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/brunoz-en-konsert-med-bruno-mitsogiannis/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-37277",
+      "titel": "EUSKEFEURAT – Maränger och surdeg",
+      "start": "2027-04-04T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/euskefeurat-maranger-och-surdeg/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-35828",
+      "titel": "Hör här! (Försöker göra livepodd)",
+      "start": "2027-04-10T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/hor-har-forsoker-gora-livepodd-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
+      "id": "ukk-35087",
+      "titel": "Hör här! (Försöker göra livepodd)",
+      "start": "2027-04-10T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/hor-har-forsoker-gora-livepodd/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34500",
+      "titel": "Poste Restante 18/4",
+      "start": "2027-04-18T16:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/poste-restante-18-4/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33219",
+      "titel": "HippHipp Live!",
+      "start": "2027-04-24T19:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/hipphipp-live-24-april/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor",
+          "student"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33217",
+      "titel": "HippHipp Live!",
+      "start": "2027-04-25T15:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/hipphipp-live/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor",
+          "student"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34498",
+      "titel": "Valborg – Uppsala Kammarorkester",
+      "start": "2027-04-29T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/valborg-uppsala-kammarorkester/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-34495",
+      "titel": "Tjajkovskijs pianokonsert – Uppsala Kammarorkester",
+      "start": "2027-05-20T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/tjajkovskijs-pianokonsert-uppsala-kammarorkester/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "klassiskt"
+        ],
+        "taggar": [
+          "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-33124",
+      "titel": "Fredrik Andersson – Too soon 2027",
+      "start": "2027-10-22T19:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/fredrik-andersson-too-soon/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor"
+        ]
+      }
+    }
+  ]
+}

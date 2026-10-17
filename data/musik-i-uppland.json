@@ -1,0 +1,589 @@
+{
+  "kalla": "Musik i Uppland",
+  "webbsida": "https://www.musikiuppland.se/",
+  "hamtad": "2026-10-17T04:45:07.476Z",
+  "antal": 20,
+  "evenemang": [
+    {
+      "id": "musik-i-uppland-24278",
+      "titel": "Bruch och Brahms",
+      "start": "2026-10-22T19:00:00+02:00",
+      "slut": "2026-10-22T21:10:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/bruch-och-brahms/",
+          "biljetter": "https://secure.tickster.com/tfwjdg6m57bjy8b"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "uppsala-kammarorkester"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    },
+    {
+      "id": "musik-i-uppland-24772",
+      "titel": "Familjekonsert – Peter och vargen",
+      "start": "2026-10-24T13:00:00+02:00",
+      "slut": "2026-10-24T14:00:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/familjekonsert-peter-och-vargen/",
+          "biljetter": "https://secure.tickster.com/dm6vj49lppufeny"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn-ungdom",
+          "uppsala-kammarorkester"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    },
+    {
+      "id": "musik-i-uppland-26321",
+      "titel": "Familjekonsert – Peter och vargen",
+      "start": "2026-10-24T14:15:00+02:00",
+      "slut": "2026-10-24T15:00:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/familjekonsert-peter-och-vargen-2/",
+          "biljetter": "https://secure.tickster.com/l1ff314j7zjw7br"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn-ungdom",
+          "uppsala-kammarorkester"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    },
+    {
+      "id": "musik-i-uppland-25559",
+      "titel": "Lena Jonsson Trio",
+      "start": "2026-11-09T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Café Bredsjön, Järlåsa"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/lena-jonsson-trio-6/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konsertkarusellen"
+        ]
+      }
+    },
+    {
+      "id": "musik-i-uppland-24320",
+      "titel": "Poste Restante 22/11",
+      "start": "2026-11-22T16:00:00+01:00",
+      "slut": "2026-11-22T18:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/poste-restante-22-11/",
+          "biljetter": "https://secure.tickster.com/cxjuc093yvbnyul"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "poste-restante"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    },
+    {
+      "id": "musik-i-uppland-24283",
+      "titel": "Chaplins City Lights",
+      "start": "2026-11-26T19:00:00+01:00",
+      "slut": "2026-11-26T20:40:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/city-lights/",
+          "biljetter": "https://secure.tickster.com/mfa1udu502x141m"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "uppsala-kammarorkester"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    },
+    {
+      "id": "musik-i-uppland-25866",
+      "titel": "Julkonsert med Linnékvintetten",
+      "start": "2026-12-09T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/julkonsert-med-linnekvintetten-5/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "linnekvintetten"
+        ]
+      }
+    },
+    {
+      "id": "musik-i-uppland-24287",
+      "titel": "Trettondagsafton 2027",
+      "start": "2027-01-05T17:00:00+01:00",
+      "slut": "2027-01-05T19:30:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/trettondagsafton-2027/",
+          "biljetter": "https://secure.tickster.com/dgfjlx3g6fytytn"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "uppsala-kammarorkester"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    },
+    {
+      "id": "musik-i-uppland-25566",
+      "titel": "Linnékvintetten och Jens Lundberg",
+      "start": "2027-01-20T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Lyckebokyrkan, Storvreta"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/linnekvintetten-och-jens-lundberg-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konsertkarusellen",
+          "linnekvintetten"
+        ]
+      }
+    },
+    {
+      "id": "musik-i-uppland-24323",
+      "titel": "Poste Restante 24/1",
+      "start": "2027-01-24T16:00:00+01:00",
+      "slut": "2027-01-24T18:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/poste-restante-24-1/",
+          "biljetter": "https://secure.tickster.com/7u5xxfv6bth9p98"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "poste-restante"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    },
+    {
+      "id": "musik-i-uppland-24291",
+      "titel": "Copland och Beethoven",
+      "start": "2027-01-28T19:00:00+01:00",
+      "slut": "2027-01-28T21:10:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/copland-och-beethoven/",
+          "biljetter": "https://secure.tickster.com/r0r7g2xf5bgtyjx"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "uppsala-kammarorkester"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    },
+    {
+      "id": "musik-i-uppland-25191",
+      "titel": "Symbio",
+      "start": "2027-02-07T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Knutby bygdegård"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/symbio/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konsertkarusellen"
+        ]
+      }
+    },
+    {
+      "id": "musik-i-uppland-24295",
+      "titel": "Korngolds violinkonsert",
+      "start": "2027-02-18T19:00:00+01:00",
+      "slut": "2027-02-18T21:10:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/korngolds-violinkonsert/",
+          "biljetter": "https://secure.tickster.com/adrwbfh77uy5ecz"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "uppsala-kammarorkester"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    },
+    {
+      "id": "musik-i-uppland-24395",
+      "titel": "Poste Restante 28/2",
+      "start": "2027-02-28T16:00:00+01:00",
+      "slut": "2027-02-28T18:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/poste-restante-28-2/",
+          "biljetter": "https://secure.tickster.com/w768vzlh7lbxz35"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "poste-restante"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    },
+    {
+      "id": "musik-i-uppland-25615",
+      "titel": "Trio X och Helen Sjöholm",
+      "start": "2027-03-12T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "\"Björkis”, Björkvallsvägen 2, Björklinge"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/trio-x-och-helen-sjoholm-7/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konsertkarusellen"
+        ]
+      }
+    },
+    {
+      "id": "musik-i-uppland-24300",
+      "titel": "Bästa Byström",
+      "start": "2027-03-18T19:00:00+01:00",
+      "slut": "2027-03-18T21:10:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/basta-bystrom/",
+          "biljetter": "https://secure.tickster.com/5g7u6rkp06c82z1"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "uppsala-kammarorkester"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    },
+    {
+      "id": "musik-i-uppland-25753",
+      "titel": "Bel canto",
+      "start": "2027-04-16T18:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Sävja kulturhus",
+        "id": "savjakulturhus"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/bel-canto-7/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konsertkarusellen"
+        ]
+      }
+    },
+    {
+      "id": "musik-i-uppland-24334",
+      "titel": "Poste Restante 18/4",
+      "start": "2027-04-18T16:00:00+02:00",
+      "slut": "2027-04-18T18:00:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/posterestante18-4/",
+          "biljetter": "https://secure.tickster.com/6bj9eyze51yn0un"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "poste-restante"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    },
+    {
+      "id": "musik-i-uppland-24304",
+      "titel": "Valborg",
+      "start": "2027-04-29T19:00:00+02:00",
+      "slut": "2027-04-29T21:10:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/valborg/",
+          "biljetter": "https://secure.tickster.com/4ghfx4lt846rxfa"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "uppsala-kammarorkester"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    },
+    {
+      "id": "musik-i-uppland-24309",
+      "titel": "Tjajkovskijs pianokonsert",
+      "start": "2027-05-20T19:00:00+02:00",
+      "slut": "2027-05-20T21:10:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "musik-i-uppland",
+          "namn": "Musik i Uppland",
+          "url": "https://www.musikiuppland.se/konsert/tjajkovskijs-pianokonsert/",
+          "biljetter": "https://secure.tickster.com/1c4pu6gmxa891vf"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "uppsala-kammarorkester"
+        ],
+        "adress": "Vaksala Torg 1, 753 31"
+      }
+    }
+  ]
+}

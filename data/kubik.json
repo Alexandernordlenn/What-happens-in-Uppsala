@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-16T04:45:28.701Z",
-  "antal": 290,
+  "hamtad": "2026-10-17T04:44:15.135Z",
+  "antal": 291,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -3505,127 +3505,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-ritsagor-2026-10-16-1400",
-      "titel": "Ritsagor",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/ritsagor/",
-          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/97c01eef-d99b-4775-8e12-52c65bc4ee4a?location=Gottsundabiblioteket"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Litteratur/Skrivande"
-        ],
-        "malgrupp": [
-          "0-4 år",
-          "5-6 år"
-        ],
-        "adress": "Gottsundabiblioteket, Valthornsvägen 11 756 50, Uppsala"
-      },
-      "start": "2026-10-16T14:00:00+02:00",
-      "slut": "2026-10-16T14:30:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-fredagsmys-2026-2026-10-16-1400",
-      "titel": "Fredagsmys",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Dans",
-          "Litteratur/Skrivande",
-          "Musik",
-          "Teater",
-          "Övrigt"
-        ],
-        "malgrupp": [
-          "0-4 år",
-          "5-6 år"
-        ],
-        "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
-      },
-      "start": "2026-10-16T14:00:00+02:00",
-      "slut": "2026-10-16T14:30:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-fredagsmys-2026-10-16-1400",
-      "titel": "Fredagsmys",
-      "plats": {
-        "namn": "Storvreta bibliotek",
-        "id": "storvretabib"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "norra-land",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys/",
-          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/8c5043bf-49eb-47a7-9d83-55c84478e73f?location=Storvretabiblioteket"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Dans",
-          "Litteratur/Skrivande",
-          "Musik",
-          "Slöjd"
-        ],
-        "malgrupp": [
-          "0-4 år",
-          "5-6 år"
-        ],
-        "adress": "Storvretabiblioteket, Fullerövägen 1, Storvreta"
-      },
-      "start": "2026-10-16T14:00:00+02:00",
-      "slut": "2026-10-16T14:30:00+02:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-sagostund-paa-italienska-1-2026-10-17-1130",
       "titel": "Sagostund på italienska / Ora delle fiabe in italiano",
       "plats": {
@@ -5451,6 +5330,50 @@
       "langvarig": true
     },
     {
+      "id": "kubik-hoestlovslaeger-paa-fyrisfjaedern",
+      "titel": "Höstlovsläger på Fyrisfjädern",
+      "plats": {
+        "namn": "Fyrisfjädern Badmintonklubb, PONG Racketcenter",
+        "id": "kubik-plats-fyrisfjädern-badmintonklubb-pong-racketcenter"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        18
+      ],
+      "omrade": "norra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovslaeger-paa-fyrisfjaedern/",
+          "arrangor": "https://www.fyrisfjadern.se/hostlovslager/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Bollsport"
+        ],
+        "malgrupp": [
+          "7-9 år",
+          "10-12 år",
+          "13-15 år",
+          "16-18 år"
+        ],
+        "adress": "Fyrisfjädern Badmintonklubb, PONG Racketcenter, Badmintonstigen 1, Uppsala",
+        "tider": {
+          "start": "10:00",
+          "slut": "16:00"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-29",
+      "langvarig": true
+    },
+    {
       "id": "kubik-multisport-med-procyon-bk",
       "titel": "Multisport med Procyon BK",
       "plats": {
@@ -5788,6 +5711,7 @@
         5,
         15
       ],
+      "omrade": "ostra",
       "kallor": [
         {
           "id": "kubik",
@@ -5847,45 +5771,6 @@
           "16-18 år"
         ],
         "adress": "Lötens fritidsgård, Ferlinsgatan 25",
-        "tider": {
-          "start": "18:00",
-          "slut": "23:00"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-30",
-      "langvarig": true
-    },
-    {
-      "id": "kubik-hoestlov-paa-lindbackens-fritidsklubb",
-      "titel": "Höstlov på Lindbackens fritidsklubb",
-      "plats": {
-        "namn": "Lindbackens fritidsgård",
-        "id": "kubik-plats-lindbackens-fritidsgård"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        13,
-        18
-      ],
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-lindbackens-fritidsklubb/",
-          "arrangor": "http://@lindbackensfritidsgard/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [],
-        "malgrupp": [
-          "13-15 år",
-          "16-18 år"
-        ],
-        "adress": "Lindbackens fritidsgård, Hagtorpsvägen 1, 754 71 Uppsala",
         "tider": {
           "start": "18:00",
           "slut": "23:00"
@@ -6629,6 +6514,47 @@
       "langvarig": false
     },
     {
+      "id": "kubik-halloween-i-molnet-2026-10-27-1300",
+      "titel": "Halloween i Molnet",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib",
+        "rum": "Molnet"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        25
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/halloween-i-molnet/",
+          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/5438b15e-8fb1-454f-9d7c-707eb0162590?tag=Höstlov&targetAudience=Ungdom"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande",
+          "Litteratur/Skrivande"
+        ],
+        "malgrupp": [
+          "13-15 år",
+          "16-18 år",
+          "19-25 år"
+        ],
+        "adress": "Molnet, Stadsbiblioteket, Svartbäcksgatan 17, Uppsala"
+      },
+      "start": "2026-10-27T13:00:00+01:00",
+      "slut": "2026-10-27T15:00:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-domkyrkans-hoestlovsvisning-katarina-jagellonica-500-aar-2026-10-27-1330",
       "titel": "Domkyrkans höstlovsvisning - Katarina Jagellonica 500 år",
       "plats": {
@@ -6886,6 +6812,45 @@
       "langvarig": true
     },
     {
+      "id": "kubik-hoestlov-paa-lindbackens-fritidsklubb",
+      "titel": "Höstlov på Lindbackens fritidsklubb",
+      "plats": {
+        "namn": "Lindbackens fritidsgård",
+        "id": "kubik-plats-lindbackens-fritidsgård"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-lindbackens-fritidsklubb/",
+          "arrangor": "http://@lindbackensfritidsgard/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [],
+        "malgrupp": [
+          "13-15 år",
+          "16-18 år"
+        ],
+        "adress": "Lindbackens fritidsgård, Hagtorpsvägen 1, 754 71 Uppsala",
+        "tider": {
+          "start": "18:00",
+          "slut": "23:00"
+        }
+      },
+      "start": "2026-10-28",
+      "slut": "2026-10-30",
+      "langvarig": true
+    },
+    {
       "id": "kubik-mirakel-och-katastofer-2026-10-28-0900",
       "titel": "Mirakel och katastofer",
       "plats": {
@@ -7045,8 +7010,9 @@
       "id": "kubik-spoek-och-monsterpyssel-i-hammarskog-2026-10-28-1030",
       "titel": "Spök- och monsterpyssel i Hammarskog",
       "plats": {
-        "namn": "Hammarskogs herrgård, Karlssons källare",
-        "id": "kubik-plats-hammarskogs-herrgård-karlssons-källare"
+        "namn": "Hammarskog",
+        "id": "hammarskog",
+        "rum": "Karlssons källare"
       },
       "kategori": "aktivitet",
       "gratis": true,
@@ -7581,6 +7547,46 @@
           "För alla åldrar"
         ],
         "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
+      },
+      "start": "2026-10-29T14:00:00+01:00",
+      "slut": "2026-10-29T16:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-teckna-manga-2026-10-29-1400",
+      "titel": "Teckna manga",
+      "plats": {
+        "namn": "Stadsbiblioteket",
+        "id": "stadsbib",
+        "rum": "Molnets grupprum"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        25
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/teckna-manga/",
+          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/5773ee45-5eba-4970-be24-0d62d73ef0ec?tag=Höstlov&targetAudience=Ungdom"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande"
+        ],
+        "malgrupp": [
+          "13-15 år",
+          "16-18 år",
+          "19-25 år"
+        ],
+        "adress": "Molnets grupprum, Stadsbiblioteket, Svartbäcksgatan 17, Uppsala"
       },
       "start": "2026-10-29T14:00:00+01:00",
       "slut": "2026-10-29T16:00:00+01:00",
@@ -8292,8 +8298,9 @@
       "id": "kubik-brasmys-vid-ostbergstorpet-2026-10-31-1030",
       "titel": "Brasmys vid Östbergstorpet",
       "plats": {
-        "namn": "Östbergstorpet, Hammarskog",
-        "id": "kubik-plats-östbergstorpet-hammarskog"
+        "namn": "Hammarskog",
+        "id": "hammarskog",
+        "rum": "Östbergstorpet"
       },
       "kategori": "aktivitet",
       "gratis": true,
@@ -8869,6 +8876,46 @@
       },
       "start": "2026-11-07T14:30:00+01:00",
       "slut": "2026-11-07T15:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-framtidsgloed-2026-11-08-1300",
+      "titel": "Framtidsglöd",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/framtidsgloed/",
+          "arrangor": "http://barnombudet.se/framtidsglod"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande",
+          "Musik",
+          "Vetenskap/Samhälle",
+          "Workshop/Föreläsning"
+        ],
+        "malgrupp": [
+          "För alla åldrar"
+        ],
+        "adress": "Uppsala Konsert & Kongress, Vaksalagatan 1, Uppsala"
+      },
+      "start": "2026-11-08T13:00:00+01:00",
+      "slut": "2026-11-08T19:00:00+01:00",
       "langvarig": false
     },
     {

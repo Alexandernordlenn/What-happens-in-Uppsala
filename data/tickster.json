@@ -1,8 +1,8 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-16T04:43:03.542Z",
-  "antal": 319,
+  "hamtad": "2026-10-17T04:41:20.085Z",
+  "antal": 316,
   "evenemang": [
     {
       "id": "tickster-w3dlm59l15b1r1d",
@@ -31,169 +31,6 @@
       "fakta": {
         "taggar": [
           "torsdagskul"
-        ]
-      }
-    },
-    {
-      "id": "tickster-arkclwmhj4vnm5e",
-      "titel": "Lunchkonsert – Åkessonger",
-      "start": "2026-10-16T12:15:00+02:00",
-      "slut": "2026-10-16T13:15:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/arkclwmhj4vnm5e/2026-10-16/lunchkonsert-akessonger",
-          "biljetter": "https://secure.tickster.com/sv/arkclwmhj4vnm5e"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "tribute"
-        ]
-      }
-    },
-    {
-      "id": "tickster-vaafnvzztkcnhnf",
-      "titel": "Eva Dahlgren – Revalution Club Tour",
-      "start": "2026-10-16T19:00:00+02:00",
-      "slut": "2026-10-16T20:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/vaafnvzztkcnhnf/2026-10-16/eva-dahlgren-revalution-club-tour",
-          "biljetter": "https://secure.tickster.com/sv/vaafnvzztkcnhnf"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "musik",
-          "pop"
-        ]
-      }
-    },
-    {
-      "id": "tickster-52m60v5lwl654yt",
-      "titel": "Bill Laurance – Jazzhörnan",
-      "start": "2026-10-16T20:00:00+02:00",
-      "slut": "2026-10-16T23:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8611,
-        "lng": 17.6458,
-        "rum": "Restaurangen/Sal D"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/52m60v5lwl654yt/2026-10-16/bill-laurance-jazzhornan",
-          "biljetter": "https://secure.tickster.com/sv/52m60v5lwl654yt"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "jazz"
-        ]
-      }
-    },
-    {
-      "id": "tickster-ecfx6c8gyw7bz89",
-      "titel": "Daniel Lantz ”Jazz Standards”",
-      "start": "2026-10-16T20:00:00+02:00",
-      "slut": "2026-10-16T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/ecfx6c8gyw7bz89/2026-10-16/daniel-lantz-jazz-standards",
-          "biljetter": "https://secure.tickster.com/sv/ecfx6c8gyw7bz89"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinsjazzbar",
-          "katalinsbakficka",
-          "katalinuppsala"
-        ]
-      }
-    },
-    {
-      "id": "tickster-zte6y43pbtbwtd3",
-      "titel": "Folkmusikfestival",
-      "start": "2026-10-16T20:00:00+02:00",
-      "slut": "2026-10-16T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/zte6y43pbtbwtd3/2026-10-16/folkmusikfestival",
-          "biljetter": "https://secure.tickster.com/sv/zte6y43pbtbwtd3"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinuppsala",
-          "folkmusik",
-          "folkmusikfestival",
-          "fränder",
-          "frander",
-          "polenta",
-          "nickhart",
-          "tommoore"
         ]
       }
     },
@@ -370,6 +207,29 @@
       "installd": false
     },
     {
+      "id": "tickster-hcb90kluyv56rcm",
+      "titel": "En afton vid Medelhavet",
+      "start": "2026-10-18T16:00:00+02:00",
+      "slut": "2026-10-18T17:30:00+02:00",
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/hcb90kluyv56rcm/2026-10-18/en-afton-vid-medelhavet",
+          "biljetter": "https://secure.tickster.com/sv/hcb90kluyv56rcm"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-tpmbjbvpmpr00rz",
       "titel": "Robert Wells – 40 år vid flygeln",
       "start": "2026-10-18T16:00:00+02:00",
@@ -390,29 +250,6 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/tpmbjbvpmpr00rz/2026-10-18/robert-wells-40-ar-vid-flygeln",
           "biljetter": "https://secure.tickster.com/sv/tpmbjbvpmpr00rz"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-hcb90kluyv56rcm",
-      "titel": "En afton vid Medelhavet",
-      "start": "2026-10-18T16:00:00+02:00",
-      "slut": "2026-10-18T17:30:00+02:00",
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/hcb90kluyv56rcm/2026-10-18/en-afton-vid-medelhavet",
-          "biljetter": "https://secure.tickster.com/sv/hcb90kluyv56rcm"
         }
       ],
       "langvarig": false,
@@ -451,7 +288,7 @@
       "slut": "2026-10-25T23:59:00+01:00",
       "plats": {
         "namn": "Slottsbiografen",
-        "id": "tickster-plats-h3j3ba8g6w72cuv"
+        "id": "slottsbiografen"
       },
       "kategori": "scen",
       "gratis": null,
@@ -886,32 +723,6 @@
       "installd": false
     },
     {
-      "id": "tickster-15z21nf4c9ye6mx",
-      "titel": "Carl-Johan Vallgren",
-      "start": "2026-10-22T19:00:00+02:00",
-      "slut": "2026-10-22T20:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/15z21nf4c9ye6mx/2026-10-22/carl-johan-vallgren",
-          "biljetter": "https://secure.tickster.com/sv/15z21nf4c9ye6mx"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "tickster-tfwjdg6m57bjy8b",
       "titel": "Bruch och Brahms – Uppsala Kammarorkester",
       "start": "2026-10-22T19:00:00+02:00",
@@ -941,6 +752,32 @@
           "klassiskt"
         ]
       }
+    },
+    {
+      "id": "tickster-15z21nf4c9ye6mx",
+      "titel": "Carl-Johan Vallgren",
+      "start": "2026-10-22T19:00:00+02:00",
+      "slut": "2026-10-22T20:30:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/15z21nf4c9ye6mx/2026-10-22/carl-johan-vallgren",
+          "biljetter": "https://secure.tickster.com/sv/15z21nf4c9ye6mx"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
     },
     {
       "id": "tickster-1n30wv8krbb0r9t",
@@ -3259,31 +3096,6 @@
       "installd": false
     },
     {
-      "id": "tickster-kb7m0pnpp34l20x",
-      "titel": "Klas Toresson Konsert och jamsession!!!!",
-      "start": "2026-11-11T20:00:00+01:00",
-      "slut": "2026-11-11T23:00:00+01:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/kb7m0pnpp34l20x/2026-11-11/klas-toresson-konsert-och-jamsession",
-          "biljetter": "https://secure.tickster.com/sv/kb7m0pnpp34l20x"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "tickster-3kpne7exwtlge3l",
       "titel": "Happy Birthday Neil Young!",
       "start": "2026-11-11T20:00:00+01:00",
@@ -3865,6 +3677,31 @@
           "elektroniskt"
         ]
       }
+    },
+    {
+      "id": "tickster-kb7m0pnpp34l20x",
+      "titel": "Klas Toresson Konsert och jamsession!!!!",
+      "start": "2026-11-18T20:00:00+01:00",
+      "slut": "2026-11-18T23:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/kb7m0pnpp34l20x/2026-11-18/klas-toresson-konsert-och-jamsession",
+          "biljetter": "https://secure.tickster.com/sv/kb7m0pnpp34l20x"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
     },
     {
       "id": "tickster-6rd9lm2gtxk9ugn",
@@ -6222,6 +6059,37 @@
       "fakta": {
         "taggar": [
           "rock"
+        ]
+      }
+    },
+    {
+      "id": "tickster-51xl39d12h5mrvt",
+      "titel": "Julkonsert med Romeo & Julia Kören",
+      "start": "2026-12-09T19:30:00+01:00",
+      "slut": "2026-12-09T20:45:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/51xl39d12h5mrvt/2026-12-09/julkonsert-med-romeo-and-julia-koren",
+          "biljetter": "https://secure.tickster.com/sv/51xl39d12h5mrvt"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jul"
         ]
       }
     },
@@ -9638,6 +9506,41 @@
       "fakta": {
         "taggar": [
           "klassiskt"
+        ]
+      }
+    },
+    {
+      "id": "tickster-p49e1pw3b35avfz",
+      "titel": "Ebba Forsberg – Amen, amen, amen – Uppsala",
+      "start": "2027-05-07T20:00:00+02:00",
+      "slut": "2027-05-07T21:30:00+02:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8598,
+        "lng": 17.6459
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/p49e1pw3b35avfz/2027-05-07/ebba-forsberg-amen-amen-amen-uppsala",
+          "biljetter": "https://secure.tickster.com/sv/p49e1pw3b35avfz"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalin",
+          "uppland",
+          "musik",
+          "uppsala",
+          "ebba forsberg",
+          "amen amen amen"
         ]
       }
     },

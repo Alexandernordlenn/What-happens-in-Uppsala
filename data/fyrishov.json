@@ -1,0 +1,1959 @@
+{
+  "kalla": "Fyrishov",
+  "webbsida": "https://fyrishov.se/",
+  "hamtad": "2026-10-17T04:45:42.268Z",
+  "antal": 65,
+  "evenemang": [
+    {
+      "id": "fyrishov-27059",
+      "titel": "Nordiskt mästerskap i trampolin och DMT",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/nordiskt-masterskap-i-trampolin-och-dmt/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-16T10:00:00+02:00",
+      "slut": "2026-10-17T16:00:00+02:00"
+    },
+    {
+      "id": "fyrishov-27817",
+      "titel": "Virtuell vattenträning",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Äventyrsbadet"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-lor-son-0745-0830/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-17T07:45:00+02:00",
+      "slut": "2026-12-20T08:30:00+01:00",
+      "format": "aterkommande",
+      "serie": {
+        "datum": [
+          "2026-10-17",
+          "2026-10-18",
+          "2026-10-24",
+          "2026-10-25",
+          "2026-10-31",
+          "2026-11-01",
+          "2026-11-07",
+          "2026-11-08",
+          "2026-11-14",
+          "2026-11-15",
+          "2026-11-21",
+          "2026-11-22",
+          "2026-11-28",
+          "2026-11-29",
+          "2026-12-05",
+          "2026-12-06",
+          "2026-12-12",
+          "2026-12-13",
+          "2026-12-19",
+          "2026-12-20"
+        ],
+        "start": "07:45",
+        "slut": "08:30"
+      }
+    },
+    {
+      "id": "fyrishov-27819",
+      "titel": "Virtuell vattenträning",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Äventyrsbadet"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-lor-son-0845-0915/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-17T08:45:00+02:00",
+      "slut": "2026-12-20T09:15:00+01:00",
+      "format": "aterkommande",
+      "serie": {
+        "datum": [
+          "2026-10-17",
+          "2026-10-18",
+          "2026-10-24",
+          "2026-10-25",
+          "2026-10-31",
+          "2026-11-01",
+          "2026-11-07",
+          "2026-11-08",
+          "2026-11-14",
+          "2026-11-15",
+          "2026-11-21",
+          "2026-11-22",
+          "2026-11-28",
+          "2026-11-29",
+          "2026-12-05",
+          "2026-12-06",
+          "2026-12-12",
+          "2026-12-13",
+          "2026-12-19",
+          "2026-12-20"
+        ],
+        "start": "08:45",
+        "slut": "09:15"
+      }
+    },
+    {
+      "id": "fyrishov-14685",
+      "titel": "Regiontävling rytmisk gymnastik",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B och C"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/regiontavling-rytmisk-gymnastik/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-17T09:00:00+02:00",
+      "slut": "2026-10-17T18:30:00+02:00"
+    },
+    {
+      "id": "fyrishov-27808",
+      "titel": "Virtuell vattenträning",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Äventyrsbadet"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-man-fre-0645-0730/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-19T06:45:00+02:00",
+      "slut": "2026-12-18T07:30:00+01:00",
+      "format": "aterkommande",
+      "serie": {
+        "datum": [
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23",
+          "2026-10-26",
+          "2026-10-27",
+          "2026-10-28",
+          "2026-10-29",
+          "2026-10-30",
+          "2026-11-02",
+          "2026-11-03",
+          "2026-11-04",
+          "2026-11-05",
+          "2026-11-06",
+          "2026-11-09",
+          "2026-11-10",
+          "2026-11-11",
+          "2026-11-12",
+          "2026-11-13",
+          "2026-11-16",
+          "2026-11-17",
+          "2026-11-18",
+          "2026-11-19",
+          "2026-11-20",
+          "2026-11-23",
+          "2026-11-24",
+          "2026-11-25",
+          "2026-11-26",
+          "2026-11-27",
+          "2026-11-30",
+          "2026-12-01",
+          "2026-12-02",
+          "2026-12-03",
+          "2026-12-04",
+          "2026-12-07",
+          "2026-12-08",
+          "2026-12-09",
+          "2026-12-10",
+          "2026-12-11",
+          "2026-12-14",
+          "2026-12-15",
+          "2026-12-16",
+          "2026-12-17",
+          "2026-12-18"
+        ],
+        "start": "06:45",
+        "slut": "07:30"
+      }
+    },
+    {
+      "id": "fyrishov-27811",
+      "titel": "Virtuell vattenträning",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Äventyrsbadet"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-man-fre-0745-0830-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-19T07:45:00+02:00",
+      "slut": "2026-12-21T08:30:00+01:00",
+      "format": "aterkommande",
+      "serie": {
+        "datum": [
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23",
+          "2026-10-26",
+          "2026-10-27",
+          "2026-10-28",
+          "2026-10-29",
+          "2026-10-30",
+          "2026-11-02",
+          "2026-11-03",
+          "2026-11-04",
+          "2026-11-05",
+          "2026-11-06",
+          "2026-11-09",
+          "2026-11-10",
+          "2026-11-11",
+          "2026-11-12",
+          "2026-11-13",
+          "2026-11-16",
+          "2026-11-17",
+          "2026-11-18",
+          "2026-11-19",
+          "2026-11-20",
+          "2026-11-23",
+          "2026-11-24",
+          "2026-11-25",
+          "2026-11-26",
+          "2026-11-27",
+          "2026-11-30",
+          "2026-12-01",
+          "2026-12-02",
+          "2026-12-03",
+          "2026-12-04",
+          "2026-12-07",
+          "2026-12-08",
+          "2026-12-09",
+          "2026-12-10",
+          "2026-12-11",
+          "2026-12-14",
+          "2026-12-15",
+          "2026-12-16",
+          "2026-12-17",
+          "2026-12-18",
+          "2026-12-21"
+        ],
+        "start": "07:45",
+        "slut": "08:30"
+      }
+    },
+    {
+      "id": "fyrishov-27813",
+      "titel": "Virtuell vattenträning",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Äventyrsbadet"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-man-fre-1200-1245/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-19T12:00:00+02:00",
+      "slut": "2026-12-21T12:45:00+01:00",
+      "format": "aterkommande",
+      "serie": {
+        "datum": [
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23",
+          "2026-11-02",
+          "2026-11-03",
+          "2026-11-04",
+          "2026-11-05",
+          "2026-11-06",
+          "2026-11-09",
+          "2026-11-10",
+          "2026-11-11",
+          "2026-11-12",
+          "2026-11-13",
+          "2026-11-16",
+          "2026-11-17",
+          "2026-11-18",
+          "2026-11-19",
+          "2026-11-20",
+          "2026-11-23",
+          "2026-11-24",
+          "2026-11-25",
+          "2026-11-26",
+          "2026-11-27",
+          "2026-11-30",
+          "2026-12-01",
+          "2026-12-02",
+          "2026-12-03",
+          "2026-12-04",
+          "2026-12-07",
+          "2026-12-08",
+          "2026-12-09",
+          "2026-12-10",
+          "2026-12-11",
+          "2026-12-14",
+          "2026-12-15",
+          "2026-12-16",
+          "2026-12-17",
+          "2026-12-18",
+          "2026-12-21"
+        ],
+        "start": "12:00",
+        "slut": "12:45"
+      }
+    },
+    {
+      "id": "fyrishov-27815",
+      "titel": "Virtuell vattenträning",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Äventyrsbadet"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-man-tors-1800-1845/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-19T18:00:00+02:00",
+      "slut": "2026-12-17T18:45:00+01:00",
+      "format": "aterkommande",
+      "serie": {
+        "datum": [
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21",
+          "2026-10-22",
+          "2026-11-02",
+          "2026-11-03",
+          "2026-11-04",
+          "2026-11-05",
+          "2026-11-09",
+          "2026-11-10",
+          "2026-11-11",
+          "2026-11-12",
+          "2026-11-16",
+          "2026-11-17",
+          "2026-11-18",
+          "2026-11-19",
+          "2026-11-23",
+          "2026-11-24",
+          "2026-11-25",
+          "2026-11-26",
+          "2026-11-30",
+          "2026-12-01",
+          "2026-12-02",
+          "2026-12-03",
+          "2026-12-07",
+          "2026-12-08",
+          "2026-12-09",
+          "2026-12-10",
+          "2026-12-14",
+          "2026-12-15",
+          "2026-12-16",
+          "2026-12-17"
+        ],
+        "start": "18:00",
+        "slut": "18:45"
+      }
+    },
+    {
+      "id": "fyrishov-27853",
+      "titel": "Virtuell vattenträning",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Äventyrsbadet"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/virtuell-vattentraning-fre-1800-1835/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-23T18:00:00+02:00",
+      "slut": "2026-12-18T18:35:00+01:00",
+      "format": "aterkommande",
+      "serie": {
+        "datum": [
+          "2026-10-23",
+          "2026-11-06",
+          "2026-11-13",
+          "2026-11-20",
+          "2026-11-27",
+          "2026-12-04",
+          "2026-12-11",
+          "2026-12-18"
+        ],
+        "start": "18:00",
+        "slut": "18:35"
+      }
+    },
+    {
+      "id": "fyrishov-26697",
+      "titel": "Uppsala Basket – Umeå Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-umea-basket-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-23T19:04:00+02:00",
+      "slut": "2026-10-23T20:30:00+02:00"
+    },
+    {
+      "id": "fyrishov-27279",
+      "titel": "Retro- & antikmässa",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall C-D"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/retro-antikmassa/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-24T10:00:00+02:00",
+      "slut": "2026-10-25T16:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-24177",
+      "titel": "Uppsala HK – Täby HBK",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsal-hk-taby-hbk-herr-div-1/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-24T16:00:00+02:00",
+      "slut": "2026-10-24T18:00:00+02:00"
+    },
+    {
+      "id": "fyrishov-18278",
+      "titel": "Uppsala Volleyboll – Habo Wolley",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-volleyboll-habo-wolley/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-25T17:00:00+01:00",
+      "slut": "2026-10-25T19:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-20748",
+      "titel": "Mega Dance WKND",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A, B, C, D"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/mega-dance-wknd/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-28T10:00:00+01:00",
+      "slut": "2026-10-28T20:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-26965",
+      "titel": "Mega Dance WKND",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A, B, C, D"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/mega-dance-wknd-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-29T10:00:00+01:00",
+      "slut": "2026-10-29T18:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-26963",
+      "titel": "Mega Dance WKND",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A, B, C, D"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/mega-dance-wknd-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-30T10:00:00+01:00",
+      "slut": "2026-10-30T21:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-26967",
+      "titel": "Mega Dance WKND",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A, B, C, D"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/mega-dance-wknd-4/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-10-31T10:00:00+01:00",
+      "slut": "2026-10-31T19:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-12768",
+      "titel": "Uppsala Basket – Borås Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-boras-basket/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-02T19:04:00+01:00",
+      "slut": "2026-11-02T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-26750",
+      "titel": "Sloga Uppsala – Högsbo Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-hogsbo-basket/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-03T19:04:00+01:00",
+      "slut": "2026-11-03T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-27079",
+      "titel": "Uppsala Roller Derby – matchhelg",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-roller-derby-matchhelg/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-07T10:30:00+01:00",
+      "slut": "2026-11-08T16:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-26753",
+      "titel": "Sloga Uppsala – Borås Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-boras-basket-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-09T19:04:00+01:00",
+      "slut": "2026-11-09T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-22803",
+      "titel": "Gymnasiemässan",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B, C, D"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/gymnasiemassan/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-12T09:00:00+01:00",
+      "slut": "2026-11-12T18:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-12776",
+      "titel": "Uppsala Basket – Umeå Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-umea-basket/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-13T19:04:00+01:00",
+      "slut": "2026-11-13T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-18285",
+      "titel": "Uppsala Volleyboll – Södertelge VBK",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-volleyboll-sodertelge/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-15T17:00:00+01:00",
+      "slut": "2026-11-15T19:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-13519",
+      "titel": "Uppsala HK – LIF Lindesberg",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-hk-lindesberg/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-21T14:00:00+01:00",
+      "slut": "2026-11-21T16:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-18279",
+      "titel": "Uppsala Volleyboll – Hylte Halmstad VBK",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-volleyboll-hylte-halmstad/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-22T15:00:00+01:00",
+      "slut": "2026-11-22T17:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-12774",
+      "titel": "Uppsala Basket – Köping Stars",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-koping-stars/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-22T19:04:00+01:00",
+      "slut": "2026-11-22T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-20750",
+      "titel": "Uppsala Trupp Cup",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A och B"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala_truppcup/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-28T09:40:00+01:00",
+      "slut": "2026-11-28T21:10:00+01:00"
+    },
+    {
+      "id": "fyrishov-24290",
+      "titel": "Storloppis",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall C"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/storloppis/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-29T10:00:00+01:00",
+      "slut": "2026-11-29T14:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-27887",
+      "titel": "Julshow med middag",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall C"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/julshow-med-middag/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-12-04T19:00:00+01:00",
+      "slut": "2026-12-04T23:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-26748",
+      "titel": "Sloga Uppsala – Jämtland Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-jamtland-basket/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-12-04T19:04:00+01:00",
+      "slut": "2026-12-04T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-27899",
+      "titel": "Uppsala HK – IK Bolton",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-hk-ik-bolton/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-12-05T16:00:00+01:00",
+      "slut": "2026-12-05T18:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-26708",
+      "titel": "Uppsala Basket – Södertälje BBK",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-sodertalje-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-12-05T17:04:00+01:00",
+      "slut": "2026-12-05T18:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-26745",
+      "titel": "Sloga Uppsala – Nässjö Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-nassjo-basket/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-12-08T19:04:00+01:00",
+      "slut": "2026-12-08T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-12761",
+      "titel": "Uppsala Basket – BC Luleå",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-bc-lulea/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-12-11T19:04:00+01:00",
+      "slut": "2026-12-11T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-26740",
+      "titel": "Sloga Uppsala – Södertälje BBK",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-sodertalje-bbk/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-12-12T17:04:00+01:00",
+      "slut": "2026-12-12T18:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-18276",
+      "titel": "Uppsala Volleyboll – Lunds VK",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-volleyboll-lund/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-12-13T14:30:00+01:00",
+      "slut": "2026-12-13T16:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-26696",
+      "titel": "Uppsala HK – RP IF Linköping",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-hk-rp-if-linkoping/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-12-19T16:00:00+01:00",
+      "slut": "2026-12-19T18:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-26744",
+      "titel": "Sloga Uppsala – BC Luleå",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-bc-lulea-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-12-19T17:04:00+01:00",
+      "slut": "2026-12-19T18:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-18286",
+      "titel": "Uppsala Volleyboll – Örkelljunga VK",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-volleyboll-orkelljunga/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-12-20T17:00:00+01:00",
+      "slut": "2026-12-20T19:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-12772",
+      "titel": "Uppsala Basket – Norrköping Dolphins",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-norrkoping-dolphins/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-12-30T19:04:00+01:00",
+      "slut": "2026-12-30T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-23808",
+      "titel": "Uppsala Basket – Sloga Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-sloga-basket/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-01-05T19:04:00+01:00",
+      "slut": "2027-01-05T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-27748",
+      "titel": "Uppsala Basket – Köping Stars 9 januari",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-koping-stars-9-jan/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-01-09T17:04:00+01:00",
+      "slut": "2027-01-09T18:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-18272",
+      "titel": "Uppsala Volleyboll – Vingåkers VK",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-volleyboll-vingaker/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-01-10T17:00:00+01:00",
+      "slut": "2027-01-10T19:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-26742",
+      "titel": "Sloga Uppsala – Borås Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-boras-basket/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-01-10T17:04:00+01:00",
+      "slut": "2027-01-10T18:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-26736",
+      "titel": "Sloga Uppsala – Umeå Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-umea-basket/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-01-18T19:04:00+01:00",
+      "slut": "2027-01-18T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-12766",
+      "titel": "Uppsala Basket – Jämtland Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-jamtland-basket/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-01-19T19:04:00+01:00",
+      "slut": "2027-01-19T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-26734",
+      "titel": "Sloga Uppsala – Norrköping Dolphins",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-norrkoping-dolphins/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-01-25T19:04:00+01:00",
+      "slut": "2027-01-25T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-27474",
+      "titel": "Uppsala Basket – BC Luleå",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-bc-lulea-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-01-26T19:04:00+01:00",
+      "slut": "2027-01-26T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-21251",
+      "titel": "Uppsala HK – Sannadals SK",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-hk-sannadals-sk/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-01-30T16:00:00+01:00",
+      "slut": "2027-01-30T18:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-27893",
+      "titel": "Uppsala Volleyboll – Sollentuna VK",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-volleyboll-sollentuna-31-jan/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-01-31T17:00:00+01:00",
+      "slut": "2027-01-31T19:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-13343",
+      "titel": "Uppsala Basket – Södertälje BBK",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-sodertalje/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-02-05T19:04:00+01:00",
+      "slut": "2027-02-05T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-27753",
+      "titel": "Sloga Uppsala – Uppsala Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-uppsala-basket-4/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-02-09T19:04:00+01:00",
+      "slut": "2027-02-09T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-26706",
+      "titel": "Uppsala Basket – Nässjö Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-nassjo-basket-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-02-12T19:04:00+01:00",
+      "slut": "2027-02-12T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-18274",
+      "titel": "Uppsala Volleyboll – Floby VBK",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-volleyboll-floby/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-02-13T17:00:00+01:00",
+      "slut": "2027-02-13T19:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-26738",
+      "titel": "Sloga Uppsala – Köping Stars",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-koping-stars/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-02-13T17:04:00+01:00",
+      "slut": "2027-02-13T18:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-18287",
+      "titel": "Uppsala Volleyboll – VBF RIG Falköping",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-volleyboll-falkoping/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-02-21T17:00:00+01:00",
+      "slut": "2027-02-21T19:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-27896",
+      "titel": "Uppsala Volleyboll – Hästhagen IF Volleyboll",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-volleyboll-28-feb/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-02-28T17:00:00+01:00",
+      "slut": "2027-02-28T19:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-26743",
+      "titel": "Sloga Uppsala – BC Luleå",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-bc-lulea/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-03-04T19:04:00+01:00",
+      "slut": "2027-03-04T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-24180",
+      "titel": "Uppsala HK – Boden BK HF",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-hk-boden-bk-hf/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-03-06T13:45:00+01:00",
+      "slut": "2027-03-06T15:45:00+01:00"
+    },
+    {
+      "id": "fyrishov-27917",
+      "titel": "Uppsala Basket – Sloga Basket 9 mars",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-sloga-basket-9-mars/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-03-09T19:04:00+01:00",
+      "slut": "2027-03-09T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-27754",
+      "titel": "Sloga Uppsala – Umeå Basket",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-umea-basket-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-03-17T19:04:00+01:00",
+      "slut": "2027-03-17T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-27750",
+      "titel": "Uppsala Basket – Norrköping Dolphins 19 mars",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-basket-norrkoping-dolphins-19-mars/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-03-19T19:04:00+01:00",
+      "slut": "2027-03-19T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-25728",
+      "titel": "Uppsala HK – HK Cliff",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/uppsala-hk-hk-cliff/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-03-20T16:00:00+01:00",
+      "slut": "2027-03-20T18:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-27755",
+      "titel": "Sloga Uppsala – Köping Stars",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/sloga-uppsala-koping-stars-3/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2027-03-20T17:04:00+01:00",
+      "slut": "2027-03-20T18:30:00+01:00"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-16T04:42:10.512Z",
-  "antal": 184,
+  "hamtad": "2026-10-17T04:40:31.203Z",
+  "antal": 182,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -256,33 +256,6 @@
       }
     },
     {
-      "id": "du-javla-parasiter",
-      "titel": "Jävla parasiter",
-      "start": "2026-09-11",
-      "slut": "2026-10-16",
-      "plats": {
-        "namn": "Gottsunda Dans & Teater",
-        "id": "gottsundadt"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/javla-parasiter/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "teater"
-        ]
-      }
-    },
-    {
       "id": "du-medan-vi-brinner",
       "titel": "Medan vi brinner",
       "start": "2026-09-19",
@@ -446,40 +419,6 @@
         "kategorier": [
           "utstallning"
         ]
-      }
-    },
-    {
-      "id": "du-eva-dahlgren-revalution-club-tour",
-      "titel": "Eva Dahlgren – Revalution Club Tour",
-      "start": "2026-10-16T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/eva-dahlgren-revalution-club-tour/",
-          "arrangor": "https://ukk.se/eva-dahlgren-revalution-club-tour/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-16"
-        ],
-        "tider": {
-          "start": "19:00"
-        }
       }
     },
     {
@@ -1132,7 +1071,7 @@
       "slut": "2026-11-01",
       "plats": {
         "namn": "Forumtorget",
-        "id": "du-plats-forumtorget"
+        "id": "forumtorget"
       },
       "kategori": "ovrigt",
       "gratis": null,
@@ -1460,7 +1399,7 @@
       "slut": "2026-10-29",
       "plats": {
         "namn": "Svandammshallarna",
-        "id": "du-plats-svandammshallarna"
+        "id": "svandammshallarna"
       },
       "kategori": "sport",
       "gratis": null,
@@ -2107,7 +2046,7 @@
       "slut": null,
       "plats": {
         "namn": "Slottsbiografen",
-        "id": "du-plats-slottsbiografen"
+        "id": "slottsbiografen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -3749,7 +3688,7 @@
       "slut": null,
       "plats": {
         "namn": "Slottsbiografen",
-        "id": "du-plats-slottsbiografen"
+        "id": "slottsbiografen"
       },
       "kategori": "musik",
       "gratis": null,
@@ -3781,7 +3720,7 @@
       "slut": "2026-12-05",
       "plats": {
         "namn": "Forumtorget",
-        "id": "du-plats-forumtorget"
+        "id": "forumtorget"
       },
       "kategori": "ovrigt",
       "gratis": true,
@@ -4048,8 +3987,8 @@
       "start": "2026-12-06T10:00:00+01:00",
       "slut": null,
       "plats": {
-        "namn": "Hammarskogs Herrgård",
-        "id": "du-plats-hammarskogs-herrgård"
+        "namn": "Hammarskog",
+        "id": "hammarskog"
       },
       "kategori": "ovrigt",
       "gratis": true,
@@ -4838,7 +4777,7 @@
       "slut": null,
       "plats": {
         "namn": "Forumtorget",
-        "id": "du-plats-forumtorget"
+        "id": "forumtorget"
       },
       "kategori": "ovrigt",
       "gratis": true,
@@ -5229,7 +5168,7 @@
       "slut": null,
       "plats": {
         "namn": "Vasaborgen",
-        "id": "du-plats-vasaborgen"
+        "id": "vasaborgen"
       },
       "kategori": "ovrigt",
       "gratis": false,

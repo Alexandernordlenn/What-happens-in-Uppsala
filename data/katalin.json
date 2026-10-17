@@ -1,67 +1,9 @@
 {
   "kalla": "Katalin",
   "webbsida": "https://www.katalin.com/",
-  "hamtad": "2026-10-16T10:20:31.841Z",
-  "antal": 99,
+  "hamtad": "2026-10-17T04:45:15.669Z",
+  "antal": 100,
   "evenemang": [
-    {
-      "id": "katalin-17268",
-      "titel": "Folkmusikfestival på Katalin",
-      "start": "2026-10-16T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Stora scen"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/folkmusikfestival-pa-katalin/",
-          "biljetter": "https://secure.tickster.com/sv/zte6y43pbtbwtd3/selectproductgroup"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "folkmusik"
-        ]
-      }
-    },
-    {
-      "id": "katalin-17236",
-      "titel": "Daniel Lantz ”Jazz Standards”",
-      "start": "2026-10-16T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Bakfickan"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/daniel-lantz-jazz-standards/",
-          "biljetter": "https://secure.tickster.com/sv/ecfx6c8gyw7bz89/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "jazz"
-        ]
-      }
-    },
     {
       "id": "katalin-16941",
       "titel": "Celso paco & Dynamo de Luxe",
@@ -87,6 +29,35 @@
       "fakta": {
         "kategorier": [
           "afro-pop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-15820",
+      "titel": "The Watch – Plays Genesis",
+      "start": "2026-10-17T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/the-watch-plays-genesis-2/",
+          "biljetter": "https://secure.tickster.com/740u4e3nnk159k2"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "progressiv-rock"
         ]
       }
     },
@@ -590,6 +561,36 @@
       "fakta": {
         "kategorier": [
           "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-15671",
+      "titel": "Marky Ramone´s Blitzkrieg (US)",
+      "start": "2026-10-31T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/marky-ramones-blitzkrieg-us/",
+          "biljetter": "https://secure.tickster.com/fc5nge7c565wkby"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "punk"
         ]
       }
     },
@@ -2127,6 +2128,35 @@
       "fakta": {
         "kategorier": [
           "indie"
+        ]
+      }
+    },
+    {
+      "id": "katalin-15727",
+      "titel": "The Crown",
+      "start": "2026-12-17T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/the-crown/",
+          "biljetter": "https://secure.tickster.com/sv/72ypaj48u516nlj/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "metal"
         ]
       }
     },

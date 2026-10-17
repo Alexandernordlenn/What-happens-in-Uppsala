@@ -1,34 +1,9 @@
 {
   "kalla": "Uppsala Missionskyrka",
   "webbsida": "https://www.uppsalamissionskyrka.se/",
-  "hamtad": "2026-10-16T10:20:31.991Z",
-  "antal": 65,
+  "hamtad": "2026-10-17T04:45:34.440Z",
+  "antal": 64,
   "evenemang": [
-    {
-      "id": "missionskyrkan-13061",
-      "titel": "Fredagsträffen: Medicinens roll i Carl von Linnés korrespondens",
-      "start": "2026-10-16T14:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/fredagstraffen-medicinens-roll-i-carl-von-linnes-korrespondens/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": []
-      }
-    },
     {
       "id": "missionskyrkan-12858",
       "titel": "Ekumenisk kvinnofrukost: 400 år med utlandskyrkan",
