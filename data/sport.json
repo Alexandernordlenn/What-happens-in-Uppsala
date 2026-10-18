@@ -1,57 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-17T04:45:04.979Z",
-  "antal": 136,
+  "hamtad": "2026-10-18T04:44:23.341Z",
+  "antal": 134,
   "evenemang": [
-    {
-      "id": "sport-sportality-qhpm83sse8",
-      "titel": "IK Uppsala – Kristianstads DFF (dam)",
-      "start": "2026-10-17T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Fotboll",
-      "liga": "OBOS Damallsvenskan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Ligans webbplats",
-          "url": "https://www.obosdamallsvenskan.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-profixio-32682416",
-      "titel": "Uppsala Basket – Östersund Basket (dam)",
-      "start": "2026-10-17T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "USIF Arena",
-        "id": "usif"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Basket",
-      "liga": "Basketligan dam",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid27644/match/32682416"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-sportomedia-6530018",
       "titel": "IK Sirius – IF Elfsborg",

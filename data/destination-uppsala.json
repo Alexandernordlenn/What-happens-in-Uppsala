@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-17T04:40:31.203Z",
-  "antal": 182,
+  "hamtad": "2026-10-18T04:40:40.269Z",
+  "antal": 179,
   "evenemang": [
     {
       "id": "du-life-play-end",
@@ -419,103 +419,6 @@
         "kategorier": [
           "utstallning"
         ]
-      }
-    },
-    {
-      "id": "du-uppsala-marathon-2026",
-      "titel": "Uppsala Marathon 2026",
-      "start": "2026-10-17",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala",
-        "id": "uppsala"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/uppsala-marathon-2026/",
-          "arrangor": "https://www.uppsalamarathon.se/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "aktiviteter",
-          "sport"
-        ],
-        "datum": [
-          "2026-10-17"
-        ]
-      }
-    },
-    {
-      "id": "du-sa-enkelt-gar-du-ner-10-kg-teater-elin-2",
-      "titel": "”Så enkelt går du ner 10 kg!” – Teater Elin",
-      "start": "2026-10-17",
-      "slut": null,
-      "plats": {
-        "namn": "Språkateatern",
-        "id": "sprakateatern"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/sa-enkelt-gar-du-ner-10-kg-teater-elin-2/",
-          "arrangor": "https://www.teaterelin.com/home2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "teater"
-        ],
-        "datum": [
-          "2026-11-14"
-        ]
-      }
-    },
-    {
-      "id": "du-countrykvall-pa-salsta-slott",
-      "titel": "Countrykväll på Salsta slott",
-      "start": "2026-10-17T17:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Salsta slott",
-        "id": "salstaslott"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/countrykvall-pa-salsta-slott/",
-          "arrangor": "https://salstaslott.understory.io/experience/9251e975ce306b35df7831078277876f"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-17"
-        ],
-        "tider": {
-          "start": "17:00"
-        }
       }
     },
     {

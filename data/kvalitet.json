@@ -1,13 +1,13 @@
 {
-  "matt": "2026-10-17T05:23:43.277Z",
-  "idag": "2026-10-17",
+  "matt": "2026-10-18T04:45:01.070Z",
+  "idag": "2026-10-18",
   "totalt": {
-    "antal": 1882,
-    "utanKlockslag": 0.043,
+    "antal": 1844,
+    "utanKlockslag": 0.04,
     "ovrigt": 0.029,
     "familjUtanAlder": 0.197,
-    "utanOmrade": 0.016,
-    "sammanslagna": 767,
+    "utanOmrade": 0.015,
+    "sammanslagna": 755,
     "pagar14": 15,
     "borttagnaKurser": 24,
     "aiEvenemang": 0,
@@ -15,25 +15,25 @@
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
       "langvariga": 9,
-      "samma-kalla": 13,
+      "samma-kalla": 11,
       "serie-uttryckliga-datum": 10,
       "speltid-mot-tillfallen": 13,
       "festival": 32,
-      "lika": 377,
-      "innehaller": 109,
-      "likhet": 2,
-      "sport": 87
+      "innehaller": 108,
+      "lika": 371,
+      "likhet": 1,
+      "sport": 86
     }
   },
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 111,
+      "antal": 110,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.009,
-      "sammanslagna": 87,
+      "sammanslagna": 86,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -41,12 +41,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 116,
+      "antal": 114,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 80,
+      "sammanslagna": 78,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 369,
+      "antal": 363,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 135,
+      "sammanslagna": 132,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 737,
-      "utanKlockslag": 0.049,
+      "antal": 727,
+      "utanKlockslag": 0.047,
       "ovrigt": 0.011,
-      "familjUtanAlder": 0.115,
+      "familjUtanAlder": 0.116,
       "utanOmrade": 0.007,
-      "sammanslagna": 175,
+      "sammanslagna": 171,
       "pagar14": 0,
       "borttagnaKurser": 22,
       "aiEvenemang": 0,
@@ -93,12 +93,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 85,
+      "antal": 83,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 149,
+      "sammanslagna": 145,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -119,12 +119,12 @@
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 64,
+      "antal": 62,
       "utanKlockslag": 0,
-      "ovrigt": 0.047,
+      "ovrigt": 0.048,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 3,
+      "sammanslagna": 2,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -132,7 +132,7 @@
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 52,
+      "antal": 51,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0.6,
@@ -145,11 +145,11 @@
     },
     "n": {
       "namn": "Biotopia",
-      "antal": 29,
-      "utanKlockslag": 0.708,
+      "antal": 28,
+      "utanKlockslag": 0.696,
       "ovrigt": 0,
-      "familjUtanAlder": 0.471,
-      "utanOmrade": 0.103,
+      "familjUtanAlder": 0.438,
+      "utanOmrade": 0.071,
       "sammanslagna": 15,
       "pagar14": 1,
       "borttagnaKurser": 0,
@@ -158,9 +158,9 @@
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 49,
+      "antal": 47,
       "utanKlockslag": 0,
-      "ovrigt": 0.041,
+      "ovrigt": 0.043,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
       "sammanslagna": 47,
@@ -171,12 +171,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 257,
-      "utanKlockslag": 0.075,
-      "ovrigt": 0.109,
-      "familjUtanAlder": 0.778,
-      "utanOmrade": 0.031,
-      "sammanslagna": 321,
+      "antal": 252,
+      "utanKlockslag": 0.067,
+      "ovrigt": 0.111,
+      "familjUtanAlder": 0.775,
+      "utanOmrade": 0.032,
+      "sammanslagna": 318,
       "pagar14": 9,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -184,12 +184,12 @@
     },
     "h": {
       "namn": "Heja",
-      "antal": 406,
-      "utanKlockslag": 0.053,
-      "ovrigt": 0.032,
+      "antal": 392,
+      "utanKlockslag": 0.046,
+      "ovrigt": 0.033,
       "familjUtanAlder": 0.822,
-      "utanOmrade": 0.02,
-      "sammanslagna": 451,
+      "utanOmrade": 0.018,
+      "sammanslagna": 446,
       "pagar14": 6,
       "borttagnaKurser": 1,
       "aiEvenemang": 0,
@@ -197,12 +197,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 255,
+      "antal": 251,
       "utanKlockslag": 0.021,
       "ovrigt": 0.024,
       "familjUtanAlder": 0.647,
       "utanOmrade": 0.02,
-      "sammanslagna": 399,
+      "sammanslagna": 394,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -363,31 +363,7 @@
     },
     {
       "regel": "samma-kalla",
-      "dag": "2026-10-17",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
       "dag": "2026-10-18",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
-      "dag": "2026-10-17",
       "plats": "konstmuseum",
       "kallor": [
         "h",
@@ -608,7 +584,7 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-17",
+      "dag": "2026-10-24",
       "plats": "konstmuseum",
       "kallor": [
         "d",
@@ -666,7 +642,7 @@
         "“Så enkelt går du ner 10 kg!” (teaterföreställning om att överleva anorexia, med Teater Elin)",
         "”Så enkelt går du ner 10 kg!” – Teater Elin"
       ],
-      "tillfallen": 2
+      "tillfallen": 1
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -706,7 +682,7 @@
       "titlar": [
         "Medan vi brinner"
       ],
-      "tillfallen": 9
+      "tillfallen": 8
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -719,7 +695,7 @@
       "titlar": [
         "Stadens ljus"
       ],
-      "tillfallen": 16
+      "tillfallen": 15
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -1080,7 +1056,7 @@
     },
     {
       "regel": "festival",
-      "dag": "2026-10-16",
+      "dag": "2026-10-17",
       "plats": "brorhjorth",
       "kallor": [
         "h",
@@ -1298,48 +1274,6 @@
       "titlar": [
         "Elvis Presley Birthday Concert 2027"
       ]
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-17",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Sagostund på italienska – Ora delle fiabe in italiano",
-        "Sagostund på italienska / Ora delle fiabe in italiano"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-17",
-      "plats": "stenhagenbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Lördagskul: Sjung barnsånger med Ako!",
-        "Lördagskul: Sjung med Ako!"
-      ],
-      "poang": 0.75
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-17",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Sagostund på persiska",
-        "Sagostund på persiska / داستان خوانی به زبان فارسی"
-      ],
-      "poang": 1
     },
     {
       "regel": "innehaller",
@@ -4157,47 +4091,6 @@
       "poang": 1
     },
     {
-      "regel": "sport",
-      "dag": "2026-10-17",
-      "plats": "usif",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – Östersund Basket (dam)",
-        "Uppsala basket D-Östersund"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-17",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "The Watch – Plays Genesis",
-        "THE WATCH plays Genesis"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-17",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Celso paco & Dynamo de Luxe"
-      ],
-      "poang": 1
-    },
-    {
       "regel": "innehaller",
       "dag": "2026-10-18",
       "plats": "ukk",
@@ -6983,51 +6876,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-10-17",
-      "plats": "missionskyrkan",
-      "kallor": [
-        "e",
-        "t"
-      ],
-      "titlar": [
-        "Konsert: Mozarts Requiem",
-        "Mozarts Requiem"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "likhet",
-      "dag": "2026-10-17",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Celso paco & Dynamo de Luxe",
-        "Celso paco & Dynamo de Luxekopia"
-      ],
-      "poang": 0.8
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-17",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "The Watch – Plays Genesis",
-        "THE WATCH plays Genesis",
-        "The Watch - Plays Genesis"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-10-18",
       "plats": "slottshist",
       "kallor": [
@@ -9429,8 +9277,8 @@
     {
       "person": "Lisa",
       "namn": "Helgen, 0–4 år: evenemang med känd ålder",
-      "ok": true,
-      "varde": 5,
+      "ok": false,
+      "varde": 1,
       "krav": "minst 5"
     },
     {
@@ -9444,7 +9292,7 @@
       "person": "Lisa",
       "namn": "Familjeevenemang utan ålder (eller 0–99) syns under \"ålder ej angiven\"",
       "ok": true,
-      "varde": "7 av 7",
+      "varde": "2 av 2",
       "krav": "alla"
     },
     {
@@ -9465,7 +9313,7 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 24,
+      "varde": 25,
       "krav": "minst 10"
     },
     {
@@ -9479,7 +9327,7 @@
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 28,
+      "varde": 31,
       "krav": "minst 5"
     },
     {
@@ -9507,14 +9355,14 @@
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "1.6 %",
+      "varde": "1.5 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "4.3 %",
+      "varde": "4 %",
       "krav": "under 5 %"
     }
   ]

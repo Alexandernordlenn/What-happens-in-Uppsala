@@ -1,8 +1,8 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-17T04:41:20.085Z",
-  "antal": 316,
+  "hamtad": "2026-10-18T04:41:23.552Z",
+  "antal": 312,
   "evenemang": [
     {
       "id": "tickster-w3dlm59l15b1r1d",
@@ -31,130 +31,6 @@
       "fakta": {
         "taggar": [
           "torsdagskul"
-        ]
-      }
-    },
-    {
-      "id": "tickster-6f7647r62ze0uw9",
-      "titel": "Mozarts Requiem",
-      "start": "2026-10-17T16:00:00+02:00",
-      "slut": "2026-10-17T18:00:00+02:00",
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/6f7647r62ze0uw9/2026-10-17/mozarts-requiem",
-          "biljetter": "https://secure.tickster.com/sv/6f7647r62ze0uw9"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-lne11w1akxvnr4l",
-      "titel": "Oddjob",
-      "start": "2026-10-17T19:30:00+02:00",
-      "slut": "2026-10-17T22:00:00+02:00",
-      "plats": {
-        "namn": "Blackbird",
-        "id": "blackbird"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/lne11w1akxvnr4l/2026-10-17/oddjob",
-          "biljetter": "https://secure.tickster.com/sv/lne11w1akxvnr4l"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "blackbird",
-          "jazz",
-          "uppsala",
-          "late night jazz",
-          "musik",
-          "konsert",
-          "live",
-          "kaliber live",
-          "östra station",
-          "martin sjöstedt  erik tengholm"
-        ]
-      }
-    },
-    {
-      "id": "tickster-mkk703b1mmulwez",
-      "titel": "Celso paco & Dynamo de Luxekopia",
-      "start": "2026-10-17T20:00:00+02:00",
-      "slut": "2026-10-17T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/mkk703b1mmulwez/2026-10-17/celso-paco-and-dynamo-de-luxekopia",
-          "biljetter": "https://secure.tickster.com/sv/mkk703b1mmulwez"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-740u4e3nnk159k2",
-      "titel": "The Watch - Plays Genesis",
-      "start": "2026-10-17T20:00:00+02:00",
-      "slut": "2026-10-17T22:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8595,
-        "lng": 17.6465
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/740u4e3nnk159k2/2026-10-17/the-watch-plays-genesis",
-          "biljetter": "https://secure.tickster.com/sv/740u4e3nnk159k2"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinlive",
-          "uppsala",
-          "katalin",
-          "musik",
-          "konsert",
-          "kaliber live",
-          "genesis",
-          "rock",
-          "progg",
-          "progressiv rock"
         ]
       }
     },

@@ -1,7 +1,7 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-17T04:45:21.305Z",
+  "hamtad": "2026-10-18T04:44:39.658Z",
   "antal": 124,
   "evenemang": [
     {
@@ -362,9 +362,9 @@
           "jazz"
         ],
         "taggar": [
-          "mhv",
           "jazz",
-          "student"
+          "student",
+          "mhv"
         ]
       }
     },
@@ -520,8 +520,8 @@
           "jazz"
         ],
         "taggar": [
-          "jazz",
-          "miu"
+          "miu",
+          "jazz"
         ]
       }
     },
@@ -551,8 +551,8 @@
           "humor"
         ],
         "taggar": [
-          "aktuellt",
-          "humor"
+          "humor",
+          "aktuellt"
         ]
       }
     },
@@ -677,8 +677,8 @@
           "klassiskt"
         ],
         "taggar": [
-          "hostlov",
-          "student"
+          "student",
+          "hostlov"
         ]
       }
     },
@@ -709,10 +709,10 @@
           "barn"
         ],
         "taggar": [
+          "familj",
           "aktuellt",
           "miu",
-          "hostlov",
-          "familj"
+          "hostlov"
         ]
       }
     },
@@ -770,9 +770,9 @@
           "barn"
         ],
         "taggar": [
+          "familj",
           "aktuellt",
-          "hostlov",
-          "familj"
+          "hostlov"
         ]
       }
     },
@@ -1017,10 +1017,10 @@
           "jazz"
         ],
         "taggar": [
-          "jazz",
-          "aktuellt",
           "student",
-          "mhv"
+          "mhv",
+          "jazz",
+          "aktuellt"
         ]
       }
     },
@@ -1388,9 +1388,9 @@
           "nostalgi-tribute"
         ],
         "taggar": [
+          "lunchkonsert",
           "student",
-          "mhv",
-          "lunchkonsert"
+          "mhv"
         ]
       }
     },
@@ -1448,8 +1448,8 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "aktuellt",
+          "familj"
         ]
       }
     },
@@ -1931,9 +1931,9 @@
       "fakta": {
         "kategorier": [
           "dans",
-          "barn",
           "klassiskt",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "barn"
         ],
         "taggar": [
           "dans",
@@ -1967,9 +1967,9 @@
           "jazz"
         ],
         "taggar": [
-          "aktuellt",
           "student",
-          "mhv"
+          "mhv",
+          "aktuellt"
         ]
       }
     },
@@ -2181,8 +2181,8 @@
       "fakta": {
         "kategorier": [
           "festligheter-hogtider",
-          "klassiskt",
-          "barn"
+          "barn",
+          "klassiskt"
         ],
         "taggar": [
           "student",
@@ -2280,6 +2280,7 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "jazz",
           "aktuellt",
           "student",
           "mhv"
@@ -2313,8 +2314,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "aktuellt",
+          "familj"
         ]
       }
     },
@@ -2471,8 +2472,8 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "aktuellt",
+          "familj"
         ]
       }
     },
@@ -2502,9 +2503,9 @@
           "nostalgi-tribute"
         ],
         "taggar": [
-          "lunchkonsert",
           "student",
-          "mhv"
+          "mhv",
+          "lunchkonsert"
         ]
       }
     },
@@ -3164,8 +3165,8 @@
           "barn"
         ],
         "taggar": [
-          "aktuellt",
-          "familj"
+          "familj",
+          "aktuellt"
         ]
       }
     },
@@ -3497,8 +3498,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "publikfavoriter",
-          "aktuellt"
+          "aktuellt",
+          "publikfavoriter"
         ]
       }
     },

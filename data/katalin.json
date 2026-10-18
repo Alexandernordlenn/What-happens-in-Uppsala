@@ -1,66 +1,9 @@
 {
   "kalla": "Katalin",
   "webbsida": "https://www.katalin.com/",
-  "hamtad": "2026-10-17T04:45:15.669Z",
-  "antal": 100,
+  "hamtad": "2026-10-18T04:44:34.032Z",
+  "antal": 98,
   "evenemang": [
-    {
-      "id": "katalin-16941",
-      "titel": "Celso paco & Dynamo de Luxe",
-      "start": "2026-10-17T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/celso-paco-dynamo-de-luxekopia-katalins-bakficka/",
-          "biljetter": "https://secure.tickster.com/sv/mkk703b1mmulwez/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "afro-pop"
-        ]
-      }
-    },
-    {
-      "id": "katalin-15820",
-      "titel": "The Watch – Plays Genesis",
-      "start": "2026-10-17T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Stora scen"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/the-watch-plays-genesis-2/",
-          "biljetter": "https://secure.tickster.com/740u4e3nnk159k2"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "progressiv-rock"
-        ]
-      }
-    },
     {
       "id": "katalin-17045",
       "titel": "Teddybears – Extrakonsert",

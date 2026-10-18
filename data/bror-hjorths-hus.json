@@ -1,37 +1,9 @@
 {
   "kalla": "Bror Hjorths Hus",
   "webbsida": "https://brorhjorthshus.se/",
-  "hamtad": "2026-10-17T04:45:38.215Z",
-  "antal": 53,
+  "hamtad": "2026-10-18T04:44:55.783Z",
+  "antal": 52,
   "evenemang": [
-    {
-      "id": "bror-hjorths-hus-20610",
-      "titel": "Guided tour: Bror Hjorth’s art and life",
-      "start": "2026-10-17T14:00:00+02:00",
-      "slut": "2026-10-17T14:45:00+02:00",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "museum",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "bror-hjorths-hus",
-          "namn": "Bror Hjorths Hus",
-          "url": "https://brorhjorthshus.se/evenemang/guided-tour-bror-hjorths-art-and-life-4-2026-08-15-2026-10-17/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Visning"
-        ],
-        "adress": "Norbyvägen 26, 752 39"
-      }
-    },
     {
       "id": "bror-hjorths-hus-20556",
       "titel": "Guidad visning: Johan Thurfjell – Ljuset",

@@ -1,8 +1,8 @@
 {
   "kalla": "Biotopia",
   "webbsida": "https://biotopia.nu/kalender/",
-  "hamtad": "2026-10-17T04:45:39.471Z",
-  "antal": 29,
+  "hamtad": "2026-10-18T04:44:57.035Z",
+  "antal": 28,
   "evenemang": [
     {
       "id": "biotopia-2195",
@@ -33,37 +33,6 @@
           "För barn",
           "För vuxna",
           "Helgtema"
-        ]
-      }
-    },
-    {
-      "id": "biotopia-1388",
-      "titel": "Höstmys med brödbak vid viltvattnet i Vedyxa",
-      "start": "2026-10-17",
-      "slut": null,
-      "plats": {
-        "namn": "Viltvattnet i Vedyxa"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": null,
-      "kallor": [
-        {
-          "id": "biotopia",
-          "namn": "Biotopia",
-          "url": "https://biotopia.nu/?post_type=post&p=1388"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Smultronställe i Naturen",
-          "För barn",
-          "För vuxna",
-          "Med Biotopia",
-          "Utflyktsprogrammet"
         ]
       }
     },

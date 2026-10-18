@@ -1,61 +1,9 @@
 {
   "kalla": "Fyrishov",
   "webbsida": "https://fyrishov.se/",
-  "hamtad": "2026-10-17T04:45:42.268Z",
-  "antal": 58,
+  "hamtad": "2026-10-18T04:45:00.373Z",
+  "antal": 56,
   "evenemang": [
-    {
-      "id": "fyrishov-27059",
-      "titel": "Nordiskt mästerskap i trampolin och DMT",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Hall A"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/nordiskt-masterskap-i-trampolin-och-dmt/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-16T10:00:00+02:00",
-      "slut": "2026-10-17T16:00:00+02:00"
-    },
-    {
-      "id": "fyrishov-14685",
-      "titel": "Regiontävling rytmisk gymnastik",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Hall B och C"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/regiontavling-rytmisk-gymnastik/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-17T09:00:00+02:00",
-      "slut": "2026-10-17T18:30:00+02:00"
-    },
     {
       "id": "fyrishov-26697",
       "titel": "Uppsala Basket – Umeå Basket",
@@ -65,6 +13,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -80,8 +29,7 @@
         "taggar": []
       },
       "start": "2026-10-23T19:04:00+02:00",
-      "slut": "2026-10-23T20:30:00+02:00",
-      "sport": "Basket"
+      "slut": "2026-10-23T20:30:00+02:00"
     },
     {
       "id": "fyrishov-27279",
@@ -118,6 +66,7 @@
         "rum": "Hall B"
       },
       "kategori": "sport",
+      "sport": "Handboll",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -133,8 +82,7 @@
         "taggar": []
       },
       "start": "2026-10-24T16:00:00+02:00",
-      "slut": "2026-10-24T18:00:00+02:00",
-      "sport": "Handboll"
+      "slut": "2026-10-24T18:00:00+02:00"
     },
     {
       "id": "fyrishov-18278",
@@ -275,6 +223,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -290,8 +239,7 @@
         "taggar": []
       },
       "start": "2026-11-02T19:04:00+01:00",
-      "slut": "2026-11-02T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2026-11-02T20:30:00+01:00"
     },
     {
       "id": "fyrishov-26750",
@@ -302,6 +250,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -317,8 +266,7 @@
         "taggar": []
       },
       "start": "2026-11-03T19:04:00+01:00",
-      "slut": "2026-11-03T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2026-11-03T20:30:00+01:00"
     },
     {
       "id": "fyrishov-27079",
@@ -355,6 +303,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -370,8 +319,7 @@
         "taggar": []
       },
       "start": "2026-11-09T19:04:00+01:00",
-      "slut": "2026-11-09T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2026-11-09T20:30:00+01:00"
     },
     {
       "id": "fyrishov-22803",
@@ -408,6 +356,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -423,8 +372,7 @@
         "taggar": []
       },
       "start": "2026-11-13T19:04:00+01:00",
-      "slut": "2026-11-13T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2026-11-13T20:30:00+01:00"
     },
     {
       "id": "fyrishov-18285",
@@ -461,6 +409,7 @@
         "rum": "Hall B"
       },
       "kategori": "sport",
+      "sport": "Handboll",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -476,8 +425,7 @@
         "taggar": []
       },
       "start": "2026-11-21T14:00:00+01:00",
-      "slut": "2026-11-21T16:00:00+01:00",
-      "sport": "Handboll"
+      "slut": "2026-11-21T16:00:00+01:00"
     },
     {
       "id": "fyrishov-18279",
@@ -514,6 +462,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -529,8 +478,7 @@
         "taggar": []
       },
       "start": "2026-11-22T19:04:00+01:00",
-      "slut": "2026-11-22T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2026-11-22T20:30:00+01:00"
     },
     {
       "id": "fyrishov-20750",
@@ -619,6 +567,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -634,8 +583,7 @@
         "taggar": []
       },
       "start": "2026-12-04T19:04:00+01:00",
-      "slut": "2026-12-04T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2026-12-04T20:30:00+01:00"
     },
     {
       "id": "fyrishov-27899",
@@ -646,6 +594,7 @@
         "rum": "Hall B"
       },
       "kategori": "sport",
+      "sport": "Handboll",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -661,8 +610,7 @@
         "taggar": []
       },
       "start": "2026-12-05T16:00:00+01:00",
-      "slut": "2026-12-05T18:00:00+01:00",
-      "sport": "Handboll"
+      "slut": "2026-12-05T18:00:00+01:00"
     },
     {
       "id": "fyrishov-26708",
@@ -673,6 +621,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -688,8 +637,7 @@
         "taggar": []
       },
       "start": "2026-12-05T17:04:00+01:00",
-      "slut": "2026-12-05T18:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2026-12-05T18:30:00+01:00"
     },
     {
       "id": "fyrishov-26745",
@@ -700,6 +648,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -715,8 +664,7 @@
         "taggar": []
       },
       "start": "2026-12-08T19:04:00+01:00",
-      "slut": "2026-12-08T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2026-12-08T20:30:00+01:00"
     },
     {
       "id": "fyrishov-12761",
@@ -727,6 +675,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -742,8 +691,7 @@
         "taggar": []
       },
       "start": "2026-12-11T19:04:00+01:00",
-      "slut": "2026-12-11T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2026-12-11T20:30:00+01:00"
     },
     {
       "id": "fyrishov-26740",
@@ -754,6 +702,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -769,8 +718,7 @@
         "taggar": []
       },
       "start": "2026-12-12T17:04:00+01:00",
-      "slut": "2026-12-12T18:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2026-12-12T18:30:00+01:00"
     },
     {
       "id": "fyrishov-18276",
@@ -807,6 +755,7 @@
         "rum": "Hall B"
       },
       "kategori": "sport",
+      "sport": "Handboll",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -822,8 +771,7 @@
         "taggar": []
       },
       "start": "2026-12-19T16:00:00+01:00",
-      "slut": "2026-12-19T18:00:00+01:00",
-      "sport": "Handboll"
+      "slut": "2026-12-19T18:00:00+01:00"
     },
     {
       "id": "fyrishov-26744",
@@ -834,6 +782,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -849,8 +798,7 @@
         "taggar": []
       },
       "start": "2026-12-19T17:04:00+01:00",
-      "slut": "2026-12-19T18:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2026-12-19T18:30:00+01:00"
     },
     {
       "id": "fyrishov-18286",
@@ -887,6 +835,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -902,8 +851,7 @@
         "taggar": []
       },
       "start": "2026-12-30T19:04:00+01:00",
-      "slut": "2026-12-30T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2026-12-30T20:30:00+01:00"
     },
     {
       "id": "fyrishov-23808",
@@ -914,6 +862,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -929,8 +878,7 @@
         "taggar": []
       },
       "start": "2027-01-05T19:04:00+01:00",
-      "slut": "2027-01-05T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-01-05T20:30:00+01:00"
     },
     {
       "id": "fyrishov-27748",
@@ -941,6 +889,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -956,8 +905,7 @@
         "taggar": []
       },
       "start": "2027-01-09T17:04:00+01:00",
-      "slut": "2027-01-09T18:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-01-09T18:30:00+01:00"
     },
     {
       "id": "fyrishov-18272",
@@ -994,6 +942,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1009,8 +958,7 @@
         "taggar": []
       },
       "start": "2027-01-10T17:04:00+01:00",
-      "slut": "2027-01-10T18:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-01-10T18:30:00+01:00"
     },
     {
       "id": "fyrishov-26736",
@@ -1021,6 +969,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1036,8 +985,7 @@
         "taggar": []
       },
       "start": "2027-01-18T19:04:00+01:00",
-      "slut": "2027-01-18T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-01-18T20:30:00+01:00"
     },
     {
       "id": "fyrishov-12766",
@@ -1048,6 +996,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1063,8 +1012,7 @@
         "taggar": []
       },
       "start": "2027-01-19T19:04:00+01:00",
-      "slut": "2027-01-19T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-01-19T20:30:00+01:00"
     },
     {
       "id": "fyrishov-26734",
@@ -1075,6 +1023,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1090,8 +1039,7 @@
         "taggar": []
       },
       "start": "2027-01-25T19:04:00+01:00",
-      "slut": "2027-01-25T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-01-25T20:30:00+01:00"
     },
     {
       "id": "fyrishov-27474",
@@ -1102,6 +1050,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1117,8 +1066,7 @@
         "taggar": []
       },
       "start": "2027-01-26T19:04:00+01:00",
-      "slut": "2027-01-26T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-01-26T20:30:00+01:00"
     },
     {
       "id": "fyrishov-21251",
@@ -1129,6 +1077,7 @@
         "rum": "Hall B"
       },
       "kategori": "sport",
+      "sport": "Handboll",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1144,8 +1093,7 @@
         "taggar": []
       },
       "start": "2027-01-30T16:00:00+01:00",
-      "slut": "2027-01-30T18:00:00+01:00",
-      "sport": "Handboll"
+      "slut": "2027-01-30T18:00:00+01:00"
     },
     {
       "id": "fyrishov-27893",
@@ -1182,6 +1130,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1197,8 +1146,7 @@
         "taggar": []
       },
       "start": "2027-02-05T19:04:00+01:00",
-      "slut": "2027-02-05T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-02-05T20:30:00+01:00"
     },
     {
       "id": "fyrishov-27753",
@@ -1209,6 +1157,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1224,8 +1173,7 @@
         "taggar": []
       },
       "start": "2027-02-09T19:04:00+01:00",
-      "slut": "2027-02-09T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-02-09T20:30:00+01:00"
     },
     {
       "id": "fyrishov-26706",
@@ -1236,6 +1184,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1251,8 +1200,7 @@
         "taggar": []
       },
       "start": "2027-02-12T19:04:00+01:00",
-      "slut": "2027-02-12T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-02-12T20:30:00+01:00"
     },
     {
       "id": "fyrishov-18274",
@@ -1289,6 +1237,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1304,8 +1253,7 @@
         "taggar": []
       },
       "start": "2027-02-13T17:04:00+01:00",
-      "slut": "2027-02-13T18:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-02-13T18:30:00+01:00"
     },
     {
       "id": "fyrishov-18287",
@@ -1368,6 +1316,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1383,8 +1332,7 @@
         "taggar": []
       },
       "start": "2027-03-04T19:04:00+01:00",
-      "slut": "2027-03-04T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-03-04T20:30:00+01:00"
     },
     {
       "id": "fyrishov-24180",
@@ -1395,6 +1343,7 @@
         "rum": "Hall B"
       },
       "kategori": "sport",
+      "sport": "Handboll",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1410,8 +1359,7 @@
         "taggar": []
       },
       "start": "2027-03-06T13:45:00+01:00",
-      "slut": "2027-03-06T15:45:00+01:00",
-      "sport": "Handboll"
+      "slut": "2027-03-06T15:45:00+01:00"
     },
     {
       "id": "fyrishov-27917",
@@ -1422,6 +1370,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1437,8 +1386,7 @@
         "taggar": []
       },
       "start": "2027-03-09T19:04:00+01:00",
-      "slut": "2027-03-09T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-03-09T20:30:00+01:00"
     },
     {
       "id": "fyrishov-27754",
@@ -1449,6 +1397,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1464,8 +1413,7 @@
         "taggar": []
       },
       "start": "2027-03-17T19:04:00+01:00",
-      "slut": "2027-03-17T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-03-17T20:30:00+01:00"
     },
     {
       "id": "fyrishov-27750",
@@ -1476,6 +1424,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1491,8 +1440,7 @@
         "taggar": []
       },
       "start": "2027-03-19T19:04:00+01:00",
-      "slut": "2027-03-19T20:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-03-19T20:30:00+01:00"
     },
     {
       "id": "fyrishov-25728",
@@ -1503,6 +1451,7 @@
         "rum": "Hall B"
       },
       "kategori": "sport",
+      "sport": "Handboll",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1518,8 +1467,7 @@
         "taggar": []
       },
       "start": "2027-03-20T16:00:00+01:00",
-      "slut": "2027-03-20T18:00:00+01:00",
-      "sport": "Handboll"
+      "slut": "2027-03-20T18:00:00+01:00"
     },
     {
       "id": "fyrishov-27755",
@@ -1530,6 +1478,7 @@
         "rum": "Hall A"
       },
       "kategori": "sport",
+      "sport": "Basket",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1545,8 +1494,7 @@
         "taggar": []
       },
       "start": "2027-03-20T17:04:00+01:00",
-      "slut": "2027-03-20T18:30:00+01:00",
-      "sport": "Basket"
+      "slut": "2027-03-20T18:30:00+01:00"
     }
   ]
 }

@@ -1,61 +1,9 @@
 {
   "kalla": "Uppsala Missionskyrka",
   "webbsida": "https://www.uppsalamissionskyrka.se/",
-  "hamtad": "2026-10-17T04:45:34.440Z",
-  "antal": 64,
+  "hamtad": "2026-10-18T04:44:52.271Z",
+  "antal": 62,
   "evenemang": [
-    {
-      "id": "missionskyrkan-12858",
-      "titel": "Ekumenisk kvinnofrukost: 400 år med utlandskyrkan",
-      "start": "2026-10-17T10:00:00+02:00",
-      "slut": "2026-10-17T12:00:00+02:00",
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/ekumenisk-kvinnofrukost-400-ar-med-utlandskyrkan/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": []
-      }
-    },
-    {
-      "id": "missionskyrkan-13022",
-      "titel": "Konsert: Mozarts Requiem",
-      "start": "2026-10-17T16:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/konsert-barbro-bjorklunds-kammarkor-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Extern arrangör"
-        ]
-      }
-    },
     {
       "id": "missionskyrkan-13133",
       "titel": "Konsert: En afton vid Medelhavet",
