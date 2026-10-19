@@ -1,39 +1,39 @@
 {
-  "matt": "2026-10-18T04:45:01.070Z",
-  "idag": "2026-10-18",
+  "matt": "2026-10-19T04:47:45.960Z",
+  "idag": "2026-10-19",
   "totalt": {
-    "antal": 1844,
-    "utanKlockslag": 0.04,
-    "ovrigt": 0.029,
-    "familjUtanAlder": 0.197,
+    "antal": 1822,
+    "utanKlockslag": 0.039,
+    "ovrigt": 0.03,
+    "familjUtanAlder": 0.196,
     "utanOmrade": 0.015,
-    "sammanslagna": 755,
-    "pagar14": 15,
+    "sammanslagna": 742,
+    "pagar14": 12,
     "borttagnaKurser": 24,
     "aiEvenemang": 0,
     "misstanktaDubbletter": 0,
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
       "langvariga": 9,
-      "samma-kalla": 11,
+      "samma-kalla": 9,
       "serie-uttryckliga-datum": 10,
       "speltid-mot-tillfallen": 13,
-      "festival": 32,
-      "innehaller": 108,
-      "lika": 371,
+      "festival": 31,
+      "innehaller": 105,
+      "lika": 363,
       "likhet": 1,
-      "sport": 86
+      "sport": 85
     }
   },
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 110,
+      "antal": 109,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.009,
-      "sammanslagna": 86,
+      "sammanslagna": 85,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 363,
+      "antal": 362,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 132,
+      "sammanslagna": 131,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 727,
-      "utanKlockslag": 0.047,
+      "antal": 722,
+      "utanKlockslag": 0.045,
       "ovrigt": 0.011,
-      "familjUtanAlder": 0.116,
+      "familjUtanAlder": 0.117,
       "utanOmrade": 0.007,
-      "sammanslagna": 171,
+      "sammanslagna": 170,
       "pagar14": 0,
       "borttagnaKurser": 22,
       "aiEvenemang": 0,
@@ -106,12 +106,12 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 94,
+      "antal": 92,
       "utanKlockslag": 0,
-      "ovrigt": 0.021,
+      "ovrigt": 0.022,
       "familjUtanAlder": 0.759,
       "utanOmrade": 0,
-      "sammanslagna": 234,
+      "sammanslagna": 228,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -119,12 +119,12 @@
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 62,
+      "antal": 61,
       "utanKlockslag": 0,
-      "ovrigt": 0.048,
+      "ovrigt": 0.049,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 2,
+      "sammanslagna": 1,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -132,12 +132,12 @@
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 51,
+      "antal": 48,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0.6,
       "utanOmrade": 0,
-      "sammanslagna": 9,
+      "sammanslagna": 7,
       "pagar14": 0,
       "borttagnaKurser": 1,
       "aiEvenemang": 0,
@@ -145,13 +145,13 @@
     },
     "n": {
       "namn": "Biotopia",
-      "antal": 28,
+      "antal": 27,
       "utanKlockslag": 0.696,
       "ovrigt": 0,
-      "familjUtanAlder": 0.438,
-      "utanOmrade": 0.071,
+      "familjUtanAlder": 0.4,
+      "utanOmrade": 0.074,
       "sammanslagna": 15,
-      "pagar14": 1,
+      "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
       "misstanktaDubbletter": 0
@@ -171,38 +171,38 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 252,
-      "utanKlockslag": 0.067,
-      "ovrigt": 0.111,
-      "familjUtanAlder": 0.775,
-      "utanOmrade": 0.032,
-      "sammanslagna": 318,
-      "pagar14": 9,
+      "antal": 246,
+      "utanKlockslag": 0.068,
+      "ovrigt": 0.114,
+      "familjUtanAlder": 0.768,
+      "utanOmrade": 0.033,
+      "sammanslagna": 309,
+      "pagar14": 8,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
       "misstanktaDubbletter": 0
     },
     "h": {
       "namn": "Heja",
-      "antal": 392,
-      "utanKlockslag": 0.046,
-      "ovrigt": 0.033,
-      "familjUtanAlder": 0.822,
+      "antal": 383,
+      "utanKlockslag": 0.047,
+      "ovrigt": 0.034,
+      "familjUtanAlder": 0.818,
       "utanOmrade": 0.018,
-      "sammanslagna": 446,
-      "pagar14": 6,
+      "sammanslagna": 436,
+      "pagar14": 5,
       "borttagnaKurser": 1,
       "aiEvenemang": 0,
       "misstanktaDubbletter": 0
     },
     "t": {
       "namn": "Tickster",
-      "antal": 251,
-      "utanKlockslag": 0.021,
+      "antal": 245,
+      "utanKlockslag": 0.018,
       "ovrigt": 0.024,
-      "familjUtanAlder": 0.647,
+      "familjUtanAlder": 0.636,
       "utanOmrade": 0.02,
-      "sammanslagna": 394,
+      "sammanslagna": 385,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -359,30 +359,6 @@
       ],
       "titlar": [
         "Gymnastikläger"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
-      "dag": "2026-10-18",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
-      "dag": "2026-10-18",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
       ]
     },
     {
@@ -1056,19 +1032,6 @@
     },
     {
       "regel": "festival",
-      "dag": "2026-10-17",
-      "plats": "brorhjorth",
-      "kallor": [
-        "h",
-        "j"
-      ],
-      "titlar": [
-        "Johan Thurfjell – Ljuset",
-        "Guidad visning: Johan Thurfjell – Ljuset"
-      ]
-    },
-    {
-      "regel": "festival",
       "dag": "2026-10-22",
       "plats": "brorhjorth",
       "kallor": [
@@ -1274,20 +1237,6 @@
       "titlar": [
         "Elvis Presley Birthday Concert 2027"
       ]
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-18",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Barnteater: Stjärnhimlar",
-        "Stjärnhimlar – barnteater på finska och svenska"
-      ],
-      "poang": 0.5
     },
     {
       "regel": "innehaller",
@@ -3194,46 +3143,6 @@
       "poang": 1
     },
     {
-      "regel": "sport",
-      "dag": "2026-10-18",
-      "plats": "studenternas",
-      "kallor": [
-        "i",
-        "d"
-      ],
-      "titlar": [
-        "IK Sirius – IF Elfsborg",
-        "Fotboll: IK Sirius – IF Elfsborg"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-18",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d"
-      ],
-      "titlar": [
-        "Robert Wells – 40 år vid flygeln"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-18",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d"
-      ],
-      "titlar": [
-        "Bo Kaspers Orkester – Il magnifico"
-      ],
-      "poang": 1
-    },
-    {
       "regel": "lika",
       "dag": "2026-10-20",
       "plats": "ukk",
@@ -4087,63 +3996,6 @@
       ],
       "titlar": [
         "Kim Wilde – The Singles Tour 2027"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-18",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Robert Wells – 40 år vid flygeln",
-        "Robert Wells"
-      ],
-      "poang": 0.33
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-18",
-      "plats": "slottshist",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Familjeverkstad: Drottning Kristina 400 år"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-18",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Bo Kaspers Orkester – Il magnifico",
-        "Bo Kaspers Orkester"
-      ],
-      "poang": 0.6
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-18",
-      "plats": "brorhjorth",
-      "kallor": [
-        "j",
-        "h"
-      ],
-      "titlar": [
-        "Konsert: SYMBIO",
-        "SYMBIO"
       ],
       "poang": 1
     },
@@ -6876,66 +6728,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-10-18",
-      "plats": "slottshist",
-      "kallor": [
-        "d",
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Familjeverkstad: Drottning Kristina 400 år"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-18",
-      "plats": "missionskyrkan",
-      "kallor": [
-        "e",
-        "t"
-      ],
-      "titlar": [
-        "Konsert: En afton vid Medelhavet",
-        "En afton vid Medelhavet"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-18",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Robert Wells – 40 år vid flygeln",
-        "Robert Wells"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-18",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Bo Kaspers Orkester – Il magnifico",
-        "Bo Kaspers Orkester"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-10-19",
       "plats": "katalin",
       "kallor": [
@@ -9277,8 +9069,8 @@
     {
       "person": "Lisa",
       "namn": "Helgen, 0–4 år: evenemang med känd ålder",
-      "ok": false,
-      "varde": 1,
+      "ok": true,
+      "varde": 7,
       "krav": "minst 5"
     },
     {
@@ -9292,14 +9084,14 @@
       "person": "Lisa",
       "namn": "Familjeevenemang utan ålder (eller 0–99) syns under \"ålder ej angiven\"",
       "ok": true,
-      "varde": "2 av 2",
+      "varde": "17 av 17",
       "krav": "alla"
     },
     {
       "person": "Lisa",
       "namn": "Konst & museum, raden \"Pågår\": andel utställningar",
       "ok": true,
-      "varde": "100 % (15 av 15)",
+      "varde": "100 % (12 av 12)",
       "krav": "minst 80 %"
     },
     {
@@ -9313,7 +9105,7 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 25,
+      "varde": 28,
       "krav": "minst 10"
     },
     {
@@ -9327,7 +9119,7 @@
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 31,
+      "varde": 32,
       "krav": "minst 5"
     },
     {
@@ -9348,7 +9140,7 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "2.9 %",
+      "varde": "3 %",
       "krav": "under 10 %"
     },
     {
@@ -9362,7 +9154,7 @@
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "4 %",
+      "varde": "3.9 %",
       "krav": "under 5 %"
     }
   ]

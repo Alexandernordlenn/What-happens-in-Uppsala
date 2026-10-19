@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-18T04:43:34.041Z",
-  "antal": 287,
+  "hamtad": "2026-10-19T04:46:23.266Z",
+  "antal": 285,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -3503,83 +3503,6 @@
       "start": "2026-09-26",
       "slut": "2026-12-20",
       "langvarig": true
-    },
-    {
-      "id": "kubik-uusi-teatteri-2026-10-18-1330",
-      "titel": "Stjärnhimlar – barnteater på finska och svenska",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "scen",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/uusi-teatteri/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Teater"
-        ],
-        "malgrupp": [
-          "5-6 år",
-          "0-4 år"
-        ],
-        "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
-      },
-      "start": "2026-10-18T13:30:00+02:00",
-      "slut": "2026-10-18T14:00:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-vikingaskola-kusliga-sagor-2026-10-18-1400",
-      "titel": "Vikingaskola - Kusliga sagor",
-      "plats": {
-        "namn": "Gamla Uppsala museum",
-        "id": "gamlauppsalamuseum"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        5,
-        12
-      ],
-      "omrade": "norra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/vikingaskola-kusliga-sagor/",
-          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Museum/Kulturarv"
-        ],
-        "malgrupp": [
-          "5-6 år",
-          "7-9 år",
-          "10-12 år"
-        ],
-        "adress": "Gamla Uppsala museum, Disavägen 15, UPPSALA"
-      },
-      "start": "2026-10-18T14:00:00+02:00",
-      "slut": "2026-10-18T15:00:00+02:00",
-      "langvarig": false
     },
     {
       "id": "kubik-sagostund-1-3-aar-2026-2026-10-20-1030",

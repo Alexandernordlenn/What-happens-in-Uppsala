@@ -1,34 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-18T04:44:23.341Z",
-  "antal": 134,
+  "hamtad": "2026-10-19T04:47:11.165Z",
+  "antal": 133,
   "evenemang": [
-    {
-      "id": "sport-sportomedia-6530018",
-      "titel": "IK Sirius – IF Elfsborg",
-      "start": "2026-10-18T14:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Fotboll",
-      "liga": "Allsvenskan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Svensk Elitfotboll",
-          "url": "https://allsvenskan.se/matcher",
-          "biljetter": "https://www.siriusfotboll.se/matchdag/biljetter/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-swehockey-90131095",
       "titel": "Almtuna IS – Vimmerby HC",

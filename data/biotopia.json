@@ -1,41 +1,9 @@
 {
   "kalla": "Biotopia",
   "webbsida": "https://biotopia.nu/kalender/",
-  "hamtad": "2026-10-18T04:44:57.035Z",
-  "antal": 28,
+  "hamtad": "2026-10-19T04:47:41.720Z",
+  "antal": 27,
   "evenemang": [
-    {
-      "id": "biotopia-2195",
-      "titel": "Livet i skogen",
-      "start": "2026-09-05",
-      "slut": "2026-10-18",
-      "plats": {
-        "namn": "Biotopia",
-        "id": "biotopia"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": null,
-      "kallor": [
-        {
-          "id": "biotopia",
-          "namn": "Biotopia",
-          "url": "https://biotopia.nu/?post_type=post&p=2195"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "På Biotopia",
-          "Familjeaktivitet",
-          "För barn",
-          "För vuxna",
-          "Helgtema"
-        ]
-      }
-    },
     {
       "id": "biotopia-2339",
       "titel": "Vattenrådsmöte för asp och biotopvård",

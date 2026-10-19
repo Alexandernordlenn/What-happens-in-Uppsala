@@ -1,68 +1,9 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-18T04:44:39.658Z",
-  "antal": 124,
+  "hamtad": "2026-10-19T04:47:26.313Z",
+  "antal": 122,
   "evenemang": [
-    {
-      "id": "ukk-33242",
-      "titel": "Robert Wells – 40 år vid flygeln",
-      "start": "2026-10-18T16:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/robert-wells-40-ar-vid-flygeln/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "klassiskt",
-          "jazz"
-        ],
-        "taggar": [
-          "jazz"
-        ]
-      }
-    },
-    {
-      "id": "ukk-33335",
-      "titel": "Bo Kaspers Orkester – Il magnifico",
-      "start": "2026-10-18T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/bo-kaspers-orkester-il-magnifico/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "pop-rock"
-        ],
-        "taggar": []
-      }
-    },
     {
       "id": "ukk-45768",
       "titel": "Uppsala tillsammans – En glittrande funkisfest",
@@ -152,10 +93,10 @@
           "pop-rock"
         ],
         "taggar": [
-          "jazz",
           "publikfavoriter",
           "student",
-          "mhv"
+          "mhv",
+          "jazz"
         ]
       }
     },
@@ -927,8 +868,8 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "nostalgi-tribute",
-          "pop-rock"
+          "pop-rock",
+          "nostalgi-tribute"
         ],
         "taggar": [
           "publikfavoriter"
@@ -1357,8 +1298,8 @@
           "jazz"
         ],
         "taggar": [
-          "mhv",
-          "student"
+          "student",
+          "mhv"
         ]
       }
     },
@@ -1388,6 +1329,7 @@
           "nostalgi-tribute"
         ],
         "taggar": [
+          "jazz",
           "lunchkonsert",
           "student",
           "mhv"
@@ -1572,8 +1514,8 @@
           "humor"
         ],
         "taggar": [
-          "publikfavoriter",
-          "humor"
+          "humor",
+          "publikfavoriter"
         ]
       }
     },
@@ -2248,8 +2190,8 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "publikfavoriter"
+          "publikfavoriter",
+          "familj"
         ]
       }
     },
@@ -2505,6 +2447,7 @@
         "taggar": [
           "student",
           "mhv",
+          "jazz",
           "lunchkonsert"
         ]
       }
@@ -3498,8 +3441,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "aktuellt",
-          "publikfavoriter"
+          "publikfavoriter",
+          "aktuellt"
         ]
       }
     },

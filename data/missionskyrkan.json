@@ -1,36 +1,9 @@
 {
   "kalla": "Uppsala Missionskyrka",
   "webbsida": "https://www.uppsalamissionskyrka.se/",
-  "hamtad": "2026-10-18T04:44:52.271Z",
-  "antal": 62,
+  "hamtad": "2026-10-19T04:47:38.422Z",
+  "antal": 61,
   "evenemang": [
-    {
-      "id": "missionskyrkan-13133",
-      "titel": "Konsert: En afton vid Medelhavet",
-      "start": "2026-10-18T16:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/konsert-uppsala-blasorkester-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Extern arrangör"
-        ]
-      }
-    },
     {
       "id": "missionskyrkan-12902",
       "titel": "Litteraturkväll: Sebastian Barrys författarskap",

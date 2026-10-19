@@ -1,7 +1,7 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-10-18T04:40:05.520Z",
+  "hamtad": "2026-10-19T04:43:07.998Z",
   "antal": 168,
   "evenemang": [
     {
@@ -66,7 +66,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
-      "notering": "Genrep, Få biljetter kvar",
+      "notering": "Genrep, Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",

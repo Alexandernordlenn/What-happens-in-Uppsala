@@ -1,93 +1,9 @@
 {
   "kalla": "Bror Hjorths Hus",
   "webbsida": "https://brorhjorthshus.se/",
-  "hamtad": "2026-10-18T04:44:55.783Z",
-  "antal": 52,
+  "hamtad": "2026-10-19T04:47:40.489Z",
+  "antal": 49,
   "evenemang": [
-    {
-      "id": "bror-hjorths-hus-20556",
-      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
-      "start": "2026-10-18T13:00:00+02:00",
-      "slut": "2026-10-18T13:30:00+02:00",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "museum",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "bror-hjorths-hus",
-          "namn": "Bror Hjorths Hus",
-          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-10-18/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Visning"
-        ],
-        "adress": "Norbyvägen 26, 752 39"
-      }
-    },
-    {
-      "id": "bror-hjorths-hus-20340",
-      "titel": "Guidad visning : Bror Hjorths konst och hem",
-      "start": "2026-10-18T14:00:00+02:00",
-      "slut": "2026-10-18T14:45:00+02:00",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "museum",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "bror-hjorths-hus",
-          "namn": "Bror Hjorths Hus",
-          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-bror-hjorths-konst-och-hem-42/2026-10-18/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Visning"
-        ],
-        "adress": "Norbyvägen 26, 752 39"
-      }
-    },
-    {
-      "id": "bror-hjorths-hus-20270",
-      "titel": "Konsert: SYMBIO",
-      "start": "2026-10-18T19:00:00+02:00",
-      "slut": "2026-10-18T20:00:00+02:00",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "bror-hjorths-hus",
-          "namn": "Bror Hjorths Hus",
-          "url": "https://brorhjorthshus.se/evenemang/konsert-symbio-3/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Föredrag & Konsert"
-        ],
-        "adress": "Norbyvägen 26, 752 39"
-      }
-    },
     {
       "id": "bror-hjorths-hus-20573",
       "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",

@@ -1,37 +1,9 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-18T04:40:40.269Z",
-  "antal": 179,
+  "hamtad": "2026-10-19T04:43:34.085Z",
+  "antal": 173,
   "evenemang": [
-    {
-      "id": "du-life-play-end",
-      "titel": "Life. Play. End. – interaktiv och digital konstutställning med Elsa Beskow",
-      "start": "2025-11-05",
-      "slut": "2026-10-18",
-      "plats": {
-        "namn": "Cube of Art",
-        "id": "cube"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/life-play-end/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "barn-familj",
-          "utstallning"
-        ]
-      }
-    },
     {
       "id": "du-katarina-jagellonica-500-ar",
       "titel": "Katarina Jagellonica 500 år",
@@ -57,34 +29,6 @@
         "kategorier": [
           "barn-familj",
           "utstallning"
-        ]
-      }
-    },
-    {
-      "id": "du-takvandring-pa-uppsala-slott-2026",
-      "titel": "Takvandring på Uppsala slott",
-      "start": "2026-05-30",
-      "slut": "2026-10-18",
-      "plats": {
-        "namn": "Uppsala slott",
-        "id": "slott"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/takvandring-pa-uppsala-slott-2026/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "aktiviteter",
-          "visningar"
         ]
       }
     },
@@ -419,140 +363,6 @@
         "kategorier": [
           "utstallning"
         ]
-      }
-    },
-    {
-      "id": "du-fotboll-ik-sirius-if-elfsborg-2",
-      "titel": "Fotboll: IK Sirius – IF Elfsborg",
-      "start": "2026-10-18",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/fotboll-ik-sirius-if-elfsborg-2/",
-          "arrangor": "https://www.siriusfotboll.se/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "sport"
-        ],
-        "datum": [
-          "2026-10-18"
-        ]
-      }
-    },
-    {
-      "id": "du-familjeverkstad-drottning-kristina-400-ar",
-      "titel": "Familjeverkstad: Drottning Kristina 400 år",
-      "start": "2026-10-18T14:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala slottshistoriska",
-        "id": "slottshist"
-      },
-      "kategori": "ovrigt",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/familjeverkstad-drottning-kristina-400-ar/",
-          "arrangor": "https://slottshistoriska.uppsala.se/sv/kalendarium/familjeverkstad-drottning-kristina-400-ar/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "aktiviteter",
-          "barn-familj"
-        ],
-        "datum": [
-          "2026-10-18"
-        ],
-        "tider": {
-          "start": "14:30"
-        }
-      }
-    },
-    {
-      "id": "du-robert-wells-40-ar-vid-flygeln",
-      "titel": "Robert Wells – 40 år vid flygeln",
-      "start": "2026-10-18T16:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/robert-wells-40-ar-vid-flygeln/",
-          "arrangor": "https://ukk.se/robert-wells-40-ar-vid-flygeln/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-18"
-        ],
-        "tider": {
-          "start": "16:00"
-        }
-      }
-    },
-    {
-      "id": "du-bo-kaspers-orkester-il-magnifico",
-      "titel": "Bo Kaspers Orkester – Il magnifico",
-      "start": "2026-10-18T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/bo-kaspers-orkester-il-magnifico/",
-          "arrangor": "https://ukk.se/bo-kaspers-orkester-il-magnifico/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-18"
-        ],
-        "tider": {
-          "start": "19:00"
-        }
       }
     },
     {
