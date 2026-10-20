@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-19T04:46:23.266Z",
-  "antal": 285,
+  "hamtad": "2026-10-20T04:44:05.336Z",
+  "antal": 286,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -4874,6 +4874,49 @@
       },
       "start": "2026-10-26",
       "slut": "2026-10-29",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-uppsala-hk-hoestlovslaeger",
+      "titel": "Uppsala HK Höstlovsläger",
+      "plats": {
+        "namn": "Rosendals Multihus",
+        "id": "kubik-plats-rosendals-multihus"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        15
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/uppsala-hk-hoestlovslaeger/",
+          "arrangor": "https://entry.sportadmin.se/groupsOverview?uid=mlMyRY"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Bollsport"
+        ],
+        "malgrupp": [
+          "7-9 år",
+          "10-12 år",
+          "13-15 år"
+        ],
+        "adress": "Rosendals Multihus, Honungsgatan 8, Uppsala",
+        "tider": {
+          "start": "09:30",
+          "slut": "14:30"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-30",
       "langvarig": true
     },
     {

@@ -1,13 +1,13 @@
 {
-  "matt": "2026-10-19T04:47:45.960Z",
-  "idag": "2026-10-19",
+  "matt": "2026-10-20T04:45:31.947Z",
+  "idag": "2026-10-20",
   "totalt": {
-    "antal": 1822,
-    "utanKlockslag": 0.039,
-    "ovrigt": 0.03,
-    "familjUtanAlder": 0.196,
-    "utanOmrade": 0.015,
-    "sammanslagna": 742,
+    "antal": 1833,
+    "utanKlockslag": 0.038,
+    "ovrigt": 0.032,
+    "familjUtanAlder": 0.195,
+    "utanOmrade": 0.018,
+    "sammanslagna": 743,
     "pagar14": 12,
     "borttagnaKurser": 24,
     "aiEvenemang": 0,
@@ -41,12 +41,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 114,
+      "antal": 117,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 78,
+      "sammanslagna": 80,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 362,
+      "antal": 376,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 131,
+      "sammanslagna": 130,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 722,
+      "antal": 713,
       "utanKlockslag": 0.045,
       "ovrigt": 0.011,
-      "familjUtanAlder": 0.117,
+      "familjUtanAlder": 0.115,
       "utanOmrade": 0.007,
-      "sammanslagna": 170,
+      "sammanslagna": 169,
       "pagar14": 0,
       "borttagnaKurser": 22,
       "aiEvenemang": 0,
@@ -93,12 +93,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 83,
+      "antal": 82,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 145,
+      "sammanslagna": 144,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -111,7 +111,7 @@
       "ovrigt": 0.022,
       "familjUtanAlder": 0.759,
       "utanOmrade": 0,
-      "sammanslagna": 228,
+      "sammanslagna": 229,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -119,9 +119,9 @@
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 61,
+      "antal": 60,
       "utanKlockslag": 0,
-      "ovrigt": 0.049,
+      "ovrigt": 0.05,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
       "sammanslagna": 1,
@@ -171,12 +171,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 246,
+      "antal": 249,
       "utanKlockslag": 0.068,
-      "ovrigt": 0.114,
-      "familjUtanAlder": 0.768,
-      "utanOmrade": 0.033,
-      "sammanslagna": 309,
+      "ovrigt": 0.112,
+      "familjUtanAlder": 0.775,
+      "utanOmrade": 0.028,
+      "sammanslagna": 313,
       "pagar14": 8,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -184,10 +184,10 @@
     },
     "h": {
       "namn": "Heja",
-      "antal": 383,
+      "antal": 381,
       "utanKlockslag": 0.047,
-      "ovrigt": 0.034,
-      "familjUtanAlder": 0.818,
+      "ovrigt": 0.031,
+      "familjUtanAlder": 0.814,
       "utanOmrade": 0.018,
       "sammanslagna": 436,
       "pagar14": 5,
@@ -197,11 +197,11 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 245,
-      "utanKlockslag": 0.018,
-      "ovrigt": 0.024,
+      "antal": 250,
+      "utanKlockslag": 0.017,
+      "ovrigt": 0.048,
       "familjUtanAlder": 0.636,
-      "utanOmrade": 0.02,
+      "utanOmrade": 0.044,
       "sammanslagna": 385,
       "pagar14": 0,
       "borttagnaKurser": 0,
@@ -470,7 +470,7 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-19",
+      "dag": "2026-10-26",
       "plats": "gottsundabib",
       "kallor": [
         "u",
@@ -484,11 +484,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-19",
+      "dag": "2026-10-26",
       "plats": "gottsundabib",
       "kallor": [
         "u",
-        "b",
         "b",
         "b",
         "b",
@@ -738,7 +737,7 @@
         "Teater: Ingenmansland",
         "Ingenmansland"
       ],
-      "tillfallen": 16
+      "tillfallen": 17
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -752,7 +751,7 @@
         "Teater: Lotten von Kræmer",
         "Lotten von Kræmer"
       ],
-      "tillfallen": 7
+      "tillfallen": 8
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -3251,6 +3250,19 @@
         "Saltstänk & Smuggelsprit"
       ],
       "poang": 0.4
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-10-25",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "d"
+      ],
+      "titlar": [
+        "Ghibli Highlights of Joe Hisaishi"
+      ],
+      "poang": 1
     },
     {
       "regel": "lika",
@@ -6728,20 +6740,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-10-19",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Teddybears – Extrakonsert",
-        "Teddybears - Extrakonsert"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-10-20",
       "plats": "ukk",
       "kallor": [
@@ -7039,6 +7037,7 @@
       "plats": "ukk",
       "kallor": [
         "c",
+        "d",
         "t"
       ],
       "titlar": [
@@ -9105,21 +9104,21 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 28,
+      "varde": 27,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 20,
+      "varde": 21,
       "krav": "minst 10"
     },
     {
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 32,
+      "varde": 43,
       "krav": "minst 5"
     },
     {
@@ -9140,21 +9139,21 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "3 %",
+      "varde": "3.2 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "1.5 %",
+      "varde": "1.8 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "3.9 %",
+      "varde": "3.8 %",
       "krav": "under 5 %"
     }
   ]

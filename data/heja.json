@@ -1,8 +1,8 @@
 {
   "kalla": "Heja Uppsala",
   "webbsida": "https://hejauppsala.com/kalender/",
-  "hamtad": "2026-10-19T04:46:06.312Z",
-  "antal": 427,
+  "hamtad": "2026-10-20T04:43:40.374Z",
+  "antal": 425,
   "evenemang": [
     {
       "id": "heja-charta-77-bonta-fran-asta-kask-2026",
@@ -492,6 +492,7 @@
       "installd": false,
       "fakta": {
         "kategorier": [
+          "hojdpunkter-hejauppsala",
           "konst",
           "uppsala"
         ],
@@ -539,80 +540,6 @@
         ],
         "tider": {
           "start": "09:00"
-        }
-      }
-    },
-    {
-      "id": "heja-lunchkonsert-med-utah-santana-okt-2026-2",
-      "titel": "Lunchkonsert med Utah Santana",
-      "start": "2026-10-19T12:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Himlen är blå som en apelsin",
-        "id": "himlen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/lunchkonsert-med-utah-santana-okt-2026-2/",
-          "arrangor": "https://himlenarblasomenapelsin.com"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "familj",
-          "mat-dryck",
-          "musik",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-19"
-        ],
-        "tider": {
-          "start": "12:00"
-        }
-      }
-    },
-    {
-      "id": "heja-nobel-60-minuter-2026",
-      "titel": "Nobel 60 minuter",
-      "start": "2026-10-19T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Universitetshuset",
-        "id": "universitetshuset"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "heja",
-          "namn": "Heja Uppsala",
-          "url": "https://hejauppsala.com/kalender/nobel-60-minuter-2026/",
-          "arrangor": "https://www.uu.se/kalendarium/2026/2026-10-19-nobel-60-minuter"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "gratis",
-          "hojdpunkter-hejauppsala",
-          "ovrigt",
-          "uppsala"
-        ],
-        "datum": [
-          "2026-10-19"
-        ],
-        "tider": {
-          "start": "18:00"
         }
       }
     },

@@ -15,31 +15,6 @@
     "status": "",
     "hamtad": "2026-10-10"
   },
-  "https://www.tickster.com/se/sv/events/43xuemdp9dxjhd6/2026-10-19/teddybears-extrakonsert": {
-    "titel": "Teddybears - Extrakonsert",
-    "start": "2026-10-19T20:00:00",
-    "slut": "2026-10-19T22:00:00",
-    "platsId": "l0h5xlh16zztxwa",
-    "plats": "Katalin and all that Jazz",
-    "ort": "Uppsala",
-    "lat": 59.8595,
-    "lng": 17.6465,
-    "taggar": [
-      "katalinlive",
-      "uppsala",
-      "katalin",
-      "musik",
-      "konsert",
-      "kaliber live",
-      "teddybears",
-      "luger"
-    ],
-    "arrangorId": "gf5dj34fjr9ddw5",
-    "arrangor": "Kaliber Live",
-    "kop": "https://secure.tickster.com/sv/43xuemdp9dxjhd6",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/9gd1pwwyfc50fwh/2026-10-20/uppsala-tillsammans-en-glittrande-funkisfest": {
     "titel": "Uppsala tillsammans – En glittrande funkisfest",
     "start": "2026-10-20T15:00:00",
@@ -462,8 +437,8 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
-  "https://www.tickster.com/se/sv/events/5nf0y16rwfey5rh/2026-10-24/eija-liisa-ahtila-videokonst-och-det": {
-    "titel": "Eija‑Liisa Ahtila – Videokonst och det...",
+  "https://www.tickster.com/se/sv/events/5nf0y16rwfey5rh/2026-10-24/eija-liisa-ahtila-rorlig-bild-och-det": {
+    "titel": "Eija‑Liisa Ahtila – Rörlig bild och det...",
     "start": "2026-10-24T14:00:00",
     "slut": "2026-10-24T15:00:00",
     "platsId": "x01kba461v6968w",
@@ -476,7 +451,7 @@
     "arrangor": "Uppsala konstmuseum",
     "kop": "https://secure.tickster.com/sv/5nf0y16rwfey5rh",
     "status": "",
-    "hamtad": "2026-09-24"
+    "hamtad": "2026-10-20"
   },
   "https://www.tickster.com/se/sv/events/l1ff314j7zjw7br/2026-10-24/familjekonsert-peter-och-vargen": {
     "titel": "Familjekonsert – Peter och vargen",
@@ -2227,6 +2202,22 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/w4ml1mwgut1xby1/2026-11-19/konsert-alva-press-kvartett": {
+    "titel": "Konsert: Alva Press Kvartett",
+    "start": "2026-11-19T19:00:00",
+    "slut": "2026-11-19T20:00:00",
+    "platsId": "x01kba461v6968w",
+    "plats": "Uppsala konstmuseum",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [],
+    "arrangorId": "6x97by0jdkknn6z",
+    "arrangor": "Uppsala konstmuseum",
+    "kop": "https://secure.tickster.com/sv/w4ml1mwgut1xby1",
+    "status": "",
+    "hamtad": "2026-09-24"
+  },
   "https://www.tickster.com/se/sv/events/lbf49tfupxa3z0z/2026-11-19/groove": {
     "titel": "GROOVE",
     "start": "2026-11-19T19:00:00",
@@ -2242,22 +2233,6 @@
     "arrangorId": "y5zw8v159wk4fe3",
     "arrangor": "Uppsala Konsert & Kongress",
     "kop": "https://secure.tickster.com/sv/lbf49tfupxa3z0z",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/w4ml1mwgut1xby1/2026-11-19/konsert-alva-press-kvartett": {
-    "titel": "Konsert: Alva Press Kvartett",
-    "start": "2026-11-19T19:00:00",
-    "slut": "2026-11-19T20:00:00",
-    "platsId": "x01kba461v6968w",
-    "plats": "Uppsala konstmuseum",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "6x97by0jdkknn6z",
-    "arrangor": "Uppsala konstmuseum",
-    "kop": "https://secure.tickster.com/sv/w4ml1mwgut1xby1",
     "status": "",
     "hamtad": "2026-09-24"
   },
@@ -3473,6 +3448,38 @@
     "status": "",
     "hamtad": "2026-10-02"
   },
+  "https://www.tickster.com/se/sv/events/bet7hjhk3vn7tej/2026-12-05/caprice-2026": {
+    "titel": "Caprice 2026",
+    "start": "2026-12-05T13:00:00",
+    "slut": "2026-12-05T15:00:00",
+    "platsId": "r805egmtwbn5bcy",
+    "plats": "Uppsala Universitets Aula",
+    "ort": "Uppsala",
+    "lat": 59.8566,
+    "lng": 17.6282,
+    "taggar": [],
+    "arrangorId": "tmr1ejw7j3c3lbk",
+    "arrangor": "Orphei Drängar",
+    "kop": "https://secure.tickster.com/sv/bet7hjhk3vn7tej",
+    "status": "",
+    "hamtad": "2026-10-20"
+  },
+  "https://www.tickster.com/se/sv/events/glvtmlgvh76pp3a/2026-12-05/caprice-2026-lo-5-dec-13-00": {
+    "titel": "Caprice 2026 | lö 5 dec 13:00",
+    "start": "2026-12-05T13:00:00",
+    "slut": "2026-12-05T15:00:00",
+    "platsId": "r805egmtwbn5bcy",
+    "plats": "Uppsala Universitets Aula",
+    "ort": "Uppsala",
+    "lat": 59.8566,
+    "lng": 17.6282,
+    "taggar": [],
+    "arrangorId": "tmr1ejw7j3c3lbk",
+    "arrangor": "Orphei Drängar",
+    "kop": "https://secure.tickster.com/sv/glvtmlgvh76pp3a",
+    "status": "",
+    "hamtad": "2026-10-20"
+  },
   "https://www.tickster.com/se/sv/events/49b3lg68zpnvcbn/2026-12-05/isprinsessan-julbalett-med-strakkvartett": {
     "titel": "Isprinsessan – julbalett med stråkkvartett",
     "start": "2026-12-05T16:00:00",
@@ -3509,6 +3516,22 @@
     "kop": "https://secure.tickster.com/sv/8gx1caf6umuzre4",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/5xnxdpdt8cxz425/2026-12-05/caprice-2026-lo-5-dec-16-00": {
+    "titel": "Caprice 2026 | lö 5 dec 16:00",
+    "start": "2026-12-05T16:00:00",
+    "slut": "2026-12-05T18:00:00",
+    "platsId": "r805egmtwbn5bcy",
+    "plats": "Uppsala Universitets Aula",
+    "ort": "Uppsala",
+    "lat": 59.8566,
+    "lng": 17.6282,
+    "taggar": [],
+    "arrangorId": "tmr1ejw7j3c3lbk",
+    "arrangor": "Orphei Drängar",
+    "kop": "https://secure.tickster.com/sv/5xnxdpdt8cxz425",
+    "status": "",
+    "hamtad": "2026-10-20"
   },
   "https://www.tickster.com/se/sv/events/k4pt35ml013fupk/2026-12-05/anna-heikkinen-and-langtans-kapell": {
     "titel": "Anna Heikkinen & Längtans Kapell",
@@ -3598,6 +3621,22 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/n36v330rk1utg68/2026-12-06/caprice-2026-so-6-dec-13-00": {
+    "titel": "Caprice 2026 | sö 6 dec 13:00",
+    "start": "2026-12-06T13:00:00",
+    "slut": "2026-12-06T15:00:00",
+    "platsId": "r805egmtwbn5bcy",
+    "plats": "Uppsala Universitets Aula",
+    "ort": "Uppsala",
+    "lat": 59.8566,
+    "lng": 17.6282,
+    "taggar": [],
+    "arrangorId": "tmr1ejw7j3c3lbk",
+    "arrangor": "Orphei Drängar",
+    "kop": "https://secure.tickster.com/sv/n36v330rk1utg68",
+    "status": "",
+    "hamtad": "2026-10-20"
+  },
   "https://www.tickster.com/se/sv/events/mfpb2td9dza5c6h/2026-12-06/dans-itnos": {
     "titel": "Dans: ITNOS",
     "start": "2026-12-06T15:00:00",
@@ -3613,6 +3652,38 @@
     "kop": "https://secure.tickster.com/sv/mfpb2td9dza5c6h",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/upf7tl4zpt54rug/2026-12-06/caprice-2026-so-6-dec-16-00": {
+    "titel": "Caprice 2026 | sö 6 dec 16:00",
+    "start": "2026-12-06T16:00:00",
+    "slut": "2026-12-06T18:00:00",
+    "platsId": "r805egmtwbn5bcy",
+    "plats": "Uppsala Universitets Aula",
+    "ort": "Uppsala",
+    "lat": 59.8566,
+    "lng": 17.6282,
+    "taggar": [],
+    "arrangorId": "tmr1ejw7j3c3lbk",
+    "arrangor": "Orphei Drängar",
+    "kop": "https://secure.tickster.com/sv/upf7tl4zpt54rug",
+    "status": "",
+    "hamtad": "2026-10-20"
+  },
+  "https://www.tickster.com/se/sv/events/9la5g9mx066r8mv/2026-12-06/caprice-2026-so-6-dec-19-30": {
+    "titel": "Caprice 2026 | sö 6 dec 19:30",
+    "start": "2026-12-06T19:30:00",
+    "slut": "2026-12-06T21:30:00",
+    "platsId": "r805egmtwbn5bcy",
+    "plats": "Uppsala Universitets Aula",
+    "ort": "Uppsala",
+    "lat": 59.8566,
+    "lng": 17.6282,
+    "taggar": [],
+    "arrangorId": "tmr1ejw7j3c3lbk",
+    "arrangor": "Orphei Drängar",
+    "kop": "https://secure.tickster.com/sv/9la5g9mx066r8mv",
+    "status": "",
+    "hamtad": "2026-10-20"
   },
   "https://www.tickster.com/se/sv/events/czjjmycfzd0438r/2026-12-07/dolda-rum-rikssalen-och-drottning-kristina": {
     "titel": "Dolda rum: Rikssalen och drottning Kristina",
@@ -5712,6 +5783,25 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/e1d3jb5gr4vm13b/2027-04-03/pontus-lindman-levande-begravd": {
+    "titel": "Pontus Lindman – Levande Begravd",
+    "start": "2027-04-03T19:00:00",
+    "slut": "2027-04-03T20:30:00",
+    "platsId": "y90dvlpxyewf4h0",
+    "plats": "Uppsala Konsert & Kongress, Sal B",
+    "ort": "Uppsala",
+    "lat": 59.8586,
+    "lng": 17.6389,
+    "taggar": [
+      "show",
+      "magi"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": null,
+    "status": "",
+    "hamtad": "2026-10-20"
+  },
   "https://www.tickster.com/se/sv/events/n3ya1zhflkyl9hw/2027-04-04/euskefeurat-maranger-och-surdeg": {
     "titel": "EUSKEFEURAT – maränger och surdeg",
     "start": "2027-04-04T18:00:00",
@@ -5989,6 +6079,22 @@
     "kop": "https://secure.tickster.com/sv/lvc9neaxxek1jtx",
     "status": "",
     "hamtad": "2026-10-16"
+  },
+  "https://www.tickster.com/se/sv/events/6ab298dglm1pw1h/2027-05-15/peter-carlsson-and-gra-grodorna": {
+    "titel": "Peter Carlsson & Grå Grodorna",
+    "start": "2027-05-15T20:00:00",
+    "slut": "2027-05-15T23:00:00",
+    "platsId": "2hzlxcrwwf8dyfe",
+    "plats": "Katalin",
+    "ort": "Uppsala",
+    "lat": 59.8603,
+    "lng": 17.6456,
+    "taggar": [],
+    "arrangorId": "htbttn2u7176vyh",
+    "arrangor": "Candyrock Live&Loud",
+    "kop": "https://secure.tickster.com/sv/6ab298dglm1pw1h",
+    "status": "",
+    "hamtad": "2026-10-20"
   },
   "https://www.tickster.com/se/sv/events/2clj75545wcx9tw/2027-05-18/flustret-studentskiva-lundellska-celsius-18-maj": {
     "titel": "FLUSTRET - STUDENTSKIVA LUNDELLSKA CELSIUS 18 MAJ",

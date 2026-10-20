@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-19T04:43:34.085Z",
-  "antal": 173,
+  "hamtad": "2026-10-20T04:40:49.408Z",
+  "antal": 174,
   "evenemang": [
     {
       "id": "du-katarina-jagellonica-500-ar",
@@ -391,40 +391,6 @@
           "festival",
           "film"
         ]
-      }
-    },
-    {
-      "id": "du-nobel-60-minuter",
-      "titel": "Nobel 60 minuter",
-      "start": "2026-10-19T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala universitet",
-        "id": "du-plats-uppsala-universitet"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/nobel-60-minuter/",
-          "arrangor": "https://www.uu.se/kalendarium/2026/2026-10-19-nobel-60-minuter"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "ovrigt"
-        ],
-        "datum": [
-          "2026-10-19"
-        ],
-        "tider": {
-          "start": "18:00"
-        }
       }
     },
     {
@@ -1072,6 +1038,40 @@
       }
     },
     {
+      "id": "du-ghibli-highlights-of-joe-hisaishi-2026",
+      "titel": "Ghibli Highlights of Joe Hisaishi",
+      "start": "2026-10-25T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/ghibli-highlights-of-joe-hisaishi-2026/",
+          "arrangor": "https://ukk.se/ghibli-highlights-of-joe-hisaishi-16-00/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konsert"
+        ],
+        "datum": [
+          "2026-10-25"
+        ],
+        "tider": {
+          "start": "16:00"
+        }
+      }
+    },
+    {
       "id": "du-tomas-ledin-symphonia-politropou",
       "titel": "Tomas Ledin – Symphonia Politropou",
       "start": "2026-10-25T19:00:00+01:00",
@@ -1160,6 +1160,35 @@
           "barn-familj",
           "hostlov",
           "utstallning"
+        ]
+      }
+    },
+    {
+      "id": "du-hostlov-pa-fyrishov",
+      "titel": "Höstlov på Fyrishov",
+      "start": "2026-10-26",
+      "slut": "2026-10-31",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/hostlov-pa-fyrishov/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "aktiviteter",
+          "barn-familj",
+          "hostlov"
         ]
       }
     },

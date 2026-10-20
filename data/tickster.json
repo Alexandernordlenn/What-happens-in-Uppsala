@@ -1,8 +1,8 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-19T04:44:17.559Z",
-  "antal": 306,
+  "hamtad": "2026-10-20T04:41:50.355Z",
+  "antal": 313,
   "evenemang": [
     {
       "id": "tickster-78lvkn39wy9c4xr",
@@ -26,43 +26,6 @@
       ],
       "langvarig": true,
       "installd": false
-    },
-    {
-      "id": "tickster-43xuemdp9dxjhd6",
-      "titel": "Teddybears - Extrakonsert",
-      "start": "2026-10-19T20:00:00+02:00",
-      "slut": "2026-10-19T22:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8595,
-        "lng": 17.6465
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/43xuemdp9dxjhd6/2026-10-19/teddybears-extrakonsert",
-          "biljetter": "https://secure.tickster.com/sv/43xuemdp9dxjhd6"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinlive",
-          "uppsala",
-          "katalin",
-          "musik",
-          "konsert",
-          "kaliber live",
-          "teddybears",
-          "luger"
-        ]
-      }
     },
     {
       "id": "tickster-9gd1pwwyfc50fwh",
@@ -735,7 +698,7 @@
     },
     {
       "id": "tickster-5nf0y16rwfey5rh",
-      "titel": "Eija‑Liisa Ahtila – Videokonst och det...",
+      "titel": "Eija‑Liisa Ahtila – Rörlig bild och det...",
       "start": "2026-10-24T14:00:00+02:00",
       "slut": "2026-10-24T15:00:00+02:00",
       "plats": {
@@ -749,7 +712,7 @@
         {
           "id": "tickster",
           "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/5nf0y16rwfey5rh/2026-10-24/eija-liisa-ahtila-videokonst-och-det",
+          "url": "https://www.tickster.com/se/sv/events/5nf0y16rwfey5rh/2026-10-24/eija-liisa-ahtila-rorlig-bild-och-det",
           "biljetter": "https://secure.tickster.com/sv/5nf0y16rwfey5rh"
         }
       ],
@@ -3458,6 +3421,29 @@
       }
     },
     {
+      "id": "tickster-w4ml1mwgut1xby1",
+      "titel": "Konsert: Alva Press Kvartett",
+      "start": "2026-11-19T19:00:00+01:00",
+      "slut": "2026-11-19T20:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala konstmuseum",
+        "id": "konstmuseum"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/w4ml1mwgut1xby1/2026-11-19/konsert-alva-press-kvartett",
+          "biljetter": "https://secure.tickster.com/sv/w4ml1mwgut1xby1"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-lbf49tfupxa3z0z",
       "titel": "GROOVE",
       "start": "2026-11-19T19:00:00+01:00",
@@ -3487,29 +3473,6 @@
           "dans"
         ]
       }
-    },
-    {
-      "id": "tickster-w4ml1mwgut1xby1",
-      "titel": "Konsert: Alva Press Kvartett",
-      "start": "2026-11-19T19:00:00+01:00",
-      "slut": "2026-11-19T20:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/w4ml1mwgut1xby1/2026-11-19/konsert-alva-press-kvartett",
-          "biljetter": "https://secure.tickster.com/sv/w4ml1mwgut1xby1"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
     },
     {
       "id": "tickster-n8zvr142drx3cya",
@@ -5381,6 +5344,56 @@
       "installd": false
     },
     {
+      "id": "tickster-bet7hjhk3vn7tej",
+      "titel": "Caprice 2026",
+      "start": "2026-12-05T13:00:00+01:00",
+      "slut": "2026-12-05T15:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Universitets Aula",
+        "id": "tickster-plats-r805egmtwbn5bcy",
+        "lat": 59.8566,
+        "lng": 17.6282
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/bet7hjhk3vn7tej/2026-12-05/caprice-2026",
+          "biljetter": "https://secure.tickster.com/sv/bet7hjhk3vn7tej"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-glvtmlgvh76pp3a",
+      "titel": "Caprice 2026 | lö 5 dec 13:00",
+      "start": "2026-12-05T13:00:00+01:00",
+      "slut": "2026-12-05T15:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Universitets Aula",
+        "id": "tickster-plats-r805egmtwbn5bcy",
+        "lat": 59.8566,
+        "lng": 17.6282
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/glvtmlgvh76pp3a/2026-12-05/caprice-2026-lo-5-dec-13-00",
+          "biljetter": "https://secure.tickster.com/sv/glvtmlgvh76pp3a"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-49b3lg68zpnvcbn",
       "titel": "Isprinsessan – julbalett med stråkkvartett",
       "start": "2026-12-05T16:00:00+01:00",
@@ -5440,6 +5453,31 @@
           "julmiddag"
         ]
       }
+    },
+    {
+      "id": "tickster-5xnxdpdt8cxz425",
+      "titel": "Caprice 2026 | lö 5 dec 16:00",
+      "start": "2026-12-05T16:00:00+01:00",
+      "slut": "2026-12-05T18:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Universitets Aula",
+        "id": "tickster-plats-r805egmtwbn5bcy",
+        "lat": 59.8566,
+        "lng": 17.6282
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/5xnxdpdt8cxz425/2026-12-05/caprice-2026-lo-5-dec-16-00",
+          "biljetter": "https://secure.tickster.com/sv/5xnxdpdt8cxz425"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
     },
     {
       "id": "tickster-k4pt35ml013fupk",
@@ -5574,6 +5612,31 @@
       "installd": false
     },
     {
+      "id": "tickster-n36v330rk1utg68",
+      "titel": "Caprice 2026 | sö 6 dec 13:00",
+      "start": "2026-12-06T13:00:00+01:00",
+      "slut": "2026-12-06T15:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Universitets Aula",
+        "id": "tickster-plats-r805egmtwbn5bcy",
+        "lat": 59.8566,
+        "lng": 17.6282
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/n36v330rk1utg68/2026-12-06/caprice-2026-so-6-dec-13-00",
+          "biljetter": "https://secure.tickster.com/sv/n36v330rk1utg68"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-mfpb2td9dza5c6h",
       "titel": "Dans: ITNOS",
       "start": "2026-12-06T15:00:00+01:00",
@@ -5591,6 +5654,56 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/mfpb2td9dza5c6h/2026-12-06/dans-itnos",
           "biljetter": "https://secure.tickster.com/sv/mfpb2td9dza5c6h"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-upf7tl4zpt54rug",
+      "titel": "Caprice 2026 | sö 6 dec 16:00",
+      "start": "2026-12-06T16:00:00+01:00",
+      "slut": "2026-12-06T18:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Universitets Aula",
+        "id": "tickster-plats-r805egmtwbn5bcy",
+        "lat": 59.8566,
+        "lng": 17.6282
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/upf7tl4zpt54rug/2026-12-06/caprice-2026-so-6-dec-16-00",
+          "biljetter": "https://secure.tickster.com/sv/upf7tl4zpt54rug"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-9la5g9mx066r8mv",
+      "titel": "Caprice 2026 | sö 6 dec 19:30",
+      "start": "2026-12-06T19:30:00+01:00",
+      "slut": "2026-12-06T21:30:00+01:00",
+      "plats": {
+        "namn": "Uppsala Universitets Aula",
+        "id": "tickster-plats-r805egmtwbn5bcy",
+        "lat": 59.8566,
+        "lng": 17.6282
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/9la5g9mx066r8mv/2026-12-06/caprice-2026-so-6-dec-19-30",
+          "biljetter": "https://secure.tickster.com/sv/9la5g9mx066r8mv"
         }
       ],
       "langvarig": false,
@@ -8938,6 +9051,38 @@
       "installd": false
     },
     {
+      "id": "tickster-e1d3jb5gr4vm13b",
+      "titel": "Pontus Lindman – Levande Begravd",
+      "start": "2027-04-03T19:00:00+02:00",
+      "slut": "2027-04-03T20:30:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/e1d3jb5gr4vm13b/2027-04-03/pontus-lindman-levande-begravd",
+          "biljetter": "https://secure.tickster.com/sv/e1d3jb5gr4vm13b"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "show",
+          "magi"
+        ]
+      }
+    },
+    {
       "id": "tickster-n3ya1zhflkyl9hw",
       "titel": "EUSKEFEURAT – maränger och surdeg",
       "start": "2027-04-04T18:00:00+02:00",
@@ -9375,6 +9520,31 @@
           "nikki hill"
         ]
       }
+    },
+    {
+      "id": "tickster-6ab298dglm1pw1h",
+      "titel": "Peter Carlsson & Grå Grodorna",
+      "start": "2027-05-15T20:00:00+02:00",
+      "slut": "2027-05-15T23:00:00+02:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8603,
+        "lng": 17.6456
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/6ab298dglm1pw1h/2027-05-15/peter-carlsson-and-gra-grodorna",
+          "biljetter": "https://secure.tickster.com/sv/6ab298dglm1pw1h"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
     },
     {
       "id": "tickster-2clj75545wcx9tw",

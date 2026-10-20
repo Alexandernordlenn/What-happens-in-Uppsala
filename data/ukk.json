@@ -1,8 +1,8 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-19T04:47:26.313Z",
-  "antal": 122,
+  "hamtad": "2026-10-20T04:45:12.809Z",
+  "antal": 123,
   "evenemang": [
     {
       "id": "ukk-45768",
@@ -93,10 +93,10 @@
           "pop-rock"
         ],
         "taggar": [
+          "jazz",
           "publikfavoriter",
           "student",
-          "mhv",
-          "jazz"
+          "mhv"
         ]
       }
     },
@@ -303,9 +303,9 @@
           "jazz"
         ],
         "taggar": [
+          "mhv",
           "jazz",
-          "student",
-          "mhv"
+          "student"
         ]
       }
     },
@@ -461,8 +461,8 @@
           "jazz"
         ],
         "taggar": [
-          "miu",
-          "jazz"
+          "jazz",
+          "miu"
         ]
       }
     },
@@ -618,8 +618,8 @@
           "klassiskt"
         ],
         "taggar": [
-          "student",
-          "hostlov"
+          "hostlov",
+          "student"
         ]
       }
     },
@@ -802,12 +802,12 @@
       "fakta": {
         "kategorier": [
           "jazz",
-          "festligheter-hogtider",
-          "barn"
+          "barn",
+          "festligheter-hogtider"
         ],
         "taggar": [
-          "hostlov",
-          "aktuellt"
+          "aktuellt",
+          "hostlov"
         ]
       }
     },
@@ -838,10 +838,10 @@
           "jazz"
         ],
         "taggar": [
-          "hostlov",
-          "jazz",
           "familj",
-          "aktuellt"
+          "aktuellt",
+          "hostlov",
+          "jazz"
         ]
       }
     },
@@ -958,10 +958,10 @@
           "jazz"
         ],
         "taggar": [
-          "student",
-          "mhv",
           "jazz",
-          "aktuellt"
+          "aktuellt",
+          "student",
+          "mhv"
         ]
       }
     },
@@ -988,8 +988,8 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "pop-rock",
-          "nostalgi-tribute"
+          "nostalgi-tribute",
+          "pop-rock"
         ],
         "taggar": []
       }
@@ -1329,10 +1329,10 @@
           "nostalgi-tribute"
         ],
         "taggar": [
+          "mhv",
           "jazz",
           "lunchkonsert",
-          "student",
-          "mhv"
+          "student"
         ]
       }
     },
@@ -1390,8 +1390,8 @@
           "barn"
         ],
         "taggar": [
-          "aktuellt",
-          "familj"
+          "familj",
+          "aktuellt"
         ]
       }
     },
@@ -1873,9 +1873,9 @@
       "fakta": {
         "kategorier": [
           "dans",
+          "barn",
           "klassiskt",
-          "festligheter-hogtider",
-          "barn"
+          "festligheter-hogtider"
         ],
         "taggar": [
           "dans",
@@ -1909,9 +1909,9 @@
           "jazz"
         ],
         "taggar": [
-          "student",
           "mhv",
-          "aktuellt"
+          "aktuellt",
+          "student"
         ]
       }
     },
@@ -2127,8 +2127,8 @@
           "klassiskt"
         ],
         "taggar": [
-          "student",
-          "mhv"
+          "mhv",
+          "student"
         ]
       }
     },
@@ -2190,8 +2190,8 @@
           "barn"
         ],
         "taggar": [
-          "publikfavoriter",
-          "familj"
+          "familj",
+          "publikfavoriter"
         ]
       }
     },
@@ -2256,8 +2256,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "aktuellt",
-          "familj"
+          "familj",
+          "aktuellt"
         ]
       }
     },
@@ -2320,10 +2320,10 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "familj",
           "publikfavoriter",
           "aktuellt",
-          "student"
+          "student",
+          "familj"
         ]
       }
     },
@@ -2414,8 +2414,8 @@
           "barn"
         ],
         "taggar": [
-          "aktuellt",
-          "familj"
+          "familj",
+          "aktuellt"
         ]
       }
     },
@@ -2445,10 +2445,10 @@
           "nostalgi-tribute"
         ],
         "taggar": [
-          "student",
-          "mhv",
           "jazz",
-          "lunchkonsert"
+          "lunchkonsert",
+          "student",
+          "mhv"
         ]
       }
     },
@@ -2808,8 +2808,8 @@
           "humor"
         ],
         "taggar": [
-          "humor",
-          "publikfavoriter"
+          "publikfavoriter",
+          "humor"
         ]
       }
     },
@@ -3016,8 +3016,8 @@
           "humor"
         ],
         "taggar": [
-          "humor",
-          "aktuellt"
+          "aktuellt",
+          "humor"
         ]
       }
     },
@@ -3475,6 +3475,38 @@
       }
     },
     {
+      "id": "ukk-46319",
+      "titel": "Pontus Lindman – Levande Begravd",
+      "start": "2027-04-03T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/pontus-lindman-levande-begravd/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor",
+          "barn"
+        ],
+        "taggar": [
+          "familj",
+          "aktuellt"
+        ]
+      }
+    },
+    {
       "id": "ukk-37277",
       "titel": "EUSKEFEURAT – Maränger och surdeg",
       "start": "2027-04-04T18:00:00+02:00",
@@ -3618,8 +3650,8 @@
           "humor"
         ],
         "taggar": [
-          "humor",
-          "student"
+          "student",
+          "humor"
         ]
       }
     },

@@ -1,43 +1,9 @@
 {
   "kalla": "Katalin",
   "webbsida": "https://www.katalin.com/",
-  "hamtad": "2026-10-19T04:47:21.647Z",
+  "hamtad": "2026-10-20T04:45:07.358Z",
   "antal": 98,
   "evenemang": [
-    {
-      "id": "katalin-17045",
-      "titel": "Teddybears – Extrakonsert",
-      "start": "2026-10-19T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Stora scen"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Slutsåld",
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/teddybears-extrakonsert/",
-          "biljetter": "https://secure.tickster.com/43xuemdp9dxjhd6"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "elektroniskt",
-          "hip-hop",
-          "indie",
-          "punk",
-          "rock"
-        ]
-      }
-    },
     {
       "id": "katalin-17320",
       "titel": "Jazzlunch med Dr Rulles Jazzklinik",
@@ -2856,6 +2822,35 @@
       "fakta": {
         "kategorier": [
           "blues"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17481",
+      "titel": "Peter Carlsson & Grå Grodorna",
+      "start": "2027-05-15T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/peter-carlsson-gra-grodorna/",
+          "biljetter": "https://secure.tickster.com/sv/6ab298dglm1pw1h/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "forestallning"
         ]
       }
     }

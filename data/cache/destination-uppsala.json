@@ -1,10 +1,4 @@
 {
-  "https://destinationuppsala.se/event/nobel-60-minuter/": {
-    "nar": "19 oktober 2026, kl. 18.00–19.00",
-    "pris": "Gratis",
-    "arrangorensSida": "https://www.uu.se/kalendarium/2026/2026-10-19-nobel-60-minuter",
-    "hamtad": "2026-10-15"
-  },
   "https://destinationuppsala.se/event/lisa-nilsson-moter-bohuslan-big-band/": {
     "nar": "20 oktober 2026 kl. 19.30",
     "pris": "",
@@ -88,6 +82,12 @@
     "pris": "",
     "arrangorensSida": "https://ukk.se/tomas-ledin-symphonia-politropou/",
     "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/ghibli-highlights-of-joe-hisaishi-2026/": {
+    "nar": "25 oktober 2026, kl. 16.00 och 19.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://ukk.se/ghibli-highlights-of-joe-hisaishi-16-00/",
+    "hamtad": "2026-10-20"
   },
   "https://destinationuppsala.se/event/fyris-comedy-stand-up-med-johanna-wagrell-johanna-westlin-mfl/": {
     "nar": "27 oktober 2026",
