@@ -1,105 +1,9 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-20T04:45:12.809Z",
-  "antal": 123,
+  "hamtad": "2026-10-21T04:48:02.308Z",
+  "antal": 120,
   "evenemang": [
-    {
-      "id": "ukk-45768",
-      "titel": "Uppsala tillsammans – En glittrande funkisfest",
-      "start": "2026-10-20T15:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/uppsala-tillsammans-en-glittrande-funkisfest/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "samtal",
-          "barn"
-        ],
-        "taggar": [
-          "aktuellt"
-        ]
-      }
-    },
-    {
-      "id": "ukk-45773",
-      "titel": "Uppsala tillsammans – En glittrande funkisfest",
-      "start": "2026-10-20T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/uppsala-tillsammans-en-glittrande-funkisfest-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "samtal",
-          "barn"
-        ],
-        "taggar": [
-          "familj"
-        ]
-      }
-    },
-    {
-      "id": "ukk-33953",
-      "titel": "Lisa Nilsson möter Bohuslän Big Band",
-      "start": "2026-10-20T19:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/lisa-nilsson-bohuslan-big-band/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "jazz",
-          "pop-rock"
-        ],
-        "taggar": [
-          "jazz",
-          "publikfavoriter",
-          "student",
-          "mhv"
-        ]
-      }
-    },
     {
       "id": "ukk-31273",
       "titel": "Inställt: Kulturfrukost – Ett kulturliv för alla",
@@ -3139,8 +3043,8 @@
           "humor"
         ],
         "taggar": [
-          "humor",
-          "aktuellt"
+          "aktuellt",
+          "humor"
         ]
       }
     },
@@ -3650,8 +3554,8 @@
           "humor"
         ],
         "taggar": [
-          "student",
-          "humor"
+          "humor",
+          "student"
         ]
       }
     },
@@ -3681,8 +3585,8 @@
           "humor"
         ],
         "taggar": [
-          "humor",
-          "student"
+          "student",
+          "humor"
         ]
       }
     },

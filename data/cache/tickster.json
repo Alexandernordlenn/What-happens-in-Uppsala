@@ -15,108 +15,6 @@
     "status": "",
     "hamtad": "2026-10-10"
   },
-  "https://www.tickster.com/se/sv/events/9gd1pwwyfc50fwh/2026-10-20/uppsala-tillsammans-en-glittrande-funkisfest": {
-    "titel": "Uppsala tillsammans – En glittrande funkisfest",
-    "start": "2026-10-20T15:00:00",
-    "slut": "2026-10-20T17:00:00",
-    "platsId": "1cdrkpdmeycxxfr",
-    "plats": "Uppsala Konsert & Kongress, Sal D (fri sittplats)",
-    "ort": "Uppsala",
-    "lat": 59.8616,
-    "lng": 17.647,
-    "taggar": [
-      "samhälle"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": null,
-    "status": "",
-    "hamtad": "2026-10-01"
-  },
-  "https://www.tickster.com/se/sv/events/x2bg4aml16va1p2/2026-10-20/uppsala-tillsammans-en-glittrande-funkisfest": {
-    "titel": "Uppsala tillsammans – En glittrande funkisfest",
-    "start": "2026-10-20T18:00:00",
-    "slut": "2026-10-20T20:00:00",
-    "platsId": "1cdrkpdmeycxxfr",
-    "plats": "Uppsala Konsert & Kongress, Sal D (fri sittplats)",
-    "ort": "Uppsala",
-    "lat": 59.8616,
-    "lng": 17.647,
-    "taggar": [
-      "samhälle"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": null,
-    "status": "",
-    "hamtad": "2026-10-01"
-  },
-  "https://www.tickster.com/se/sv/events/rwau01hbcanpumf/2026-10-20/lisa-nilsson-moter-bohuslan-big-band": {
-    "titel": "Lisa Nilsson möter Bohuslän Big Band",
-    "start": "2026-10-20T19:30:00",
-    "slut": "2026-10-20T21:30:00",
-    "platsId": "v3gu3ky2h68ytd5",
-    "plats": "Uppsala Konsert & Kongress, Stora salen",
-    "ort": "Uppsala",
-    "lat": 59.8617,
-    "lng": 17.6469,
-    "taggar": [
-      "musik",
-      "jazz"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/rwau01hbcanpumf",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/dkp90bnexze4avh/2026-10-20/teddybears": {
-    "titel": "Teddybears",
-    "start": "2026-10-20T20:00:00",
-    "slut": "2026-10-20T22:00:00",
-    "platsId": "l0h5xlh16zztxwa",
-    "plats": "Katalin and all that Jazz",
-    "ort": "Uppsala",
-    "lat": 59.8595,
-    "lng": 17.6465,
-    "taggar": [
-      "katalinlive",
-      "uppsala",
-      "katalin",
-      "musik",
-      "konsert",
-      "kaliber live",
-      "teddybears",
-      "luger",
-      "pop",
-      "indie"
-    ],
-    "arrangorId": "gf5dj34fjr9ddw5",
-    "arrangor": "Kaliber Live",
-    "kop": "https://secure.tickster.com/sv/dkp90bnexze4avh",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/k47htwfae7c199n/2026-10-20/andreas-hellkvist-trio": {
-    "titel": "Andreas Hellkvist Trio",
-    "start": "2026-10-20T20:00:00",
-    "slut": "2026-10-20T23:00:00",
-    "platsId": "08109wbnt3jawkn",
-    "plats": "Katalin, Uppsala",
-    "ort": "Uppsala",
-    "lat": 59.8621,
-    "lng": 17.6523,
-    "taggar": [
-      "katalinsbakficka",
-      "katalinuppsala",
-      "katalinandallthatjazz"
-    ],
-    "arrangorId": "nbgw5rza2z1e9xu",
-    "arrangor": "Katalin",
-    "kop": "https://secure.tickster.com/sv/k47htwfae7c199n",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/pzpu05af5up0abf/2026-10-21/halloween-edition-15": {
     "titel": "HALLOWEEN EDITION 15+",
     "start": "2026-10-21T18:30:00",
@@ -490,6 +388,24 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/bmguyl82vulwk50/2026-10-24/saltstank-and-smuggelsprit-en-do-kul-buskis": {
+    "titel": "Saltstänk & Smuggelsprit – En dö’kul buskis",
+    "start": "2026-10-24T19:30:00",
+    "slut": "2026-10-24T22:00:00",
+    "platsId": "v3gu3ky2h68ytd5",
+    "plats": "Uppsala Konsert & Kongress, Stora salen",
+    "ort": "Uppsala",
+    "lat": 59.8617,
+    "lng": 17.6469,
+    "taggar": [
+      "humor"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": "https://secure.tickster.com/sv/bmguyl82vulwk50",
+    "status": "",
+    "hamtad": "2026-09-24"
+  },
   "https://www.tickster.com/se/sv/events/bypgrad8gx7we6p/2026-10-24/brool": {
     "titel": "BRÖÖL",
     "start": "2026-10-24T19:30:00",
@@ -514,24 +430,6 @@
     "arrangorId": "gf5dj34fjr9ddw5",
     "arrangor": "Kaliber Live",
     "kop": "https://secure.tickster.com/sv/bypgrad8gx7we6p",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/bmguyl82vulwk50/2026-10-24/saltstank-and-smuggelsprit-en-do-kul-buskis": {
-    "titel": "Saltstänk & Smuggelsprit – En dö’kul buskis",
-    "start": "2026-10-24T19:30:00",
-    "slut": "2026-10-24T22:00:00",
-    "platsId": "v3gu3ky2h68ytd5",
-    "plats": "Uppsala Konsert & Kongress, Stora salen",
-    "ort": "Uppsala",
-    "lat": 59.8617,
-    "lng": 17.6469,
-    "taggar": [
-      "humor"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/bmguyl82vulwk50",
     "status": "",
     "hamtad": "2026-09-24"
   },
@@ -4280,6 +4178,33 @@
     "kop": "https://secure.tickster.com/sv/7flllwhh4f217d8",
     "status": "",
     "hamtad": "2026-10-16"
+  },
+  "https://www.tickster.com/se/sv/events/eya6rwn357z8tf1/2026-12-17/play-it-santa": {
+    "titel": "Play it Santa!",
+    "start": "2026-12-17T19:30:00",
+    "slut": "2026-12-17T22:00:00",
+    "platsId": "y7j590k6ew5bn9f",
+    "plats": "Blackbird",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "blackbird",
+      "jazz",
+      "uppsala",
+      "late night jazz",
+      "musik",
+      "konsert",
+      "live",
+      "kaliber live",
+      "östra station",
+      "play it santa"
+    ],
+    "arrangorId": "gf5dj34fjr9ddw5",
+    "arrangor": "Kaliber Live",
+    "kop": "https://secure.tickster.com/sv/eya6rwn357z8tf1",
+    "status": "",
+    "hamtad": "2026-10-21"
   },
   "https://www.tickster.com/se/sv/events/72ypaj48u516nlj/2026-12-17/the-crown": {
     "titel": "The Crown",

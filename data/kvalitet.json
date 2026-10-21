@@ -1,26 +1,26 @@
 {
-  "matt": "2026-10-20T04:45:31.947Z",
-  "idag": "2026-10-20",
+  "matt": "2026-10-21T04:48:23.155Z",
+  "idag": "2026-10-21",
   "totalt": {
-    "antal": 1833,
-    "utanKlockslag": 0.038,
+    "antal": 1796,
+    "utanKlockslag": 0.039,
     "ovrigt": 0.032,
     "familjUtanAlder": 0.195,
     "utanOmrade": 0.018,
-    "sammanslagna": 743,
-    "pagar14": 12,
+    "sammanslagna": 740,
+    "pagar14": 13,
     "borttagnaKurser": 24,
     "aiEvenemang": 0,
     "misstanktaDubbletter": 0,
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
       "langvariga": 9,
-      "samma-kalla": 9,
+      "samma-kalla": 8,
       "serie-uttryckliga-datum": 10,
       "speltid-mot-tillfallen": 13,
-      "festival": 31,
-      "innehaller": 105,
-      "lika": 363,
+      "festival": 32,
+      "lika": 354,
+      "innehaller": 108,
       "likhet": 1,
       "sport": 85
     }
@@ -41,12 +41,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 117,
+      "antal": 120,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 80,
+      "sammanslagna": 82,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 376,
+      "antal": 344,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 130,
+      "sammanslagna": 126,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 713,
+      "antal": 704,
       "utanKlockslag": 0.045,
       "ovrigt": 0.011,
-      "familjUtanAlder": 0.115,
+      "familjUtanAlder": 0.113,
       "utanOmrade": 0.007,
-      "sammanslagna": 169,
+      "sammanslagna": 165,
       "pagar14": 0,
       "borttagnaKurser": 22,
       "aiEvenemang": 0,
@@ -80,12 +80,12 @@
     },
     "r": {
       "namn": "Musik i Uppland",
-      "antal": 12,
+      "antal": 13,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 29,
+      "sammanslagna": 33,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -93,12 +93,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 82,
+      "antal": 79,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 144,
+      "sammanslagna": 140,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -106,12 +106,12 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 92,
+      "antal": 90,
       "utanKlockslag": 0,
       "ovrigt": 0.022,
-      "familjUtanAlder": 0.759,
+      "familjUtanAlder": 0.741,
       "utanOmrade": 0,
-      "sammanslagna": 229,
+      "sammanslagna": 227,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -119,9 +119,9 @@
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 60,
+      "antal": 58,
       "utanKlockslag": 0,
-      "ovrigt": 0.05,
+      "ovrigt": 0.034,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
       "sammanslagna": 1,
@@ -132,10 +132,10 @@
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 48,
+      "antal": 49,
       "utanKlockslag": 0,
       "ovrigt": 0,
-      "familjUtanAlder": 0.6,
+      "familjUtanAlder": 0.667,
       "utanOmrade": 0,
       "sammanslagna": 7,
       "pagar14": 0,
@@ -145,13 +145,13 @@
     },
     "n": {
       "namn": "Biotopia",
-      "antal": 27,
+      "antal": 28,
       "utanKlockslag": 0.696,
       "ovrigt": 0,
       "familjUtanAlder": 0.4,
-      "utanOmrade": 0.074,
+      "utanOmrade": 0.071,
       "sammanslagna": 15,
-      "pagar14": 0,
+      "pagar14": 1,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
       "misstanktaDubbletter": 0
@@ -171,12 +171,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 249,
-      "utanKlockslag": 0.068,
-      "ovrigt": 0.112,
+      "antal": 258,
+      "utanKlockslag": 0.065,
+      "ovrigt": 0.109,
       "familjUtanAlder": 0.775,
-      "utanOmrade": 0.028,
-      "sammanslagna": 313,
+      "utanOmrade": 0.031,
+      "sammanslagna": 319,
       "pagar14": 8,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -184,12 +184,12 @@
     },
     "h": {
       "namn": "Heja",
-      "antal": 381,
-      "utanKlockslag": 0.047,
-      "ovrigt": 0.031,
-      "familjUtanAlder": 0.814,
-      "utanOmrade": 0.018,
-      "sammanslagna": 436,
+      "antal": 376,
+      "utanKlockslag": 0.048,
+      "ovrigt": 0.032,
+      "familjUtanAlder": 0.81,
+      "utanOmrade": 0.019,
+      "sammanslagna": 433,
       "pagar14": 5,
       "borttagnaKurser": 1,
       "aiEvenemang": 0,
@@ -197,12 +197,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 250,
+      "antal": 248,
       "utanKlockslag": 0.017,
-      "ovrigt": 0.048,
-      "familjUtanAlder": 0.636,
+      "ovrigt": 0.044,
+      "familjUtanAlder": 0.613,
       "utanOmrade": 0.044,
-      "sammanslagna": 385,
+      "sammanslagna": 384,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -363,18 +363,6 @@
     },
     {
       "regel": "samma-kalla",
-      "dag": "2026-10-20",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
       "dag": "2026-10-21",
       "plats": "konstmuseum",
       "kallor": [
@@ -505,7 +493,7 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-20",
+      "dag": "2026-10-27",
       "plats": "stadsbib",
       "kallor": [
         "u",
@@ -737,7 +725,7 @@
         "Teater: Ingenmansland",
         "Ingenmansland"
       ],
-      "tillfallen": 17
+      "tillfallen": 18
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -751,7 +739,7 @@
         "Teater: Lotten von Kræmer",
         "Lotten von Kræmer"
       ],
-      "tillfallen": 8
+      "tillfallen": 9
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -1227,6 +1215,19 @@
     },
     {
       "regel": "festival",
+      "dag": "2026-11-07",
+      "plats": "interpool",
+      "kallor": [
+        "t",
+        "d"
+      ],
+      "titlar": [
+        "CHEZIDEK | BEWAREHOUSE ALLSTARS | ROOTSTEPPAZ",
+        "Chezidek & Bewarehouse Allstars | Rootsteppaz sound system & Lancy Rankin"
+      ]
+    },
+    {
+      "regel": "festival",
       "dag": "2027-01-09",
       "plats": "katalin",
       "kallor": [
@@ -1236,61 +1237,6 @@
       "titlar": [
         "Elvis Presley Birthday Concert 2027"
       ]
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-20",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Sagostund på svenska för barn 1–3 år",
-        "Sagostund för barn 1-3 år"
-      ],
-      "poang": 0.83
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-20",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Barnrytmik 3–5-åringar",
-        "Barnrytmik 3-5 åringar"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-20",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Bokklubb 10–13 år"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-21",
-      "plats": "granbyallaktivitetshus",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Sagostund",
-        "Sagostund på Gränby allaktivitetshus"
-      ],
-      "poang": 1
     },
     {
       "regel": "lika",
@@ -2624,6 +2570,20 @@
     },
     {
       "regel": "innehaller",
+      "dag": "2027-02-18",
+      "plats": "ukk",
+      "kallor": [
+        "r",
+        "c"
+      ],
+      "titlar": [
+        "Korngolds violinkonsert",
+        "Korngolds violinkonsert – Uppsala Kammarorkester"
+      ],
+      "poang": 0.5
+    },
+    {
+      "regel": "innehaller",
       "dag": "2026-10-28",
       "plats": "hammarskog",
       "kallor": [
@@ -3138,32 +3098,6 @@
       ],
       "titlar": [
         "Sloga Uppsala – Köping Stars"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-20",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d"
-      ],
-      "titlar": [
-        "Lisa Nilsson möter Bohuslän Big Band"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-20",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d"
-      ],
-      "titlar": [
-        "Teddybears"
       ],
       "poang": 1
     },
@@ -4012,46 +3946,19 @@
       "poang": 1
     },
     {
-      "regel": "lika",
-      "dag": "2026-10-20",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Andreas Hellkvist Trio"
-      ],
-      "poang": 1
-    },
-    {
       "regel": "innehaller",
-      "dag": "2026-10-20",
+      "dag": "2027-02-18",
       "plats": "ukk",
       "kallor": [
+        "r",
         "c",
-        "h"
+        "d"
       ],
       "titlar": [
-        "Uppsala tillsammans – En glittrande funkisfest",
-        "Uppsala tillsammans"
+        "Korngolds violinkonsert",
+        "Korngolds violinkonsert – Uppsala Kammarorkester"
       ],
       "poang": 0.5
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-20",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Lisa Nilsson möter Bohuslän Big Band",
-        "Lisa Nilsson möter Bohuslän Big Band – UKK – 2026"
-      ],
-      "poang": 0.86
     },
     {
       "regel": "lika",
@@ -5343,7 +5250,7 @@
       "poang": 1
     },
     {
-      "regel": "lika",
+      "regel": "innehaller",
       "dag": "2026-11-26",
       "plats": "stadsbib",
       "kallor": [
@@ -5351,10 +5258,10 @@
         "h"
       ],
       "titlar": [
-        "Olof Lundh",
+        "Inställt: Olof Lundh",
         "Författarbesök: Olof Lundh"
       ],
-      "poang": 1
+      "poang": 0.67
     },
     {
       "regel": "innehaller",
@@ -6739,76 +6646,21 @@
       "poang": 1
     },
     {
-      "regel": "lika",
-      "dag": "2026-10-20",
+      "regel": "innehaller",
+      "dag": "2027-02-18",
       "plats": "ukk",
       "kallor": [
-        "c",
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Uppsala tillsammans – En glittrande funkisfest",
-        "Uppsala tillsammans"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-20",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "t"
-      ],
-      "titlar": [
-        "Uppsala tillsammans – En glittrande funkisfest"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-20",
-      "plats": "ukk",
-      "kallor": [
+        "r",
         "c",
         "d",
-        "h",
-        "t"
+        "h"
       ],
       "titlar": [
-        "Lisa Nilsson möter Bohuslän Big Band",
-        "Lisa Nilsson möter Bohuslän Big Band – UKK – 2026"
+        "Korngolds violinkonsert",
+        "Korngolds violinkonsert – Uppsala Kammarorkester",
+        "Uppsala Kammarorkester – Korngolds violinkonsert"
       ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-20",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Teddybears"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-20",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Andreas Hellkvist Trio"
-      ],
-      "poang": 1
+      "poang": 0.5
     },
     {
       "regel": "innehaller",
@@ -7540,6 +7392,20 @@
       "poang": 1
     },
     {
+      "regel": "innehaller",
+      "dag": "2026-11-12",
+      "plats": "slottshist",
+      "kallor": [
+        "d",
+        "t"
+      ],
+      "titlar": [
+        "Historiska Uppsalavyer: med konsten som källmaterial",
+        "Visning: Historiska Uppsalavyer"
+      ],
+      "poang": 0.4
+    },
+    {
       "regel": "lika",
       "dag": "2026-11-12",
       "plats": "ukk",
@@ -7641,6 +7507,19 @@
       "titlar": [
         "Dessi Hietala – Sveriges sämsta norrlänning",
         "Dessi Hietala"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-11-17",
+      "plats": "slottshist",
+      "kallor": [
+        "d",
+        "t"
+      ],
+      "titlar": [
+        "Dolda rum: Rikssalen och drottning Kristina"
       ],
       "poang": 1
     },
@@ -7954,6 +7833,19 @@
       "titlar": [
         "Den Eviga Ungdomens Stad – Rimeika hyllar Uppsala",
         "Den Eviga Ungdomens Stad - Rimeika hyllar Uppsala"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-11-26",
+      "plats": "slottshist",
+      "kallor": [
+        "d",
+        "t"
+      ],
+      "titlar": [
+        "History and bar: Nordens modernaste fästning?"
       ],
       "poang": 1
     },
@@ -8307,6 +8199,19 @@
       "titlar": [
         "Pernilla Andersson – Vintersånger från Garbo",
         "Pernilla Andersson - Vintersånger från Garbo"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-12-07",
+      "plats": "slottshist",
+      "kallor": [
+        "d",
+        "t"
+      ],
+      "titlar": [
+        "Dolda rum: Rikssalen och drottning Kristina"
       ],
       "poang": 1
     },
@@ -9062,6 +8967,24 @@
         "Simon Superti"
       ],
       "poang": 1
+    },
+    {
+      "regel": "innehaller",
+      "dag": "2027-02-18",
+      "plats": "ukk",
+      "kallor": [
+        "r",
+        "c",
+        "d",
+        "h",
+        "t"
+      ],
+      "titlar": [
+        "Korngolds violinkonsert",
+        "Korngolds violinkonsert – Uppsala Kammarorkester",
+        "Uppsala Kammarorkester – Korngolds violinkonsert"
+      ],
+      "poang": 0.5
     }
   ],
   "personer": [
@@ -9090,7 +9013,7 @@
       "person": "Lisa",
       "namn": "Konst & museum, raden \"Pågår\": andel utställningar",
       "ok": true,
-      "varde": "100 % (12 av 12)",
+      "varde": "100 % (13 av 13)",
       "krav": "minst 80 %"
     },
     {
@@ -9104,21 +9027,21 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 27,
+      "varde": 23,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 21,
+      "varde": 17,
       "krav": "minst 10"
     },
     {
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 43,
+      "varde": 48,
       "krav": "minst 5"
     },
     {
@@ -9153,7 +9076,7 @@
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "3.8 %",
+      "varde": "3.9 %",
       "krav": "under 5 %"
     }
   ]

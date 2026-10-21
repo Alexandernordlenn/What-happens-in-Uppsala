@@ -1,8 +1,8 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-20T04:41:50.355Z",
-  "antal": 313,
+  "hamtad": "2026-10-21T04:42:45.139Z",
+  "antal": 309,
   "evenemang": [
     {
       "id": "tickster-78lvkn39wy9c4xr",
@@ -26,171 +26,6 @@
       ],
       "langvarig": true,
       "installd": false
-    },
-    {
-      "id": "tickster-9gd1pwwyfc50fwh",
-      "titel": "Uppsala tillsammans – En glittrande funkisfest",
-      "start": "2026-10-20T15:00:00+02:00",
-      "slut": "2026-10-20T17:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8616,
-        "lng": 17.647,
-        "rum": "Sal D (fri sittplats)"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/9gd1pwwyfc50fwh/2026-10-20/uppsala-tillsammans-en-glittrande-funkisfest",
-          "biljetter": "https://secure.tickster.com/sv/9gd1pwwyfc50fwh"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "samhälle"
-        ]
-      }
-    },
-    {
-      "id": "tickster-x2bg4aml16va1p2",
-      "titel": "Uppsala tillsammans – En glittrande funkisfest",
-      "start": "2026-10-20T18:00:00+02:00",
-      "slut": "2026-10-20T20:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8616,
-        "lng": 17.647,
-        "rum": "Sal D (fri sittplats)"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/x2bg4aml16va1p2/2026-10-20/uppsala-tillsammans-en-glittrande-funkisfest",
-          "biljetter": "https://secure.tickster.com/sv/x2bg4aml16va1p2"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "samhälle"
-        ]
-      }
-    },
-    {
-      "id": "tickster-rwau01hbcanpumf",
-      "titel": "Lisa Nilsson möter Bohuslän Big Band",
-      "start": "2026-10-20T19:30:00+02:00",
-      "slut": "2026-10-20T21:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/rwau01hbcanpumf/2026-10-20/lisa-nilsson-moter-bohuslan-big-band",
-          "biljetter": "https://secure.tickster.com/sv/rwau01hbcanpumf"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "musik",
-          "jazz"
-        ]
-      }
-    },
-    {
-      "id": "tickster-dkp90bnexze4avh",
-      "titel": "Teddybears",
-      "start": "2026-10-20T20:00:00+02:00",
-      "slut": "2026-10-20T22:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8595,
-        "lng": 17.6465
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/dkp90bnexze4avh/2026-10-20/teddybears",
-          "biljetter": "https://secure.tickster.com/sv/dkp90bnexze4avh"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinlive",
-          "uppsala",
-          "katalin",
-          "musik",
-          "konsert",
-          "kaliber live",
-          "teddybears",
-          "luger",
-          "pop",
-          "indie"
-        ]
-      }
-    },
-    {
-      "id": "tickster-k47htwfae7c199n",
-      "titel": "Andreas Hellkvist Trio",
-      "start": "2026-10-20T20:00:00+02:00",
-      "slut": "2026-10-20T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/k47htwfae7c199n/2026-10-20/andreas-hellkvist-trio",
-          "biljetter": "https://secure.tickster.com/sv/k47htwfae7c199n"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinsbakficka",
-          "katalinuppsala",
-          "katalinandallthatjazz"
-        ]
-      }
     },
     {
       "id": "tickster-pzpu05af5up0abf",
@@ -783,6 +618,37 @@
       }
     },
     {
+      "id": "tickster-bmguyl82vulwk50",
+      "titel": "Saltstänk & Smuggelsprit – En dö’kul buskis",
+      "start": "2026-10-24T19:30:00+02:00",
+      "slut": "2026-10-24T22:00:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/bmguyl82vulwk50/2026-10-24/saltstank-and-smuggelsprit-en-do-kul-buskis",
+          "biljetter": "https://secure.tickster.com/sv/bmguyl82vulwk50"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
       "id": "tickster-bypgrad8gx7we6p",
       "titel": "BRÖÖL",
       "start": "2026-10-24T19:30:00+02:00",
@@ -816,37 +682,6 @@
           "kaliber live",
           "östra station",
           "martin sjöstedt  erik tengholm"
-        ]
-      }
-    },
-    {
-      "id": "tickster-bmguyl82vulwk50",
-      "titel": "Saltstänk & Smuggelsprit – En dö’kul buskis",
-      "start": "2026-10-24T19:30:00+02:00",
-      "slut": "2026-10-24T22:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/bmguyl82vulwk50/2026-10-24/saltstank-and-smuggelsprit-en-do-kul-buskis",
-          "biljetter": "https://secure.tickster.com/sv/bmguyl82vulwk50"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "humor"
         ]
       }
     },
@@ -6657,6 +6492,43 @@
       "fakta": {
         "taggar": [
           "klassiskt"
+        ]
+      }
+    },
+    {
+      "id": "tickster-eya6rwn357z8tf1",
+      "titel": "Play it Santa!",
+      "start": "2026-12-17T19:30:00+01:00",
+      "slut": "2026-12-17T22:00:00+01:00",
+      "plats": {
+        "namn": "Blackbird",
+        "id": "blackbird"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/eya6rwn357z8tf1/2026-12-17/play-it-santa",
+          "biljetter": "https://secure.tickster.com/sv/eya6rwn357z8tf1"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "play it santa"
         ]
       }
     },

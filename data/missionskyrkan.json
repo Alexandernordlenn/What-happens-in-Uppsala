@@ -1,60 +1,9 @@
 {
   "kalla": "Uppsala Missionskyrka",
   "webbsida": "https://www.uppsalamissionskyrka.se/",
-  "hamtad": "2026-10-20T04:45:25.093Z",
-  "antal": 60,
+  "hamtad": "2026-10-21T04:48:15.307Z",
+  "antal": 58,
   "evenemang": [
-    {
-      "id": "missionskyrkan-10005272",
-      "titel": "Poetiskt till lunch",
-      "start": "2026-10-20T12:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/poetiskt-till-lunch-11/2026-10-20/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": []
-      }
-    },
-    {
-      "id": "missionskyrkan-13155",
-      "titel": "Språk och värld i förändring",
-      "start": "2026-10-20T18:00:00+02:00",
-      "slut": "2026-10-20T19:30:00+02:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/sprak-och-varld-i-forandring-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [],
-        "adress": "Svartbäcksgatan 17, 753 75"
-      }
-    },
     {
       "id": "missionskyrkan-13049",
       "titel": "Lunchmusik: Jazzt Friends och Lena Wohlfeil",

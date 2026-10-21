@@ -1,8 +1,8 @@
 {
   "kalla": "Biotopia",
   "webbsida": "https://biotopia.nu/kalender/",
-  "hamtad": "2026-10-20T04:45:28.500Z",
-  "antal": 27,
+  "hamtad": "2026-10-21T04:48:18.935Z",
+  "antal": 28,
   "evenemang": [
     {
       "id": "biotopia-2339",
@@ -221,6 +221,34 @@
       }
     },
     {
+      "id": "biotopia-2426",
+      "titel": "We Love Uppsala",
+      "start": "2026-11-01",
+      "slut": "2026-11-30",
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2426"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Med Biotopia"
+        ]
+      }
+    },
+    {
       "id": "biotopia-2143",
       "titel": "Bäbis i naturen: fast inne på Biotopia",
       "start": "2026-11-03T10:00:00+01:00",
@@ -245,6 +273,7 @@
       "fakta": {
         "kategorier": [
           "På Biotopia",
+          "För en grön framtid",
           "Med Biotopia"
         ]
       }
@@ -306,6 +335,7 @@
       "fakta": {
         "kategorier": [
           "Workshop",
+          "För en grön framtid",
           "För vuxna",
           "In English",
           "Med Biotopia",
@@ -405,6 +435,7 @@
           "På Biotopia",
           "Familjeaktivitet",
           "För barn",
+          "För en grön framtid",
           "Med Biotopia"
         ]
       }
@@ -463,6 +494,7 @@
       "fakta": {
         "kategorier": [
           "Med Biotopia",
+          "För en grön framtid",
           "På Biotopia"
         ]
       }

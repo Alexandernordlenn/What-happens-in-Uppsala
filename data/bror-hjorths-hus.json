@@ -1,8 +1,8 @@
 {
   "kalla": "Bror Hjorths Hus",
   "webbsida": "https://brorhjorthshus.se/",
-  "hamtad": "2026-10-20T04:45:27.345Z",
-  "antal": 49,
+  "hamtad": "2026-10-21T04:48:17.676Z",
+  "antal": 50,
   "evenemang": [
     {
       "id": "bror-hjorths-hus-20573",
@@ -481,6 +481,36 @@
       "installd": false,
       "fakta": {
         "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20648",
+      "titel": "Museidagen i Bror Hjorths Hus",
+      "start": "2026-11-08T12:00:00+01:00",
+      "slut": "2026-11-08T16:00:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/museidagen-i-bror-hjorths-hus/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Barn & Familj",
+          "Verkstad/kurs",
           "Visning"
         ],
         "adress": "Norbyvägen 26, 752 39"

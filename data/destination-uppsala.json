@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-20T04:40:49.408Z",
-  "antal": 174,
+  "hamtad": "2026-10-21T04:42:00.091Z",
+  "antal": 180,
   "evenemang": [
     {
       "id": "du-katarina-jagellonica-500-ar",
@@ -391,74 +391,6 @@
           "festival",
           "film"
         ]
-      }
-    },
-    {
-      "id": "du-lisa-nilsson-moter-bohuslan-big-band",
-      "titel": "Lisa Nilsson möter Bohuslän Big Band",
-      "start": "2026-10-20T19:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/lisa-nilsson-moter-bohuslan-big-band/",
-          "arrangor": "https://ukk.se/lisa-nilsson-bohuslan-big-band/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-20"
-        ],
-        "tider": {
-          "start": "19:30"
-        }
-      }
-    },
-    {
-      "id": "du-teddybears",
-      "titel": "Teddybears",
-      "start": "2026-10-20T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/teddybears/",
-          "arrangor": "https://www.katalin.com/events/teddybears/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-20"
-        ],
-        "tider": {
-          "start": "20:00"
-        }
       }
     },
     {
@@ -2007,6 +1939,40 @@
       }
     },
     {
+      "id": "du-chezidek-bewarehouse-allstars-rootsteppaz-sound-system-lancy-rankin",
+      "titel": "Chezidek & Bewarehouse Allstars | Rootsteppaz sound system & Lancy Rankin",
+      "start": "2026-11-07T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Interpool",
+        "id": "du-plats-interpool"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/chezidek-bewarehouse-allstars-rootsteppaz-sound-system-lancy-rankin/",
+          "arrangor": "https://www.tickster.com/se/sv/events/4n9tyntpn3bh3pd/2026-11-07/chezidek-bewarehouse-allstars-rootsteppaz"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konsert"
+        ],
+        "datum": [
+          "2026-11-08"
+        ],
+        "tider": {
+          "start": "20:00"
+        }
+      }
+    },
+    {
       "id": "du-pussy-riot-riot-days",
       "titel": "Pussy Riot – Riot Days",
       "start": "2026-11-07T21:30:00+01:00",
@@ -2175,6 +2141,41 @@
       }
     },
     {
+      "id": "du-historiska-uppsalavyer-med-konsten-som-kallmaterial",
+      "titel": "Historiska Uppsalavyer: med konsten som källmaterial",
+      "start": "2026-11-12T18:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist"
+      },
+      "kategori": "museum",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/historiska-uppsalavyer-med-konsten-som-kallmaterial/",
+          "arrangor": "https://slottshistoriska.uppsala.se/sv/kalendarium/historiska-uppsalavyer-med-konsten-som-kallmaterial/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "utstallning",
+          "visningar"
+        ],
+        "datum": [
+          "2026-11-12"
+        ],
+        "tider": {
+          "start": "18:30"
+        }
+      }
+    },
+    {
       "id": "du-the-simon-garfunkel-story",
       "titel": "The Simon & Garfunkel Story",
       "start": "2026-11-12T19:30:00+01:00",
@@ -2268,6 +2269,41 @@
         "datum": [
           "2026-11-14"
         ]
+      }
+    },
+    {
+      "id": "du-arkivens-dag",
+      "titel": "Arkivens Dag",
+      "start": "2026-11-14T11:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Fyriskällan",
+        "id": "fyriskallan"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/arkivens-dag/",
+          "arrangor": "https://arkivensdag.nu/arrangemang/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "ovrigt",
+          "utstallning"
+        ],
+        "datum": [
+          "2026-11-14"
+        ],
+        "tider": {
+          "start": "11:00"
+        }
       }
     },
     {
@@ -2371,6 +2407,41 @@
       }
     },
     {
+      "id": "du-dolda-rum-rikssalen-och-drottning-kristina-2",
+      "titel": "Dolda rum: Rikssalen och drottning Kristina",
+      "start": "2026-11-17T11:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist"
+      },
+      "kategori": "museum",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/dolda-rum-rikssalen-och-drottning-kristina-2/",
+          "arrangor": "https://slottshistoriska.uppsala.se/sv/kalendarium/dolda-rum-rikssalen-och-drottning-kristina2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "utstallning",
+          "visningar"
+        ],
+        "datum": [
+          "2026-11-17"
+        ],
+        "tider": {
+          "start": "11:00"
+        }
+      }
+    },
+    {
       "id": "du-kodjo-akolor-obekvama-sanningar",
       "titel": "Kodjo Akolor – Obekväma sanningar",
       "start": "2026-11-17T19:00:00+01:00",
@@ -2463,6 +2534,40 @@
       "fakta": {
         "kategorier": [
           "konsert",
+          "teater"
+        ],
+        "datum": [
+          "2026-11-18"
+        ],
+        "tider": {
+          "start": "19:00"
+        }
+      }
+    },
+    {
+      "id": "du-kvinnor-och-appeltrad",
+      "titel": "Kvinnor och äppelträd",
+      "start": "2026-11-18T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Gottsunda Dans & Teater",
+        "id": "gottsundadt"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/kvinnor-och-appeltrad/",
+          "arrangor": "https://kulturbiljetter.se/evenemang/9139/kvinnor-och-%C3%A4ppeltr%C3%A4d"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
           "teater"
         ],
         "datum": [
@@ -2833,6 +2938,41 @@
         "datum": [
           "2026-11-26"
         ]
+      }
+    },
+    {
+      "id": "du-history-and-bar-nordens-modernaste-fastning",
+      "titel": "History and bar: Nordens modernaste fästning?",
+      "start": "2026-11-26T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist"
+      },
+      "kategori": "museum",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/history-and-bar-nordens-modernaste-fastning/",
+          "arrangor": "https://slottshistoriska.uppsala.se/sv/kalendarium/history-and-bar-nordens-modernaste-fastning/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "utstallning",
+          "visningar"
+        ],
+        "datum": [
+          "2026-11-26"
+        ],
+        "tider": {
+          "start": "18:00"
+        }
       }
     },
     {
@@ -3294,6 +3434,41 @@
           "jul",
           "konsert"
         ]
+      }
+    },
+    {
+      "id": "du-drottningens-virtuoser-toner-fran-uppsala-slott-1653-1654",
+      "titel": "Drottningens virtuoser – Toner från Uppsala slott 1653–1654",
+      "start": "2026-12-02T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala konstmuseum",
+        "id": "konstmuseum"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/drottningens-virtuoser-toner-fran-uppsala-slott-1653-1654/",
+          "arrangor": "https://slottshistoriska.uppsala.se/sv/kalendarium/drottningens-virtuoser--toner-fran-uppsala-slott-16531654/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "konsert",
+          "utstallning"
+        ],
+        "datum": [
+          "2026-12-02"
+        ],
+        "tider": {
+          "start": "19:00"
+        }
       }
     },
     {
@@ -3827,6 +4002,41 @@
         ],
         "tider": {
           "start": "18:00"
+        }
+      }
+    },
+    {
+      "id": "du-dolda-rum-rikssalen-och-drottning-kristina",
+      "titel": "Dolda rum: Rikssalen och drottning Kristina",
+      "start": "2026-12-07T11:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist"
+      },
+      "kategori": "museum",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/dolda-rum-rikssalen-och-drottning-kristina/",
+          "arrangor": "https://slottshistoriska.uppsala.se/sv/kalendarium/dolda-rum-rikssalen-och-drottning-kristina22/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "utstallning",
+          "visningar"
+        ],
+        "datum": [
+          "2026-12-07"
+        ],
+        "tider": {
+          "start": "11:00"
         }
       }
     },
