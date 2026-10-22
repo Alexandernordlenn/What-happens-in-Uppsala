@@ -1,8 +1,8 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-21T04:42:45.139Z",
-  "antal": 309,
+  "hamtad": "2026-10-22T05:20:58.237Z",
+  "antal": 312,
   "evenemang": [
     {
       "id": "tickster-78lvkn39wy9c4xr",
@@ -26,112 +26,6 @@
       ],
       "langvarig": true,
       "installd": false
-    },
-    {
-      "id": "tickster-pzpu05af5up0abf",
-      "titel": "HALLOWEEN EDITION 15+",
-      "start": "2026-10-21T18:30:00+02:00",
-      "slut": "2026-10-21T22:30:00+02:00",
-      "plats": {
-        "namn": "Flustret",
-        "id": "flustret"
-      },
-      "kategori": "natt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/pzpu05af5up0abf/2026-10-21/halloween-edition-15",
-          "biljetter": "https://secure.tickster.com/sv/pzpu05af5up0abf"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "uppsala",
-          "flustret",
-          "nattklubb",
-          "fest",
-          "halloween",
-          "15fest"
-        ]
-      }
-    },
-    {
-      "id": "tickster-544l30392u0ergz",
-      "titel": "Långbacka/Bådagård - Katalins Backficka",
-      "start": "2026-10-21T20:00:00+02:00",
-      "slut": "2026-10-21T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/544l30392u0ergz/2026-10-21/langbacka-badagard-katalins-backficka",
-          "biljetter": "https://secure.tickster.com/sv/544l30392u0ergz"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinandallthatjazz",
-          "katalinuppsala",
-          "katalinsbakficka",
-          "långbacka",
-          "badegård"
-        ]
-      }
-    },
-    {
-      "id": "tickster-78c1lm096awzf3h",
-      "titel": "Sara Parkman",
-      "start": "2026-10-21T20:00:00+02:00",
-      "slut": "2026-10-21T22:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8595,
-        "lng": 17.6465
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/78c1lm096awzf3h/2026-10-21/sara-parkman",
-          "biljetter": "https://secure.tickster.com/sv/78c1lm096awzf3h"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinlive",
-          "uppsala",
-          "katalin",
-          "musik",
-          "konsert",
-          "kaliber live",
-          "sara parkman",
-          "indie",
-          "folkmusik",
-          "luger"
-        ]
-      }
     },
     {
       "id": "tickster-hkp07hwp8kt2uuj",
@@ -804,32 +698,6 @@
       }
     },
     {
-      "id": "tickster-c5r5fel0an6cdww",
-      "titel": "Tomas Ledin – Symphonia Politropou",
-      "start": "2026-10-25T19:00:00+01:00",
-      "slut": "2026-10-25T21:10:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/c5r5fel0an6cdww/2026-10-25/tomas-ledin-symphonia-politropou",
-          "biljetter": "https://secure.tickster.com/sv/c5r5fel0an6cdww"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
       "id": "tickster-5l8vg89w2v679p3",
       "titel": "Occrasy",
       "start": "2026-10-25T19:00:00+01:00",
@@ -893,6 +761,32 @@
           "klassiskt"
         ]
       }
+    },
+    {
+      "id": "tickster-c5r5fel0an6cdww",
+      "titel": "Tomas Ledin – Symphonia Politropou",
+      "start": "2026-10-25T19:00:00+01:00",
+      "slut": "2026-10-25T21:10:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/c5r5fel0an6cdww/2026-10-25/tomas-ledin-symphonia-politropou",
+          "biljetter": "https://secure.tickster.com/sv/c5r5fel0an6cdww"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
     },
     {
       "id": "tickster-pd1ke8weme0fu4b",
@@ -2152,6 +2046,31 @@
       }
     },
     {
+      "id": "tickster-g51txflwbv7058x",
+      "titel": "Sirius vs Strängnäs",
+      "start": "2026-11-06T19:00:00+01:00",
+      "slut": "2026-11-06T21:00:00+01:00",
+      "plats": {
+        "namn": "IFU Arena",
+        "id": "ifu",
+        "lat": 59.882,
+        "lng": 17.6562
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/g51txflwbv7058x/2026-11-06/sirius-vs-strangnas",
+          "biljetter": "https://secure.tickster.com/sv/g51txflwbv7058x"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-gjeb35zxk1cvp2y",
       "titel": "Sven Ingvars – Igår. Idag. Imorgon. 70 år.",
       "start": "2026-11-06T19:00:00+01:00",
@@ -2179,62 +2098,6 @@
       "fakta": {
         "taggar": [
           "musik"
-        ]
-      }
-    },
-    {
-      "id": "tickster-g51txflwbv7058x",
-      "titel": "Sirius vs Strängnäs",
-      "start": "2026-11-06T19:00:00+01:00",
-      "slut": "2026-11-06T21:00:00+01:00",
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu",
-        "lat": 59.882,
-        "lng": 17.6562
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/g51txflwbv7058x/2026-11-06/sirius-vs-strangnas",
-          "biljetter": "https://secure.tickster.com/sv/g51txflwbv7058x"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-z9kumevvuzjmk4y",
-      "titel": "Bach Jazz – Jazzhörnan",
-      "start": "2026-11-06T20:00:00+01:00",
-      "slut": "2026-11-06T23:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8611,
-        "lng": 17.6458,
-        "rum": "Restaurangen/Sal D"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/z9kumevvuzjmk4y/2026-11-06/bach-jazz-jazzhornan",
-          "biljetter": "https://secure.tickster.com/sv/z9kumevvuzjmk4y"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "jazz"
         ]
       }
     },
@@ -2303,6 +2166,37 @@
           "kaliber live",
           "östra station",
           "stina wollter"
+        ]
+      }
+    },
+    {
+      "id": "tickster-z9kumevvuzjmk4y",
+      "titel": "Bach Jazz – Jazzhörnan",
+      "start": "2026-11-06T20:00:00+01:00",
+      "slut": "2026-11-06T23:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458,
+        "rum": "Restaurangen/Sal D"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/z9kumevvuzjmk4y/2026-11-06/bach-jazz-jazzhornan",
+          "biljetter": "https://secure.tickster.com/sv/z9kumevvuzjmk4y"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "jazz"
         ]
       }
     },
@@ -2407,37 +2301,6 @@
       }
     },
     {
-      "id": "tickster-vvp6vcprfmc35g6",
-      "titel": "Kaeli Abdi – Påskkärringen",
-      "start": "2026-11-07T20:00:00+01:00",
-      "slut": "2026-11-07T21:15:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/vvp6vcprfmc35g6/2026-11-07/kaeli-abdi-paskkarringen",
-          "biljetter": "https://secure.tickster.com/sv/vvp6vcprfmc35g6"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "humor"
-        ]
-      }
-    },
-    {
       "id": "tickster-317cpfzb54vve17",
       "titel": "The DayTrippers – Bakfickan",
       "start": "2026-11-07T20:00:00+01:00",
@@ -2501,6 +2364,37 @@
           "lancy rankin",
           "sound system",
           "dub"
+        ]
+      }
+    },
+    {
+      "id": "tickster-vvp6vcprfmc35g6",
+      "titel": "Kaeli Abdi – Påskkärringen",
+      "start": "2026-11-07T20:00:00+01:00",
+      "slut": "2026-11-07T21:15:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/vvp6vcprfmc35g6/2026-11-07/kaeli-abdi-paskkarringen",
+          "biljetter": "https://secure.tickster.com/sv/vvp6vcprfmc35g6"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
         ]
       }
     },
@@ -3663,6 +3557,42 @@
       "fakta": {
         "taggar": [
           "barn"
+        ]
+      }
+    },
+    {
+      "id": "tickster-5x7n0zky1873a5r",
+      "titel": "Höstkonsert Team Putte Uppsala",
+      "start": "2026-11-21T18:00:00+01:00",
+      "slut": "2026-11-21T19:30:00+01:00",
+      "plats": {
+        "namn": "Pingstkyrkan Uppsala",
+        "id": "tickster-plats-w9xry9kwx5zjgm1",
+        "lat": 59.8596,
+        "lng": 17.6382
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/5x7n0zky1873a5r/2026-11-21/hostkonsert-team-putte-uppsala",
+          "biljetter": "https://secure.tickster.com/sv/5x7n0zky1873a5r"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "kör",
+          "gospel",
+          "pop",
+          "visa",
+          "team putte",
+          "putte nelsson",
+          "evelina gard"
         ]
       }
     },
@@ -5229,37 +5159,6 @@
       "installd": false
     },
     {
-      "id": "tickster-49b3lg68zpnvcbn",
-      "titel": "Isprinsessan – julbalett med stråkkvartett",
-      "start": "2026-12-05T16:00:00+01:00",
-      "slut": "2026-12-05T18:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/49b3lg68zpnvcbn/2026-12-05/isprinsessan-julbalett-med-strakkvartett",
-          "biljetter": "https://secure.tickster.com/sv/49b3lg68zpnvcbn"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "dans"
-        ]
-      }
-    },
-    {
       "id": "tickster-8gx1caf6umuzre4",
       "titel": "Exklusiv julmiddag i magisk miljö",
       "start": "2026-12-05T16:00:00+01:00",
@@ -5313,6 +5212,37 @@
       ],
       "langvarig": false,
       "installd": false
+    },
+    {
+      "id": "tickster-49b3lg68zpnvcbn",
+      "titel": "Isprinsessan – julbalett med stråkkvartett",
+      "start": "2026-12-05T16:00:00+01:00",
+      "slut": "2026-12-05T18:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/49b3lg68zpnvcbn/2026-12-05/isprinsessan-julbalett-med-strakkvartett",
+          "biljetter": "https://secure.tickster.com/sv/49b3lg68zpnvcbn"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "dans"
+        ]
+      }
     },
     {
       "id": "tickster-k4pt35ml013fupk",
@@ -5703,37 +5633,6 @@
       }
     },
     {
-      "id": "tickster-c7c2latx1g4m045",
-      "titel": "Weeping Willows – Christmas",
-      "start": "2026-12-09T19:30:00+01:00",
-      "slut": "2026-12-09T21:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/c7c2latx1g4m045/2026-12-09/weeping-willows-christmas",
-          "biljetter": "https://secure.tickster.com/sv/c7c2latx1g4m045"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "rock"
-        ]
-      }
-    },
-    {
       "id": "tickster-51xl39d12h5mrvt",
       "titel": "Julkonsert med Romeo & Julia Kören",
       "start": "2026-12-09T19:30:00+01:00",
@@ -5761,6 +5660,37 @@
       "fakta": {
         "taggar": [
           "jul"
+        ]
+      }
+    },
+    {
+      "id": "tickster-c7c2latx1g4m045",
+      "titel": "Weeping Willows – Christmas",
+      "start": "2026-12-09T19:30:00+01:00",
+      "slut": "2026-12-09T21:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/c7c2latx1g4m045/2026-12-09/weeping-willows-christmas",
+          "biljetter": "https://secure.tickster.com/sv/c7c2latx1g4m045"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "rock"
         ]
       }
     },
@@ -7282,6 +7212,45 @@
       }
     },
     {
+      "id": "tickster-hkprwp78cnkmcbh",
+      "titel": "Rockgala – Till förmån för Barncancerfonden",
+      "start": "2027-01-23T20:00:00+01:00",
+      "slut": "2027-01-23T23:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/hkprwp78cnkmcbh/2027-01-23/rockgala-till-forman-for-barncancerfonden",
+          "biljetter": "https://secure.tickster.com/sv/hkprwp78cnkmcbh"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "rockgala",
+          "barncancerfonden",
+          "rock",
+          "pop"
+        ]
+      }
+    },
+    {
       "id": "tickster-7u5xxfv6bth9p98",
       "titel": "Poste Restante 24/1",
       "start": "2027-01-24T16:00:00+01:00",
@@ -7501,6 +7470,37 @@
       ],
       "langvarig": false,
       "installd": false
+    },
+    {
+      "id": "tickster-dckrmxhjuhzy54b",
+      "titel": "Ane Brun – I Thought We Were The Same Tour",
+      "start": "2027-01-31T19:30:00+01:00",
+      "slut": "2027-01-31T21:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/dckrmxhjuhzy54b/2027-01-31/ane-brun-i-thought-we-were-the-same-tour",
+          "biljetter": "https://secure.tickster.com/sv/dckrmxhjuhzy54b"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "pop"
+        ]
+      }
     },
     {
       "id": "tickster-vzxc44bxnwzezdk",
@@ -9087,6 +9087,37 @@
       }
     },
     {
+      "id": "tickster-urdn3y0pmrhal33",
+      "titel": "Fullt Özz!",
+      "start": "2027-04-16T19:00:00+02:00",
+      "slut": "2027-04-16T20:15:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/urdn3y0pmrhal33/2027-04-16/fullt-ozz",
+          "biljetter": "https://secure.tickster.com/sv/urdn3y0pmrhal33"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
       "id": "tickster-fk7zec2k51epmp6",
       "titel": "HFMC - Avskedskonsert",
       "start": "2027-04-16T20:00:00+02:00",
@@ -9745,6 +9776,80 @@
           "meat loaf",
           "bat out of hell",
           "rock"
+        ]
+      }
+    },
+    {
+      "id": "tickster-ae29d4fgn5b7yac",
+      "titel": "Erik Grönwall",
+      "start": "2027-07-16T19:00:00+02:00",
+      "slut": "2027-07-16T21:00:00+02:00",
+      "plats": {
+        "namn": "Parksnäckan",
+        "id": "parksnackan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/ae29d4fgn5b7yac/2027-07-16/erik-gronwall",
+          "biljetter": "https://secure.tickster.com/sv/ae29d4fgn5b7yac"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "parksnäckan",
+          "uppsala",
+          "sommar",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "erik grönwall",
+          "rock",
+          "hårdrock"
+        ]
+      }
+    },
+    {
+      "id": "tickster-anhh19a1d0vka55",
+      "titel": "Erik Grönwall",
+      "start": "2027-07-17T19:00:00+02:00",
+      "slut": "2027-07-17T21:00:00+02:00",
+      "plats": {
+        "namn": "Parksnäckan",
+        "id": "parksnackan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/anhh19a1d0vka55/2027-07-17/erik-gronwall",
+          "biljetter": "https://secure.tickster.com/sv/anhh19a1d0vka55"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "parksnäckan",
+          "uppsala",
+          "sommar",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "erik grönwall",
+          "rock",
+          "hårdrock"
         ]
       }
     },

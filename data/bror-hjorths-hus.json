@@ -1,8 +1,8 @@
 {
   "kalla": "Bror Hjorths Hus",
   "webbsida": "https://brorhjorthshus.se/",
-  "hamtad": "2026-10-21T04:48:17.676Z",
-  "antal": 50,
+  "hamtad": "2026-10-22T05:23:03.839Z",
+  "antal": 51,
   "evenemang": [
     {
       "id": "bror-hjorths-hus-20573",
@@ -502,7 +502,7 @@
         {
           "id": "bror-hjorths-hus",
           "namn": "Bror Hjorths Hus",
-          "url": "https://brorhjorthshus.se/evenemang/museidagen-i-bror-hjorths-hus/"
+          "url": "https://brorhjorthshus.se/evenemang/museidagen-i-bror-hjorths-hus-2026/"
         }
       ],
       "langvarig": false,
@@ -512,6 +512,35 @@
           "Barn & Familj",
           "Verkstad/kurs",
           "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20655",
+      "titel": "Familjeverkstad: Magiska lyktor",
+      "start": "2026-11-08T12:30:00+01:00",
+      "slut": "2026-11-08T15:30:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "aktivitet",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/familjeverkstad-magiska-lyktor/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Barn & Familj",
+          "Verkstad/kurs"
         ],
         "adress": "Norbyvägen 26, 752 39"
       }

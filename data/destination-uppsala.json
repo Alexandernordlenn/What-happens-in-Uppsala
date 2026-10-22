@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-21T04:42:00.091Z",
-  "antal": 180,
+  "hamtad": "2026-10-22T04:41:09.941Z",
+  "antal": 179,
   "evenemang": [
     {
       "id": "du-katarina-jagellonica-500-ar",
@@ -391,40 +391,6 @@
           "festival",
           "film"
         ]
-      }
-    },
-    {
-      "id": "du-13x13-evolutionen-av-ett-langt-liv-hur-ar-det-mojligt",
-      "titel": "13×13: Evolutionen av ett långt liv – hur är det möjligt?",
-      "start": "2026-10-21T18:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Humanistiska teatern",
-        "id": "humanistiska"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/13x13-evolutionen-av-ett-langt-liv-hur-ar-det-mojligt/",
-          "arrangor": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "ovrigt"
-        ],
-        "datum": [
-          "2026-10-21"
-        ],
-        "tider": {
-          "start": "18:30"
-        }
       }
     },
     {

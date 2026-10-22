@@ -1,68 +1,9 @@
 {
   "kalla": "Katalin",
   "webbsida": "https://www.katalin.com/",
-  "hamtad": "2026-10-21T04:47:56.870Z",
-  "antal": 95,
+  "hamtad": "2026-10-22T05:22:41.734Z",
+  "antal": 94,
   "evenemang": [
-    {
-      "id": "katalin-17215",
-      "titel": "Sara Parkman",
-      "start": "2026-10-21T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Stora scen"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Slutsåld",
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/sara-parkman-2/",
-          "biljetter": "https://secure.tickster.com/78c1lm096awzf3h"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "folkmusik"
-        ]
-      }
-    },
-    {
-      "id": "katalin-16944",
-      "titel": "Långbacka/Bådagård",
-      "start": "2026-10-21T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Bakfickan"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/langbacka-badagard-katalins-backficka/",
-          "biljetter": "https://secure.tickster.com/sv/544l30392u0ergz/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "jazz"
-        ]
-      }
-    },
     {
       "id": "katalin-16931",
       "titel": "Daniel Lemma",
@@ -2172,6 +2113,35 @@
           "namn": "Katalin",
           "url": "https://www.katalin.com/events/tms-bowie-lowheroes/",
           "biljetter": "https://secure.tickster.com/sv/7z2bw1c1xeneehb/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17483",
+      "titel": "Rockgala – Till förmån för Barncancerfonden",
+      "start": "2027-01-23T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/rockgala-till-forman-for-barncancerfonden-3/",
+          "biljetter": "https://secure.tickster.com/sv/hkprwp78cnkmcbh/selectproductgroup"
         }
       ],
       "langvarig": false,

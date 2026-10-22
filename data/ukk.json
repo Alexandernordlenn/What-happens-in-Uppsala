@@ -1,8 +1,8 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-21T04:48:02.308Z",
-  "antal": 120,
+  "hamtad": "2026-10-22T05:22:47.300Z",
+  "antal": 122,
   "evenemang": [
     {
       "id": "ukk-31273",
@@ -207,9 +207,9 @@
           "jazz"
         ],
         "taggar": [
-          "mhv",
           "jazz",
-          "student"
+          "student",
+          "mhv"
         ]
       }
     },
@@ -271,9 +271,9 @@
           "klassiskt"
         ],
         "taggar": [
-          "familj",
           "miu",
-          "hostlov"
+          "hostlov",
+          "familj"
         ]
       }
     },
@@ -458,10 +458,10 @@
           "klassiskt"
         ],
         "taggar": [
-          "familj",
           "student",
           "mhv",
-          "hostlov"
+          "hostlov",
+          "familj"
         ]
       }
     },
@@ -522,8 +522,8 @@
           "klassiskt"
         ],
         "taggar": [
-          "hostlov",
-          "student"
+          "student",
+          "hostlov"
         ]
       }
     },
@@ -554,10 +554,10 @@
           "barn"
         ],
         "taggar": [
+          "hostlov",
           "familj",
           "aktuellt",
-          "miu",
-          "hostlov"
+          "miu"
         ]
       }
     },
@@ -615,9 +615,9 @@
           "barn"
         ],
         "taggar": [
+          "hostlov",
           "familj",
-          "aktuellt",
-          "hostlov"
+          "aktuellt"
         ]
       }
     },
@@ -742,10 +742,10 @@
           "jazz"
         ],
         "taggar": [
+          "jazz",
           "familj",
           "aktuellt",
-          "hostlov",
-          "jazz"
+          "hostlov"
         ]
       }
     },
@@ -1233,10 +1233,10 @@
           "nostalgi-tribute"
         ],
         "taggar": [
-          "mhv",
-          "jazz",
           "lunchkonsert",
-          "student"
+          "student",
+          "mhv",
+          "jazz"
         ]
       }
     },
@@ -1387,8 +1387,8 @@
           "jazz"
         ],
         "taggar": [
-          "jazz",
-          "miu"
+          "miu",
+          "jazz"
         ]
       }
     },
@@ -1418,8 +1418,8 @@
           "humor"
         ],
         "taggar": [
-          "humor",
-          "publikfavoriter"
+          "publikfavoriter",
+          "humor"
         ]
       }
     },
@@ -1630,7 +1630,9 @@
           "festligheter-hogtider",
           "jazz"
         ],
-        "taggar": []
+        "taggar": [
+          "jul"
+        ]
       }
     },
     {
@@ -1750,7 +1752,9 @@
         "kategorier": [
           "festligheter-hogtider"
         ],
-        "taggar": []
+        "taggar": [
+          "jul"
+        ]
       }
     },
     {
@@ -1777,13 +1781,13 @@
       "fakta": {
         "kategorier": [
           "dans",
-          "barn",
           "klassiskt",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "barn"
         ],
         "taggar": [
-          "dans",
-          "familj"
+          "familj",
+          "dans"
         ]
       }
     },
@@ -1813,9 +1817,9 @@
           "jazz"
         ],
         "taggar": [
-          "mhv",
           "aktuellt",
-          "student"
+          "student",
+          "mhv"
         ]
       }
     },
@@ -1969,8 +1973,8 @@
           "dans"
         ],
         "taggar": [
-          "publikfavoriter",
-          "aktuellt"
+          "aktuellt",
+          "publikfavoriter"
         ]
       }
     },
@@ -2031,8 +2035,8 @@
           "klassiskt"
         ],
         "taggar": [
-          "mhv",
-          "student"
+          "student",
+          "mhv"
         ]
       }
     },
@@ -2126,10 +2130,10 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "jazz",
           "aktuellt",
           "student",
-          "mhv"
+          "mhv",
+          "jazz"
         ]
       }
     },
@@ -2224,10 +2228,10 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "familj",
           "publikfavoriter",
           "aktuellt",
-          "student",
-          "familj"
+          "student"
         ]
       }
     },
@@ -2379,8 +2383,8 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "barn",
-          "klassiskt"
+          "klassiskt",
+          "barn"
         ],
         "taggar": [
           "familj"
@@ -2658,6 +2662,34 @@
       }
     },
     {
+      "id": "ukk-46398",
+      "titel": "Ane Brun – I Thought We Were The Same Tour",
+      "start": "2027-01-31T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/ane-brun-i-thought-we-were-the-same-tour/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "ovrigt"
+        ],
+        "taggar": []
+      }
+    },
+    {
       "id": "ukk-38450",
       "titel": "The Dire Straits Experience",
       "start": "2027-02-04T19:30:00+01:00",
@@ -2712,8 +2744,8 @@
           "humor"
         ],
         "taggar": [
-          "publikfavoriter",
-          "humor"
+          "humor",
+          "publikfavoriter"
         ]
       }
     },
@@ -2920,8 +2952,8 @@
           "humor"
         ],
         "taggar": [
-          "aktuellt",
-          "humor"
+          "humor",
+          "aktuellt"
         ]
       }
     },
@@ -3012,8 +3044,8 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "aktuellt",
+          "familj"
         ]
       }
     },
@@ -3043,8 +3075,8 @@
           "humor"
         ],
         "taggar": [
-          "aktuellt",
-          "humor"
+          "humor",
+          "aktuellt"
         ]
       }
     },
@@ -3499,6 +3531,36 @@
       }
     },
     {
+      "id": "ukk-46390",
+      "titel": "Fullt Özz!",
+      "start": "2027-04-16T19:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/fullt-ozz/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
       "id": "ukk-34500",
       "titel": "Poste Restante 18/4",
       "start": "2027-04-18T16:00:00+02:00",
@@ -3585,8 +3647,8 @@
           "humor"
         ],
         "taggar": [
-          "student",
-          "humor"
+          "humor",
+          "student"
         ]
       }
     },

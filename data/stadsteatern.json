@@ -1,34 +1,9 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-10-21T04:41:13.862Z",
-  "antal": 168,
+  "hamtad": "2026-10-22T04:40:44.237Z",
+  "antal": 167,
   "evenemang": [
-    {
-      "id": "stadsteatern-126005",
-      "titel": "Bara två stjärnor",
-      "start": "2026-10-21T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Intiman"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Få biljetter kvar",
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/bara-tva-stjarnor/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30414/126005/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "stadsteatern-126006",
       "titel": "Bara två stjärnor",
@@ -239,7 +214,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": true,
-      "notering": "Få biljetter kvar",
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -652,6 +627,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -750,7 +726,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": true,
-      "notering": "Slutsåld",
+      "notering": "Få biljetter kvar",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -945,7 +921,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": true,
-      "notering": "Få biljetter kvar",
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",

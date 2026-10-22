@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-21T04:46:56.752Z",
-  "antal": 283,
+  "hamtad": "2026-10-22T05:21:40.525Z",
+  "antal": 281,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -3503,82 +3503,6 @@
       "start": "2026-09-26",
       "slut": "2026-12-20",
       "langvarig": true
-    },
-    {
-      "id": "kubik-sagostund-graenby-allaktivitetshus-2026-10-21-1000",
-      "titel": "Sagostund på Gränby allaktivitetshus",
-      "plats": {
-        "namn": "Gränby allaktivitetshus",
-        "id": "granbyallaktivitetshus"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        4
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-graenby-allaktivitetshus/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Litteratur/Skrivande"
-        ],
-        "malgrupp": [
-          "0-4 år"
-        ],
-        "adress": "Gränby allaktivitetshus, Liljefors torg 1, Uppsala"
-      },
-      "start": "2026-10-21T10:00:00+02:00",
-      "slut": "2026-10-21T10:30:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-interaktivt-spoekaeventyr-2026-10-21-1530",
-      "titel": "Interaktivt spökäventyr",
-      "plats": {
-        "namn": "Sävja bibliotek",
-        "id": "savjabib"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        12
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/interaktivt-spoekaeventyr/",
-          "arrangor": "http://bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Litteratur/Skrivande",
-          "Övrigt"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år"
-        ],
-        "adress": "Sävjabiblioteket, Västgötaresan 133, Uppsala"
-      },
-      "start": "2026-10-21T15:30:00+02:00",
-      "slut": "2026-10-21T16:30:00+02:00",
-      "langvarig": false
     },
     {
       "id": "kubik-babyrytmik-ht-2026-2026-10-22-1000",

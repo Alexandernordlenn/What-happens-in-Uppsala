@@ -1,41 +1,9 @@
 {
   "kalla": "Biotopia",
   "webbsida": "https://biotopia.nu/kalender/",
-  "hamtad": "2026-10-21T04:48:18.935Z",
-  "antal": 28,
+  "hamtad": "2026-10-22T05:23:05.064Z",
+  "antal": 27,
   "evenemang": [
-    {
-      "id": "biotopia-2339",
-      "titel": "Vattenrådsmöte för asp och biotopvård",
-      "start": "2026-10-21",
-      "slut": null,
-      "plats": {
-        "namn": "Biotopia",
-        "id": "biotopia"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "alder": null,
-      "kallor": [
-        {
-          "id": "biotopia",
-          "namn": "Biotopia",
-          "url": "https://biotopia.nu/?post_type=post&p=2339"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "För vuxna",
-          "Föredrag",
-          "Med Biotopia",
-          "Onsdagskvällar",
-          "På Biotopia"
-        ]
-      }
-    },
     {
       "id": "biotopia-2290",
       "titel": "Torsdagskul: Bygga och flya drake!",
