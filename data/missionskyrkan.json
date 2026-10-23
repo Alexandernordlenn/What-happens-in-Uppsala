@@ -1,36 +1,9 @@
 {
   "kalla": "Uppsala Missionskyrka",
   "webbsida": "https://www.uppsalamissionskyrka.se/",
-  "hamtad": "2026-10-22T05:22:59.982Z",
-  "antal": 57,
+  "hamtad": "2026-10-23T04:44:14.934Z",
+  "antal": 56,
   "evenemang": [
-    {
-      "id": "missionskyrkan-13378",
-      "titel": "Rotary Välgörenhetskonsert",
-      "start": "2026-10-22T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/rotary-valgorenhetskonsert/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Extern arrangör"
-        ]
-      }
-    },
     {
       "id": "missionskyrkan-13063",
       "titel": "Fredagsträffen: Ett Ord på vägen Göran Alderborn",

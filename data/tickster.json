@@ -1,232 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-22T05:20:58.237Z",
-  "antal": 312,
+  "hamtad": "2026-10-23T04:42:09.771Z",
+  "antal": 306,
   "evenemang": [
-    {
-      "id": "tickster-78lvkn39wy9c4xr",
-      "titel": "45:e Uppsala Kortfilmfestival 19-25 oktober",
-      "start": "2026-10-19T13:00:00+02:00",
-      "slut": "2026-10-25T23:59:00+01:00",
-      "plats": {
-        "namn": "Slottsbiografen",
-        "id": "slottsbiografen"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/78lvkn39wy9c4xr/2026-10-19/45-e-uppsala-kortfilmfestival-19-25-oktober",
-          "biljetter": "https://secure.tickster.com/sv/78lvkn39wy9c4xr"
-        }
-      ],
-      "langvarig": true,
-      "installd": false
-    },
-    {
-      "id": "tickster-hkp07hwp8kt2uuj",
-      "titel": "Inställt: Kulturfrukost – Ett kulturliv för alla",
-      "start": "2026-10-22T08:00:00+02:00",
-      "slut": "2026-10-22T09:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8611,
-        "lng": 17.6458,
-        "rum": "Restaurangen/Sal D"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/hkp07hwp8kt2uuj/2026-10-22/installt-kulturfrukost-ett-kulturliv-for-alla",
-          "biljetter": "https://secure.tickster.com/sv/hkp07hwp8kt2uuj"
-        }
-      ],
-      "langvarig": false,
-      "installd": true,
-      "fakta": {
-        "taggar": [
-          "samtal"
-        ]
-      }
-    },
-    {
-      "id": "tickster-c8m8w11rjd7nzgt",
-      "titel": "Det idéala – Beredd på vadå?",
-      "start": "2026-10-22T18:30:00+02:00",
-      "slut": "2026-10-22T20:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8611,
-        "lng": 17.6458,
-        "rum": "Restaurangen/Sal D"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/c8m8w11rjd7nzgt/2026-10-22/det-ideala-beredd-pa-vada",
-          "biljetter": "https://secure.tickster.com/sv/c8m8w11rjd7nzgt"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "samhälle"
-        ]
-      }
-    },
-    {
-      "id": "tickster-1phnynvyr0mm2m6",
-      "titel": "Textildetektiv: Katarina Jagellonicas tid",
-      "start": "2026-10-22T18:30:00+02:00",
-      "slut": "2026-10-22T19:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala slottshistoriska",
-        "id": "slottshist",
-        "lat": 59.8542,
-        "lng": 17.6351
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/1phnynvyr0mm2m6/2026-10-22/textildetektiv-katarina-jagellonicas-tid",
-          "biljetter": "https://secure.tickster.com/sv/1phnynvyr0mm2m6"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-y4hj8v8yb4regmn",
-      "titel": "Livepodd – om växternas intelligens",
-      "start": "2026-10-22T19:00:00+02:00",
-      "slut": "2026-10-22T20:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/y4hj8v8yb4regmn/2026-10-22/livepodd-om-vaxternas-intelligens",
-          "biljetter": "https://secure.tickster.com/sv/y4hj8v8yb4regmn"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-tfwjdg6m57bjy8b",
-      "titel": "Bruch och Brahms – Uppsala Kammarorkester",
-      "start": "2026-10-22T19:00:00+02:00",
-      "slut": "2026-10-22T21:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/tfwjdg6m57bjy8b/2026-10-22/bruch-och-brahms-uppsala-kammarorkester",
-          "biljetter": "https://secure.tickster.com/sv/tfwjdg6m57bjy8b"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "klassiskt"
-        ]
-      }
-    },
-    {
-      "id": "tickster-15z21nf4c9ye6mx",
-      "titel": "Carl-Johan Vallgren",
-      "start": "2026-10-22T19:00:00+02:00",
-      "slut": "2026-10-22T20:30:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/15z21nf4c9ye6mx/2026-10-22/carl-johan-vallgren",
-          "biljetter": "https://secure.tickster.com/sv/15z21nf4c9ye6mx"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-1n30wv8krbb0r9t",
-      "titel": "Daniel Lemma - Katalins Bakficka",
-      "start": "2026-10-22T20:00:00+02:00",
-      "slut": "2026-10-22T23:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/1n30wv8krbb0r9t/2026-10-22/daniel-lemma-katalins-bakficka",
-          "biljetter": "https://secure.tickster.com/sv/1n30wv8krbb0r9t"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinandallthatjazz",
-          "katalinuppsala",
-          "katalinsbakficka",
-          "daniellemma"
-        ]
-      }
-    },
     {
       "id": "tickster-vhfnpvybld9u485",
       "titel": "Ölprovning - 23 oktober",
@@ -2301,38 +2078,6 @@
       }
     },
     {
-      "id": "tickster-317cpfzb54vve17",
-      "titel": "The DayTrippers – Bakfickan",
-      "start": "2026-11-07T20:00:00+01:00",
-      "slut": "2026-11-07T23:00:00+01:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/317cpfzb54vve17/2026-11-07/the-daytrippers-bakfickan",
-          "biljetter": "https://secure.tickster.com/sv/317cpfzb54vve17"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinsbakficka",
-          "bakfickan",
-          "thedaytrippers"
-        ]
-      }
-    },
-    {
       "id": "tickster-4n9tyntpn3bh3pd",
       "titel": "CHEZIDEK | BEWAREHOUSE ALLSTARS | ROOTSTEPPAZ",
       "start": "2026-11-07T20:00:00+01:00",
@@ -3148,6 +2893,31 @@
           "samhälle"
         ]
       }
+    },
+    {
+      "id": "tickster-618l7xcrt50lw63",
+      "titel": "Visning: Drottning Kristina & konstverket Fly fri",
+      "start": "2026-11-19T18:30:00+01:00",
+      "slut": "2026-11-19T19:30:00+01:00",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/618l7xcrt50lw63/2026-11-19/visning-drottning-kristina-and-konstverket-fly-fri",
+          "biljetter": "https://secure.tickster.com/sv/618l7xcrt50lw63"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
     },
     {
       "id": "tickster-w4ml1mwgut1xby1",
@@ -8339,6 +8109,45 @@
       }
     },
     {
+      "id": "tickster-6ynf73xmc9c0pu8",
+      "titel": "Tingsek",
+      "start": "2027-02-26T20:00:00+01:00",
+      "slut": "2027-02-26T22:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/6ynf73xmc9c0pu8/2027-02-26/tingsek",
+          "biljetter": "https://secure.tickster.com/sv/6ynf73xmc9c0pu8"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "tingsek",
+          "soul",
+          "pop",
+          "pange"
+        ]
+      }
+    },
+    {
       "id": "tickster-5xgw2w4blu4rp07",
       "titel": "No Business Like Show Business",
       "start": "2027-02-27T17:00:00+01:00",
@@ -9215,6 +9024,38 @@
       "fakta": {
         "taggar": [
           "humor"
+        ]
+      }
+    },
+    {
+      "id": "tickster-317cpfzb54vve17",
+      "titel": "The DayTrippers – Bakfickan",
+      "start": "2027-04-24T20:00:00+02:00",
+      "slut": "2027-04-24T23:00:00+02:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/317cpfzb54vve17/2027-04-24/the-daytrippers-bakfickan",
+          "biljetter": "https://secure.tickster.com/sv/317cpfzb54vve17"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsbakficka",
+          "bakfickan",
+          "thedaytrippers"
         ]
       }
     },

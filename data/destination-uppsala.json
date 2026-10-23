@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-22T04:41:09.941Z",
-  "antal": 179,
+  "hamtad": "2026-10-23T04:41:20.804Z",
+  "antal": 180,
   "evenemang": [
     {
       "id": "du-katarina-jagellonica-500-ar",
@@ -112,33 +112,6 @@
           "aktiviteter",
           "konsert",
           "utstallning"
-        ]
-      }
-    },
-    {
-      "id": "du-bara-tva-stjarnor",
-      "titel": "Bara två stjärnor",
-      "start": "2026-09-03",
-      "slut": "2026-10-22",
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/bara-tva-stjarnor/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "teater"
         ]
       }
     },
@@ -391,71 +364,6 @@
           "festival",
           "film"
         ]
-      }
-    },
-    {
-      "id": "du-bruch-och-brahms-uppsala-kammarorkester",
-      "titel": "Bruch och Brahms – Uppsala Kammarorkester",
-      "start": "2026-10-22",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/bruch-och-brahms-uppsala-kammarorkester/",
-          "arrangor": "https://www.musikiuppland.se/konsert/bruch-och-brahms/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-22"
-        ]
-      }
-    },
-    {
-      "id": "du-carl-johan-vallgren",
-      "titel": "Carl-Johan Vallgren",
-      "start": "2026-10-22T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/carl-johan-vallgren/",
-          "arrangor": "https://ukk.se/carl-johan-vallgren/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-22"
-        ],
-        "tider": {
-          "start": "19:00"
-        }
       }
     },
     {
@@ -1118,6 +1026,35 @@
         ],
         "datum": [
           "2026-10-27"
+        ]
+      }
+    },
+    {
+      "id": "du-hostlov-pa-upplandsmuseet",
+      "titel": "Höstlov på Upplandsmuseet",
+      "start": "2026-10-27",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Upplandsmuseet",
+        "id": "upplandsmuseet"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/hostlov-pa-upplandsmuseet/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn-familj",
+          "hostlov",
+          "utstallning"
         ]
       }
     },
@@ -1836,6 +1773,40 @@
       }
     },
     {
+      "id": "du-junior-sm-i-ledklattring",
+      "titel": "Junior-SM i ledklättring",
+      "start": "2026-11-07T09:00:00+01:00",
+      "slut": "2026-11-08",
+      "plats": {
+        "namn": "Klättercentret Uppsala",
+        "id": "du-plats-klättercentret-uppsala"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/junior-sm-i-ledklattring/",
+          "arrangor": "https://climbalong.com/competitions/505/info"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
+        ],
+        "datum": [
+          "2026-11-08"
+        ],
+        "tider": {
+          "start": "09:00"
+        }
+      }
+    },
+    {
       "id": "du-creedence-tribute-best-of-ccr-john-fogerty-tour",
       "titel": "Creedence Tribute, Best of CCR & John Fogerty Tour",
       "start": "2026-11-07T19:30:00+01:00",
@@ -2301,6 +2272,40 @@
         ],
         "datum": [
           "2026-11-14"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
+      }
+    },
+    {
+      "id": "du-comovement",
+      "titel": "CoMovement",
+      "start": "2026-11-14T12:00:00+01:00",
+      "slut": "2026-11-15",
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/comovement/",
+          "arrangor": "https://www.instagram.com/watchmebake.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "festival"
+        ],
+        "datum": [
+          "2026-11-15"
         ],
         "tider": {
           "start": "12:00"
@@ -4356,6 +4361,42 @@
           "namn": "Destination Uppsala",
           "url": "https://destinationuppsala.se/event/lantlig-julmarknad-pa-ekbolanda-gard/",
           "arrangor": "https://www.facebook.com/Ekbolanda/?locale=sv_SE"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jul",
+          "julmarknad",
+          "marknad"
+        ],
+        "datum": [
+          "2026-12-13"
+        ],
+        "tider": {
+          "start": "11:00"
+        }
+      }
+    },
+    {
+      "id": "du-hagaby-julmarknad-2026",
+      "titel": "Hågaby julmarknad 2026",
+      "start": "2026-12-12T11:00:00+01:00",
+      "slut": "2026-12-13",
+      "plats": {
+        "namn": "Kulturoasen",
+        "id": "kulturoasen"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/hagaby-julmarknad-2026/",
+          "arrangor": "https://www.kulturoasen.se/events/hagaby-julmarknad-2026/"
         }
       ],
       "langvarig": false,

@@ -1,5 +1,5 @@
 {
-  "uppdaterad": "2026-10-22T05:22:30.606Z",
+  "uppdaterad": "2026-10-23T04:43:45.113Z",
   "antalMatcherIUppsala": 133,
   "lag": [
     {
@@ -9,7 +9,7 @@
       "niva": 1,
       "liga": "Allsvenskan",
       "antal": 3,
-      "hemmamatcher30": 2,
+      "hemmamatcher30": 3,
       "iSasong": true
     },
     {
@@ -89,7 +89,7 @@
       "niva": 2,
       "liga": "Allsvenskan dam",
       "antal": 8,
-      "hemmamatcher30": 3,
+      "hemmamatcher30": 4,
       "iSasong": false
     },
     {
@@ -99,7 +99,7 @@
       "niva": 1,
       "liga": "Basketligan herr",
       "antal": 17,
-      "hemmamatcher30": 3,
+      "hemmamatcher30": 4,
       "iSasong": true
     },
     {
@@ -139,7 +139,7 @@
       "niva": 1,
       "liga": "Elitserien herr",
       "antal": 10,
-      "hemmamatcher30": 2,
+      "hemmamatcher30": 3,
       "iSasong": true
     },
     {

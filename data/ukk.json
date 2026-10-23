@@ -1,130 +1,9 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-22T05:22:47.300Z",
-  "antal": 122,
+  "hamtad": "2026-10-23T04:44:01.994Z",
+  "antal": 120,
   "evenemang": [
-    {
-      "id": "ukk-31273",
-      "titel": "Inställt: Kulturfrukost – Ett kulturliv för alla",
-      "start": "2026-10-22T08:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/kulturfrukost-ett-kulturliv-for-alla/"
-        }
-      ],
-      "langvarig": false,
-      "installd": true,
-      "fakta": {
-        "kategorier": [
-          "samtal"
-        ],
-        "taggar": [
-          "kulturfrukost"
-        ]
-      }
-    },
-    {
-      "id": "ukk-44718",
-      "titel": "Det idéala – Beredd på vadå?",
-      "start": "2026-10-22T18:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/det-ideala-beredd-pa-vada/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "samtal"
-        ],
-        "taggar": [
-          "student"
-        ]
-      }
-    },
-    {
-      "id": "ukk-34524",
-      "titel": "Bruch och Brahms – Uppsala Kammarorkester",
-      "start": "2026-10-22T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/bruch-och-brahms-uppsala-kammarorkester/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "klassiskt"
-        ],
-        "taggar": [
-          "miu"
-        ]
-      }
-    },
-    {
-      "id": "ukk-35815",
-      "titel": "Carl-Johan Vallgren",
-      "start": "2026-10-22T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/carl-johan-vallgren/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "pop-rock"
-        ],
-        "taggar": [
-          "student",
-          "mhv"
-        ]
-      }
-    },
     {
       "id": "ukk-46215",
       "titel": "Uppsala Kortfilmfestival",
@@ -207,9 +86,9 @@
           "jazz"
         ],
         "taggar": [
-          "jazz",
           "student",
-          "mhv"
+          "mhv",
+          "jazz"
         ]
       }
     },
@@ -271,9 +150,9 @@
           "klassiskt"
         ],
         "taggar": [
-          "miu",
           "hostlov",
-          "familj"
+          "familj",
+          "miu"
         ]
       }
     },
@@ -396,8 +275,8 @@
           "humor"
         ],
         "taggar": [
-          "humor",
-          "aktuellt"
+          "aktuellt",
+          "humor"
         ]
       }
     },
@@ -458,10 +337,10 @@
           "klassiskt"
         ],
         "taggar": [
+          "familj",
           "student",
           "mhv",
-          "hostlov",
-          "familj"
+          "hostlov"
         ]
       }
     },
@@ -522,8 +401,8 @@
           "klassiskt"
         ],
         "taggar": [
-          "student",
-          "hostlov"
+          "hostlov",
+          "student"
         ]
       }
     },
@@ -554,10 +433,10 @@
           "barn"
         ],
         "taggar": [
-          "hostlov",
           "familj",
           "aktuellt",
-          "miu"
+          "miu",
+          "hostlov"
         ]
       }
     },
@@ -615,9 +494,9 @@
           "barn"
         ],
         "taggar": [
-          "hostlov",
           "familj",
-          "aktuellt"
+          "aktuellt",
+          "hostlov"
         ]
       }
     },
@@ -742,10 +621,10 @@
           "jazz"
         ],
         "taggar": [
-          "jazz",
           "familj",
           "aktuellt",
-          "hostlov"
+          "hostlov",
+          "jazz"
         ]
       }
     },
@@ -987,8 +866,8 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "aktuellt",
+          "familj"
         ]
       }
     },
@@ -1170,9 +1049,9 @@
           "dans"
         ],
         "taggar": [
+          "aktuellt",
           "dans",
-          "familj",
-          "aktuellt"
+          "familj"
         ]
       }
     },
@@ -1233,10 +1112,10 @@
           "nostalgi-tribute"
         ],
         "taggar": [
+          "jazz",
           "lunchkonsert",
           "student",
-          "mhv",
-          "jazz"
+          "mhv"
         ]
       }
     },
@@ -1356,8 +1235,8 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "aktuellt",
+          "familj"
         ]
       }
     },
@@ -1387,8 +1266,8 @@
           "jazz"
         ],
         "taggar": [
-          "miu",
-          "jazz"
+          "jazz",
+          "miu"
         ]
       }
     },
@@ -1781,13 +1660,13 @@
       "fakta": {
         "kategorier": [
           "dans",
+          "barn",
           "klassiskt",
-          "festligheter-hogtider",
-          "barn"
+          "festligheter-hogtider"
         ],
         "taggar": [
-          "familj",
-          "dans"
+          "dans",
+          "familj"
         ]
       }
     },
@@ -1878,10 +1757,7 @@
           "dans",
           "festligheter-hogtider"
         ],
-        "taggar": [
-          "publikfavoriter",
-          "aktuellt"
-        ]
+        "taggar": []
       }
     },
     {
@@ -1972,10 +1848,7 @@
           "festligheter-hogtider",
           "dans"
         ],
-        "taggar": [
-          "aktuellt",
-          "publikfavoriter"
-        ]
+        "taggar": []
       }
     },
     {
@@ -2098,8 +1971,8 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "publikfavoriter"
+          "publikfavoriter",
+          "familj"
         ]
       }
     },
@@ -2130,10 +2003,10 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "aktuellt",
-          "student",
           "mhv",
-          "jazz"
+          "jazz",
+          "aktuellt",
+          "student"
         ]
       }
     },
@@ -2228,10 +2101,10 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "student",
           "familj",
           "publikfavoriter",
-          "aktuellt",
-          "student"
+          "aktuellt"
         ]
       }
     },
@@ -2383,8 +2256,8 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "klassiskt",
-          "barn"
+          "barn",
+          "klassiskt"
         ],
         "taggar": [
           "familj"
@@ -3044,8 +2917,8 @@
           "barn"
         ],
         "taggar": [
-          "aktuellt",
-          "familj"
+          "familj",
+          "aktuellt"
         ]
       }
     },
@@ -3349,6 +3222,64 @@
         "taggar": [
           "miu"
         ]
+      }
+    },
+    {
+      "id": "ukk-46471",
+      "titel": "Uppsala Vin & Deli 2027 – Upptäck. Smaka. Njut",
+      "start": "2027-03-19T14:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/uppsala-vin-deli-2027/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "festligheter-hogtider",
+          "hantverk-marknader"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-46519",
+      "titel": "Uppsala Vin & Deli 2027 – Upptäck. Smaka. Njut",
+      "start": "2027-03-20T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/uppsala-vin-deli-2027-lordag/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "festligheter-hogtider",
+          "hantverk-marknader"
+        ],
+        "taggar": []
       }
     },
     {

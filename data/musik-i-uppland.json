@@ -1,39 +1,9 @@
 {
   "kalla": "Musik i Uppland",
   "webbsida": "https://www.musikiuppland.se/",
-  "hamtad": "2026-10-22T05:22:33.143Z",
-  "antal": 20,
+  "hamtad": "2026-10-23T04:43:47.583Z",
+  "antal": 19,
   "evenemang": [
-    {
-      "id": "musik-i-uppland-24278",
-      "titel": "Bruch och Brahms",
-      "start": "2026-10-22T19:00:00+02:00",
-      "slut": "2026-10-22T21:10:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "musik-i-uppland",
-          "namn": "Musik i Uppland",
-          "url": "https://www.musikiuppland.se/konsert/bruch-och-brahms/",
-          "biljetter": "https://secure.tickster.com/tfwjdg6m57bjy8b"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "uppsala-kammarorkester"
-        ],
-        "adress": "Vaksala Torg 1, 753 31"
-      }
-    },
     {
       "id": "musik-i-uppland-24772",
       "titel": "Familjekonsert – Peter och vargen",

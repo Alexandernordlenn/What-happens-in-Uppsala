@@ -1,38 +1,9 @@
 {
   "kalla": "Katalin",
   "webbsida": "https://www.katalin.com/",
-  "hamtad": "2026-10-22T05:22:41.734Z",
+  "hamtad": "2026-10-23T04:43:56.219Z",
   "antal": 94,
   "evenemang": [
-    {
-      "id": "katalin-16931",
-      "titel": "Daniel Lemma",
-      "start": "2026-10-22T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Bakfickan"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/daniel-lemma-katalins-bakficka/",
-          "biljetter": "https://secure.tickster.com/sv/1n30wv8krbb0r9t/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "folk-roots"
-        ]
-      }
-    },
     {
       "id": "katalin-17083",
       "titel": "John Lindberg Trio",
@@ -582,36 +553,6 @@
       "fakta": {
         "kategorier": [
           "underhallning"
-        ]
-      }
-    },
-    {
-      "id": "katalin-17409",
-      "titel": "The DayTrippers",
-      "start": "2026-11-07",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Bakfickan"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/the-daytrippers-bakfickan/",
-          "biljetter": "https://secure.tickster.com/sv/317cpfzb54vve17/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "pop",
-          "rock"
         ]
       }
     },
@@ -1481,7 +1422,7 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "jazz"
+          "julkonsert"
         ]
       }
     },
@@ -2445,6 +2386,35 @@
       }
     },
     {
+      "id": "katalin-17503",
+      "titel": "Tingsek",
+      "start": "2027-02-26T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/tingsek-5/",
+          "biljetter": "https://secure.tickster.com/sv/6ynf73xmc9c0pu8/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop"
+        ]
+      }
+    },
+    {
       "id": "katalin-16881",
       "titel": "Jazz på Svenska – Bröderna Johansson",
       "start": "2027-03-02T20:00:00+01:00",
@@ -2644,6 +2614,36 @@
       "fakta": {
         "kategorier": [
           "progressiv-rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17409",
+      "titel": "The DayTrippers – Bakfickan / Evenetet flyttades från 7/11",
+      "start": "2027-04-24",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/the-daytrippers-bakfickan/",
+          "biljetter": "https://secure.tickster.com/sv/317cpfzb54vve17/products"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop",
+          "rock"
         ]
       }
     },

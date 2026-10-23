@@ -1,82 +1,9 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-10-22T04:40:44.237Z",
-  "antal": 167,
+  "hamtad": "2026-10-23T04:40:43.697Z",
+  "antal": 169,
   "evenemang": [
-    {
-      "id": "stadsteatern-126006",
-      "titel": "Bara två stjärnor",
-      "start": "2026-10-22T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Intiman"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/bara-tva-stjarnor/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30414/126006/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-125013",
-      "titel": "Studie i mänskligt beteende",
-      "start": "2026-10-22T18:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Lilla scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Genrep, Slutsåld",
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/studie-i-manskligt-beteende/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29508/125013/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "stadsteatern-125892",
-      "titel": "Stadens ljus",
-      "start": "2026-10-22T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Stora scenen"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/stadens-ljus/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29503/125892/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "stadsteatern-124868",
       "titel": "Studie i mänskligt beteende",
@@ -90,7 +17,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
-      "notering": "Nypremiär, Få biljetter kvar",
+      "notering": "Nypremiär, Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -239,7 +166,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": true,
-      "notering": "Få biljetter kvar",
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -434,6 +361,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -2752,6 +2680,30 @@
       "installd": false
     },
     {
+      "id": "stadsteatern-136657",
+      "titel": "Bara två stjärnor",
+      "start": "2027-02-16T18:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/bara-tva-stjarnor/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30414/136657/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "stadsteatern-134790",
       "titel": "Ingenmansland",
       "start": "2027-02-17T17:30:00+01:00",
@@ -3882,6 +3834,31 @@
       "installd": false
     },
     {
+      "id": "stadsteatern-136658",
+      "titel": "Bara två stjärnor",
+      "start": "2027-04-27T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/bara-tva-stjarnor/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30414/136658/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "stadsteatern-134121",
       "titel": "Petra von Kants bittra tårar",
       "start": "2027-04-27T19:00:00+02:00",
@@ -3900,6 +3877,31 @@
           "namn": "Uppsala stadsteater",
           "url": "https://www.uppsalastadsteater.se/forestallningar/petra-von-kants-bittra-tarar/",
           "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/29509/134121/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-136659",
+      "titel": "Bara två stjärnor",
+      "start": "2027-04-28T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/bara-tva-stjarnor/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30414/136659/"
         }
       ],
       "langvarig": false,
@@ -4026,6 +4028,31 @@
       "installd": false
     },
     {
+      "id": "stadsteatern-136660",
+      "titel": "Bara två stjärnor",
+      "start": "2027-05-19T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/bara-tva-stjarnor/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30414/136660/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "stadsteatern-134630",
       "titel": "Stäppvalpen",
       "start": "2027-05-22T13:00:00+02:00",
@@ -4044,6 +4071,31 @@
           "namn": "Uppsala stadsteater",
           "url": "https://www.uppsalastadsteater.se/forestallningar/stappvalpen/",
           "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32628/134630/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "stadsteatern-136661",
+      "titel": "Bara två stjärnor",
+      "start": "2027-05-27T12:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern",
+        "rum": "Intiman"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Lunchföreställning",
+      "kallor": [
+        {
+          "id": "stadsteatern",
+          "namn": "Uppsala stadsteater",
+          "url": "https://www.uppsalastadsteater.se/forestallningar/bara-tva-stjarnor/",
+          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/30414/136661/"
         }
       ],
       "langvarig": false,

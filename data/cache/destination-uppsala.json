@@ -1,16 +1,4 @@
 {
-  "https://destinationuppsala.se/event/carl-johan-vallgren/": {
-    "nar": "Torsdag 22 oktober 2026, kl. 19.00",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://ukk.se/carl-johan-vallgren/",
-    "hamtad": "2026-10-08"
-  },
-  "https://destinationuppsala.se/event/bruch-och-brahms-uppsala-kammarorkester/": {
-    "nar": "22 oktober 2026",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://www.musikiuppland.se/konsert/bruch-och-brahms/",
-    "hamtad": "2026-10-08"
-  },
   "https://destinationuppsala.se/event/halloweenmarknad-pa-chokladfabriken/": {
     "nar": "24 oktober 2026, kl. 11.00–17.00",
     "pris": "",
@@ -203,6 +191,12 @@
     "arrangorensSida": "https://www.tickster.com/se/sv/events/4n9tyntpn3bh3pd/2026-11-07/chezidek-bewarehouse-allstars-rootsteppaz",
     "hamtad": "2026-10-21"
   },
+  "https://destinationuppsala.se/event/junior-sm-i-ledklattring/": {
+    "nar": "7–8 november 2026, kl. 09.00–18.00",
+    "pris": "Gratis",
+    "arrangorensSida": "https://climbalong.com/competitions/505/info",
+    "hamtad": "2026-10-23"
+  },
   "https://destinationuppsala.se/event/museidagen-2026/": {
     "nar": "8 november 2026",
     "pris": "",
@@ -268,6 +262,12 @@
     "pris": "Gratis",
     "arrangorensSida": "https://arkivensdag.nu/arrangemang/",
     "hamtad": "2026-10-21"
+  },
+  "https://destinationuppsala.se/event/comovement/": {
+    "nar": "14–15 november 2026, kl. 12.00–18.00 båda dagarna",
+    "pris": "Gratis",
+    "arrangorensSida": "https://www.instagram.com/watchmebake.se",
+    "hamtad": "2026-10-23"
   },
   "https://destinationuppsala.se/event/moonica-mac/": {
     "nar": "17 november 2026",
@@ -598,6 +598,12 @@
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://ukk.se/barnens-julvarld-med-nassim-al-fakir-2026/",
     "hamtad": "2026-10-14"
+  },
+  "https://destinationuppsala.se/event/hagaby-julmarknad-2026/": {
+    "nar": "12–13 december 2026, kl. 11.00–16.00 båda dagarna",
+    "pris": "Ej angivet",
+    "arrangorensSida": "https://www.kulturoasen.se/events/hagaby-julmarknad-2026/",
+    "hamtad": "2026-10-23"
   },
   "https://destinationuppsala.se/event/arvingarna-klart-det-ska-bli-jul-igen/": {
     "nar": "13 december 2026 kl. 19.30",

@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-22T05:21:40.525Z",
-  "antal": 281,
+  "hamtad": "2026-10-23T04:42:55.797Z",
+  "antal": 282,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -3505,127 +3505,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-babyrytmik-ht-2026-2026-10-22-1000",
-      "titel": "Babyrytmik",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        4
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/babyrytmik-ht-2026/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Dans",
-          "Litteratur/Skrivande",
-          "Musik"
-        ],
-        "malgrupp": [
-          "0-4 år"
-        ],
-        "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
-      },
-      "start": "2026-10-22T10:00:00+02:00",
-      "slut": "2026-10-22T11:00:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-torsdagsbibblan-2026-10-22-1500",
-      "titel": "Torsdagsbibblan",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib",
-        "rum": "temaverkstaden"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        5,
-        12
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagsbibblan/",
-          "arrangor": "https://bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande",
-          "Litteratur/Skrivande"
-        ],
-        "malgrupp": [
-          "5-6 år",
-          "7-9 år",
-          "10-12 år"
-        ],
-        "adress": "Gottsundabiblioteket, temaverkstaden, Valthornsvägen 11, Uppsala"
-      },
-      "start": "2026-10-22T15:00:00+02:00",
-      "slut": "2026-10-22T16:00:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-torsdagshaeng-2026-10-22-1600",
-      "titel": "Torsdagshäng!",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        12
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/torsdagshaeng/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande",
-          "Litteratur/Skrivande",
-          "Övrigt",
-          "Vetenskap/Samhälle"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år"
-        ],
-        "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
-      },
-      "start": "2026-10-22T16:00:00+02:00",
-      "slut": "2026-10-22T17:00:00+02:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-fredagsmys-2026-2026-10-23-1400",
       "titel": "Fredagsmys",
       "plats": {
@@ -6906,6 +6785,86 @@
       "langvarig": false
     },
     {
+      "id": "kubik-hisnande-halloweenklaettring-2026-10-28-1600",
+      "titel": "Hisnande Halloweenklättring",
+      "plats": {
+        "namn": "KFUM Alnäs friluftsgård",
+        "id": "kubik-plats-kfum-alnäs-friluftsgård"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        25
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hisnande-halloweenklaettring/",
+          "arrangor": "https://www.facebook.com/share/1EhF5J3cXN/?mibextid=wwXIfr"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Klättring/Parkour"
+        ],
+        "malgrupp": [
+          "10-12 år",
+          "13-15 år",
+          "16-18 år",
+          "19-25 år"
+        ],
+        "adress": "KFUM Alnäs friluftsgård, Mälarvägen 14-16, Uppsala"
+      },
+      "start": "2026-10-28T16:00:00+01:00",
+      "slut": "2026-10-28T20:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-levande-rollspel-foer-hbtqi-unga-2026-10-28-1600",
+      "titel": "Levande rollspel för hbtqi-unga",
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        25
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/levande-rollspel-foer-hbtqi-unga/",
+          "arrangor": "https://www.instagram.com/rfsuuppsala?vrfl=b2hnM21zNmg2emg2"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande",
+          "Teater",
+          "Övrigt"
+        ],
+        "malgrupp": [
+          "13-15 år",
+          "16-18 år",
+          "19-25 år"
+        ]
+      },
+      "start": "2026-10-28T16:00:00+01:00",
+      "slut": "2026-10-28T19:00:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-utflykt-till-observatoriet-med-graenby-allaktivitetshus-2026-10-28-1800",
       "titel": "Utflykt till Observatoriet med Gränby allaktivitetshus",
       "plats": {
@@ -9276,6 +9235,46 @@
       "langvarig": false
     },
     {
+      "id": "kubik-levande-rollspel-foer-hbtqi-unga-2026-11-18-1600",
+      "titel": "Levande rollspel för hbtqi-unga",
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        25
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/levande-rollspel-foer-hbtqi-unga/",
+          "arrangor": "https://www.instagram.com/rfsuuppsala?vrfl=b2hnM21zNmg2emg2"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande",
+          "Teater",
+          "Övrigt"
+        ],
+        "malgrupp": [
+          "13-15 år",
+          "16-18 år",
+          "19-25 år"
+        ]
+      },
+      "start": "2026-11-18T16:00:00+01:00",
+      "slut": "2026-11-18T19:00:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-babyrytmik-ht-2026-2026-11-19-1000",
       "titel": "Babyrytmik",
       "plats": {
@@ -10459,6 +10458,46 @@
       },
       "start": "2026-12-02T10:00:00+01:00",
       "slut": "2026-12-02T10:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-levande-rollspel-foer-hbtqi-unga-2026-12-02-1600",
+      "titel": "Levande rollspel för hbtqi-unga",
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "scen",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        25
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/levande-rollspel-foer-hbtqi-unga/",
+          "arrangor": "https://www.instagram.com/rfsuuppsala?vrfl=b2hnM21zNmg2emg2"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande",
+          "Teater",
+          "Övrigt"
+        ],
+        "malgrupp": [
+          "13-15 år",
+          "16-18 år",
+          "19-25 år"
+        ]
+      },
+      "start": "2026-12-02T16:00:00+01:00",
+      "slut": "2026-12-02T19:00:00+01:00",
       "langvarig": false
     },
     {

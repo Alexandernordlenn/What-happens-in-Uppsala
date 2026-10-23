@@ -1,37 +1,9 @@
 {
   "kalla": "Bror Hjorths Hus",
   "webbsida": "https://brorhjorthshus.se/",
-  "hamtad": "2026-10-22T05:23:03.839Z",
+  "hamtad": "2026-10-23T04:44:18.922Z",
   "antal": 51,
   "evenemang": [
-    {
-      "id": "bror-hjorths-hus-20573",
-      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
-      "start": "2026-10-22T14:00:00+02:00",
-      "slut": "2026-10-22T14:30:00+02:00",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "bror-hjorths-hus",
-          "namn": "Bror Hjorths Hus",
-          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-10-22/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Visning"
-        ],
-        "adress": "Norbyvägen 26, 752 39"
-      }
-    },
     {
       "id": "bror-hjorths-hus-20574",
       "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
@@ -653,6 +625,34 @@
       "fakta": {
         "kategorier": [
           "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20666",
+      "titel": "Konstverkstad för vuxna",
+      "start": "2026-11-12T18:15:00+01:00",
+      "slut": "2026-11-12T19:45:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "aktivitet",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/konstverkstad-for-vuxna-nov-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Verkstad/kurs"
         ],
         "adress": "Norbyvägen 26, 752 39"
       }

@@ -1,143 +1,4 @@
 {
-  "https://www.tickster.com/se/sv/events/78lvkn39wy9c4xr/2026-10-19/45-e-uppsala-kortfilmfestival-19-25-oktober": {
-    "titel": "45:e Uppsala Kortfilmfestival 19-25 oktober",
-    "start": "2026-10-19T13:00:00",
-    "slut": "2026-10-25T23:59:00",
-    "platsId": "h3j3ba8g6w72cuv",
-    "plats": "Slottsbiografen",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "59ytvzryd59gag9",
-    "arrangor": "Uppsala Filmfestival",
-    "kop": "https://secure.tickster.com/sv/78lvkn39wy9c4xr",
-    "status": "",
-    "hamtad": "2026-10-10"
-  },
-  "https://www.tickster.com/se/sv/events/hkp07hwp8kt2uuj/2026-10-22/installt-kulturfrukost-ett-kulturliv-for-alla": {
-    "titel": "Inställt: Kulturfrukost – Ett kulturliv för alla",
-    "start": "2026-10-22T08:00:00",
-    "slut": "2026-10-22T09:30:00",
-    "platsId": "x41r2gewzkkwxy0",
-    "plats": "Uppsala Konsert & Kongress, Restaurangen/Sal D",
-    "ort": "Uppsala",
-    "lat": 59.8611,
-    "lng": 17.6458,
-    "taggar": [
-      "samtal"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": null,
-    "status": "Evenemanget är inställt!",
-    "hamtad": "2026-10-09"
-  },
-  "https://www.tickster.com/se/sv/events/c8m8w11rjd7nzgt/2026-10-22/det-ideala-beredd-pa-vada": {
-    "titel": "Det idéala – Beredd på vadå?",
-    "start": "2026-10-22T18:30:00",
-    "slut": "2026-10-22T20:30:00",
-    "platsId": "x41r2gewzkkwxy0",
-    "plats": "Uppsala Konsert & Kongress, Restaurangen/Sal D",
-    "ort": "Uppsala",
-    "lat": 59.8611,
-    "lng": 17.6458,
-    "taggar": [
-      "samhälle"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/c8m8w11rjd7nzgt",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/1phnynvyr0mm2m6/2026-10-22/textildetektiv-katarina-jagellonicas-tid": {
-    "titel": "Textildetektiv: Katarina Jagellonicas tid",
-    "start": "2026-10-22T18:30:00",
-    "slut": "2026-10-22T19:30:00",
-    "platsId": "kl3uktc5vbvyj38",
-    "plats": "Uppsala slottshistoriska",
-    "ort": "Uppsala",
-    "lat": 59.8542,
-    "lng": 17.6351,
-    "taggar": [],
-    "arrangorId": "6aj6nunx2afputb",
-    "arrangor": "Uppsala Slottshistoriska",
-    "kop": "https://secure.tickster.com/sv/1phnynvyr0mm2m6",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/y4hj8v8yb4regmn/2026-10-22/livepodd-om-vaxternas-intelligens": {
-    "titel": "Livepodd – om växternas intelligens",
-    "start": "2026-10-22T19:00:00",
-    "slut": "2026-10-22T20:00:00",
-    "platsId": "x01kba461v6968w",
-    "plats": "Uppsala konstmuseum",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "6x97by0jdkknn6z",
-    "arrangor": "Uppsala konstmuseum",
-    "kop": "https://secure.tickster.com/sv/y4hj8v8yb4regmn",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/tfwjdg6m57bjy8b/2026-10-22/bruch-och-brahms-uppsala-kammarorkester": {
-    "titel": "Bruch och Brahms – Uppsala Kammarorkester",
-    "start": "2026-10-22T19:00:00",
-    "slut": "2026-10-22T21:00:00",
-    "platsId": "v3gu3ky2h68ytd5",
-    "plats": "Uppsala Konsert & Kongress, Stora salen",
-    "ort": "Uppsala",
-    "lat": 59.8617,
-    "lng": 17.6469,
-    "taggar": [
-      "klassiskt"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/tfwjdg6m57bjy8b",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/15z21nf4c9ye6mx/2026-10-22/carl-johan-vallgren": {
-    "titel": "Carl-Johan Vallgren",
-    "start": "2026-10-22T19:00:00",
-    "slut": "2026-10-22T20:30:00",
-    "platsId": "y90dvlpxyewf4h0",
-    "plats": "Uppsala Konsert & Kongress, Sal B",
-    "ort": "Uppsala",
-    "lat": 59.8586,
-    "lng": 17.6389,
-    "taggar": [],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/15z21nf4c9ye6mx",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/1n30wv8krbb0r9t/2026-10-22/daniel-lemma-katalins-bakficka": {
-    "titel": "Daniel Lemma - Katalins Bakficka",
-    "start": "2026-10-22T20:00:00",
-    "slut": "2026-10-22T23:00:00",
-    "platsId": "08109wbnt3jawkn",
-    "plats": "Katalin, Uppsala",
-    "ort": "Uppsala",
-    "lat": 59.8621,
-    "lng": 17.6523,
-    "taggar": [
-      "katalinandallthatjazz",
-      "katalinuppsala",
-      "katalinsbakficka",
-      "daniellemma"
-    ],
-    "arrangorId": "nbgw5rza2z1e9xu",
-    "arrangor": "Katalin",
-    "kop": "https://secure.tickster.com/sv/1n30wv8krbb0r9t",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/vhfnpvybld9u485/2026-10-23/olprovning-23-oktober": {
     "titel": "Ölprovning - 23 oktober",
     "start": "2026-10-23T18:00:00",
@@ -1473,26 +1334,6 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
-  "https://www.tickster.com/se/sv/events/317cpfzb54vve17/2026-11-07/the-daytrippers-bakfickan": {
-    "titel": "The DayTrippers – Bakfickan",
-    "start": "2026-11-07T20:00:00",
-    "slut": "2026-11-07T23:00:00",
-    "platsId": "08109wbnt3jawkn",
-    "plats": "Katalin, Uppsala",
-    "ort": "Uppsala",
-    "lat": 59.8621,
-    "lng": 17.6523,
-    "taggar": [
-      "katalinsbakficka",
-      "bakfickan",
-      "thedaytrippers"
-    ],
-    "arrangorId": "nbgw5rza2z1e9xu",
-    "arrangor": "Katalin",
-    "kop": "https://secure.tickster.com/sv/317cpfzb54vve17",
-    "status": "",
-    "hamtad": "2026-10-01"
-  },
   "https://www.tickster.com/se/sv/events/4n9tyntpn3bh3pd/2026-11-07/chezidek-bewarehouse-allstars-rootsteppaz": {
     "titel": "CHEZIDEK | BEWAREHOUSE ALLSTARS | ROOTSTEPPAZ",
     "start": "2026-11-07T20:00:00",
@@ -2027,6 +1868,22 @@
     "kop": "https://secure.tickster.com/sv/6rd9lm2gtxk9ugn",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/618l7xcrt50lw63/2026-11-19/visning-drottning-kristina-and-konstverket-fly-fri": {
+    "titel": "Visning: Drottning Kristina & konstverket Fly fri",
+    "start": "2026-11-19T18:30:00",
+    "slut": "2026-11-19T19:30:00",
+    "platsId": "kl3uktc5vbvyj38",
+    "plats": "Uppsala slottshistoriska",
+    "ort": "Uppsala",
+    "lat": 59.8542,
+    "lng": 17.6351,
+    "taggar": [],
+    "arrangorId": "6aj6nunx2afputb",
+    "arrangor": "Uppsala Slottshistoriska",
+    "kop": "https://secure.tickster.com/sv/618l7xcrt50lw63",
+    "status": "",
+    "hamtad": "2026-10-23"
   },
   "https://www.tickster.com/se/sv/events/w4ml1mwgut1xby1/2026-11-19/konsert-alva-press-kvartett": {
     "titel": "Konsert: Alva Press Kvartett",
@@ -5336,6 +5193,33 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/6ynf73xmc9c0pu8/2027-02-26/tingsek": {
+    "titel": "Tingsek",
+    "start": "2027-02-26T20:00:00",
+    "slut": "2027-02-26T22:00:00",
+    "platsId": "l0h5xlh16zztxwa",
+    "plats": "Katalin and all that Jazz",
+    "ort": "Uppsala",
+    "lat": 59.8595,
+    "lng": 17.6465,
+    "taggar": [
+      "katalinlive",
+      "uppsala",
+      "katalin",
+      "musik",
+      "konsert",
+      "kaliber live",
+      "tingsek",
+      "soul",
+      "pop",
+      "pange"
+    ],
+    "arrangorId": "gf5dj34fjr9ddw5",
+    "arrangor": "Kaliber Live",
+    "kop": "https://secure.tickster.com/sv/6ynf73xmc9c0pu8",
+    "status": "",
+    "hamtad": "2026-10-23"
+  },
   "https://www.tickster.com/se/sv/events/5xgw2w4blu4rp07/2027-02-27/no-business-like-show-business": {
     "titel": "No Business Like Show Business",
     "start": "2027-02-27T17:00:00",
@@ -5885,6 +5769,26 @@
     "kop": "https://secure.tickster.com/sv/m7xzavt7gdp4za1",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/317cpfzb54vve17/2027-04-24/the-daytrippers-bakfickan": {
+    "titel": "The DayTrippers – Bakfickan",
+    "start": "2027-04-24T20:00:00",
+    "slut": "2027-04-24T23:00:00",
+    "platsId": "08109wbnt3jawkn",
+    "plats": "Katalin, Uppsala",
+    "ort": "Uppsala",
+    "lat": 59.8621,
+    "lng": 17.6523,
+    "taggar": [
+      "katalinsbakficka",
+      "bakfickan",
+      "thedaytrippers"
+    ],
+    "arrangorId": "nbgw5rza2z1e9xu",
+    "arrangor": "Katalin",
+    "kop": "https://secure.tickster.com/sv/317cpfzb54vve17",
+    "status": "",
+    "hamtad": "2026-10-23"
   },
   "https://www.tickster.com/se/sv/events/570k06nhl9cgz3h/2027-04-25/hipphipp-live": {
     "titel": "HippHipp Live!",

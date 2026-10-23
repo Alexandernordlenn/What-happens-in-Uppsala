@@ -1,43 +1,9 @@
 {
   "kalla": "Biotopia",
   "webbsida": "https://biotopia.nu/kalender/",
-  "hamtad": "2026-10-22T05:23:05.064Z",
+  "hamtad": "2026-10-23T04:44:20.270Z",
   "antal": 27,
   "evenemang": [
-    {
-      "id": "biotopia-2290",
-      "titel": "Torsdagskul: Bygga och flya drake!",
-      "start": "2026-10-22",
-      "slut": null,
-      "plats": {
-        "namn": "Biotopia",
-        "id": "biotopia"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        3,
-        4
-      ],
-      "kallor": [
-        {
-          "id": "biotopia",
-          "namn": "Biotopia",
-          "url": "https://biotopia.nu/?post_type=post&p=2290"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "På Biotopia",
-          "För barn",
-          "Med Biotopia",
-          "Torsdagskul"
-        ]
-      }
-    },
     {
       "id": "biotopia-1189",
       "titel": "Fågelholkar – höstkoll och nybyggen",
@@ -435,6 +401,35 @@
           "Familjeaktivitet",
           "För barn",
           "Med Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2457",
+      "titel": "Invigning av Kulturveckan 2026!",
+      "start": "2026-11-09T10:00:00+01:00",
+      "slut": "2026-11-09T11:30:00+01:00",
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2457"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "På Biotopia",
+          "Tillgängliga aktiviteter"
         ]
       }
     },
