@@ -1,101 +1,13 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-23T04:44:01.994Z",
-  "antal": 120,
+  "hamtad": "2026-10-24T08:54:58.409Z",
+  "antal": 118,
   "evenemang": [
-    {
-      "id": "ukk-46215",
-      "titel": "Uppsala Kortfilmfestival",
-      "start": "2026-10-23T10:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/uppsala-kortfilmfestival/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "samtal"
-        ],
-        "taggar": []
-      }
-    },
-    {
-      "id": "ukk-28015",
-      "titel": "Grymlings – Det bästa för dig",
-      "start": "2026-10-23T19:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/grymlings-det-basta-for-dig/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "pop-rock"
-        ],
-        "taggar": []
-      }
-    },
-    {
-      "id": "ukk-44564",
-      "titel": "Ellas Kapell – Jazzhörnan",
-      "start": "2026-10-23T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/ellas-kapell-jazzhornan/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "jazz"
-        ],
-        "taggar": [
-          "student",
-          "mhv",
-          "jazz"
-        ]
-      }
-    },
     {
       "id": "ukk-46228",
       "titel": "Uppsala Kortfilmfestival",
-      "start": "2026-10-24T10:00:00+02:00",
+      "start": "2026-10-24T11:00:00+02:00",
       "slut": null,
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
@@ -150,9 +62,9 @@
           "klassiskt"
         ],
         "taggar": [
+          "miu",
           "hostlov",
-          "familj",
-          "miu"
+          "familj"
         ]
       }
     },
@@ -275,7 +187,6 @@
           "humor"
         ],
         "taggar": [
-          "aktuellt",
           "humor"
         ]
       }
@@ -283,7 +194,7 @@
     {
       "id": "ukk-46229",
       "titel": "Uppsala Kortfilmfestival",
-      "start": "2026-10-25T10:00:00+01:00",
+      "start": "2026-10-25T11:00:00+01:00",
       "slut": null,
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
@@ -337,10 +248,10 @@
           "klassiskt"
         ],
         "taggar": [
-          "familj",
-          "student",
           "mhv",
-          "hostlov"
+          "hostlov",
+          "familj",
+          "student"
         ]
       }
     },
@@ -433,10 +344,10 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "aktuellt",
           "miu",
-          "hostlov"
+          "hostlov",
+          "familj",
+          "aktuellt"
         ]
       }
     },
@@ -585,8 +496,8 @@
       "fakta": {
         "kategorier": [
           "jazz",
-          "barn",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "barn"
         ],
         "taggar": [
           "aktuellt",
@@ -621,10 +532,10 @@
           "jazz"
         ],
         "taggar": [
+          "jazz",
           "familj",
           "aktuellt",
-          "hostlov",
-          "jazz"
+          "hostlov"
         ]
       }
     },
@@ -866,8 +777,8 @@
           "barn"
         ],
         "taggar": [
-          "aktuellt",
-          "familj"
+          "familj",
+          "aktuellt"
         ]
       }
     },
@@ -1049,7 +960,6 @@
           "dans"
         ],
         "taggar": [
-          "aktuellt",
           "dans",
           "familj"
         ]
@@ -1112,10 +1022,10 @@
           "nostalgi-tribute"
         ],
         "taggar": [
-          "jazz",
-          "lunchkonsert",
           "student",
-          "mhv"
+          "mhv",
+          "jazz",
+          "lunchkonsert"
         ]
       }
     },
@@ -1204,8 +1114,7 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "familj"
         ]
       }
     },
@@ -1235,7 +1144,6 @@
           "barn"
         ],
         "taggar": [
-          "aktuellt",
           "familj"
         ]
       }
@@ -1297,8 +1205,8 @@
           "humor"
         ],
         "taggar": [
-          "publikfavoriter",
-          "humor"
+          "humor",
+          "publikfavoriter"
         ]
       }
     },
@@ -1540,7 +1448,7 @@
           "pop-rock"
         ],
         "taggar": [
-          "aktuellt",
+          "publikfavoriter",
           "student",
           "mhv"
         ]
@@ -1660,13 +1568,14 @@
       "fakta": {
         "kategorier": [
           "dans",
-          "barn",
           "klassiskt",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "barn"
         ],
         "taggar": [
-          "dans",
-          "familj"
+          "familj",
+          "jul",
+          "dans"
         ]
       }
     },
@@ -1728,7 +1637,9 @@
           "hantverk-marknader",
           "festligheter-hogtider"
         ],
-        "taggar": []
+        "taggar": [
+          "jul"
+        ]
       }
     },
     {
@@ -1757,7 +1668,9 @@
           "dans",
           "festligheter-hogtider"
         ],
-        "taggar": []
+        "taggar": [
+          "jul"
+        ]
       }
     },
     {
@@ -1787,7 +1700,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "publikfavoriter"
+          "publikfavoriter",
+          "jul"
         ]
       }
     },
@@ -1814,11 +1728,13 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "klassiskt"
         ],
         "taggar": [
           "aktuellt",
-          "mhv"
+          "mhv",
+          "jul"
         ]
       }
     },
@@ -1848,7 +1764,9 @@
           "festligheter-hogtider",
           "dans"
         ],
-        "taggar": []
+        "taggar": [
+          "jul"
+        ]
       }
     },
     {
@@ -1877,7 +1795,9 @@
           "humor",
           "festligheter-hogtider"
         ],
-        "taggar": []
+        "taggar": [
+          "jul"
+        ]
       }
     },
     {
@@ -1909,7 +1829,8 @@
         ],
         "taggar": [
           "student",
-          "mhv"
+          "mhv",
+          "jul"
         ]
       }
     },
@@ -1941,7 +1862,8 @@
         ],
         "taggar": [
           "publikfavoriter",
-          "aktuellt"
+          "aktuellt",
+          "jul"
         ]
       }
     },
@@ -1971,8 +1893,8 @@
           "barn"
         ],
         "taggar": [
-          "publikfavoriter",
-          "familj"
+          "familj",
+          "publikfavoriter"
         ]
       }
     },
@@ -2004,6 +1926,7 @@
         ],
         "taggar": [
           "mhv",
+          "jul",
           "jazz",
           "aktuellt",
           "student"
@@ -2038,7 +1961,7 @@
         ],
         "taggar": [
           "familj",
-          "aktuellt"
+          "jul"
         ]
       }
     },
@@ -2069,6 +1992,7 @@
           "dans"
         ],
         "taggar": [
+          "jul",
           "publikfavoriter",
           "aktuellt"
         ]
@@ -2101,10 +2025,11 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "aktuellt",
           "student",
+          "jul",
           "familj",
-          "publikfavoriter",
-          "aktuellt"
+          "publikfavoriter"
         ]
       }
     },
@@ -2131,10 +2056,12 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "jazz",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "jazz"
         ],
-        "taggar": []
+        "taggar": [
+          "jul"
+        ]
       }
     },
     {
@@ -2164,7 +2091,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "publikfavoriter"
+          "publikfavoriter",
+          "jul"
         ]
       }
     },
@@ -2191,10 +2119,12 @@
       "installd": false,
       "fakta": {
         "kategorier": [
+          "festligheter-hogtider",
           "klassiskt",
           "barn"
         ],
         "taggar": [
+          "jul",
           "familj",
           "aktuellt"
         ]
@@ -2202,7 +2132,7 @@
     },
     {
       "id": "ukk-37190",
-      "titel": "Lunchkonsert – Frank Sinatra Livet och musiken Julspecial",
+      "titel": "Lunchkonsert – Frank Sinatra – Livet och musiken – Julspecial",
       "start": "2026-12-18T12:15:00+01:00",
       "slut": null,
       "plats": {
@@ -2223,9 +2153,12 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "nostalgi-tribute"
+          "nostalgi-tribute",
+          "jazz",
+          "festligheter-hogtider"
         ],
         "taggar": [
+          "jul",
           "jazz",
           "lunchkonsert",
           "student",
@@ -2321,8 +2254,8 @@
           "jazz"
         ],
         "taggar": [
-          "publikfavoriter",
-          "aktuellt"
+          "jul",
+          "publikfavoriter"
         ]
       }
     },
@@ -2349,9 +2282,11 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "klassiskt"
+          "klassiskt",
+          "festligheter-hogtider"
         ],
         "taggar": [
+          "jul",
           "miu"
         ]
       }
@@ -2794,8 +2729,7 @@
           "jazz"
         ],
         "taggar": [
-          "publikfavoriter",
-          "aktuellt"
+          "publikfavoriter"
         ]
       }
     },
@@ -2825,8 +2759,8 @@
           "humor"
         ],
         "taggar": [
-          "humor",
-          "aktuellt"
+          "aktuellt",
+          "humor"
         ]
       }
     },
@@ -2886,8 +2820,7 @@
           "humor"
         ],
         "taggar": [
-          "humor",
-          "aktuellt"
+          "humor"
         ]
       }
     },
@@ -3226,7 +3159,7 @@
     },
     {
       "id": "ukk-46471",
-      "titel": "Uppsala Vin & Deli 2027 – Upptäck. Smaka. Njut",
+      "titel": "Uppsala Vin & Deli 2027 – Uppsalas stora vinfest är tillbaka!",
       "start": "2027-03-19T14:00:00+01:00",
       "slut": null,
       "plats": {
@@ -3250,12 +3183,15 @@
           "festligheter-hogtider",
           "hantverk-marknader"
         ],
-        "taggar": []
+        "taggar": [
+          "publikfavoriter",
+          "aktuellt"
+        ]
       }
     },
     {
       "id": "ukk-46519",
-      "titel": "Uppsala Vin & Deli 2027 – Upptäck. Smaka. Njut",
+      "titel": "Uppsala Vin & Deli 2027 – Uppsalas stora vinfest är tillbaka!",
       "start": "2027-03-20T12:00:00+01:00",
       "slut": null,
       "plats": {
@@ -3279,7 +3215,10 @@
           "festligheter-hogtider",
           "hantverk-marknader"
         ],
-        "taggar": []
+        "taggar": [
+          "aktuellt",
+          "publikfavoriter"
+        ]
       }
     },
     {
@@ -3339,6 +3278,36 @@
           "pop-rock"
         ],
         "taggar": []
+      }
+    },
+    {
+      "id": "ukk-46603",
+      "titel": "Marcus Berggren – Hittar hem",
+      "start": "2027-04-02T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/marcus-berggren-hittar-hem/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor"
+        ]
       }
     },
     {

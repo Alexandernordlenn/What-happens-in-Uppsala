@@ -1,34 +1,9 @@
 {
   "kalla": "Uppsala Missionskyrka",
   "webbsida": "https://www.uppsalamissionskyrka.se/",
-  "hamtad": "2026-10-23T04:44:14.934Z",
-  "antal": 56,
+  "hamtad": "2026-10-24T08:55:10.852Z",
+  "antal": 55,
   "evenemang": [
-    {
-      "id": "missionskyrkan-13063",
-      "titel": "Fredagsträffen: Ett Ord på vägen Göran Alderborn",
-      "start": "2026-10-23T14:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/fredagstraffen-ett-ord-pa-vagen-goran-alderborn/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": []
-      }
-    },
     {
       "id": "missionskyrkan-13212",
       "titel": "Konsert Sönerna",

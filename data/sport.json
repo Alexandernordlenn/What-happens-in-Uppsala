@@ -1,58 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-23T04:43:45.102Z",
-  "antal": 133,
+  "hamtad": "2026-10-24T08:54:42.357Z",
+  "antal": 130,
   "evenemang": [
-    {
-      "id": "sport-swehockey-90131095",
-      "titel": "Almtuna IS – Vimmerby HC",
-      "start": "2026-10-23T19:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Gränby ishall",
-        "id": "granbyishall"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Ishockey",
-      "liga": "HockeyAllsvenskan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
-          "biljetter": "https://www.almtuna.com/biljettinformation"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-profixio-32636880",
-      "titel": "Uppsala Basket – Umeå Basket",
-      "start": "2026-10-23T19:04:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Basket",
-      "liga": "Basketligan herr",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid27640/match/32636880"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-sportomedia-6530026",
       "titel": "IK Sirius – AIK",
@@ -508,54 +459,6 @@
           "id": "sport",
           "namn": "Profixio",
           "url": "https://www.profixio.com/app/leagueid27644/match/32682433"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-profixio-2026-11-07-IK-Sirius-H-rn-sands-AIK",
-      "titel": "IK Sirius – Härnösands AIK (dam)",
-      "start": "2026-11-07T16:45:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Bandy",
-      "liga": "Allsvenskan dam",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1588764?t=schedule"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-profixio-2026-11-08-Uppsala-BOIS-H-rn-sands-AIK",
-      "titel": "Uppsala BOIS – Härnösands AIK (dam)",
-      "start": "2026-11-08T11:30:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Serwenthallen",
-        "id": "serwenthallen"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Bandy",
-      "liga": "Allsvenskan dam",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1590944?t=schedule"
         }
       ],
       "langvarig": false,
@@ -1718,6 +1621,30 @@
           "id": "sport",
           "namn": "Profixio",
           "url": "https://www.profixio.com/app/leagueid27640/match/32636947"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2027-01-02-IK-Sirius-by-Tjureda-IF",
+      "titel": "IK Sirius – Åby/Tjureda IF",
+      "start": "2027-01-02T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "sport": "Bandy",
+      "liga": "Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584303?t=schedule"
         }
       ],
       "langvarig": false,

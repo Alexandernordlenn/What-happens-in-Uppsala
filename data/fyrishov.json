@@ -1,36 +1,9 @@
 {
   "kalla": "Fyrishov",
   "webbsida": "https://fyrishov.se/",
-  "hamtad": "2026-10-23T04:44:23.910Z",
-  "antal": 56,
+  "hamtad": "2026-10-24T08:55:18.525Z",
+  "antal": 55,
   "evenemang": [
-    {
-      "id": "fyrishov-26697",
-      "titel": "Uppsala Basket – Umeå Basket",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Hall A"
-      },
-      "kategori": "sport",
-      "sport": "Basket",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/uppsala-basket-umea-basket-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-23T19:04:00+02:00",
-      "slut": "2026-10-23T20:30:00+02:00"
-    },
     {
       "id": "fyrishov-27279",
       "titel": "Retro- & antikmässa",

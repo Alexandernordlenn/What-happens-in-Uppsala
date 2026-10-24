@@ -2,10 +2,6 @@
   "stadsteatern": {
     "antal": [
       {
-        "datum": "2026-10-10",
-        "antal": 179
-      },
-      {
         "datum": "2026-10-11",
         "antal": 177
       },
@@ -56,21 +52,21 @@
       {
         "datum": "2026-10-23",
         "antal": 169
+      },
+      {
+        "datum": "2026-10-24",
+        "antal": 166
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
-      "antal": 169,
+      "datum": "2026-10-24",
+      "antal": 166,
       "status": "ok"
     }
   },
   "destination-uppsala": {
     "antal": [
-      {
-        "datum": "2026-10-10",
-        "antal": 183
-      },
       {
         "datum": "2026-10-11",
         "antal": 181
@@ -122,21 +118,21 @@
       {
         "datum": "2026-10-23",
         "antal": 180
+      },
+      {
+        "datum": "2026-10-24",
+        "antal": 182
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
-      "antal": 180,
+      "datum": "2026-10-24",
+      "antal": 182,
       "status": "ok"
     }
   },
   "tickster": {
     "antal": [
-      {
-        "datum": "2026-10-09",
-        "antal": 347
-      },
       {
         "datum": "2026-10-10",
         "antal": 337
@@ -188,11 +184,15 @@
       {
         "datum": "2026-10-23",
         "antal": 306
+      },
+      {
+        "datum": "2026-10-24",
+        "antal": 306
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
+      "datum": "2026-10-24",
       "antal": 306,
       "status": "ok"
     }
@@ -258,17 +258,13 @@
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
+      "datum": "2026-10-24",
       "antal": 0,
       "status": "noll"
     }
   },
   "kubik": {
     "antal": [
-      {
-        "datum": "2026-10-10",
-        "antal": 287
-      },
       {
         "datum": "2026-10-11",
         "antal": 280
@@ -320,21 +316,21 @@
       {
         "datum": "2026-10-23",
         "antal": 282
+      },
+      {
+        "datum": "2026-10-24",
+        "antal": 279
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
-      "antal": 282,
+      "datum": "2026-10-24",
+      "antal": 279,
       "status": "ok"
     }
   },
   "sport": {
     "antal": [
-      {
-        "datum": "2026-10-10",
-        "antal": 141
-      },
       {
         "datum": "2026-10-11",
         "antal": 140
@@ -386,21 +382,21 @@
       {
         "datum": "2026-10-23",
         "antal": 133
+      },
+      {
+        "datum": "2026-10-24",
+        "antal": 130
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
-      "antal": 133,
+      "datum": "2026-10-24",
+      "antal": 130,
       "status": "ok"
     }
   },
   "bibliotek": {
     "antal": [
-      {
-        "datum": "2026-10-09",
-        "antal": 431
-      },
       {
         "datum": "2026-10-10",
         "antal": 431
@@ -452,11 +448,15 @@
       {
         "datum": "2026-10-23",
         "antal": 327
+      },
+      {
+        "datum": "2026-10-24",
+        "antal": 327
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
+      "datum": "2026-10-24",
       "antal": 327,
       "status": "ok"
     }
@@ -494,12 +494,16 @@
       {
         "datum": "2026-10-23",
         "antal": 94
+      },
+      {
+        "datum": "2026-10-24",
+        "antal": 98
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
-      "antal": 94,
+      "datum": "2026-10-24",
+      "antal": 98,
       "status": "ok"
     }
   },
@@ -536,12 +540,16 @@
       {
         "datum": "2026-10-23",
         "antal": 56
+      },
+      {
+        "datum": "2026-10-24",
+        "antal": 55
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
-      "antal": 56,
+      "datum": "2026-10-24",
+      "antal": 55,
       "status": "ok"
     }
   },
@@ -578,12 +586,16 @@
       {
         "datum": "2026-10-23",
         "antal": 51
+      },
+      {
+        "datum": "2026-10-24",
+        "antal": 49
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
-      "antal": 51,
+      "datum": "2026-10-24",
+      "antal": 49,
       "status": "ok"
     }
   },
@@ -620,12 +632,16 @@
       {
         "datum": "2026-10-23",
         "antal": 27
+      },
+      {
+        "datum": "2026-10-24",
+        "antal": 31
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
-      "antal": 27,
+      "datum": "2026-10-24",
+      "antal": 31,
       "status": "ok"
     }
   },
@@ -658,11 +674,15 @@
       {
         "datum": "2026-10-23",
         "antal": 19
+      },
+      {
+        "datum": "2026-10-24",
+        "antal": 19
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
+      "datum": "2026-10-24",
       "antal": 19,
       "status": "ok"
     }
@@ -696,12 +716,16 @@
       {
         "datum": "2026-10-23",
         "antal": 120
+      },
+      {
+        "datum": "2026-10-24",
+        "antal": 118
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
-      "antal": 120,
+      "datum": "2026-10-24",
+      "antal": 118,
       "status": "ok"
     }
   },
@@ -734,12 +758,16 @@
       {
         "datum": "2026-10-23",
         "antal": 56
+      },
+      {
+        "datum": "2026-10-24",
+        "antal": 55
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-23",
-      "antal": 56,
+      "datum": "2026-10-24",
+      "antal": 55,
       "status": "ok"
     }
   }

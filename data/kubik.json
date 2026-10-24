@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-23T04:42:55.797Z",
-  "antal": 282,
+  "hamtad": "2026-10-24T08:53:53.670Z",
+  "antal": 279,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -3505,123 +3505,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-fredagsmys-2026-2026-10-23-1400",
-      "titel": "Fredagsmys",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fredagsmys-2026/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Dans",
-          "Litteratur/Skrivande",
-          "Musik",
-          "Teater",
-          "Övrigt"
-        ],
-        "malgrupp": [
-          "0-4 år",
-          "5-6 år"
-        ],
-        "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
-      },
-      "start": "2026-10-23T14:00:00+02:00",
-      "slut": "2026-10-23T14:30:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-laeskig-sagostund-2026-10-23-1400",
-      "titel": "Läskig sagostund",
-      "plats": {
-        "namn": "Sävja bibliotek",
-        "id": "savjabib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/laeskig-sagostund/",
-          "arrangor": "http://bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Litteratur/Skrivande"
-        ],
-        "malgrupp": [
-          "0-4 år",
-          "5-6 år"
-        ],
-        "adress": "Sävjabiblioteket, Västgötaresan 133, Uppsala"
-      },
-      "start": "2026-10-23T14:00:00+02:00",
-      "slut": "2026-10-23T15:00:00+02:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-braedspelskvaell-2026-10-23-1700",
-      "titel": "Brädspelskväll",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib",
-        "rum": "Kulturpunkten"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        99
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/braedspelskvaell/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Övrigt"
-        ],
-        "malgrupp": [
-          "För alla åldrar"
-        ],
-        "adress": "Gottsundabiblioteket, Kulturpunkten, Valthornsvägen 11, Uppsala"
-      },
-      "start": "2026-10-23T17:00:00+02:00",
-      "slut": "2026-10-23T19:00:00+02:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-hoestlovskul-formstarkt-och-eldigt",
       "titel": "Höstlovskul: Formstarkt och eldigt",
       "plats": {
@@ -6746,45 +6629,6 @@
       "langvarig": false
     },
     {
-      "id": "kubik-hoestlov-hos-designlabbet-stenhagen-herrhagsvaegen-423-vaesen-och-sagovaerldar-2026-10-28-1600",
-      "titel": "Höstlov hos Designlabbet Stenhagen Herrhagsvägen 423 - Väsen och sagovärldar",
-      "plats": {
-        "namn": "Stenhagen Herrhagsvägen 423",
-        "id": "kubik-plats-stenhagen-herrhagsvägen-423"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        15
-      ],
-      "omrade": "vastra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-hos-designlabbet-stenhagen-herrhagsvaegen-423-vaesen-och-sagovaerldar/",
-          "arrangor": "http://designlabbet.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande"
-        ],
-        "malgrupp": [
-          "10-12 år",
-          "13-15 år",
-          "7-9 år"
-        ],
-        "adress": "Stenhagen Herrhagsvägen 423, Herrhagsvägen 423, Uppsala"
-      },
-      "start": "2026-10-28T16:00:00+01:00",
-      "slut": "2026-10-28T18:30:00+01:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-hisnande-halloweenklaettring-2026-10-28-1600",
       "titel": "Hisnande Halloweenklättring",
       "plats": {
@@ -6862,6 +6706,45 @@
       },
       "start": "2026-10-28T16:00:00+01:00",
       "slut": "2026-10-28T19:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-hoestlov-hos-designlabbet-stenhagen-herrhagsvaegen-423-vaesen-och-sagovaerldar-2026-10-28-1600",
+      "titel": "Höstlov hos Designlabbet Stenhagen Herrhagsvägen 423 - Väsen och sagovärldar",
+      "plats": {
+        "namn": "Stenhagen Herrhagsvägen 423",
+        "id": "kubik-plats-stenhagen-herrhagsvägen-423"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        15
+      ],
+      "omrade": "vastra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-hos-designlabbet-stenhagen-herrhagsvaegen-423-vaesen-och-sagovaerldar/",
+          "arrangor": "http://designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande"
+        ],
+        "malgrupp": [
+          "10-12 år",
+          "13-15 år",
+          "7-9 år"
+        ],
+        "adress": "Stenhagen Herrhagsvägen 423, Herrhagsvägen 423, Uppsala"
+      },
+      "start": "2026-10-28T16:00:00+01:00",
+      "slut": "2026-10-28T18:30:00+01:00",
       "langvarig": false
     },
     {
@@ -7563,6 +7446,45 @@
       "langvarig": false
     },
     {
+      "id": "kubik-hoestlov-hos-designlabbet-stenhagen-herrhagsvaegen-423-vaesen-och-sagovaerldar-2026-10-30-1300",
+      "titel": "Höstlov hos Designlabbet Stenhagen Herrhagsvägen 423 - Väsen och sagovärldar",
+      "plats": {
+        "namn": "Stenhagen Herrhagsvägen 423",
+        "id": "kubik-plats-stenhagen-herrhagsvägen-423"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        15
+      ],
+      "omrade": "vastra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-hos-designlabbet-stenhagen-herrhagsvaegen-423-vaesen-och-sagovaerldar/",
+          "arrangor": "http://designlabbet.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande"
+        ],
+        "malgrupp": [
+          "10-12 år",
+          "13-15 år",
+          "7-9 år"
+        ],
+        "adress": "Stenhagen Herrhagsvägen 423, Herrhagsvägen 423, Uppsala"
+      },
+      "start": "2026-10-30T13:00:00+01:00",
+      "slut": "2026-10-30T15:30:00+01:00",
+      "langvarig": false
+    },
+    {
       "id": "kubik-fraan-aladdin-till-elsa-2026-10-30-1300",
       "titel": "Från Aladdin till Elsa",
       "plats": {
@@ -7685,45 +7607,6 @@
       },
       "start": "2026-10-30T14:30:00+01:00",
       "slut": "2026-10-30T15:45:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-hoestlov-hos-designlabbet-stenhagen-herrhagsvaegen-423-vaesen-och-sagovaerldar-2026-10-30-1600",
-      "titel": "Höstlov hos Designlabbet Stenhagen Herrhagsvägen 423 - Väsen och sagovärldar",
-      "plats": {
-        "namn": "Stenhagen Herrhagsvägen 423",
-        "id": "kubik-plats-stenhagen-herrhagsvägen-423"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        15
-      ],
-      "omrade": "vastra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-hos-designlabbet-stenhagen-herrhagsvaegen-423-vaesen-och-sagovaerldar/",
-          "arrangor": "http://designlabbet.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande"
-        ],
-        "malgrupp": [
-          "10-12 år",
-          "13-15 år",
-          "7-9 år"
-        ],
-        "adress": "Stenhagen Herrhagsvägen 423, Herrhagsvägen 423, Uppsala"
-      },
-      "start": "2026-10-30T16:00:00+01:00",
-      "slut": "2026-10-30T18:30:00+01:00",
       "langvarig": false
     },
     {

@@ -1,175 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-23T04:42:09.771Z",
+  "hamtad": "2026-10-24T08:53:13.357Z",
   "antal": 306,
   "evenemang": [
-    {
-      "id": "tickster-vhfnpvybld9u485",
-      "titel": "Ölprovning - 23 oktober",
-      "start": "2026-10-23T18:00:00+02:00",
-      "slut": "2026-10-23T21:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Brygghus",
-        "id": "brygghus",
-        "lat": 59.8543,
-        "lng": 17.6631
-      },
-      "kategori": "mat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/vhfnpvybld9u485/2026-10-23/olprovning-23-oktober",
-          "biljetter": "https://secure.tickster.com/sv/vhfnpvybld9u485"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "uppsala",
-          "ölprovning",
-          "presentkort",
-          "öl",
-          "bryggeri"
-        ]
-      }
-    },
-    {
-      "id": "tickster-5frhmajdlzeczrn",
-      "titel": "Grymlings – Det bästa för dig",
-      "start": "2026-10-23T19:30:00+02:00",
-      "slut": "2026-10-23T21:15:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/5frhmajdlzeczrn/2026-10-23/grymlings-det-basta-for-dig",
-          "biljetter": "https://secure.tickster.com/sv/5frhmajdlzeczrn"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "musik"
-        ]
-      }
-    },
-    {
-      "id": "tickster-b0chlt6hexgl88f",
-      "titel": "John Lindberg Trio",
-      "start": "2026-10-23T20:00:00+02:00",
-      "slut": "2026-10-23T22:00:00+02:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8595,
-        "lng": 17.6465
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/b0chlt6hexgl88f/2026-10-23/john-lindberg-trio",
-          "biljetter": "https://secure.tickster.com/sv/b0chlt6hexgl88f"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinlive",
-          "uppsala",
-          "katalin",
-          "musik",
-          "konsert",
-          "kaliber live",
-          "jlt",
-          "rock",
-          "rockabilly",
-          "john lindberg trio"
-        ]
-      }
-    },
-    {
-      "id": "tickster-9fbean9vkvf067t",
-      "titel": "Ellas Kapell – Jazzhörnan",
-      "start": "2026-10-23T20:00:00+02:00",
-      "slut": "2026-10-23T23:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8611,
-        "lng": 17.6458,
-        "rum": "Restaurangen/Sal D"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/9fbean9vkvf067t/2026-10-23/ellas-kapell-jazzhornan",
-          "biljetter": "https://secure.tickster.com/sv/9fbean9vkvf067t"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "jazz"
-        ]
-      }
-    },
-    {
-      "id": "tickster-td1cb3vtathfecf",
-      "titel": "HALLOWEEN 18+ @ FLUSTRET",
-      "start": "2026-10-23T22:00:00+02:00",
-      "slut": "2026-10-24T02:00:00+02:00",
-      "plats": {
-        "namn": "Flustret",
-        "id": "flustret"
-      },
-      "kategori": "natt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/td1cb3vtathfecf/2026-10-23/halloween-18-flustret",
-          "biljetter": "https://secure.tickster.com/sv/td1cb3vtathfecf"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "studentfesternauppsala",
-          "studentfesterna",
-          "flustret",
-          "hemlig"
-        ]
-      }
-    },
     {
       "id": "tickster-dm6vj49lppufeny",
       "titel": "Familjekonsert – Peter och vargen",
@@ -289,37 +123,6 @@
       }
     },
     {
-      "id": "tickster-bmguyl82vulwk50",
-      "titel": "Saltstänk & Smuggelsprit – En dö’kul buskis",
-      "start": "2026-10-24T19:30:00+02:00",
-      "slut": "2026-10-24T22:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/bmguyl82vulwk50/2026-10-24/saltstank-and-smuggelsprit-en-do-kul-buskis",
-          "biljetter": "https://secure.tickster.com/sv/bmguyl82vulwk50"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "humor"
-        ]
-      }
-    },
-    {
       "id": "tickster-bypgrad8gx7we6p",
       "titel": "BRÖÖL",
       "start": "2026-10-24T19:30:00+02:00",
@@ -353,6 +156,37 @@
           "kaliber live",
           "östra station",
           "martin sjöstedt  erik tengholm"
+        ]
+      }
+    },
+    {
+      "id": "tickster-bmguyl82vulwk50",
+      "titel": "Saltstänk & Smuggelsprit – En dö’kul buskis",
+      "start": "2026-10-24T19:30:00+02:00",
+      "slut": "2026-10-24T22:00:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/bmguyl82vulwk50/2026-10-24/saltstank-and-smuggelsprit-en-do-kul-buskis",
+          "biljetter": "https://secure.tickster.com/sv/bmguyl82vulwk50"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
         ]
       }
     },
@@ -2800,6 +2634,38 @@
       }
     },
     {
+      "id": "tickster-m0rm9z5jkwphx10",
+      "titel": "Mathilde Deborah - Bakfickan",
+      "start": "2026-11-17T20:00:00+01:00",
+      "slut": "2026-11-17T23:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8621,
+        "lng": 17.6523
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/m0rm9z5jkwphx10/2026-11-17/mathilde-deborah-bakfickan",
+          "biljetter": "https://secure.tickster.com/sv/m0rm9z5jkwphx10"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinsbakficka",
+          "bakfickan",
+          "katalinuppsala"
+        ]
+      }
+    },
+    {
       "id": "tickster-93lgrljfzgyhazj",
       "titel": "Moonica Mac - Extrakonsert",
       "start": "2026-11-18T20:00:00+01:00",
@@ -4526,6 +4392,45 @@
           "katalinsjazzbar",
           "katalinsbakficka",
           "katalinuppsala"
+        ]
+      }
+    },
+    {
+      "id": "tickster-jlwt1p7cxhe5n77",
+      "titel": "Louise Hoffsten - En Blå Jul",
+      "start": "2026-12-01T20:00:00+01:00",
+      "slut": "2026-12-01T22:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/jlwt1p7cxhe5n77/2026-12-01/louise-hoffsten-en-bla-jul",
+          "biljetter": "https://secure.tickster.com/sv/jlwt1p7cxhe5n77"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "live",
+          "jazz",
+          "blues",
+          "headstomp",
+          "pop"
         ]
       }
     },
@@ -6778,6 +6683,45 @@
       }
     },
     {
+      "id": "tickster-dxarevh2dj2ehmg",
+      "titel": "Nicole Sabouné",
+      "start": "2027-01-14T20:00:00+01:00",
+      "slut": "2027-01-14T22:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/dxarevh2dj2ehmg/2027-01-14/nicole-saboune",
+          "biljetter": "https://secure.tickster.com/sv/dxarevh2dj2ehmg"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "nicole saboun",
+          "luger",
+          "indie",
+          "pop"
+        ]
+      }
+    },
+    {
       "id": "tickster-wfeezykm0tu9xn7",
       "titel": "Melodiquizet 15/1 2027",
       "start": "2027-01-15T19:00:00+01:00",
@@ -8732,6 +8676,37 @@
       "installd": false
     },
     {
+      "id": "tickster-4lhdytm58kaaj2e",
+      "titel": "Marcus Berggren – Hittar hem",
+      "start": "2027-04-02T20:00:00+02:00",
+      "slut": "2027-04-02T21:15:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/4lhdytm58kaaj2e/2027-04-02/marcus-berggren-hittar-hem",
+          "biljetter": "https://secure.tickster.com/sv/4lhdytm58kaaj2e"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
       "id": "tickster-e1d3jb5gr4vm13b",
       "titel": "Pontus Lindman – Levande Begravd",
       "start": "2027-04-03T19:00:00+02:00",
@@ -8962,6 +8937,45 @@
           "musik",
           "live",
           "hårdrock"
+        ]
+      }
+    },
+    {
+      "id": "tickster-n2aptyn6hzgeah6",
+      "titel": "Steget",
+      "start": "2027-04-17T20:00:00+02:00",
+      "slut": "2027-04-17T22:00:00+02:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/n2aptyn6hzgeah6/2027-04-17/steget",
+          "biljetter": "https://secure.tickster.com/sv/n2aptyn6hzgeah6"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "steget",
+          "headstomp",
+          "pop",
+          "indie"
         ]
       }
     },

@@ -1,6 +1,6 @@
 {
-  "uppdaterad": "2026-10-23T04:43:45.113Z",
-  "antalMatcherIUppsala": 133,
+  "uppdaterad": "2026-10-24T08:54:42.364Z",
+  "antalMatcherIUppsala": 130,
   "lag": [
     {
       "lag": "IK Sirius",
@@ -38,8 +38,8 @@
       "kon": "herr",
       "niva": 2,
       "liga": "HockeyAllsvenskan",
-      "antal": 20,
-      "hemmamatcher30": 6,
+      "antal": 19,
+      "hemmamatcher30": 5,
       "iSasong": true
     },
     {
@@ -68,7 +68,7 @@
       "kon": "herr",
       "niva": 1,
       "liga": "Elitserien herr",
-      "antal": 7,
+      "antal": 8,
       "hemmamatcher30": 3,
       "iSasong": true
     },
@@ -78,8 +78,8 @@
       "kon": "dam",
       "niva": 2,
       "liga": "Allsvenskan dam",
-      "antal": 8,
-      "hemmamatcher30": 3,
+      "antal": 7,
+      "hemmamatcher30": 2,
       "iSasong": false
     },
     {
@@ -88,8 +88,8 @@
       "kon": "dam",
       "niva": 2,
       "liga": "Allsvenskan dam",
-      "antal": 8,
-      "hemmamatcher30": 4,
+      "antal": 7,
+      "hemmamatcher30": 3,
       "iSasong": false
     },
     {
@@ -98,8 +98,8 @@
       "kon": "herr",
       "niva": 1,
       "liga": "Basketligan herr",
-      "antal": 17,
-      "hemmamatcher30": 4,
+      "antal": 16,
+      "hemmamatcher30": 3,
       "iSasong": true
     },
     {

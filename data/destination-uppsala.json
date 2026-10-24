@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-23T04:41:20.804Z",
-  "antal": 180,
+  "hamtad": "2026-10-24T08:52:20.631Z",
+  "antal": 182,
   "evenemang": [
     {
       "id": "du-katarina-jagellonica-500-ar",
@@ -363,6 +363,33 @@
         "kategorier": [
           "festival",
           "film"
+        ]
+      }
+    },
+    {
+      "id": "du-studie-i-manskligt-beteende",
+      "titel": "Studie i mänskligt beteende",
+      "start": "2026-10-23",
+      "slut": "2027-02-06",
+      "plats": {
+        "namn": "Uppsala stadsteater",
+        "id": "stadsteatern"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/studie-i-manskligt-beteende/"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "teater"
         ]
       }
     },
@@ -5510,6 +5537,38 @@
         ],
         "datum": [
           "2027-03-18"
+        ]
+      }
+    },
+    {
+      "id": "du-uppsala-vin-deli-2027",
+      "titel": "Uppsala Vin & Deli 2027",
+      "start": "2027-03-19",
+      "slut": "2027-03-20",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "mat",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/uppsala-vin-deli-2027/",
+          "arrangor": "https://svenskadryckesmassor.se/massa/uppsala-vin-deli/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "massor",
+          "mat-dryck"
+        ],
+        "datum": [
+          "2027-03-20"
         ]
       }
     },

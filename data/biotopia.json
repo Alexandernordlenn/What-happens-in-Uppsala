@@ -1,8 +1,8 @@
 {
   "kalla": "Biotopia",
   "webbsida": "https://biotopia.nu/kalender/",
-  "hamtad": "2026-10-23T04:44:20.270Z",
-  "antal": 27,
+  "hamtad": "2026-10-24T08:55:14.836Z",
+  "antal": 31,
   "evenemang": [
     {
       "id": "biotopia-1189",
@@ -94,6 +94,35 @@
       }
     },
     {
+      "id": "biotopia-2481",
+      "titel": "Leksaksbyte på höstlovet!",
+      "start": "2026-10-24",
+      "slut": "2026-11-01",
+      "plats": {
+        "namn": "Pumphuset",
+        "id": "pumphuset"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2481"
+        }
+      ],
+      "langvarig": true,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "För en grön framtid",
+          "För barn"
+        ]
+      }
+    },
+    {
       "id": "biotopia-1191",
       "titel": "Spök- och monsterpyssel samt korvgrillning i Karlssons källare",
       "start": "2026-10-28",
@@ -121,6 +150,33 @@
           "För barn",
           "För vuxna",
           "Lördagar i Hammarskog"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2491",
+      "titel": "Höstlovsskoj i Gredelby hagar",
+      "start": "2026-10-29",
+      "slut": "2026-10-31",
+      "plats": {
+        "namn": "Fågeltornet i naturreservatet Gredelby hagar och Trunsta träsk"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2491"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "På Biotopia"
         ]
       }
     },
@@ -157,7 +213,7 @@
     {
       "id": "biotopia-2426",
       "titel": "We Love Uppsala",
-      "start": "2026-11-01",
+      "start": "2026-10-31",
       "slut": "2026-11-30",
       "plats": {
         "namn": "Biotopia",
@@ -459,6 +515,35 @@
           "Med Biotopia",
           "För en grön framtid",
           "På Biotopia"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2508",
+      "titel": "#WeLoveUppsala: Upptäck cykelglädjen!",
+      "start": "2026-11-11T16:00:00+01:00",
+      "slut": "2026-11-11T17:30:00+01:00",
+      "plats": {
+        "namn": "Forumtorget",
+        "id": "forumtorget"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2508"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "För en grön framtid",
+          "Med Biotopia"
         ]
       }
     },
@@ -834,6 +919,39 @@
         "kategorier": [
           "Lördagar i Hammarskog",
           "Utflyktsprogrammet"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2402",
+      "titel": "Mend in Public – Upcycling",
+      "start": "2027-01-20",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2402"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Onsdagskvällar",
+          "För vuxna",
+          "In English",
+          "Med Biotopia",
+          "På Biotopia",
+          "Workshop"
         ]
       }
     }

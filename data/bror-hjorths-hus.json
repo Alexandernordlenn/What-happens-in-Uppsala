@@ -1,65 +1,9 @@
 {
   "kalla": "Bror Hjorths Hus",
   "webbsida": "https://brorhjorthshus.se/",
-  "hamtad": "2026-10-23T04:44:18.922Z",
-  "antal": 51,
+  "hamtad": "2026-10-24T08:55:13.459Z",
+  "antal": 49,
   "evenemang": [
-    {
-      "id": "bror-hjorths-hus-20574",
-      "titel": "Guidad visning: Johan Thurfjell / Bror Hjorth",
-      "start": "2026-10-23T14:00:00+02:00",
-      "slut": "2026-10-23T14:30:00+02:00",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "bror-hjorths-hus",
-          "namn": "Bror Hjorths Hus",
-          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-bror-hjorth/2026-10-23/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Visning"
-        ],
-        "adress": "Norbyvägen 26, 752 39"
-      }
-    },
-    {
-      "id": "bror-hjorths-hus-20248",
-      "titel": "Konsert: FOLK UNIT",
-      "start": "2026-10-23T19:00:00+02:00",
-      "slut": "2026-10-23T20:00:00+02:00",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "bror-hjorths-hus",
-          "namn": "Bror Hjorths Hus",
-          "url": "https://brorhjorthshus.se/evenemang/konsert-folk-unit/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Föredrag & Konsert"
-        ],
-        "adress": "Norbyvägen 26, 752 39"
-      }
-    },
     {
       "id": "bror-hjorths-hus-20557",
       "titel": "Guidad visning: Johan Thurfjell – Ljuset",
