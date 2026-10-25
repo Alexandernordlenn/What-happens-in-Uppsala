@@ -1,8 +1,8 @@
 {
   "kalla": "Fyrishov",
   "webbsida": "https://fyrishov.se/",
-  "hamtad": "2026-10-24T08:55:18.525Z",
-  "antal": 55,
+  "hamtad": "2026-10-25T09:11:43.777Z",
+  "antal": 54,
   "evenemang": [
     {
       "id": "fyrishov-27279",
@@ -29,33 +29,6 @@
       },
       "start": "2026-10-24T10:00:00+02:00",
       "slut": "2026-10-25T16:00:00+01:00"
-    },
-    {
-      "id": "fyrishov-24177",
-      "titel": "Uppsala HK – Täby HBK",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Hall B"
-      },
-      "kategori": "sport",
-      "sport": "Handboll",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/uppsal-hk-taby-hbk-herr-div-1/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-24T16:00:00+02:00",
-      "slut": "2026-10-24T18:00:00+02:00"
     },
     {
       "id": "fyrishov-18278",

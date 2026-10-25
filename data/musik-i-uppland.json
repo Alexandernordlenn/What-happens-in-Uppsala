@@ -1,71 +1,9 @@
 {
   "kalla": "Musik i Uppland",
   "webbsida": "https://www.musikiuppland.se/",
-  "hamtad": "2026-10-24T08:54:44.687Z",
-  "antal": 19,
+  "hamtad": "2026-10-25T09:11:05.441Z",
+  "antal": 17,
   "evenemang": [
-    {
-      "id": "musik-i-uppland-24772",
-      "titel": "Familjekonsert – Peter och vargen",
-      "start": "2026-10-24T13:00:00+02:00",
-      "slut": "2026-10-24T14:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "musik-i-uppland",
-          "namn": "Musik i Uppland",
-          "url": "https://www.musikiuppland.se/konsert/familjekonsert-peter-och-vargen/",
-          "biljetter": "https://secure.tickster.com/dm6vj49lppufeny"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "barn-ungdom",
-          "uppsala-kammarorkester"
-        ],
-        "adress": "Vaksala Torg 1, 753 31"
-      }
-    },
-    {
-      "id": "musik-i-uppland-26321",
-      "titel": "Familjekonsert – Peter och vargen",
-      "start": "2026-10-24T14:15:00+02:00",
-      "slut": "2026-10-24T15:00:00+02:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "musik-i-uppland",
-          "namn": "Musik i Uppland",
-          "url": "https://www.musikiuppland.se/konsert/familjekonsert-peter-och-vargen-2/",
-          "biljetter": "https://secure.tickster.com/l1ff314j7zjw7br"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "barn-ungdom",
-          "uppsala-kammarorkester"
-        ],
-        "adress": "Vaksala Torg 1, 753 31"
-      }
-    },
     {
       "id": "musik-i-uppland-25559",
       "titel": "Lena Jonsson Trio",

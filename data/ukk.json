@@ -1,196 +1,9 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-24T08:54:58.409Z",
-  "antal": 118,
+  "hamtad": "2026-10-25T09:11:19.284Z",
+  "antal": 112,
   "evenemang": [
-    {
-      "id": "ukk-46228",
-      "titel": "Uppsala Kortfilmfestival",
-      "start": "2026-10-24T11:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/uppsala-kortfilmfestival-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "samtal",
-          "barn"
-        ],
-        "taggar": [
-          "hostlov"
-        ]
-      }
-    },
-    {
-      "id": "ukk-34749",
-      "titel": "Familjekonsert – Peter och vargen",
-      "start": "2026-10-24T13:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/familjekonsert-peter-och-vargen/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "barn",
-          "klassiskt"
-        ],
-        "taggar": [
-          "miu",
-          "hostlov",
-          "familj"
-        ]
-      }
-    },
-    {
-      "id": "ukk-46198",
-      "titel": "Familjekonsert – Peter och vargen",
-      "start": "2026-10-24T14:15:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/familjekonsert-peter-och-vargen-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "barn",
-          "klassiskt"
-        ],
-        "taggar": [
-          "miu",
-          "hostlov"
-        ]
-      }
-    },
-    {
-      "id": "ukk-39331",
-      "titel": "Saltstänk & Smuggelsprit – En dö’kul buskis",
-      "start": "2026-10-24T16:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/saltstank-smuggelsprit-turne/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "humor"
-        ],
-        "taggar": [
-          "humor"
-        ]
-      }
-    },
-    {
-      "id": "ukk-39549",
-      "titel": "Carte Blanche – Trio X med hemliga gäster",
-      "start": "2026-10-24T16:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/carte-blanche-trio-x-med-hemliga-gaster-okt-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "jazz"
-        ],
-        "taggar": [
-          "jazz",
-          "miu"
-        ]
-      }
-    },
-    {
-      "id": "ukk-44267",
-      "titel": "Saltstänk & Smuggelsprit – En dö’kul buskis",
-      "start": "2026-10-24T19:30:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/saltstank-smuggelsprit-19-30/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "humor"
-        ],
-        "taggar": [
-          "humor"
-        ]
-      }
-    },
     {
       "id": "ukk-46229",
       "titel": "Uppsala Kortfilmfestival",
@@ -248,10 +61,10 @@
           "klassiskt"
         ],
         "taggar": [
-          "mhv",
           "hostlov",
           "familj",
-          "student"
+          "student",
+          "mhv"
         ]
       }
     },
@@ -312,8 +125,8 @@
           "klassiskt"
         ],
         "taggar": [
-          "hostlov",
-          "student"
+          "student",
+          "hostlov"
         ]
       }
     },
@@ -344,10 +157,10 @@
           "barn"
         ],
         "taggar": [
-          "miu",
           "hostlov",
           "familj",
-          "aktuellt"
+          "aktuellt",
+          "miu"
         ]
       }
     },
@@ -405,9 +218,9 @@
           "barn"
         ],
         "taggar": [
-          "familj",
           "aktuellt",
-          "hostlov"
+          "hostlov",
+          "familj"
         ]
       }
     },
@@ -438,8 +251,8 @@
           "teater"
         ],
         "taggar": [
-          "familj",
-          "hostlov"
+          "hostlov",
+          "familj"
         ]
       }
     },
@@ -500,8 +313,8 @@
           "barn"
         ],
         "taggar": [
-          "aktuellt",
-          "hostlov"
+          "hostlov",
+          "aktuellt"
         ]
       }
     },
@@ -808,8 +621,8 @@
           "klassiskt"
         ],
         "taggar": [
-          "aktuellt",
-          "miu"
+          "miu",
+          "aktuellt"
         ]
       }
     },
@@ -1022,10 +835,10 @@
           "nostalgi-tribute"
         ],
         "taggar": [
-          "student",
-          "mhv",
           "jazz",
-          "lunchkonsert"
+          "lunchkonsert",
+          "student",
+          "mhv"
         ]
       }
     },
@@ -1384,10 +1197,13 @@
       "fakta": {
         "kategorier": [
           "dans",
-          "barn"
+          "barn",
+          "festligheter-hogtider"
         ],
         "taggar": [
-          "dans"
+          "dans",
+          "familj",
+          "jul"
         ]
       }
     },
@@ -1568,14 +1384,14 @@
       "fakta": {
         "kategorier": [
           "dans",
+          "barn",
           "klassiskt",
-          "festligheter-hogtider",
-          "barn"
+          "festligheter-hogtider"
         ],
         "taggar": [
+          "dans",
           "familj",
-          "jul",
-          "dans"
+          "jul"
         ]
       }
     },
@@ -1828,9 +1644,9 @@
           "klassiskt"
         ],
         "taggar": [
+          "jul",
           "student",
-          "mhv",
-          "jul"
+          "mhv"
         ]
       }
     },
@@ -1925,11 +1741,11 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "mhv",
           "jul",
           "jazz",
           "aktuellt",
-          "student"
+          "student",
+          "mhv"
         ]
       }
     },
@@ -1992,9 +1808,9 @@
           "dans"
         ],
         "taggar": [
-          "jul",
           "publikfavoriter",
-          "aktuellt"
+          "aktuellt",
+          "jul"
         ]
       }
     },
@@ -2025,11 +1841,11 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "familj",
+          "publikfavoriter",
           "aktuellt",
           "student",
-          "jul",
-          "familj",
-          "publikfavoriter"
+          "jul"
         ]
       }
     },
@@ -2124,9 +1940,9 @@
           "barn"
         ],
         "taggar": [
+          "aktuellt",
           "jul",
-          "familj",
-          "aktuellt"
+          "familj"
         ]
       }
     },
@@ -2158,11 +1974,11 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "jul",
-          "jazz",
           "lunchkonsert",
           "student",
-          "mhv"
+          "mhv",
+          "jul",
+          "jazz"
         ]
       }
     },
@@ -2552,8 +2368,8 @@
           "humor"
         ],
         "taggar": [
-          "humor",
-          "publikfavoriter"
+          "publikfavoriter",
+          "humor"
         ]
       }
     },
@@ -2759,8 +2575,8 @@
           "humor"
         ],
         "taggar": [
-          "aktuellt",
-          "humor"
+          "humor",
+          "aktuellt"
         ]
       }
     },
@@ -3216,8 +3032,8 @@
           "hantverk-marknader"
         ],
         "taggar": [
-          "aktuellt",
-          "publikfavoriter"
+          "publikfavoriter",
+          "aktuellt"
         ]
       }
     },

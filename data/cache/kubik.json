@@ -1,55 +1,4 @@
 {
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovskul-formstarkt-och-eldigt/": {
-    "dagar": [
-      "må",
-      "ti",
-      "on",
-      "to",
-      "fr",
-      "lö",
-      "sö"
-    ],
-    "tider": {
-      "start": "10:00",
-      "slut": "15:00"
-    },
-    "hamtad": "2026-10-22"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/digital-skattjakt-med-musse-helium/": {
-    "dagar": [
-      "må",
-      "ti",
-      "on",
-      "to",
-      "fr",
-      "lö",
-      "sö"
-    ],
-    "tider": {
-      "start": "10:00"
-    },
-    "hamtad": "2026-10-21"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/pumpataevling-roesta-paa-din-favorit/": {
-    "dagar": [],
-    "hamtad": "2026-10-21"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/aterbruksverkstad-paa-hoestlovet/": {
-    "dagar": [],
-    "hamtad": "2026-10-21"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovsskoj-i-naturum-faernebofjaerden/": {
-    "dagar": [],
-    "hamtad": "2026-10-23"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/leksaksbyte-paa-hoestlovet/": {
-    "dagar": [],
-    "hamtad": "2026-10-21"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovsbio-paa-fyrisbiografen/": {
-    "dagar": [],
-    "hamtad": "2026-10-21"
-  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/skaparlaeger-paa-hoestlovet/": {
     "dagar": [],
     "hamtad": "2026-10-21"
@@ -229,8 +178,59 @@
     "dagar": [],
     "hamtad": "2026-10-21"
   },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/pumpataevling-roesta-paa-din-favorit/": {
+    "dagar": [],
+    "hamtad": "2026-10-21"
+  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/laes-foer-sotis/": {
     "dagar": [],
+    "hamtad": "2026-10-21"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovskul-formstarkt-och-eldigt/": {
+    "dagar": [
+      "må",
+      "ti",
+      "on",
+      "to",
+      "fr",
+      "lö",
+      "sö"
+    ],
+    "tider": {
+      "start": "10:00",
+      "slut": "15:00"
+    },
+    "hamtad": "2026-10-22"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovsskoj-i-naturum-faernebofjaerden/": {
+    "dagar": [],
+    "hamtad": "2026-10-23"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/leksaksbyte-paa-hoestlovet/": {
+    "dagar": [],
+    "hamtad": "2026-10-21"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovsbio-paa-fyrisbiografen/": {
+    "dagar": [],
+    "hamtad": "2026-10-21"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/aterbruksverkstad-paa-hoestlovet/": {
+    "dagar": [],
+    "hamtad": "2026-10-21"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/digital-skattjakt-med-musse-helium/": {
+    "dagar": [
+      "må",
+      "ti",
+      "on",
+      "to",
+      "fr",
+      "lö",
+      "sö"
+    ],
+    "tider": {
+      "start": "10:00"
+    },
     "hamtad": "2026-10-21"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/aterbruksverkstad-helgtema-paa-biotopia/": {

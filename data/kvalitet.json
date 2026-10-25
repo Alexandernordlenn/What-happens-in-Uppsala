@@ -1,39 +1,39 @@
 {
-  "matt": "2026-10-24T08:55:19.084Z",
-  "idag": "2026-10-24",
+  "matt": "2026-10-25T09:11:44.692Z",
+  "idag": "2026-10-25",
   "totalt": {
-    "antal": 1760,
-    "utanKlockslag": 0.038,
-    "ovrigt": 0.034,
-    "familjUtanAlder": 0.195,
-    "utanOmrade": 0.02,
-    "sammanslagna": 751,
-    "pagar14": 13,
+    "antal": 1713,
+    "utanKlockslag": 0.037,
+    "ovrigt": 0.035,
+    "familjUtanAlder": 0.194,
+    "utanOmrade": 0.019,
+    "sammanslagna": 726,
+    "pagar14": 14,
     "borttagnaKurser": 24,
     "aiEvenemang": 0,
     "misstanktaDubbletter": 0,
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
       "langvariga": 10,
-      "samma-kalla": 6,
+      "samma-kalla": 5,
       "serie-uttryckliga-datum": 9,
       "speltid-mot-tillfallen": 13,
       "festival": 33,
-      "lika": 348,
-      "innehaller": 104,
+      "lika": 336,
+      "innehaller": 100,
       "likhet": 1,
-      "sport": 86
+      "sport": 82
     }
   },
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 110,
+      "antal": 105,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.009,
-      "sammanslagna": 86,
+      "utanOmrade": 0.01,
+      "sammanslagna": 82,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -41,12 +41,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 118,
+      "antal": 116,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 106,
+      "sammanslagna": 104,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 325,
+      "antal": 321,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 116,
+      "sammanslagna": 114,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 686,
-      "utanKlockslag": 0.045,
+      "antal": 672,
+      "utanKlockslag": 0.044,
       "ovrigt": 0.013,
-      "familjUtanAlder": 0.107,
-      "utanOmrade": 0.007,
-      "sammanslagna": 157,
+      "familjUtanAlder": 0.109,
+      "utanOmrade": 0.006,
+      "sammanslagna": 152,
       "pagar14": 0,
       "borttagnaKurser": 22,
       "aiEvenemang": 0,
@@ -80,12 +80,12 @@
     },
     "r": {
       "namn": "Musik i Uppland",
-      "antal": 12,
+      "antal": 10,
       "utanKlockslag": 0,
       "ovrigt": 0,
-      "familjUtanAlder": 1,
+      "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 29,
+      "sammanslagna": 23,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -93,12 +93,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 82,
+      "antal": 81,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 140,
+      "sammanslagna": 138,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -106,12 +106,12 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 89,
+      "antal": 83,
       "utanKlockslag": 0,
-      "ovrigt": 0.034,
-      "familjUtanAlder": 0.75,
+      "ovrigt": 0.036,
+      "familjUtanAlder": 0.72,
       "utanOmrade": 0,
-      "sammanslagna": 223,
+      "sammanslagna": 212,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -119,9 +119,9 @@
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 55,
+      "antal": 54,
       "utanKlockslag": 0,
-      "ovrigt": 0.036,
+      "ovrigt": 0.037,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
       "sammanslagna": 1,
@@ -145,11 +145,11 @@
     },
     "n": {
       "namn": "Biotopia",
-      "antal": 31,
-      "utanKlockslag": 0.625,
+      "antal": 30,
+      "utanKlockslag": 0.609,
       "ovrigt": 0,
       "familjUtanAlder": 0.438,
-      "utanOmrade": 0.097,
+      "utanOmrade": 0.1,
       "sammanslagna": 16,
       "pagar14": 1,
       "borttagnaKurser": 0,
@@ -158,12 +158,12 @@
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 47,
+      "antal": 46,
       "utanKlockslag": 0,
       "ovrigt": 0.043,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 46,
+      "sammanslagna": 45,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -171,25 +171,25 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 283,
-      "utanKlockslag": 0.059,
-      "ovrigt": 0.102,
-      "familjUtanAlder": 0.757,
-      "utanOmrade": 0.028,
-      "sammanslagna": 341,
-      "pagar14": 8,
+      "antal": 272,
+      "utanKlockslag": 0.058,
+      "ovrigt": 0.107,
+      "familjUtanAlder": 0.769,
+      "utanOmrade": 0.033,
+      "sammanslagna": 327,
+      "pagar14": 9,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
       "misstanktaDubbletter": 0
     },
     "h": {
       "namn": "Heja",
-      "antal": 365,
-      "utanKlockslag": 0.043,
-      "ovrigt": 0.033,
-      "familjUtanAlder": 0.814,
-      "utanOmrade": 0.019,
-      "sammanslagna": 422,
+      "antal": 348,
+      "utanKlockslag": 0.039,
+      "ovrigt": 0.034,
+      "familjUtanAlder": 0.821,
+      "utanOmrade": 0.014,
+      "sammanslagna": 407,
       "pagar14": 5,
       "borttagnaKurser": 1,
       "aiEvenemang": 0,
@@ -197,12 +197,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 247,
-      "utanKlockslag": 0.017,
-      "ovrigt": 0.053,
-      "familjUtanAlder": 0.636,
-      "utanOmrade": 0.049,
-      "sammanslagna": 381,
+      "antal": 240,
+      "utanKlockslag": 0.018,
+      "ovrigt": 0.054,
+      "familjUtanAlder": 0.613,
+      "utanOmrade": 0.05,
+      "sammanslagna": 369,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -211,19 +211,6 @@
   },
   "exempelDubbletter": [],
   "sammanslagningar": [
-    {
-      "regel": "langvariga",
-      "dag": "2026-10-24",
-      "plats": "biotopia",
-      "kallor": [
-        "u",
-        "h"
-      ],
-      "titlar": [
-        "Återbruksverkstad på Höstlovet",
-        "Återbruksverkstad på Biotopia"
-      ]
-    },
     {
       "regel": "langvariga",
       "dag": "2026-10-24",
@@ -236,6 +223,19 @@
       "titlar": [
         "Leksaksbyte på höstlovet",
         "Leksaksbyte på höstlovet!"
+      ]
+    },
+    {
+      "regel": "langvariga",
+      "dag": "2026-10-24",
+      "plats": "biotopia",
+      "kallor": [
+        "u",
+        "h"
+      ],
+      "titlar": [
+        "Återbruksverkstad på Höstlovet",
+        "Återbruksverkstad på Biotopia"
       ]
     },
     {
@@ -378,18 +378,6 @@
     },
     {
       "regel": "samma-kalla",
-      "dag": "2026-10-24",
-      "plats": "konstmuseum",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Eija-Liisa Ahtila – A Possible Image"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
       "dag": "2026-11-29",
       "plats": "kulturoasen",
       "kallor": [
@@ -520,11 +508,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-24",
+      "dag": "2026-10-31",
       "plats": "konstmuseum",
       "kallor": [
         "d",
-        "h",
         "h",
         "h",
         "h",
@@ -618,7 +605,7 @@
       "titlar": [
         "Stadens ljus"
       ],
-      "tillfallen": 13
+      "tillfallen": 12
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -631,7 +618,7 @@
       "titlar": [
         "Studie i mänskligt beteende"
       ],
-      "tillfallen": 26
+      "tillfallen": 25
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -644,7 +631,7 @@
       "titlar": [
         "Höstlovskul: Formstarkt och eldigt"
       ],
-      "tillfallen": 9
+      "tillfallen": 8
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -725,7 +712,7 @@
       "titlar": [
         "Uppsala Kortfilmfestival"
       ],
-      "tillfallen": 2
+      "tillfallen": 1
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -1236,33 +1223,6 @@
         "Nyhetsklubb"
       ],
       "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-24",
-      "plats": "storvretabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Trolleriworkshop med Magnus Vihagen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-24",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Italienska språkveckan",
-        "Vi firar den italienska språkveckan i världen!"
-      ],
-      "poang": 0.33
     },
     {
       "regel": "lika",
@@ -2302,32 +2262,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-10-24",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "c"
-      ],
-      "titlar": [
-        "Familjekonsert – Peter och vargen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-24",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "c"
-      ],
-      "titlar": [
-        "Familjekonsert – Peter och vargen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-10-30",
       "plats": "ukk",
       "kallor": [
@@ -2512,19 +2446,6 @@
       ],
       "titlar": [
         "Brasmys vid Östbergstorpet"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-10-24",
-      "plats": "fyrishov",
-      "kallor": [
-        "i",
-        "f"
-      ],
-      "titlar": [
-        "Uppsala HK – Täby HBK"
       ],
       "poang": 1
     },
@@ -3007,62 +2928,6 @@
         "Uppsala Volleyboll – VBF RIG Falköping"
       ],
       "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-24",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "c",
-        "d"
-      ],
-      "titlar": [
-        "Familjekonsert – Peter och vargen",
-        "Peter och Vargen – Familjekonsert med Uppsala Kammarorkester"
-      ],
-      "poang": 0.6
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-10-24",
-      "plats": "studenternas",
-      "kallor": [
-        "i",
-        "d"
-      ],
-      "titlar": [
-        "IK Sirius – AIK",
-        "Fotboll: IK Sirius – AIK"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-24",
-      "plats": "celsiustorget",
-      "kallor": [
-        "u",
-        "d"
-      ],
-      "titlar": [
-        "Pimpa pumpan"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-24",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d"
-      ],
-      "titlar": [
-        "Saltstänk & Smuggelsprit – En dö’kul buskis",
-        "Saltstänk & Smuggelsprit"
-      ],
-      "poang": 0.4
     },
     {
       "regel": "lika",
@@ -3850,93 +3715,6 @@
       "titlar": [
         "Nannes jubileumsshow – Här är jag!",
         "Nannes jubileumsshow Här är jag!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-24",
-      "plats": "celsiustorget",
-      "kallor": [
-        "u",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Pimpa pumpan"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-24",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Familjekonsert – Peter och vargen",
-        "Peter och Vargen – Familjekonsert med Uppsala Kammarorkester",
-        "Familjekonsert Peter och vargen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-10-24",
-      "plats": "usif",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – AIK (dam)",
-        "Uppsala basket D-AIK"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-24",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Saltstänk & Smuggelsprit – En dö’kul buskis",
-        "Saltstänk & Smuggelsprit"
-      ],
-      "poang": 0.4
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-10-24",
-      "plats": "ifu",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Storvreta IBK – FBC Kalmarsund",
-        "Blixtcupen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-24",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "William Sundman Sääf"
       ],
       "poang": 1
     },
@@ -6503,81 +6281,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-10-24",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "c",
-        "d",
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Familjekonsert – Peter och vargen",
-        "Peter och Vargen – Familjekonsert med Uppsala Kammarorkester",
-        "Familjekonsert Peter och vargen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-24",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "c",
-        "t"
-      ],
-      "titlar": [
-        "Familjekonsert – Peter och vargen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-24",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Saltstänk & Smuggelsprit – En dö’kul buskis",
-        "Saltstänk & Smuggelsprit"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-24",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "t"
-      ],
-      "titlar": [
-        "Saltstänk & Smuggelsprit – En dö’kul buskis"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-24",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "William Sundman Sääf"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-10-25",
       "plats": "ukk",
       "kallor": [
@@ -8854,8 +8557,8 @@
     {
       "person": "Lisa",
       "namn": "Helgen, 0–4 år: evenemang med känd ålder",
-      "ok": true,
-      "varde": 7,
+      "ok": false,
+      "varde": 2,
       "krav": "minst 5"
     },
     {
@@ -8869,14 +8572,14 @@
       "person": "Lisa",
       "namn": "Familjeevenemang utan ålder (eller 0–99) syns under \"ålder ej angiven\"",
       "ok": true,
-      "varde": "17 av 17",
+      "varde": "5 av 5",
       "krav": "alla"
     },
     {
       "person": "Lisa",
       "namn": "Konst & museum, raden \"Pågår\": andel utställningar",
       "ok": true,
-      "varde": "100 % (13 av 13)",
+      "varde": "100 % (14 av 14)",
       "krav": "minst 80 %"
     },
     {
@@ -8890,7 +8593,7 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 29,
+      "varde": 33,
       "krav": "minst 10"
     },
     {
@@ -8904,7 +8607,7 @@
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 78,
+      "varde": 76,
       "krav": "minst 5"
     },
     {
@@ -8925,21 +8628,21 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "3.4 %",
+      "varde": "3.5 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "2 %",
+      "varde": "1.9 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "3.8 %",
+      "varde": "3.7 %",
       "krav": "under 5 %"
     }
   ]

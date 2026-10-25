@@ -1,39 +1,9 @@
 {
   "kalla": "Biotopia",
   "webbsida": "https://biotopia.nu/kalender/",
-  "hamtad": "2026-10-24T08:55:14.836Z",
-  "antal": 31,
+  "hamtad": "2026-10-25T09:11:40.727Z",
+  "antal": 30,
   "evenemang": [
-    {
-      "id": "biotopia-1189",
-      "titel": "Fågelholkar – höstkoll och nybyggen",
-      "start": "2026-10-24",
-      "slut": null,
-      "plats": {
-        "namn": "Hammarskog",
-        "id": "hammarskog",
-        "rum": "Naturskolan"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "alder": null,
-      "kallor": [
-        {
-          "id": "biotopia",
-          "namn": "Biotopia",
-          "url": "https://biotopia.nu/?post_type=post&p=1189"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Lördagar i Hammarskog",
-          "Utflyktsprogrammet"
-        ]
-      }
-    },
     {
       "id": "biotopia-2050",
       "titel": "En höstnatt i Hammarskog oktober",

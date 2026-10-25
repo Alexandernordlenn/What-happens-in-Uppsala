@@ -1,38 +1,9 @@
 {
   "kalla": "Katalin",
   "webbsida": "https://www.katalin.com/",
-  "hamtad": "2026-10-24T08:54:52.844Z",
-  "antal": 98,
+  "hamtad": "2026-10-25T09:11:13.906Z",
+  "antal": 97,
   "evenemang": [
-    {
-      "id": "katalin-16900",
-      "titel": "William Sundman Sääf",
-      "start": "2026-10-24T20:00:00+02:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Stora scen"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/william-sundman-saaf-2/",
-          "biljetter": "https://secure.tickster.com/sv/b63jvll7p4jt96y"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "singer-songwriter"
-        ]
-      }
-    },
     {
       "id": "katalin-17322",
       "titel": "Jazzlunch med Jazzviolinisten Gunnar Lidbergs kvartett",
@@ -803,6 +774,7 @@
       "kategori": "musik",
       "gratis": false,
       "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
       "kallor": [
         {
           "id": "katalin",
@@ -1206,7 +1178,7 @@
       "kategori": "musik",
       "gratis": false,
       "barnOchFamilj": false,
-      "notering": "Få biljetter kvar",
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "katalin",
