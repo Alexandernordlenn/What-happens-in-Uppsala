@@ -1,8 +1,4 @@
 {
-  "https://www.kubikuppsala.se/hitta-aktiviteter/skaparlaeger-paa-hoestlovet/": {
-    "dagar": [],
-    "hamtad": "2026-10-21"
-  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/gymnastiklaeger/": {
     "dagar": [
       "må",
@@ -167,6 +163,10 @@
     "hamtad": "2026-10-21"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/haestlaeger-paa-4h-gaardarna/": {
+    "dagar": [],
+    "hamtad": "2026-10-21"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/skaparlaeger-paa-hoestlovet/": {
     "dagar": [],
     "hamtad": "2026-10-21"
   },

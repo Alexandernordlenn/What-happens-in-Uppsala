@@ -1,61 +1,9 @@
 {
   "kalla": "Fyrishov",
   "webbsida": "https://fyrishov.se/",
-  "hamtad": "2026-10-25T09:11:43.777Z",
-  "antal": 54,
+  "hamtad": "2026-10-26T10:08:44.078Z",
+  "antal": 52,
   "evenemang": [
-    {
-      "id": "fyrishov-27279",
-      "titel": "Retro- & antikmässa",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Hall C-D"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/retro-antikmassa/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-24T10:00:00+02:00",
-      "slut": "2026-10-25T16:00:00+01:00"
-    },
-    {
-      "id": "fyrishov-18278",
-      "titel": "Uppsala Volleyboll – Habo Wolley",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Hall B"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/uppsala-volleyboll-habo-wolley/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-25T17:00:00+01:00",
-      "slut": "2026-10-25T19:00:00+01:00"
-    },
     {
       "id": "fyrishov-20748",
       "titel": "Mega Dance WKND",

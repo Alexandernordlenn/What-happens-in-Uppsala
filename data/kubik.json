@@ -1,7 +1,7 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-25T09:10:14.313Z",
+  "hamtad": "2026-10-26T10:07:22.018Z",
   "antal": 272,
   "evenemang": [
     {
@@ -3869,44 +3869,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-sagostund-paa-grekiska-2026-10-25-1500",
-      "titel": "Sagostund på grekiska / Παραμύθια στα ελληνικά",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        6
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/sagostund-paa-grekiska/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Litteratur/Skrivande"
-        ],
-        "malgrupp": [
-          "0-4 år",
-          "5-6 år"
-        ],
-        "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
-      },
-      "start": "2026-10-25T15:00:00+01:00",
-      "slut": "2026-10-25T15:30:00+01:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-gymnastiklaeger",
       "titel": "Gymnastikläger",
       "plats": {
@@ -7487,6 +7449,45 @@
       },
       "start": "2026-10-30T18:15:00+01:00",
       "slut": "2026-10-30T23:00:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-halloweendisco-paa-is-2026-10-30-1830",
+      "titel": "Halloweendisco på is",
+      "plats": {
+        "namn": "Gränby sportfält - Ishall A",
+        "id": "kubik-plats-gränby-sportfält-ishall-a"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/halloweendisco-paa-is/",
+          "arrangor": "http://www.uppsalask.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Issport/Skidsport",
+          "Musik",
+          "Övrigt"
+        ],
+        "malgrupp": [
+          "För alla åldrar"
+        ],
+        "adress": "Gränby sportfält - Ishall A, Råbyvägen 71, Uppsala"
+      },
+      "start": "2026-10-30T18:30:00+01:00",
+      "slut": "2026-10-30T20:30:00+01:00",
       "langvarig": false
     },
     {

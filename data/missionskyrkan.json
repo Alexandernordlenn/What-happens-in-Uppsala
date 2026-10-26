@@ -1,36 +1,9 @@
 {
   "kalla": "Uppsala Missionskyrka",
   "webbsida": "https://www.uppsalamissionskyrka.se/",
-  "hamtad": "2026-10-25T09:11:31.880Z",
+  "hamtad": "2026-10-26T10:08:36.911Z",
   "antal": 54,
   "evenemang": [
-    {
-      "id": "missionskyrkan-13228",
-      "titel": "Konsert: Korgossarna",
-      "start": "2026-10-25T15:30:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/konsert-korgossarna-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Extern arrangör"
-        ]
-      }
-    },
     {
       "id": "missionskyrkan-10005273",
       "titel": "Poetiskt till lunch",
@@ -301,6 +274,31 @@
           "id": "missionskyrkan",
           "namn": "Uppsala Missionskyrka",
           "url": "https://uppsalamissionskyrka.se/kalender/samtal-pagar-i-flottsundskyrkan-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13459",
+      "titel": "Vernissage: En kul-tur med färg och form",
+      "start": "2026-11-08T12:30:00+01:00",
+      "slut": "2026-11-08T14:00:00+01:00",
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/vernissage-en-kul-tur-med-farg-och-form/"
         }
       ],
       "langvarig": false,
@@ -1178,16 +1176,16 @@
     },
     {
       "id": "missionskyrkan-13235",
-      "titel": "Konsert: Uppsala Blåsorkester",
-      "start": "2026-12-13T16:00:00+01:00",
-      "slut": null,
+      "titel": "Sjung in julen – en julallsångkonsert med Luciatåg för hela familjen",
+      "start": "2026-12-13T16:30:00+01:00",
+      "slut": "2026-12-13T16:00:00+01:00",
       "plats": {
         "namn": "Missionskyrkan",
         "id": "missionskyrkan"
       },
       "kategori": "musik",
       "gratis": null,
-      "barnOchFamilj": false,
+      "barnOchFamilj": true,
       "kallor": [
         {
           "id": "missionskyrkan",

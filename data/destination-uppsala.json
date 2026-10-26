@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-25T09:08:58.197Z",
-  "antal": 175,
+  "hamtad": "2026-10-26T10:05:58.878Z",
+  "antal": 171,
   "evenemang": [
     {
       "id": "du-katarina-jagellonica-500-ar",
@@ -339,34 +339,6 @@
       }
     },
     {
-      "id": "du-uppsala-kortfilmfestival-2026",
-      "titel": "Uppsala Kortfilmfestival 2026",
-      "start": "2026-10-19",
-      "slut": "2026-10-25",
-      "plats": {
-        "namn": "Uppsala",
-        "id": "uppsala"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/uppsala-kortfilmfestival-2026/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "festival",
-          "film"
-        ]
-      }
-    },
-    {
       "id": "du-studie-i-manskligt-beteende",
       "titel": "Studie i mänskligt beteende",
       "start": "2026-10-23",
@@ -571,41 +543,6 @@
       }
     },
     {
-      "id": "du-retro-antikmassa-2026-10",
-      "titel": "Retro- & Antikmässa 2026",
-      "start": "2026-10-24T10:00:00+02:00",
-      "slut": "2026-10-25",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "ovrigt",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/retro-antikmassa-2026-10/",
-          "arrangor": "https://www.knivstamassor.se/uppsala"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "marknad",
-          "massor"
-        ],
-        "datum": [
-          "2026-10-25"
-        ],
-        "tider": {
-          "start": "10:00"
-        }
-      }
-    },
-    {
       "id": "du-ficklampsvisning-i-slottskallarens-morker",
       "titel": "Ficklampsvisning i slottskällarens mörker",
       "start": "2026-10-25",
@@ -632,74 +569,6 @@
           "hostlov",
           "visningar"
         ]
-      }
-    },
-    {
-      "id": "du-ghibli-highlights-of-joe-hisaishi-2026",
-      "titel": "Ghibli Highlights of Joe Hisaishi",
-      "start": "2026-10-25T16:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/ghibli-highlights-of-joe-hisaishi-2026/",
-          "arrangor": "https://ukk.se/ghibli-highlights-of-joe-hisaishi-16-00/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-25"
-        ],
-        "tider": {
-          "start": "16:00"
-        }
-      }
-    },
-    {
-      "id": "du-tomas-ledin-symphonia-politropou",
-      "titel": "Tomas Ledin – Symphonia Politropou",
-      "start": "2026-10-25T19:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/tomas-ledin-symphonia-politropou/",
-          "arrangor": "https://ukk.se/tomas-ledin-symphonia-politropou/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-25"
-        ],
-        "tider": {
-          "start": "19:00"
-        }
       }
     },
     {

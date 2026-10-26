@@ -1,8 +1,8 @@
 {
   "kalla": "Katalin",
   "webbsida": "https://www.katalin.com/",
-  "hamtad": "2026-10-25T09:11:13.906Z",
-  "antal": 97,
+  "hamtad": "2026-10-26T10:08:19.976Z",
+  "antal": 99,
   "evenemang": [
     {
       "id": "katalin-17322",
@@ -1499,6 +1499,7 @@
       "kategori": "musik",
       "gratis": false,
       "barnOchFamilj": false,
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "katalin",
@@ -2474,6 +2475,35 @@
       }
     },
     {
+      "id": "katalin-17525",
+      "titel": "Familjen",
+      "start": "2027-02-27T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/familjen-3/",
+          "biljetter": "https://secure.tickster.com/f6038wx7mre45rw"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "elektroniskt"
+        ]
+      }
+    },
+    {
       "id": "katalin-16881",
       "titel": "Jazz på Svenska – Bröderna Johansson",
       "start": "2027-03-02T20:00:00+01:00",
@@ -2732,6 +2762,35 @@
         "kategorier": [
           "pop",
           "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17523",
+      "titel": "Ebba Forsberg- amen, amen amen",
+      "start": "2027-05-07T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/ebba-forsberg-amen-amen-amen/",
+          "biljetter": "https://biljett.kulturaktiebolaget.se/sv/p49e1pw3b35avfz/selectproductgroup?_gl=1%2Ahzmlbx%2A_gcl_au%2AMTQ2ODM3ODM1OC4xNzkxODMwNzA5"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "singer-songwriter"
         ]
       }
     },

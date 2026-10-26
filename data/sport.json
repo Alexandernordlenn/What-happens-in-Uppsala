@@ -1,57 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-25T09:11:02.741Z",
-  "antal": 125,
+  "hamtad": "2026-10-26T10:08:09.629Z",
+  "antal": 123,
   "evenemang": [
-    {
-      "id": "sport-sportality-qchc923bna",
-      "titel": "Gamla Upsala – BK Häcken (dam)",
-      "start": "2026-10-25T16:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Fotboll",
-      "liga": "Elitettan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Ligans webbplats",
-          "url": "https://www.elitettan.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-profixio-32655155",
-      "titel": "Uppsala VBS – Habo Wolley",
-      "start": "2026-10-25T17:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Volleyboll",
-      "liga": "Elitserien herr",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/leagueid27936/match/32655155"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-swehockey-90131104",
       "titel": "Almtuna IS – Västerås IK",

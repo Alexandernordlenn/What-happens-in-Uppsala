@@ -1,65 +1,9 @@
 {
   "kalla": "Bror Hjorths Hus",
   "webbsida": "https://brorhjorthshus.se/",
-  "hamtad": "2026-10-25T09:11:34.437Z",
-  "antal": 49,
+  "hamtad": "2026-10-26T10:08:39.549Z",
+  "antal": 47,
   "evenemang": [
-    {
-      "id": "bror-hjorths-hus-20557",
-      "titel": "Guidad visning: Johan Thurfjell – Ljuset",
-      "start": "2026-10-25T13:00:00+01:00",
-      "slut": "2026-10-25T13:30:00+01:00",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "museum",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "bror-hjorths-hus",
-          "namn": "Bror Hjorths Hus",
-          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-johan-thurfjell-ljuset/2026-10-25/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Visning"
-        ],
-        "adress": "Norbyvägen 26, 752 39"
-      }
-    },
-    {
-      "id": "bror-hjorths-hus-20341",
-      "titel": "Guidad visning : Bror Hjorths konst och hem",
-      "start": "2026-10-25T14:00:00+01:00",
-      "slut": "2026-10-25T14:45:00+01:00",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "museum",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "bror-hjorths-hus",
-          "namn": "Bror Hjorths Hus",
-          "url": "https://brorhjorthshus.se/evenemang/guidad-visning-bror-hjorths-konst-och-hem-42/2026-10-25/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Visning"
-        ],
-        "adress": "Norbyvägen 26, 752 39"
-      }
-    },
     {
       "id": "bror-hjorths-hus-20469",
       "titel": "Höstlovskonstskola för barn 8-12 år",

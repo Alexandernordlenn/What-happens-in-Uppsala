@@ -1,179 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-25T09:09:39.881Z",
-  "antal": 299,
+  "hamtad": "2026-10-26T10:06:48.635Z",
+  "antal": 297,
   "evenemang": [
-    {
-      "id": "tickster-ran1n3m760v4dbf",
-      "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
-      "start": "2026-10-25T11:30:00+01:00",
-      "slut": "2026-10-25T12:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala slottshistoriska",
-        "id": "slottshist",
-        "lat": 59.8542,
-        "lng": 17.6351
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/ran1n3m760v4dbf/2026-10-25/hostlov-ficklampsvisning-i-slottskallarens-morker",
-          "biljetter": "https://secure.tickster.com/sv/ran1n3m760v4dbf"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-3bbzjjufl8y1g93",
-      "titel": "Konstfika på finska - Eija Liisa Ahtila",
-      "start": "2026-10-25T14:00:00+01:00",
-      "slut": "2026-10-25T16:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/3bbzjjufl8y1g93/2026-10-25/konstfika-pa-finska-eija-liisa-ahtila",
-          "biljetter": "https://secure.tickster.com/sv/3bbzjjufl8y1g93"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-v5h2dlxpcyyj4ga",
-      "titel": "Ghibli Highlights of Joe Hisaishi",
-      "start": "2026-10-25T16:00:00+01:00",
-      "slut": "2026-10-25T17:30:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/v5h2dlxpcyyj4ga/2026-10-25/ghibli-highlights-of-joe-hisaishi",
-          "biljetter": "https://secure.tickster.com/sv/v5h2dlxpcyyj4ga"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "klassiskt"
-        ]
-      }
-    },
-    {
-      "id": "tickster-5l8vg89w2v679p3",
-      "titel": "Occrasy",
-      "start": "2026-10-25T19:00:00+01:00",
-      "slut": "2026-10-25T21:00:00+01:00",
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/5l8vg89w2v679p3/2026-10-25/occrasy",
-          "biljetter": "https://secure.tickster.com/sv/5l8vg89w2v679p3"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "the kaliber room",
-          "occrasy",
-          "luger",
-          "rock",
-          "konsert",
-          "musik",
-          "live"
-        ]
-      }
-    },
-    {
-      "id": "tickster-aufzakrk2jbh666",
-      "titel": "Ghibli Highlights of Joe Hisaishi",
-      "start": "2026-10-25T19:00:00+01:00",
-      "slut": "2026-10-25T20:30:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/aufzakrk2jbh666/2026-10-25/ghibli-highlights-of-joe-hisaishi",
-          "biljetter": "https://secure.tickster.com/sv/aufzakrk2jbh666"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "klassiskt"
-        ]
-      }
-    },
-    {
-      "id": "tickster-c5r5fel0an6cdww",
-      "titel": "Tomas Ledin – Symphonia Politropou",
-      "start": "2026-10-25T19:00:00+01:00",
-      "slut": "2026-10-25T21:10:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/c5r5fel0an6cdww/2026-10-25/tomas-ledin-symphonia-politropou",
-          "biljetter": "https://secure.tickster.com/sv/c5r5fel0an6cdww"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "tickster-pd1ke8weme0fu4b",
       "titel": "1789 – Den franska revolutionen",
@@ -3255,6 +3085,43 @@
       }
     },
     {
+      "id": "tickster-at8082h188t3j42",
+      "titel": "Songs of love and comfort",
+      "start": "2026-11-25T19:30:00+01:00",
+      "slut": "2026-11-25T22:00:00+01:00",
+      "plats": {
+        "namn": "Blackbird",
+        "id": "blackbird"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/at8082h188t3j42/2026-11-25/songs-of-love-and-comfort",
+          "biljetter": "https://secure.tickster.com/sv/at8082h188t3j42"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "blackbird",
+          "jazz",
+          "uppsala",
+          "late night jazz",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "östra station",
+          "martin sjöstedt  erik tengholm"
+        ]
+      }
+    },
+    {
       "id": "tickster-dxfaf6fvbvyz4tz",
       "titel": "Den Eviga Ungdomens Stad - Rimeika hyllar Uppsala",
       "start": "2026-11-25T20:00:00+01:00",
@@ -5676,6 +5543,29 @@
       }
     },
     {
+      "id": "tickster-grprr02hf50wwy7",
+      "titel": "Allsång i juletid",
+      "start": "2026-12-13T16:30:00+01:00",
+      "slut": "2026-12-13T18:00:00+01:00",
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/grprr02hf50wwy7/2026-12-13/allsang-i-juletid",
+          "biljetter": "https://secure.tickster.com/sv/grprr02hf50wwy7"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-6e922edl44ke4h4",
       "titel": "West Of Eden – Celtic Christmas",
       "start": "2026-12-13T19:00:00+01:00",
@@ -6736,6 +6626,39 @@
           "barncancerfonden",
           "rock",
           "pop"
+        ]
+      }
+    },
+    {
+      "id": "tickster-km07uvhkym1br54",
+      "titel": "Djungelboken – The Musical",
+      "start": "2027-01-24T12:00:00+01:00",
+      "slut": "2027-01-24T14:10:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/km07uvhkym1br54/2027-01-24/djungelboken-the-musical",
+          "biljetter": "https://secure.tickster.com/sv/km07uvhkym1br54"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn",
+          "musik",
+          "övrigt"
         ]
       }
     },
@@ -7894,6 +7817,45 @@
       "fakta": {
         "taggar": [
           "musik"
+        ]
+      }
+    },
+    {
+      "id": "tickster-f6038wx7mre45rw",
+      "titel": "Familjen",
+      "start": "2027-02-27T20:00:00+01:00",
+      "slut": "2027-02-27T22:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/f6038wx7mre45rw/2027-02-27/familjen",
+          "biljetter": "https://secure.tickster.com/sv/f6038wx7mre45rw"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "familjen",
+          "pop",
+          "elektroniskt",
+          "indie"
         ]
       }
     },

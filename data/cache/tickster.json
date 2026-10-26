@@ -1,112 +1,4 @@
 {
-  "https://www.tickster.com/se/sv/events/ran1n3m760v4dbf/2026-10-25/hostlov-ficklampsvisning-i-slottskallarens-morker": {
-    "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
-    "start": "2026-10-25T11:30:00",
-    "slut": "2026-10-25T12:00:00",
-    "platsId": "kl3uktc5vbvyj38",
-    "plats": "Uppsala slottshistoriska",
-    "ort": "Uppsala",
-    "lat": 59.8542,
-    "lng": 17.6351,
-    "taggar": [],
-    "arrangorId": "6aj6nunx2afputb",
-    "arrangor": "Uppsala Slottshistoriska",
-    "kop": "https://secure.tickster.com/sv/ran1n3m760v4dbf",
-    "status": "",
-    "hamtad": "2026-10-09"
-  },
-  "https://www.tickster.com/se/sv/events/3bbzjjufl8y1g93/2026-10-25/konstfika-pa-finska-eija-liisa-ahtila": {
-    "titel": "Konstfika på finska - Eija Liisa Ahtila",
-    "start": "2026-10-25T14:00:00",
-    "slut": "2026-10-25T16:00:00",
-    "platsId": "x01kba461v6968w",
-    "plats": "Uppsala konstmuseum",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [],
-    "arrangorId": "6x97by0jdkknn6z",
-    "arrangor": "Uppsala konstmuseum",
-    "kop": "https://secure.tickster.com/sv/3bbzjjufl8y1g93",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/v5h2dlxpcyyj4ga/2026-10-25/ghibli-highlights-of-joe-hisaishi": {
-    "titel": "Ghibli Highlights of Joe Hisaishi",
-    "start": "2026-10-25T16:00:00",
-    "slut": "2026-10-25T17:30:00",
-    "platsId": "y90dvlpxyewf4h0",
-    "plats": "Uppsala Konsert & Kongress, Sal B",
-    "ort": "Uppsala",
-    "lat": 59.8586,
-    "lng": 17.6389,
-    "taggar": [
-      "klassiskt"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/v5h2dlxpcyyj4ga",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/5l8vg89w2v679p3/2026-10-25/occrasy": {
-    "titel": "Occrasy",
-    "start": "2026-10-25T19:00:00",
-    "slut": "2026-10-25T21:00:00",
-    "platsId": "e5u3nm7871nfkxe",
-    "plats": "Kaliber Room",
-    "ort": "Uppsala",
-    "lat": null,
-    "lng": null,
-    "taggar": [
-      "the kaliber room",
-      "occrasy",
-      "luger",
-      "rock",
-      "konsert",
-      "musik",
-      "live"
-    ],
-    "arrangorId": "xgf9nr0z659bm13",
-    "arrangor": "Kaliber Room",
-    "kop": "https://secure.tickster.com/sv/5l8vg89w2v679p3",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/aufzakrk2jbh666/2026-10-25/ghibli-highlights-of-joe-hisaishi": {
-    "titel": "Ghibli Highlights of Joe Hisaishi",
-    "start": "2026-10-25T19:00:00",
-    "slut": "2026-10-25T20:30:00",
-    "platsId": "y90dvlpxyewf4h0",
-    "plats": "Uppsala Konsert & Kongress, Sal B",
-    "ort": "Uppsala",
-    "lat": 59.8586,
-    "lng": 17.6389,
-    "taggar": [
-      "klassiskt"
-    ],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/aufzakrk2jbh666",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
-  "https://www.tickster.com/se/sv/events/c5r5fel0an6cdww/2026-10-25/tomas-ledin-symphonia-politropou": {
-    "titel": "Tomas Ledin – Symphonia Politropou",
-    "start": "2026-10-25T19:00:00",
-    "slut": "2026-10-25T21:10:00",
-    "platsId": "v3gu3ky2h68ytd5",
-    "plats": "Uppsala Konsert & Kongress, Stora salen",
-    "ort": "Uppsala",
-    "lat": 59.8617,
-    "lng": 17.6469,
-    "taggar": [],
-    "arrangorId": "y5zw8v159wk4fe3",
-    "arrangor": "Uppsala Konsert & Kongress",
-    "kop": "https://secure.tickster.com/sv/c5r5fel0an6cdww",
-    "status": "",
-    "hamtad": "2026-09-24"
-  },
   "https://www.tickster.com/se/sv/events/pd1ke8weme0fu4b/2026-10-26/1789-den-franska-revolutionen": {
     "titel": "1789 – Den franska revolutionen",
     "start": "2026-10-26T13:00:00",
@@ -2095,6 +1987,33 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/at8082h188t3j42/2026-11-25/songs-of-love-and-comfort": {
+    "titel": "Songs of love and comfort",
+    "start": "2026-11-25T19:30:00",
+    "slut": "2026-11-25T22:00:00",
+    "platsId": "y7j590k6ew5bn9f",
+    "plats": "Blackbird",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [
+      "blackbird",
+      "jazz",
+      "uppsala",
+      "late night jazz",
+      "musik",
+      "konsert",
+      "live",
+      "kaliber live",
+      "östra station",
+      "martin sjöstedt  erik tengholm"
+    ],
+    "arrangorId": "gf5dj34fjr9ddw5",
+    "arrangor": "Kaliber Live",
+    "kop": "https://secure.tickster.com/sv/at8082h188t3j42",
+    "status": "",
+    "hamtad": "2026-10-26"
+  },
   "https://www.tickster.com/se/sv/events/dxfaf6fvbvyz4tz/2026-11-25/den-eviga-ungdomens-stad-rimeika-hyllar-uppsala": {
     "titel": "Den Eviga Ungdomens Stad - Rimeika hyllar Uppsala",
     "start": "2026-11-25T20:00:00",
@@ -3658,6 +3577,22 @@
     "status": "",
     "hamtad": "2026-09-24"
   },
+  "https://www.tickster.com/se/sv/events/grprr02hf50wwy7/2026-12-13/allsang-i-juletid": {
+    "titel": "Allsång i juletid",
+    "start": "2026-12-13T16:30:00",
+    "slut": "2026-12-13T18:00:00",
+    "platsId": "mz84k7gbfgb8t4a",
+    "plats": "Missionskyrkan",
+    "ort": "Uppsala",
+    "lat": null,
+    "lng": null,
+    "taggar": [],
+    "arrangorId": "dlb5kue35rphkmf",
+    "arrangor": "Uppsala Blåsorkester",
+    "kop": "https://secure.tickster.com/sv/grprr02hf50wwy7",
+    "status": "",
+    "hamtad": "2026-10-26"
+  },
   "https://www.tickster.com/se/sv/events/6e922edl44ke4h4/2026-12-13/west-of-eden-celtic-christmas": {
     "titel": "West Of Eden – Celtic Christmas",
     "start": "2026-12-13T19:00:00",
@@ -4361,6 +4296,26 @@
     "status": "",
     "hamtad": "2026-10-22"
   },
+  "https://www.tickster.com/se/sv/events/km07uvhkym1br54/2027-01-24/djungelboken-the-musical": {
+    "titel": "Djungelboken – The Musical",
+    "start": "2027-01-24T12:00:00",
+    "slut": "2027-01-24T14:10:00",
+    "platsId": "v3gu3ky2h68ytd5",
+    "plats": "Uppsala Konsert & Kongress, Stora salen",
+    "ort": "Uppsala",
+    "lat": 59.8617,
+    "lng": 17.6469,
+    "taggar": [
+      "barn",
+      "musik",
+      "övrigt"
+    ],
+    "arrangorId": "y5zw8v159wk4fe3",
+    "arrangor": "Uppsala Konsert & Kongress",
+    "kop": "https://secure.tickster.com/sv/km07uvhkym1br54",
+    "status": "",
+    "hamtad": "2026-10-26"
+  },
   "https://www.tickster.com/se/sv/events/7u5xxfv6bth9p98/2027-01-24/poste-restante-24-1": {
     "titel": "Poste Restante 24/1",
     "start": "2027-01-24T16:00:00",
@@ -5061,6 +5016,33 @@
     "kop": "https://secure.tickster.com/sv/5xgw2w4blu4rp07",
     "status": "",
     "hamtad": "2026-09-24"
+  },
+  "https://www.tickster.com/se/sv/events/f6038wx7mre45rw/2027-02-27/familjen": {
+    "titel": "Familjen",
+    "start": "2027-02-27T20:00:00",
+    "slut": "2027-02-27T22:00:00",
+    "platsId": "l0h5xlh16zztxwa",
+    "plats": "Katalin and all that Jazz",
+    "ort": "Uppsala",
+    "lat": 59.8595,
+    "lng": 17.6465,
+    "taggar": [
+      "katalinlive",
+      "uppsala",
+      "katalin",
+      "musik",
+      "konsert",
+      "kaliber live",
+      "familjen",
+      "pop",
+      "elektroniskt",
+      "indie"
+    ],
+    "arrangorId": "gf5dj34fjr9ddw5",
+    "arrangor": "Kaliber Live",
+    "kop": null,
+    "status": "",
+    "hamtad": "2026-10-26"
   },
   "https://www.tickster.com/se/sv/events/8ab3ed8de0ff5uw/2027-02-28/sirius-vs-fbc-lerum": {
     "titel": "Sirius vs FBC Lerum",

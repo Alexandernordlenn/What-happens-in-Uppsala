@@ -1,135 +1,9 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-25T09:11:19.284Z",
-  "antal": 112,
+  "hamtad": "2026-10-26T10:08:25.113Z",
+  "antal": 109,
   "evenemang": [
-    {
-      "id": "ukk-46229",
-      "titel": "Uppsala Kortfilmfestival",
-      "start": "2026-10-25T11:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/uppsala-kortfilmfestival-3/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "samtal",
-          "barn"
-        ],
-        "taggar": [
-          "hostlov"
-        ]
-      }
-    },
-    {
-      "id": "ukk-44815",
-      "titel": "Ghibli Highlights of Joe Hisaishi",
-      "start": "2026-10-25T16:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/ghibli-highlights-of-joe-hisaishi-16-00/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "klassiskt"
-        ],
-        "taggar": [
-          "hostlov",
-          "familj",
-          "student",
-          "mhv"
-        ]
-      }
-    },
-    {
-      "id": "ukk-33085",
-      "titel": "Tomas Ledin – Symphonia Politropou",
-      "start": "2026-10-25T19:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/tomas-ledin-symphonia-politropou/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "klassiskt",
-          "pop-rock"
-        ],
-        "taggar": [
-          "publikfavoriter"
-        ]
-      }
-    },
-    {
-      "id": "ukk-40932",
-      "titel": "Ghibli Highlights of Joe Hisaishi",
-      "start": "2026-10-25T19:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/ghibli-highlights-of-joe-hisaishi-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "klassiskt"
-        ],
-        "taggar": [
-          "student",
-          "hostlov"
-        ]
-      }
-    },
     {
       "id": "ukk-44787",
       "titel": "1789 – Den franska revolutionen",
@@ -157,10 +31,10 @@
           "barn"
         ],
         "taggar": [
-          "hostlov",
           "familj",
           "aktuellt",
-          "miu"
+          "miu",
+          "hostlov"
         ]
       }
     },
@@ -218,9 +92,9 @@
           "barn"
         ],
         "taggar": [
+          "familj",
           "aktuellt",
-          "hostlov",
-          "familj"
+          "hostlov"
         ]
       }
     },
@@ -251,8 +125,8 @@
           "teater"
         ],
         "taggar": [
-          "hostlov",
-          "familj"
+          "familj",
+          "hostlov"
         ]
       }
     },
@@ -279,8 +153,8 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "pop-rock",
-          "nostalgi-tribute"
+          "nostalgi-tribute",
+          "pop-rock"
         ],
         "taggar": []
       }
@@ -309,12 +183,12 @@
       "fakta": {
         "kategorier": [
           "jazz",
-          "festligheter-hogtider",
-          "barn"
+          "barn",
+          "festligheter-hogtider"
         ],
         "taggar": [
-          "hostlov",
-          "aktuellt"
+          "aktuellt",
+          "hostlov"
         ]
       }
     },
@@ -345,10 +219,10 @@
           "jazz"
         ],
         "taggar": [
-          "jazz",
           "familj",
           "aktuellt",
-          "hostlov"
+          "hostlov",
+          "jazz"
         ]
       }
     },
@@ -466,7 +340,7 @@
         ],
         "taggar": [
           "jazz",
-          "aktuellt",
+          "publikfavoriter",
           "student",
           "mhv"
         ]
@@ -621,8 +495,8 @@
           "klassiskt"
         ],
         "taggar": [
-          "miu",
-          "aktuellt"
+          "aktuellt",
+          "miu"
         ]
       }
     },
@@ -835,10 +709,10 @@
           "nostalgi-tribute"
         ],
         "taggar": [
-          "jazz",
-          "lunchkonsert",
           "student",
-          "mhv"
+          "mhv",
+          "jazz",
+          "lunchkonsert"
         ]
       }
     },
@@ -1197,8 +1071,8 @@
       "fakta": {
         "kategorier": [
           "dans",
-          "barn",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "barn"
         ],
         "taggar": [
           "dans",
@@ -1264,9 +1138,9 @@
           "pop-rock"
         ],
         "taggar": [
+          "mhv",
           "publikfavoriter",
-          "student",
-          "mhv"
+          "student"
         ]
       }
     },
@@ -1384,9 +1258,9 @@
       "fakta": {
         "kategorier": [
           "dans",
-          "barn",
           "klassiskt",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "barn"
         ],
         "taggar": [
           "dans",
@@ -1644,9 +1518,9 @@
           "klassiskt"
         ],
         "taggar": [
-          "jul",
           "student",
-          "mhv"
+          "mhv",
+          "jul"
         ]
       }
     },
@@ -1677,9 +1551,9 @@
           "dans"
         ],
         "taggar": [
+          "jul",
           "publikfavoriter",
-          "aktuellt",
-          "jul"
+          "aktuellt"
         ]
       }
     },
@@ -1741,11 +1615,11 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "student",
+          "mhv",
           "jul",
           "jazz",
-          "aktuellt",
-          "student",
-          "mhv"
+          "aktuellt"
         ]
       }
     },
@@ -1907,8 +1781,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "publikfavoriter",
-          "jul"
+          "jul",
+          "publikfavoriter"
         ]
       }
     },
@@ -1970,15 +1844,15 @@
       "fakta": {
         "kategorier": [
           "nostalgi-tribute",
-          "jazz",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "jazz"
         ],
         "taggar": [
+          "jul",
+          "jazz",
           "lunchkonsert",
           "student",
-          "mhv",
-          "jul",
-          "jazz"
+          "mhv"
         ]
       }
     },
@@ -2005,8 +1879,8 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "barn",
-          "klassiskt"
+          "klassiskt",
+          "barn"
         ],
         "taggar": [
           "familj"
@@ -2070,8 +1944,8 @@
           "jazz"
         ],
         "taggar": [
-          "jul",
-          "publikfavoriter"
+          "publikfavoriter",
+          "jul"
         ]
       }
     },
@@ -2102,8 +1976,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "jul",
-          "miu"
+          "miu",
+          "jul"
         ]
       }
     },
@@ -2155,6 +2029,37 @@
           "id": "ukk",
           "namn": "Uppsala Konsert & Kongress",
           "url": "https://ukk.se/djungelboken-the-musical-2/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "barn",
+          "teater"
+        ],
+        "taggar": [
+          "familj"
+        ]
+      }
+    },
+    {
+      "id": "ukk-46703",
+      "titel": "Djungelboken – The Musical",
+      "start": "2027-01-24T12:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/djungelboken-the-musical-3/"
         }
       ],
       "langvarig": false,
@@ -2368,8 +2273,8 @@
           "humor"
         ],
         "taggar": [
-          "publikfavoriter",
-          "humor"
+          "humor",
+          "publikfavoriter"
         ]
       }
     },
@@ -2666,8 +2571,8 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "aktuellt",
+          "familj"
         ]
       }
     },
@@ -2877,8 +2782,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "aktuellt",
+          "familj"
         ]
       }
     },
