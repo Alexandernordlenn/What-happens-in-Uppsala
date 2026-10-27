@@ -1,0 +1,31 @@
+# Provkör Ticksters API och skriver en rapport om vad som finns i Uppsala.
+# Sparar ingenting och ändrar inget på sidan.
+#
+# Startas för hand: fliken Actions -> "Prova Tickster-API" -> Run workflow.
+# Rapporten står i körningens sammanfattning (Summary).
+
+name: Prova Tickster-API
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  prova:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Hämta koden
+        uses: actions/checkout@v7
+
+      - name: Installera Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Prova API:et
+        env:
+          TICKSTER_API_KEY: ${{ secrets.TICKSTER_API_KEY }}
+        run: node scripts/tickster/prova-api.mjs
