@@ -6,6 +6,7 @@
 
 import { appendFile } from "node:fs/promises";
 import { USER_AGENT } from "../gemensamt/webb.mjs";
+import { iUppsalaKommun } from "../gemensamt/kommungrans.mjs";
 
 const nyckel = (process.env.BILLETTO_API_KEY || "").trim();
 const rader = [];
@@ -64,7 +65,37 @@ async function main() {
       skriv("");
       skriv(`Städer på första sidan: ${topp(se.map((ev) => plats(ev).split(", ")[1] || "okänd")).map(([k, n]) => `${k} (${n})`).join(", ")}`);
     }
-    // 2. Arrangörens egna evenemang, för att se om nyckeln bara gäller det egna kontot.
+    // 2. Alla sidor, och vilka som ligger i Uppsala kommun (koordinaterna avgör).
+    skriv("");
+    skriv("## Alla publika evenemang, sida för sida");
+    let adress = "https://billetto.se/api/v3/public/events?limit=100";
+    const alla = [];
+    for (let sida = 1; adress && sida <= 20; sida++) {
+      const { status, json } = await anrop(adress);
+      if (status >= 400 || !json) {
+        skriv(`Sida ${sida}: svar ${status}`);
+        break;
+      }
+      alla.push(...(json.data || []));
+      adress = json.has_more && json.next_url ? json.next_url : null;
+    }
+    skriv(`Hämtade ${alla.length} evenemang.`);
+    if (alla[0]) skriv(`Exempel på plats: ${JSON.stringify(alla[0].location)}. Starttid: ${alla[0].startdate}. Kategori: ${JSON.stringify(alla[0].categorization)}`);
+    const koord = (ev) => {
+      const c = ev.location?.coordinates || {};
+      const lat = +(c.latitude ?? c.lat ?? (Array.isArray(c) ? c[0] : NaN));
+      const lng = +(c.longitude ?? c.lng ?? c.lon ?? (Array.isArray(c) ? c[1] : NaN));
+      return [lat, lng];
+    };
+    const uppsala = alla.filter((ev) => {
+      const [lat, lng] = koord(ev);
+      return Number.isFinite(lat) && Number.isFinite(lng) ? iUppsalaKommun(lat, lng) : /uppsala/i.test(ev.location?.city || "");
+    });
+    skriv(`**I Uppsala kommun: ${uppsala.length}.** Utan koordinater totalt: ${alla.filter((ev) => !Number.isFinite(koord(ev)[0])).length}.`);
+    for (const ev of uppsala) skriv(`- ${String(ev.startdate).slice(0, 16)} | ${ev.title} | ${plats(ev)} | ${ev.categorization?.category || ev.categorization?.type || ""} | ${ev.state}`);
+    skriv(`Regioner i Uppsala-evenemangen: ${topp(uppsala.map((ev) => `${ev.location?.region}/${ev.location?.subregion}`)).map(([k, n]) => `${k} (${n})`).join(", ")}`);
+
+    // 3. Arrangörens egna evenemang, för att se om nyckeln bara gäller det egna kontot.
     await prova("Bara kontots egna evenemang (organiser)", "https://billetto.se/api/v3/organiser/events?limit=10");
   }
   if (process.env.GITHUB_STEP_SUMMARY) await appendFile(process.env.GITHUB_STEP_SUMMARY, rader.join("\n") + "\n");
