@@ -42,7 +42,7 @@ En samlad kalender över allt som händer i Uppsala kommun, byggd från officiel
   - Beskrivningen får visas, tack vare licensen.
 - Typer till våra kategorier: `musikOchKor` → musik, `konstOchKultur` → museum, `studierOchSamtal` → prat, `barnverksamhet` och `ungdomsverksamhet` → egenskapen barn och familj. Saknas typ klassificeras händelsen på titel och beskrivning.
 
-### Tickster (ansökan skickad, väntar på nyckel)
+### Tickster (API-nyckel sedan 27 okt 2026)
 
 - Event Dump API (hela utbudet en gång per dygn) som grund, Event API v1.0 för närmaste veckan.
 - Filtrera på koordinater inom Uppsala kommun, inte på ortnamn.
@@ -111,7 +111,7 @@ Allt körs av `.github/workflows/hamta-evenemang.yml` varje dag 04:13 UTC, och k
 | Svenska kyrkan | `scripts/svenska-kyrkan/` | Officiellt API med nyckel | Väntar på `SVK_API_KEY`. Fältnamnen är obekräftade. |
 | Uppsala stadsteater | `scripts/stadsteatern/` | Teaterns öppna WordPress-flöde (`performance-page`) | Provkörd, runt 200 föreställningar. |
 | Destination Uppsala | `scripts/destination-uppsala/` | Läser listan `/event/`, klockslag från evenemangens sidor | Provkörd, runt 160 evenemang. |
-| Tickster | `scripts/tickster/` | Med `TICKSTER_API_KEY`: Event Dump API plus Event API för närmaste veckan, filtrerat på kommungränsen (`api.mjs`). Utan nyckel, eller om API:et inte svarar: listan per ort och evenemangens sidor (schema.org). | Webbsidorna provkörda, runt 350 evenemang. API-vägen byggd mot Swagger och dokumentationen, väntar på nyckel. |
+| Tickster | `scripts/tickster/` | Med `TICKSTER_API_KEY`: Event Dump API plus Event API för närmaste veckan, filtrerat på kommungränsen (`api.mjs`). Utan nyckel, eller om API:et inte svarar: listan per ort och evenemangens sidor (schema.org). | Nyckeln inlagd 27 okt 2026. Provkört med workflowet "Prova Tickster-API": runt 300 evenemang i kommunen, samma antal som webbsidorna men med koordinater och taggar. Presentkort och paket tas bort. Webbsidorna är reserv. |
 | Bibliotek Uppsala | `scripts/bibliotek/` | Axiells öppna API, samma som bibliotekets sida använder | Provkörd, runt 500 evenemang. Läxhjälp, IT-handledning och juridisk rådgivning tas bort. |
 | Heja Uppsala | `scripts/heja/` | Läser kalenderlistan och "När och var?" på evenemangens sidor | Provkörd, runt 460 evenemang. Tillfälligt under testfasen, enligt Alexanders beslut. Deras RSS är låst med nyckel och kalendern är en betaltjänst, så fråga dem innan sidan blir skarp. |
 | Förbund och ligor (sport) | `scripts/sport/` | Ligornas och förbundens egna system, se `scripts/sport/konfig.mjs` | Provkörd, runt 160 matcher på arenor i Uppsala. Id för ligor och lag byts varje säsong. |

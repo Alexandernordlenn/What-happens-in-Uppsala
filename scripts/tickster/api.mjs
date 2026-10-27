@@ -36,6 +36,10 @@ export function platsIKommunen(venue) {
 // Vi tar bara de enskilda, annars blir det dubbletter.
 const arEnskilt = (ev) => !["production", "collection"].includes(ev.hierarchyType || ev.eventHierarchyType || "event");
 
+// Presentkort och paket säljs som "evenemang" men är det inte.
+export const PRODUKT = /presentkort|gåvokort|studentpaket|säsongskort|årskort|klippkort|medlemskap/i;
+const arEvenemang = (ev) => arEnskilt(ev) && !PRODUKT.test(String(ev.name || ""));
+
 const dagar = (a, b) => (a && b ? (Date.parse(String(b).slice(0, 10)) - Date.parse(String(a).slice(0, 10))) / 86400000 : 0);
 
 // Ett evenemang från dumpen ({ venueId }) eller från Event API ({ venue }).
@@ -77,7 +81,7 @@ export function tillEvenemang(ev, venue) {
 export function tolkaDump(dump, idag) {
   const platser = new Map((dump?.venues || []).map((v) => [v.id, v]));
   return (dump?.events || [])
-    .filter((ev) => ev.published !== false && arEnskilt(ev))
+    .filter((ev) => ev.published !== false && arEvenemang(ev))
     .filter((ev) => platsIKommunen(platser.get(ev.venueId)))
     .map((ev) => tillEvenemang(ev, platser.get(ev.venueId)))
     .filter((e) => e.start && (e.slut || e.start).slice(0, 10) >= idag);
@@ -86,7 +90,7 @@ export function tolkaDump(dump, idag) {
 // Event API: { items: [...] }. Ger evenemangen i kommunen inom de närmaste dagarna.
 export function tolkaSok(svar, idag, sista) {
   return (svar?.items || [])
-    .filter(arEnskilt)
+    .filter(arEvenemang)
     .filter((ev) => platsIKommunen(ev.venue))
     .map((ev) => tillEvenemang(ev, ev.venue))
     .filter((e) => e.start && e.start.slice(0, 10) >= idag && e.start.slice(0, 10) <= sista);
