@@ -1,28 +1,28 @@
 {
-  "matt": "2026-10-27T09:51:13.984Z",
+  "matt": "2026-10-27T11:03:30.506Z",
   "idag": "2026-10-27",
   "totalt": {
-    "antal": 1664,
-    "utanKlockslag": 0.036,
+    "antal": 1539,
+    "utanKlockslag": 0.035,
     "ovrigt": 0.034,
-    "familjUtanAlder": 0.196,
-    "utanOmrade": 0.019,
-    "sammanslagna": 712,
-    "pagar14": 14,
-    "borttagnaKurser": 24,
+    "familjUtanAlder": 0.187,
+    "utanOmrade": 0.018,
+    "sammanslagna": 499,
+    "pagar14": 10,
+    "borttagnaKurser": 23,
     "aiEvenemang": 0,
     "misstanktaDubbletter": 0,
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
-      "langvariga": 10,
-      "samma-kalla": 5,
-      "serie-uttryckliga-datum": 9,
-      "speltid-mot-tillfallen": 12,
-      "festival": 30,
-      "lika": 328,
-      "innehaller": 101,
+      "langvariga": 5,
+      "samma-kalla": 4,
+      "serie-uttryckliga-datum": 8,
+      "speltid-mot-tillfallen": 11,
+      "festival": 14,
+      "lika": 241,
+      "innehaller": 51,
       "likhet": 1,
-      "sport": 82
+      "sport": 37
     }
   },
   "perKalla": {
@@ -33,7 +33,7 @@
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.01,
-      "sammanslagna": 82,
+      "sammanslagna": 37,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -59,7 +59,7 @@
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 110,
+      "sammanslagna": 98,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -72,7 +72,7 @@
       "ovrigt": 0.014,
       "familjUtanAlder": 0.111,
       "utanOmrade": 0.006,
-      "sammanslagna": 146,
+      "sammanslagna": 139,
       "pagar14": 0,
       "borttagnaKurser": 22,
       "aiEvenemang": 0,
@@ -85,7 +85,7 @@
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 23,
+      "sammanslagna": 17,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -93,12 +93,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 83,
+      "antal": 85,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 140,
+      "sammanslagna": 78,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -111,7 +111,7 @@
       "ovrigt": 0.038,
       "familjUtanAlder": 0.682,
       "utanOmrade": 0,
-      "sammanslagna": 206,
+      "sammanslagna": 142,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -137,7 +137,7 @@
       "ovrigt": 0,
       "familjUtanAlder": 0.714,
       "utanOmrade": 0,
-      "sammanslagna": 5,
+      "sammanslagna": 0,
       "pagar14": 0,
       "borttagnaKurser": 1,
       "aiEvenemang": 0,
@@ -163,7 +163,7 @@
       "ovrigt": 0.023,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 42,
+      "sammanslagna": 35,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -171,38 +171,25 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 266,
-      "utanKlockslag": 0.059,
-      "ovrigt": 0.109,
-      "familjUtanAlder": 0.79,
+      "antal": 264,
+      "utanKlockslag": 0.073,
+      "ovrigt": 0.11,
+      "familjUtanAlder": 0.797,
       "utanOmrade": 0.034,
-      "sammanslagna": 318,
+      "sammanslagna": 253,
       "pagar14": 9,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
       "misstanktaDubbletter": 0
     },
-    "h": {
-      "namn": "Heja",
-      "antal": 334,
-      "utanKlockslag": 0.04,
-      "ovrigt": 0.03,
-      "familjUtanAlder": 0.811,
-      "utanOmrade": 0.012,
-      "sammanslagna": 402,
-      "pagar14": 5,
-      "borttagnaKurser": 1,
-      "aiEvenemang": 0,
-      "misstanktaDubbletter": 0
-    },
     "t": {
       "namn": "Tickster",
-      "antal": 239,
+      "antal": 241,
       "utanKlockslag": 0.018,
       "ovrigt": 0.054,
       "familjUtanAlder": 0.586,
       "utanOmrade": 0.05,
-      "sammanslagna": 364,
+      "sammanslagna": 240,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -223,19 +210,6 @@
       "titlar": [
         "Leksaksbyte på höstlovet",
         "Leksaksbyte på höstlovet!"
-      ]
-    },
-    {
-      "regel": "langvariga",
-      "dag": "2026-10-24",
-      "plats": "biotopia",
-      "kallor": [
-        "u",
-        "h"
-      ],
-      "titlar": [
-        "Återbruksverkstad på Höstlovet",
-        "Återbruksverkstad på Biotopia"
       ]
     },
     {
@@ -290,57 +264,6 @@
       ]
     },
     {
-      "regel": "langvariga",
-      "dag": "2026-05-08",
-      "plats": "domkyrkan",
-      "kallor": [
-        "d",
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Katarina Jagellonica 500 år",
-        "Utställn: Katarina Jagellonica i Domkyrkan"
-      ]
-    },
-    {
-      "regel": "langvariga",
-      "dag": "2026-10-30",
-      "plats": "odinsborg",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Halloween på Odinsborg"
-      ]
-    },
-    {
-      "regel": "langvariga",
-      "dag": "2026-11-06",
-      "plats": "uppsala",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Allt ljus på Uppsala 2026",
-        "Allt ljus på Uppsala"
-      ]
-    },
-    {
-      "regel": "langvariga",
-      "dag": "2026-07-04",
-      "plats": "upplandsmuseet",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Visning: Walmstedtska gården"
-      ]
-    },
-    {
       "regel": "samma-kalla",
       "dag": "2026-11-18",
       "plats": "balingebib",
@@ -374,18 +297,6 @@
       ],
       "titlar": [
         "Gymnastikläger"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
-      "dag": "2026-11-29",
-      "plats": "kulturoasen",
-      "kallor": [
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Country efter jobbet"
       ]
     },
     {
@@ -507,23 +418,6 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-31",
-      "plats": "konstmuseum",
-      "kallor": [
-        "d",
-        "h",
-        "h",
-        "h",
-        "h"
-      ],
-      "titlar": [
-        "Familjelördagar på Uppsala Konstmuseum",
-        "Familjelördagar på Uppsala konstmuseum"
-      ],
-      "serie": "du-familjelordagar-pa-uppsala-konstmuseum-2026"
-    },
-    {
-      "regel": "serie-uttryckliga-datum",
       "dag": "2026-11-05",
       "plats": "biotopia",
       "kallor": [
@@ -565,20 +459,6 @@
         "”Så enkelt går du ner 10 kg!” – Teater Elin"
       ],
       "tillfallen": 1
-    },
-    {
-      "regel": "speltid-mot-tillfallen",
-      "dag": "2026-09-03",
-      "plats": "konstmuseum",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Art Night 2026",
-        "Art Night på Uppsala konstmuseum"
-      ],
-      "tillfallen": 5
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -711,19 +591,7 @@
       "titlar": [
         "Greczula"
       ],
-      "tillfallen": 2
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-11-28",
-      "plats": "kvarngardesskolanidrottshall",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Svenska Mästerskapen HEMA 2026"
-      ]
+      "tillfallen": 1
     },
     {
       "regel": "festival",
@@ -793,24 +661,6 @@
         "c",
         "c",
         "c",
-        "h"
-      ],
-      "titlar": [
-        "Jul med Cirkus Cirkör",
-        "Jul med Cirkus Cirkör: Årets mest oväntade julbord"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-12-09",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "c",
-        "c",
-        "c",
-        "c",
-        "h",
         "t"
       ],
       "titlar": [
@@ -828,7 +678,6 @@
         "c",
         "c",
         "c",
-        "h",
         "t",
         "t"
       ],
@@ -847,7 +696,6 @@
         "c",
         "c",
         "c",
-        "h",
         "t",
         "t",
         "t"
@@ -867,7 +715,6 @@
         "c",
         "c",
         "c",
-        "h",
         "t",
         "t",
         "t",
@@ -876,19 +723,6 @@
       "titlar": [
         "Jul med Cirkus Cirkör",
         "Jul med Cirkus Cirkör: Årets mest oväntade julbord"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-12-12",
-      "plats": "kulturoasen",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Hågaby julmarknad 2026",
-        "Hågaby Julmarknad"
       ]
     },
     {
@@ -924,183 +758,11 @@
       "kallor": [
         "d",
         "c",
-        "h"
-      ],
-      "titlar": [
-        "Upzala Terminus 2027 Warhammer Tournament",
-        "Upzala Terminus 2027 – Warhammer Tournament",
-        "Upzala Terminus – Warhammer Tournament"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2027-01-30",
-      "plats": "ukk",
-      "kallor": [
-        "d",
-        "c",
-        "h",
         "t"
       ],
       "titlar": [
         "Upzala Terminus 2027 Warhammer Tournament",
-        "Upzala Terminus 2027 – Warhammer Tournament",
-        "Upzala Terminus – Warhammer Tournament"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-11-05",
-      "plats": "brorhjorth",
-      "kallor": [
-        "h",
-        "j"
-      ],
-      "titlar": [
-        "Johan Thurfjell – Ljuset",
-        "Guidad visning: Johan Thurfjell – Ljuset"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-11-06",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "l"
-      ],
-      "titlar": [
-        "Phontrattarnes 70-års jubileum",
-        "Phontrattarnes 70-års jubileum!"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-11-06",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "l",
-        "l"
-      ],
-      "titlar": [
-        "Phontrattarnes 70-års jubileum",
-        "Phontrattarnes 70-års jubileum!"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-11-06",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "l",
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Phontrattarnes 70-års jubileum",
-        "Phontrattarnes 70-års jubileum!"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-11-06",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "l",
-        "l",
-        "t",
-        "t"
-      ],
-      "titlar": [
-        "Phontrattarnes 70-års jubileum",
-        "Phontrattarnes 70-års jubileum!"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-11-11",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "l"
-      ],
-      "titlar": [
-        "Happy Birthday Neil Young",
-        "Happy Birthday Neil Young!"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-11-11",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "l",
-        "l"
-      ],
-      "titlar": [
-        "Happy Birthday Neil Young",
-        "Happy Birthday Neil Young!"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-11-11",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "l",
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Happy Birthday Neil Young",
-        "Happy Birthday Neil Young!"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-11-11",
-      "plats": "katalin",
-      "kallor": [
-        "h",
-        "l",
-        "l",
-        "t",
-        "t"
-      ],
-      "titlar": [
-        "Happy Birthday Neil Young",
-        "Happy Birthday Neil Young!"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-11-12",
-      "plats": "brorhjorth",
-      "kallor": [
-        "h",
-        "j"
-      ],
-      "titlar": [
-        "Johan Thurfjell – Ljuset",
-        "Guidad visning: Johan Thurfjell – Ljuset"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-11-19",
-      "plats": "brorhjorth",
-      "kallor": [
-        "h",
-        "j"
-      ],
-      "titlar": [
-        "Johan Thurfjell – Ljuset",
-        "Guidad visning: Johan Thurfjell – Ljuset"
+        "Upzala Terminus 2027 – Warhammer Tournament"
       ]
     },
     {
@@ -1114,21 +776,6 @@
       "titlar": [
         "Oktoberstämman 2026",
         "Oktoberstämman 2026 – med Hoven Droven"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-10-31",
-      "plats": "ukk",
-      "kallor": [
-        "t",
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Oktoberstämman 2026",
-        "Oktoberstämman 2026 – med Hoven Droven",
-        "Oktoberstämman"
       ]
     },
     {
@@ -3584,2581 +3231,6 @@
       "poang": 1
     },
     {
-      "regel": "innehaller",
-      "dag": "2026-10-27",
-      "plats": "kaliber",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Fyris Comedy – Stand up med Johanna Wagrell, Johanna Westlin mfl",
-        "Fyris Comedy-Johanna Wagrell"
-      ],
-      "poang": 0.5
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-10-28",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – Västerås IK",
-        "Almtuna-Västerås"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-28",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Jonatan Stenson",
-        "Jonatan Stenson – Blackheart"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-29",
-      "plats": "storvretabib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Gamla Uppsala – från hallar till kvinnosmycken"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-29",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Viktor Norén & Linus Wahlgren – Våra liv, våra musikaler",
-        "Viktor Norén & Linus Wahlgren"
-      ],
-      "poang": 0.57
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-29",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Gamla Grubblerier – En komisk kabaré om att åldras"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-29",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Terra"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-30",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Från Aladdin till Elsa"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-30",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Elton John meets Freddie Mercury"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-30",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "The Mwuanas"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-10-31",
-      "plats": "ifu",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Storvreta IBK – KAIS Mora IF (dam)",
-        "Storvreta Dam-Mora"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-10-31",
-      "plats": "studenternas",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "IK Sirius – IFK Vänersborg",
-        "Sirius-Vänersborg"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-10-31",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – AIK",
-        "Almtuna-AIK"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-31",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Marky Ramone´s Blitzkrieg (US)",
-        "Marky Ramone’s Blitzkrieg",
-        "Marky Ramone´s Blitzkrieg"
-      ],
-      "poang": 0.8
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-31",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Halloween med Fat Lizzy"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-01",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Fem myror - Konsert!",
-        "Fem myror – Konsert!",
-        "Fem myror",
-        "Fem myror – Konsert"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-01",
-      "plats": "brorhjorth",
-      "kallor": [
-        "j",
-        "h"
-      ],
-      "titlar": [
-        "Guidad visning: Johan Thurfjell – Ljuset",
-        "Johan Thurfjell – Ljuset"
-      ],
-      "poang": 0.6
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-01",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Dungen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-02",
-      "plats": "fyrishov",
-      "kallor": [
-        "i",
-        "f",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – Borås Basket",
-        "Uppsala basket H-Borås"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-03",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Four shades of grey"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-04",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Hardcore Superstar"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-06",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Bach Jazz – Jazzhörnan"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-07",
-      "plats": "usif",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – Norrköping Dolphins (dam)",
-        "Uppsala basket D-Norrköping"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-07",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Creedence Tribute, Best of CCR & John Fogerty Tour",
-        "Creedence Tribute"
-      ],
-      "poang": 0.29
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-07",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Kaeli Abdi – Påskkärringen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-07",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Pussy Riot – Riot Days",
-        "Pussy Riot"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-08",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Framtidsglöd"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-08",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Linnékvintetten 40 år – Jubileumskonsert",
-        "Linnékvintetten 40 år"
-      ],
-      "poang": 0.75
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-08",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Jag är Carola – En musikalisk unik livsberättelse",
-        "Jag är Carola – en musikalisk livsberättelse",
-        "Jag är Carola"
-      ],
-      "poang": 0.5
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-11",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Ellinor Skagegård",
-        "Författarbesök: Ellinor Skagegård"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-11",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – Nybro Vikings IF",
-        "Almtuna-Nybro"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-11",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Rotting Christ & Grand Harvest",
-        "Rotting Christ"
-      ],
-      "poang": 0.5
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-12",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Galenskapens filosofi – Sofia Jeppsson",
-        "Författarbesök: Galenskapens filosofi – Sofia Jeppsson"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-12",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "The Simon & Garfunkel Story",
-        "The Simon & Garfunkel Story – Ukk – 2026"
-      ],
-      "poang": 0.75
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-12",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "GERD",
-        "Gerd"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-13",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Les Big Byrd"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-13",
-      "plats": "studenternas",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "IK Sirius – Vetlanda BK",
-        "Sirius-Vetlanda"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-13",
-      "plats": "brorhjorth",
-      "kallor": [
-        "j",
-        "h"
-      ],
-      "titlar": [
-        "Konsert: Täpp Ida Almlöf & Erika Lindgren Liljenstolpe",
-        "TÄPP IDA & ERIKA"
-      ],
-      "poang": 0.5
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-13",
-      "plats": "fyrishov",
-      "kallor": [
-        "i",
-        "f",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – Umeå Basket",
-        "Uppsala basket H-Umeå"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-13",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Christoffer Nyqvist – Lejonet från Norden",
-        "Christoffer Nyqvist"
-      ],
-      "poang": 0.4
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-13",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Trinity"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-14",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – BIK Karlskoga",
-        "Almtuna-Karlskoga"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-14",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Dessi Hietala – Sveriges sämsta norrlänning",
-        "Dessi Hietala"
-      ],
-      "poang": 0.4
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-14",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Jonas Lundqvist"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-15",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Fängslad av Erdoğan",
-        "Författarbesök: Fängslad av Erdoğan"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-17",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Lena Sohl",
-        "Författarbesök: Lena Sohl"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-17",
-      "plats": "ifu",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Storvreta IBK – Nykvarns IBF",
-        "Storvreta Herr-Nykvarn"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-18",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – Östersunds IK",
-        "Almtuna-Östersund"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-18",
-      "plats": "missionskyrkan",
-      "kallor": [
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "En vackrare värld – De Andersons med Siw Malmkvist",
-        "En vackrare värld"
-      ],
-      "poang": 0.33
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-18",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Klas Toresson Konsert och jamsession!!!!",
-        "Klas Toresson Konsert och jamsession"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-18",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Moonica Mac – Extrakonsert",
-        "Moonica Mac Extrakonsert"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-19",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Författarbesök: Muslimskt liv"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-19",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Det idéala – Vad är en plats?"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-19",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "GROOVE",
-        "Groove"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-19",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Ana Moura",
-        "Ana Moura – Fado utan gränser"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-19",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Atomic Swing"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-20",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Hansson de Wolfe United"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-20",
-      "plats": "ifu",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Storvreta IBK – Mullsjö AIS",
-        "Storvreta Herr-Mullsjö"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-20",
-      "plats": "studenternas",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "IK Sirius – Gripen Trollhättan BK",
-        "Sirius-Gripen Trollhättan"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-20",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "En kväll på Operan…"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-20",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Pascal"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-21",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Saffransmysteriet LasseMajas detektivbyrå",
-        "Saffransmysteriet – LasseMajas detektivbyrå"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-21",
-      "plats": "fyrishov",
-      "kallor": [
-        "u",
-        "h"
-      ],
-      "titlar": [
-        "Fritid för alla-dagen - hitta din grej",
-        "Fritid för alla dagen"
-      ],
-      "poang": 0.5
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-21",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "UPPSALA BLUES FESTIVAL",
-        "Uppsala Blues Festival"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-21",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Shadows Tribute"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-22",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Niklas Strömstedt – Tyck OM mig",
-        "Niklas Strömstedt"
-      ],
-      "poang": 0.4
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-22",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Poste Restante 22/11",
-        "Poste Restante",
-        "Poste Restante – 22/11"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-23",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Nils Håkansson ”Bandy Futura”"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-24",
-      "plats": "studenternas",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "IK Sirius – Edsbyns IF Bandyförening",
-        "Sirius-Edsbyn"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-25",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Den Eviga Ungdomens Stad – Rimeika hyllar Uppsala"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-26",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Inställt: Olof Lundh",
-        "Författarbesök: Olof Lundh"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-26",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Chaplins City Lights",
-        "Chaplins City Lights – Uppsala Kammarorkester",
-        "Uppsala Kammarorkester – City Lights"
-      ],
-      "poang": 0.8
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-26",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Mia Karlsson – Coming Home",
-        "Mia Karlsson – Coming Home Tour 2026",
-        "Mia Karlsson"
-      ],
-      "poang": 0.5
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-26",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Den Svenska Björnstammen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-27",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Framtidsdagen 2026 – Se längre än alla andra",
-        "Framtidsdagen"
-      ],
-      "poang": 0.17
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-27",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Evigt Edvin – Edvin Törnblom",
-        "Evigt Edvin"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-28",
-      "plats": "solglimtsparken",
-      "kallor": [
-        "u",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Julmarknad med ponnyridning och drop-in-vigsel",
-        "Julmarknad med drop-in-vigsel"
-      ],
-      "poang": 0.8
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-28",
-      "plats": "ifu",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Storvreta IBK – Pixbo IBK (dam)",
-        "Storvreta Dam-Pixbo"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-28",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Maggie Reilly (UK)",
-        "Maggie Reilly"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-28",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "PEPPERBYRDS",
-        "Pepperbyrds"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-29",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Nötknäpparen med International Festival Ballet – och orkester på scen",
-        "Nötknäpparen med International Festival Ballet"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-29",
-      "plats": "usif",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – Onsala Pirates (dam)",
-        "Uppsala basket D-Onsala"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-30",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Christmas in Ireland"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-12-01",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Jazzlunch / JULJAZZ med Ako & Co.",
-        "Juljazz med Ako & Co"
-      ],
-      "poang": 0.75
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-01",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Göran Greider och Jonas Gren",
-        "Författarbesök: Göran Greider och Jonas Gren"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-01",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Clara Törnvall",
-        "Författarbesök: Clara Törnvall"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-01",
-      "plats": "storvretabib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Möt författaren Anna Martinengo"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-12-01",
-      "plats": "studenternas",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "IK Sirius – TB Västerås",
-        "Sirius-TB Västerås"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-01",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "DANIEL LANTZ QUARTET ft. SARA ENGLUND",
-        "Daniel Lantz Quartet ft Sara Englund"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-12-02",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – Leksands IF",
-        "Almtuna-Leksand"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-02",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Toussaint Chiza"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-02",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Amanda Ginsburg- Det är jul nu igen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-02",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Livets Orkester i Bakfickan",
-        "Livets Orkester"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-03",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "h"
-      ],
-      "titlar": [
-        "Anneli Jordahl",
-        "Författarbesök: Anneli Jordahl"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-12-03",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Seinabo Sey",
-        "Seinabo Sey – UKK – 2026"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-03",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Fröken Elvis Jul"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-04",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Christmas Night",
-        "Christmas Night 2026"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-12-04",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – IK Oskarshamn",
-        "Almtuna-Oskarshamn"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-04",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "The Fantastic Four – A Motown Christmas",
-        "The Fantastic Four – A Motown Christmas – Katalin"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-12-05",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Isprinsessan – Julbalett med stråkkvartett",
-        "Isprinsessan – julbalett med stråkkvartett",
-        "Isprinsessan"
-      ],
-      "poang": 0.33
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-12-05",
-      "plats": "fyrishov",
-      "kallor": [
-        "i",
-        "f",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – Södertälje BBK",
-        "Uppsala basket H-Södertälje"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-12-05",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Anna Heikkinen & Längtans Kapell – Satumaa – Sagolandet",
-        "Anna Heikkinen & Längtans Kapell"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-05",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Pernilla Andersson – Vintersånger från Garbo"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-06",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Local Femmes julmarknad"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-12-08",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Jazzlunch med Swingfest med John/ Ulf/ Björn",
-        "Swingfest med John/ Ulf/ Björn"
-      ],
-      "poang": 0.8
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-12-08",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "UUJO – Swinging Christmas",
-        "Swinging Christmas"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-12-09",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – IK Oskarshamn",
-        "Almtuna-Oskarshamn"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-12-09",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Weeping Willows – Christmas",
-        "Weeping Willows"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-09",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Markus Ahlberg Konsert och jamsession!!!!",
-        "Markus Ahlberg Konsert och jamsession"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-12-10",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Thomas Järvheden – Sveriges roligaste julkonsert",
-        "Thomas Järvheden"
-      ],
-      "poang": 0.4
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-10",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Julkonsert med Romeo & Julia Kören"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-11",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "LABERO – A Magic Night",
-        "Labero – A Magic Night"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-11",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Jul med Franska Trion"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-11",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "En kväll på operan…",
-        "En kväll på Operan…"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-11",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Bombus & Mass Worship"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-12",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Barnens Julvärld med Nassim Al fakir",
-        "Barnens Julvärld med Nassim Al Fakir"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-12",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Goder afton, mitt herrskap! 2026",
-        "Goder afton, mitt herrskap"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-12",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "The Last Waltz!",
-        "The Last Waltz"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-12",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Emma & The Dusty Roses"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-12-13",
-      "plats": "usif",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – Luleå Basket (dam)",
-        "Uppsala basket D-Luleå"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-13",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "West Of Eden – Celtic Christmas",
-        "West Of Eden – Celtic Christmas 2026",
-        "West of Eden – Celtic Christmas – 2026"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-13",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Arvingarna – Klart det ska bli jul, igen!",
-        "Arvingarna – Klart det ska bli jul, igen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-15",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Jazzlunch med Jazz & Fun"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-17",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Julkonsert med Arméns musikkår"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-17",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "The Crown"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-12-18",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Lunchkonsert – Frank Sinatra – Livet och musiken – Julspecial",
-        "Lunchkonsert"
-      ],
-      "poang": 0.17
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-12-18",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – Kalmar HC",
-        "Almtuna-Kalmar"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-18",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Junior Brielle"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-12-19",
-      "plats": "ifu",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Storvreta IBK – IBK Lockerud Mariestad (dam)",
-        "Storvreta Dam-Lockerud"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-12-19",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Hogwarts Magic Symphony – med Lords of the Sound",
-        "Hogwarts Magic Symphony med Lords of the Sound",
-        "Hogwarts Magic Symphony"
-      ],
-      "poang": 0.6
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-12-19",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Hans Zimmers musik – spelad av Lords of the Sound",
-        "Hans Zimmers musik"
-      ],
-      "poang": 0.5
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-20",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Banna Sona Band Christmas Edition"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-12-29",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – MoDo Hockey",
-        "Almtuna-MoDo"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-12-30",
-      "plats": "fyrishov",
-      "kallor": [
-        "i",
-        "f",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – Norrköping Dolphins",
-        "Uppsala basket H-Norrköping"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-01-02",
-      "plats": "studenternas",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "IK Sirius – Åby/Tjureda IF",
-        "Sirius-Åby/Tjureda"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-01-03",
-      "plats": "ifu",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Storvreta IBK – Jönköpings IK",
-        "Storvreta Herr-Jönköping"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2027-01-05",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Trettondagsafton 2027",
-        "Trettondagsafton 2027 – Uppsala Kammarorkester",
-        "Uppsala Kammarorkester – Trettondagsafton"
-      ],
-      "poang": 0.33
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-01-05",
-      "plats": "fyrishov",
-      "kallor": [
-        "i",
-        "f",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – Sloga Uppsala",
-        "Uppsala Basket – Sloga Basket",
-        "Uppsala basket-Sloga"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-01-08",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – Mora IK",
-        "Almtuna-Mora"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-01-08",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Per Persson & Nya Packet",
-        "Per Persson & Nya Packet på Katalin"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-01-09",
-      "plats": "fyrishov",
-      "kallor": [
-        "i",
-        "f",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – Köping Stars",
-        "Uppsala Basket – Köping Stars 9 januari",
-        "Uppsala basket H-Köping"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-01-10",
-      "plats": "ifu",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Storvreta IBK – Warberg IC",
-        "Storvreta Herr-Warberg"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-01-15",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – Vimmerby HC",
-        "Almtuna-Vimmerby"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-01-15",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "LKN"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-01-16",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "TMS BOWIE LOW+HEROES",
-        "TMS Bowie Low + Heroes"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-01-19",
-      "plats": "fyrishov",
-      "kallor": [
-        "i",
-        "f",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – Jämtland Basket",
-        "Uppsala basket H-Jämtland"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-01-22",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – Leksands IF",
-        "Almtuna-Leksand"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-01-23",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Djungelboken – The Musical"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-01-24",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Poste Restante 24/1",
-        "Poste Restante",
-        "Poste Restante – 24/1"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-01-27",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – Västerås IK",
-        "Almtuna-Västerås"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2027-01-28",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Copland och Beethoven",
-        "Copland och Beethoven – Uppsala Kammarorkester",
-        "Uppsala Kammarorkester – Copland och Beethoven"
-      ],
-      "poang": 0.5
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-01-29",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Hannes Aitman"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2027-01-29",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "”Ser jag tjock ut i den här..?” – Uppsala",
-        "”Ser jag tjock ut i den här..?”",
-        "”Ser jag tjock ut i den här?”"
-      ],
-      "poang": 0.86
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-01-30",
-      "plats": "usif",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – Alvik Basket (dam)",
-        "Uppsala basket D-Alvik"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-02-02",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Geoff Tate – The Final Chapter"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-02-04",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "The Dire Straits Experience",
-        "The Dire Straits Experience – Hand Upon The Lever 2027"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-02-05",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – Östersunds IK",
-        "Almtuna-Östersund"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-02-05",
-      "plats": "ifu",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Storvreta IBK – IBF Falun",
-        "Storvreta Herr-Falun"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2027-02-05",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Nour El Refai – Glows in the dark",
-        "Nour El Refai"
-      ],
-      "poang": 0.5
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-02-05",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Louisiana Avenue"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-02-06",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h",
-        "t",
-        "t"
-      ],
-      "titlar": [
-        "Greczula"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-02-06",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "The Very Best of Thin Lizzy Phil Lynott and Gary Moore"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2027-02-11",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Molly Hammar – Livsvittne",
-        "Molly Hammar"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2027-02-12",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Tommy Körberg – Unplugged",
-        "Tommy Körberg"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-02-12",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Simon Superti"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-02-13",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Simon Superti"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2027-02-13",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Kim Wilde – The Singles Tour 2027",
-        "Kim Wilde"
-      ],
-      "poang": 0.5
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-02-14",
-      "plats": "ifu",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Storvreta IBK – Warberg IC (dam)",
-        "Storvreta Dam-Warberg"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-02-14",
-      "plats": "ifu",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Storvreta IBK – IBK Dalen",
-        "Storvreta Herr-Dalen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2027-02-18",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Korngolds violinkonsert",
-        "Korngolds violinkonsert – Uppsala Kammarorkester",
-        "Uppsala Kammarorkester – Korngolds violinkonsert"
-      ],
-      "poang": 0.5
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-02-19",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – Södertälje SK",
-        "Almtuna-Södertälje"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-02-19",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Orsa spelmän, Tina Ahlin & Bengan Janson",
-        "Orsa Spelmän med Tina Ahlin & Bengan Janson"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-02-19",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Stiko Per Larsson"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-02-19",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Svart Ridå"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-02-20",
-      "plats": "usif",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Uppsala Basket – Högsbo Lions (dam)",
-        "Uppsala basket D-Högsbo"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2027-02-20",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Tourbjörn – Med Torbjörn Averås Skorup",
-        "Tourbjörn"
-      ],
-      "poang": 0.25
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2027-02-20",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "h"
-      ],
-      "titlar": [
-        "Nannes jubileumsshow – Här är jag!",
-        "Nannes jubileumsshow Här är jag!",
-        "Nannes jubileumsshow"
-      ],
-      "poang": 0.4
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-02-20",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Fanny Avonne"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-02-21",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Bamse och Sjörövarskatten"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2027-02-24",
-      "plats": "granbyishall",
-      "kallor": [
-        "i",
-        "h"
-      ],
-      "titlar": [
-        "Almtuna IS – Kalmar HC",
-        "Almtuna-Kalmar"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2027-02-24",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "h"
-      ],
-      "titlar": [
-        "Klas Kalas – Klas Hallberg best of 30 år på scen",
-        "Klas Kalas"
-      ],
-      "poang": 0.29
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2027-02-24",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h"
-      ],
-      "titlar": [
-        "Jesper Lindell & Brunnsvik Sounds – Klubb Uffe",
-        "Klubb Uffe – Jesper Lindell & Brunnsvik Sounds"
-      ],
-      "poang": 1
-    },
-    {
       "regel": "lika",
       "dag": "2026-10-28",
       "plats": "katalin",
@@ -6180,12 +3252,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
         "Jonatan Stenson",
-        "Jonatan Stenson – Blackheart",
         "Jonatan Stenson - Katalins Bakficka"
       ],
       "poang": 0.67
@@ -6197,7 +3267,6 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6212,7 +3281,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6227,7 +3295,6 @@
       "kallor": [
         "l",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6257,7 +3324,6 @@
       "kallor": [
         "u",
         "c",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6272,7 +3338,6 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6286,7 +3351,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6315,7 +3379,6 @@
       "kallor": [
         "l",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6331,7 +3394,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6348,14 +3410,12 @@
         "u",
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "Fem myror - Konsert!",
         "Fem myror – Konsert!",
-        "Fem myror",
-        "Fem myror – Konsert"
+        "Fem myror"
       ],
       "poang": 1
     },
@@ -6380,7 +3440,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6408,7 +3467,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6423,7 +3481,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6476,10 +3533,22 @@
     {
       "regel": "lika",
       "dag": "2026-11-06",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Phontrattarnes 70-års jubileum!"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-11-06",
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6490,16 +3559,13 @@
     {
       "regel": "lika",
       "dag": "2026-11-07",
-      "plats": "ukk",
+      "plats": "katalin",
       "kallor": [
-        "c",
-        "d",
-        "h",
+        "l",
         "t"
       ],
       "titlar": [
-        "Creedence Tribute, Best of CCR & John Fogerty Tour",
-        "Creedence Tribute"
+        "Phontrattarnes 70-års jubileum!"
       ],
       "poang": 1
     },
@@ -6510,7 +3576,20 @@
       "kallor": [
         "c",
         "d",
-        "h",
+        "t"
+      ],
+      "titlar": [
+        "Creedence Tribute, Best of CCR & John Fogerty Tour"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-11-07",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "d",
         "t"
       ],
       "titlar": [
@@ -6525,12 +3604,10 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "Pussy Riot – Riot Days",
-        "Pussy Riot"
+        "Pussy Riot – Riot Days"
       ],
       "poang": 1
     },
@@ -6540,12 +3617,10 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
-        "Linnékvintetten 40 år – Jubileumskonsert",
-        "Linnékvintetten 40 år"
+        "Linnékvintetten 40 år – Jubileumskonsert"
       ],
       "poang": 1
     },
@@ -6556,13 +3631,11 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "Jag är Carola – En musikalisk unik livsberättelse",
-        "Jag är Carola – en musikalisk livsberättelse",
-        "Jag är Carola"
+        "Jag är Carola – en musikalisk livsberättelse"
       ],
       "poang": 1
     },
@@ -6572,12 +3645,23 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
-        "Rotting Christ & Grand Harvest",
-        "Rotting Christ"
+        "Happy Birthday Neil Young!"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-11-11",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Rotting Christ & Grand Harvest"
       ],
       "poang": 1
     },
@@ -6602,12 +3686,10 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "The Simon & Garfunkel Story",
-        "The Simon & Garfunkel Story – Ukk – 2026"
+        "The Simon & Garfunkel Story"
       ],
       "poang": 1
     },
@@ -6617,12 +3699,23 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
-        "GERD",
-        "Gerd"
+        "Happy Birthday Neil Young!"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-11-12",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "GERD"
       ],
       "poang": 1
     },
@@ -6633,12 +3726,10 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "Christoffer Nyqvist – Lejonet från Norden",
-        "Christoffer Nyqvist"
+        "Christoffer Nyqvist – Lejonet från Norden"
       ],
       "poang": 1
     },
@@ -6648,7 +3739,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6662,7 +3752,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6676,7 +3765,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6691,12 +3779,10 @@
       "kallor": [
         "l",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "Dessi Hietala – Sveriges sämsta norrlänning",
-        "Dessi Hietala"
+        "Dessi Hietala – Sveriges sämsta norrlänning"
       ],
       "poang": 1
     },
@@ -6747,12 +3833,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
         "Moonica Mac – Extrakonsert",
-        "Moonica Mac Extrakonsert",
         "Moonica Mac - Extrakonsert"
       ],
       "poang": 1
@@ -6763,12 +3847,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
-        "Klas Toresson Konsert och jamsession!!!!",
-        "Klas Toresson Konsert och jamsession"
+        "Klas Toresson Konsert och jamsession!!!!"
       ],
       "poang": 1
     },
@@ -6778,7 +3860,6 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6792,12 +3873,10 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
-        "GROOVE",
-        "Groove"
+        "GROOVE"
       ],
       "poang": 1
     },
@@ -6808,7 +3887,6 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6823,7 +3901,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6851,7 +3928,6 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6865,7 +3941,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6880,7 +3955,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6895,7 +3969,6 @@
       "kallor": [
         "u",
         "c",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6955,12 +4028,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
-        "UPPSALA BLUES FESTIVAL",
-        "Uppsala Blues Festival"
+        "UPPSALA BLUES FESTIVAL"
       ],
       "poang": 1
     },
@@ -6970,7 +4041,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -6987,13 +4057,11 @@
         "r",
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "Poste Restante 22/11",
-        "Poste Restante",
-        "Poste Restante – 22/11"
+        "Poste Restante"
       ],
       "poang": 1
     },
@@ -7003,25 +4071,10 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
-        "Niklas Strömstedt – Tyck OM mig",
-        "Niklas Strömstedt"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-22",
-      "plats": "kaliber",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "LOVIS"
+        "Niklas Strömstedt – Tyck OM mig"
       ],
       "poang": 1
     },
@@ -7031,7 +4084,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7060,13 +4112,11 @@
       "kallor": [
         "r",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "Chaplins City Lights",
         "Chaplins City Lights – Uppsala Kammarorkester",
-        "Uppsala Kammarorkester – City Lights",
         "City Lights – Uppsala Kammarorkester"
       ],
       "poang": 0.8
@@ -7078,13 +4128,11 @@
       "kallor": [
         "l",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "Mia Karlsson – Coming Home",
-        "Mia Karlsson – Coming Home Tour 2026",
-        "Mia Karlsson"
+        "Mia Karlsson – Coming Home Tour 2026"
       ],
       "poang": 0.8
     },
@@ -7094,7 +4142,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7108,12 +4155,10 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
-        "Framtidsdagen 2026 – Se längre än alla andra",
-        "Framtidsdagen"
+        "Framtidsdagen 2026 – Se längre än alla andra"
       ],
       "poang": 1
     },
@@ -7151,12 +4196,10 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "Evigt Edvin – Edvin Törnblom",
-        "Evigt Edvin"
+        "Evigt Edvin – Edvin Törnblom"
       ],
       "poang": 1
     },
@@ -7166,28 +4209,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Maggie Reilly (UK)",
-        "Maggie Reilly",
-        "Maggie Reilly & Cutting Crew Trio"
-      ],
-      "poang": 0.4
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-28",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "h",
         "t"
       ],
       "titlar": [
         "PEPPERBYRDS",
-        "Pepperbyrds",
         "PEPPERBYRDS på Katalins Bakficka"
       ],
       "poang": 0.5
@@ -7199,7 +4224,6 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7215,7 +4239,6 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7229,12 +4252,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
-        "DANIEL LANTZ QUARTET ft. SARA ENGLUND",
-        "Daniel Lantz Quartet ft Sara Englund"
+        "DANIEL LANTZ QUARTET ft. SARA ENGLUND"
       ],
       "poang": 1
     },
@@ -7259,7 +4280,6 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7273,7 +4293,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7288,12 +4307,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
-        "Livets Orkester i Bakfickan",
-        "Livets Orkester"
+        "Livets Orkester i Bakfickan"
       ],
       "poang": 0.67
     },
@@ -7318,12 +4335,10 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "Seinabo Sey",
-        "Seinabo Sey – UKK – 2026"
+        "Seinabo Sey"
       ],
       "poang": 1
     },
@@ -7333,7 +4348,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7348,7 +4362,6 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7363,12 +4376,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
         "The Fantastic Four – A Motown Christmas",
-        "The Fantastic Four – A Motown Christmas – Katalin",
         "The Fantastic Four - A Motown Christmas - Uppsala"
       ],
       "poang": 0.8
@@ -7380,13 +4391,11 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "Isprinsessan – Julbalett med stråkkvartett",
-        "Isprinsessan – julbalett med stråkkvartett",
-        "Isprinsessan"
+        "Isprinsessan – julbalett med stråkkvartett"
       ],
       "poang": 1
     },
@@ -7396,7 +4405,6 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7411,7 +4419,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7439,12 +4446,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
         "UUJO – Swinging Christmas",
-        "Swinging Christmas",
         "UUJO - Swinging Christmas"
       ],
       "poang": 1
@@ -7469,12 +4474,10 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "Weeping Willows – Christmas",
-        "Weeping Willows"
+        "Weeping Willows – Christmas"
       ],
       "poang": 1
     },
@@ -7484,12 +4487,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
-        "Markus Ahlberg Konsert och jamsession!!!!",
-        "Markus Ahlberg Konsert och jamsession"
+        "Markus Ahlberg Konsert och jamsession!!!!"
       ],
       "poang": 1
     },
@@ -7516,12 +4517,10 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "Thomas Järvheden – Sveriges roligaste julkonsert",
-        "Thomas Järvheden"
+        "Thomas Järvheden – Sveriges roligaste julkonsert"
       ],
       "poang": 1
     },
@@ -7532,7 +4531,6 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7547,12 +4545,10 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "LABERO – A Magic Night",
-        "Labero – A Magic Night"
+        "LABERO – A Magic Night"
       ],
       "poang": 1
     },
@@ -7562,7 +4558,6 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7576,7 +4571,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7590,12 +4584,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
         "En kväll på operan…",
-        "En kväll på Operan…",
         "En kväll på operan"
       ],
       "poang": 1
@@ -7607,7 +4599,6 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7623,12 +4614,10 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "Goder afton, mitt herrskap! 2026",
-        "Goder afton, mitt herrskap"
+        "Goder afton, mitt herrskap! 2026"
       ],
       "poang": 1
     },
@@ -7638,7 +4627,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7652,12 +4640,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
-        "The Last Waltz!",
-        "The Last Waltz"
+        "The Last Waltz!"
       ],
       "poang": 1
     },
@@ -7668,13 +4654,11 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "West Of Eden – Celtic Christmas",
-        "West Of Eden – Celtic Christmas 2026",
-        "West of Eden – Celtic Christmas – 2026"
+        "West Of Eden – Celtic Christmas 2026"
       ],
       "poang": 1
     },
@@ -7685,12 +4669,10 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "Arvingarna – Klart det ska bli jul, igen!",
-        "Arvingarna – Klart det ska bli jul, igen"
+        "Arvingarna – Klart det ska bli jul, igen!"
       ],
       "poang": 1
     },
@@ -7727,7 +4709,6 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7741,7 +4722,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7755,12 +4735,10 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
         "Lunchkonsert – Frank Sinatra – Livet och musiken – Julspecial",
-        "Lunchkonsert",
         "Lunchkonsert – Livet och musiken Julspecial"
       ],
       "poang": 0.67
@@ -7782,24 +4760,9 @@
     {
       "regel": "lika",
       "dag": "2026-12-18",
-      "plats": "blackbird",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Play it, Santa!",
-        "Play It Santa!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-18",
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7814,13 +4777,11 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "Hogwarts Magic Symphony – med Lords of the Sound",
-        "Hogwarts Magic Symphony med Lords of the Sound",
-        "Hogwarts Magic Symphony"
+        "Hogwarts Magic Symphony med Lords of the Sound"
       ],
       "poang": 1
     },
@@ -7830,12 +4791,10 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
-        "Hans Zimmers musik – spelad av Lords of the Sound",
-        "Hans Zimmers musik"
+        "Hans Zimmers musik – spelad av Lords of the Sound"
       ],
       "poang": 1
     },
@@ -7858,7 +4817,6 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7887,13 +4845,11 @@
         "r",
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "Trettondagsafton 2027",
-        "Trettondagsafton 2027 – Uppsala Kammarorkester",
-        "Uppsala Kammarorkester – Trettondagsafton"
+        "Trettondagsafton 2027 – Uppsala Kammarorkester"
       ],
       "poang": 1
     },
@@ -7903,12 +4859,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
-        "Per Persson & Nya Packet",
-        "Per Persson & Nya Packet på Katalin"
+        "Per Persson & Nya Packet"
       ],
       "poang": 1
     },
@@ -7931,7 +4885,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -7945,12 +4898,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
-        "TMS BOWIE LOW+HEROES",
-        "TMS Bowie Low + Heroes"
+        "TMS BOWIE LOW+HEROES"
       ],
       "poang": 1
     },
@@ -7961,7 +4912,6 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -8016,13 +4966,11 @@
         "r",
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "Poste Restante 24/1",
-        "Poste Restante",
-        "Poste Restante – 24/1"
+        "Poste Restante"
       ],
       "poang": 1
     },
@@ -8034,27 +4982,11 @@
         "r",
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "Copland och Beethoven",
-        "Copland och Beethoven – Uppsala Kammarorkester",
-        "Uppsala Kammarorkester – Copland och Beethoven"
-      ],
-      "poang": 0.5
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2027-01-29",
-      "plats": "kaija",
-      "kallor": [
-        "h",
-        "t"
-      ],
-      "titlar": [
-        "Exklusivt gästspel: Asiatisk middagsupplevelse",
-        "Asiatisk middagsupplevelse"
+        "Copland och Beethoven – Uppsala Kammarorkester"
       ],
       "poang": 0.5
     },
@@ -8065,13 +4997,11 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "”Ser jag tjock ut i den här..?” – Uppsala",
-        "”Ser jag tjock ut i den här..?”",
-        "”Ser jag tjock ut i den här?”"
+        "”Ser jag tjock ut i den här..?”"
       ],
       "poang": 1
     },
@@ -8081,7 +5011,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -8109,7 +5038,6 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
@@ -8125,12 +5053,10 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "Nour El Refai – Glows in the dark",
-        "Nour El Refai"
+        "Nour El Refai – Glows in the dark"
       ],
       "poang": 1
     },
@@ -8140,7 +5066,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -8154,7 +5079,6 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
@@ -8170,12 +5094,10 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "Molly Hammar – Livsvittne",
-        "Molly Hammar"
+        "Molly Hammar – Livsvittne"
       ],
       "poang": 1
     },
@@ -8185,12 +5107,10 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
-        "Tommy Körberg – Unplugged",
-        "Tommy Körberg"
+        "Tommy Körberg – Unplugged"
       ],
       "poang": 1
     },
@@ -8200,7 +5120,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -8215,12 +5134,10 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
-        "Kim Wilde – The Singles Tour 2027",
-        "Kim Wilde"
+        "Kim Wilde – The Singles Tour 2027"
       ],
       "poang": 1
     },
@@ -8230,7 +5147,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -8246,13 +5162,11 @@
         "r",
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "Korngolds violinkonsert",
-        "Korngolds violinkonsert – Uppsala Kammarorkester",
-        "Uppsala Kammarorkester – Korngolds violinkonsert"
+        "Korngolds violinkonsert – Uppsala Kammarorkester"
       ],
       "poang": 0.5
     },
@@ -8262,12 +5176,10 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
-        "Orsa spelmän, Tina Ahlin & Bengan Janson",
-        "Orsa Spelmän med Tina Ahlin & Bengan Janson"
+        "Orsa spelmän, Tina Ahlin & Bengan Janson"
       ],
       "poang": 1
     },
@@ -8277,7 +5189,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -8292,7 +5203,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -8306,12 +5216,10 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
-        "Tourbjörn – Med Torbjörn Averås Skorup",
-        "Tourbjörn"
+        "Tourbjörn – Med Torbjörn Averås Skorup"
       ],
       "poang": 1
     },
@@ -8322,13 +5230,11 @@
       "kallor": [
         "c",
         "d",
-        "h",
         "t"
       ],
       "titlar": [
         "Nannes jubileumsshow – Här är jag!",
         "Nannes jubileumsshow Här är jag!",
-        "Nannes jubileumsshow",
         "Nannes Jubileumsshow – Här är jag!"
       ],
       "poang": 1
@@ -8339,7 +5245,6 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
@@ -8366,7 +5271,6 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
@@ -8380,12 +5284,10 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "h",
         "t"
       ],
       "titlar": [
-        "Klas Kalas – Klas Hallberg best of 30 år på scen",
-        "Klas Kalas"
+        "Klas Kalas – Klas Hallberg best of 30 år på scen"
       ],
       "poang": 1
     },
@@ -8395,12 +5297,10 @@
       "plats": "katalin",
       "kallor": [
         "l",
-        "h",
         "t"
       ],
       "titlar": [
         "Jesper Lindell & Brunnsvik Sounds – Klubb Uffe",
-        "Klubb Uffe – Jesper Lindell & Brunnsvik Sounds",
         "Jesper Lindell & Brunnsvik Sounds - Klubb Uffe"
       ],
       "poang": 1
@@ -8425,14 +5325,14 @@
       "person": "Lisa",
       "namn": "Familjeevenemang utan ålder (eller 0–99) syns under \"ålder ej angiven\"",
       "ok": true,
-      "varde": "14 av 14",
+      "varde": "15 av 15",
       "krav": "alla"
     },
     {
       "person": "Lisa",
       "namn": "Konst & museum, raden \"Pågår\": andel utställningar",
       "ok": true,
-      "varde": "100 % (14 av 14)",
+      "varde": "100 % (10 av 10)",
       "krav": "minst 80 %"
     },
     {
@@ -8446,14 +5346,14 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 31,
+      "varde": 23,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 12,
+      "varde": 10,
       "krav": "minst 10"
     },
     {
@@ -8488,14 +5388,14 @@
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "1.9 %",
+      "varde": "1.8 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "3.6 %",
+      "varde": "3.5 %",
       "krav": "under 5 %"
     }
   ]
