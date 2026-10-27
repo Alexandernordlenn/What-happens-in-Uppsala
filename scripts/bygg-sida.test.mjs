@@ -14,7 +14,7 @@ test("samma evenemang hos två källor blir ett, med tid och båda källorna", (
   const sida = bygg(
     {
       tickster: { hamtad: "x", evenemang: [ev("Gibrish - I spåren av Bob Dylan", "2026-09-26", katalin)] },
-      heja: { hamtad: "x", evenemang: [ev("Gibrish – I spåren av Bob Dylan", "2026-09-26T20:00:00+02:00", katalin, { gratis: true })] },
+      ticketmaster: { hamtad: "x", evenemang: [ev("Gibrish – I spåren av Bob Dylan", "2026-09-26T20:00:00+02:00", katalin, { gratis: true })] },
     },
     "2026-09-24",
   );
@@ -22,7 +22,7 @@ test("samma evenemang hos två källor blir ett, med tid och båda källorna", (
   const [e] = sida.evenemang;
   assert.equal(e.tm, "20:00");
   assert.equal(e.free, 1);
-  assert.deepEqual(e.s.map((x) => x[0]).sort(), ["h", "t"]);
+  assert.deepEqual(e.s.map((x) => x[0]).sort(), ["m", "t"]);
 });
 
 test("två föreställningar samma dag hos samma källa förblir två", () => {
@@ -45,7 +45,7 @@ test("olika klockslag hos olika källor slås inte ihop", () => {
   const sida = bygg(
     {
       tickster: { hamtad: "x", evenemang: [ev("Jazzkväll", "2026-09-26T18:00:00+02:00", katalin)] },
-      heja: { hamtad: "x", evenemang: [ev("Jazzkväll", "2026-09-26T21:00:00+02:00", katalin)] },
+      ticketmaster: { hamtad: "x", evenemang: [ev("Jazzkväll", "2026-09-26T21:00:00+02:00", katalin)] },
     },
     "2026-09-24",
   );
@@ -73,18 +73,18 @@ test("gamla evenemang tas bort, pågående och inställda behålls", () => {
   assert.match(sida.evenemang[1].n, /Inställt/);
 });
 
-test("sportmatch från förbunden slås ihop med samma match hos Heja", () => {
+test("sportmatch från förbunden slås ihop med samma match hos en annan källa", () => {
   const gr = { namn: "Gränby ishall", id: "granbyishall" };
   const sida = bygg(
     {
       sport: { hamtad: "x", evenemang: [ev("Almtuna IS – BIK Karlskoga", "2026-09-26T19:00:00+02:00", gr, { kategori: "sport" })] },
-      heja: { hamtad: "x", evenemang: [ev("Almtuna-Karlskoga", "2026-09-26T19:00:00+02:00", gr, { kategori: "sport" })] },
+      ticketmaster: { hamtad: "x", evenemang: [ev("Almtuna-Karlskoga", "2026-09-26T19:00:00+02:00", gr, { kategori: "sport" })] },
     },
     "2026-09-24",
   );
   assert.equal(sida.evenemang.length, 1);
   assert.equal(sida.evenemang[0].t, "Almtuna IS – BIK Karlskoga");
-  assert.deepEqual(sida.evenemang[0].s.map((x) => x[0]).sort(), ["h", "i"]);
+  assert.deepEqual(sida.evenemang[0].s.map((x) => x[0]).sort(), ["i", "m"]);
 });
 
 test("id är stabilt mellan körningar och sport får en egen etikett", () => {
@@ -103,8 +103,8 @@ test("id är stabilt mellan körningar och sport får en egen etikett", () => {
 });
 
 test("en källa som inte hämtats på flera dagar markeras som inaktuell", () => {
-  const sida = bygg({ heja: { hamtad: "2026-09-20T05:00:00Z", evenemang: [ev("X", "2026-09-26", katalin)] } }, "2026-09-24");
-  assert.equal(sida.kallor.h.inaktuell, 1);
+  const sida = bygg({ ticketmaster: { hamtad: "2026-09-20T05:00:00Z", evenemang: [ev("X", "2026-09-26", katalin)] } }, "2026-09-24");
+  assert.equal(sida.kallor.m.inaktuell, 1);
 });
 
 test("rättelser går före källan", () => {
@@ -141,10 +141,10 @@ const kalla = (id, ...evenemang) => ({
 const byggMed = (...filer) => bygg(Object.assign({}, ...filer), "2026-10-06");
 const antal = (sida) => sida.evenemang.length;
 
-test("facit: författarbesök hos biblioteket och Heja blir ett", () => {
+test("facit: författarbesök hos biblioteket och en annan källa blir ett", () => {
   const sida = byggMed(
     kalla("bibliotek", ev("Elin Ylvasdotter", T("2026-10-07", "18:00"), P.stadsbib, { kategori: "prat" })),
-    kalla("heja", ev("Författarbesök: Elin Ylvasdotter", T("2026-10-07", "18:00"), P.stadsbib, { kategori: "prat" })),
+    kalla("ticketmaster", ev("Författarbesök: Elin Ylvasdotter", T("2026-10-07", "18:00"), P.stadsbib, { kategori: "prat" })),
   );
   assert.equal(antal(sida), 1);
   assert.equal(sida.evenemang[0].s.length, 2);
@@ -152,26 +152,26 @@ test("facit: författarbesök hos biblioteket och Heja blir ett", () => {
 
 test("facit: klockslag som skiljer en halvtimme slås ihop (Ebbot Lundberg, La Tremendita)", () => {
   assert.equal(antal(byggMed(
-    kalla("heja", ev("Ebbot Lundberg", T("2026-10-09", "19:30"), P.blackbird)),
+    kalla("ticketmaster", ev("Ebbot Lundberg", T("2026-10-09", "19:30"), P.blackbird)),
     kalla("tickster", ev("Ebbot Lundberg", T("2026-10-09", "20:00"), P.blackbird)),
   )), 1);
   assert.equal(antal(byggMed(
-    kalla("heja", ev("La Tremendita feat. Juanfe Pérez", T("2026-10-10", "16:00"), P.ukk)),
+    kalla("ticketmaster", ev("La Tremendita feat. Juanfe Pérez", T("2026-10-10", "16:00"), P.ukk)),
     kalla("tickster", ev("La Tremendita feat. Juanfe Pérez", T("2026-10-10", "16:30"), P.ukk)),
   )), 1);
 });
 
 test("facit: omkastade och omskrivna titlar (Lunchkonsert, Moto Boy, Camilla Widell)", () => {
   assert.equal(antal(byggMed(
-    kalla("heja", ev("Lunchkonsert med Jan Olof Anderson", T("2026-10-09", "12:00"), P.ukk)),
+    kalla("ticketmaster", ev("Lunchkonsert med Jan Olof Anderson", T("2026-10-09", "12:00"), P.ukk)),
     kalla("tickster", ev("Jan Olof Anderson – Lunchkonsert", T("2026-10-09", "12:00"), P.ukk)),
   )), 1);
   assert.equal(antal(byggMed(
-    kalla("heja", ev("Moto Boy tolkar Lana Del Rey", T("2026-10-11", "19:00"), P.ukk)),
+    kalla("ticketmaster", ev("Moto Boy tolkar Lana Del Rey", T("2026-10-11", "19:00"), P.ukk)),
     kalla("tickster", ev("Moto Boy – En hyllning till Lana Del Rey", T("2026-10-11", "19:00"), P.ukk)),
   )), 1);
   assert.equal(antal(byggMed(
-    kalla("heja", ev("Camilla Widell Quartet – Katalins Backficka", T("2026-10-09", "20:00"), P.katalin)),
+    kalla("ticketmaster", ev("Camilla Widell Quartet – Katalins Backficka", T("2026-10-09", "20:00"), P.katalin)),
     kalla("tickster", ev("Camilla Widell Quartet – på Katalins Backficka", T("2026-10-09", "20:00"), P.katalin)),
   )), 1);
 });
@@ -181,7 +181,7 @@ test("facit: Banned Books Festival slås ihop trots att bara den ena har ålder,
     kalla("bibliotek",
       ev("Banned Books Festival", T("2026-10-10", "11:00"), P.stadsbib, { alder: [18, 99] }),
       ev("Banned books-festival med barnteater", T("2026-10-10", "13:00"), P.stadsbib)),
-    kalla("heja", ev("Banned Books Festival", T("2026-10-10", "11:00"), P.heja_stadsbib, { barnOchFamilj: true })),
+    kalla("ticketmaster", ev("Banned Books Festival", T("2026-10-10", "11:00"), P.heja_stadsbib, { barnOchFamilj: true })),
   );
   assert.equal(antal(sida), 2);
 });
@@ -205,7 +205,7 @@ test("facit: sagostund och barnrytmik hos biblioteket och Kubik, samma byggnad",
 
 test("facit: festivalen SciFest tar upp programpunkterna", () => {
   const sida = byggMed(
-    kalla("heja", ev("Vetenskapsfestivalen SciFest", T("2026-10-08", "09:00"), P.fyrishov, { slut: "2026-10-10" })),
+    kalla("ticketmaster", ev("Vetenskapsfestivalen SciFest", T("2026-10-08", "09:00"), P.fyrishov, { slut: "2026-10-10" })),
     kalla("kubik", ev("SciFest 2026", T("2026-10-10", "09:00"), P.fyrishov)),
     kalla("destination-uppsala", ev("Vetenskapsfestivalen SciFest 2026", T("2026-10-10", "09:00"), P.fyrishov)),
   );
@@ -217,7 +217,7 @@ test("facit: festivalen SciFest tar upp programpunkterna", () => {
 test("facit: långvariga poster blir en utställning (Katarina Jagellonica, Walmstedtska gården)", () => {
   const sida = byggMed(
     kalla("destination-uppsala", ev("Katarina Jagellonica 500 år", "2026-05-08", P.dom, { slut: "2026-11-08", kategori: "museum" })),
-    kalla("heja",
+    kalla("ticketmaster",
       ev("Utställn: Katarina Jagellonica i Domkyrkan", "2026-05-08", P.dom, { slut: "2026-10-31", kategori: "museum" }),
       ev("Utställn: Katarina Jagellonica i Domkyrkan", "2026-05-08", P.dom, { slut: "2026-11-08", kategori: "museum" }),
       ...["2026-10-11", "2026-10-18", "2026-12-20"].map((slut) => ev("Visning: Walmstedtska gården", "2026-07-04", P.upm, { slut, kategori: "museum" }))),
@@ -243,18 +243,18 @@ test("facit: teaterns föreställningar ersätter Destinations speltid, med båd
   assert.ok(sida.evenemang.every((e) => e.s.length === 2 && !e.e));
 });
 
-test("facit: Familjelördagar får Hejas uttryckliga datum i stället för varje lördag", () => {
+test("facit: Familjelördagar får en annan källas uttryckliga datum i stället för varje lördag", () => {
   const sida = byggMed(
     kalla("destination-uppsala", ev("Familjelördagar på Uppsala Konstmuseum", "2026-09-05", P.konst, { slut: "2026-12-05", kategori: "museum", barnOchFamilj: true })),
-    kalla("heja", ...["2026-10-10", "2026-10-24", "2026-11-14"].map((d) => ev("Familjelördagar på Uppsala konstmuseum", d, P.konst, { barnOchFamilj: true }))),
+    kalla("ticketmaster", ...["2026-10-10", "2026-10-24", "2026-11-14"].map((d) => ev("Familjelördagar på Uppsala konstmuseum", d, P.konst, { barnOchFamilj: true }))),
   );
   assert.deepEqual(sida.evenemang.map((e) => e.d), ["2026-10-10", "2026-10-24", "2026-11-14"]);
-  assert.ok(sida.evenemang.every((e) => e.s.some((s) => s.startsWith("d:")) && e.s.some((s) => s.startsWith("h:"))));
+  assert.ok(sida.evenemang.every((e) => e.s.some((s) => s.startsWith("d:")) && e.s.some((s) => s.startsWith("m:"))));
 });
 
 test("facit: samma källa, identiska poster blir en; olika klockslag förblir flera", () => {
   const himlen = { namn: "Himlen är blå som en apelsin", id: "himlen" };
-  assert.equal(antal(byggMed(kalla("heja", ...[1, 2, 3, 4].map(() => ev("Art Muse Music", T("2026-10-06", "18:00"), himlen))))), 1);
+  assert.equal(antal(byggMed(kalla("ticketmaster", ...[1, 2, 3, 4].map(() => ev("Art Muse Music", T("2026-10-06", "18:00"), himlen))))), 1);
   assert.equal(antal(byggMed(kalla("kubik", ...["11:00", "13:00", "15:00"].map((t) => ev("Saffransmysteriet", T("2026-10-10", t), P.konst))))), 3);
   assert.equal(antal(byggMed(kalla("tickster", ...["12:30", "14:30"].map((t) => ev("Familjevisning med verkstad", T("2026-10-10", t), P.konst))))), 2);
 });
@@ -268,18 +268,18 @@ test("facit: ska inte slås ihop: olika platser och olika program", () => {
       ev("Filosofiska samtal", T("2026-10-13", "18:30"), P.storvreta)),
   )), 4);
   assert.equal(antal(byggMed(
-    kalla("heja", ev("Uppsala Internationella Gitarrfestival", T("2026-10-08", "18:00"), P.katalin)),
+    kalla("ticketmaster", ev("Uppsala Internationella Gitarrfestival", T("2026-10-08", "18:00"), P.katalin)),
     kalla("tickster", ev("Uppsala Internationella Gitarrfestival", T("2026-10-08", "18:00"), P.ukk)),
   )), 2);
   assert.equal(antal(byggMed(
-    kalla("heja", ev("Föreläsning del 1", T("2026-10-08", "18:00"), P.stadsbib)),
+    kalla("ticketmaster", ev("Föreläsning del 1", T("2026-10-08", "18:00"), P.stadsbib)),
     kalla("bibliotek", ev("Föreläsning del 2", T("2026-10-08", "18:00"), P.stadsbib)),
   )), 2);
 });
 
 test("ett evenemang kan tas bort på begäran med dolj i rättelserna", () => {
   const sida = bygg(
-    { heja: { hamtad: "x", evenemang: [ev("Ta bort mig", "2026-09-26", katalin, { id: "heja-x" }), ev("Behåll mig", "2026-09-26", katalin, { id: "heja-y" })] } },
+    { ticketmaster: { hamtad: "x", evenemang: [ev("Ta bort mig", "2026-09-26", katalin, { id: "heja-x" }), ev("Behåll mig", "2026-09-26", katalin, { id: "heja-y" })] } },
     "2026-09-24",
     { rattelser: { poster: { "heja-x": { dolj: true } } } },
   );

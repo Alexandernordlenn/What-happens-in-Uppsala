@@ -58,7 +58,7 @@ test("AI fyller bara luckor: skriver aldrig över källans eller reglernas uppgi
 test("kön: bara luckor, de närmaste först, och inte om svaret redan finns", () => {
   const ev = (id, titel, start, extra = {}) => ({ id, titel, start, slut: null, plats: { namn: "P", id: "p" }, kategori: "ovrigt", barnOchFamilj: false, kallor: [{ url: "u" }], ...extra });
   const filer = {
-    heja: [ev("heja-1", "Loppis", "2026-11-01"), ev("heja-2", "Jazzkonsert", "2026-10-07", { kategori: "musik" }), ev("heja-3", "Något", "2026-10-08")],
+    ticketmaster: [ev("heja-1", "Loppis", "2026-11-01"), ev("heja-2", "Jazzkonsert", "2026-10-07", { kategori: "musik" }), ev("heja-3", "Något", "2026-10-08")],
   };
   const ko = byggKo(filer, {}, null, "2026-10-06");
   assert.deepEqual(ko.map((x) => x.id), ["heja-3", "heja-1"]);

@@ -91,12 +91,6 @@ jobs:
         continue-on-error: true
         run: npm run hamta:bibliotek
 
-      - name: Heja Uppsala
-        if: env.HAMTA == 'true'
-        id: heja
-        continue-on-error: true
-        run: npm run hamta:heja
-
       - name: Kubik Uppsala
         if: env.HAMTA == 'true'
         id: kubik
@@ -235,7 +229,7 @@ jobs:
           UTFALL: >-
             {"Svenska kyrkan": "${{ steps.svk.outcome }}", "Uppsala stadsteater": "${{ steps.stadsteatern.outcome }}",
             "Destination Uppsala": "${{ steps.destination.outcome }}", "Tickster": "${{ steps.tickster.outcome }}",
-            "Bibliotek Uppsala": "${{ steps.bibliotek.outcome }}", "Heja Uppsala": "${{ steps.heja.outcome }}",
+            "Bibliotek Uppsala": "${{ steps.bibliotek.outcome }}",
             "Kubik Uppsala": "${{ steps.kubik.outcome }}", "Sport": "${{ steps.sport.outcome }}",
             "Ticketmaster": "${{ steps.ticketmaster.outcome }}", "Musik i Uppland": "${{ steps.musikiuppland.outcome }}",
             "Katalin": "${{ steps.katalin.outcome }}", "Uppsala Konsert & Kongress": "${{ steps.ukk.outcome }}",
@@ -251,7 +245,6 @@ jobs:
                        "Destination Uppsala:${{ steps.destination.outcome }}" \
                        "Tickster:${{ steps.tickster.outcome }}" \
                        "Bibliotek Uppsala:${{ steps.bibliotek.outcome }}" \
-                       "Heja Uppsala:${{ steps.heja.outcome }}" \
                        "Kubik Uppsala:${{ steps.kubik.outcome }}" \
                        "Sport:${{ steps.sport.outcome }}" \
                        "Ticketmaster:${{ steps.ticketmaster.outcome }}" \

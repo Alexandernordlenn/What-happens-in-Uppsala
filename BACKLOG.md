@@ -22,7 +22,6 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
 - [ ] **Du:** Lägg in Svenska kyrkans nyckel som hemligheten `SVK_API_KEY` (GitHub → *Settings* → *Secrets and variables* → *Actions*). Då kommer kyrkornas konserter med nästa morgon.
 - [ ] **Claude:** Kontrollera Svenska kyrkans första riktiga körning. Fältnamnen i API-svaret är gissade och kan behöva justeras.
 - [ ] **Du:** Skicka de fem viktigaste förfrågningarna. Be gärna Claude skriva mejlen.
-  - [ ] Heja Uppsala (tjena@hejauppsala.com): avtal eller nyckel. **Beslut 6 okt (alternativ C): Heja ligger kvar under testfasen, och sidan lanseras inte förrän det är löst.**
   - [ ] Profixio: API-nyckel. En nyckel ger bandy, basket, handboll och volleyboll.
   - [ ] Kuratorskonventet (Nationsguiden): nationernas evenemang. Vår största lucka.
   - [ ] Uppsala universitet: flöde från uu.se/kalendarium.
@@ -35,7 +34,8 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
 ## Nästa: fler källor
 
 - [ ] **Du:** Skicka förfrågningarna i "Plan: sluta hämta från Heja Uppsala" i `KALLOR.md`. Börja med Kaliber Room, kulturförvaltningen och Profixio. Be gärna Claude skriva mejlen.
-- [ ] **Claude:** Rätta sammanslagningen av Heja-titlar med plats och år ("Elvis, Elvis, Elvis! – Ukk – 2026") och byt bandyns säsongs-id i Profixio.
+- [ ] **Du:** Mejla Billetto om partneråtkomst (API:et visar 11 av de 39 evenemang som billetto.se visar för Uppsala) och Upplandsmuseet om deras slöjdverkstäder.
+- [ ] **Claude:** Ersätt källorna som läser webbsidor när flöden finns, se "Mål: bara API:er och flöden" i `KALLOR.md`.
 
 Öppna källor som inte kräver tillstånd (undersökta 16 okt 2026, se `KALLOR.md`):
 
@@ -109,6 +109,7 @@ Beslut som Claude tog under arbetet med `UPPDRAG-KVALITET.md`, enligt regeln "v�
 - [x] 24 sep: tydligare filter i mobilen
 - [x] 24 sep: sidan visar riktig data (steg 4), och dubbletter mellan källor slås ihop
 - [x] 25 sep: Heja Uppsala (tillfälligt) och Kubik Uppsala
+- [x] 27 okt: Heja Uppsala avstängd, enligt beslutet att bara använda API:er och flöden
 - [x] 25 sep: filter för ålder och område
 - [x] 25 sep: sport från ligor och förbund: Sirius, IK Uppsala, Almtuna, Storvreta, Uppsala Basket, Sirius bandy med flera
 - [x] 25 sep: tre månader framåt ("3 mån")
