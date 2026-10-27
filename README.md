@@ -114,6 +114,6 @@ API-nycklar skrivs aldrig i koden. De sparas som hemligheter i GitHub (*Settings
 
 - `SVK_API_KEY`: Svenska kyrkans nyckel
 - `TICKETMASTER_API_KEY`: Ticketmasters nyckel
-- `TICKSTER_API_KEY`: Ticksters nyckel (utan den läses webbsidorna)
+- `TICKSTER_API_KEY`: Ticksters nyckel (utan den hämtas inget från Tickster)
 - `CLAUDE_CODE_OAUTH_TOKEN`: token för Claude-prenumerationen, för AI-klassningen (utan den byggs sidan med bara reglerna)
 - `FIREBASE_SERVICE_ACCOUNT`: Firebase, när det är inställt
