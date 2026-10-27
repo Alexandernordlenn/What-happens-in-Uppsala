@@ -114,7 +114,19 @@ async function main() {
       skriv(`Filter ${namn}: svar ${status}, totalt ${json?.total ?? "?"}`);
     }
 
-    // 6. Arrangörens egna evenemang, för att se om nyckeln bara gäller det egna kontot.
+    // 6. Fråga API:et om kända Billetto-evenemang i Uppsala, ett i taget.
+    skriv("");
+    skriv("## Kända evenemang i Uppsala, ett i taget");
+    const kanda = [2021663, 1976325, 2021252, 2028720, 1989068, 1976323];
+    for (const id of kanda) {
+      const finns = alla.find((ev) => String(ev.id) === String(id));
+      const { status, json, text } = await anrop(`https://billetto.se/api/v3/public/events/${id}`);
+      const ev = json?.data || json;
+      skriv(`- ${id}: i listan: ${finns ? "ja" : "nej"}. Direkt fråga: svar ${status}` +
+        (status < 400 && ev ? `, "${ev.title}", state=${ev.state}, kind=${ev.kind}, startdate=${ev.startdate}, stad=${ev.location?.city}, koordinater=${JSON.stringify(ev.location?.coordinates)}, tillgänglighet=${JSON.stringify(ev.availability)}, fält: ${Object.keys(ev).join(",")}` : `, ${text.slice(0, 160)}`));
+    }
+
+    // 7. Arrangörens egna evenemang, för att se om nyckeln bara gäller det egna kontot.
     await prova("Bara kontots egna evenemang (organiser)", "https://billetto.se/api/v3/organiser/events?limit=10");
   }
   if (process.env.GITHUB_STEP_SUMMARY) await appendFile(process.env.GITHUB_STEP_SUMMARY, rader.join("\n") + "\n");
