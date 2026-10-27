@@ -95,7 +95,26 @@ async function main() {
     for (const ev of uppsala) skriv(`- ${String(ev.startdate).slice(0, 16)} | ${ev.title} | ${plats(ev)} | ${ev.categorization?.category || ev.categorization?.type || ""} | ${ev.state}`);
     skriv(`Regioner i Uppsala-evenemangen: ${topp(uppsala.map((ev) => `${ev.location?.region}/${ev.location?.subregion}`)).map(([k, n]) => `${k} (${n})`).join(", ")}`);
 
-    // 3. Arrangörens egna evenemang, för att se om nyckeln bara gäller det egna kontot.
+    // 3. Finns kända Billetto-evenemang i Uppsala med? (Säljs via Billetto enligt arrangörerna.)
+    skriv("");
+    skriv("## Kända Billetto-evenemang i Uppsala");
+    for (const ord of ["oslipat", "glans", "musicum", "akademiska kammarkör", "uak", "upplandsmuseet", "kaliber"]) {
+      const traffar = alla.filter((ev) => `${ev.title} ${ev.location?.location_name}`.toLowerCase().includes(ord));
+      skriv(`- "${ord}": ${traffar.length} träffar${traffar.length ? ` (${traffar.slice(0, 3).map((ev) => `${ev.title} | ${plats(ev)}`).join("; ")})` : ""}`);
+    }
+    skriv(`Svenska städer totalt: ${topp(alla.map((ev) => ev.location?.city || "okänd"), 25).map(([k, n]) => `${k} (${n})`).join(", ")}`);
+    // 4. Samma sökning på andra domäner, för att jämföra storleken.
+    for (const doman of ["billetto.dk", "billetto.co.uk"]) {
+      const { status, json } = await anrop(`https://${doman}/api/v3/public/events?limit=1`);
+      skriv(`${doman}: svar ${status}, totalt ${json?.total ?? "?"}`);
+    }
+    // 5. Filter som kanske finns: datum, stad, sök.
+    for (const [namn, q] of [["city=Uppsala", "city=Uppsala"], ["subregion=Uppsala län", "subregion=Uppsala%20l%C3%A4n"], ["macroregion=Östra Mellansverige", "macroregion=%C3%96stra%20Mellansverige"], ["q=Uppsala", "q=Uppsala"], ["search=Uppsala", "search=Uppsala"]]) {
+      const { status, json } = await anrop(`https://billetto.se/api/v3/public/events?limit=100&${q}`);
+      skriv(`Filter ${namn}: svar ${status}, totalt ${json?.total ?? "?"}`);
+    }
+
+    // 6. Arrangörens egna evenemang, för att se om nyckeln bara gäller det egna kontot.
     await prova("Bara kontots egna evenemang (organiser)", "https://billetto.se/api/v3/organiser/events?limit=10");
   }
   if (process.env.GITHUB_STEP_SUMMARY) await appendFile(process.env.GITHUB_STEP_SUMMARY, rader.join("\n") + "\n");
