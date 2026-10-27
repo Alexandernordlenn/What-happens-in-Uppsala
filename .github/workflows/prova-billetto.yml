@@ -1,0 +1,30 @@
+# Provkör Billettos API och skriver en rapport om vad nyckeln ger.
+# Sparar ingenting och ändrar inget på sidan.
+#
+# Startas för hand: fliken Actions -> "Prova Billetto-API" -> Run workflow.
+
+name: Prova Billetto-API
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  prova:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Hämta koden
+        uses: actions/checkout@v7
+
+      - name: Installera Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Prova API:et
+        env:
+          BILLETTO_API_KEY: ${{ secrets.BILLETTO_API_KEY }}
+        run: node scripts/billetto/prova-api.mjs
