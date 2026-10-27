@@ -16,7 +16,6 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
   2. Lägg in token som hemligheten `CLAUDE_CODE_OAUTH_TOKEN` (GitHub → *Settings* → *Secrets and variables* → *Actions*), eller kör `/install-github-app` i Claude Code.
   3. Om prenumerationen är jobbets: kontrollera först att den får användas för ett privat projekt.
   Tills token finns står ett larmärende "AI-steget fungerar inte" öppet. Det är väntat.
-- [ ] **Du:** Lägg in `TICKSTER_API_KEY` när Tickster svarar. API-vägen är redan byggd.
 - [ ] **Du:** Håll ett öga på ärenden med etiketten `larm` under *Issues*. De skapas och stängs automatiskt. Kommer en begäran om att ta bort ett evenemang (från `integritet.html`), be Claude lägga in den i `data/rattelser.json` samma dag (Ticketmasters villkor: inom 24 timmar).
 - [ ] **Claude:** Efter första körningen med det nya bygget: kontrollera kvalitetsrapporten (`data/kvalitet.json`), hur många Kubik-perioder som fick veckodagar, och att inga larm är oväntade.
 
@@ -92,6 +91,8 @@ Beslut som Claude tog under arbetet med `UPPDRAG-KVALITET.md`, enligt regeln "v�
 - [ ] **Löpande:** titta under *Actions* ibland. En röd körning eller en gul varning betyder att en källa har ändrat något. Du får också mejl från GitHub.
 
 ## Klart
+
+- [x] 27 okt 2026: Ticksters API-nyckel inlagd och provkörd (workflowet "Prova Tickster-API"). Morgonkörningen använder API:et.
 
 - [x] 17 okt 2026: första morgonkörningen med de nya källorna gick igenom. Rättat: Fyrishovs träningspass i badet ("Virtuell vattenträning", runt 200 rader) tas bort och gav 65 falska dubbletter, matcher utan sportord blir sport, och UKK:s barnföreställningar blir scen.
 

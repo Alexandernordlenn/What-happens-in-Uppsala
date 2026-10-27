@@ -90,3 +90,17 @@ test("API: X-RATELIMIT-rubrikerna styr väntetiden", async () => {
   assert.equal(vantetid({ "x-ratelimit-remaining": "0", "x-ratelimit-reset": String(1_000_000_020) }, 1_000_000_000_000), 20000);
   assert.equal(vantetid({}), 0);
 });
+
+test("API: presentkort och paket är inga evenemang", async () => {
+  const { tolkaDump } = await import("./api.mjs");
+  const plats = { id: "v1", name: "Uppsala Brygghus", city: "Uppsala", geo: { latitude: 59.858, longitude: 17.645 } };
+  const dump = {
+    venues: [plats],
+    events: [
+      { id: "a1", name: "Presentkort", start: "2023-04-19T00:00:00+02:00", end: "2027-12-31T23:59:00+01:00", venueId: "v1" },
+      { id: "a2", name: "Bj Studentpaket", start: "2026-09-24T22:00:00+02:00", end: "2027-06-01T03:00:00+02:00", venueId: "v1" },
+      { id: "a3", name: "Ölprovning", start: "2026-11-05T19:00:00+01:00", venueId: "v1" },
+    ],
+  };
+  assert.deepEqual(tolkaDump(dump, "2026-10-27").map((e) => e.titel), ["Ölprovning"]);
+});
