@@ -123,6 +123,7 @@ Allt körs av `.github/workflows/hamta-evenemang.yml` varje dag 04:13 UTC, och k
 | Uppsala Missionskyrka | `scripts/missionskyrkan/` | The Events Calendar (`/wp-json/tribe/events/v1/events`). robots.txt: 10 sekunder mellan anrop, inga kalenderfiler. | Provkörd, runt 65 evenemang. Gudstjänster, bibelstudier och församlingsmöten tas bort. |
 | Bror Hjorths Hus | `scripts/bror-hjorths-hus/` | The Events Calendar, museets egna kategorier | Provkörd, runt 55 evenemang (mest visningar). Kurser för vuxna tas bort. |
 | Biotopia | `scripts/biotopia/` | JSON i kalendersidan (`data-properties`) | Provkörd, runt 30 evenemang. Bara datum, utom när texten har ett enda tidsintervall. |
+| Billetto | `scripts/billetto/` | Public Event Search API (`GET billetto.se/api/v3/public/events`), nyckeln `BILLETTO_API_KEY` (id:secret) i rubriken `Api-Keypair`. Alla sidor läses, Uppsala kommun väljs på koordinaterna. Länkarna behåller Billettos UTM-koder (deras villkor). | Provkört 27 okt 2026: 582 i Sverige, runt 10 i Uppsala (bland annat standup på The Kaliber Room). |
 | Fyrishov | `scripts/fyrishov/` | Kalenderfil från All-in-One Event Calendar, veckovisa upprepningar räknas ut | Provkörd 17 okt 2026, runt 60 evenemang, mest matcher (slås ihop med sporten). Träningspass i badet, som "Virtuell vattenträning", tas bort. |
 
 Gemensamma delar i `scripts/gemensamt/`:

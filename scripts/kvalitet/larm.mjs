@@ -20,11 +20,11 @@ const KALLNAMN = {
   "svenska-kyrkan": "Svenska kyrkan", stadsteatern: "Uppsala stadsteater", "destination-uppsala": "Destination Uppsala",
   tickster: "Tickster", bibliotek: "Bibliotek Uppsala", heja: "Heja Uppsala", kubik: "Kubik Uppsala", sport: "Sport",
   ticketmaster: "Ticketmaster", "musik-i-uppland": "Musik i Uppland", katalin: "Katalin", ukk: "Uppsala Konsert & Kongress",
-  missionskyrkan: "Uppsala Missionskyrka", "bror-hjorths-hus": "Bror Hjorths Hus", biotopia: "Biotopia", fyrishov: "Fyrishov",
+  missionskyrkan: "Uppsala Missionskyrka", "bror-hjorths-hus": "Bror Hjorths Hus", biotopia: "Biotopia", fyrishov: "Fyrishov", billetto: "Billetto",
 };
 const BOKSTAV_TILL_ID = {
   i: "sport", s: "stadsteatern", b: "bibliotek", u: "kubik", k: "svenska-kyrkan", d: "destination-uppsala", m: "ticketmaster", h: "heja", t: "tickster",
-  r: "musik-i-uppland", l: "katalin", c: "ukk", e: "missionskyrkan", j: "bror-hjorths-hus", n: "biotopia", f: "fyrishov",
+  r: "musik-i-uppland", l: "katalin", c: "ukk", e: "missionskyrkan", j: "bror-hjorths-hus", n: "biotopia", f: "fyrishov", o: "billetto",
 };
 
 // Samlar alla problem från dagens körning. Ren funktion, så att den går att testa.

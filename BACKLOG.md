@@ -30,7 +30,6 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
 - [ ] **Du:** Påminn Tickster om API-ansökan om inget har hänt.
 - [ ] **Du:** Skaffa gratisnycklar som ger fler evenemang direkt:
   - [ ] Ticketmaster Discovery API: skapa konto på developer.ticketmaster.com, skapa en app, och lägg in nyckeln ("Consumer Key") som hemligheten `TICKETMASTER_API_KEY`. Hämtningen är redan byggd och startar automatiskt.
-  - [ ] Billetto: skapa ett gratis arrangörskonto på billetto.se och en nyckel under *Integrera → API-nycklar*. Lägg in den som hemligheten `BILLETTO_API_KEY` och be Claude bygga hämtningen. Ger Musicum, Upplandsmuseet, UAK och små arrangörer.
 - [ ] **Du:** Skicka ett kort "ok?"-mejl till källor vi redan använder: Uppsala stadsteater, Bibliotek Uppsala, Kubik och Destination Uppsala. Tala om att vi visar deras evenemang med länk tillbaka.
 
 ## Nästa: fler källor
@@ -94,6 +93,8 @@ Beslut som Claude tog under arbetet med `UPPDRAG-KVALITET.md`, enligt regeln "v�
 - [ ] **Löpande:** titta under *Actions* ibland. En röd körning eller en gul varning betyder att en källa har ändrat något. Du får också mejl från GitHub.
 
 ## Klart
+
+- [x] 27 okt 2026: Billettos API-nyckel inlagd och provkörd. Billetto hämtas varje morgon (runt 10 evenemang i Uppsala).
 
 - [x] 27 okt 2026: Ticksters API-nyckel inlagd och provkörd (workflowet "Prova Tickster-API"). Morgonkörningen använder API:et.
 
