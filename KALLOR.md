@@ -19,7 +19,7 @@ Sammanställt 25 september 2026 från en kartläggning av sport- och kulturkalen
 | Biotopia | JSON i kalendersidan | Från 16 okt 2026. Mest datum, sällan klockslag. |
 | Fyrishov | Kalenderfil (iCal) | Från 16 okt 2026. Matcher, mässor och badaktiviteter. |
 | Billetto | API med nyckel | Från 28 okt 2026. Runt 10 i Uppsala av 582 i Sverige. |
-| Tickster | API med nyckel | Från 28 okt 2026, webbsidorna som reserv. |
+| Tickster | API med nyckel | Från 28 okt 2026. Bara API:et, inga webbsidor. |
 
 ## Sport via förbunden (undersökt och byggt 25 september)
 
@@ -127,14 +127,14 @@ Inte värt det (undersökt 16 okt): Fyrisgården (mest läger och kurser, inga d
 
 ## Mål: bara API:er och flöden (beslut 27 oktober 2026)
 
-Heja Uppsala hämtas inte längre. Så här hämtas resten:
+Heja Uppsala hämtas inte längre, och Ticksters webbsidor används inte ens som reserv. Har en källa ett API läser vi aldrig dess webbsidor. Så här hämtas resten:
 
 | Nivå | Källor |
 |---|---|
 | API med nyckel | Tickster, Billetto. Väntar på nyckel: Svenska kyrkan, Ticketmaster. |
 | Öppna API:er och flöden som arrangören publicerar | Stadsteatern, Musik i Uppland, Katalin, UKK, Missionskyrkan, Bror Hjorths Hus (WordPress), Fyrishov och Profixio för basket, handboll och volleyboll (kalenderfiler) |
 | Samma JSON-API som källans egen sida använder, utan avtal | Bibliotek Uppsala (Axiell), Allsvenskan och Superettan (Sportomedia), Damallsvenskan, Elitettan och SSL (Sportality) |
-| Läser webbsidor, ska ersättas | Destination Uppsala, Kubik (sökningen ger HTML, perioderna läser aktivitetens sida), Biotopia (JSON inuti kalendersidan), HockeyAllsvenskan (stats.swehockey.se), bandyn (Profixios schemasidor), och Ticksters webbsidor som reserv när API:et inte svarar |
+| Läser webbsidor, ska ersättas | Destination Uppsala, Kubik (sökningen ger HTML, perioderna läser aktivitetens sida), Biotopia (JSON inuti kalendersidan), HockeyAllsvenskan (stats.swehockey.se), bandyn (Profixios schemasidor) |
 
 Vägen bort från sista raden: Kubik och Biotopia drivs av kommunen (förfrågan 2), Destination Uppsala (förfrågan 8), sporten via Profixio och Ishockeyförbundet (sportförfrågningarna nedan). Upplandsmuseets slöjdverkstäder säljs via Billetto men syns inte i Billettos öppna API (förfrågan 4, och Billetto om partneråtkomst).
 
