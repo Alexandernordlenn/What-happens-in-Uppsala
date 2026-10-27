@@ -35,6 +35,7 @@ jobs:
       SVK_API_KEY: ${{ secrets.SVK_API_KEY }}
       TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
       TICKSTER_API_KEY: ${{ secrets.TICKSTER_API_KEY }}
+      BILLETTO_API_KEY: ${{ secrets.BILLETTO_API_KEY }}
       # Bara "true" eller "false", så att token inte når de andra stegen.
       HAR_CLAUDE: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
       # Mindre modell först. Byt till en större om facit visar för låg träffsäkerhet.
@@ -158,6 +159,13 @@ jobs:
         continue-on-error: true
         run: npm run hamta:fyrishov
 
+      - name: Billetto
+        id: billetto
+        # Hoppas över om hemligheten BILLETTO_API_KEY saknas.
+        if: env.HAMTA == 'true' && env.BILLETTO_API_KEY != ''
+        continue-on-error: true
+        run: npm run hamta:billetto
+
       - name: Bygg kön för AI-klassningen (tmp/ko.json)
         id: ko
         continue-on-error: true
@@ -232,7 +240,7 @@ jobs:
             "Ticketmaster": "${{ steps.ticketmaster.outcome }}", "Musik i Uppland": "${{ steps.musikiuppland.outcome }}",
             "Katalin": "${{ steps.katalin.outcome }}", "Uppsala Konsert & Kongress": "${{ steps.ukk.outcome }}",
             "Uppsala Missionskyrka": "${{ steps.missionskyrkan.outcome }}", "Bror Hjorths Hus": "${{ steps.brorhjorth.outcome }}",
-            "Biotopia": "${{ steps.biotopia.outcome }}", "Fyrishov": "${{ steps.fyrishov.outcome }}", "Sidans fil": "${{ steps.sida.outcome }}",
+            "Biotopia": "${{ steps.biotopia.outcome }}", "Fyrishov": "${{ steps.fyrishov.outcome }}", "Billetto": "${{ steps.billetto.outcome }}", "Sidans fil": "${{ steps.sida.outcome }}",
             "AI": "${{ steps.claude.outcome }}"}
         run: node scripts/kvalitet/larm.mjs
 
@@ -254,6 +262,7 @@ jobs:
                        "Bror Hjorths Hus:${{ steps.brorhjorth.outcome }}" \
                        "Biotopia:${{ steps.biotopia.outcome }}" \
                        "Fyrishov:${{ steps.fyrishov.outcome }}" \
+                       "Billetto:${{ steps.billetto.outcome }}" \
                        "Sidans fil:${{ steps.sida.outcome }}"; do
             namn="${kalla%%:*}"; utfall="${kalla#*:}"
             echo "$namn: ${utfall:-hoppades över}"

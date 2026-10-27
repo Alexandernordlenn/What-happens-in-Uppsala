@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1001, "object": "event", "state": "published",
+    "title": "Fyris Comedy – Stand up med Johanna Wagrell",
+    "url": "https://billetto.se/e/fyris-comedy-1001?utm_source=partner&utm_medium=api",
+    "startdate": "2026-11-17T17:00:00Z", "enddate": "2026-11-17T19:00:00Z",
+    "minimum_price": { "amount_in_cents": 15000, "currency": "SEK" },
+    "categorization": { "category": "performing_arts", "subcategory": "comedy", "type": "performance" },
+    "location": { "location_name": "The Kaliber Room", "address_line": "Kungsgatan 33", "city": "Uppsala", "postal_code": "753 31", "region": "Östra Mellansverige", "subregion": "Uppsala län", "coordinates": { "latitude": 59.8586, "longitude": 17.6436 } }
+  },
+  {
+    "id": 1002, "object": "event", "state": "published",
+    "title": "Senapstillverkning på höstlovet!",
+    "url": "https://billetto.se/e/senap-1002?utm_source=partner",
+    "startdate": "2026-10-29T11:30:00Z", "enddate": null,
+    "minimum_price": { "amount_in_cents": 0, "currency": "SEK" },
+    "categorization": { "category": "food_drink", "subcategory": "other", "type": "workshop" },
+    "location": { "location_name": "Medicinhistoriska museet", "address_line": "Eva Lagerwalls väg 8", "city": "Uppsala", "postal_code": "756 43", "coordinates": { "latitude": 59.8365, "longitude": 17.6265 } }
+  },
+  {
+    "id": 1003, "object": "event", "state": "published",
+    "title": "Pub Crawl Uppsala",
+    "url": "https://billetto.se/e/pubcrawl-1003",
+    "startdate": null, "enddate": null,
+    "categorization": { "category": "food_drink" },
+    "location": { "location_name": "Kappa Bar", "city": "Uppsala", "postal_code": "753 32", "coordinates": { "latitude": 59.857, "longitude": 17.64 } }
+  },
+  {
+    "id": 1004, "object": "event", "state": "published",
+    "title": "HABIBIWEEN",
+    "url": "https://billetto.se/e/habibiween-1004",
+    "startdate": "2026-10-31T10:00:00Z", "enddate": null,
+    "categorization": { "category": "family" },
+    "location": { "location_name": "VOCCO", "city": "Stockholm", "postal_code": "113 43", "coordinates": { "latitude": 59.3475, "longitude": 18.0381 } }
+  }
+]

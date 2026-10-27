@@ -34,6 +34,7 @@ export const KALLOR = [
   { id: "bror-hjorths-hus", bokstav: "j" },
   { id: "biotopia", bokstav: "n" },
   { id: "fyrishov", bokstav: "f" },
+  { id: "billetto", bokstav: "o" },
   { id: "destination-uppsala", bokstav: "d" },
   { id: "ticketmaster", bokstav: "m" },
   { id: "heja", bokstav: "h" },

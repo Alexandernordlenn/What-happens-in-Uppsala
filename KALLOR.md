@@ -20,6 +20,8 @@ Sammanställt 25 september 2026 från en kartläggning av sport- och kulturkalen
 | Bror Hjorths Hus | The Events Calendar (API) | Från 16 okt 2026. |
 | Biotopia | JSON i kalendersidan | Från 16 okt 2026. Mest datum, sällan klockslag. |
 | Fyrishov | Kalenderfil (iCal) | Från 16 okt 2026. Matcher, mässor och badaktiviteter. |
+| Billetto | API med nyckel | Från 28 okt 2026. Runt 10 i Uppsala av 582 i Sverige. |
+| Tickster | API med nyckel | Från 28 okt 2026, webbsidorna som reserv. |
 
 ## Sport via förbunden (undersökt och byggt 25 september)
 
