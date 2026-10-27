@@ -35,6 +35,9 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
 
 ## Nästa: fler källor
 
+- [ ] **Du:** Skicka förfrågningarna i "Plan: sluta hämta från Heja Uppsala" i `KALLOR.md`. Börja med Kaliber Room, kulturförvaltningen och Profixio. Be gärna Claude skriva mejlen.
+- [ ] **Claude:** Rätta sammanslagningen av Heja-titlar med plats och år ("Elvis, Elvis, Elvis! – Ukk – 2026") och byt bandyns säsongs-id i Profixio.
+
 Öppna källor som inte kräver tillstånd (undersökta 16 okt 2026, se `KALLOR.md`):
 
 - [ ] **Claude:** IFU Arena (arenans egen kalender). Ger innebandyns Allsvenskan (Sirius IBK, Hagunda), som saknas i dag.

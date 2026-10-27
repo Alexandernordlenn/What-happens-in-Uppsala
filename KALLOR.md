@@ -125,6 +125,49 @@ Inte värt det (undersökt 16 okt): Fyrisgården (mest läger och kurser, inga d
 | Uppsala Kortfilmfestival | Bara HTML och PDF. Biljetterna säljs via Tickster. | Kommer via Tickster-API:t när nyckeln finns |
 | Nortic, Ebiljett | robots.txt stänger Nortics API. Ebiljett gick inte att nå. | Partneråtkomst (förfrågan 12) |
 
+## Plan: sluta hämta från Heja Uppsala (undersökt 27 oktober 2026)
+
+Av 1 664 evenemang på sidan fanns 126 bara hos Heja (data från 20 okt). Runt 27 av dem finns redan hos andra källor under en annan titel ("Elvis, Elvis, Elvis! – Ukk – 2026"). Det är ett sammanslagningsfel som Claude rättar. Den verkliga luckan är alltså runt 100 evenemang.
+
+### Görs utan att fråga någon
+
+| Vad | Vem | Ersätter |
+|---|---|---|
+| Lägg in `SVK_API_KEY` | Du | Uppsala domkyrka (6) och fler kyrkkonserter |
+| Skaffa Billetto-nyckel (gratis arrangörskonto) | Du | Musicum (2), en del av Kaliber Room |
+| Ticksters API (inlagt 27 okt) | Klart | KAIJA (3), en del av Kaliber, konstmuseet |
+| Rätta sammanslagningen av titlar med "– Ukk – 2026" och liknande | Claude | Runt 27 |
+| Nya säsongs-id för bandyn i Profixio (`scripts/sport/konfig.mjs`) | Claude | Sirius och Uppsala BoIS (runt 12) |
+
+### Förfrågningar, kultur, i den här ordningen
+
+| # | Till | Be om | Ersätter hos Heja |
+|---|---|---|---|
+| 1 | Kaliber Room, info@kaliberroom.com | Lov att läsa programmet, eller en iCal- eller JSON-länk | 25 (största luckan) |
+| 2 | Uppsala kommun, kulturförvaltningen, kulturforvaltningen@uppsala.se | Ett flöde för Uppsala konstmuseum och Reginateatern (som spelar på Den Lilla Teatern under renoveringen) | 9 |
+| 3 | Himlen är blå som en apelsin (kaféet saknar biljettsystem) | En iCal-länk, eller att de lägger in själva när den funktionen finns | 7 |
+| 4 | Upplandsmuseet, info@upplandsmuseet.se | Ett flöde. Ger också Gamla Uppsala museum, som Upplandsmuseet driver. | 5 |
+| 5 | Uppsala universitet, kommunikation@uu.se | Lov att använda kalendariets kalenderfil (stängd i robots.txt) | 5, plus runt 100 som inte finns hos Heja |
+| 6 | Kulturoasen (drivs med Studiefrämjandet) | En kalenderlänk. WordPress-API:et saknar datum. | 9 |
+| 7 | Uppsala Saluhall och krögarna (Taysta, Svenssons) | Ett flöde för matevenemangen | 8 |
+| 8 | Destination Uppsala och Kulturnatten, kulturnatten@uppsala.se | Programexport, och att lägga evenemangen i Visit Swedens öppna nationella API | Få, men stort värde |
+| 9 | Heja Uppsala, tjena@hejauppsala.com | Licenspris för det som blir kvar: runt 15–20 (gallerier, Fyrisgården, Auktionskammaren) | Resten |
+
+Det som blir kvar (gallerier och små föreningar) löses bäst med självinmatning eller inklistrad iCal-länk (BACKLOG, "Sidan").
+
+### Förfrågningar, sport, i den här ordningen
+
+| # | Till | Finns | Ger oss |
+|---|---|---|---|
+| 1 | Profixio, tel 08-20 22 10 (www.profixio.com/app/docs) | API med `X-Api-Secret`, 120 anrop per minut | Handboll, basket, bandy, rugby, troligen volleyboll |
+| 2 | Svensk Orientering (Eventor), eventorsupport@orientering.se, via Upplands OF | Dokumenterat API, nyckel per organisation | Hela orienteringskalendern |
+| 3 | Everysport, support@everysport.com | API för många idrotter, källhänvisning krävs | Luckor i innebandy, bandy och lägre fotboll |
+| 4 | Svenska Fotbollförbundet, api-support@svenskfotboll.se | Matchdata finns men kostar. Gratisnivån ger bara föreningar. | Fotboll under Superettan (Dalkurd, Upsala IF). Be om ideellt pris för Uppsala. |
+| 5 | Svenska Ishockeyförbundet eller Impleo | API "för externa intressenter" (villkor ej bekräftade) | Ersätter läsningen av stats.swehockey.se |
+| 6 | Svensk Friidrott, tävlingsavdelningen | Inget API, be om export | Lopp och friidrott |
+
+Inte värt det: innebandyns iBIS (3 000 kr per förening och bara det egna laget), RF-SISU IdrottOnline (inget kalender-API), Ridsportens TDB, Tempus (simning), tennis och padel (inga API:er), Eventbrite och Luma (bara egna evenemang), Biljettkiosken och Ebiljett.
+
 ## 4. Domäner i Claudes miljö
 
 Behövs inte längre. Sedan 25 september har Claudes miljö full åtkomst till internet. GitHub, där hämtningarna körs, har aldrig haft någon spärr.
