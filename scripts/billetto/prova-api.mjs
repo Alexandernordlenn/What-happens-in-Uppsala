@@ -126,7 +126,15 @@ async function main() {
         (status < 400 && ev ? `, "${ev.title}", state=${ev.state}, kind=${ev.kind}, startdate=${ev.startdate}, stad=${ev.location?.city}, koordinater=${JSON.stringify(ev.location?.coordinates)}, tillgänglighet=${JSON.stringify(ev.availability)}, fält: ${Object.keys(ev).join(",")}` : `, ${text.slice(0, 160)}`));
     }
 
-    // 7. Arrangörens egna evenemang, för att se om nyckeln bara gäller det egna kontot.
+    // 7. Samma evenemang via arrangörsdelen (Retrieve an event, /organiser/events/{id}).
+    skriv("");
+    skriv("## Samma evenemang via arrangörsdelen");
+    for (const id of kanda) {
+      const { status, text } = await anrop(`https://billetto.se/api/v3/organiser/events/${id}`);
+      skriv(`- ${id}: svar ${status}, ${text.slice(0, 140)}`);
+    }
+
+    // 8. Arrangörens egna evenemang, för att se om nyckeln bara gäller det egna kontot.
     await prova("Bara kontots egna evenemang (organiser)", "https://billetto.se/api/v3/organiser/events?limit=10");
   }
   if (process.env.GITHUB_STEP_SUMMARY) await appendFile(process.env.GITHUB_STEP_SUMMARY, rader.join("\n") + "\n");
