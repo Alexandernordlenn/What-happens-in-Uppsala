@@ -37,7 +37,6 @@ export const KALLOR = [
   { id: "billetto", bokstav: "o" },
   { id: "destination-uppsala", bokstav: "d" },
   { id: "ticketmaster", bokstav: "m" },
-  { id: "heja", bokstav: "h" },
   { id: "tickster", bokstav: "t" },
 ];
 

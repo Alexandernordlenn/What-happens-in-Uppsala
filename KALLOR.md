@@ -6,9 +6,7 @@ Sammanställt 25 september 2026 från en kartläggning av sport- och kulturkalen
 
 | Källa | Hur | Status |
 |---|---|---|
-| Tickster | Publika sidor | Fungerar. Byt till API när nyckeln kommer. |
 | Destination Uppsala | Publika sidor | Fungerar. Har även Sirius allsvenska hemmamatcher, men utan avsparkstid. |
-| Heja Uppsala | Publika sidor (tillfälligt) | Fungerar. Kräver avtal innan sidan blir skarp. |
 | Uppsala stadsteater | Öppet flöde | Fungerar |
 | Bibliotek Uppsala | Öppet API (Axiell) | Fungerar |
 | Kubik Uppsala | Samma sökning som deras sida | Fungerar |
@@ -127,7 +125,20 @@ Inte värt det (undersökt 16 okt): Fyrisgården (mest läger och kurser, inga d
 | Uppsala Kortfilmfestival | Bara HTML och PDF. Biljetterna säljs via Tickster. | Kommer via Tickster-API:t när nyckeln finns |
 | Nortic, Ebiljett | robots.txt stänger Nortics API. Ebiljett gick inte att nå. | Partneråtkomst (förfrågan 12) |
 
-## Plan: sluta hämta från Heja Uppsala (undersökt 27 oktober 2026)
+## Mål: bara API:er och flöden (beslut 27 oktober 2026)
+
+Heja Uppsala hämtas inte längre. Så här hämtas resten:
+
+| Nivå | Källor |
+|---|---|
+| API med nyckel | Tickster, Billetto. Väntar på nyckel: Svenska kyrkan, Ticketmaster. |
+| Öppna API:er och flöden som arrangören publicerar | Stadsteatern, Musik i Uppland, Katalin, UKK, Missionskyrkan, Bror Hjorths Hus (WordPress), Fyrishov och Profixio för basket, handboll och volleyboll (kalenderfiler) |
+| Samma JSON-API som källans egen sida använder, utan avtal | Bibliotek Uppsala (Axiell), Allsvenskan och Superettan (Sportomedia), Damallsvenskan, Elitettan och SSL (Sportality) |
+| Läser webbsidor, ska ersättas | Destination Uppsala, Kubik (sökningen ger HTML, perioderna läser aktivitetens sida), Biotopia (JSON inuti kalendersidan), HockeyAllsvenskan (stats.swehockey.se), bandyn (Profixios schemasidor), och Ticksters webbsidor som reserv när API:et inte svarar |
+
+Vägen bort från sista raden: Kubik och Biotopia drivs av kommunen (förfrågan 2), Destination Uppsala (förfrågan 8), sporten via Profixio och Ishockeyförbundet (sportförfrågningarna nedan). Upplandsmuseets slöjdverkstäder säljs via Billetto men syns inte i Billettos öppna API (förfrågan 4, och Billetto om partneråtkomst).
+
+## Plan: sluta hämta från Heja Uppsala (undersökt 27 oktober 2026, Heja avstängd samma dag)
 
 Av 1 664 evenemang på sidan fanns 126 bara hos Heja (data från 20 okt). Runt 27 av dem finns redan hos andra källor under en annan titel ("Elvis, Elvis, Elvis! – Ukk – 2026"). Det är ett sammanslagningsfel som Claude rättar. Den verkliga luckan är alltså runt 100 evenemang.
 

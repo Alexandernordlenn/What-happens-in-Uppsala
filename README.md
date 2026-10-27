@@ -42,7 +42,7 @@ index.html läser data/sida.json i besökarens webbläsare
 
 ## Källor
 
-Sexton källor är byggda: Tickster, Destination Uppsala, Heja Uppsala, Uppsala stadsteater, Bibliotek Uppsala, Kubik Uppsala, förbund och ligor (sport), Svenska kyrkan, Ticketmaster, och sju arrangörers egna öppna flöden: Musik i Uppland, Katalin, Uppsala Konsert & Kongress, Uppsala Missionskyrka, Bror Hjorths Hus, Biotopia och Fyrishov. Svenska kyrkan och Ticketmaster väntar på att nycklarna läggs in.
+Sexton källor är byggda: Tickster, Billetto, Destination Uppsala, Uppsala stadsteater, Bibliotek Uppsala, Kubik Uppsala, förbund och ligor (sport), Svenska kyrkan, Ticketmaster, och sju arrangörers egna öppna flöden: Musik i Uppland, Katalin, Uppsala Konsert & Kongress, Uppsala Missionskyrka, Bror Hjorths Hus, Biotopia och Fyrishov. Svenska kyrkan och Ticketmaster väntar på att nycklarna läggs in.
 
 - Hur varje källa hämtas och status: se avsnittet "Hämtningarna" i [`CLAUDE.md`](CLAUDE.md).
 - Alla källor i Uppsala och vilka API:er som ska begäras: [`KALLOR.md`](KALLOR.md).

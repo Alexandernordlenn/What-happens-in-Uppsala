@@ -401,11 +401,11 @@ footer p{margin:0 0 8px}
 "use strict";
 /* ---------- Källor ---------- */
 var SRC = {
-  t:{name:"Tickster", base:"https://www.tickster.com/se/sv/events/", how:"Publika sidor",
-     status:"Läses från Ticksters publika sidor för Uppsala och kommunens mindre orter, tills vi får en API-nyckel. Evenemangssidan ger exakt tid och plats.",
+  t:{name:"Tickster", base:"https://www.tickster.com/se/sv/events/", how:"API med nyckel",
+     status:"Ticksters API med hela utbudet, filtrerat på platser inom Uppsala kommun. Presentkort och paket tas bort.",
      demo:"I demon: publika evenemangssidor."},
-  h:{name:"Heja Uppsala", base:"https://hejauppsala.com/kalender/", how:"Publika sidor, test",
-     status:"Privat lokal kalender med många små arrangörer. Hämtas tillfälligt under testfasen. För att använda den på riktigt behövs ett avtal.",
+  h:{name:"Heja Uppsala", base:"https://hejauppsala.com/kalender/", how:"Publika sidor, test", bort:1,
+     status:"Privat lokal kalender med många små arrangörer. Hämtas inte sedan 27 oktober 2026, eftersom vi bara vill använda API:er och flöden. Finns kvar för demon.",
      demo:"I demon: kalenderns tre första sidor."},
   d:{name:"Destination Uppsala", base:"https://destinationuppsala.se/event/", how:"Publika sidor",
      status:"Kommunalt bolag. Listan med kommande evenemang läses varje morgon, och klockslag hämtas från varje evenemangs sida.",
@@ -1065,7 +1065,7 @@ function showSources(){
     '<div class="stats"><div><b>'+recs+'</b><span>poster från källorna</span></div><div><b>'+evs+'</b><span>unika evenemang</span></div><div><b>'+merged+'</b><span>dubbletter sammanslagna</span></div></div>'+
     (LIVE && LIVE.statistik ? '<p style="margin:0 0 12px;color:var(--muted);font-size:.86rem">Kvalitet: '+(LIVE.statistik.sammanslagna||0)+' sammanslagningar mellan och inom källor, och '+
       Object.keys(LIVE.statistik.kurser||{}).reduce(function(n,k){ return n+LIVE.statistik.kurser[k]; },0)+' kurser med anmälan som inte visas här (de finns hos Kubik). Allt mäts automatiskt varje morgon.</p>' : '');
-  html+=Object.keys(SRC).map(function(k){ var s=SRC[k];
+  html+=Object.keys(SRC).filter(function(k){ return !(LIVE && SRC[k].bort); }).map(function(k){ var s=SRC[k];
     return '<div class="srow"><div class="h"><span><b>'+s.name+'</b><span class="how">'+s.how+'</span></span><button class="switch" role="switch" data-src="'+k+'" aria-checked="'+st.src[k]+'" aria-label="Visa evenemang från '+s.name+'"></button></div>'+
       '<p>'+s.status+'</p><p class="demo">'+(LIVE ? (LIVE.kallor[k] ? 'Hämtad '+fmtHamtad(LIVE.kallor[k].hamtad)+(LIVE.kallor[k].inaktuell?' (inaktuell, källan har inte gått att hämta på flera dagar)':'')+':' : 'Inte hämtad än:') : s.demo)+' '+counts[k]+(counts[k]===1?' post.':' poster.')+'</p></div>';
   }).join("");
