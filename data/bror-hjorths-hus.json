@@ -1,8 +1,8 @@
 {
   "kalla": "Bror Hjorths Hus",
   "webbsida": "https://brorhjorthshus.se/",
-  "hamtad": "2026-10-26T10:08:39.549Z",
-  "antal": 47,
+  "hamtad": "2026-10-27T09:51:08.621Z",
+  "antal": 48,
   "evenemang": [
     {
       "id": "bror-hjorths-hus-20469",
@@ -512,6 +512,35 @@
       "installd": false,
       "fakta": {
         "kategorier": [
+          "Visning"
+        ],
+        "adress": "Norbyvägen 26, 752 39"
+      }
+    },
+    {
+      "id": "bror-hjorths-hus-20669",
+      "titel": "Kvällsöppet museum",
+      "start": "2026-11-12T18:00:00+01:00",
+      "slut": "2026-11-12T20:00:00+01:00",
+      "plats": {
+        "namn": "Bror Hjorths Hus",
+        "id": "brorhjorth"
+      },
+      "kategori": "museum",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "bror-hjorths-hus",
+          "namn": "Bror Hjorths Hus",
+          "url": "https://brorhjorthshus.se/evenemang/kvallsoppet-museum-nov-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Verkstad/kurs",
           "Visning"
         ],
         "adress": "Norbyvägen 26, 752 39"

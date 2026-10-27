@@ -1,8 +1,8 @@
 {
   "kalla": "Katalin",
   "webbsida": "https://www.katalin.com/",
-  "hamtad": "2026-10-26T10:08:19.976Z",
-  "antal": 99,
+  "hamtad": "2026-10-27T09:50:48.577Z",
+  "antal": 100,
   "evenemang": [
     {
       "id": "katalin-17322",
@@ -1309,6 +1309,35 @@
       "fakta": {
         "kategorier": [
           "pop"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17531",
+      "titel": "Stad i ljus – Ett musikaliskt möte med Py Bäckman",
+      "start": "2026-11-29T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "notering": "Slutsåld",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/stad-i-ljus-ett-musikaliskt-mote-med-py-backman/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "akustiskt"
         ]
       }
     },

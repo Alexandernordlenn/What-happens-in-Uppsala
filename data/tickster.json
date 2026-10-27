@@ -1,41 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-26T10:06:48.635Z",
-  "antal": 297,
+  "hamtad": "2026-10-27T09:49:07.025Z",
+  "antal": 299,
   "evenemang": [
-    {
-      "id": "tickster-pd1ke8weme0fu4b",
-      "titel": "1789 – Den franska revolutionen",
-      "start": "2026-10-26T13:00:00+01:00",
-      "slut": "2026-10-26T13:45:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/pd1ke8weme0fu4b/2026-10-26/1789-den-franska-revolutionen",
-          "biljetter": "https://secure.tickster.com/sv/pd1ke8weme0fu4b"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "klassiskt",
-          "barn"
-        ]
-      }
-    },
     {
       "id": "tickster-ube3vuh418fdy7y",
       "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
@@ -4817,6 +4785,43 @@
       "installd": false
     },
     {
+      "id": "tickster-6u1pbpuygf6h62g",
+      "titel": "En Julkväll med Jöback",
+      "start": "2026-12-07T19:00:00+01:00",
+      "slut": "2026-12-07T22:00:00+01:00",
+      "plats": {
+        "namn": "Parksnäckan",
+        "id": "parksnackan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/6u1pbpuygf6h62g/2026-12-07/en-julkvall-med-joback",
+          "biljetter": "https://secure.tickster.com/sv/6u1pbpuygf6h62g"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "parksnäckan",
+          "uppsala",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "jöback",
+          "julkonsert",
+          "jul",
+          "jubel"
+        ]
+      }
+    },
+    {
       "id": "tickster-ur67mwry64zh24r",
       "titel": "UUJO - Swinging Christmas",
       "start": "2026-12-08T20:00:00+01:00",
@@ -8183,6 +8188,37 @@
       }
     },
     {
+      "id": "tickster-y5eb8j7mc7ve4y5",
+      "titel": "Christoffer Nyqvist – Lejonet från Norden",
+      "start": "2027-03-12T19:30:00+01:00",
+      "slut": "2027-03-12T20:45:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/y5eb8j7mc7ve4y5/2027-03-12/christoffer-nyqvist-lejonet-fran-norden",
+          "biljetter": "https://secure.tickster.com/sv/y5eb8j7mc7ve4y5"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
       "id": "tickster-l2eptd3za9kzdr3",
       "titel": "Sunnan",
       "start": "2027-03-12T20:00:00+01:00",
@@ -9469,6 +9505,43 @@
       ],
       "langvarig": false,
       "installd": false
+    },
+    {
+      "id": "tickster-3cy6vrk1gbn87ce",
+      "titel": "My Secret Garden - Synthfest",
+      "start": "2027-08-14T18:00:00+02:00",
+      "slut": "2027-08-14T23:00:00+02:00",
+      "plats": {
+        "namn": "Parksnäckan",
+        "id": "parksnackan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/3cy6vrk1gbn87ce/2027-08-14/my-secret-garden-synthfest",
+          "biljetter": "https://secure.tickster.com/sv/3cy6vrk1gbn87ce"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "parksnäckan",
+          "uppsala",
+          "sommar",
+          "musik",
+          "konsert",
+          "live",
+          "kaliber live",
+          "covenant",
+          "henric de la cour",
+          "spock"
+        ]
+      }
     },
     {
       "id": "tickster-m9rbmjxxw04wuc9",

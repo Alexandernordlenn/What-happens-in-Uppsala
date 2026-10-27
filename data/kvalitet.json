@@ -1,13 +1,13 @@
 {
-  "matt": "2026-10-26T10:08:44.970Z",
-  "idag": "2026-10-26",
+  "matt": "2026-10-27T09:51:13.984Z",
+  "idag": "2026-10-27",
   "totalt": {
-    "antal": 1687,
+    "antal": 1664,
     "utanKlockslag": 0.036,
     "ovrigt": 0.034,
-    "familjUtanAlder": 0.194,
+    "familjUtanAlder": 0.196,
     "utanOmrade": 0.019,
-    "sammanslagna": 711,
+    "sammanslagna": 712,
     "pagar14": 14,
     "borttagnaKurser": 24,
     "aiEvenemang": 0,
@@ -15,25 +15,25 @@
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
       "langvariga": 10,
-      "samma-kalla": 6,
+      "samma-kalla": 5,
       "serie-uttryckliga-datum": 9,
       "speltid-mot-tillfallen": 12,
       "festival": 30,
-      "lika": 329,
-      "innehaller": 99,
+      "lika": 328,
+      "innehaller": 101,
       "likhet": 1,
-      "sport": 81
+      "sport": 82
     }
   },
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 103,
+      "antal": 104,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.01,
-      "sammanslagna": 81,
+      "sammanslagna": 82,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -41,12 +41,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 116,
+      "antal": 118,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 104,
+      "sammanslagna": 105,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 319,
+      "antal": 314,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 113,
+      "sammanslagna": 110,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 667,
+      "antal": 641,
       "utanKlockslag": 0.043,
-      "ovrigt": 0.013,
-      "familjUtanAlder": 0.11,
+      "ovrigt": 0.014,
+      "familjUtanAlder": 0.111,
       "utanOmrade": 0.006,
-      "sammanslagna": 150,
+      "sammanslagna": 146,
       "pagar14": 0,
       "borttagnaKurser": 22,
       "aiEvenemang": 0,
@@ -93,12 +93,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 81,
+      "antal": 83,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 138,
+      "sammanslagna": 140,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -109,9 +109,9 @@
       "antal": 80,
       "utanKlockslag": 0,
       "ovrigt": 0.038,
-      "familjUtanAlder": 0.696,
+      "familjUtanAlder": 0.682,
       "utanOmrade": 0,
-      "sammanslagna": 205,
+      "sammanslagna": 206,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -132,7 +132,7 @@
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 46,
+      "antal": 47,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0.714,
@@ -173,8 +173,8 @@
       "namn": "Destination Uppsala",
       "antal": 266,
       "utanKlockslag": 0.059,
-      "ovrigt": 0.105,
-      "familjUtanAlder": 0.778,
+      "ovrigt": 0.109,
+      "familjUtanAlder": 0.79,
       "utanOmrade": 0.034,
       "sammanslagna": 318,
       "pagar14": 9,
@@ -184,12 +184,12 @@
     },
     "h": {
       "namn": "Heja",
-      "antal": 333,
+      "antal": 334,
       "utanKlockslag": 0.04,
-      "ovrigt": 0.027,
+      "ovrigt": 0.03,
       "familjUtanAlder": 0.811,
       "utanOmrade": 0.012,
-      "sammanslagna": 397,
+      "sammanslagna": 402,
       "pagar14": 5,
       "borttagnaKurser": 1,
       "aiEvenemang": 0,
@@ -197,12 +197,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 237,
+      "antal": 239,
       "utanKlockslag": 0.018,
-      "ovrigt": 0.055,
-      "familjUtanAlder": 0.6,
-      "utanOmrade": 0.051,
-      "sammanslagna": 361,
+      "ovrigt": 0.054,
+      "familjUtanAlder": 0.586,
+      "utanOmrade": 0.05,
+      "sammanslagna": 364,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -342,18 +342,6 @@
     },
     {
       "regel": "samma-kalla",
-      "dag": "2026-11-10",
-      "plats": "savjabib",
-      "kallor": [
-        "b",
-        "b"
-      ],
-      "titlar": [
-        "Ungdomszon"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
       "dag": "2026-11-18",
       "plats": "balingebib",
       "kallor": [
@@ -434,7 +422,7 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-26",
+      "dag": "2026-11-02",
       "plats": "gottsundabib",
       "kallor": [
         "u",
@@ -448,11 +436,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-26",
+      "dag": "2026-11-02",
       "plats": "gottsundabib",
       "kallor": [
         "u",
-        "b",
         "b",
         "b",
         "b",
@@ -643,7 +630,7 @@
       "titlar": [
         "Höstlovskul: Formstarkt och eldigt"
       ],
-      "tillfallen": 7
+      "tillfallen": 6
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -711,7 +698,7 @@
         "Teater: Lotten von Kræmer",
         "Lotten von Kræmer"
       ],
-      "tillfallen": 9
+      "tillfallen": 10
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -1179,32 +1166,6 @@
       ],
       "titlar": [
         "Nyhetsklubb"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-26",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Pyssla stickers!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-27",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Hjälp till att morgonöppna Gottsundabiblioteket!"
       ],
       "poang": 1
     },
@@ -3263,10 +3224,10 @@
         "d"
       ],
       "titlar": [
-        "Nötknäpparen med International Festival Ballet – Liveorkester",
+        "Nötknäpparen med International Festival Ballet – och orkester på scen",
         "Nötknäpparen med International Festival Ballet"
       ],
-      "poang": 0.8
+      "poang": 0.67
     },
     {
       "regel": "lika",
@@ -4759,10 +4720,10 @@
         "h"
       ],
       "titlar": [
-        "Nötknäpparen med International Festival Ballet – Liveorkester",
+        "Nötknäpparen med International Festival Ballet – och orkester på scen",
         "Nötknäpparen med International Festival Ballet"
       ],
-      "poang": 0.8
+      "poang": 0.67
     },
     {
       "regel": "sport",
@@ -6156,15 +6117,44 @@
       "poang": 1
     },
     {
-      "regel": "lika",
-      "dag": "2026-10-26",
+      "regel": "sport",
+      "dag": "2027-02-24",
+      "plats": "granbyishall",
+      "kallor": [
+        "i",
+        "h"
+      ],
+      "titlar": [
+        "Almtuna IS – Kalmar HC",
+        "Almtuna-Kalmar"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "innehaller",
+      "dag": "2027-02-24",
       "plats": "ukk",
       "kallor": [
         "c",
-        "t"
+        "h"
       ],
       "titlar": [
-        "1789 – Den franska revolutionen"
+        "Klas Kalas – Klas Hallberg best of 30 år på scen",
+        "Klas Kalas"
+      ],
+      "poang": 0.29
+    },
+    {
+      "regel": "innehaller",
+      "dag": "2027-02-24",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "h"
+      ],
+      "titlar": [
+        "Jesper Lindell & Brunnsvik Sounds – Klubb Uffe",
+        "Klubb Uffe – Jesper Lindell & Brunnsvik Sounds"
       ],
       "poang": 1
     },
@@ -7213,10 +7203,10 @@
         "t"
       ],
       "titlar": [
-        "Nötknäpparen med International Festival Ballet – Liveorkester",
+        "Nötknäpparen med International Festival Ballet – och orkester på scen",
         "Nötknäpparen med International Festival Ballet"
       ],
-      "poang": 0.8
+      "poang": 0.67
     },
     {
       "regel": "lika",
@@ -8383,6 +8373,37 @@
         "Bamse och Sjörövarskatten"
       ],
       "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-24",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "h",
+        "t"
+      ],
+      "titlar": [
+        "Klas Kalas – Klas Hallberg best of 30 år på scen",
+        "Klas Kalas"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-24",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "h",
+        "t"
+      ],
+      "titlar": [
+        "Jesper Lindell & Brunnsvik Sounds – Klubb Uffe",
+        "Klubb Uffe – Jesper Lindell & Brunnsvik Sounds",
+        "Jesper Lindell & Brunnsvik Sounds - Klubb Uffe"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -8432,14 +8453,14 @@
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 13,
+      "varde": 12,
       "krav": "minst 10"
     },
     {
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 76,
+      "varde": 70,
       "krav": "minst 5"
     },
     {

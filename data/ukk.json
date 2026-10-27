@@ -1,43 +1,9 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-26T10:08:25.113Z",
+  "hamtad": "2026-10-27T09:50:54.037Z",
   "antal": 109,
   "evenemang": [
-    {
-      "id": "ukk-44787",
-      "titel": "1789 – Den franska revolutionen",
-      "start": "2026-10-26T13:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/1789-den-franska-revolutionen/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "klassiskt",
-          "barn"
-        ],
-        "taggar": [
-          "familj",
-          "aktuellt",
-          "miu",
-          "hostlov"
-        ]
-      }
-    },
     {
       "id": "ukk-33441",
       "titel": "Viktor Norén & Linus Wahlgren – Våra liv, våra musikaler",
@@ -93,7 +59,6 @@
         ],
         "taggar": [
           "familj",
-          "aktuellt",
           "hostlov"
         ]
       }
@@ -153,8 +118,8 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "nostalgi-tribute",
-          "pop-rock"
+          "pop-rock",
+          "nostalgi-tribute"
         ],
         "taggar": []
       }
@@ -182,11 +147,11 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "jazz",
-          "barn",
-          "festligheter-hogtider"
+          "jazz"
         ],
         "taggar": [
+          "familj",
+          "publikfavoriter",
           "aktuellt",
           "hostlov"
         ]
@@ -215,14 +180,13 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "barn",
-          "jazz"
+          "barn"
         ],
         "taggar": [
+          "jazz",
           "familj",
           "aktuellt",
-          "hostlov",
-          "jazz"
+          "hostlov"
         ]
       }
     },
@@ -280,6 +244,7 @@
       "installd": false,
       "fakta": {
         "kategorier": [
+          "klassiskt",
           "pop-rock"
         ],
         "taggar": []
@@ -339,10 +304,10 @@
           "jazz"
         ],
         "taggar": [
+          "mhv",
           "jazz",
           "publikfavoriter",
-          "student",
-          "mhv"
+          "student"
         ]
       }
     },
@@ -464,8 +429,8 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "aktuellt",
+          "familj"
         ]
       }
     },
@@ -709,10 +674,10 @@
           "nostalgi-tribute"
         ],
         "taggar": [
+          "lunchkonsert",
           "student",
           "mhv",
-          "jazz",
-          "lunchkonsert"
+          "jazz"
         ]
       }
     },
@@ -1049,7 +1014,7 @@
     },
     {
       "id": "ukk-40024",
-      "titel": "Nötknäpparen med International Festival Ballet – Liveorkester",
+      "titel": "Nötknäpparen med International Festival Ballet – och orkester på scen",
       "start": "2026-11-29T15:00:00+01:00",
       "slut": null,
       "plats": {
@@ -1071,8 +1036,9 @@
       "fakta": {
         "kategorier": [
           "dans",
-          "festligheter-hogtider",
-          "barn"
+          "barn",
+          "klassiskt",
+          "festligheter-hogtider"
         ],
         "taggar": [
           "dans",
@@ -1090,7 +1056,7 @@
         "namn": "Uppsala Konsert & Kongress",
         "id": "ukk"
       },
-      "kategori": "musik",
+      "kategori": "ovrigt",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -1104,10 +1070,10 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "festligheter-hogtider",
-          "jazz"
+          "festligheter-hogtider"
         ],
         "taggar": [
+          "publikfavoriter",
           "jul"
         ]
       }
@@ -1258,9 +1224,9 @@
       "fakta": {
         "kategorier": [
           "dans",
+          "barn",
           "klassiskt",
-          "festligheter-hogtider",
-          "barn"
+          "festligheter-hogtider"
         ],
         "taggar": [
           "dans",
@@ -1422,9 +1388,9 @@
           "klassiskt"
         ],
         "taggar": [
+          "jul",
           "aktuellt",
-          "mhv",
-          "jul"
+          "mhv"
         ]
       }
     },
@@ -1551,9 +1517,9 @@
           "dans"
         ],
         "taggar": [
+          "aktuellt",
           "jul",
-          "publikfavoriter",
-          "aktuellt"
+          "publikfavoriter"
         ]
       }
     },
@@ -1615,11 +1581,11 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "aktuellt",
           "student",
           "mhv",
           "jul",
-          "jazz",
-          "aktuellt"
+          "jazz"
         ]
       }
     },
@@ -1650,8 +1616,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "familj",
-          "jul"
+          "jul",
+          "familj"
         ]
       }
     },
@@ -1781,8 +1747,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "jul",
-          "publikfavoriter"
+          "publikfavoriter",
+          "jul"
         ]
       }
     },
@@ -1810,13 +1776,13 @@
       "fakta": {
         "kategorier": [
           "festligheter-hogtider",
-          "klassiskt",
-          "barn"
+          "barn",
+          "klassiskt"
         ],
         "taggar": [
+          "familj",
           "aktuellt",
-          "jul",
-          "familj"
+          "jul"
         ]
       }
     },
@@ -2199,7 +2165,7 @@
         "namn": "Uppsala Konsert & Kongress",
         "id": "ukk"
       },
-      "kategori": "ovrigt",
+      "kategori": "musik",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -2213,9 +2179,12 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "ovrigt"
+          "pop-rock"
         ],
-        "taggar": []
+        "taggar": [
+          "publikfavoriter",
+          "aktuellt"
+        ]
       }
     },
     {
@@ -2571,8 +2540,8 @@
           "barn"
         ],
         "taggar": [
-          "aktuellt",
-          "familj"
+          "familj",
+          "aktuellt"
         ]
       }
     },
@@ -2630,8 +2599,7 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "humor",
-          "teater"
+          "humor"
         ],
         "taggar": [
           "humor"
@@ -2782,8 +2750,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "aktuellt",
-          "familj"
+          "familj",
+          "aktuellt"
         ]
       }
     },
@@ -2845,6 +2813,37 @@
         ],
         "taggar": [
           "humor"
+        ]
+      }
+    },
+    {
+      "id": "ukk-46918",
+      "titel": "Christoffer Nyqvist – Lejonet från Norden",
+      "start": "2027-03-12T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/christoffer-nyqvist-lejonet-fran-norden-2027/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": [
+          "humor",
+          "aktuellt"
         ]
       }
     },

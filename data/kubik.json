@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-26T10:07:22.018Z",
-  "antal": 272,
+  "hamtad": "2026-10-27T09:49:49.137Z",
+  "antal": 261,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -3967,6 +3967,97 @@
       "langvarig": true
     },
     {
+      "id": "kubik-mask-verkstad-foer-alla-aaldrar",
+      "titel": "Mask-verkstad för alla åldrar",
+      "plats": {
+        "namn": "Fyrisgården",
+        "id": "kubik-plats-fyrisgården"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "norra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/mask-verkstad-foer-alla-aaldrar/",
+          "arrangor": "https://fyrisgarden.se/evenemang/mask-verkstad/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Konst/Skapande",
+          "Slöjd"
+        ],
+        "malgrupp": [
+          "För alla åldrar"
+        ],
+        "adress": "Fyrisgården, Svartbäcksgatan 58, Uppsala",
+        "dagar": [
+          "må",
+          "ti",
+          "on",
+          "to",
+          "fr"
+        ],
+        "tider": {
+          "start": "12:00"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-27",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-haestkompisdagar",
+      "titel": "Hästkompisdagar",
+      "plats": {
+        "namn": "Uppsala Ponnyklubb",
+        "id": "kubik-plats-uppsala-ponnyklubb"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        15
+      ],
+      "omrade": "ostra-land",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/haestkompisdagar/",
+          "arrangor": "http://www.uppsalaponnyklubb.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Ridsport"
+        ],
+        "malgrupp": [
+          "7-9 år",
+          "10-12 år",
+          "13-15 år"
+        ],
+        "adress": "Uppsala Ponnyklubb, Vaksala Lunda 33, Uppsala",
+        "tider": {
+          "start": "10:00",
+          "slut": "12:00"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-28",
+      "langvarig": true
+    },
+    {
       "id": "kubik-innebandylaeger-hoestlov-foer-barn-foedda-2017-18",
       "titel": "Innebandyläger, höstlov för barn födda 2017-18",
       "plats": {
@@ -4005,6 +4096,225 @@
       },
       "start": "2026-10-26",
       "slut": "2026-10-28",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoestlovskul-i-gottsunda",
+      "titel": "Höstlovskul i Gottsunda",
+      "plats": {
+        "namn": "Gottsunda sporthall i Gottsunda centrum, nära Gottsundabadet Buss7",
+        "id": "kubik-plats-gottsunda-sporthall-i-gottsunda-centrum-nära-gottsundabadet-buss7"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        12
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovskul-i-gottsunda/",
+          "arrangor": "http://uppsala.aktivungdom.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [],
+        "malgrupp": [
+          "7-9 år",
+          "10-12 år"
+        ],
+        "adress": "Gottsunda sporthall i Gottsunda centrum, nära Gottsundabadet Buss7, Valthornsvägen 17, 75650 Uppsala",
+        "tider": {
+          "start": "09:30",
+          "slut": "14:30"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-29",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-pop-up-med-gottsunda-allaktivitetshus",
+      "titel": "Pop Up med Gottsunda Allaktivitetshus",
+      "plats": {
+        "namn": "Gottsunda allaktivitetshus",
+        "id": "gottsundaallaktivitetshus"
+      },
+      "kategori": "aktivitet",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        5,
+        18
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/pop-up-med-gottsunda-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/gottsunda-allaktivitetshus/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Övrigt"
+        ],
+        "malgrupp": [
+          "5-6 år",
+          "7-9 år",
+          "10-12 år",
+          "13-15 år",
+          "16-18 år"
+        ],
+        "adress": "Gottsunda Allaktivitetshus, Valthornsvägen 21 756 50, Uppsala",
+        "dagar": [
+          "må",
+          "ti",
+          "on",
+          "to",
+          "fr"
+        ],
+        "tider": {
+          "start": "12:30",
+          "slut": "15:00"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-29",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-gameplan-open-court",
+      "titel": "Gameplan Open Court",
+      "plats": {
+        "namn": "Gränbyskolans idrottshall",
+        "id": "kubik-plats-gränbyskolans-idrottshall"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        18
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/gameplan-open-court/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Bollsport"
+        ],
+        "malgrupp": [
+          "7-9 år",
+          "10-12 år",
+          "13-15 år",
+          "16-18 år"
+        ],
+        "adress": "Gränbyskolans idrottshall, Liljefors Torg 1, Uppsala",
+        "tider": {
+          "start": "12:00",
+          "slut": "15:00"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-29",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoestlovslaeger-paa-fyrisfjaedern",
+      "titel": "Höstlovsläger på Fyrisfjädern",
+      "plats": {
+        "namn": "Fyrisfjädern Badmintonklubb, PONG Racketcenter",
+        "id": "kubik-plats-fyrisfjädern-badmintonklubb-pong-racketcenter"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        18
+      ],
+      "omrade": "norra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovslaeger-paa-fyrisfjaedern/",
+          "arrangor": "https://www.fyrisfjadern.se/hostlovslager/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Bollsport"
+        ],
+        "malgrupp": [
+          "7-9 år",
+          "10-12 år",
+          "13-15 år",
+          "16-18 år"
+        ],
+        "adress": "Fyrisfjädern Badmintonklubb, PONG Racketcenter, Badmintonstigen 1, Uppsala",
+        "tider": {
+          "start": "10:00",
+          "slut": "16:00"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-29",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoestlov-paa-graenby-fritidsgaard",
+      "titel": "Höstlov på Gränby fritidsgård!",
+      "plats": {
+        "namn": "Gränby fritidsgård",
+        "id": "kubik-plats-gränby-fritidsgård"
+      },
+      "kategori": "ovrigt",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        13,
+        18
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-graenby-fritidsgaard/",
+          "arrangor": "http://@granby.fritidsgard/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [],
+        "malgrupp": [
+          "13-15 år",
+          "16-18 år"
+        ],
+        "adress": "Gränby fritidsgård, Liljefors torg 1",
+        "tider": {
+          "start": "18:00",
+          "slut": "21:00"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-29",
       "langvarig": true
     },
     {
@@ -4050,93 +4360,148 @@
       "langvarig": true
     },
     {
-      "id": "kubik-hoestlov-med-bad-och-bus-paa-fyrishov",
-      "titel": "Höstlov med bad och bus på Fyrishov",
+      "id": "kubik-multisport-med-procyon-bk",
+      "titel": "Multisport med Procyon BK",
       "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov"
+        "namn": "Västra Stenhagenskolan Idrottshall",
+        "id": "kubik-plats-västra-stenhagenskolan-idrottshall"
       },
-      "kategori": "aktivitet",
-      "gratis": null,
+      "kategori": "sport",
+      "gratis": true,
       "barnOchFamilj": true,
       "alder": [
-        0,
+        7,
         12
       ],
-      "omrade": "norra",
+      "omrade": "vastra",
       "kallor": [
         {
           "id": "kubik",
           "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-med-bad-och-bus-paa-fyrishov/",
-          "arrangor": "https://fyrishov.se/bad/hostlov/"
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/multisport-med-procyon-bk/"
         }
       ],
       "installd": false,
       "fakta": {
         "kategorier": [
-          "Vattensport",
-          "Övrigt"
+          "Bollsport"
         ],
         "malgrupp": [
-          "0-4 år",
-          "5-6 år",
           "7-9 år",
           "10-12 år"
         ],
-        "adress": "Fyrishov, Idrottsgatan 2, Uppsala",
+        "adress": "Västra Stenhagenskolan Idrottshall, Herrhagsvägen 8, Uppsala",
         "dagar": [
+          "må",
+          "ti",
           "on",
           "to",
-          "fr",
-          "lö"
+          "fr"
         ],
         "tider": {
-          "start": "17:00"
+          "start": "11:00"
         }
       },
       "start": "2026-10-26",
-      "slut": "2026-10-31",
+      "slut": "2026-10-30",
       "langvarig": true
     },
     {
-      "id": "kubik-hoestlovskul-i-gottsunda",
-      "titel": "Höstlovskul i Gottsunda",
+      "id": "kubik-kampsportslaeger-paa-graenby-allaktivitetshus",
+      "titel": "Kampsportsläger på Gränby allaktivitetshus",
       "plats": {
-        "namn": "Gottsunda sporthall i Gottsunda centrum, nära Gottsundabadet Buss7",
-        "id": "kubik-plats-gottsunda-sporthall-i-gottsunda-centrum-nära-gottsundabadet-buss7"
+        "namn": "Kvarngärdesskolan, Lilla idrottshallen",
+        "id": "kubik-plats-kvarngärdesskolan-lilla-idrottshallen"
       },
-      "kategori": "ovrigt",
-      "gratis": null,
+      "kategori": "sport",
+      "gratis": true,
       "barnOchFamilj": true,
       "alder": [
-        7,
-        12
+        13,
+        18
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/kampsportslaeger-paa-graenby-allaktivitetshus/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Kampsport"
+        ],
+        "malgrupp": [
+          "13-15 år",
+          "16-18 år"
+        ],
+        "adress": "Kvarngärdesskolan, Lilla idrottshallen, Thunmansgatan 47, Uppsala",
+        "dagar": [
+          "må",
+          "ti",
+          "on",
+          "to",
+          "fr"
+        ],
+        "tider": {
+          "start": "12:00",
+          "slut": "14:30"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-30",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-fotbollslaeger-med-gottsunda-fc-1",
+      "titel": "Fotbollsläger med Gottsunda FC",
+      "plats": {
+        "namn": "Gottsunda allaktivitetshus",
+        "id": "gottsundaallaktivitetshus",
+        "rum": "Gottsundaskolan)"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        15
       ],
       "omrade": "sodra",
       "kallor": [
         {
           "id": "kubik",
           "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovskul-i-gottsunda/",
-          "arrangor": "http://uppsala.aktivungdom.se/"
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fotbollslaeger-med-gottsunda-fc-1/",
+          "arrangor": "https://allaktivitetshus.uppsala.se/gottsunda-allaktivitetshus/"
         }
       ],
       "installd": false,
       "fakta": {
-        "kategorier": [],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år"
+        "kategorier": [
+          "Bollsport"
         ],
-        "adress": "Gottsunda sporthall i Gottsunda centrum, nära Gottsundabadet Buss7, Valthornsvägen 17, 75650 Uppsala",
+        "malgrupp": [
+          "10-12 år",
+          "13-15 år"
+        ],
+        "adress": "Gottsunda Allaktivitetshus (Idrottshallen, Gottsundaskolan), Valthornsvägen 21, 756 50, Uppsala",
+        "dagar": [
+          "må",
+          "ti",
+          "on",
+          "to",
+          "fr"
+        ],
         "tider": {
-          "start": "09:30",
-          "slut": "14:30"
+          "start": "10:00"
         }
       },
       "start": "2026-10-26",
-      "slut": "2026-10-29",
+      "slut": "2026-10-30",
       "langvarig": true
     },
     {
@@ -4183,11 +4548,11 @@
       "langvarig": true
     },
     {
-      "id": "kubik-haestkompisdagar",
-      "titel": "Hästkompisdagar",
+      "id": "kubik-hoestlov-paa-storvreta-ponnyklubb",
+      "titel": "Höstlov på Storvreta Ponnyklubb",
       "plats": {
-        "namn": "Uppsala Ponnyklubb",
-        "id": "kubik-plats-uppsala-ponnyklubb"
+        "namn": "Ängeby utanför Storvreta",
+        "id": "kubik-plats-ängeby-utanför-storvreta"
       },
       "kategori": "sport",
       "gratis": null,
@@ -4196,18 +4561,19 @@
         7,
         15
       ],
-      "omrade": "ostra-land",
+      "omrade": "norra-land",
       "kallor": [
         {
           "id": "kubik",
           "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/haestkompisdagar/",
-          "arrangor": "http://www.uppsalaponnyklubb.se/"
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-storvreta-ponnyklubb/",
+          "arrangor": "http://www.storvretaponnyklubb.se/"
         }
       ],
       "installd": false,
       "fakta": {
         "kategorier": [
+          "Djur/Natur",
           "Ridsport"
         ],
         "malgrupp": [
@@ -4215,14 +4581,56 @@
           "10-12 år",
           "13-15 år"
         ],
-        "adress": "Uppsala Ponnyklubb, Vaksala Lunda 33, Uppsala",
+        "adress": "Ängeby utanför Storvreta, Lena-Ängeby Soläng 42, storvreta",
         "tider": {
           "start": "10:00",
-          "slut": "12:00"
+          "slut": "15:00"
         }
       },
       "start": "2026-10-26",
-      "slut": "2026-10-28",
+      "slut": "2026-10-30",
+      "langvarig": true
+    },
+    {
+      "id": "kubik-hoestlovslaeger-artistisk-gymnastik",
+      "titel": "Höstlovsläger Artistisk gymnastik",
+      "plats": {
+        "namn": "Lundellska skolan",
+        "id": "kubik-plats-lundellska-skolan"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        7,
+        12
+      ],
+      "omrade": "centrum",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovslaeger-artistisk-gymnastik/",
+          "arrangor": "https://www.uppsalastars.se/gfuppsalastars-lagerochdaglager/sida/101792/hostlovet"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Gymnastik"
+        ],
+        "malgrupp": [
+          "7-9 år",
+          "10-12 år"
+        ],
+        "adress": "Lundellska skolan, Ulleråkersvägen 26, Uppsala",
+        "tider": {
+          "start": "12:00",
+          "slut": "15:30"
+        }
+      },
+      "start": "2026-10-26",
+      "slut": "2026-10-30",
       "langvarig": true
     },
     {
@@ -4314,467 +4722,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-fotbollslaeger-med-gottsunda-fc-1",
-      "titel": "Fotbollsläger med Gottsunda FC",
-      "plats": {
-        "namn": "Gottsunda allaktivitetshus",
-        "id": "gottsundaallaktivitetshus",
-        "rum": "Gottsundaskolan)"
-      },
-      "kategori": "sport",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        10,
-        15
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/fotbollslaeger-med-gottsunda-fc-1/",
-          "arrangor": "https://allaktivitetshus.uppsala.se/gottsunda-allaktivitetshus/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Bollsport"
-        ],
-        "malgrupp": [
-          "10-12 år",
-          "13-15 år"
-        ],
-        "adress": "Gottsunda Allaktivitetshus (Idrottshallen, Gottsundaskolan), Valthornsvägen 21, 756 50, Uppsala",
-        "dagar": [
-          "må",
-          "ti",
-          "on",
-          "to",
-          "fr"
-        ],
-        "tider": {
-          "start": "10:00"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-30",
-      "langvarig": true
-    },
-    {
-      "id": "kubik-hoestlov-paa-storvreta-ponnyklubb",
-      "titel": "Höstlov på Storvreta Ponnyklubb",
-      "plats": {
-        "namn": "Ängeby utanför Storvreta",
-        "id": "kubik-plats-ängeby-utanför-storvreta"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        15
-      ],
-      "omrade": "norra-land",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-storvreta-ponnyklubb/",
-          "arrangor": "http://www.storvretaponnyklubb.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Djur/Natur",
-          "Ridsport"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år",
-          "13-15 år"
-        ],
-        "adress": "Ängeby utanför Storvreta, Lena-Ängeby Soläng 42, storvreta",
-        "tider": {
-          "start": "10:00",
-          "slut": "15:00"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-30",
-      "langvarig": true
-    },
-    {
-      "id": "kubik-hoestlovslaeger-paa-fyrisfjaedern",
-      "titel": "Höstlovsläger på Fyrisfjädern",
-      "plats": {
-        "namn": "Fyrisfjädern Badmintonklubb, PONG Racketcenter",
-        "id": "kubik-plats-fyrisfjädern-badmintonklubb-pong-racketcenter"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        18
-      ],
-      "omrade": "norra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovslaeger-paa-fyrisfjaedern/",
-          "arrangor": "https://www.fyrisfjadern.se/hostlovslager/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Bollsport"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år",
-          "13-15 år",
-          "16-18 år"
-        ],
-        "adress": "Fyrisfjädern Badmintonklubb, PONG Racketcenter, Badmintonstigen 1, Uppsala",
-        "tider": {
-          "start": "10:00",
-          "slut": "16:00"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-29",
-      "langvarig": true
-    },
-    {
-      "id": "kubik-multisport-med-procyon-bk",
-      "titel": "Multisport med Procyon BK",
-      "plats": {
-        "namn": "Västra Stenhagenskolan Idrottshall",
-        "id": "kubik-plats-västra-stenhagenskolan-idrottshall"
-      },
-      "kategori": "sport",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        12
-      ],
-      "omrade": "vastra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/multisport-med-procyon-bk/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Bollsport"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år"
-        ],
-        "adress": "Västra Stenhagenskolan Idrottshall, Herrhagsvägen 8, Uppsala",
-        "dagar": [
-          "må",
-          "ti",
-          "on",
-          "to",
-          "fr"
-        ],
-        "tider": {
-          "start": "11:00"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-30",
-      "langvarig": true
-    },
-    {
-      "id": "kubik-hoestlov-mat-och-snacks-paa-vikingatiden",
-      "titel": "Höstlov: Mat och snacks på vikingatiden",
-      "plats": {
-        "namn": "Gamla Uppsala museum",
-        "id": "gamlauppsalamuseum"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        5,
-        12
-      ],
-      "omrade": "norra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-mat-och-snacks-paa-vikingatiden/",
-          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Museum/Kulturarv"
-        ],
-        "malgrupp": [
-          "5-6 år",
-          "7-9 år",
-          "10-12 år"
-        ],
-        "adress": "Gamla Uppsala museum, Disavägen 15, UPPSALA",
-        "tider": {
-          "start": "12:00",
-          "slut": "16:00"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-11-01",
-      "langvarig": true
-    },
-    {
-      "id": "kubik-kampsportslaeger-paa-graenby-allaktivitetshus",
-      "titel": "Kampsportsläger på Gränby allaktivitetshus",
-      "plats": {
-        "namn": "Kvarngärdesskolan, Lilla idrottshallen",
-        "id": "kubik-plats-kvarngärdesskolan-lilla-idrottshallen"
-      },
-      "kategori": "sport",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        13,
-        18
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/kampsportslaeger-paa-graenby-allaktivitetshus/",
-          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Kampsport"
-        ],
-        "malgrupp": [
-          "13-15 år",
-          "16-18 år"
-        ],
-        "adress": "Kvarngärdesskolan, Lilla idrottshallen, Thunmansgatan 47, Uppsala",
-        "dagar": [
-          "må",
-          "ti",
-          "on",
-          "to",
-          "fr"
-        ],
-        "tider": {
-          "start": "12:00",
-          "slut": "14:30"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-30",
-      "langvarig": true
-    },
-    {
-      "id": "kubik-gameplan-open-court",
-      "titel": "Gameplan Open Court",
-      "plats": {
-        "namn": "Gränbyskolans idrottshall",
-        "id": "kubik-plats-gränbyskolans-idrottshall"
-      },
-      "kategori": "sport",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        18
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/gameplan-open-court/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Bollsport"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år",
-          "13-15 år",
-          "16-18 år"
-        ],
-        "adress": "Gränbyskolans idrottshall, Liljefors Torg 1, Uppsala",
-        "tider": {
-          "start": "12:00",
-          "slut": "15:00"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-29",
-      "langvarig": true
-    },
-    {
-      "id": "kubik-hoestlovslaeger-artistisk-gymnastik",
-      "titel": "Höstlovsläger Artistisk gymnastik",
-      "plats": {
-        "namn": "Lundellska skolan",
-        "id": "kubik-plats-lundellska-skolan"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        12
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovslaeger-artistisk-gymnastik/",
-          "arrangor": "https://www.uppsalastars.se/gfuppsalastars-lagerochdaglager/sida/101792/hostlovet"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Gymnastik"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år"
-        ],
-        "adress": "Lundellska skolan, Ulleråkersvägen 26, Uppsala",
-        "tider": {
-          "start": "12:00",
-          "slut": "15:30"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-30",
-      "langvarig": true
-    },
-    {
-      "id": "kubik-mask-verkstad-foer-alla-aaldrar",
-      "titel": "Mask-verkstad för alla åldrar",
-      "plats": {
-        "namn": "Fyrisgården",
-        "id": "kubik-plats-fyrisgården"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        99
-      ],
-      "omrade": "norra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/mask-verkstad-foer-alla-aaldrar/",
-          "arrangor": "https://fyrisgarden.se/evenemang/mask-verkstad/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande",
-          "Slöjd"
-        ],
-        "malgrupp": [
-          "För alla åldrar"
-        ],
-        "adress": "Fyrisgården, Svartbäcksgatan 58, Uppsala",
-        "dagar": [
-          "må",
-          "ti",
-          "on",
-          "to",
-          "fr"
-        ],
-        "tider": {
-          "start": "12:00"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-27",
-      "langvarig": true
-    },
-    {
-      "id": "kubik-pop-up-med-gottsunda-allaktivitetshus",
-      "titel": "Pop Up med Gottsunda Allaktivitetshus",
-      "plats": {
-        "namn": "Gottsunda allaktivitetshus",
-        "id": "gottsundaallaktivitetshus"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        5,
-        18
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/pop-up-med-gottsunda-allaktivitetshus/",
-          "arrangor": "https://allaktivitetshus.uppsala.se/gottsunda-allaktivitetshus/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Övrigt"
-        ],
-        "malgrupp": [
-          "5-6 år",
-          "7-9 år",
-          "10-12 år",
-          "13-15 år",
-          "16-18 år"
-        ],
-        "adress": "Gottsunda Allaktivitetshus, Valthornsvägen 21 756 50, Uppsala",
-        "dagar": [
-          "må",
-          "ti",
-          "on",
-          "to",
-          "fr"
-        ],
-        "tider": {
-          "start": "12:30",
-          "slut": "15:00"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-29",
-      "langvarig": true
-    },
-    {
       "id": "kubik-brottning-hos-armeniska-bk",
       "titel": "Brottning hos Armeniska BK",
       "plats": {
@@ -4858,429 +4805,97 @@
       "langvarig": true
     },
     {
-      "id": "kubik-hoestlov-paa-graenby-fritidsgaard",
-      "titel": "Höstlov på Gränby fritidsgård!",
-      "plats": {
-        "namn": "Gränby fritidsgård",
-        "id": "kubik-plats-gränby-fritidsgård"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        13,
-        18
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-graenby-fritidsgaard/",
-          "arrangor": "http://@granby.fritidsgard/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [],
-        "malgrupp": [
-          "13-15 år",
-          "16-18 år"
-        ],
-        "adress": "Gränby fritidsgård, Liljefors torg 1",
-        "tider": {
-          "start": "18:00",
-          "slut": "21:00"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-29",
-      "langvarig": true
-    },
-    {
-      "id": "kubik-judo-fritids-26-oktober-2026-10-26-0900",
-      "titel": "Judo-Fritids 26 oktober",
+      "id": "kubik-hoestlov-med-bad-och-bus-paa-fyrishov",
+      "titel": "Höstlov med bad och bus på Fyrishov",
       "plats": {
         "namn": "Fyrishov",
         "id": "fyrishov"
       },
-      "kategori": "sport",
+      "kategori": "aktivitet",
       "gratis": null,
       "barnOchFamilj": true,
       "alder": [
-        5,
-        9
+        0,
+        12
       ],
       "omrade": "norra",
       "kallor": [
         {
           "id": "kubik",
           "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/judo-fritids-26-oktober/",
-          "arrangor": "http://www.uppsalajudo.se/"
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-med-bad-och-bus-paa-fyrishov/",
+          "arrangor": "https://fyrishov.se/bad/hostlov/"
         }
       ],
       "installd": false,
       "fakta": {
         "kategorier": [
-          "Kampsport"
+          "Vattensport",
+          "Övrigt"
         ],
         "malgrupp": [
+          "0-4 år",
           "5-6 år",
-          "7-9 år"
-        ],
-        "adress": "Uppsala Judoklubbs lokal i Fyrishov, Gamla Uppsalagatan 4, Uppsala"
-      },
-      "start": "2026-10-26T09:00:00+01:00",
-      "slut": "2026-10-26T15:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-halloweenpyssel-paa-graenby-allaktivitetshus-2026-10-26-1000",
-      "titel": "Halloweenpyssel på Gränby allaktivitetshus",
-      "plats": {
-        "namn": "Gränby allaktivitetshus",
-        "id": "granbyallaktivitetshus"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        99
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/halloweenpyssel-paa-graenby-allaktivitetshus/",
-          "arrangor": "https://allaktivitetshus.uppsala.se/granby-allaktivitetshus/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande"
-        ],
-        "malgrupp": [
-          "För alla åldrar"
-        ],
-        "adress": "Gränby allaktivitetshus, Liljeforstorg 1, Uppsala"
-      },
-      "start": "2026-10-26T10:00:00+01:00",
-      "slut": "2026-10-26T12:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-dressyrdag-2026-10-26-1000",
-      "titel": "Dressyrdag",
-      "plats": {
-        "namn": "Uppsala Ponnyklubb",
-        "id": "kubik-plats-uppsala-ponnyklubb"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        15
-      ],
-      "omrade": "ostra-land",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/dressyrdag/",
-          "arrangor": "http://www.uppsalaponnyklubb.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Ridsport"
-        ],
-        "malgrupp": [
           "7-9 år",
-          "10-12 år",
-          "13-15 år"
+          "10-12 år"
         ],
-        "adress": "Uppsala Ponnyklubb, Vaksala Lunda 33, Uppsala"
+        "adress": "Fyrishov, Idrottsgatan 2, Uppsala",
+        "dagar": [
+          "on",
+          "to",
+          "fr",
+          "lö"
+        ],
+        "tider": {
+          "start": "17:00"
+        }
       },
-      "start": "2026-10-26T10:00:00+01:00",
-      "slut": "2026-10-26T15:00:00+01:00",
-      "langvarig": false
+      "start": "2026-10-26",
+      "slut": "2026-10-31",
+      "langvarig": true
     },
     {
-      "id": "kubik-domkyrkans-hoestlovsvisning-katarina-jagellonica-500-aar-2026-10-26-1000",
-      "titel": "Domkyrkans höstlovsvisning - Katarina Jagellonica 500 år",
+      "id": "kubik-hoestlov-mat-och-snacks-paa-vikingatiden",
+      "titel": "Höstlov: Mat och snacks på vikingatiden",
       "plats": {
-        "namn": "Uppsala domkyrka",
-        "id": "domkyrkan"
+        "namn": "Gamla Uppsala museum",
+        "id": "gamlauppsalamuseum"
       },
       "kategori": "aktivitet",
-      "gratis": true,
+      "gratis": null,
       "barnOchFamilj": true,
       "alder": [
         5,
         12
       ],
-      "omrade": "centrum",
+      "omrade": "norra",
       "kallor": [
         {
           "id": "kubik",
           "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/domkyrkans-hoestlovsvisning-katarina-jagellonica-500-aar/",
-          "arrangor": "http://www.uppsaladomkyrka.se/"
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-mat-och-snacks-paa-vikingatiden/",
+          "arrangor": "https://www.upplandsmuseet.se/gamla-uppsala-museum/"
         }
       ],
       "installd": false,
       "fakta": {
         "kategorier": [
-          "Konst/Skapande",
           "Museum/Kulturarv"
         ],
         "malgrupp": [
-          "7-9 år",
           "5-6 år",
-          "10-12 år"
-        ],
-        "adress": "Uppsala domkyrka, Domkyrkoplan, Uppsala"
-      },
-      "start": "2026-10-26T10:00:00+01:00",
-      "slut": "2026-10-26T11:30:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-spoekhistorier-paa-graenby-allaktivitetshus-2026-10-26-1300",
-      "titel": "Spökhistorier på Gränby allaktivitetshus",
-      "plats": {
-        "namn": "Gränby allaktivitetshus",
-        "id": "granbyallaktivitetshus"
-      },
-      "kategori": "scen",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        99
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/spoekhistorier-paa-graenby-allaktivitetshus/",
-          "arrangor": "https://allaktivitetshus.uppsala.se/granby-allaktivitetshus/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Museum/Kulturarv",
-          "Teater"
-        ],
-        "malgrupp": [
-          "För alla åldrar"
-        ],
-        "adress": "Gränby allaktivitetshus, Liljeforstorg 1, Uppsala"
-      },
-      "start": "2026-10-26T13:00:00+01:00",
-      "slut": "2026-10-26T15:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-pyssla-stickers-laesfabriken-2026-10-26-1400",
-      "titel": "Pyssla stickers!",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        12
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/pyssla-stickers-laesfabriken/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande"
-        ],
-        "malgrupp": [
           "7-9 år",
           "10-12 år"
         ],
-        "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
-      },
-      "start": "2026-10-26T14:00:00+01:00",
-      "slut": "2026-10-26T16:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-hoestlov-hos-designlabbet-graenby-allaktivitetshus-vaesen-och-sagovaerldar-2026-10-26-1530",
-      "titel": "Höstlov hos Designlabbet Gränby Allaktivitetshus: Väsen och sagovärldar",
-      "plats": {
-        "namn": "Gränby allaktivitetshus",
-        "id": "granbyallaktivitetshus"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        10,
-        15
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-hos-designlabbet-graenby-allaktivitetshus-vaesen-och-sagovaerldar/",
-          "arrangor": "http://designlabbet.se/"
+        "adress": "Gamla Uppsala museum, Disavägen 15, UPPSALA",
+        "tider": {
+          "start": "12:00",
+          "slut": "16:00"
         }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande"
-        ],
-        "malgrupp": [
-          "10-12 år",
-          "13-15 år"
-        ],
-        "adress": "Gränby Allaktivitetshus, Liljefors torg 1, Uppsala"
       },
-      "start": "2026-10-26T15:30:00+01:00",
-      "slut": "2026-10-26T18:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-mervaerde-varannan-maandag-2026-10-26-1600",
-      "titel": "Mervärde varannan måndag",
-      "plats": {
-        "namn": "Träffpunkt Lindblomman",
-        "id": "kubik-plats-träffpunkt-lindblomman"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        16,
-        25
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/mervaerde-varannan-maandag/",
-          "arrangor": "https://www.studieframjandet.se/uppsala/mervarde/ht26"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Kurser",
-          "Vetenskap/Samhälle",
-          "Övrigt"
-        ],
-        "malgrupp": [
-          "16-18 år",
-          "19-25 år"
-        ],
-        "adress": "Träffpunkt Lindblomman, Sysslomansgatan 25B, Uppsala"
-      },
-      "start": "2026-10-26T16:00:00+01:00",
-      "slut": "2026-10-26T18:15:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-hoestens-faerger-2026-10-26-1800",
-      "titel": "Höstens färger",
-      "plats": {
-        "namn": "Stenhagens fritidsgård",
-        "id": "kubik-plats-stenhagens-fritidsgård"
-      },
-      "kategori": "scen",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        13,
-        18
-      ],
-      "omrade": "vastra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hoestens-faerger/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Film/Foto",
-          "Konst/Skapande"
-        ],
-        "malgrupp": [
-          "13-15 år",
-          "16-18 år"
-        ],
-        "adress": "Stenhagens fritidsgård, Herrhagsvägen 523, Stenhagen 752 67"
-      },
-      "start": "2026-10-26T18:00:00+01:00",
-      "slut": "2026-10-26T20:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-poesi-pizza-2026-10-26-1800",
-      "titel": "Poesi & Pizza",
-      "plats": {
-        "namn": "Återfika",
-        "id": "kubik-plats-återfika"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        10,
-        18
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/poesi-pizza/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande",
-          "Litteratur/Skrivande"
-        ],
-        "malgrupp": [
-          "10-12 år",
-          "13-15 år",
-          "16-18 år"
-        ],
-        "adress": "Återfika, Återfika, Bandstolsvägen 2, Uppsala"
-      },
-      "start": "2026-10-26T18:00:00+01:00",
-      "slut": "2026-10-26T19:00:00+01:00",
-      "langvarig": false
+      "start": "2026-10-26",
+      "slut": "2026-11-01",
+      "langvarig": true
     },
     {
       "id": "kubik-skraecklov-paa-gdt-kulturis-hoestlovslaeger-27-29-oktober",
@@ -5364,36 +4979,6 @@
       "start": "2026-10-27",
       "slut": "2026-11-01",
       "langvarig": true
-    },
-    {
-      "id": "kubik-hjaelp-till-att-morgonoeppna-gottsundabiblioteket-2026-10-27-0815",
-      "titel": "Hjälp till att morgonöppna Gottsundabiblioteket!",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hjaelp-till-att-morgonoeppna-gottsundabiblioteket/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Litteratur/Skrivande"
-        ],
-        "malgrupp": [],
-        "adress": "Gottsundabiblioteket, Valthornsvägen 11, Uppsala"
-      },
-      "start": "2026-10-27T08:15:00+01:00",
-      "slut": "2026-10-27T10:30:00+01:00",
-      "langvarig": false
     },
     {
       "id": "kubik-mirakel-och-katastofer-2026-10-27-0900",
