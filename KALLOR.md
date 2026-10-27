@@ -172,7 +172,7 @@ Det som blir kvar (gallerier och små föreningar) löses bäst med självinmatn
 
 | # | Till | Finns | Ger oss |
 |---|---|---|---|
-| 1 | Profixio, tel 08-20 22 10 (www.profixio.com/app/docs) | API med `X-Api-Secret`, 120 anrop per minut | Handboll, basket, bandy, rugby, troligen volleyboll |
+| 1 | Profixio, info@profixio.com, tel 08-20 22 10 (www.profixio.com/app/docs). En nyckel skapas per förbund eller distrikt. | API med `X-Api-Secret`, 120 anrop per minut | Handboll, basket, bandy, rugby, troligen volleyboll |
 | 2 | Svensk Orientering (Eventor), eventorsupport@orientering.se, via Upplands OF | Dokumenterat API, nyckel per organisation | Hela orienteringskalendern |
 | 3 | Everysport, support@everysport.com | API för många idrotter, källhänvisning krävs | Luckor i innebandy, bandy och lägre fotboll |
 | 4 | Svenska Fotbollförbundet, api-support@svenskfotboll.se | Matchdata finns men kostar. Gratisnivån ger bara föreningar. | Fotboll under Superettan (Dalkurd, Upsala IF). Be om ideellt pris för Uppsala. |
