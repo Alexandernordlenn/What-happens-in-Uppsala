@@ -1,37 +1,9 @@
 {
   "kalla": "Katalin",
   "webbsida": "https://www.katalin.com/",
-  "hamtad": "2026-10-27T09:50:48.577Z",
+  "hamtad": "2026-10-28T10:39:47.902Z",
   "antal": 100,
   "evenemang": [
-    {
-      "id": "katalin-17322",
-      "titel": "Jazzlunch med Jazzviolinisten Gunnar Lidbergs kvartett",
-      "start": "2026-10-27T12:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Bakfickan"
-      },
-      "kategori": "musik",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/jazzlunch-med-jazzviolinisten-gunnar-lidbergs-kvartett/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "jazz"
-        ]
-      }
-    },
     {
       "id": "katalin-17138",
       "titel": "Terra – Extrakonsert",
@@ -2096,35 +2068,6 @@
       }
     },
     {
-      "id": "katalin-17167",
-      "titel": "LKN",
-      "start": "2027-01-15T20:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Stora scen"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/lkn/",
-          "biljetter": "https://secure.tickster.com/t2pya3kfhwp6j2l"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "rb"
-        ]
-      }
-    },
-    {
       "id": "katalin-17091",
       "titel": "TMS BOWIE LOW+HEROES",
       "start": "2027-01-16T20:00:00+01:00",
@@ -2150,6 +2093,35 @@
       "fakta": {
         "kategorier": [
           "rock"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17167",
+      "titel": "LKN",
+      "start": "2027-01-22T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/lkn/",
+          "biljetter": "https://secure.tickster.com/t2pya3kfhwp6j2l"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "rb"
         ]
       }
     },
@@ -2210,6 +2182,35 @@
           "indie",
           "pop",
           "singer-songwriter"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17533",
+      "titel": "Soul Pack – Motown & Beatles",
+      "start": "2027-01-30T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/soul-pack-motown-beatles/",
+          "biljetter": "https://secure.tickster.com/sv/wez1x72yzk7lvkr/selectproductgroup"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "soul"
         ]
       }
     },

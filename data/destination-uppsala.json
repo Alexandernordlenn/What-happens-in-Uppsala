@@ -1,7 +1,7 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-27T09:48:20.371Z",
+  "hamtad": "2026-10-28T10:34:10.179Z",
   "antal": 171,
   "evenemang": [
     {
@@ -655,37 +655,6 @@
           "aktiviteter",
           "barn-familj",
           "hostlov"
-        ]
-      }
-    },
-    {
-      "id": "du-fyris-comedy-stand-up-med-johanna-wagrell-johanna-westlin-mfl",
-      "titel": "Fyris Comedy – Stand up med Johanna Wagrell, Johanna Westlin mfl",
-      "start": "2026-10-27",
-      "slut": null,
-      "plats": {
-        "namn": "The Kaliber Room",
-        "id": "kaliber"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/fyris-comedy-stand-up-med-johanna-wagrell-johanna-westlin-mfl/",
-          "arrangor": "http://www.fyriscomedy.com/biljetter"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "standup"
-        ],
-        "datum": [
-          "2026-10-27"
         ]
       }
     },
@@ -4181,6 +4150,41 @@
         ],
         "tider": {
           "start": "15:00"
+        }
+      }
+    },
+    {
+      "id": "du-sorellas-luciakonsert",
+      "titel": "Sorellas Luciakonsert",
+      "start": "2026-12-13T16:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Frälsningsarmén",
+        "id": "du-plats-frälsningsarm-n"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/sorellas-luciakonsert/",
+          "arrangor": "https://kulturbiljetter.se/evenemang/9221/luciakonsert-med-sorella"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jul",
+          "konsert"
+        ],
+        "datum": [
+          "2026-12-13"
+        ],
+        "tider": {
+          "start": "16:00"
         }
       }
     },

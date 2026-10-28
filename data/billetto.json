@@ -1,0 +1,186 @@
+{
+  "kalla": "Billetto",
+  "webbsida": "https://billetto.se/",
+  "hamtad": "2026-10-28T10:40:21.680Z",
+  "antal": 6,
+  "evenemang": [
+    {
+      "id": "billetto-2023083",
+      "titel": "Senapstillverkning på höstlovet!",
+      "start": "2026-10-29T13:30:00+01:00",
+      "slut": "2026-10-30T15:30:00+01:00",
+      "plats": {
+        "namn": "Medicinhistoriska museet"
+      },
+      "kategori": "mat",
+      "gratis": false,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "billetto",
+          "namn": "Billetto",
+          "url": "https://billetto.se/e/senapstillverkning-pa-hostlovet-biljetter-2023083?utm_campaign=websites&utm_content=SE+7503207&utm_medium=publishers&utm_source=billetto+advertising"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "food_drink",
+          "other",
+          "class_training"
+        ],
+        "adress": "Eva Lagerwalls väg 8, 756 43"
+      }
+    },
+    {
+      "id": "billetto-2023153",
+      "titel": "Senapstillverkning i apoteket",
+      "start": "2026-11-01T13:00:00+01:00",
+      "slut": "2026-12-17T18:00:00+01:00",
+      "plats": {
+        "namn": "Medicinhistoriska museet"
+      },
+      "kategori": "mat",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "billetto",
+          "namn": "Billetto",
+          "url": "https://billetto.se/e/senapstillverkning-i-apoteket-biljetter-2023153?utm_campaign=websites&utm_content=SE+7503207&utm_medium=publishers&utm_source=billetto+advertising"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "food_drink",
+          "other",
+          "class_training"
+        ],
+        "adress": "Eva Lagerwalls väg 8, 756 43"
+      }
+    },
+    {
+      "id": "billetto-2032683",
+      "titel": "Cultura Session 04",
+      "start": "2026-11-07T22:00:00+01:00",
+      "slut": "2026-11-08T06:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "billetto",
+          "namn": "Billetto",
+          "url": "https://billetto.se/e/cultura-session-04-biljetter-2032683?utm_campaign=websites&utm_content=SE+7503207&utm_medium=publishers&utm_source=billetto+advertising"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "music",
+          "house",
+          "party"
+        ],
+        "adress": "Uppsala"
+      }
+    },
+    {
+      "id": "billetto-1995179",
+      "titel": "Fyris Comedy – Stand up med Kodjo Akolor - Work in Progress \"Obekväma sanningar\"",
+      "start": "2026-11-17T19:00:00+01:00",
+      "slut": "2026-11-17T20:30:00+01:00",
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "billetto",
+          "namn": "Billetto",
+          "url": "https://billetto.se/e/fyris-comedy-stand-up-med-kodjo-akolor-work-in-progress-obekvama-sanningar-biljetter-1995179?utm_campaign=websites&utm_content=SE+7503207&utm_medium=publishers&utm_source=billetto+advertising"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "performing_arts",
+          "comedy",
+          "concert"
+        ],
+        "adress": "Storgatan 27, 753 31"
+      }
+    },
+    {
+      "id": "billetto-1964872",
+      "titel": "Fyris Comedy Stand Up – Open Mic på Kaliber Room",
+      "start": "2026-11-24T19:00:00+01:00",
+      "slut": "2026-11-24T20:45:00+01:00",
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "billetto",
+          "namn": "Billetto",
+          "url": "https://billetto.se/e/fyris-comedy-stand-up-open-mic-pa-kaliber-room-biljetter-1964872?utm_campaign=websites&utm_content=SE+7503207&utm_medium=publishers&utm_source=billetto+advertising"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "performing_arts",
+          "comedy",
+          "concert"
+        ],
+        "adress": "Storgatan 27, 753 31"
+      }
+    },
+    {
+      "id": "billetto-1993646",
+      "titel": "Fyris Comedy – Stand up med Sommarkatten, Josefin Sonck + hemlig gäst",
+      "start": "2026-12-08T19:00:00+01:00",
+      "slut": "2026-12-08T21:00:00+01:00",
+      "plats": {
+        "namn": "The Kaliber Room",
+        "id": "kaliber"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "billetto",
+          "namn": "Billetto",
+          "url": "https://billetto.se/e/fyris-comedy-stand-up-med-sommarkatten-josefin-sonck-hemlig-gast-biljetter-1993646?utm_campaign=websites&utm_content=SE+7503207&utm_medium=publishers&utm_source=billetto+advertising"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "performing_arts",
+          "comedy",
+          "concert"
+        ],
+        "adress": "Storgatan 27, 753 31"
+      }
+    }
+  ]
+}

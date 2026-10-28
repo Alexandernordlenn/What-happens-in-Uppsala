@@ -1,7 +1,7 @@
 {
   "kalla": "Musik i Uppland",
   "webbsida": "https://www.musikiuppland.se/",
-  "hamtad": "2026-10-27T09:50:40.449Z",
+  "hamtad": "2026-10-28T10:39:39.312Z",
   "antal": 17,
   "evenemang": [
     {
@@ -10,7 +10,7 @@
       "start": "2026-11-09T18:30:00+01:00",
       "slut": null,
       "plats": {
-        "namn": "Café Bredsjön, Järlåsa"
+        "namn": "Kafé Bredsjön, Järlåsa"
       },
       "kategori": "musik",
       "gratis": false,

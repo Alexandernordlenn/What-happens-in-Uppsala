@@ -1,34 +1,9 @@
 {
   "kalla": "Uppsala Missionskyrka",
   "webbsida": "https://www.uppsalamissionskyrka.se/",
-  "hamtad": "2026-10-27T09:51:06.364Z",
+  "hamtad": "2026-10-28T10:40:07.882Z",
   "antal": 54,
   "evenemang": [
-    {
-      "id": "missionskyrkan-10005273",
-      "titel": "Poetiskt till lunch",
-      "start": "2026-10-27T12:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "prat",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/poetiskt-till-lunch-11/2026-10-27/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": []
-      }
-    },
     {
       "id": "missionskyrkan-13051",
       "titel": "Lunchmusik: Nina Hamrén, Erik Boström och Hans Ove Olsson",
@@ -528,6 +503,31 @@
           "id": "missionskyrkan",
           "namn": "Uppsala Missionskyrka",
           "url": "https://uppsalamissionskyrka.se/kalender/konsert-da-andersons/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13463",
+      "titel": "Klimatkonsert: Hör, vinden ger svar",
+      "start": "2026-11-19T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/klimatkonsert-hor-vinden-ger-svar/"
         }
       ],
       "langvarig": false,

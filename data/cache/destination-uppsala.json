@@ -1,10 +1,4 @@
 {
-  "https://destinationuppsala.se/event/fyris-comedy-stand-up-med-johanna-wagrell-johanna-westlin-mfl/": {
-    "nar": "27 oktober 2026",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "http://www.fyriscomedy.com/biljetter",
-    "hamtad": "2026-10-08"
-  },
   "https://destinationuppsala.se/event/terra-2/": {
     "nar": "28 oktober, 2026",
     "pris": "Betald biljett krävs",
@@ -568,6 +562,12 @@
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://www.svenskakyrkan.se/uppsaladomkyrka/aktuellt",
     "hamtad": "2026-10-14"
+  },
+  "https://destinationuppsala.se/event/sorellas-luciakonsert/": {
+    "nar": "13 december 2026, kl. 16.00 och 19.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://kulturbiljetter.se/evenemang/9221/luciakonsert-med-sorella",
+    "hamtad": "2026-10-28"
   },
   "https://destinationuppsala.se/event/valter-nilsson-3/": {
     "nar": "15 december, 2026",

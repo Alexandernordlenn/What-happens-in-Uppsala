@@ -1,26 +1,26 @@
 {
-  "matt": "2026-10-27T11:03:30.506Z",
-  "idag": "2026-10-27",
+  "matt": "2026-10-28T10:40:22.578Z",
+  "idag": "2026-10-28",
   "totalt": {
-    "antal": 1539,
+    "antal": 1519,
     "utanKlockslag": 0.035,
-    "ovrigt": 0.034,
-    "familjUtanAlder": 0.187,
+    "ovrigt": 0.033,
+    "familjUtanAlder": 0.192,
     "utanOmrade": 0.018,
-    "sammanslagna": 499,
+    "sammanslagna": 477,
     "pagar14": 10,
-    "borttagnaKurser": 23,
+    "borttagnaKurser": 24,
     "aiEvenemang": 0,
     "misstanktaDubbletter": 0,
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
       "langvariga": 5,
-      "samma-kalla": 4,
-      "serie-uttryckliga-datum": 8,
-      "speltid-mot-tillfallen": 11,
+      "samma-kalla": 2,
+      "serie-uttryckliga-datum": 6,
+      "speltid-mot-tillfallen": 10,
       "festival": 14,
-      "lika": 241,
-      "innehaller": 51,
+      "lika": 240,
+      "innehaller": 53,
       "likhet": 1,
       "sport": 37
     }
@@ -41,12 +41,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 118,
+      "antal": 121,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 105,
+      "sammanslagna": 88,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 314,
+      "antal": 305,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 98,
+      "sammanslagna": 94,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,14 +67,14 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 641,
-      "utanKlockslag": 0.043,
-      "ovrigt": 0.014,
-      "familjUtanAlder": 0.111,
+      "antal": 618,
+      "utanKlockslag": 0.045,
+      "ovrigt": 0.013,
+      "familjUtanAlder": 0.112,
       "utanOmrade": 0.006,
-      "sammanslagna": 139,
+      "sammanslagna": 131,
       "pagar14": 0,
-      "borttagnaKurser": 22,
+      "borttagnaKurser": 23,
       "aiEvenemang": 0,
       "misstanktaDubbletter": 0
     },
@@ -98,7 +98,7 @@
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 78,
+      "sammanslagna": 77,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -106,12 +106,12 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 80,
+      "antal": 81,
       "utanKlockslag": 0,
-      "ovrigt": 0.038,
+      "ovrigt": 0.037,
       "familjUtanAlder": 0.682,
       "utanOmrade": 0,
-      "sammanslagna": 142,
+      "sammanslagna": 144,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -132,10 +132,10 @@
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 47,
+      "antal": 46,
       "utanKlockslag": 0,
       "ovrigt": 0,
-      "familjUtanAlder": 0.714,
+      "familjUtanAlder": 0.833,
       "utanOmrade": 0,
       "sammanslagna": 0,
       "pagar14": 0,
@@ -150,7 +150,7 @@
       "ovrigt": 0,
       "familjUtanAlder": 0.438,
       "utanOmrade": 0.103,
-      "sammanslagna": 16,
+      "sammanslagna": 12,
       "pagar14": 1,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -158,12 +158,25 @@
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 44,
+      "antal": 47,
       "utanKlockslag": 0,
-      "ovrigt": 0.023,
+      "ovrigt": 0.021,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 35,
+      "sammanslagna": 36,
+      "pagar14": 0,
+      "borttagnaKurser": 0,
+      "aiEvenemang": 0,
+      "misstanktaDubbletter": 0
+    },
+    "o": {
+      "namn": "Billetto",
+      "antal": 6,
+      "utanKlockslag": 0,
+      "ovrigt": 0,
+      "familjUtanAlder": 1,
+      "utanOmrade": 0,
+      "sammanslagna": 3,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -171,12 +184,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 264,
-      "utanKlockslag": 0.073,
-      "ovrigt": 0.11,
-      "familjUtanAlder": 0.797,
-      "utanOmrade": 0.034,
-      "sammanslagna": 253,
+      "antal": 247,
+      "utanKlockslag": 0.07,
+      "ovrigt": 0.117,
+      "familjUtanAlder": 0.81,
+      "utanOmrade": 0.04,
+      "sammanslagna": 239,
       "pagar14": 9,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -184,12 +197,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 241,
-      "utanKlockslag": 0.018,
-      "ovrigt": 0.054,
-      "familjUtanAlder": 0.586,
-      "utanOmrade": 0.05,
-      "sammanslagna": 240,
+      "antal": 236,
+      "utanKlockslag": 0,
+      "ovrigt": 0.051,
+      "familjUtanAlder": 0.68,
+      "utanOmrade": 0.047,
+      "sammanslagna": 232,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -277,18 +290,6 @@
     },
     {
       "regel": "samma-kalla",
-      "dag": "2026-10-26",
-      "plats": "fyrishov",
-      "kallor": [
-        "u",
-        "u"
-      ],
-      "titlar": [
-        "Gymnastikläger"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
       "dag": "2026-10-28",
       "plats": "fyrishov",
       "kallor": [
@@ -297,18 +298,6 @@
       ],
       "titlar": [
         "Gymnastikläger"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
-      "dag": "2026-12-09",
-      "plats": "ukk",
-      "kallor": [
-        "t",
-        "t"
-      ],
-      "titlar": [
-        "Jul med Cirkus Cirkör: Årets mest oväntade julbord"
       ]
     },
     {
@@ -367,7 +356,7 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-27",
+      "dag": "2026-11-03",
       "plats": "stadsbib",
       "kallor": [
         "u",
@@ -415,36 +404,6 @@
         "Hörlurar på!"
       ],
       "serie": "kubik-hoerlurar-paa-1"
-    },
-    {
-      "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-05",
-      "plats": "biotopia",
-      "kallor": [
-        "t",
-        "n",
-        "n"
-      ],
-      "titlar": [
-        "Torsdagskul - Tema: Utter (5/11 & 12/11)",
-        "Torsdagskul: Utter!"
-      ],
-      "serie": "tickster-2wgafy94ywbvcn0"
-    },
-    {
-      "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-26",
-      "plats": "biotopia",
-      "kallor": [
-        "t",
-        "n",
-        "n"
-      ],
-      "titlar": [
-        "Torsdagskul - Tema: Solsystemet (26/11 & 3/12)",
-        "Torsdagskul: solsystemet"
-      ],
-      "serie": "tickster-r61x43pmf68p8zj"
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -510,7 +469,7 @@
       "titlar": [
         "Höstlovskul: Formstarkt och eldigt"
       ],
-      "tillfallen": 6
+      "tillfallen": 5
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -524,7 +483,7 @@
         "Ficklampsvisning i slottskällarens mörker",
         "Höstlov: Ficklampsvisning i slottskällarens mörker"
       ],
-      "tillfallen": 4
+      "tillfallen": 3
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -554,20 +513,6 @@
     },
     {
       "regel": "speltid-mot-tillfallen",
-      "dag": "2027-01-07",
-      "plats": "stadsteatern",
-      "kallor": [
-        "d",
-        "s"
-      ],
-      "titlar": [
-        "Teater: Ingenmansland",
-        "Ingenmansland"
-      ],
-      "tillfallen": 18
-    },
-    {
-      "regel": "speltid-mot-tillfallen",
       "dag": "2027-01-29",
       "plats": "stadsteatern",
       "kallor": [
@@ -578,7 +523,7 @@
         "Teater: Lotten von Kræmer",
         "Lotten von Kræmer"
       ],
-      "tillfallen": 10
+      "tillfallen": 11
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -815,59 +760,6 @@
         "Nyhetsklubb"
       ],
       "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-27",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Halloween i Molnet"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-27",
-      "plats": "storvretabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Pyssla stickers!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-27",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Myspyssel"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-27",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Pyjamasparty",
-        "Pyjamasparty på Läsfabriken!"
-      ],
-      "poang": 0.5
     },
     {
       "regel": "lika",
@@ -2069,6 +1961,20 @@
       "poang": 1
     },
     {
+      "regel": "innehaller",
+      "dag": "2026-11-21",
+      "plats": "fyrishov",
+      "kallor": [
+        "u",
+        "f"
+      ],
+      "titlar": [
+        "Fritid för alla-dagen - hitta din grej",
+        "Fritid för alla-dagen"
+      ],
+      "poang": 0.5
+    },
+    {
       "regel": "sport",
       "dag": "2026-11-21",
       "plats": "fyrishov",
@@ -2725,6 +2631,20 @@
     },
     {
       "regel": "innehaller",
+      "dag": "2026-11-17",
+      "plats": "kaliber",
+      "kallor": [
+        "o",
+        "d"
+      ],
+      "titlar": [
+        "Fyris Comedy – Stand up med Kodjo Akolor - Work in Progress \"Obekväma sanningar\"",
+        "Kodjo Akolor – Obekväma sanningar"
+      ],
+      "poang": 0.36
+    },
+    {
+      "regel": "innehaller",
       "dag": "2026-11-19",
       "plats": "ukk",
       "kallor": [
@@ -2804,6 +2724,20 @@
       "titlar": [
         "IK Sirius – Djurgårdens IF",
         "Fotboll: IK Sirius – Djurgårdens IF"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-11-24",
+      "plats": "kaliber",
+      "kallor": [
+        "o",
+        "d"
+      ],
+      "titlar": [
+        "Fyris Comedy Stand Up – Open Mic på Kaliber Room",
+        "Fyris Comedy Stand Up – Open Mic"
       ],
       "poang": 1
     },
@@ -2953,6 +2887,19 @@
       ],
       "titlar": [
         "Local Femmes julmarknad"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-12-08",
+      "plats": "kaliber",
+      "kallor": [
+        "o",
+        "d"
+      ],
+      "titlar": [
+        "Fyris Comedy – Stand up med Sommarkatten, Josefin Sonck + hemlig gäst"
       ],
       "poang": 1
     },
@@ -3231,6 +3178,20 @@
       "poang": 1
     },
     {
+      "regel": "innehaller",
+      "dag": "2027-02-25",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "d"
+      ],
+      "titlar": [
+        "Jesper Rönndahl och Marie Agerhäll",
+        "Jesper Rönndahl och Marie Agerhäll – Detta ser man fram emot"
+      ],
+      "poang": 0.44
+    },
+    {
       "regel": "lika",
       "dag": "2026-10-28",
       "plats": "katalin",
@@ -3354,7 +3315,8 @@
         "t"
       ],
       "titlar": [
-        "The Mwuanas"
+        "The Mwuanas",
+        "The Mwuanas"
       ],
       "poang": 1
     },
@@ -4881,19 +4843,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2027-01-15",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "LKN"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2027-01-16",
       "plats": "katalin",
       "kallor": [
@@ -5304,6 +5253,21 @@
         "Jesper Lindell & Brunnsvik Sounds - Klubb Uffe"
       ],
       "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-25",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "d",
+        "t"
+      ],
+      "titlar": [
+        "Jesper Rönndahl och Marie Agerhäll",
+        "Jesper Rönndahl och Marie Agerhäll – Detta ser man fram emot"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -5346,21 +5310,21 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 23,
+      "varde": 25,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 10,
+      "varde": 12,
       "krav": "minst 10"
     },
     {
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 70,
+      "varde": 62,
       "krav": "minst 5"
     },
     {
@@ -5381,7 +5345,7 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "3.4 %",
+      "varde": "3.3 %",
       "krav": "under 10 %"
     },
     {

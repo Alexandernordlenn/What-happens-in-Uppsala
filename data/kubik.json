@@ -1,8 +1,8 @@
 {
   "kalla": "Kubik Uppsala",
   "webbsida": "https://www.kubikuppsala.se/hitta-aktiviteter/",
-  "hamtad": "2026-10-27T09:49:49.137Z",
-  "antal": 261,
+  "hamtad": "2026-10-28T10:38:48.118Z",
+  "antal": 249,
   "evenemang": [
     {
       "id": "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar",
@@ -3869,152 +3869,6 @@
       "langvarig": true
     },
     {
-      "id": "kubik-gymnastiklaeger",
-      "titel": "Gymnastikläger",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Gymnastikhallen"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        15
-      ],
-      "omrade": "norra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/gymnastiklaeger/",
-          "arrangor": "http://www.gcfuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Gymnastik"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år",
-          "13-15 år"
-        ],
-        "adress": "Gymnastikhallen, Fyrishov, Idrottsgatan 2, Uppsala",
-        "dagar": [
-          "må",
-          "ti",
-          "on",
-          "to"
-        ],
-        "tider": {
-          "start": "08:30"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-27",
-      "langvarig": true
-    },
-    {
-      "id": "kubik-gymnastiklaeger-2",
-      "titel": "Gymnastikläger",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Gymnastikhallen"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        15
-      ],
-      "omrade": "norra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/gymnastiklaeger/",
-          "arrangor": "http://www.gcfuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Gymnastik"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år",
-          "13-15 år"
-        ],
-        "adress": "Gymnastikhallen, Fyrishov, Idrottsgatan 2, Uppsala",
-        "dagar": [
-          "må",
-          "ti",
-          "on",
-          "to"
-        ],
-        "tider": {
-          "start": "08:30"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-27",
-      "langvarig": true
-    },
-    {
-      "id": "kubik-mask-verkstad-foer-alla-aaldrar",
-      "titel": "Mask-verkstad för alla åldrar",
-      "plats": {
-        "namn": "Fyrisgården",
-        "id": "kubik-plats-fyrisgården"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        99
-      ],
-      "omrade": "norra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/mask-verkstad-foer-alla-aaldrar/",
-          "arrangor": "https://fyrisgarden.se/evenemang/mask-verkstad/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande",
-          "Slöjd"
-        ],
-        "malgrupp": [
-          "För alla åldrar"
-        ],
-        "adress": "Fyrisgården, Svartbäcksgatan 58, Uppsala",
-        "dagar": [
-          "må",
-          "ti",
-          "on",
-          "to",
-          "fr"
-        ],
-        "tider": {
-          "start": "12:00"
-        }
-      },
-      "start": "2026-10-26",
-      "slut": "2026-10-27",
-      "langvarig": true
-    },
-    {
       "id": "kubik-haestkompisdagar",
       "titel": "Hästkompisdagar",
       "plats": {
@@ -4981,402 +4835,7 @@
       "langvarig": true
     },
     {
-      "id": "kubik-mirakel-och-katastofer-2026-10-27-0900",
-      "titel": "Mirakel och katastofer",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        12
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/mirakel-och-katastofer/",
-          "arrangor": "https://brorhjorthshus.se/konstkurser/lovverkstad/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande",
-          "Kurser",
-          "Museum/Kulturarv"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år"
-        ],
-        "adress": "Bror Hjorth Hus, Norbyvägen 26, Uppsala"
-      },
-      "start": "2026-10-27T09:00:00+01:00",
-      "slut": "2026-10-27T14:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-designa-3d-printa-paa-graenby-allaktivitetshus-2026-10-27-1000",
-      "titel": "Designa & 3D-printa på Gränby allaktivitetshus",
-      "plats": {
-        "namn": "Gränby allaktivitetshus",
-        "id": "granbyallaktivitetshus"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        10,
-        15
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/designa-3d-printa-paa-graenby-allaktivitetshus/",
-          "arrangor": "https://allaktivitetshus.uppsala.se/granby-allaktivitetshus/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "IT/Digitala medier",
-          "Konst/Skapande"
-        ],
-        "malgrupp": [
-          "10-12 år",
-          "13-15 år"
-        ],
-        "adress": "Gränby allaktivitetshus, Liljeforstorg 1, Uppsala"
-      },
-      "start": "2026-10-27T10:00:00+01:00",
-      "slut": "2026-10-27T12:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-bygg-en-spoekstad-paa-graenby-allaktivitetshus-2026-10-27-1000",
-      "titel": "Bygg en spökstad på Gränby allaktivitetshus",
-      "plats": {
-        "namn": "Gränby allaktivitetshus",
-        "id": "granbyallaktivitetshus"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        99
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/bygg-en-spoekstad-paa-graenby-allaktivitetshus/",
-          "arrangor": "https://allaktivitetshus.uppsala.se/granby-allaktivitetshus/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande"
-        ],
-        "malgrupp": [
-          "För alla åldrar"
-        ],
-        "adress": "Gränby allaktivitetshus, Liljeforstorg 1, Uppsala"
-      },
-      "start": "2026-10-27T10:00:00+01:00",
-      "slut": "2026-10-27T12:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-we-dag-2026-10-27-1000",
-      "titel": "WE-dag",
-      "plats": {
-        "namn": "Uppsala Ponnyklubb",
-        "id": "kubik-plats-uppsala-ponnyklubb"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        15
-      ],
-      "omrade": "ostra-land",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/we-dag/",
-          "arrangor": "http://www.uppsalaponnyklubb.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Ridsport"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år",
-          "13-15 år"
-        ],
-        "adress": "Uppsala Ponnyklubb, Vaksala Lunda 33, Uppsala"
-      },
-      "start": "2026-10-27T10:00:00+01:00",
-      "slut": "2026-10-27T15:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-baest-i-test-paa-graenby-allaktivitetshus-2026-10-27-1300",
-      "titel": "Bäst i Test på Gränby allaktivitetshus",
-      "plats": {
-        "namn": "Gränby allaktivitetshus",
-        "id": "granbyallaktivitetshus"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        18
-      ],
-      "omrade": "ostra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/baest-i-test-paa-graenby-allaktivitetshus/",
-          "arrangor": "https://allaktivitetshus.uppsala.se/aktiviteter-granby/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Övrigt"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "10-12 år",
-          "13-15 år",
-          "16-18 år"
-        ],
-        "adress": "Gränby allaktivitetshus, Liljeforstorg 1, Uppsala"
-      },
-      "start": "2026-10-27T13:00:00+01:00",
-      "slut": "2026-10-27T15:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-halloween-i-molnet-2026-10-27-1300",
-      "titel": "Halloween i Molnet",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Molnet"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        13,
-        25
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/halloween-i-molnet/",
-          "arrangor": "https://bibliotekuppsala.se/evenemang#/events/5438b15e-8fb1-454f-9d7c-707eb0162590?tag=Höstlov&targetAudience=Ungdom"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande",
-          "Litteratur/Skrivande"
-        ],
-        "malgrupp": [
-          "13-15 år",
-          "16-18 år",
-          "19-25 år"
-        ],
-        "adress": "Molnet, Stadsbiblioteket, Svartbäcksgatan 17, Uppsala"
-      },
-      "start": "2026-10-27T13:00:00+01:00",
-      "slut": "2026-10-27T15:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-domkyrkans-hoestlovsvisning-katarina-jagellonica-500-aar-2026-10-27-1330",
-      "titel": "Domkyrkans höstlovsvisning - Katarina Jagellonica 500 år",
-      "plats": {
-        "namn": "Uppsala domkyrka",
-        "id": "domkyrkan"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        5,
-        12
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/domkyrkans-hoestlovsvisning-katarina-jagellonica-500-aar/",
-          "arrangor": "http://www.uppsaladomkyrka.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande",
-          "Museum/Kulturarv"
-        ],
-        "malgrupp": [
-          "7-9 år",
-          "5-6 år",
-          "10-12 år"
-        ],
-        "adress": "Uppsala domkyrka, Domkyrkoplan, Uppsala"
-      },
-      "start": "2026-10-27T13:30:00+01:00",
-      "slut": "2026-10-27T15:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-pyssla-stickers-storvreta-2026-10-27-1400",
-      "titel": "Pyssla stickers!",
-      "plats": {
-        "namn": "Storvreta bibliotek",
-        "id": "storvretabib"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        12
-      ],
-      "omrade": "norra-land",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/pyssla-stickers-storvreta/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande"
-        ],
-        "malgrupp": [
-          "10-12 år",
-          "7-9 år"
-        ],
-        "adress": "Storvretabiblioteket, Uppsala"
-      },
-      "start": "2026-10-27T14:00:00+01:00",
-      "slut": "2026-10-27T16:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-myspyssel-2026-10-27-1400",
-      "titel": "Myspyssel",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/myspyssel/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Konst/Skapande"
-        ],
-        "malgrupp": [
-          "0-4 år",
-          "5-6 år",
-          "7-9 år",
-          "10-12 år"
-        ],
-        "adress": "Gottsundabiblioteket, Valthornsvägen 11, Uppsala"
-      },
-      "start": "2026-10-27T14:00:00+01:00",
-      "slut": "2026-10-27T15:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-pyjamasparty-2026-10-27-1800",
-      "titel": "Pyjamasparty på Läsfabriken!",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib"
-      },
-      "kategori": "scen",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        7,
-        12
-      ],
-      "omrade": "centrum",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/pyjamasparty/",
-          "arrangor": "http://www.bibliotekuppsala.se/"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Dans",
-          "Konst/Skapande",
-          "Film/Foto",
-          "Övrigt",
-          "Litteratur/Skrivande"
-        ],
-        "malgrupp": [
-          "10-12 år",
-          "7-9 år"
-        ],
-        "adress": "Läsfabriken, Stadsbiblioteket, Uppsala"
-      },
-      "start": "2026-10-27T18:00:00+01:00",
-      "slut": "2026-10-27T21:00:00+01:00",
-      "langvarig": false
-    },
-    {
-      "id": "kubik-gymnastiklaeger-3",
+      "id": "kubik-gymnastiklaeger",
       "titel": "Gymnastikläger",
       "plats": {
         "namn": "Fyrishov",
@@ -5425,7 +4884,7 @@
       "langvarig": true
     },
     {
-      "id": "kubik-gymnastiklaeger-4",
+      "id": "kubik-gymnastiklaeger-2",
       "titel": "Gymnastikläger",
       "plats": {
         "namn": "Fyrishov",
@@ -5906,46 +5365,6 @@
       "langvarig": false
     },
     {
-      "id": "kubik-hisnande-halloweenklaettring-2026-10-28-1600",
-      "titel": "Hisnande Halloweenklättring",
-      "plats": {
-        "namn": "KFUM Alnäs friluftsgård",
-        "id": "kubik-plats-kfum-alnäs-friluftsgård"
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": [
-        10,
-        25
-      ],
-      "omrade": "sodra",
-      "kallor": [
-        {
-          "id": "kubik",
-          "namn": "Kubik Uppsala",
-          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hisnande-halloweenklaettring/",
-          "arrangor": "https://www.facebook.com/share/1EhF5J3cXN/?mibextid=wwXIfr"
-        }
-      ],
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Klättring/Parkour"
-        ],
-        "malgrupp": [
-          "10-12 år",
-          "13-15 år",
-          "16-18 år",
-          "19-25 år"
-        ],
-        "adress": "KFUM Alnäs friluftsgård, Mälarvägen 14-16, Uppsala"
-      },
-      "start": "2026-10-28T16:00:00+01:00",
-      "slut": "2026-10-28T20:00:00+01:00",
-      "langvarig": false
-    },
-    {
       "id": "kubik-levande-rollspel-foer-hbtqi-unga-2026-10-28-1600",
       "titel": "Levande rollspel för hbtqi-unga",
       "plats": {
@@ -6022,6 +5441,46 @@
       },
       "start": "2026-10-28T16:00:00+01:00",
       "slut": "2026-10-28T18:30:00+01:00",
+      "langvarig": false
+    },
+    {
+      "id": "kubik-hisnande-halloweenklaettring-2026-10-28-1600",
+      "titel": "Hisnande Halloweenklättring",
+      "plats": {
+        "namn": "KFUM Alnäs friluftsgård",
+        "id": "kubik-plats-kfum-alnäs-friluftsgård"
+      },
+      "kategori": "ovrigt",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        10,
+        25
+      ],
+      "omrade": "sodra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/hisnande-halloweenklaettring/",
+          "arrangor": "https://www.facebook.com/share/1EhF5J3cXN/?mibextid=wwXIfr"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Klättring/Parkour"
+        ],
+        "malgrupp": [
+          "10-12 år",
+          "13-15 år",
+          "16-18 år",
+          "19-25 år"
+        ],
+        "adress": "KFUM Alnäs friluftsgård, Mälarvägen 14-16, Uppsala"
+      },
+      "start": "2026-10-28T16:00:00+01:00",
+      "slut": "2026-10-28T20:00:00+01:00",
       "langvarig": false
     },
     {
@@ -7421,6 +6880,49 @@
       "start": "2026-11-03T15:00:00+01:00",
       "slut": "2026-11-03T15:30:00+01:00",
       "langvarig": false
+    },
+    {
+      "id": "kubik-intensivskridskoskola",
+      "titel": "Intensivskridskoskola",
+      "plats": {
+        "namn": "Gränby sportfält - Ishall D",
+        "id": "kubik-plats-gränby-sportfält-ishall-d"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "alder": [
+        0,
+        99
+      ],
+      "omrade": "ostra",
+      "kallor": [
+        {
+          "id": "kubik",
+          "namn": "Kubik Uppsala",
+          "url": "https://www.kubikuppsala.se/hitta-aktiviteter/intensivskridskoskola/",
+          "arrangor": "http://www.uppsalask.se/"
+        }
+      ],
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "Issport/Skidsport",
+          "Kurser",
+          "Övrigt"
+        ],
+        "malgrupp": [
+          "För alla åldrar"
+        ],
+        "adress": "Gränby sportfält - Ishall D, Råbyvägen 71, Uppsala",
+        "tider": {
+          "start": "18:15",
+          "slut": "10:45"
+        }
+      },
+      "start": "2026-11-04",
+      "slut": "2026-12-06",
+      "langvarig": true
     },
     {
       "id": "kubik-sagostund-graenby-allaktivitetshus-2026-11-04-1000",

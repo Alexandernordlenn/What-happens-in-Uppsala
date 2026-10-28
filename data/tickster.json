@@ -1,34 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-27T09:49:07.025Z",
-  "antal": 299,
+  "hamtad": "2026-10-28T10:34:40.784Z",
+  "antal": 295,
   "evenemang": [
-    {
-      "id": "tickster-ube3vuh418fdy7y",
-      "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
-      "start": "2026-10-27T11:30:00+01:00",
-      "slut": "2026-10-27T12:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala slottshistoriska",
-        "id": "slottshist",
-        "lat": 59.8542,
-        "lng": 17.6351
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/ube3vuh418fdy7y/2026-10-27/hostlov-ficklampsvisning-i-slottskallarens-morker",
-          "biljetter": "https://secure.tickster.com/sv/ube3vuh418fdy7y"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "tickster-abt3utwwg88jfkb",
       "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
@@ -48,7 +23,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/abt3utwwg88jfkb/2026-10-28/hostlov-ficklampsvisning-i-slottskallarens-morker",
-          "biljetter": "https://secure.tickster.com/sv/abt3utwwg88jfkb"
+          "biljetter": "https://secure.tickster.com/abt3utwwg88jfkb"
         }
       ],
       "langvarig": false,
@@ -73,7 +48,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/9bx3v707y07f4nx/2026-10-28/sirius-vs-sundsvall-fbc",
-          "biljetter": "https://secure.tickster.com/sv/9bx3v707y07f4nx"
+          "biljetter": "https://secure.tickster.com/9bx3v707y07f4nx"
         }
       ],
       "langvarig": false,
@@ -98,7 +73,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/fj2mkwvn0terxl1/2026-10-28/terra-extrakonsert",
-          "biljetter": "https://secure.tickster.com/sv/fj2mkwvn0terxl1"
+          "biljetter": "https://secure.tickster.com/fj2mkwvn0terxl1"
         }
       ],
       "langvarig": false,
@@ -114,7 +89,8 @@
           "terra",
           "luger",
           "indie",
-          "pop"
+          "pop",
+          "rock"
         ]
       }
     },
@@ -137,7 +113,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/5k13eg4wze32f7l/2026-10-28/jonatan-stenson-katalins-bakficka",
-          "biljetter": "https://secure.tickster.com/sv/5k13eg4wze32f7l"
+          "biljetter": "https://secure.tickster.com/5k13eg4wze32f7l"
         }
       ],
       "langvarig": false,
@@ -171,7 +147,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/l5yewmgpzflnue0/2026-10-29/hostlov-ficklampsvisning-i-slottskallarens-morker",
-          "biljetter": "https://secure.tickster.com/sv/l5yewmgpzflnue0"
+          "biljetter": "https://secure.tickster.com/l5yewmgpzflnue0"
         }
       ],
       "langvarig": false,
@@ -194,7 +170,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/cxgnyurzvg8h3m9/2026-10-29/konst-and-bar-eija-liisa-ahtila",
-          "biljetter": "https://secure.tickster.com/sv/cxgnyurzvg8h3m9"
+          "biljetter": "https://secure.tickster.com/cxgnyurzvg8h3m9"
         }
       ],
       "langvarig": false,
@@ -217,7 +193,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/e3kv5j6lu5rkxb7/2026-10-29/konsert-feras-charestan-sound-from-the-north",
-          "biljetter": "https://secure.tickster.com/sv/e3kv5j6lu5rkxb7"
+          "biljetter": "https://secure.tickster.com/e3kv5j6lu5rkxb7"
         }
       ],
       "langvarig": false,
@@ -243,7 +219,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/j6xw36fnh6d638y/2026-10-29/viktor-noren-and-linus-wahlgren",
-          "biljetter": "https://secure.tickster.com/sv/j6xw36fnh6d638y"
+          "biljetter": "https://secure.tickster.com/j6xw36fnh6d638y"
         }
       ],
       "langvarig": false,
@@ -273,7 +249,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/wmbpfkx17ehr3pl/2026-10-29/gamla-grubblerier-en-komisk-kabare-om-att-aldras",
-          "biljetter": "https://secure.tickster.com/sv/wmbpfkx17ehr3pl"
+          "biljetter": "https://secure.tickster.com/wmbpfkx17ehr3pl"
         }
       ],
       "langvarig": false,
@@ -305,7 +281,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/l2ygdth812avj6e/2026-10-29/terra",
-          "biljetter": "https://secure.tickster.com/sv/l2ygdth812avj6e"
+          "biljetter": "https://secure.tickster.com/l2ygdth812avj6e"
         }
       ],
       "langvarig": false,
@@ -344,7 +320,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/l3leggvprmf3rf7/2026-10-29/halloween-hostlovet",
-          "biljetter": "https://secure.tickster.com/sv/l3leggvprmf3rf7"
+          "biljetter": "https://secure.tickster.com/l3leggvprmf3rf7"
         }
       ],
       "langvarig": false,
@@ -370,7 +346,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/upltrfh6ejfbgc9/2026-10-30/fran-aladdin-till-elsa",
-          "biljetter": "https://secure.tickster.com/sv/upltrfh6ejfbgc9"
+          "biljetter": "https://secure.tickster.com/upltrfh6ejfbgc9"
         }
       ],
       "langvarig": false,
@@ -400,7 +376,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/cf7dgdzav0k4mxk/2026-10-30/hostlov-ficklampsvisning-i-slottskallarens-morker",
-          "biljetter": "https://secure.tickster.com/sv/cf7dgdzav0k4mxk"
+          "biljetter": "https://secure.tickster.com/cf7dgdzav0k4mxk"
         }
       ],
       "langvarig": false,
@@ -426,7 +402,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/wke3m53wxa4blbj/2026-10-30/fran-aladdin-till-elsa",
-          "biljetter": "https://secure.tickster.com/sv/wke3m53wxa4blbj"
+          "biljetter": "https://secure.tickster.com/wke3m53wxa4blbj"
         }
       ],
       "langvarig": false,
@@ -457,7 +433,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/n7ju6ftr5f2dkg9/2026-10-30/elton-john-meets-freddie-mercury",
-          "biljetter": "https://secure.tickster.com/sv/n7ju6ftr5f2dkg9"
+          "biljetter": "https://secure.tickster.com/n7ju6ftr5f2dkg9"
         }
       ],
       "langvarig": false,
@@ -470,7 +446,7 @@
     },
     {
       "id": "tickster-4gyb5n9pxd40zvt",
-      "titel": "The Mwuanas",
+      "titel": "The Mwuanas",
       "start": "2026-10-30T20:00:00+01:00",
       "slut": "2026-10-30T22:00:00+01:00",
       "plats": {
@@ -487,7 +463,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/4gyb5n9pxd40zvt/2026-10-30/the-mwuanas",
-          "biljetter": "https://secure.tickster.com/sv/4gyb5n9pxd40zvt"
+          "biljetter": "https://secure.tickster.com/4gyb5n9pxd40zvt"
         }
       ],
       "langvarig": false,
@@ -526,7 +502,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/u51tcb05ahpfgth/2026-10-30/otto-tribute-till-toto",
-          "biljetter": "https://secure.tickster.com/sv/u51tcb05ahpfgth"
+          "biljetter": "https://secure.tickster.com/u51tcb05ahpfgth"
         }
       ],
       "langvarig": false,
@@ -557,7 +533,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/bdhxpyce6rxw2mr/2026-10-30/halloween-21",
-          "biljetter": "https://secure.tickster.com/sv/bdhxpyce6rxw2mr"
+          "biljetter": "https://secure.tickster.com/bdhxpyce6rxw2mr"
         }
       ],
       "langvarig": false,
@@ -589,7 +565,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/rjd0dnh0e5x2kxj/2026-10-31/oktoberstamman-2026",
-          "biljetter": "https://secure.tickster.com/sv/rjd0dnh0e5x2kxj"
+          "biljetter": "https://secure.tickster.com/rjd0dnh0e5x2kxj"
         }
       ],
       "langvarig": false,
@@ -619,7 +595,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/pcb532krw06dp97/2026-10-31/sirius-vs-lindas-ibk",
-          "biljetter": "https://secure.tickster.com/sv/pcb532krw06dp97"
+          "biljetter": "https://secure.tickster.com/pcb532krw06dp97"
         }
       ],
       "langvarig": false,
@@ -642,7 +618,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/z5xyautdevfz9cm/2026-10-31/will-hoge",
-          "biljetter": "https://secure.tickster.com/sv/z5xyautdevfz9cm"
+          "biljetter": "https://secure.tickster.com/z5xyautdevfz9cm"
         }
       ],
       "langvarig": false,
@@ -667,7 +643,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/fc5nge7c565wkby/2026-10-31/marky-ramone-s-blitzkrieg",
-          "biljetter": "https://secure.tickster.com/sv/fc5nge7c565wkby"
+          "biljetter": "https://secure.tickster.com/fc5nge7c565wkby"
         }
       ],
       "langvarig": false,
@@ -706,7 +682,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/gg5dvg174ucyu11/2026-10-31/halloween-med-fat-lizzy-bakfickan",
-          "biljetter": "https://secure.tickster.com/sv/gg5dvg174ucyu11"
+          "biljetter": "https://secure.tickster.com/gg5dvg174ucyu11"
         }
       ],
       "langvarig": false,
@@ -739,7 +715,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/tjj3k405nml7l9p/2026-10-31/halloween-a-sweet-but-psycho-night",
-          "biljetter": "https://secure.tickster.com/sv/tjj3k405nml7l9p"
+          "biljetter": "https://secure.tickster.com/tjj3k405nml7l9p"
         }
       ],
       "langvarig": false,
@@ -762,7 +738,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/lzvgxtv9gk5vw6b/2026-10-31/urban-vybez-club-halloween-31-oct",
-          "biljetter": "https://secure.tickster.com/sv/lzvgxtv9gk5vw6b"
+          "biljetter": "https://secure.tickster.com/lzvgxtv9gk5vw6b"
         }
       ],
       "langvarig": false,
@@ -787,7 +763,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/kfyfxrah1edy3hn/2026-11-01/workshop-stadskroki",
-          "biljetter": "https://secure.tickster.com/sv/kfyfxrah1edy3hn"
+          "biljetter": "https://secure.tickster.com/kfyfxrah1edy3hn"
         }
       ],
       "langvarig": false,
@@ -813,7 +789,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/n6zu4plvze6vdb8/2026-11-01/fem-myror-konsert",
-          "biljetter": "https://secure.tickster.com/sv/n6zu4plvze6vdb8"
+          "biljetter": "https://secure.tickster.com/n6zu4plvze6vdb8"
         }
       ],
       "langvarig": false,
@@ -841,7 +817,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/axfwrh6drhg7wa1/2026-11-01/filosoficafe-karlek-om-visdom-till-karlek",
-          "biljetter": "https://secure.tickster.com/sv/axfwrh6drhg7wa1"
+          "biljetter": "https://secure.tickster.com/axfwrh6drhg7wa1"
         }
       ],
       "langvarig": false,
@@ -867,7 +843,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/x29dukujjlzlpt9/2026-11-01/elvis-elvis-elvis-2026",
-          "biljetter": "https://secure.tickster.com/sv/x29dukujjlzlpt9"
+          "biljetter": "https://secure.tickster.com/x29dukujjlzlpt9"
         }
       ],
       "langvarig": false,
@@ -897,7 +873,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/hay7utmctlpkd36/2026-11-01/dungen",
-          "biljetter": "https://secure.tickster.com/sv/hay7utmctlpkd36"
+          "biljetter": "https://secure.tickster.com/hay7utmctlpkd36"
         }
       ],
       "langvarig": false,
@@ -913,7 +889,8 @@
           "dungen",
           "indie",
           "luger",
-          "rock"
+          "rock",
+          "pop"
         ]
       }
     },
@@ -936,7 +913,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/lf9epdwruu0hwk5/2026-11-03/shurman-klubb-uffe",
-          "biljetter": "https://secure.tickster.com/sv/lf9epdwruu0hwk5"
+          "biljetter": "https://secure.tickster.com/lf9epdwruu0hwk5"
         }
       ],
       "langvarig": false,
@@ -968,7 +945,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/e8yeczx8a5mjuw6/2026-11-03/four-shades-of-grey-bakfickan",
-          "biljetter": "https://secure.tickster.com/sv/e8yeczx8a5mjuw6"
+          "biljetter": "https://secure.tickster.com/e8yeczx8a5mjuw6"
         }
       ],
       "langvarig": false,
@@ -1001,7 +978,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/f0462pryj6lb4p7/2026-11-04/hardcore-superstar",
-          "biljetter": "https://secure.tickster.com/sv/f0462pryj6lb4p7"
+          "biljetter": "https://secure.tickster.com/f0462pryj6lb4p7"
         }
       ],
       "langvarig": false,
@@ -1040,7 +1017,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/h3hznumbfldp6vm/2026-11-04/yttling-jazz-jazzbaren",
-          "biljetter": "https://secure.tickster.com/sv/h3hznumbfldp6vm"
+          "biljetter": "https://secure.tickster.com/h3hznumbfldp6vm"
         }
       ],
       "langvarig": false,
@@ -1056,37 +1033,8 @@
           "konsert",
           "live",
           "björn yttling",
-          "yttlig jazz"
-        ]
-      }
-    },
-    {
-      "id": "tickster-2wgafy94ywbvcn0",
-      "titel": "Torsdagskul - Tema: Utter (5/11 & 12/11)",
-      "start": "2026-11-05T14:30:00+01:00",
-      "slut": "2026-11-12T15:30:00+01:00",
-      "plats": {
-        "namn": "Biotopia",
-        "id": "biotopia",
-        "lat": 59.8601,
-        "lng": 17.6223
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/2wgafy94ywbvcn0/2026-11-05/torsdagskul-tema-utter-5-11-and-12-11",
-          "biljetter": "https://secure.tickster.com/sv/2wgafy94ywbvcn0"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "torsdagskul"
+          "yttlig jazz",
+          "luger"
         ]
       }
     },
@@ -1107,7 +1055,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/fj41pzyh2bcfcvd/2026-11-05/skulpturjogging-manniskan-i-centrum",
-          "biljetter": "https://secure.tickster.com/sv/fj41pzyh2bcfcvd"
+          "biljetter": "https://secure.tickster.com/fj41pzyh2bcfcvd"
         }
       ],
       "langvarig": false,
@@ -1130,7 +1078,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/lel0fm5r4kh9wy4/2026-11-05/lecture-dance-performance-med-anna-pehrsson",
-          "biljetter": "https://secure.tickster.com/sv/lel0fm5r4kh9wy4"
+          "biljetter": "https://secure.tickster.com/lel0fm5r4kh9wy4"
         }
       ],
       "langvarig": false,
@@ -1155,7 +1103,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/6bc46ugy3bdrj8l/2026-11-05/foredrag-maktspelerskan-utan-land",
-          "biljetter": "https://secure.tickster.com/sv/6bc46ugy3bdrj8l"
+          "biljetter": "https://secure.tickster.com/6bc46ugy3bdrj8l"
         }
       ],
       "langvarig": false,
@@ -1181,7 +1129,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/bnjyaey6a6hf328/2026-11-05/maksim-segmenti-world-tour",
-          "biljetter": "https://secure.tickster.com/sv/bnjyaey6a6hf328"
+          "biljetter": "https://secure.tickster.com/bnjyaey6a6hf328"
         }
       ],
       "langvarig": false,
@@ -1209,7 +1157,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/mlmuh0r4t1jnkxc/2026-11-05/zilverzurfarn-70-ar-release-ny-platta",
-          "biljetter": "https://secure.tickster.com/sv/mlmuh0r4t1jnkxc"
+          "biljetter": "https://secure.tickster.com/mlmuh0r4t1jnkxc"
         }
       ],
       "langvarig": false,
@@ -1225,7 +1173,11 @@
           "live",
           "kaliber live",
           "östra station",
-          "zilverzurfarn"
+          "zilverzurfarn",
+          "kenny håkansson",
+          "robin cochrane",
+          "rafael sida",
+          "stefan blomquist"
         ]
       }
     },
@@ -1248,7 +1200,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/g51txflwbv7058x/2026-11-06/sirius-vs-strangnas",
-          "biljetter": "https://secure.tickster.com/sv/g51txflwbv7058x"
+          "biljetter": "https://secure.tickster.com/g51txflwbv7058x"
         }
       ],
       "langvarig": false,
@@ -1274,7 +1226,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/gjeb35zxk1cvp2y/2026-11-06/sven-ingvars-igar-idag-imorgon-70-ar",
-          "biljetter": "https://secure.tickster.com/sv/gjeb35zxk1cvp2y"
+          "biljetter": "https://secure.tickster.com/gjeb35zxk1cvp2y"
         }
       ],
       "langvarig": false,
@@ -1304,7 +1256,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/j76ykfm0hjvh87g/2026-11-06/phontrattarnes-70-ars-jubileum",
-          "biljetter": "https://secure.tickster.com/sv/j76ykfm0hjvh87g"
+          "biljetter": "https://secure.tickster.com/j76ykfm0hjvh87g"
         }
       ],
       "langvarig": false,
@@ -1333,7 +1285,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/xjlxf97wkvpveh2/2026-11-06/en-hostkvall-med-stina-wollter",
-          "biljetter": "https://secure.tickster.com/sv/xjlxf97wkvpveh2"
+          "biljetter": "https://secure.tickster.com/xjlxf97wkvpveh2"
         }
       ],
       "langvarig": false,
@@ -1349,7 +1301,11 @@
           "live",
           "kaliber live",
           "östra station",
-          "stina wollter"
+          "stina wollter",
+          "böcker",
+          "läsning",
+          "prat",
+          "pecka hammarstedt"
         ]
       }
     },
@@ -1373,7 +1329,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/z9kumevvuzjmk4y/2026-11-06/bach-jazz-jazzhornan",
-          "biljetter": "https://secure.tickster.com/sv/z9kumevvuzjmk4y"
+          "biljetter": "https://secure.tickster.com/z9kumevvuzjmk4y"
         }
       ],
       "langvarig": false,
@@ -1403,7 +1359,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/bvlznwjvck3514f/2026-11-07/phontrattarnes-70-ars-jubileum",
-          "biljetter": "https://secure.tickster.com/sv/bvlznwjvck3514f"
+          "biljetter": "https://secure.tickster.com/bvlznwjvck3514f"
         }
       ],
       "langvarig": false,
@@ -1433,7 +1389,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/6dzkvv97pc8he95/2026-11-07/max-lonata-special-edition",
-          "biljetter": "https://secure.tickster.com/sv/6dzkvv97pc8he95"
+          "biljetter": "https://secure.tickster.com/6dzkvv97pc8he95"
         }
       ],
       "langvarig": false,
@@ -1449,7 +1405,8 @@
           "live",
           "kaliber live",
           "östra station",
-          "martin sjöstedt  erik tengholm"
+          "martin sjöstedt & erik tengholm",
+          "max lonata"
         ]
       }
     },
@@ -1473,7 +1430,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/2rlj361an8cvmb6/2026-11-07/creedence-tribute-best-of-ccr-and-john-fogerty-tour",
-          "biljetter": "https://secure.tickster.com/sv/2rlj361an8cvmb6"
+          "biljetter": "https://secure.tickster.com/2rlj361an8cvmb6"
         }
       ],
       "langvarig": false,
@@ -1503,7 +1460,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/4n9tyntpn3bh3pd/2026-11-07/chezidek-bewarehouse-allstars-rootsteppaz",
-          "biljetter": "https://secure.tickster.com/sv/4n9tyntpn3bh3pd"
+          "biljetter": "https://secure.tickster.com/4n9tyntpn3bh3pd"
         }
       ],
       "langvarig": false,
@@ -1539,7 +1496,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/vvp6vcprfmc35g6/2026-11-07/kaeli-abdi-paskkarringen",
-          "biljetter": "https://secure.tickster.com/sv/vvp6vcprfmc35g6"
+          "biljetter": "https://secure.tickster.com/vvp6vcprfmc35g6"
         }
       ],
       "langvarig": false,
@@ -1570,7 +1527,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/g1u3ek9f41t9ke7/2026-11-07/pussy-riot-riot-days",
-          "biljetter": "https://secure.tickster.com/sv/g1u3ek9f41t9ke7"
+          "biljetter": "https://secure.tickster.com/g1u3ek9f41t9ke7"
         }
       ],
       "langvarig": false,
@@ -1599,7 +1556,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/yfuurubx7e7c2ah/2026-11-08/familjekonsert-garna-ville-jag-vara-ett-trad",
-          "biljetter": "https://secure.tickster.com/sv/yfuurubx7e7c2ah"
+          "biljetter": "https://secure.tickster.com/yfuurubx7e7c2ah"
         }
       ],
       "langvarig": false,
@@ -1609,7 +1566,7 @@
       "id": "tickster-drhyu0rfv9lfk7r",
       "titel": "Linnékvintetten 40 år – Jubileumskonsert",
       "start": "2026-11-08T16:00:00+01:00",
-      "slut": "2026-11-08T18:00:00+01:00",
+      "slut": "2026-11-08T17:30:00+01:00",
       "plats": {
         "namn": "Uppsala Konsert & Kongress",
         "id": "ukk",
@@ -1625,7 +1582,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/drhyu0rfv9lfk7r/2026-11-08/linnekvintetten-40-ar-jubileumskonsert",
-          "biljetter": "https://secure.tickster.com/sv/drhyu0rfv9lfk7r"
+          "biljetter": "https://secure.tickster.com/drhyu0rfv9lfk7r"
         }
       ],
       "langvarig": false,
@@ -1656,7 +1613,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/fncy478lctthnvj/2026-11-08/jag-ar-carola-en-musikalisk-unik-livsberattelse",
-          "biljetter": "https://secure.tickster.com/sv/fncy478lctthnvj"
+          "biljetter": "https://secure.tickster.com/fncy478lctthnvj"
         }
       ],
       "langvarig": false,
@@ -1681,7 +1638,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/3kpne7exwtlge3l/2026-11-11/happy-birthday-neil-young",
-          "biljetter": "https://secure.tickster.com/sv/3kpne7exwtlge3l"
+          "biljetter": "https://secure.tickster.com/3kpne7exwtlge3l"
         }
       ],
       "langvarig": false,
@@ -1706,7 +1663,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/hu3dyzhnhg35bvt/2026-11-11/rotting-christ-and-grand-harvest",
-          "biljetter": "https://secure.tickster.com/sv/hu3dyzhnhg35bvt"
+          "biljetter": "https://secure.tickster.com/hu3dyzhnhg35bvt"
         }
       ],
       "langvarig": false,
@@ -1722,7 +1679,10 @@
           "rotting christ",
           "metal",
           "håtdrock",
-          "dösmetal"
+          "dösmetal",
+          "skrikhult",
+          "rock",
+          "grand harvest"
         ]
       }
     },
@@ -1745,7 +1705,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/7t555zhjtwlcfww/2026-11-12/visning-historiska-uppsalavyer",
-          "biljetter": "https://secure.tickster.com/sv/7t555zhjtwlcfww"
+          "biljetter": "https://secure.tickster.com/7t555zhjtwlcfww"
         }
       ],
       "langvarig": false,
@@ -1768,7 +1728,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/lldm69e514y6chn/2026-11-12/slow-riffs-five-stages-of-yes",
-          "biljetter": "https://secure.tickster.com/sv/lldm69e514y6chn"
+          "biljetter": "https://secure.tickster.com/lldm69e514y6chn"
         }
       ],
       "langvarig": false,
@@ -1794,7 +1754,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/n058199npjlghnn/2026-11-12/the-simon-and-garfunkel-story",
-          "biljetter": "https://secure.tickster.com/sv/n058199npjlghnn"
+          "biljetter": "https://secure.tickster.com/n058199npjlghnn"
         }
       ],
       "langvarig": false,
@@ -1824,7 +1784,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/7m443cyl9c54uk1/2026-11-12/happy-birthday-neil-young",
-          "biljetter": "https://secure.tickster.com/sv/7m443cyl9c54uk1"
+          "biljetter": "https://secure.tickster.com/7m443cyl9c54uk1"
         }
       ],
       "langvarig": false,
@@ -1849,7 +1809,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/agj66wep02bpn2d/2026-11-12/gerd",
-          "biljetter": "https://secure.tickster.com/sv/agj66wep02bpn2d"
+          "biljetter": "https://secure.tickster.com/agj66wep02bpn2d"
         }
       ],
       "langvarig": false,
@@ -1886,7 +1846,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/3jxaj917cyx9759/2026-11-13/mats-morgan-henrik",
-          "biljetter": "https://secure.tickster.com/sv/3jxaj917cyx9759"
+          "biljetter": "https://secure.tickster.com/3jxaj917cyx9759"
         }
       ],
       "langvarig": false,
@@ -1902,7 +1862,11 @@
           "live",
           "kaliber live",
           "östra station",
-          "martin sjöstedt  erik tengholm"
+          "martin sjöstedt & erik tengholm",
+          "mats/morgan/henrik",
+          "progg",
+          "mats",
+          "morgan"
         ]
       }
     },
@@ -1926,7 +1890,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/hd0xp7td8k4554a/2026-11-13/christoffer-nyqvist-lejonet-fran-norden",
-          "biljetter": "https://secure.tickster.com/sv/hd0xp7td8k4554a"
+          "biljetter": "https://secure.tickster.com/hd0xp7td8k4554a"
         }
       ],
       "langvarig": false,
@@ -1956,7 +1920,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/rmgj8y2mgvljcmb/2026-11-13/les-big-byrd",
-          "biljetter": "https://secure.tickster.com/sv/rmgj8y2mgvljcmb"
+          "biljetter": "https://secure.tickster.com/rmgj8y2mgvljcmb"
         }
       ],
       "langvarig": false,
@@ -1972,7 +1936,8 @@
           "les big byrd",
           "inide",
           "pop",
-          "rock"
+          "rock",
+          "luger"
         ]
       }
     },
@@ -1995,7 +1960,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/bl9nydw5a9xa9tm/2026-11-13/trinity",
-          "biljetter": "https://secure.tickster.com/sv/bl9nydw5a9xa9tm"
+          "biljetter": "https://secure.tickster.com/bl9nydw5a9xa9tm"
         }
       ],
       "langvarig": false,
@@ -2025,7 +1990,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/1a2xndbynpjnu71/2026-11-14/mats-morgan-henrik",
-          "biljetter": "https://secure.tickster.com/sv/1a2xndbynpjnu71"
+          "biljetter": "https://secure.tickster.com/1a2xndbynpjnu71"
         }
       ],
       "langvarig": false,
@@ -2041,7 +2006,12 @@
           "live",
           "kaliber live",
           "östra station",
-          "mats öberg"
+          "mats öberg",
+          "morgan ågren",
+          "henrik linder",
+          "fusion",
+          "funk",
+          "prog"
         ]
       }
     },
@@ -2064,7 +2034,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/kr8mp1x0x3ftb6x/2026-11-14/jonas-lundqvist",
-          "biljetter": "https://secure.tickster.com/sv/kr8mp1x0x3ftb6x"
+          "biljetter": "https://secure.tickster.com/kr8mp1x0x3ftb6x"
         }
       ],
       "langvarig": false,
@@ -2080,7 +2050,8 @@
           "jonas lundqvist",
           "pop",
           "indie",
-          "live nation"
+          "live nation",
+          "luger"
         ]
       }
     },
@@ -2103,7 +2074,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/f7fxnztxa068avz/2026-11-14/dessi-hietala-sveriges-samsta-norrlanning",
-          "biljetter": "https://secure.tickster.com/sv/f7fxnztxa068avz"
+          "biljetter": "https://biljett.kulturaktiebolaget.se/f7fxnztxa068avz"
         }
       ],
       "langvarig": false,
@@ -2136,7 +2107,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/jnzthcumj2pgct4/2026-11-15/filosoficafe-atmosfaren-om-vadrets-lek-och-makt",
-          "biljetter": "https://secure.tickster.com/sv/jnzthcumj2pgct4"
+          "biljetter": "https://secure.tickster.com/jnzthcumj2pgct4"
         }
       ],
       "langvarig": false,
@@ -2161,7 +2132,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/xmbljfn3fww9xtj/2026-11-17/dolda-rum-rikssalen-och-drottning-kristina",
-          "biljetter": "https://secure.tickster.com/sv/xmbljfn3fww9xtj"
+          "biljetter": "https://secure.tickster.com/xmbljfn3fww9xtj"
         }
       ],
       "langvarig": false,
@@ -2186,7 +2157,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/bjv49wfceyjyeef/2026-11-17/moonica-mac",
-          "biljetter": "https://secure.tickster.com/sv/bjv49wfceyjyeef"
+          "biljetter": "https://secure.tickster.com/bjv49wfceyjyeef"
         }
       ],
       "langvarig": false,
@@ -2202,7 +2173,8 @@
           "moonica mac",
           "pop",
           "indie",
-          "elektroniskt"
+          "elektroniskt",
+          "sustanable punk"
         ]
       }
     },
@@ -2225,7 +2197,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/m0rm9z5jkwphx10/2026-11-17/mathilde-deborah-bakfickan",
-          "biljetter": "https://secure.tickster.com/sv/m0rm9z5jkwphx10"
+          "biljetter": "https://secure.tickster.com/m0rm9z5jkwphx10"
         }
       ],
       "langvarig": false,
@@ -2257,7 +2229,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/93lgrljfzgyhazj/2026-11-18/moonica-mac-extrakonsert",
-          "biljetter": "https://secure.tickster.com/sv/93lgrljfzgyhazj"
+          "biljetter": "https://secure.tickster.com/93lgrljfzgyhazj"
         }
       ],
       "langvarig": false,
@@ -2273,7 +2245,8 @@
           "moonica mac",
           "indie",
           "pop",
-          "elektroniskt"
+          "elektroniskt",
+          "sustanble punk"
         ]
       }
     },
@@ -2296,7 +2269,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/kb7m0pnpp34l20x/2026-11-18/klas-toresson-konsert-och-jamsession",
-          "biljetter": "https://secure.tickster.com/sv/kb7m0pnpp34l20x"
+          "biljetter": "https://secure.tickster.com/kb7m0pnpp34l20x"
         }
       ],
       "langvarig": false,
@@ -2322,7 +2295,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/6rd9lm2gtxk9ugn/2026-11-19/det-ideala-vad-ar-en-plats",
-          "biljetter": "https://secure.tickster.com/sv/6rd9lm2gtxk9ugn"
+          "biljetter": "https://secure.tickster.com/6rd9lm2gtxk9ugn"
         }
       ],
       "langvarig": false,
@@ -2352,7 +2325,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/618l7xcrt50lw63/2026-11-19/visning-drottning-kristina-and-konstverket-fly-fri",
-          "biljetter": "https://secure.tickster.com/sv/618l7xcrt50lw63"
+          "biljetter": "https://secure.tickster.com/618l7xcrt50lw63"
         }
       ],
       "langvarig": false,
@@ -2375,7 +2348,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/w4ml1mwgut1xby1/2026-11-19/konsert-alva-press-kvartett",
-          "biljetter": "https://secure.tickster.com/sv/w4ml1mwgut1xby1"
+          "biljetter": "https://secure.tickster.com/w4ml1mwgut1xby1"
         }
       ],
       "langvarig": false,
@@ -2401,7 +2374,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/lbf49tfupxa3z0z/2026-11-19/groove",
-          "biljetter": "https://secure.tickster.com/sv/lbf49tfupxa3z0z"
+          "biljetter": "https://secure.tickster.com/lbf49tfupxa3z0z"
         }
       ],
       "langvarig": false,
@@ -2432,7 +2405,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/n8zvr142drx3cya/2026-11-19/ana-moura-fado-utan-granser",
-          "biljetter": "https://secure.tickster.com/sv/n8zvr142drx3cya"
+          "biljetter": "https://secure.tickster.com/n8zvr142drx3cya"
         }
       ],
       "langvarig": false,
@@ -2462,7 +2435,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/jbxpthwt3hz4nv2/2026-11-19/atomic-swing",
-          "biljetter": "https://secure.tickster.com/sv/jbxpthwt3hz4nv2"
+          "biljetter": "https://secure.tickster.com/jbxpthwt3hz4nv2"
         }
       ],
       "langvarig": false,
@@ -2499,7 +2472,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/p2z000mu1akw1p1/2026-11-20/uppland-i-forskningen",
-          "biljetter": "https://secure.tickster.com/sv/p2z000mu1akw1p1"
+          "biljetter": "https://secure.tickster.com/p2z000mu1akw1p1"
         }
       ],
       "langvarig": false,
@@ -2530,7 +2503,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/uzkc89k7ez5zrn9/2026-11-20/lunchkonsert-enkel-vacker-om",
-          "biljetter": "https://secure.tickster.com/sv/uzkc89k7ez5zrn9"
+          "biljetter": "https://secure.tickster.com/uzkc89k7ez5zrn9"
         }
       ],
       "langvarig": false,
@@ -2561,7 +2534,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/w1fhg0kklbgwkv5/2026-11-20/hansson-de-wolfe-united",
-          "biljetter": "https://secure.tickster.com/sv/w1fhg0kklbgwkv5"
+          "biljetter": "https://secure.tickster.com/w1fhg0kklbgwkv5"
         }
       ],
       "langvarig": false,
@@ -2586,7 +2559,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/njg90jma3embk0c/2026-11-20/en-kvall-pa-operan",
-          "biljetter": "https://secure.tickster.com/sv/njg90jma3embk0c"
+          "biljetter": "https://secure.tickster.com/njg90jma3embk0c"
         }
       ],
       "langvarig": false,
@@ -2618,7 +2591,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/vtd7m1f2dbkb92e/2026-11-20/hardline",
-          "biljetter": "https://secure.tickster.com/sv/vtd7m1f2dbkb92e"
+          "biljetter": "https://secure.tickster.com/vtd7m1f2dbkb92e"
         }
       ],
       "langvarig": false,
@@ -2656,7 +2629,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/p0f85rd2utcn7b5/2026-11-20/pascal",
-          "biljetter": "https://secure.tickster.com/sv/p0f85rd2utcn7b5"
+          "biljetter": "https://secure.tickster.com/p0f85rd2utcn7b5"
         }
       ],
       "langvarig": false,
@@ -2672,7 +2645,9 @@
           "pascal",
           "headstomp",
           "indie",
-          "rock"
+          "rock",
+          "pop",
+          "garage"
         ]
       }
     },
@@ -2696,7 +2671,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/83a2gr80uxzaet2/2026-11-21/saffransmysteriet-lassemajas-detektivbyra",
-          "biljetter": "https://secure.tickster.com/sv/83a2gr80uxzaet2"
+          "biljetter": "https://secure.tickster.com/83a2gr80uxzaet2"
         }
       ],
       "langvarig": false,
@@ -2727,7 +2702,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/zxtda4nfhuafn6t/2026-11-21/saffransmysteriet-lassemajas-detektivbyra",
-          "biljetter": "https://secure.tickster.com/sv/zxtda4nfhuafn6t"
+          "biljetter": "https://secure.tickster.com/zxtda4nfhuafn6t"
         }
       ],
       "langvarig": false,
@@ -2758,7 +2733,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/th6r0ntr7lzp04e/2026-11-21/saffransmysteriet-lassemajas-detektivbyra",
-          "biljetter": "https://secure.tickster.com/sv/th6r0ntr7lzp04e"
+          "biljetter": "https://secure.tickster.com/th6r0ntr7lzp04e"
         }
       ],
       "langvarig": false,
@@ -2788,7 +2763,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/5x7n0zky1873a5r/2026-11-21/hostkonsert-team-putte-uppsala",
-          "biljetter": "https://secure.tickster.com/sv/5x7n0zky1873a5r"
+          "biljetter": "https://secure.tickster.com/5x7n0zky1873a5r"
         }
       ],
       "langvarig": false,
@@ -2822,7 +2797,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/dca4ve7tbt6fapc/2026-11-21/aron",
-          "biljetter": "https://secure.tickster.com/sv/dca4ve7tbt6fapc"
+          "biljetter": "https://secure.tickster.com/dca4ve7tbt6fapc"
         }
       ],
       "langvarig": false,
@@ -2838,7 +2813,9 @@
           "live",
           "kaliber live",
           "östra station",
-          "aron"
+          "aron",
+          "pop",
+          "talang"
         ]
       }
     },
@@ -2862,7 +2839,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/r3bvjlc43u2zf45/2026-11-21/per-andersson-kardborreshowen",
-          "biljetter": "https://secure.tickster.com/sv/r3bvjlc43u2zf45"
+          "biljetter": "https://secure.tickster.com/r3bvjlc43u2zf45"
         }
       ],
       "langvarig": false,
@@ -2892,7 +2869,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/lyteel2l67pdxfr/2026-11-21/uppsala-blues-festival",
-          "biljetter": "https://secure.tickster.com/sv/lyteel2l67pdxfr"
+          "biljetter": "https://secure.tickster.com/lyteel2l67pdxfr"
         }
       ],
       "langvarig": false,
@@ -2917,7 +2894,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/d68bdjx9zu6uh44/2026-11-21/shadows-tribute-katalins-bakficka",
-          "biljetter": "https://secure.tickster.com/sv/d68bdjx9zu6uh44"
+          "biljetter": "https://secure.tickster.com/d68bdjx9zu6uh44"
         }
       ],
       "langvarig": false,
@@ -2950,7 +2927,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/tj424z35xyaz0w6/2026-11-21/200-dagars-glow",
-          "biljetter": "https://secure.tickster.com/sv/tj424z35xyaz0w6"
+          "biljetter": "https://secure.tickster.com/tj424z35xyaz0w6"
         }
       ],
       "langvarig": false,
@@ -2976,7 +2953,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/cxjuc093yvbnyul/2026-11-22/poste-restante-22-11",
-          "biljetter": "https://secure.tickster.com/sv/cxjuc093yvbnyul"
+          "biljetter": "https://secure.tickster.com/cxjuc093yvbnyul"
         }
       ],
       "langvarig": false,
@@ -3007,7 +2984,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/uj90utypjpun05a/2026-11-22/niklas-stromstedt-tyck-om-mig",
-          "biljetter": "https://secure.tickster.com/sv/uj90utypjpun05a"
+          "biljetter": "https://secure.tickster.com/uj90utypjpun05a"
         }
       ],
       "langvarig": false,
@@ -3035,7 +3012,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/rfc3uc9t99w1eh0/2026-11-22/lovis",
-          "biljetter": "https://secure.tickster.com/sv/rfc3uc9t99w1eh0"
+          "biljetter": "https://secure.tickster.com/rfc3uc9t99w1eh0"
         }
       ],
       "langvarig": false,
@@ -3069,7 +3046,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/at8082h188t3j42/2026-11-25/songs-of-love-and-comfort",
-          "biljetter": "https://secure.tickster.com/sv/at8082h188t3j42"
+          "biljetter": "https://secure.tickster.com/at8082h188t3j42"
         }
       ],
       "langvarig": false,
@@ -3085,7 +3062,10 @@
           "live",
           "kaliber live",
           "östra station",
-          "martin sjöstedt  erik tengholm"
+          "martin sjöstedt & erik tengholm",
+          "anna widing",
+          "bengan janson",
+          "lennart simonsson"
         ]
       }
     },
@@ -3108,7 +3088,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/dxfaf6fvbvyz4tz/2026-11-25/den-eviga-ungdomens-stad-rimeika-hyllar-uppsala",
-          "biljetter": "https://secure.tickster.com/sv/dxfaf6fvbvyz4tz"
+          "biljetter": "https://secure.tickster.com/dxfaf6fvbvyz4tz"
         }
       ],
       "langvarig": false,
@@ -3139,41 +3119,11 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/bt0h780evxam345/2026-11-26/sopplunch-carl-fredrik-hill-vi-foljer-dina-spar",
-          "biljetter": "https://secure.tickster.com/sv/bt0h780evxam345"
+          "biljetter": "https://secure.tickster.com/bt0h780evxam345"
         }
       ],
       "langvarig": false,
       "installd": false
-    },
-    {
-      "id": "tickster-r61x43pmf68p8zj",
-      "titel": "Torsdagskul - Tema: Solsystemet (26/11 & 3/12)",
-      "start": "2026-11-26T14:30:00+01:00",
-      "slut": "2026-12-03T15:30:00+01:00",
-      "plats": {
-        "namn": "Biotopia",
-        "id": "biotopia",
-        "lat": 59.8601,
-        "lng": 17.6223
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/r61x43pmf68p8zj/2026-11-26/torsdagskul-tema-solsystemet-26-11-and-3-12",
-          "biljetter": "https://secure.tickster.com/sv/r61x43pmf68p8zj"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "torsdagskul"
-        ]
-      }
     },
     {
       "id": "tickster-13v7ayry6hfx492",
@@ -3192,7 +3142,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/13v7ayry6hfx492/2026-11-26/konst-and-bar-grafik-och-keramik",
-          "biljetter": "https://secure.tickster.com/sv/13v7ayry6hfx492"
+          "biljetter": "https://secure.tickster.com/13v7ayry6hfx492"
         }
       ],
       "langvarig": false,
@@ -3217,7 +3167,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/1xxrv9tgpg4bw8f/2026-11-26/history-and-bar-nordens-modernaste-fastning",
-          "biljetter": "https://secure.tickster.com/sv/1xxrv9tgpg4bw8f"
+          "biljetter": "https://secure.tickster.com/1xxrv9tgpg4bw8f"
         }
       ],
       "langvarig": false,
@@ -3243,7 +3193,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/mfa1udu502x141m/2026-11-26/city-lights-uppsala-kammarorkester",
-          "biljetter": "https://secure.tickster.com/sv/mfa1udu502x141m"
+          "biljetter": "https://secure.tickster.com/mfa1udu502x141m"
         }
       ],
       "langvarig": false,
@@ -3271,7 +3221,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/4wm772axpl1pc9n/2026-11-26/live-podcast-sammanvavda-livsvarldar",
-          "biljetter": "https://secure.tickster.com/sv/4wm772axpl1pc9n"
+          "biljetter": "https://secure.tickster.com/4wm772axpl1pc9n"
         }
       ],
       "langvarig": false,
@@ -3296,7 +3246,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/8xf2tkzkgdprvd9/2026-11-26/mia-karlsson-coming-home-tour-2026",
-          "biljetter": "https://secure.tickster.com/sv/8xf2tkzkgdprvd9"
+          "biljetter": "https://biljett.kulturaktiebolaget.se/8xf2tkzkgdprvd9"
         }
       ],
       "langvarig": false,
@@ -3331,7 +3281,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/f2b1p11merey76h/2026-11-26/den-svenska-bjornstammen",
-          "biljetter": "https://secure.tickster.com/sv/f2b1p11merey76h"
+          "biljetter": "https://secure.tickster.com/f2b1p11merey76h"
         }
       ],
       "langvarig": false,
@@ -3347,7 +3297,9 @@
           "den svenska björnstammen",
           "unitedstage",
           "pop",
-          "indie"
+          "indie",
+          "dansmusik",
+          "elektroniskt"
         ]
       }
     },
@@ -3371,7 +3323,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/wxjdebfv4l3kght/2026-11-27/framtidsdagen-2026-se-langre-an-alla-andra",
-          "biljetter": "https://secure.tickster.com/sv/wxjdebfv4l3kght"
+          "biljetter": "https://secure.tickster.com/wxjdebfv4l3kght"
         }
       ],
       "langvarig": false,
@@ -3401,7 +3353,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/p3r6wnt9aj2vb5t/2026-11-27/olprovning-27-november",
-          "biljetter": "https://secure.tickster.com/sv/p3r6wnt9aj2vb5t"
+          "biljetter": "https://secure.tickster.com/p3r6wnt9aj2vb5t"
         }
       ],
       "langvarig": false,
@@ -3435,7 +3387,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ytny4jyvdvwcuun/2026-11-27/olprovning-18-december",
-          "biljetter": "https://secure.tickster.com/sv/ytny4jyvdvwcuun"
+          "biljetter": "https://secure.tickster.com/ytny4jyvdvwcuun"
         }
       ],
       "langvarig": false,
@@ -3469,7 +3421,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/dypwy88b3nyd7xl/2026-11-27/den-svenska-bjornstammen",
-          "biljetter": "https://secure.tickster.com/sv/dypwy88b3nyd7xl"
+          "biljetter": "https://secure.tickster.com/dypwy88b3nyd7xl"
         }
       ],
       "langvarig": false,
@@ -3485,7 +3437,9 @@
           "den svenska björnstammen",
           "unitedstage",
           "pop",
-          "indie"
+          "indie",
+          "eletroniskt",
+          "dansmusik"
         ]
       }
     },
@@ -3508,7 +3462,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/3adxb3zp82edf3r/2026-11-27/gustavz-orkester-bakfickan",
-          "biljetter": "https://secure.tickster.com/sv/3adxb3zp82edf3r"
+          "biljetter": "https://secure.tickster.com/3adxb3zp82edf3r"
         }
       ],
       "langvarig": false,
@@ -3545,7 +3499,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/x8k0b610pnll0gp/2026-11-27/evigt-edvin-edvin-tornblom",
-          "biljetter": "https://secure.tickster.com/sv/x8k0b610pnll0gp"
+          "biljetter": "https://secure.tickster.com/x8k0b610pnll0gp"
         }
       ],
       "langvarig": false,
@@ -3573,7 +3527,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ktwbd5xwakarg07/2026-11-27/oktoberfest-200dagars-flustret",
-          "biljetter": "https://secure.tickster.com/sv/ktwbd5xwakarg07"
+          "biljetter": "https://secure.tickster.com/ktwbd5xwakarg07"
         }
       ],
       "langvarig": false,
@@ -3604,7 +3558,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/4zmlk10e3xnlfj2/2026-11-28/familjelordag-mala-sjalvportratt-fran-5-ar",
-          "biljetter": "https://secure.tickster.com/sv/4zmlk10e3xnlfj2"
+          "biljetter": "https://secure.tickster.com/4zmlk10e3xnlfj2"
         }
       ],
       "langvarig": false,
@@ -3627,7 +3581,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/dxz62jf2rm6akcz/2026-11-28/jul-pa-slottet-med-allmanna-sangen-lor-kl-17",
-          "biljetter": "https://secure.tickster.com/sv/dxz62jf2rm6akcz"
+          "biljetter": "https://secure.tickster.com/dxz62jf2rm6akcz"
         }
       ],
       "langvarig": false,
@@ -3664,7 +3618,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/yag7vm5ypkr2pgp/2026-11-28/i-ett-vinterland",
-          "biljetter": "https://secure.tickster.com/sv/yag7vm5ypkr2pgp"
+          "biljetter": "https://secure.tickster.com/yag7vm5ypkr2pgp"
         }
       ],
       "langvarig": false,
@@ -3695,7 +3649,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/tb2gnm1jzu5ph5v/2026-11-28/vivian-buczek-quartet",
-          "biljetter": "https://secure.tickster.com/sv/tb2gnm1jzu5ph5v"
+          "biljetter": "https://secure.tickster.com/tb2gnm1jzu5ph5v"
         }
       ],
       "langvarig": false,
@@ -3711,7 +3665,8 @@
           "live",
           "kaliber live",
           "östra station",
-          "martin sjöstedt  erik tengholm"
+          "martin sjöstedt & erik tengholm",
+          "vivian buczek"
         ]
       }
     },
@@ -3734,7 +3689,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/zj9z073x7lux5jm/2026-11-28/maggie-reilly-and-cutting-crew-trio",
-          "biljetter": "https://secure.tickster.com/sv/zj9z073x7lux5jm"
+          "biljetter": "https://secure.tickster.com/zj9z073x7lux5jm"
         }
       ],
       "langvarig": false,
@@ -3750,7 +3705,9 @@
           "maggie reilly",
           "cutting crew trio",
           "80s",
-          "pop"
+          "pop",
+          "rock",
+          "a-star"
         ]
       }
     },
@@ -3773,7 +3730,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/hnvxczyuh19axt4/2026-11-28/pepperbyrds-pa-katalins-bakficka",
-          "biljetter": "https://secure.tickster.com/sv/hnvxczyuh19axt4"
+          "biljetter": "https://secure.tickster.com/hnvxczyuh19axt4"
         }
       ],
       "langvarig": false,
@@ -3803,7 +3760,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/944n6ccvvhv5hv4/2026-11-28/nostalgiklubben",
-          "biljetter": "https://secure.tickster.com/sv/944n6ccvvhv5hv4"
+          "biljetter": "https://secure.tickster.com/944n6ccvvhv5hv4"
         }
       ],
       "langvarig": false,
@@ -3834,7 +3791,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/pef17flbnxgxk4z/2026-11-29/jul-pa-slottet-med-allmanna-sangen-son-kl-14",
-          "biljetter": "https://secure.tickster.com/sv/pef17flbnxgxk4z"
+          "biljetter": "https://secure.tickster.com/pef17flbnxgxk4z"
         }
       ],
       "langvarig": false,
@@ -3873,7 +3830,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/uupp1n1az1tbb3y/2026-11-29/sirius-vs-vetlanda-ibf",
-          "biljetter": "https://secure.tickster.com/sv/uupp1n1az1tbb3y"
+          "biljetter": "https://secure.tickster.com/uupp1n1az1tbb3y"
         }
       ],
       "langvarig": false,
@@ -3899,7 +3856,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/vb32w5zdxu5a0a1/2026-11-29/notknapparen-med-international-festival-ballet",
-          "biljetter": "https://secure.tickster.com/sv/vb32w5zdxu5a0a1"
+          "biljetter": "https://secure.tickster.com/vb32w5zdxu5a0a1"
         }
       ],
       "langvarig": false,
@@ -3927,7 +3884,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/pzrhwpdvkwznbpy/2026-11-29/jul-pa-slottet-med-allmanna-sangen-son-kl-17",
-          "biljetter": "https://secure.tickster.com/sv/pzrhwpdvkwznbpy"
+          "biljetter": "https://secure.tickster.com/pzrhwpdvkwznbpy"
         }
       ],
       "langvarig": false,
@@ -3967,7 +3924,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/4rrya293mdgu5xd/2026-11-30/christmas-in-ireland",
-          "biljetter": "https://secure.tickster.com/sv/4rrya293mdgu5xd"
+          "biljetter": "https://secure.tickster.com/4rrya293mdgu5xd"
         }
       ],
       "langvarig": false,
@@ -3992,7 +3949,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/94lydx74zkjz6n7/2026-12-01/daniel-lantz-quartet-ft-sara-englund",
-          "biljetter": "https://secure.tickster.com/sv/94lydx74zkjz6n7"
+          "biljetter": "https://secure.tickster.com/94lydx74zkjz6n7"
         }
       ],
       "langvarig": false,
@@ -4024,7 +3981,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/jlwt1p7cxhe5n77/2026-12-01/louise-hoffsten-en-bla-jul",
-          "biljetter": "https://secure.tickster.com/sv/jlwt1p7cxhe5n77"
+          "biljetter": "https://secure.tickster.com/jlwt1p7cxhe5n77"
         }
       ],
       "langvarig": false,
@@ -4040,7 +3997,8 @@
           "jazz",
           "blues",
           "headstomp",
-          "pop"
+          "pop",
+          "lousie hoffsten"
         ]
       }
     },
@@ -4063,7 +4021,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/6654u6zlkw7y6m7/2026-12-02/konsert-drottningens-virtuoser",
-          "biljetter": "https://secure.tickster.com/sv/6654u6zlkw7y6m7"
+          "biljetter": "https://secure.tickster.com/6654u6zlkw7y6m7"
         }
       ],
       "langvarig": false,
@@ -4089,7 +4047,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/cglvjnx0d3rd7x9/2026-12-02/toussaint-chiza",
-          "biljetter": "https://secure.tickster.com/sv/cglvjnx0d3rd7x9"
+          "biljetter": "https://secure.tickster.com/cglvjnx0d3rd7x9"
         }
       ],
       "langvarig": false,
@@ -4119,7 +4077,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/8g8b38tkxtlz0a8/2026-12-02/amanda-ginsburg-det-ar-jul-nu-igen",
-          "biljetter": "https://secure.tickster.com/sv/8g8b38tkxtlz0a8"
+          "biljetter": "https://secure.tickster.com/8g8b38tkxtlz0a8"
         }
       ],
       "langvarig": false,
@@ -4157,7 +4115,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/x5x5dy9ab9a89jy/2026-12-02/livets-orkester-i-bakfickan",
-          "biljetter": "https://secure.tickster.com/sv/x5x5dy9ab9a89jy"
+          "biljetter": "https://secure.tickster.com/x5x5dy9ab9a89jy"
         }
       ],
       "langvarig": false,
@@ -4191,7 +4149,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/74b9bpdvmg68pl8/2026-12-03/installt-kulturfrukost-klimatsmart-kultur",
-          "biljetter": "https://secure.tickster.com/sv/74b9bpdvmg68pl8"
+          "biljetter": "https://secure.tickster.com/74b9bpdvmg68pl8"
         }
       ],
       "langvarig": false,
@@ -4222,7 +4180,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/pdngmntpcm5ftrb/2026-12-03/seinabo-sey",
-          "biljetter": "https://secure.tickster.com/sv/pdngmntpcm5ftrb"
+          "biljetter": "https://secure.tickster.com/pdngmntpcm5ftrb"
         }
       ],
       "langvarig": false,
@@ -4247,7 +4205,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/c5mwgtfxmh27cma/2026-12-03/froken-elvis-jul",
-          "biljetter": "https://secure.tickster.com/sv/c5mwgtfxmh27cma"
+          "biljetter": "https://secure.tickster.com/c5mwgtfxmh27cma"
         }
       ],
       "langvarig": false,
@@ -4263,7 +4221,9 @@
           "jul",
           "musik",
           "konsert",
-          "live"
+          "live",
+          "pop",
+          "rock"
         ]
       }
     },
@@ -4287,7 +4247,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/m1yg424yr7bkpeh/2026-12-04/christmas-night",
-          "biljetter": "https://secure.tickster.com/sv/m1yg424yr7bkpeh"
+          "biljetter": "https://secure.tickster.com/m1yg424yr7bkpeh"
         }
       ],
       "langvarig": false,
@@ -4317,7 +4277,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/wvbb07338wr1fzt/2026-12-04/julen-enligt-timo-uppsala",
-          "biljetter": "https://secure.tickster.com/sv/wvbb07338wr1fzt"
+          "biljetter": "https://biljett.kulturaktiebolaget.se/wvbb07338wr1fzt"
         }
       ],
       "langvarig": false,
@@ -4353,7 +4313,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/hr4k0nrulzxhhd7/2026-12-04/the-fantastic-four-a-motown-christmas-uppsala",
-          "biljetter": "https://secure.tickster.com/sv/hr4k0nrulzxhhd7"
+          "biljetter": "https://biljett.kulturaktiebolaget.se/hr4k0nrulzxhhd7"
         }
       ],
       "langvarig": false,
@@ -4387,32 +4347,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/rxmu5d6epf1512z/2026-12-05/card-summit-uppsala",
-          "biljetter": "https://secure.tickster.com/sv/rxmu5d6epf1512z"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-bet7hjhk3vn7tej",
-      "titel": "Caprice 2026",
-      "start": "2026-12-05T13:00:00+01:00",
-      "slut": "2026-12-05T15:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala Universitets Aula",
-        "id": "tickster-plats-r805egmtwbn5bcy",
-        "lat": 59.8566,
-        "lng": 17.6282
-      },
-      "kategori": "ovrigt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/bet7hjhk3vn7tej/2026-12-05/caprice-2026",
-          "biljetter": "https://secure.tickster.com/sv/bet7hjhk3vn7tej"
+          "biljetter": "https://secure.tickster.com/rxmu5d6epf1512z"
         }
       ],
       "langvarig": false,
@@ -4437,7 +4372,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/glvtmlgvh76pp3a/2026-12-05/caprice-2026-lo-5-dec-13-00",
-          "biljetter": "https://secure.tickster.com/sv/glvtmlgvh76pp3a"
+          "biljetter": "https://secure.tickster.com/glvtmlgvh76pp3a"
         }
       ],
       "langvarig": false,
@@ -4461,7 +4396,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/8gx1caf6umuzre4/2026-12-05/exklusiv-julmiddag-i-magisk-miljo",
-          "biljetter": "https://secure.tickster.com/sv/8gx1caf6umuzre4"
+          "biljetter": "https://secure.tickster.com/8gx1caf6umuzre4"
         }
       ],
       "langvarig": false,
@@ -4492,7 +4427,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/5xnxdpdt8cxz425/2026-12-05/caprice-2026-lo-5-dec-16-00",
-          "biljetter": "https://secure.tickster.com/sv/5xnxdpdt8cxz425"
+          "biljetter": "https://secure.tickster.com/5xnxdpdt8cxz425"
         }
       ],
       "langvarig": false,
@@ -4518,7 +4453,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/49b3lg68zpnvcbn/2026-12-05/isprinsessan-julbalett-med-strakkvartett",
-          "biljetter": "https://secure.tickster.com/sv/49b3lg68zpnvcbn"
+          "biljetter": "https://secure.tickster.com/49b3lg68zpnvcbn"
         }
       ],
       "langvarig": false,
@@ -4549,7 +4484,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/k4pt35ml013fupk/2026-12-05/anna-heikkinen-and-langtans-kapell",
-          "biljetter": "https://secure.tickster.com/sv/k4pt35ml013fupk"
+          "biljetter": "https://secure.tickster.com/k4pt35ml013fupk"
         }
       ],
       "langvarig": false,
@@ -4577,7 +4512,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/612d5a0zwx467e7/2026-12-05/daniel-karlssson-trio",
-          "biljetter": "https://secure.tickster.com/sv/612d5a0zwx467e7"
+          "biljetter": "https://secure.tickster.com/612d5a0zwx467e7"
         }
       ],
       "langvarig": false,
@@ -4593,7 +4528,8 @@
           "live",
           "kaliber live",
           "östra station",
-          "martin sjöstedt  erik tengholm"
+          "martin sjöstedt & erik tengholm",
+          "daniel karlssson"
         ]
       }
     },
@@ -4616,7 +4552,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/jz54x83e4617292/2026-12-05/pernilla-andersson-vintersanger-fran-garbo",
-          "biljetter": "https://secure.tickster.com/sv/jz54x83e4617292"
+          "biljetter": "https://secure.tickster.com/jz54x83e4617292"
         }
       ],
       "langvarig": false,
@@ -4632,7 +4568,8 @@
           "visa",
           "akustiskt",
           "musik",
-          "konsert"
+          "konsert",
+          "live"
         ]
       }
     },
@@ -4655,7 +4592,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/rah561y9xppak5k/2026-12-05/the-blues-uppsala-bergman-blues",
-          "biljetter": "https://secure.tickster.com/sv/rah561y9xppak5k"
+          "biljetter": "https://secure.tickster.com/rah561y9xppak5k"
         }
       ],
       "langvarig": false,
@@ -4680,7 +4617,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/n36v330rk1utg68/2026-12-06/caprice-2026-so-6-dec-13-00",
-          "biljetter": "https://secure.tickster.com/sv/n36v330rk1utg68"
+          "biljetter": "https://secure.tickster.com/n36v330rk1utg68"
         }
       ],
       "langvarig": false,
@@ -4703,7 +4640,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/mfpb2td9dza5c6h/2026-12-06/dans-itnos",
-          "biljetter": "https://secure.tickster.com/sv/mfpb2td9dza5c6h"
+          "biljetter": "https://secure.tickster.com/mfpb2td9dza5c6h"
         }
       ],
       "langvarig": false,
@@ -4728,7 +4665,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/upf7tl4zpt54rug/2026-12-06/caprice-2026-so-6-dec-16-00",
-          "biljetter": "https://secure.tickster.com/sv/upf7tl4zpt54rug"
+          "biljetter": "https://secure.tickster.com/upf7tl4zpt54rug"
         }
       ],
       "langvarig": false,
@@ -4753,7 +4690,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/9la5g9mx066r8mv/2026-12-06/caprice-2026-so-6-dec-19-30",
-          "biljetter": "https://secure.tickster.com/sv/9la5g9mx066r8mv"
+          "biljetter": "https://secure.tickster.com/9la5g9mx066r8mv"
         }
       ],
       "langvarig": false,
@@ -4778,7 +4715,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/czjjmycfzd0438r/2026-12-07/dolda-rum-rikssalen-och-drottning-kristina",
-          "biljetter": "https://secure.tickster.com/sv/czjjmycfzd0438r"
+          "biljetter": "https://secure.tickster.com/czjjmycfzd0438r"
         }
       ],
       "langvarig": false,
@@ -4801,7 +4738,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/6u1pbpuygf6h62g/2026-12-07/en-julkvall-med-joback",
-          "biljetter": "https://secure.tickster.com/sv/6u1pbpuygf6h62g"
+          "biljetter": "https://secure.tickster.com/6u1pbpuygf6h62g"
         }
       ],
       "langvarig": false,
@@ -4817,7 +4754,10 @@
           "jöback",
           "julkonsert",
           "jul",
-          "jubel"
+          "jubel",
+          "peter jöback",
+          "snö",
+          "mys"
         ]
       }
     },
@@ -4840,7 +4780,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ur67mwry64zh24r/2026-12-08/uujo-swinging-christmas",
-          "biljetter": "https://secure.tickster.com/sv/ur67mwry64zh24r"
+          "biljetter": "https://secure.tickster.com/ur67mwry64zh24r"
         }
       ],
       "langvarig": false,
@@ -4850,38 +4790,6 @@
           "katalinuppsala",
           "katalinsbakficka",
           "uujo"
-        ]
-      }
-    },
-    {
-      "id": "tickster-d0rb9tjhm3fggbt",
-      "titel": "Jul med Cirkus Cirkör: Årets mest oväntade julbord",
-      "start": "2026-12-09T18:30:00+01:00",
-      "slut": "2026-12-12T22:30:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8611,
-        "lng": 17.6458,
-        "rum": "Restaurangen/Sal D"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/d0rb9tjhm3fggbt/2026-12-09/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord",
-          "biljetter": "https://secure.tickster.com/sv/d0rb9tjhm3fggbt"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "jul",
-          "cirkus"
         ]
       }
     },
@@ -4905,7 +4813,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/w96v0u2kpy9j66g/2026-12-09/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord",
-          "biljetter": "https://secure.tickster.com/sv/w96v0u2kpy9j66g"
+          "biljetter": "https://secure.tickster.com/w96v0u2kpy9j66g"
         }
       ],
       "langvarig": false,
@@ -4934,7 +4842,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/3t5m7pt0g4yp81p/2026-12-09/mats-holmquist-och-strix-big-band",
-          "biljetter": "https://secure.tickster.com/sv/3t5m7pt0g4yp81p"
+          "biljetter": "https://secure.tickster.com/3t5m7pt0g4yp81p"
         }
       ],
       "langvarig": false,
@@ -4950,7 +4858,9 @@
           "live",
           "kaliber live",
           "östra station",
-          "martin sjöstedt  erik tengholm"
+          "martin sjöstedt & erik tengholm",
+          "mats holmquist och strix big band",
+          "storband"
         ]
       }
     },
@@ -4974,7 +4884,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/51xl39d12h5mrvt/2026-12-09/julkonsert-med-romeo-and-julia-koren",
-          "biljetter": "https://secure.tickster.com/sv/51xl39d12h5mrvt"
+          "biljetter": "https://secure.tickster.com/51xl39d12h5mrvt"
         }
       ],
       "langvarig": false,
@@ -5005,7 +4915,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/c7c2latx1g4m045/2026-12-09/weeping-willows-christmas",
-          "biljetter": "https://secure.tickster.com/sv/c7c2latx1g4m045"
+          "biljetter": "https://secure.tickster.com/c7c2latx1g4m045"
         }
       ],
       "langvarig": false,
@@ -5035,7 +4945,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/h029ng1tbzhfndg/2026-12-09/markus-ahlberg-konsert-och-jamsession",
-          "biljetter": "https://secure.tickster.com/sv/h029ng1tbzhfndg"
+          "biljetter": "https://secure.tickster.com/h029ng1tbzhfndg"
         }
       ],
       "langvarig": false,
@@ -5067,7 +4977,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ft7xpcb55hl2v47/2026-12-10/torsdagskul-avslutning-nobelfest",
-          "biljetter": "https://secure.tickster.com/sv/ft7xpcb55hl2v47"
+          "biljetter": "https://secure.tickster.com/ft7xpcb55hl2v47"
         }
       ],
       "langvarig": false,
@@ -5098,7 +5008,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/nm7ztxm7vk8nlm7/2026-12-10/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord",
-          "biljetter": "https://secure.tickster.com/sv/nm7ztxm7vk8nlm7"
+          "biljetter": "https://secure.tickster.com/nm7ztxm7vk8nlm7"
         }
       ],
       "langvarig": false,
@@ -5130,7 +5040,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ghdvw7t98l58vlz/2026-12-10/thomas-jarvheden-sveriges-roligaste-julkonsert",
-          "biljetter": "https://secure.tickster.com/sv/ghdvw7t98l58vlz"
+          "biljetter": "https://secure.tickster.com/ghdvw7t98l58vlz"
         }
       ],
       "langvarig": false,
@@ -5162,7 +5072,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/9a0dk1k2upn6lw9/2026-12-10/julkonsert-med-romeo-and-julia-koren",
-          "biljetter": "https://secure.tickster.com/sv/9a0dk1k2upn6lw9"
+          "biljetter": "https://secure.tickster.com/9a0dk1k2upn6lw9"
         }
       ],
       "langvarig": false,
@@ -5193,7 +5103,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/b4rvuxxzejbjm42/2026-12-11/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord",
-          "biljetter": "https://secure.tickster.com/sv/b4rvuxxzejbjm42"
+          "biljetter": "https://secure.tickster.com/b4rvuxxzejbjm42"
         }
       ],
       "langvarig": false,
@@ -5225,7 +5135,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/6c67nlpz8e76g8j/2026-12-11/labero-a-magic-night",
-          "biljetter": "https://secure.tickster.com/sv/6c67nlpz8e76g8j"
+          "biljetter": "https://secure.tickster.com/6c67nlpz8e76g8j"
         }
       ],
       "langvarig": false,
@@ -5256,7 +5166,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/lkua0zxttp96r1k/2026-12-11/jul-med-franska-trion",
-          "biljetter": "https://secure.tickster.com/sv/lkua0zxttp96r1k"
+          "biljetter": "https://secure.tickster.com/lkua0zxttp96r1k"
         }
       ],
       "langvarig": false,
@@ -5287,7 +5197,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/l9jmlxtjwwcb2ba/2026-12-11/bombus-and-mass-worship",
-          "biljetter": "https://secure.tickster.com/sv/l9jmlxtjwwcb2ba"
+          "biljetter": "https://secure.tickster.com/l9jmlxtjwwcb2ba"
         }
       ],
       "langvarig": false,
@@ -5303,7 +5213,8 @@
           "bombus",
           "rock",
           "metal",
-          "hårdrock"
+          "hårdrock",
+          "mass worship"
         ]
       }
     },
@@ -5326,7 +5237,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/mpgxk6jjd77w0vn/2026-12-11/en-kvall-pa-operan",
-          "biljetter": "https://secure.tickster.com/sv/mpgxk6jjd77w0vn"
+          "biljetter": "https://secure.tickster.com/mpgxk6jjd77w0vn"
         }
       ],
       "langvarig": false,
@@ -5359,7 +5270,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/8r4h27crbvtxug8/2026-12-12/barnens-julvarld-med-nassim-al-fakir",
-          "biljetter": "https://secure.tickster.com/sv/8r4h27crbvtxug8"
+          "biljetter": "https://secure.tickster.com/8r4h27crbvtxug8"
         }
       ],
       "langvarig": false,
@@ -5390,7 +5301,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/8xzxzdl7bpaaxex/2026-12-12/jul-med-cirkus-cirkor-arets-mest-ovantade-julbord",
-          "biljetter": "https://secure.tickster.com/sv/8xzxzdl7bpaaxex"
+          "biljetter": "https://secure.tickster.com/8xzxzdl7bpaaxex"
         }
       ],
       "langvarig": false,
@@ -5422,7 +5333,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/wu8522ltuz6meuc/2026-12-12/goder-afton-mitt-herrskap-2026",
-          "biljetter": "https://secure.tickster.com/sv/wu8522ltuz6meuc"
+          "biljetter": "https://secure.tickster.com/wu8522ltuz6meuc"
         }
       ],
       "langvarig": false,
@@ -5450,7 +5361,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/7nrw6fane9t7zvr/2026-12-12/mainland-jazz-collective",
-          "biljetter": "https://secure.tickster.com/sv/7nrw6fane9t7zvr"
+          "biljetter": "https://secure.tickster.com/7nrw6fane9t7zvr"
         }
       ],
       "langvarig": false,
@@ -5466,7 +5377,8 @@
           "live",
           "kaliber live",
           "östra station",
-          "martin sjöstedt  erik tengholm"
+          "martin sjöstedt & erik tengholm",
+          "mainland jazz collective"
         ]
       }
     },
@@ -5489,7 +5401,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/4jfal2cu9uutnh8/2026-12-12/emma-and-the-dusty-roses",
-          "biljetter": "https://secure.tickster.com/sv/4jfal2cu9uutnh8"
+          "biljetter": "https://secure.tickster.com/4jfal2cu9uutnh8"
         }
       ],
       "langvarig": false,
@@ -5502,7 +5414,7 @@
           "musik",
           "konsert",
           "live",
-          "emma  the dusty roses",
+          "emma & the dusty roses",
           "country",
           "rock"
         ]
@@ -5527,7 +5439,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/jbptmjw6b7k06a0/2026-12-12/the-last-waltz",
-          "biljetter": "https://secure.tickster.com/sv/jbptmjw6b7k06a0"
+          "biljetter": "https://secure.tickster.com/jbptmjw6b7k06a0"
         }
       ],
       "langvarig": false,
@@ -5543,7 +5455,8 @@
           "konsert",
           "live",
           "the virtues",
-          "film"
+          "film",
+          "konsertfilm"
         ]
       }
     },
@@ -5564,7 +5477,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/grprr02hf50wwy7/2026-12-13/allsang-i-juletid",
-          "biljetter": "https://secure.tickster.com/sv/grprr02hf50wwy7"
+          "biljetter": "https://secure.tickster.com/grprr02hf50wwy7"
         }
       ],
       "langvarig": false,
@@ -5590,7 +5503,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/6e922edl44ke4h4/2026-12-13/west-of-eden-celtic-christmas",
-          "biljetter": "https://secure.tickster.com/sv/6e922edl44ke4h4"
+          "biljetter": "https://secure.tickster.com/6e922edl44ke4h4"
         }
       ],
       "langvarig": false,
@@ -5621,7 +5534,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/402uukunkec7cfn/2026-12-13/arvingarna-klart-det-ska-bli-jul-igen",
-          "biljetter": "https://secure.tickster.com/sv/402uukunkec7cfn"
+          "biljetter": "https://secure.tickster.com/402uukunkec7cfn"
         }
       ],
       "langvarig": false,
@@ -5650,7 +5563,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/j4t5l1a8bvxm4ea/2026-12-14/anna-lottas-jul",
-          "biljetter": "https://secure.tickster.com/sv/j4t5l1a8bvxm4ea"
+          "biljetter": "https://secure.tickster.com/j4t5l1a8bvxm4ea"
         }
       ],
       "langvarig": false,
@@ -5680,7 +5593,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/2vxg5hpyv2a43kg/2026-12-15/valter-nilsson-extrakonsert",
-          "biljetter": "https://secure.tickster.com/sv/2vxg5hpyv2a43kg"
+          "biljetter": "https://secure.tickster.com/2vxg5hpyv2a43kg"
         }
       ],
       "langvarig": false,
@@ -5696,7 +5609,9 @@
           "valter nilsson",
           "pop",
           "inide",
-          "rock"
+          "rock",
+          "göteborg",
+          "sustaniable punk"
         ]
       }
     },
@@ -5719,7 +5634,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/7bhdp3pf0ugbwuh/2026-12-16/valter-nilsson",
-          "biljetter": "https://secure.tickster.com/sv/7bhdp3pf0ugbwuh"
+          "biljetter": "https://secure.tickster.com/7bhdp3pf0ugbwuh"
         }
       ],
       "langvarig": false,
@@ -5735,7 +5650,9 @@
           "valter nilsson",
           "pop",
           "inide",
-          "rock"
+          "rock",
+          "göteborg",
+          "sustaniable punk"
         ]
       }
     },
@@ -5759,7 +5676,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/7flllwhh4f217d8/2026-12-17/julkonsert-med-armens-musikkar",
-          "biljetter": "https://secure.tickster.com/sv/7flllwhh4f217d8"
+          "biljetter": "https://secure.tickster.com/7flllwhh4f217d8"
         }
       ],
       "langvarig": false,
@@ -5787,7 +5704,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/eya6rwn357z8tf1/2026-12-17/play-it-santa",
-          "biljetter": "https://secure.tickster.com/sv/eya6rwn357z8tf1"
+          "biljetter": "https://secure.tickster.com/eya6rwn357z8tf1"
         }
       ],
       "langvarig": false,
@@ -5803,7 +5720,9 @@
           "live",
           "kaliber live",
           "östra station",
-          "play it santa"
+          "play it santa!",
+          "paul kessel",
+          "john fiske"
         ]
       }
     },
@@ -5826,7 +5745,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/72ypaj48u516nlj/2026-12-17/the-crown",
-          "biljetter": "https://secure.tickster.com/sv/72ypaj48u516nlj"
+          "biljetter": "https://secure.tickster.com/72ypaj48u516nlj"
         }
       ],
       "langvarig": false,
@@ -5866,7 +5785,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/v3z27ykmzflgvu3/2026-12-18/lunchkonsert-livet-och-musiken-julspecial",
-          "biljetter": "https://secure.tickster.com/sv/v3z27ykmzflgvu3"
+          "biljetter": "https://secure.tickster.com/v3z27ykmzflgvu3"
         }
       ],
       "langvarig": false,
@@ -5896,7 +5815,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ul04ankdb3g0wlv/2026-12-18/anders-ekborg-en-stilla-jul",
-          "biljetter": "https://secure.tickster.com/sv/ul04ankdb3g0wlv"
+          "biljetter": "https://secure.tickster.com/ul04ankdb3g0wlv"
         }
       ],
       "langvarig": false,
@@ -5927,7 +5846,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/yt68jhjvnu26gup/2026-12-18/play-it-santa",
-          "biljetter": "https://secure.tickster.com/sv/yt68jhjvnu26gup"
+          "biljetter": "https://secure.tickster.com/yt68jhjvnu26gup"
         }
       ],
       "langvarig": false,
@@ -5943,7 +5862,9 @@
           "live",
           "kaliber live",
           "östra station",
-          "play it santa"
+          "play it santa",
+          "julshow",
+          "jul"
         ]
       }
     },
@@ -5966,7 +5887,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/9vptptkw8mm6w2c/2026-12-18/junior-brielle",
-          "biljetter": "https://secure.tickster.com/sv/9vptptkw8mm6w2c"
+          "biljetter": "https://secure.tickster.com/9vptptkw8mm6w2c"
         }
       ],
       "langvarig": false,
@@ -5982,7 +5903,8 @@
           "junior brielle",
           "luger",
           "indie",
-          "pop"
+          "pop",
+          "elektorniskt"
         ]
       }
     },
@@ -6006,7 +5928,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/33a871dggzcankv/2026-12-19/hogwarts-magic-symphony-med-lords-of-the-sound",
-          "biljetter": "https://secure.tickster.com/sv/33a871dggzcankv"
+          "biljetter": "https://secure.tickster.com/33a871dggzcankv"
         }
       ],
       "langvarig": false,
@@ -6037,7 +5959,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ymgh75hb71gx76j/2026-12-19/hans-zimmers-musik-spelad-av-lords-of-the-sound",
-          "biljetter": "https://secure.tickster.com/sv/ymgh75hb71gx76j"
+          "biljetter": "https://secure.tickster.com/ymgh75hb71gx76j"
         }
       ],
       "langvarig": false,
@@ -6065,7 +5987,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/rt3c0cclzv2t92d/2026-12-19/blackbird-swingin-christmas",
-          "biljetter": "https://secure.tickster.com/sv/rt3c0cclzv2t92d"
+          "biljetter": "https://secure.tickster.com/rt3c0cclzv2t92d"
         }
       ],
       "langvarig": false,
@@ -6081,7 +6003,7 @@
           "live",
           "kaliber live",
           "östra station",
-          "martin sjöstedt  erik tengholm"
+          "martin sjöstedt & erik tengholm"
         ]
       }
     },
@@ -6104,7 +6026,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/1kzcfyap0xvt3cr/2026-12-19/charta-77-bonta-fran-asta-kask",
-          "biljetter": "https://secure.tickster.com/sv/1kzcfyap0xvt3cr"
+          "biljetter": "https://secure.tickster.com/1kzcfyap0xvt3cr"
         }
       ],
       "langvarig": false,
@@ -6120,7 +6042,9 @@
           "punk",
           "rock",
           "charta 77",
-          "bonta"
+          "bonta",
+          "asta kask",
+          "live"
         ]
       }
     },
@@ -6144,7 +6068,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ztpm05lw995a0jn/2026-12-20/banna-sona-band-christmas-edition",
-          "biljetter": "https://secure.tickster.com/sv/ztpm05lw995a0jn"
+          "biljetter": "https://secure.tickster.com/ztpm05lw995a0jn"
         }
       ],
       "langvarig": false,
@@ -6174,7 +6098,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/g33dw4jtaj92cj3/2026-12-26/bjornarna-perkele-coca-carola-and-digging-graves",
-          "biljetter": "https://secure.tickster.com/sv/g33dw4jtaj92cj3"
+          "biljetter": "https://secure.tickster.com/g33dw4jtaj92cj3"
         }
       ],
       "langvarig": false,
@@ -6190,7 +6114,14 @@
           "björnarna",
           "perkele",
           "coca carola",
-          "uppsala rumble"
+          "uppsala rumble",
+          "punk",
+          "rock",
+          "mellandagarna",
+          "jul",
+          "party",
+          "jubel",
+          "kaliber"
         ]
       }
     },
@@ -6213,7 +6144,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/nfa0rg5m1jyll49/2026-12-31/nyarsfesten",
-          "biljetter": "https://secure.tickster.com/sv/nfa0rg5m1jyll49"
+          "biljetter": "https://secure.tickster.com/nfa0rg5m1jyll49"
         }
       ],
       "langvarig": false,
@@ -6239,7 +6170,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/dgfjlx3g6fytytn/2027-01-05/trettondagsafton-2027",
-          "biljetter": "https://secure.tickster.com/sv/dgfjlx3g6fytytn"
+          "biljetter": "https://secure.tickster.com/dgfjlx3g6fytytn"
         }
       ],
       "langvarig": false,
@@ -6269,7 +6200,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/htyve4u3p10edr7/2027-01-07/sirius-vs-skalby-ibk",
-          "biljetter": "https://secure.tickster.com/sv/htyve4u3p10edr7"
+          "biljetter": "https://secure.tickster.com/htyve4u3p10edr7"
         }
       ],
       "langvarig": false,
@@ -6294,7 +6225,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/aau6px0u72p8bgj/2027-01-08/per-persson-and-nya-packet",
-          "biljetter": "https://secure.tickster.com/sv/aau6px0u72p8bgj"
+          "biljetter": "https://secure.tickster.com/aau6px0u72p8bgj"
         }
       ],
       "langvarig": false,
@@ -6302,7 +6233,7 @@
       "fakta": {
         "taggar": [
           "katalinlive",
-          "per persson  nya packet",
+          "per persson & nya packet",
           "uppsala",
           "katalin",
           "pop",
@@ -6310,7 +6241,8 @@
           "jubel",
           "musik",
           "konsert",
-          "kaliber"
+          "kaliber",
+          "live"
         ]
       }
     },
@@ -6333,7 +6265,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/u3uwyfm19bnxv1c/2027-01-09/elvis-presley-birthday-concert-2027",
-          "biljetter": "https://secure.tickster.com/sv/u3uwyfm19bnxv1c"
+          "biljetter": "https://secure.tickster.com/u3uwyfm19bnxv1c"
         }
       ],
       "langvarig": false,
@@ -6371,7 +6303,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/dxarevh2dj2ehmg/2027-01-14/nicole-saboune",
-          "biljetter": "https://secure.tickster.com/sv/dxarevh2dj2ehmg"
+          "biljetter": "https://secure.tickster.com/dxarevh2dj2ehmg"
         }
       ],
       "langvarig": false,
@@ -6384,10 +6316,11 @@
           "musik",
           "konsert",
           "kaliber live",
-          "nicole saboun",
+          "nicole sabouné",
           "luger",
           "indie",
-          "pop"
+          "pop",
+          "rock"
         ]
       }
     },
@@ -6408,7 +6341,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/wfeezykm0tu9xn7/2027-01-15/melodiquizet-15-1-2027",
-          "biljetter": "https://secure.tickster.com/sv/wfeezykm0tu9xn7"
+          "biljetter": "https://secure.tickster.com/wfeezykm0tu9xn7"
         }
       ],
       "langvarig": false,
@@ -6433,7 +6366,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/t2pya3kfhwp6j2l/2027-01-15/lkn",
-          "biljetter": "https://secure.tickster.com/sv/t2pya3kfhwp6j2l"
+          "biljetter": "https://secure.tickster.com/t2pya3kfhwp6j2l"
         }
       ],
       "langvarig": false,
@@ -6472,7 +6405,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/7z2bw1c1xeneehb/2027-01-16/tms-bowie-low-heroes",
-          "biljetter": "https://secure.tickster.com/sv/7z2bw1c1xeneehb"
+          "biljetter": "https://secure.tickster.com/7z2bw1c1xeneehb"
         }
       ],
       "langvarig": false,
@@ -6512,7 +6445,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/adbg24052n8j0r4/2027-01-23/djungelboken-the-musical",
-          "biljetter": "https://secure.tickster.com/sv/adbg24052n8j0r4"
+          "biljetter": "https://secure.tickster.com/adbg24052n8j0r4"
         }
       ],
       "langvarig": false,
@@ -6545,7 +6478,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/1t0bg5ypeydh4g1/2027-01-23/djungelboken-the-musical",
-          "biljetter": "https://secure.tickster.com/sv/1t0bg5ypeydh4g1"
+          "biljetter": "https://secure.tickster.com/1t0bg5ypeydh4g1"
         }
       ],
       "langvarig": false,
@@ -6575,7 +6508,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/7yefrjgl17hm9r4/2027-01-23/the-par-lindh-project",
-          "biljetter": "https://secure.tickster.com/sv/7yefrjgl17hm9r4"
+          "biljetter": "https://secure.tickster.com/7yefrjgl17hm9r4"
         }
       ],
       "langvarig": false,
@@ -6591,7 +6524,12 @@
           "live",
           "kaliber live",
           "östra station",
-          "pär lindh"
+          "pär lindh",
+          "the pär lindh project k",
+          "rock",
+          "progressive",
+          "progg",
+          "al lewis"
         ]
       }
     },
@@ -6614,7 +6552,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/hkprwp78cnkmcbh/2027-01-23/rockgala-till-forman-for-barncancerfonden",
-          "biljetter": "https://secure.tickster.com/sv/hkprwp78cnkmcbh"
+          "biljetter": "https://secure.tickster.com/hkprwp78cnkmcbh"
         }
       ],
       "langvarig": false,
@@ -6630,7 +6568,9 @@
           "rockgala",
           "barncancerfonden",
           "rock",
-          "pop"
+          "pop",
+          "show",
+          "gala"
         ]
       }
     },
@@ -6654,7 +6594,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/km07uvhkym1br54/2027-01-24/djungelboken-the-musical",
-          "biljetter": "https://secure.tickster.com/sv/km07uvhkym1br54"
+          "biljetter": "https://secure.tickster.com/km07uvhkym1br54"
         }
       ],
       "langvarig": false,
@@ -6687,7 +6627,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/7u5xxfv6bth9p98/2027-01-24/poste-restante-24-1",
-          "biljetter": "https://secure.tickster.com/sv/7u5xxfv6bth9p98"
+          "biljetter": "https://secure.tickster.com/7u5xxfv6bth9p98"
         }
       ],
       "langvarig": false,
@@ -6718,7 +6658,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/r0r7g2xf5bgtyjx/2027-01-28/copland-och-beethoven-uppsala-kammarorkester",
-          "biljetter": "https://secure.tickster.com/sv/r0r7g2xf5bgtyjx"
+          "biljetter": "https://secure.tickster.com/r0r7g2xf5bgtyjx"
         }
       ],
       "langvarig": false,
@@ -6747,7 +6687,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/3cfgpfkglbmwxm0/2027-01-29/asiatisk-middagsupplevelse",
-          "biljetter": "https://secure.tickster.com/sv/3cfgpfkglbmwxm0"
+          "biljetter": "https://secure.tickster.com/3cfgpfkglbmwxm0"
         }
       ],
       "langvarig": false,
@@ -6782,7 +6722,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/azjevznl5wf8m22/2027-01-29/ser-jag-tjock-ut-i-den-har-uppsala",
-          "biljetter": "https://secure.tickster.com/sv/azjevznl5wf8m22"
+          "biljetter": "https://secure.tickster.com/azjevznl5wf8m22"
         }
       ],
       "langvarig": false,
@@ -6812,7 +6752,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/v93449drn3txn9u/2027-01-29/hannes-aitman",
-          "biljetter": "https://secure.tickster.com/sv/v93449drn3txn9u"
+          "biljetter": "https://secure.tickster.com/v93449drn3txn9u"
         }
       ],
       "langvarig": false,
@@ -6852,7 +6792,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/x5m7ggvjt7ya8ft/2027-01-30/upzala-terminus-2027-warhammer-tournament",
-          "biljetter": "https://secure.tickster.com/sv/x5m7ggvjt7ya8ft"
+          "biljetter": "https://secure.tickster.com/x5m7ggvjt7ya8ft"
         }
       ],
       "langvarig": false,
@@ -6882,7 +6822,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/pw09t0by0ahzf56/2027-01-31/sirius-vs-karlstad-ibf",
-          "biljetter": "https://secure.tickster.com/sv/pw09t0by0ahzf56"
+          "biljetter": "https://secure.tickster.com/pw09t0by0ahzf56"
         }
       ],
       "langvarig": false,
@@ -6908,7 +6848,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/dckrmxhjuhzy54b/2027-01-31/ane-brun-i-thought-we-were-the-same-tour",
-          "biljetter": "https://secure.tickster.com/sv/dckrmxhjuhzy54b"
+          "biljetter": "https://secure.tickster.com/dckrmxhjuhzy54b"
         }
       ],
       "langvarig": false,
@@ -6938,7 +6878,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/vzxc44bxnwzezdk/2027-02-02/geoff-tate-operation-mindcrime",
-          "biljetter": "https://secure.tickster.com/sv/vzxc44bxnwzezdk"
+          "biljetter": "https://secure.tickster.com/vzxc44bxnwzezdk"
         }
       ],
       "langvarig": false,
@@ -6977,7 +6917,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ac01aaggf4u5mrw/2027-02-04/the-dire-straits-experience",
-          "biljetter": "https://secure.tickster.com/sv/ac01aaggf4u5mrw"
+          "biljetter": "https://secure.tickster.com/ac01aaggf4u5mrw"
         }
       ],
       "langvarig": false,
@@ -7008,7 +6948,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/2hcab98vb4n49l6/2027-02-05/nour-el-refai-glows-in-the-dark",
-          "biljetter": "https://secure.tickster.com/sv/2hcab98vb4n49l6"
+          "biljetter": "https://secure.tickster.com/2hcab98vb4n49l6"
         }
       ],
       "langvarig": false,
@@ -7038,7 +6978,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/m38p1nue54p9r4z/2027-02-05/louisiana-avenue",
-          "biljetter": "https://secure.tickster.com/sv/m38p1nue54p9r4z"
+          "biljetter": "https://secure.tickster.com/m38p1nue54p9r4z"
         }
       ],
       "langvarig": false,
@@ -7078,7 +7018,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/3xd3kt3rd5y68z8/2027-02-06/the-very-best-of-thin-lizzy",
-          "biljetter": "https://secure.tickster.com/sv/3xd3kt3rd5y68z8"
+          "biljetter": "https://secure.tickster.com/3xd3kt3rd5y68z8"
         }
       ],
       "langvarig": false,
@@ -7108,7 +7048,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/abw0z29x84w9dzc/2027-02-06/greczula",
-          "biljetter": "https://secure.tickster.com/sv/abw0z29x84w9dzc"
+          "biljetter": "https://secure.tickster.com/abw0z29x84w9dzc"
         }
       ],
       "langvarig": true,
@@ -7124,7 +7064,9 @@
           "greczula",
           "pop",
           "mello",
-          "melodifestivalen"
+          "melodifestivalen",
+          "rock",
+          "live nation"
         ]
       }
     },
@@ -7148,7 +7090,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/g1u6mx2pxhc04da/2027-02-11/molly-hammar-livsvittne",
-          "biljetter": "https://secure.tickster.com/sv/g1u6mx2pxhc04da"
+          "biljetter": "https://secure.tickster.com/g1u6mx2pxhc04da"
         }
       ],
       "langvarig": false,
@@ -7180,7 +7122,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/rtat7ch8y7zgugl/2027-02-12/tommy-korberg-unplugged",
-          "biljetter": "https://secure.tickster.com/sv/rtat7ch8y7zgugl"
+          "biljetter": "https://secure.tickster.com/rtat7ch8y7zgugl"
         }
       ],
       "langvarig": false,
@@ -7205,7 +7147,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/132pra2x5t5xb26/2027-02-12/simon-superti",
-          "biljetter": "https://secure.tickster.com/sv/132pra2x5t5xb26"
+          "biljetter": "https://secure.tickster.com/132pra2x5t5xb26"
         }
       ],
       "langvarig": false,
@@ -7245,7 +7187,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/f8ga8mzk0ehb1uk/2027-02-13/kim-wilde-the-singles-tour-2027",
-          "biljetter": "https://secure.tickster.com/sv/f8ga8mzk0ehb1uk"
+          "biljetter": "https://secure.tickster.com/f8ga8mzk0ehb1uk"
         }
       ],
       "langvarig": false,
@@ -7275,7 +7217,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/7de740jdu0wm74h/2027-02-13/simon-superti",
-          "biljetter": "https://secure.tickster.com/sv/7de740jdu0wm74h"
+          "biljetter": "https://secure.tickster.com/7de740jdu0wm74h"
         }
       ],
       "langvarig": false,
@@ -7311,7 +7253,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/6xnxx840xdvjcdn/2027-02-18/pause-of-silence-retreat-i-tystnad",
-          "biljetter": "https://secure.tickster.com/sv/6xnxx840xdvjcdn"
+          "biljetter": "https://secure.tickster.com/6xnxx840xdvjcdn"
         }
       ],
       "langvarig": true,
@@ -7327,7 +7269,8 @@
           "musik",
           "wellness",
           "rörelse",
-          "yoga"
+          "yoga",
+          "natur"
         ]
       }
     },
@@ -7351,7 +7294,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/adrwbfh77uy5ecz/2027-02-18/korngolds-violinkonsert-uppsala-kammarorkester",
-          "biljetter": "https://secure.tickster.com/sv/adrwbfh77uy5ecz"
+          "biljetter": "https://secure.tickster.com/adrwbfh77uy5ecz"
         }
       ],
       "langvarig": false,
@@ -7382,7 +7325,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ylj4kxccmxnmnkw/2027-02-19/orsa-spelman-tina-ahlin-and-bengan-janson",
-          "biljetter": "https://secure.tickster.com/sv/ylj4kxccmxnmnkw"
+          "biljetter": "https://secure.tickster.com/ylj4kxccmxnmnkw"
         }
       ],
       "langvarig": false,
@@ -7412,7 +7355,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/1ea0pntuaudmv1a/2027-02-19/stiko-per-larsson-katalins-bakficka",
-          "biljetter": "https://secure.tickster.com/sv/1ea0pntuaudmv1a"
+          "biljetter": "https://secure.tickster.com/1ea0pntuaudmv1a"
         }
       ],
       "langvarig": false,
@@ -7446,7 +7389,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/etxbdmcpb133bwm/2027-02-19/svart-rida",
-          "biljetter": "https://secure.tickster.com/sv/etxbdmcpb133bwm"
+          "biljetter": "https://secure.tickster.com/etxbdmcpb133bwm"
         }
       ],
       "langvarig": false,
@@ -7484,7 +7427,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/n13253ku4ldhx61/2027-02-20/after-ski-vinterparty",
-          "biljetter": "https://secure.tickster.com/sv/n13253ku4ldhx61"
+          "biljetter": "https://secure.tickster.com/n13253ku4ldhx61"
         }
       ],
       "langvarig": false,
@@ -7516,7 +7459,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/mjluje9u10d70ll/2027-02-20/tourbjorn-med-torbjorn-averas-skorup",
-          "biljetter": "https://secure.tickster.com/sv/mjluje9u10d70ll"
+          "biljetter": "https://secure.tickster.com/mjluje9u10d70ll"
         }
       ],
       "langvarig": false,
@@ -7547,7 +7490,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/30zehcuw46a5ktp/2027-02-20/nannes-jubileumsshow-har-ar-jag",
-          "biljetter": "https://secure.tickster.com/sv/30zehcuw46a5ktp"
+          "biljetter": "https://secure.tickster.com/30zehcuw46a5ktp"
         }
       ],
       "langvarig": false,
@@ -7577,7 +7520,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/w87zxwnw4rye3mz/2027-02-20/fanny-avonne",
-          "biljetter": "https://secure.tickster.com/sv/w87zxwnw4rye3mz"
+          "biljetter": "https://secure.tickster.com/w87zxwnw4rye3mz"
         }
       ],
       "langvarig": false,
@@ -7616,7 +7559,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/blrychnf2g7zmu4/2027-02-20/tourbjorn-med-torbjorn-averas-skorup",
-          "biljetter": "https://secure.tickster.com/sv/blrychnf2g7zmu4"
+          "biljetter": "https://secure.tickster.com/blrychnf2g7zmu4"
         }
       ],
       "langvarig": false,
@@ -7647,7 +7590,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/k45xdlnljt6c72r/2027-02-21/bamse-och-sjorovarskatten",
-          "biljetter": "https://secure.tickster.com/sv/k45xdlnljt6c72r"
+          "biljetter": "https://secure.tickster.com/k45xdlnljt6c72r"
         }
       ],
       "langvarig": false,
@@ -7678,7 +7621,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/yrmvpam1jf90v9y/2027-02-24/klas-kalas-klas-hallberg-best-of-30-ar-pa-scen",
-          "biljetter": "https://secure.tickster.com/sv/yrmvpam1jf90v9y"
+          "biljetter": "https://secure.tickster.com/yrmvpam1jf90v9y"
         }
       ],
       "langvarig": false,
@@ -7708,7 +7651,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/zwj0zgdxm9jkyjy/2027-02-24/jesper-lindell-and-brunnsvik-sounds-klubb-uffe",
-          "biljetter": "https://secure.tickster.com/sv/zwj0zgdxm9jkyjy"
+          "biljetter": "https://secure.tickster.com/zwj0zgdxm9jkyjy"
         }
       ],
       "langvarig": false,
@@ -7743,7 +7686,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/4k49xmnc403y1vu/2027-02-25/jesper-ronndahl-och-marie-agerhall",
-          "biljetter": "https://secure.tickster.com/sv/4k49xmnc403y1vu"
+          "biljetter": "https://secure.tickster.com/4k49xmnc403y1vu"
         }
       ],
       "langvarig": false,
@@ -7774,7 +7717,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/6ynf73xmc9c0pu8/2027-02-26/tingsek",
-          "biljetter": "https://secure.tickster.com/sv/6ynf73xmc9c0pu8"
+          "biljetter": "https://secure.tickster.com/6ynf73xmc9c0pu8"
         }
       ],
       "langvarig": false,
@@ -7790,7 +7733,8 @@
           "tingsek",
           "soul",
           "pop",
-          "pange"
+          "pange",
+          "indie"
         ]
       }
     },
@@ -7814,7 +7758,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/5xgw2w4blu4rp07/2027-02-27/no-business-like-show-business",
-          "biljetter": "https://secure.tickster.com/sv/5xgw2w4blu4rp07"
+          "biljetter": "https://secure.tickster.com/5xgw2w4blu4rp07"
         }
       ],
       "langvarig": false,
@@ -7844,7 +7788,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/f6038wx7mre45rw/2027-02-27/familjen",
-          "biljetter": "https://secure.tickster.com/sv/f6038wx7mre45rw"
+          "biljetter": "https://secure.tickster.com/f6038wx7mre45rw"
         }
       ],
       "langvarig": false,
@@ -7860,7 +7804,8 @@
           "familjen",
           "pop",
           "elektroniskt",
-          "indie"
+          "indie",
+          "all things live"
         ]
       }
     },
@@ -7883,7 +7828,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/8ab3ed8de0ff5uw/2027-02-28/sirius-vs-fbc-lerum",
-          "biljetter": "https://secure.tickster.com/sv/8ab3ed8de0ff5uw"
+          "biljetter": "https://secure.tickster.com/8ab3ed8de0ff5uw"
         }
       ],
       "langvarig": false,
@@ -7909,7 +7854,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/w768vzlh7lbxz35/2027-02-28/poste-restante-28-2",
-          "biljetter": "https://secure.tickster.com/sv/w768vzlh7lbxz35"
+          "biljetter": "https://secure.tickster.com/w768vzlh7lbxz35"
         }
       ],
       "langvarig": false,
@@ -7917,6 +7862,37 @@
       "fakta": {
         "taggar": [
           "klassiskt"
+        ]
+      }
+    },
+    {
+      "id": "tickster-gym1gkwtlxwpu5f",
+      "titel": "Jethro Tull – The Curiosity Tour",
+      "start": "2027-02-28T19:30:00+01:00",
+      "slut": "2027-02-28T21:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/gym1gkwtlxwpu5f/2027-02-28/jethro-tull-the-curiosity-tour",
+          "biljetter": "https://secure.tickster.com/gym1gkwtlxwpu5f"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "rock"
         ]
       }
     },
@@ -7939,7 +7915,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/uxfta84v5rjre74/2027-03-02/jazz-pa-svenska-broderna-johansson",
-          "biljetter": "https://secure.tickster.com/sv/uxfta84v5rjre74"
+          "biljetter": "https://secure.tickster.com/uxfta84v5rjre74"
         }
       ],
       "langvarig": false,
@@ -7977,7 +7953,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/kc7zenzreben83x/2027-03-03/night-of-famous-musicals",
-          "biljetter": "https://secure.tickster.com/sv/kc7zenzreben83x"
+          "biljetter": "https://secure.tickster.com/kc7zenzreben83x"
         }
       ],
       "langvarig": false,
@@ -8008,7 +7984,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/bv8u7mj6b3g3hpw/2027-03-05/laleh-varturne-2027-jag-sag-hur-vi-var-stjarnor",
-          "biljetter": "https://secure.tickster.com/sv/bv8u7mj6b3g3hpw"
+          "biljetter": "https://secure.tickster.com/bv8u7mj6b3g3hpw"
         }
       ],
       "langvarig": false,
@@ -8038,7 +8014,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/yzbv9756xctwf09/2027-03-05/lisa-ekdahl",
-          "biljetter": "https://secure.tickster.com/sv/yzbv9756xctwf09"
+          "biljetter": "https://secure.tickster.com/yzbv9756xctwf09"
         }
       ],
       "langvarig": false,
@@ -8078,7 +8054,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/benufv8jw8cafjt/2027-03-06/laleh-varturne-2027-jag-sag-hur-vi-var-stjarnor",
-          "biljetter": "https://secure.tickster.com/sv/benufv8jw8cafjt"
+          "biljetter": "https://secure.tickster.com/benufv8jw8cafjt"
         }
       ],
       "langvarig": false,
@@ -8109,7 +8085,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/bycra2ryrkpny7l/2027-03-06/laleh-varturne-2027-jag-sag-hur-vi-var-stjarnor",
-          "biljetter": "https://secure.tickster.com/sv/bycra2ryrkpny7l"
+          "biljetter": "https://secure.tickster.com/bycra2ryrkpny7l"
         }
       ],
       "langvarig": false,
@@ -8137,7 +8113,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/5xv46jn2yrbbunu/2027-03-10/aphaca-dk",
-          "biljetter": "https://secure.tickster.com/sv/5xv46jn2yrbbunu"
+          "biljetter": "https://secure.tickster.com/5xv46jn2yrbbunu"
         }
       ],
       "langvarig": false,
@@ -8176,7 +8152,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/5mk041j56bludkj/2027-03-12/marika-och-klimakteriet",
-          "biljetter": "https://secure.tickster.com/sv/5mk041j56bludkj"
+          "biljetter": "https://secure.tickster.com/5mk041j56bludkj"
         }
       ],
       "langvarig": false,
@@ -8207,7 +8183,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/y5eb8j7mc7ve4y5/2027-03-12/christoffer-nyqvist-lejonet-fran-norden",
-          "biljetter": "https://secure.tickster.com/sv/y5eb8j7mc7ve4y5"
+          "biljetter": "https://secure.tickster.com/y5eb8j7mc7ve4y5"
         }
       ],
       "langvarig": false,
@@ -8237,7 +8213,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/l2eptd3za9kzdr3/2027-03-12/sunnan",
-          "biljetter": "https://secure.tickster.com/sv/l2eptd3za9kzdr3"
+          "biljetter": "https://secure.tickster.com/l2eptd3za9kzdr3"
         }
       ],
       "langvarig": false,
@@ -8276,7 +8252,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/nr7ap19ygw1aj9e/2027-03-13/sirius-vs-fagerhult-habo-ibk",
-          "biljetter": "https://secure.tickster.com/sv/nr7ap19ygw1aj9e"
+          "biljetter": "https://secure.tickster.com/nr7ap19ygw1aj9e"
         }
       ],
       "langvarig": false,
@@ -8301,7 +8277,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/p000zrz948bn5hw/2027-03-13/thorbj-rn-risager-and-the-black-tornado",
-          "biljetter": "https://secure.tickster.com/sv/p000zrz948bn5hw"
+          "biljetter": "https://secure.tickster.com/p000zrz948bn5hw"
         }
       ],
       "langvarig": false,
@@ -8314,7 +8290,7 @@
           "musik",
           "konsert",
           "kaliber live",
-          "thorbjrn risager  the black tornado",
+          "thorbjørn risager & the black tornado",
           "rock",
           "blues",
           "danmark"
@@ -8341,7 +8317,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/5g7u6rkp06c82z1/2027-03-18/basta-bystrom-uppsala-kammarorkester",
-          "biljetter": "https://secure.tickster.com/sv/5g7u6rkp06c82z1"
+          "biljetter": "https://secure.tickster.com/5g7u6rkp06c82z1"
         }
       ],
       "langvarig": false,
@@ -8371,7 +8347,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/6hthcku6uau1560/2027-03-18/henning",
-          "biljetter": "https://secure.tickster.com/sv/6hthcku6uau1560"
+          "biljetter": "https://secure.tickster.com/6hthcku6uau1560"
         }
       ],
       "langvarig": false,
@@ -8387,7 +8363,8 @@
           "henning",
           "pop",
           "rock",
-          "live"
+          "live",
+          "country"
         ]
       }
     },
@@ -8411,7 +8388,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/glhthaghmhtjwfb/2027-03-24/the-rock-orchestra-by-candlelight",
-          "biljetter": "https://secure.tickster.com/sv/glhthaghmhtjwfb"
+          "biljetter": "https://secure.tickster.com/glhthaghmhtjwfb"
         }
       ],
       "langvarig": false,
@@ -8442,7 +8419,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/krj9k1l31yja6ny/2027-03-28/brunoz-en-konsert-med-bruno-mitsogiannis",
-          "biljetter": "https://secure.tickster.com/sv/krj9k1l31yja6ny"
+          "biljetter": "https://secure.tickster.com/krj9k1l31yja6ny"
         }
       ],
       "langvarig": false,
@@ -8468,7 +8445,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/4lhdytm58kaaj2e/2027-04-02/marcus-berggren-hittar-hem",
-          "biljetter": "https://secure.tickster.com/sv/4lhdytm58kaaj2e"
+          "biljetter": "https://secure.tickster.com/4lhdytm58kaaj2e"
         }
       ],
       "langvarig": false,
@@ -8499,7 +8476,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/e1d3jb5gr4vm13b/2027-04-03/pontus-lindman-levande-begravd",
-          "biljetter": "https://secure.tickster.com/sv/e1d3jb5gr4vm13b"
+          "biljetter": "https://secure.tickster.com/e1d3jb5gr4vm13b"
         }
       ],
       "langvarig": false,
@@ -8531,7 +8508,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/n3ya1zhflkyl9hw/2027-04-04/euskefeurat-maranger-och-surdeg",
-          "biljetter": "https://secure.tickster.com/sv/n3ya1zhflkyl9hw"
+          "biljetter": "https://secure.tickster.com/n3ya1zhflkyl9hw"
         }
       ],
       "langvarig": false,
@@ -8561,7 +8538,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/leu22wx8y2665zm/2027-04-07/doktor-glas-en-monolog-med-jens-hulten",
-          "biljetter": "https://secure.tickster.com/sv/leu22wx8y2665zm"
+          "biljetter": "https://secure.tickster.com/leu22wx8y2665zm"
         }
       ],
       "langvarig": false,
@@ -8573,9 +8550,9 @@
           "katalin",
           "guppy",
           "musik",
-          "jens hultn",
+          "jens hultén",
           "johan hedenberg",
-          "eddie hultn",
+          "eddie hultén",
           "monolog",
           "teater"
         ]
@@ -8601,7 +8578,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/vgej4zyhmdbz3d9/2027-04-10/hor-har-forsoker-gora-livepodd",
-          "biljetter": "https://secure.tickster.com/sv/vgej4zyhmdbz3d9"
+          "biljetter": "https://secure.tickster.com/vgej4zyhmdbz3d9"
         }
       ],
       "langvarig": false,
@@ -8632,7 +8609,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/fn3dp2zf8ye006y/2027-04-10/hor-har-forsoker-gora-livepodd",
-          "biljetter": "https://secure.tickster.com/sv/fn3dp2zf8ye006y"
+          "biljetter": "https://secure.tickster.com/fn3dp2zf8ye006y"
         }
       ],
       "langvarig": false,
@@ -8663,7 +8640,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/urdn3y0pmrhal33/2027-04-16/fullt-ozz",
-          "biljetter": "https://secure.tickster.com/sv/urdn3y0pmrhal33"
+          "biljetter": "https://secure.tickster.com/urdn3y0pmrhal33"
         }
       ],
       "langvarig": false,
@@ -8693,7 +8670,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/fk7zec2k51epmp6/2027-04-16/hfmc-avskedskonsert",
-          "biljetter": "https://secure.tickster.com/sv/fk7zec2k51epmp6"
+          "biljetter": "https://secure.tickster.com/fk7zec2k51epmp6"
         }
       ],
       "langvarig": false,
@@ -8709,7 +8686,8 @@
           "avskedskonsert",
           "musik",
           "live",
-          "hårdrock"
+          "hårdrock",
+          "progressiv"
         ]
       }
     },
@@ -8732,7 +8710,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/n2aptyn6hzgeah6/2027-04-17/steget",
-          "biljetter": "https://secure.tickster.com/sv/n2aptyn6hzgeah6"
+          "biljetter": "https://secure.tickster.com/n2aptyn6hzgeah6"
         }
       ],
       "langvarig": false,
@@ -8748,7 +8726,8 @@
           "steget",
           "headstomp",
           "pop",
-          "indie"
+          "indie",
+          "singer"
         ]
       }
     },
@@ -8772,7 +8751,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/6bj9eyze51yn0un/2027-04-18/poste-restante-18-4",
-          "biljetter": "https://secure.tickster.com/sv/6bj9eyze51yn0un"
+          "biljetter": "https://secure.tickster.com/6bj9eyze51yn0un"
         }
       ],
       "langvarig": false,
@@ -8803,7 +8782,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/m7xzavt7gdp4za1/2027-04-24/hipphipp-live",
-          "biljetter": "https://secure.tickster.com/sv/m7xzavt7gdp4za1"
+          "biljetter": "https://secure.tickster.com/m7xzavt7gdp4za1"
         }
       ],
       "langvarig": false,
@@ -8833,7 +8812,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/317cpfzb54vve17/2027-04-24/the-daytrippers-bakfickan",
-          "biljetter": "https://secure.tickster.com/sv/317cpfzb54vve17"
+          "biljetter": "https://secure.tickster.com/317cpfzb54vve17"
         }
       ],
       "langvarig": false,
@@ -8866,7 +8845,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/570k06nhl9cgz3h/2027-04-25/hipphipp-live",
-          "biljetter": "https://secure.tickster.com/sv/570k06nhl9cgz3h"
+          "biljetter": "https://secure.tickster.com/570k06nhl9cgz3h"
         }
       ],
       "langvarig": false,
@@ -8897,7 +8876,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/4ghfx4lt846rxfa/2027-04-29/valborg-uppsala-kammarorkester",
-          "biljetter": "https://secure.tickster.com/sv/4ghfx4lt846rxfa"
+          "biljetter": "https://secure.tickster.com/4ghfx4lt846rxfa"
         }
       ],
       "langvarig": false,
@@ -8927,7 +8906,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/p49e1pw3b35avfz/2027-05-07/ebba-forsberg-amen-amen-amen-uppsala",
-          "biljetter": "https://secure.tickster.com/sv/p49e1pw3b35avfz"
+          "biljetter": "https://biljett.kulturaktiebolaget.se/p49e1pw3b35avfz"
         }
       ],
       "langvarig": false,
@@ -8962,7 +8941,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/mfjx1dpux41fmva/2027-05-08/the-orb",
-          "biljetter": "https://secure.tickster.com/sv/mfjx1dpux41fmva"
+          "biljetter": "https://secure.tickster.com/mfjx1dpux41fmva"
         }
       ],
       "langvarig": false,
@@ -8978,7 +8957,14 @@
           "the orb",
           "uk",
           "dansmusik",
-          "ambient"
+          "ambient",
+          "dub",
+          "elektroniskt",
+          "trance",
+          "beat",
+          "drum’n’bass",
+          "house",
+          "reggae"
         ]
       }
     },
@@ -8999,7 +8985,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ct9zd81m1hbgwbv/2027-05-11/forsta-studentskiva-lundellska-11-maj-flustret",
-          "biljetter": "https://secure.tickster.com/sv/ct9zd81m1hbgwbv"
+          "biljetter": "https://secure.tickster.com/ct9zd81m1hbgwbv"
         }
       ],
       "langvarig": false,
@@ -9010,7 +8996,7 @@
           "studentskiva",
           "nattklubb",
           "flustret",
-          "18"
+          "18+"
         ]
       }
     },
@@ -9033,7 +9019,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/lvc9neaxxek1jtx/2027-05-14/nikki-hill-us",
-          "biljetter": "https://secure.tickster.com/sv/lvc9neaxxek1jtx"
+          "biljetter": "https://secure.tickster.com/lvc9neaxxek1jtx"
         }
       ],
       "langvarig": false,
@@ -9071,7 +9057,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/6ab298dglm1pw1h/2027-05-15/peter-carlsson-and-gra-grodorna",
-          "biljetter": "https://secure.tickster.com/sv/6ab298dglm1pw1h"
+          "biljetter": "https://secure.tickster.com/6ab298dglm1pw1h"
         }
       ],
       "langvarig": false,
@@ -9094,7 +9080,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/2clj75545wcx9tw/2027-05-18/flustret-studentskiva-lundellska-celsius-18-maj",
-          "biljetter": "https://secure.tickster.com/sv/2clj75545wcx9tw"
+          "biljetter": "https://secure.tickster.com/2clj75545wcx9tw"
         }
       ],
       "langvarig": false,
@@ -9105,7 +9091,7 @@
           "studentskiva",
           "nattklubb",
           "flustret",
-          "18"
+          "18+"
         ]
       }
     },
@@ -9126,7 +9112,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/gcb7dbrzft6zzkd/2027-05-19/flustret-studentskiva-celsius-19-maj",
-          "biljetter": "https://secure.tickster.com/sv/gcb7dbrzft6zzkd"
+          "biljetter": "https://secure.tickster.com/gcb7dbrzft6zzkd"
         }
       ],
       "langvarig": false,
@@ -9137,7 +9123,7 @@
           "studentskiva",
           "nattklubb",
           "flustret",
-          "18"
+          "18+"
         ]
       }
     },
@@ -9161,7 +9147,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/1c4pu6gmxa891vf/2027-05-20/tjajkovskijs-pianokonsert-uppsala-kammarorkester",
-          "biljetter": "https://secure.tickster.com/sv/1c4pu6gmxa891vf"
+          "biljetter": "https://secure.tickster.com/1c4pu6gmxa891vf"
         }
       ],
       "langvarig": false,
@@ -9191,7 +9177,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/29zfc21z70p5n80/2027-05-20/ola-aurell-mansklighetens-lyckligaste-tid-ups",
-          "biljetter": "https://secure.tickster.com/sv/29zfc21z70p5n80"
+          "biljetter": "https://biljett.kulturaktiebolaget.se/29zfc21z70p5n80"
         }
       ],
       "langvarig": false,
@@ -9224,7 +9210,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/ymp73lupjpmkw86/2027-05-20/flustret-studentskiva-rosendal-20-maj",
-          "biljetter": "https://secure.tickster.com/sv/ymp73lupjpmkw86"
+          "biljetter": "https://secure.tickster.com/ymp73lupjpmkw86"
         }
       ],
       "langvarig": false,
@@ -9235,7 +9221,7 @@
           "studentskiva",
           "nattklubb",
           "flustret",
-          "18"
+          "18+"
         ]
       }
     },
@@ -9258,7 +9244,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/vn1bhn6l9td1jbv/2027-05-26/jensen-studentskiva",
-          "biljetter": "https://secure.tickster.com/sv/vn1bhn6l9td1jbv"
+          "biljetter": "https://secure.tickster.com/vn1bhn6l9td1jbv"
         }
       ],
       "langvarig": false,
@@ -9281,7 +9267,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/kr338gu7necwpl7/2027-05-27/sista-studentskiva-lundellska-27-maj-flustret",
-          "biljetter": "https://secure.tickster.com/sv/kr338gu7necwpl7"
+          "biljetter": "https://secure.tickster.com/kr338gu7necwpl7"
         }
       ],
       "langvarig": false,
@@ -9292,7 +9278,7 @@
           "studentskiva",
           "nattklubb",
           "flustret",
-          "18"
+          "18+"
         ]
       }
     },
@@ -9313,7 +9299,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/wkerv76ph3w42a8/2027-06-05/love-with-johnny-echols-us",
-          "biljetter": "https://secure.tickster.com/sv/wkerv76ph3w42a8"
+          "biljetter": "https://secure.tickster.com/wkerv76ph3w42a8"
         }
       ],
       "langvarig": false,
@@ -9329,7 +9315,14 @@
           "kaliber live",
           "love",
           "johnny",
-          "echols"
+          "echols",
+          "kulturaktiebolaget",
+          "60s",
+          "pop",
+          "rock",
+          "folkrock",
+          "garagerock",
+          "psykedelisk"
         ]
       }
     },
@@ -9350,7 +9343,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/fg9heurhg8nmf87/2027-06-12/u-k-subs-uk",
-          "biljetter": "https://secure.tickster.com/sv/fg9heurhg8nmf87"
+          "biljetter": "https://secure.tickster.com/fg9heurhg8nmf87"
         }
       ],
       "langvarig": false,
@@ -9366,7 +9359,10 @@
           "kaliber live",
           "punk",
           "rock",
-          "uk subs"
+          "uk subs",
+          "kulturaktiebolaget",
+          "uk",
+          "uppsala rumble"
         ]
       }
     },
@@ -9387,7 +9383,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/jgapetpmvnpa6v2/2027-07-11/celebrating-meat-loaf-bat50-us",
-          "biljetter": "https://secure.tickster.com/sv/jgapetpmvnpa6v2"
+          "biljetter": "https://secure.tickster.com/jgapetpmvnpa6v2"
         }
       ],
       "langvarig": false,
@@ -9403,13 +9399,20 @@
           "kaliber live",
           "meat loaf",
           "bat out of hell",
-          "rock"
+          "rock",
+          "rockopera",
+          "bat 50",
+          "hårdrock",
+          "70s",
+          "all things live",
+          "andrew polec",
+          "neverland express"
         ]
       }
     },
     {
       "id": "tickster-ae29d4fgn5b7yac",
-      "titel": "Erik Grönwall",
+      "titel": "Grönwall",
       "start": "2027-07-16T19:00:00+02:00",
       "slut": "2027-07-16T21:00:00+02:00",
       "plats": {
@@ -9423,8 +9426,8 @@
         {
           "id": "tickster",
           "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/ae29d4fgn5b7yac/2027-07-16/erik-gronwall",
-          "biljetter": "https://secure.tickster.com/sv/ae29d4fgn5b7yac"
+          "url": "https://www.tickster.com/se/sv/events/ae29d4fgn5b7yac/2027-07-16/gronwall",
+          "biljetter": "https://secure.tickster.com/ae29d4fgn5b7yac"
         }
       ],
       "langvarig": false,
@@ -9440,13 +9443,15 @@
           "kaliber live",
           "erik grönwall",
           "rock",
-          "hårdrock"
+          "hårdrock",
+          "knivsta",
+          "united stage"
         ]
       }
     },
     {
       "id": "tickster-anhh19a1d0vka55",
-      "titel": "Erik Grönwall",
+      "titel": "Grönwall",
       "start": "2027-07-17T19:00:00+02:00",
       "slut": "2027-07-17T21:00:00+02:00",
       "plats": {
@@ -9460,8 +9465,8 @@
         {
           "id": "tickster",
           "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/anhh19a1d0vka55/2027-07-17/erik-gronwall",
-          "biljetter": "https://secure.tickster.com/sv/anhh19a1d0vka55"
+          "url": "https://www.tickster.com/se/sv/events/anhh19a1d0vka55/2027-07-17/gronwall",
+          "biljetter": "https://secure.tickster.com/anhh19a1d0vka55"
         }
       ],
       "langvarig": false,
@@ -9477,7 +9482,9 @@
           "kaliber live",
           "erik grönwall",
           "rock",
-          "hårdrock"
+          "hårdrock",
+          "knivsta",
+          "united stage"
         ]
       }
     },
@@ -9500,7 +9507,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/6tpyxlllywvucer/2027-07-30/uppsala-reggae-festival-2027",
-          "biljetter": "https://secure.tickster.com/sv/6tpyxlllywvucer"
+          "biljetter": "https://secure.tickster.com/6tpyxlllywvucer"
         }
       ],
       "langvarig": false,
@@ -9523,7 +9530,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/3cy6vrk1gbn87ce/2027-08-14/my-secret-garden-synthfest",
-          "biljetter": "https://secure.tickster.com/sv/3cy6vrk1gbn87ce"
+          "biljetter": "https://secure.tickster.com/3cy6vrk1gbn87ce"
         }
       ],
       "langvarig": false,
@@ -9539,7 +9546,14 @@
           "kaliber live",
           "covenant",
           "henric de la cour",
-          "spock"
+          "spock",
+          "the mobile homes",
+          "synth",
+          "bodysynth",
+          "popsynth",
+          "skirkhult",
+          "zero",
+          "dm"
         ]
       }
     },
@@ -9563,7 +9577,7 @@
           "id": "tickster",
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/m9rbmjxxw04wuc9/2027-10-22/fredrik-andersson-too-soon-2027",
-          "biljetter": "https://secure.tickster.com/sv/m9rbmjxxw04wuc9"
+          "biljetter": "https://secure.tickster.com/m9rbmjxxw04wuc9"
         }
       ],
       "langvarig": false,

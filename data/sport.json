@@ -1,7 +1,7 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-27T09:50:38.034Z",
+  "hamtad": "2026-10-28T10:39:36.508Z",
   "antal": 123,
   "evenemang": [
     {
@@ -103,8 +103,8 @@
       "installd": false
     },
     {
-      "id": "sport-profixio-2026-10-31-IK-Sirius-Umedalens-IF",
-      "titel": "IK Sirius – Umedalens IF (dam)",
+      "id": "sport-profixio-2026-10-31-IK-Sirius-Umedalens-Sel-nger",
+      "titel": "IK Sirius – Umedalens/Selånger (dam)",
       "start": "2026-10-31T18:00:00+01:00",
       "slut": null,
       "plats": {
@@ -127,8 +127,8 @@
       "installd": false
     },
     {
-      "id": "sport-profixio-2026-11-01-Uppsala-BOIS-Umedalens-IF",
-      "titel": "Uppsala BOIS – Umedalens IF (dam)",
+      "id": "sport-profixio-2026-11-01-Uppsala-BOIS-Umedalens-Sel-nger",
+      "titel": "Uppsala BOIS – Umedalens/Selånger (dam)",
       "start": "2026-11-01T12:00:00+01:00",
       "slut": null,
       "plats": {

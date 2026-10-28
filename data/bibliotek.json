@@ -1,8 +1,8 @@
 {
   "kalla": "Bibliotek Uppsala",
   "webbsida": "https://bibliotekuppsala.se/evenemang",
-  "hamtad": "2026-10-27T09:49:22.452Z",
-  "antal": 316,
+  "hamtad": "2026-10-28T10:34:56.712Z",
+  "antal": 307,
   "evenemang": [
     {
       "id": "bibliotek-f2e22e96-ee0c-4e73-b6ee-8d7b5ddca685",
@@ -37,321 +37,6 @@
         ],
         "malgrupp": [
           "Barn"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-37418f5d-8313-49ea-9f6e-b201f9d8f9eb",
-      "titel": "Bokstartsbibblan",
-      "start": "2026-10-27T13:00:00+01:00",
-      "slut": "2026-10-27T16:00:00+01:00",
-      "plats": {
-        "namn": "Von Bahrs förskola",
-        "id": "vonbahr"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/37418f5d-8313-49ea-9f6e-b201f9d8f9eb"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Småbarn"
-        ],
-        "malgrupp": [
-          "Barn"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-5438b15e-8fb1-454f-9d7c-707eb0162590",
-      "titel": "Halloween i Molnet",
-      "start": "2026-10-27T13:00:00+01:00",
-      "slut": "2026-10-27T15:00:00+01:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Ungdomsavdelningen Molnet"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        13,
-        19
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/5438b15e-8fb1-454f-9d7c-707eb0162590"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Höstlov",
-          "Pyssel",
-          "Skriva"
-        ],
-        "malgrupp": [
-          "Ungdom"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-68d3d1f8-101d-4730-8995-8cc5d2009b46",
-      "titel": "Afternoon tea",
-      "start": "2026-10-27T14:00:00+01:00",
-      "slut": "2026-10-27T16:00:00+01:00",
-      "plats": {
-        "namn": "Bälinge bibliotek",
-        "id": "balingebib"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/68d3d1f8-101d-4730-8995-8cc5d2009b46"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Höstlov",
-          "Pyssla"
-        ],
-        "malgrupp": [
-          "Barn"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-6488e8d1-0155-432a-bfda-caa81cb039da",
-      "titel": "Myspyssel",
-      "start": "2026-10-27T14:00:00+01:00",
-      "slut": "2026-10-27T15:00:00+01:00",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib",
-        "rum": "Entrén"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/6488e8d1-0155-432a-bfda-caa81cb039da"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Höstlov",
-          "Pyssel"
-        ],
-        "malgrupp": [
-          "Barn"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-a5e015bb-63c3-4760-a712-25f49f418d41",
-      "titel": "Pyssla stickers!",
-      "start": "2026-10-27T14:00:00+01:00",
-      "slut": "2026-10-27T16:00:00+01:00",
-      "plats": {
-        "namn": "Storvreta bibliotek",
-        "id": "storvretabib"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/a5e015bb-63c3-4760-a712-25f49f418d41"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Höstlov",
-          "Pyssel"
-        ],
-        "malgrupp": [
-          "Barn"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-b2bba849-be37-43c4-8bc2-203be3e2b2a7",
-      "titel": "Unghäng på bibblan",
-      "start": "2026-10-27T15:30:00+01:00",
-      "slut": "2026-10-27T16:30:00+01:00",
-      "plats": {
-        "namn": "Storvreta bibliotek",
-        "id": "storvretabib"
-      },
-      "kategori": "aktivitet",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        13,
-        19
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/b2bba849-be37-43c4-8bc2-203be3e2b2a7"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Pyssel",
-          "Spel",
-          "Quiz"
-        ],
-        "malgrupp": [
-          "Ungdom"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-7c01a2df-96aa-4622-89a1-90a876de7aff",
-      "titel": "Ungdomszon",
-      "start": "2026-10-27T16:00:00+01:00",
-      "slut": "2026-10-27T17:30:00+01:00",
-      "plats": {
-        "namn": "Sävja bibliotek",
-        "id": "savjabib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        13,
-        19
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/7c01a2df-96aa-4622-89a1-90a876de7aff"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [],
-        "malgrupp": [
-          "Ungdom"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-9dc0bd84-01a3-4fe6-a5c7-e0421e7fddd7",
-      "titel": "Pyjamasparty",
-      "start": "2026-10-27T18:00:00+01:00",
-      "slut": "2026-10-27T21:00:00+01:00",
-      "plats": {
-        "namn": "Stadsbiblioteket",
-        "id": "stadsbib",
-        "rum": "Barnavdelningen Läsfabriken"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": true,
-      "alder": [
-        0,
-        12
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/9dc0bd84-01a3-4fe6-a5c7-e0421e7fddd7"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Höstlov"
-        ],
-        "malgrupp": [
-          "Barn"
-        ]
-      }
-    },
-    {
-      "id": "bibliotek-b8638128-a961-4852-ad1f-5616cc942c47",
-      "titel": "Bokcirkel: Läs förbjudna böcker",
-      "start": "2026-10-27T18:45:00+01:00",
-      "slut": "2026-10-27T20:00:00+01:00",
-      "plats": {
-        "namn": "Storvreta bibliotek",
-        "id": "storvretabib"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/b8638128-a961-4852-ad1f-5616cc942c47"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Bokcirkel",
-          "Banned Books Week"
-        ],
-        "malgrupp": [
-          "Vuxen"
         ]
       }
     },
@@ -2845,42 +2530,6 @@
       }
     },
     {
-      "id": "bibliotek-8d158fab-8f19-42ea-8e6f-74f51a49a4e0",
-      "titel": "Bokfika",
-      "start": "2026-11-11T14:00:00+01:00",
-      "slut": "2026-11-11T15:00:00+01:00",
-      "plats": {
-        "namn": "Gottsunda bibliotek",
-        "id": "gottsundabib",
-        "rum": "Rum C"
-      },
-      "kategori": "prat",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "alder": [
-        18,
-        99
-      ],
-      "kallor": [
-        {
-          "id": "bibliotek",
-          "namn": "Bibliotek Uppsala",
-          "url": "https://bibliotekuppsala.se/evenemang#/events/8d158fab-8f19-42ea-8e6f-74f51a49a4e0"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "Bokcirkel",
-          "Boktips"
-        ],
-        "malgrupp": [
-          "Vuxen"
-        ]
-      }
-    },
-    {
       "id": "bibliotek-15550830-7db6-4f96-ad28-d19435982039",
       "titel": "Kul med Designlabbet Funkis",
       "start": "2026-11-11T14:00:00+01:00",
@@ -2915,6 +2564,37 @@
         "malgrupp": [
           "Vuxen"
         ]
+      }
+    },
+    {
+      "id": "bibliotek-8d158fab-8f19-42ea-8e6f-74f51a49a4e0",
+      "titel": "Bokfika",
+      "start": "2026-11-11T14:00:00+01:00",
+      "slut": "2026-11-11T15:00:00+01:00",
+      "plats": {
+        "namn": "Gottsunda bibliotek",
+        "id": "gottsundabib",
+        "rum": "Rum C"
+      },
+      "kategori": "prat",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "bibliotek",
+          "namn": "Bibliotek Uppsala",
+          "url": "https://bibliotekuppsala.se/evenemang#/events/8d158fab-8f19-42ea-8e6f-74f51a49a4e0"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "Bokcirkel",
+          "Boktips"
+        ],
+        "malgrupp": []
       }
     },
     {

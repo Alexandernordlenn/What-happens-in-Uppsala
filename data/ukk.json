@@ -1,8 +1,8 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-27T09:50:54.037Z",
-  "antal": 109,
+  "hamtad": "2026-10-28T10:39:52.663Z",
+  "antal": 112,
   "evenemang": [
     {
       "id": "ukk-33441",
@@ -183,10 +183,10 @@
           "barn"
         ],
         "taggar": [
-          "jazz",
           "familj",
           "aktuellt",
-          "hostlov"
+          "hostlov",
+          "jazz"
         ]
       }
     },
@@ -304,10 +304,10 @@
           "jazz"
         ],
         "taggar": [
-          "mhv",
-          "jazz",
           "publikfavoriter",
-          "student"
+          "student",
+          "mhv",
+          "jazz"
         ]
       }
     },
@@ -397,8 +397,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "student",
-          "mhv"
+          "mhv",
+          "student"
         ]
       }
     },
@@ -429,8 +429,8 @@
           "barn"
         ],
         "taggar": [
-          "aktuellt",
-          "familj"
+          "familj",
+          "aktuellt"
         ]
       }
     },
@@ -674,10 +674,10 @@
           "nostalgi-tribute"
         ],
         "taggar": [
+          "jazz",
           "lunchkonsert",
           "student",
-          "mhv",
-          "jazz"
+          "mhv"
         ]
       }
     },
@@ -1041,9 +1041,9 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "jul",
           "dans",
-          "familj",
-          "jul"
+          "familj"
         ]
       }
     },
@@ -1073,8 +1073,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "publikfavoriter",
-          "jul"
+          "jul",
+          "publikfavoriter"
         ]
       }
     },
@@ -1104,9 +1104,9 @@
           "pop-rock"
         ],
         "taggar": [
-          "mhv",
           "publikfavoriter",
-          "student"
+          "student",
+          "mhv"
         ]
       }
     },
@@ -1229,9 +1229,9 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "jul",
           "dans",
-          "familj",
-          "jul"
+          "familj"
         ]
       }
     },
@@ -1261,9 +1261,9 @@
           "jazz"
         ],
         "taggar": [
-          "aktuellt",
           "student",
-          "mhv"
+          "mhv",
+          "aktuellt"
         ]
       }
     },
@@ -1388,9 +1388,9 @@
           "klassiskt"
         ],
         "taggar": [
-          "jul",
           "aktuellt",
-          "mhv"
+          "mhv",
+          "jul"
         ]
       }
     },
@@ -1517,9 +1517,9 @@
           "dans"
         ],
         "taggar": [
+          "publikfavoriter",
           "aktuellt",
-          "jul",
-          "publikfavoriter"
+          "jul"
         ]
       }
     },
@@ -1581,11 +1581,11 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "jazz",
           "aktuellt",
           "student",
           "mhv",
-          "jul",
-          "jazz"
+          "jul"
         ]
       }
     },
@@ -1616,8 +1616,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "jul",
-          "familj"
+          "familj",
+          "jul"
         ]
       }
     },
@@ -1681,11 +1681,11 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "student",
+          "jul",
           "familj",
           "publikfavoriter",
-          "aktuellt",
-          "student",
-          "jul"
+          "aktuellt"
         ]
       }
     },
@@ -1810,15 +1810,15 @@
       "fakta": {
         "kategorier": [
           "nostalgi-tribute",
-          "festligheter-hogtider",
-          "jazz"
+          "jazz",
+          "festligheter-hogtider"
         ],
         "taggar": [
-          "jul",
           "jazz",
           "lunchkonsert",
           "student",
-          "mhv"
+          "mhv",
+          "jul"
         ]
       }
     },
@@ -1845,8 +1845,8 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "klassiskt",
-          "barn"
+          "barn",
+          "klassiskt"
         ],
         "taggar": [
           "familj"
@@ -2242,8 +2242,8 @@
           "humor"
         ],
         "taggar": [
-          "humor",
-          "publikfavoriter"
+          "publikfavoriter",
+          "humor"
         ]
       }
     },
@@ -2449,8 +2449,8 @@
           "humor"
         ],
         "taggar": [
-          "humor",
-          "aktuellt"
+          "aktuellt",
+          "humor"
         ]
       }
     },
@@ -2661,6 +2661,36 @@
         ],
         "taggar": [
           "miu"
+        ]
+      }
+    },
+    {
+      "id": "ukk-46970",
+      "titel": "Jethro Tull – The Curiosity Tour",
+      "start": "2027-02-28T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/jethro-tull-the-curiosity-tour/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": [
+          "aktuellt"
         ]
       }
     },
@@ -3001,6 +3031,39 @@
       }
     },
     {
+      "id": "ukk-46979",
+      "titel": "Angélique Kidjo & Youssou N’Dour – Chimes of Freedom Tour",
+      "start": "2027-04-02T19:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/angelique-kidjo-youssou-ndour/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "jazz"
+        ],
+        "taggar": [
+          "publikfavoriter",
+          "aktuellt",
+          "student",
+          "mhv"
+        ]
+      }
+    },
+    {
       "id": "ukk-46603",
       "titel": "Marcus Berggren – Hittar hem",
       "start": "2027-04-02T20:00:00+02:00",
@@ -3079,6 +3142,34 @@
           "id": "ukk",
           "namn": "Uppsala Konsert & Kongress",
           "url": "https://ukk.se/euskefeurat-maranger-och-surdeg/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": []
+      }
+    },
+    {
+      "id": "ukk-47005",
+      "titel": "Björn Rosenström – 30 jävla år",
+      "start": "2027-04-09T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/bjorn-rosenstrom-30-javla-ar/"
         }
       ],
       "langvarig": false,

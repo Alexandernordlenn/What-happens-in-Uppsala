@@ -1,38 +1,9 @@
 {
   "kalla": "Bror Hjorths Hus",
   "webbsida": "https://brorhjorthshus.se/",
-  "hamtad": "2026-10-27T09:51:08.621Z",
-  "antal": 48,
+  "hamtad": "2026-10-28T10:40:10.499Z",
+  "antal": 47,
   "evenemang": [
-    {
-      "id": "bror-hjorths-hus-20469",
-      "titel": "Höstlovskonstskola för barn 8-12 år",
-      "start": "2026-10-27T09:00:00+01:00",
-      "slut": "2026-10-27T14:00:00+01:00",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "aktivitet",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "bror-hjorths-hus",
-          "namn": "Bror Hjorths Hus",
-          "url": "https://brorhjorthshus.se/evenemang/hostlovskonstskola-2026/2026-10-27/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Barn & Familj",
-          "Verkstad/kurs"
-        ],
-        "adress": "Norbyvägen 26, 752 39"
-      }
-    },
     {
       "id": "bror-hjorths-hus-20485",
       "titel": "Höstlovskonstskola för barn 8-12 år",

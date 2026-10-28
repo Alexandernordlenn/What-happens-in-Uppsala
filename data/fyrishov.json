@@ -1,8 +1,8 @@
 {
   "kalla": "Fyrishov",
   "webbsida": "https://fyrishov.se/",
-  "hamtad": "2026-10-27T09:51:13.378Z",
-  "antal": 52,
+  "hamtad": "2026-10-28T10:40:15.343Z",
+  "antal": 55,
   "evenemang": [
     {
       "id": "fyrishov-20748",
@@ -269,6 +269,32 @@
       "slut": "2026-11-13T20:30:00+01:00"
     },
     {
+      "id": "fyrishov-25739",
+      "titel": "Lag-SM i rytmisk gymnastik",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/lag-sm-i-rytmisk-gymnastik/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-14T08:45:00+01:00",
+      "slut": "2026-11-14T16:30:00+01:00"
+    },
+    {
       "id": "fyrishov-18285",
       "titel": "Uppsala Volleyboll – Södertelge VBK",
       "plats": {
@@ -293,6 +319,60 @@
       },
       "start": "2026-11-15T17:00:00+01:00",
       "slut": "2026-11-15T19:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-2910",
+      "titel": "Frisbee – Force Fyris 2026",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A och C"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/frisbee-force-fyris/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "Frisbee"
+        ]
+      },
+      "start": "2026-11-21T08:00:00+01:00",
+      "slut": "2026-11-22T15:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-10107",
+      "titel": "Fritid för alla-dagen",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall E och F"
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/fritid-for-alla/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": []
+      },
+      "start": "2026-11-21T12:00:00+01:00",
+      "slut": "2026-11-21T18:00:00+01:00"
     },
     {
       "id": "fyrishov-13519",
