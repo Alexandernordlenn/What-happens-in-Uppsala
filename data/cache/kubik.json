@@ -1,4 +1,15 @@
 {
+  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-medicinhistoriska-museet/": {
+    "dagar": [
+      "to",
+      "sö"
+    ],
+    "hamtad": "2026-10-29"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/innebandylaeger-hoestlov-foer-barn-foedda-2019-20/": {
+    "dagar": [],
+    "hamtad": "2026-10-28"
+  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/gymnastiklaeger/": {
     "dagar": [
       "må",
@@ -9,22 +20,6 @@
     "tider": {
       "start": "08:30"
     },
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/haestkompisdagar/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/innebandylaeger-hoestlov-foer-barn-foedda-2017-18/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-lindbackens-fritidsklubb/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/innebandylaeger-hoestlov-foer-barn-foedda-2019-20/": {
-    "dagar": [],
     "hamtad": "2026-10-28"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovskul-i-gottsunda/": {
@@ -43,7 +38,7 @@
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/gameplan-open-court/": {
     "dagar": [],
-    "hamtad": "2026-10-22"
+    "hamtad": "2026-10-29"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/skraecklov-paa-gdt-kulturis-hoestlovslaeger-27-29-oktober/": {
     "dagar": [],
@@ -141,6 +136,10 @@
     "dagar": [],
     "hamtad": "2026-10-28"
   },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-lindbackens-fritidsklubb/": {
+    "dagar": [],
+    "hamtad": "2026-10-28"
+  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-med-bad-och-bus-paa-fyrishov/": {
     "dagar": [
       "on",
@@ -151,7 +150,7 @@
     "tider": {
       "start": "17:00"
     },
-    "hamtad": "2026-10-22"
+    "hamtad": "2026-10-29"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hittaut/": {
     "dagar": [],
@@ -179,7 +178,7 @@
       "start": "10:00",
       "slut": "15:00"
     },
-    "hamtad": "2026-10-22"
+    "hamtad": "2026-10-29"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovsskoj-i-naturum-faernebofjaerden/": {
     "dagar": [],
@@ -224,6 +223,10 @@
     "dagar": [],
     "hamtad": "2026-10-28"
   },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/producera-en-hiphop-laat/": {
+    "dagar": [],
+    "hamtad": "2026-10-29"
+  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/aterbruksverkstad-helgtema-paa-biotopia/": {
     "dagar": [],
     "hamtad": "2026-10-28"
@@ -254,6 +257,10 @@
   "https://www.kubikuppsala.se/hitta-aktiviteter/skridskoskola/": {
     "dagar": [],
     "hamtad": "2026-10-28"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/konstaakningstaevling-usk-trofen/": {
+    "dagar": [],
+    "hamtad": "2026-10-29"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/nyhetsklubb/": {
     "dagar": [

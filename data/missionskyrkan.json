@@ -1,63 +1,13 @@
 {
   "kalla": "Uppsala Missionskyrka",
   "webbsida": "https://www.uppsalamissionskyrka.se/",
-  "hamtad": "2026-10-28T10:40:07.882Z",
-  "antal": 54,
+  "hamtad": "2026-10-29T10:56:36.878Z",
+  "antal": 52,
   "evenemang": [
     {
-      "id": "missionskyrkan-13051",
-      "titel": "Lunchmusik: Nina Hamrén, Erik Boström och Hans Ove Olsson",
-      "start": "2026-10-28T12:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/lunchmusik-nina-hamren-erik-bostrom-och-hans-ove-olsson/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": []
-      }
-    },
-    {
-      "id": "missionskyrkan-13345",
-      "titel": "Kulturkväll: Mishmosh – Judiska meditationer",
-      "start": "2026-10-28T19:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/kulturkvall-mishmosh-judiska-meditationer-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": []
-      }
-    },
-    {
       "id": "missionskyrkan-13210",
-      "titel": "Konsert Norrlands Nations Kammarkör",
-      "start": "2026-10-30T18:00:00+01:00",
+      "titel": "Kl 19.00 Konsert Norrlands Nations Kammarkör",
+      "start": "2026-10-30T19:00:00+01:00",
       "slut": null,
       "plats": {
         "namn": "Missionskyrkan",

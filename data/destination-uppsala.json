@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-28T10:34:10.179Z",
-  "antal": 171,
+  "hamtad": "2026-10-29T10:53:58.090Z",
+  "antal": 182,
   "evenemang": [
     {
       "id": "du-katarina-jagellonica-500-ar",
@@ -715,37 +715,6 @@
       }
     },
     {
-      "id": "du-terra-2",
-      "titel": "Terra – extrakonsert",
-      "start": "2026-10-28",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/terra-2/",
-          "arrangor": "https://secure.tickster.com/sv/fj2mkwvn0terxl1/selectproductgroup"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-28"
-        ]
-      }
-    },
-    {
       "id": "du-monster-och-gudar",
       "titel": "Monster och gudar",
       "start": "2026-10-28",
@@ -772,43 +741,6 @@
           "hostlov",
           "teater"
         ]
-      }
-    },
-    {
-      "id": "du-hisnande-halloween-klattring-pa-kfum-alnas",
-      "titel": "Hisnande Halloween-klättring på KFUM Alnäs",
-      "start": "2026-10-28T16:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "KFUM Alnäs Friluftsgård",
-        "id": "du-plats-kfum-alnäs-friluftsgård"
-      },
-      "kategori": "sport",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/hisnande-halloween-klattring-pa-kfum-alnas/",
-          "arrangor": "https://www.facebook.com/events/s/hisnande-halloweenklattring-pa/1726054328481957/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "aktiviteter",
-          "barn-familj",
-          "hostlov",
-          "sport"
-        ],
-        "datum": [
-          "2026-10-28"
-        ],
-        "tider": {
-          "start": "16:00"
-        }
       }
     },
     {
@@ -843,40 +775,6 @@
         ],
         "tider": {
           "start": "18:15"
-        }
-      }
-    },
-    {
-      "id": "du-13x13-jordens-forhistoriska-klimatforandringar-istider-och-varmetider-under-600-miljoner-ar",
-      "titel": "13×13: Jordens förhistoriska klimatförändringar – istider och värmetider under 600 miljoner år",
-      "start": "2026-10-28T18:30:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Humanistiska teatern",
-        "id": "humanistiska"
-      },
-      "kategori": "ovrigt",
-      "gratis": true,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/13x13-jordens-forhistoriska-klimatforandringar-istider-och-varmetider-under-600-miljoner-ar/",
-          "arrangor": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "ovrigt"
-        ],
-        "datum": [
-          "2026-10-28"
-        ],
-        "tider": {
-          "start": "18:30"
         }
       }
     },
@@ -1108,6 +1006,40 @@
         ],
         "tider": {
           "start": "11:00"
+        }
+      }
+    },
+    {
+      "id": "du-bandy-ik-sirius-vanersborg",
+      "titel": "Bandy: IK Sirius – Vänersborg",
+      "start": "2026-10-31T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bandy-ik-sirius-vanersborg/",
+          "arrangor": "https://siriusbandy.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
+        ],
+        "datum": [
+          "2026-10-31"
+        ],
+        "tider": {
+          "start": "15:00"
         }
       }
     },
@@ -1773,6 +1705,37 @@
       }
     },
     {
+      "id": "du-bandy-ik-sirius-vetlanda",
+      "titel": "Bandy: IK Sirius – Vetlanda",
+      "start": "2026-11-13",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bandy-ik-sirius-vetlanda/",
+          "arrangor": "https://siriusbandy.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
+        ],
+        "datum": [
+          "2026-11-13"
+        ]
+      }
+    },
+    {
       "id": "du-christoffer-nyqvist-lejonet-fran-norden",
       "titel": "Christoffer Nyqvist – Lejonet från Norden",
       "start": "2026-11-13T19:30:00+01:00",
@@ -2213,6 +2176,37 @@
       }
     },
     {
+      "id": "du-bandy-ik-sirius-gripen",
+      "titel": "Bandy: IK Sirius – Gripen",
+      "start": "2026-11-20",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bandy-ik-sirius-gripen/",
+          "arrangor": "https://siriusbandy.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
+        ],
+        "datum": [
+          "2026-11-20"
+        ]
+      }
+    },
+    {
       "id": "du-hansson-de-wolfe-united",
       "titel": "Hansson de Wolfe United",
       "start": "2026-11-20T19:30:00+01:00",
@@ -2469,6 +2463,37 @@
       "fakta": {
         "kategorier": [
           "standup"
+        ],
+        "datum": [
+          "2026-11-24"
+        ]
+      }
+    },
+    {
+      "id": "du-bandy-ik-sirius-edsbyn",
+      "titel": "Bandy: IK Sirius – Edsbyn",
+      "start": "2026-11-24",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bandy-ik-sirius-edsbyn/",
+          "arrangor": "https://siriusbandy.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
         ],
         "datum": [
           "2026-11-24"
@@ -3033,6 +3058,37 @@
         "kategorier": [
           "jul",
           "konsert"
+        ]
+      }
+    },
+    {
+      "id": "du-bandy-ik-sirius-tillberga",
+      "titel": "Bandy: IK Sirius – Tillberga",
+      "start": "2026-12-01",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": true,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bandy-ik-sirius-tillberga/",
+          "arrangor": "https://siriusbandy.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
+        ],
+        "datum": [
+          "2026-12-21"
         ]
       }
     },
@@ -3876,6 +3932,37 @@
       }
     },
     {
+      "id": "du-bandy-ik-sirius-vasteras",
+      "titel": "Bandy: IK Sirius – Västerås",
+      "start": "2026-12-11",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bandy-ik-sirius-vasteras/",
+          "arrangor": "https://siriusbandy.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
+        ],
+        "datum": [
+          "2026-12-11"
+        ]
+      }
+    },
+    {
       "id": "du-luciakonsert-med-young-cathedral-voices-2026",
       "titel": "Luciakonsert med Young Cathedral Voices",
       "start": "2026-12-11T18:00:00+01:00",
@@ -4185,6 +4272,40 @@
         ],
         "tider": {
           "start": "16:00"
+        }
+      }
+    },
+    {
+      "id": "du-allsang-i-juletid",
+      "titel": "Allsång i juletid",
+      "start": "2026-12-13T16:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "ovrigt",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/allsang-i-juletid/",
+          "arrangor": "https://www.tickster.com/se/sv/events/grprr02hf50wwy7/2026-12-13/allsang-i-juletid"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "aktiviteter"
+        ],
+        "datum": [
+          "2026-12-13"
+        ],
+        "tider": {
+          "start": "16:30"
         }
       }
     },
@@ -4499,6 +4620,37 @@
       }
     },
     {
+      "id": "du-bandy-ik-sirius-hammarby",
+      "titel": "Bandy: IK Sirius – Hammarby",
+      "start": "2026-12-26",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bandy-ik-sirius-hammarby/",
+          "arrangor": "https://siriusbandy.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
+        ],
+        "datum": [
+          "2026-12-26"
+        ]
+      }
+    },
+    {
       "id": "du-nyarsoppet-i-tropiska-vaxthuset-2026",
       "titel": "Nyårsöppet i Tropiska växthuset",
       "start": "2027-01-01T12:00:00+01:00",
@@ -4536,6 +4688,37 @@
       }
     },
     {
+      "id": "du-bandy-ik-sirius-aby-tjureda",
+      "titel": "Bandy: IK Sirius – Åby Tjureda",
+      "start": "2027-01-02",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bandy-ik-sirius-aby-tjureda/",
+          "arrangor": "https://siriusbandy.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
+        ],
+        "datum": [
+          "2027-01-02"
+        ]
+      }
+    },
+    {
       "id": "du-trettondagsafton-2027-uppsala-kammarorkester",
       "titel": "Trettondagsafton 2027 – Uppsala Kammarorkester",
       "start": "2027-01-05",
@@ -4567,6 +4750,37 @@
       }
     },
     {
+      "id": "du-bandy-ik-sirius-bollnas",
+      "titel": "Bandy: IK Sirius – Bollnäs",
+      "start": "2027-01-05",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bandy-ik-sirius-bollnas/",
+          "arrangor": "https://siriusbandy.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
+        ],
+        "datum": [
+          "2027-01-05"
+        ]
+      }
+    },
+    {
       "id": "du-teater-ingenmansland",
       "titel": "Teater: Ingenmansland",
       "start": "2027-01-07",
@@ -4590,6 +4804,37 @@
       "fakta": {
         "kategorier": [
           "teater"
+        ]
+      }
+    },
+    {
+      "id": "du-bandy-ik-sirius-frillesas",
+      "titel": "Bandy: IK Sirius – Frillesås",
+      "start": "2027-01-15",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bandy-ik-sirius-frillesas/",
+          "arrangor": "https://siriusbandy.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
+        ],
+        "datum": [
+          "2027-01-15"
         ]
       }
     },
@@ -4654,6 +4899,37 @@
         ],
         "datum": [
           "2027-01-24"
+        ]
+      }
+    },
+    {
+      "id": "du-bandy-ik-sirius-broberg",
+      "titel": "Bandy: IK Sirius – Broberg",
+      "start": "2027-01-27",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bandy-ik-sirius-broberg/",
+          "arrangor": "https://siriusbandy.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
+        ],
+        "datum": [
+          "2027-01-27"
         ]
       }
     },
@@ -4850,6 +5126,37 @@
       }
     },
     {
+      "id": "du-bandy-ik-sirius-villa-lidkoping",
+      "titel": "Bandy: IK Sirius – Villa Lidköping",
+      "start": "2027-02-05",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bandy-ik-sirius-villa-lidkoping/",
+          "arrangor": "https://siriusbandy.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
+        ],
+        "datum": [
+          "2027-02-05"
+        ]
+      }
+    },
+    {
       "id": "du-nour-el-refai-glows-in-the-dark",
       "titel": "Nour El Refai – Glows in the dark",
       "start": "2027-02-05T19:00:00+01:00",
@@ -4915,6 +5222,37 @@
         "tider": {
           "start": "19:00"
         }
+      }
+    },
+    {
+      "id": "du-bandy-ik-sirius-sandviken",
+      "titel": "Bandy: IK Sirius – Sandviken",
+      "start": "2027-02-12",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/bandy-ik-sirius-sandviken/",
+          "arrangor": "https://siriusbandy.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "sport"
+        ],
+        "datum": [
+          "2027-02-12"
+        ]
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "kalla": "Biotopia",
   "webbsida": "https://biotopia.nu/kalender/",
-  "hamtad": "2026-10-28T10:40:11.804Z",
+  "hamtad": "2026-10-29T10:56:41.404Z",
   "antal": 29,
   "evenemang": [
     {
@@ -61,37 +61,6 @@
         "kategorier": [
           "För en grön framtid",
           "För barn"
-        ]
-      }
-    },
-    {
-      "id": "biotopia-1191",
-      "titel": "Spök- och monsterpyssel samt korvgrillning i Karlssons källare",
-      "start": "2026-10-28",
-      "slut": null,
-      "plats": {
-        "namn": "Hammarskog",
-        "id": "hammarskog",
-        "rum": "Karlssons källare"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": null,
-      "kallor": [
-        {
-          "id": "biotopia",
-          "namn": "Biotopia",
-          "url": "https://biotopia.nu/?post_type=post&p=1191"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "För barn",
-          "För vuxna",
-          "Lördagar i Hammarskog"
         ]
       }
     },
@@ -670,6 +639,38 @@
           "För barn",
           "Med Biotopia",
           "Torsdagskul"
+        ]
+      }
+    },
+    {
+      "id": "biotopia-2517",
+      "titel": "Lunchsamtal: Om grönskande lövrum, skidåkning och att uppleva naturen utan syn",
+      "start": "2026-11-27",
+      "slut": null,
+      "plats": {
+        "namn": "Biotopia",
+        "id": "biotopia"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "alder": null,
+      "kallor": [
+        {
+          "id": "biotopia",
+          "namn": "Biotopia",
+          "url": "https://biotopia.nu/?post_type=post&p=2517"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "För vuxna",
+          "Föredrag",
+          "Med Biotopia",
+          "På Biotopia",
+          "Tillgängliga aktiviteter"
         ]
       }
     },

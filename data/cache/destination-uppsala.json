@@ -1,27 +1,9 @@
 {
-  "https://destinationuppsala.se/event/terra-2/": {
-    "nar": "28 oktober, 2026",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://secure.tickster.com/sv/fj2mkwvn0terxl1/selectproductgroup",
-    "hamtad": "2026-10-08"
-  },
-  "https://destinationuppsala.se/event/13x13-jordens-forhistoriska-klimatforandringar-istider-och-varmetider-under-600-miljoner-ar/": {
-    "nar": "28 oktober 2026, kl. 18.30–19.30",
-    "pris": "Gratis",
-    "arrangorensSida": "https://www.uu.se/institution/fysik-och-astronomi/samverkan/13x13",
-    "hamtad": "2026-10-08"
-  },
   "https://destinationuppsala.se/event/ozzy-black-sabbath-back-to-the-beginning/": {
     "nar": "28–29 oktober, 2026, kl. 18.15",
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://www.nfbio.se/ozzy-black-sabbath-back-beginning?city=uppsala#buy-btn",
     "hamtad": "2026-10-08"
-  },
-  "https://destinationuppsala.se/event/hisnande-halloween-klattring-pa-kfum-alnas/": {
-    "nar": "28 oktober 2026, kl. 16.00–18.00 och 18.00–20.00",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://www.facebook.com/events/s/hisnande-halloweenklattring-pa/1726054328481957/",
-    "hamtad": "2026-10-15"
   },
   "https://destinationuppsala.se/event/viktor-noren-linus-wahlgren-vara-liv-vara-musikaler/": {
     "nar": "29 oktober 2026 kl. 19.30",
@@ -58,6 +40,12 @@
     "pris": "Gratis",
     "arrangorensSida": "https://fb.me/e/7zIZY65au",
     "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/bandy-ik-sirius-vanersborg/": {
+    "nar": "31 oktober 2026, kl. 15.00",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://siriusbandy.se",
+    "hamtad": "2026-10-29"
   },
   "https://destinationuppsala.se/event/elvis-elvis-elvis-2026/": {
     "nar": "1 november 2026 kl. 18:00",
@@ -173,6 +161,12 @@
     "arrangorensSida": "https://ukk.se/christoffer-nyqvist-lejonet-fran-norden/",
     "hamtad": "2026-10-07"
   },
+  "https://destinationuppsala.se/event/bandy-ik-sirius-vetlanda/": {
+    "nar": "13 nov 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://siriusbandy.se",
+    "hamtad": "2026-10-29"
+  },
   "https://destinationuppsala.se/event/dessi-hietala-sveriges-samsta-norrlanning/": {
     "nar": "14 november, 2026, kl. 20.00",
     "pris": "Betald biljett krävs",
@@ -251,6 +245,12 @@
     "arrangorensSida": "https://ukk.se/hansson-de-wolfe-united/",
     "hamtad": "2026-10-06"
   },
+  "https://destinationuppsala.se/event/bandy-ik-sirius-gripen/": {
+    "nar": "20 nov 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://siriusbandy.se",
+    "hamtad": "2026-10-29"
+  },
   "https://destinationuppsala.se/event/per-andersson-kardborreshowen-nov/": {
     "nar": "21 november 2026 kl. 19.30",
     "pris": "",
@@ -286,6 +286,12 @@
     "pris": "Betald biljett krävs",
     "arrangorensSida": "http://www.fyriscomedy.com/biljetter",
     "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/bandy-ik-sirius-edsbyn/": {
+    "nar": "24 nov 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://siriusbandy.se",
+    "hamtad": "2026-10-29"
   },
   "https://destinationuppsala.se/event/13x13-att-tamja-litium/": {
     "nar": "25 november 2026, kl. 18.30–19.30",
@@ -364,6 +370,12 @@
     "pris": "",
     "arrangorensSida": "https://ukk.se/christmas-in-ireland/",
     "hamtad": "2026-09-24"
+  },
+  "https://destinationuppsala.se/event/bandy-ik-sirius-tillberga/": {
+    "nar": "21 december 2026",
+    "pris": "Gratis",
+    "arrangorensSida": "https://siriusbandy.se",
+    "hamtad": "2026-10-29"
   },
   "https://destinationuppsala.se/event/toussaint-chiza/": {
     "nar": "Onsdag 2 december 2026, kl. 19.30",
@@ -515,6 +527,12 @@
     "arrangorensSida": "https://www.svenskakyrkan.se/uppsaladomkyrka/aktuellt",
     "hamtad": "2026-10-14"
   },
+  "https://destinationuppsala.se/event/bandy-ik-sirius-vasteras/": {
+    "nar": "11 december 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://siriusbandy.se",
+    "hamtad": "2026-10-29"
+  },
   "https://destinationuppsala.se/event/lantlig-julmarknad-pa-ekbolanda-gard/": {
     "nar": "12–13 december, 2026, kl. 11.00–16.00",
     "pris": "Gratis",
@@ -569,6 +587,12 @@
     "arrangorensSida": "https://kulturbiljetter.se/evenemang/9221/luciakonsert-med-sorella",
     "hamtad": "2026-10-28"
   },
+  "https://destinationuppsala.se/event/allsang-i-juletid/": {
+    "nar": "13 december 2026, kl. 16.30",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://www.tickster.com/se/sv/events/grprr02hf50wwy7/2026-12-13/allsang-i-juletid",
+    "hamtad": "2026-10-29"
+  },
   "https://destinationuppsala.se/event/valter-nilsson-3/": {
     "nar": "15 december, 2026",
     "pris": "Betald biljett krävs",
@@ -605,17 +629,41 @@
     "arrangorensSida": "https://www.svenskakyrkan.se/uppsaladomkyrka/aktuellt",
     "hamtad": "2026-10-09"
   },
+  "https://destinationuppsala.se/event/bandy-ik-sirius-hammarby/": {
+    "nar": "26 december 2026",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://siriusbandy.se",
+    "hamtad": "2026-10-29"
+  },
   "https://destinationuppsala.se/event/nyarsoppet-i-tropiska-vaxthuset-2026/": {
     "nar": "1 januari 2027 kl. 12.00–3 januari 2027 kl. 15.00",
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://www.uu.se/botaniska-tradgarden",
     "hamtad": "2026-10-08"
   },
+  "https://destinationuppsala.se/event/bandy-ik-sirius-aby-tjureda/": {
+    "nar": "2 januari 2027",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://siriusbandy.se",
+    "hamtad": "2026-10-29"
+  },
   "https://destinationuppsala.se/event/trettondagsafton-2027-uppsala-kammarorkester/": {
     "nar": "5 januari 2027",
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://www.musikiuppland.se/konsert/trettondagsafton-2027/",
     "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/bandy-ik-sirius-bollnas/": {
+    "nar": "5 januari 2027",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://siriusbandy.se",
+    "hamtad": "2026-10-29"
+  },
+  "https://destinationuppsala.se/event/bandy-ik-sirius-frillesas/": {
+    "nar": "15 januari 2027",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://siriusbandy.se",
+    "hamtad": "2026-10-29"
   },
   "https://destinationuppsala.se/event/djungelboken-the-musical/": {
     "nar": "Lördag 23 januari 2027",
@@ -628,6 +676,12 @@
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://www.musikiuppland.se/konsert/poste-restante-24-1/",
     "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/bandy-ik-sirius-broberg/": {
+    "nar": "27 januari 2027",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://siriusbandy.se",
+    "hamtad": "2026-10-29"
   },
   "https://destinationuppsala.se/event/copland-och-beethoven-uppsala-kammarorkester/": {
     "nar": "28 januari 2027",
@@ -665,11 +719,23 @@
     "arrangorensSida": "https://www.kahlo.se/nourelrefai",
     "hamtad": "2026-10-08"
   },
+  "https://destinationuppsala.se/event/bandy-ik-sirius-villa-lidkoping/": {
+    "nar": "5 februari 2027",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://siriusbandy.se",
+    "hamtad": "2026-10-29"
+  },
   "https://destinationuppsala.se/event/molly-hammar-livsvittne/": {
     "nar": "11 februari 2027 kl. 19.00",
     "pris": "",
     "arrangorensSida": "https://ukk.se/molly-hammar/",
     "hamtad": "2026-10-08"
+  },
+  "https://destinationuppsala.se/event/bandy-ik-sirius-sandviken/": {
+    "nar": "12 februari 2027",
+    "pris": "Betald biljett krävs",
+    "arrangorensSida": "https://siriusbandy.se",
+    "hamtad": "2026-10-29"
   },
   "https://destinationuppsala.se/event/kim-wilde-the-singles-tour-2027/": {
     "nar": "Lördag 13 februari 2027 kl. 19.30",

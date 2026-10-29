@@ -1,8 +1,8 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-28T10:39:52.663Z",
-  "antal": 112,
+  "hamtad": "2026-10-29T10:56:23.765Z",
+  "antal": 113,
   "evenemang": [
     {
       "id": "ukk-33441",
@@ -90,8 +90,8 @@
           "teater"
         ],
         "taggar": [
-          "familj",
-          "hostlov"
+          "hostlov",
+          "familj"
         ]
       }
     },
@@ -183,10 +183,10 @@
           "barn"
         ],
         "taggar": [
+          "jazz",
           "familj",
           "aktuellt",
-          "hostlov",
-          "jazz"
+          "hostlov"
         ]
       }
     },
@@ -251,6 +251,35 @@
       }
     },
     {
+      "id": "ukk-47118",
+      "titel": "Invigning av Allt Ljus på Uppsala 2026",
+      "start": "2026-11-06T15:45:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/invigning-av-allt-ljus-pa-uppsala-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "samtal",
+          "festligheter-hogtider"
+        ],
+        "taggar": []
+      }
+    },
+    {
       "id": "ukk-29807",
       "titel": "Sven Ingvars – Igår. Idag. Imorgon. 70 år.",
       "start": "2026-11-06T19:00:00+01:00",
@@ -304,10 +333,10 @@
           "jazz"
         ],
         "taggar": [
+          "jazz",
           "publikfavoriter",
           "student",
-          "mhv",
-          "jazz"
+          "mhv"
         ]
       }
     },
@@ -397,8 +426,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "mhv",
-          "student"
+          "student",
+          "mhv"
         ]
       }
     },
@@ -1041,9 +1070,9 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "jul",
           "dans",
-          "familj"
+          "familj",
+          "jul"
         ]
       }
     },
@@ -1073,8 +1102,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "jul",
-          "publikfavoriter"
+          "publikfavoriter",
+          "jul"
         ]
       }
     },
@@ -1104,9 +1133,9 @@
           "pop-rock"
         ],
         "taggar": [
-          "publikfavoriter",
           "student",
-          "mhv"
+          "mhv",
+          "publikfavoriter"
         ]
       }
     },
@@ -1224,14 +1253,14 @@
       "fakta": {
         "kategorier": [
           "dans",
-          "barn",
           "klassiskt",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "barn"
         ],
         "taggar": [
+          "familj",
           "jul",
-          "dans",
-          "familj"
+          "dans"
         ]
       }
     },
@@ -1261,9 +1290,9 @@
           "jazz"
         ],
         "taggar": [
+          "aktuellt",
           "student",
-          "mhv",
-          "aktuellt"
+          "mhv"
         ]
       }
     },
@@ -1325,6 +1354,7 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "dinnershow",
           "jul"
         ]
       }
@@ -1421,7 +1451,8 @@
           "dans"
         ],
         "taggar": [
-          "jul"
+          "jul",
+          "dinnershow"
         ]
       }
     },
@@ -1480,8 +1511,8 @@
       "fakta": {
         "kategorier": [
           "festligheter-hogtider",
-          "barn",
-          "klassiskt"
+          "klassiskt",
+          "barn"
         ],
         "taggar": [
           "student",
@@ -1517,9 +1548,10 @@
           "dans"
         ],
         "taggar": [
-          "publikfavoriter",
           "aktuellt",
-          "jul"
+          "jul",
+          "dinnershow",
+          "publikfavoriter"
         ]
       }
     },
@@ -1581,11 +1613,11 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "mhv",
+          "jul",
           "jazz",
           "aktuellt",
-          "student",
-          "mhv",
-          "jul"
+          "student"
         ]
       }
     },
@@ -1681,11 +1713,11 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "student",
-          "jul",
           "familj",
           "publikfavoriter",
-          "aktuellt"
+          "aktuellt",
+          "student",
+          "jul"
         ]
       }
     },
@@ -1776,13 +1808,13 @@
       "fakta": {
         "kategorier": [
           "festligheter-hogtider",
-          "barn",
-          "klassiskt"
+          "klassiskt",
+          "barn"
         ],
         "taggar": [
+          "jul",
           "familj",
-          "aktuellt",
-          "jul"
+          "aktuellt"
         ]
       }
     },
@@ -1810,15 +1842,15 @@
       "fakta": {
         "kategorier": [
           "nostalgi-tribute",
-          "jazz",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "jazz"
         ],
         "taggar": [
+          "mhv",
+          "jul",
           "jazz",
           "lunchkonsert",
-          "student",
-          "mhv",
-          "jul"
+          "student"
         ]
       }
     },
@@ -2242,8 +2274,8 @@
           "humor"
         ],
         "taggar": [
-          "publikfavoriter",
-          "humor"
+          "humor",
+          "publikfavoriter"
         ]
       }
     },
@@ -2449,8 +2481,8 @@
           "humor"
         ],
         "taggar": [
-          "aktuellt",
-          "humor"
+          "humor",
+          "aktuellt"
         ]
       }
     },
@@ -2540,8 +2572,8 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "aktuellt",
+          "familj"
         ]
       }
     },
@@ -3120,8 +3152,8 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "aktuellt",
+          "familj"
         ]
       }
     },
@@ -3178,7 +3210,9 @@
         "kategorier": [
           "pop-rock"
         ],
-        "taggar": []
+        "taggar": [
+          "aktuellt"
+        ]
       }
     },
     {

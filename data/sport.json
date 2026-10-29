@@ -1,34 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-28T10:39:36.508Z",
-  "antal": 123,
+  "hamtad": "2026-10-29T10:56:06.067Z",
+  "antal": 122,
   "evenemang": [
-    {
-      "id": "sport-swehockey-90131104",
-      "titel": "Almtuna IS – Västerås IK",
-      "start": "2026-10-28T19:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Gränby ishall",
-        "id": "granbyishall"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Ishockey",
-      "liga": "HockeyAllsvenskan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
-          "biljetter": "https://www.almtuna.com/biljettinformation"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-sportality-ib0g7hxjoc",
       "titel": "Storvreta IBK – KAIS Mora IF (dam)",

@@ -1,133 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-28T10:34:40.784Z",
-  "antal": 295,
+  "hamtad": "2026-10-29T10:54:31.720Z",
+  "antal": 292,
   "evenemang": [
-    {
-      "id": "tickster-abt3utwwg88jfkb",
-      "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
-      "start": "2026-10-28T11:30:00+01:00",
-      "slut": "2026-10-28T12:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala slottshistoriska",
-        "id": "slottshist",
-        "lat": 59.8542,
-        "lng": 17.6351
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/abt3utwwg88jfkb/2026-10-28/hostlov-ficklampsvisning-i-slottskallarens-morker",
-          "biljetter": "https://secure.tickster.com/abt3utwwg88jfkb"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-9bx3v707y07f4nx",
-      "titel": "Sirius vs Sundsvall FBC",
-      "start": "2026-10-28T19:00:00+01:00",
-      "slut": "2026-10-28T19:00:00+01:00",
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu",
-        "lat": 59.882,
-        "lng": 17.6562
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/9bx3v707y07f4nx/2026-10-28/sirius-vs-sundsvall-fbc",
-          "biljetter": "https://secure.tickster.com/9bx3v707y07f4nx"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-fj2mkwvn0terxl1",
-      "titel": "Terra - Extrakonsert",
-      "start": "2026-10-28T20:00:00+01:00",
-      "slut": "2026-10-28T22:00:00+01:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8595,
-        "lng": 17.6465
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/fj2mkwvn0terxl1/2026-10-28/terra-extrakonsert",
-          "biljetter": "https://secure.tickster.com/fj2mkwvn0terxl1"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinlive",
-          "uppsala",
-          "katalin",
-          "musik",
-          "konsert",
-          "kaliber live",
-          "terra",
-          "luger",
-          "indie",
-          "pop",
-          "rock"
-        ]
-      }
-    },
-    {
-      "id": "tickster-5k13eg4wze32f7l",
-      "titel": "Jonatan Stenson - Katalins Bakficka",
-      "start": "2026-10-28T20:00:00+01:00",
-      "slut": "2026-10-28T23:00:00+01:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/5k13eg4wze32f7l/2026-10-28/jonatan-stenson-katalins-bakficka",
-          "biljetter": "https://secure.tickster.com/5k13eg4wze32f7l"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinsjazzbar",
-          "katalinuppsala",
-          "katalinandallthatjazz",
-          "jonatanstenson",
-          "katalinsbakficka"
-        ]
-      }
-    },
     {
       "id": "tickster-l5yewmgpzflnue0",
       "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
@@ -148,29 +24,6 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/l5yewmgpzflnue0/2026-10-29/hostlov-ficklampsvisning-i-slottskallarens-morker",
           "biljetter": "https://secure.tickster.com/l5yewmgpzflnue0"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-cxgnyurzvg8h3m9",
-      "titel": "Konst & bar: Eija-Liisa Ahtila",
-      "start": "2026-10-29T18:00:00+01:00",
-      "slut": "2026-10-29T20:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/cxgnyurzvg8h3m9/2026-10-29/konst-and-bar-eija-liisa-ahtila",
-          "biljetter": "https://secure.tickster.com/cxgnyurzvg8h3m9"
         }
       ],
       "langvarig": false,
@@ -739,31 +592,6 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/lzvgxtv9gk5vw6b/2026-10-31/urban-vybez-club-halloween-31-oct",
           "biljetter": "https://secure.tickster.com/lzvgxtv9gk5vw6b"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-kfyfxrah1edy3hn",
-      "titel": "Workshop: Stadskroki",
-      "start": "2026-11-01T13:00:00+01:00",
-      "slut": "2026-11-01T15:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala slottshistoriska",
-        "id": "slottshist",
-        "lat": 59.8542,
-        "lng": 17.6351
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/kfyfxrah1edy3hn/2026-11-01/workshop-stadskroki",
-          "biljetter": "https://secure.tickster.com/kfyfxrah1edy3hn"
         }
       ],
       "langvarig": false,
@@ -3031,7 +2859,7 @@
     },
     {
       "id": "tickster-at8082h188t3j42",
-      "titel": "Songs of love and comfort",
+      "titel": "Bengan Janson, Anna Widing & Lennart Simonsson",
       "start": "2026-11-25T19:30:00+01:00",
       "slut": "2026-11-25T22:00:00+01:00",
       "plats": {
@@ -3045,7 +2873,7 @@
         {
           "id": "tickster",
           "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/at8082h188t3j42/2026-11-25/songs-of-love-and-comfort",
+          "url": "https://www.tickster.com/se/sv/events/at8082h188t3j42/2026-11-25/bengan-janson-anna-widing-and-lennart-simonsson",
           "biljetter": "https://secure.tickster.com/at8082h188t3j42"
         }
       ],
@@ -5116,37 +4944,6 @@
       }
     },
     {
-      "id": "tickster-6c67nlpz8e76g8j",
-      "titel": "LABERO – A Magic Night",
-      "start": "2026-12-11T19:00:00+01:00",
-      "slut": "2026-12-11T20:40:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/6c67nlpz8e76g8j/2026-12-11/labero-a-magic-night",
-          "biljetter": "https://secure.tickster.com/6c67nlpz8e76g8j"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "barn"
-        ]
-      }
-    },
-    {
       "id": "tickster-lkua0zxttp96r1k",
       "titel": "Jul med Franska Trion",
       "start": "2026-12-11T19:00:00+01:00",
@@ -5175,6 +4972,37 @@
         "taggar": [
           "jul",
           "jazz"
+        ]
+      }
+    },
+    {
+      "id": "tickster-6c67nlpz8e76g8j",
+      "titel": "LABERO – A Magic Night",
+      "start": "2026-12-11T19:00:00+01:00",
+      "slut": "2026-12-11T20:40:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/6c67nlpz8e76g8j/2026-12-11/labero-a-magic-night",
+          "biljetter": "https://secure.tickster.com/6c67nlpz8e76g8j"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "barn"
         ]
       }
     },
@@ -6348,45 +6176,6 @@
       "installd": false
     },
     {
-      "id": "tickster-t2pya3kfhwp6j2l",
-      "titel": "LKN",
-      "start": "2027-01-15T20:00:00+01:00",
-      "slut": "2027-01-15T22:00:00+01:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8595,
-        "lng": 17.6465
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/t2pya3kfhwp6j2l/2027-01-15/lkn",
-          "biljetter": "https://secure.tickster.com/t2pya3kfhwp6j2l"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinlive",
-          "uppsala",
-          "katalin",
-          "musik",
-          "konsert",
-          "kaliber live",
-          "lkn",
-          "luger",
-          "tiktok",
-          "rnb"
-        ]
-      }
-    },
-    {
       "id": "tickster-7z2bw1c1xeneehb",
       "titel": "TMS BOWIE LOW+HEROES",
       "start": "2027-01-16T20:00:00+01:00",
@@ -6422,6 +6211,45 @@
           "konsert",
           "live",
           "tms bowie"
+        ]
+      }
+    },
+    {
+      "id": "tickster-t2pya3kfhwp6j2l",
+      "titel": "LKN",
+      "start": "2027-01-22T20:00:00+01:00",
+      "slut": "2027-01-22T22:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8595,
+        "lng": 17.6465
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/t2pya3kfhwp6j2l/2027-01-22/lkn",
+          "biljetter": "https://secure.tickster.com/t2pya3kfhwp6j2l"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "kaliber live",
+          "lkn",
+          "luger",
+          "tiktok",
+          "rnb"
         ]
       }
     },
@@ -6800,6 +6628,46 @@
       "fakta": {
         "taggar": [
           "samhälle"
+        ]
+      }
+    },
+    {
+      "id": "tickster-wez1x72yzk7lvkr",
+      "titel": "Soul Pack - Motown & Beatles",
+      "start": "2027-01-30T20:00:00+01:00",
+      "slut": "2027-01-30T23:00:00+01:00",
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "lat": 59.8603,
+        "lng": 17.6456
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/wez1x72yzk7lvkr/2027-01-30/soul-pack-motown-and-beatles",
+          "biljetter": "https://secure.tickster.com/wez1x72yzk7lvkr"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "katalinlive",
+          "uppsala",
+          "katalin",
+          "musik",
+          "konsert",
+          "soul",
+          "party",
+          "soul pack",
+          "beatles",
+          "motown",
+          "pop"
         ]
       }
     },
@@ -8133,37 +8001,6 @@
       }
     },
     {
-      "id": "tickster-5mk041j56bludkj",
-      "titel": "Marika och Klimakteriet",
-      "start": "2027-03-12T19:30:00+01:00",
-      "slut": "2027-03-12T21:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/5mk041j56bludkj/2027-03-12/marika-och-klimakteriet",
-          "biljetter": "https://secure.tickster.com/5mk041j56bludkj"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "humor"
-        ]
-      }
-    },
-    {
       "id": "tickster-y5eb8j7mc7ve4y5",
       "titel": "Christoffer Nyqvist – Lejonet från Norden",
       "start": "2027-03-12T19:30:00+01:00",
@@ -8184,6 +8021,37 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/y5eb8j7mc7ve4y5/2027-03-12/christoffer-nyqvist-lejonet-fran-norden",
           "biljetter": "https://secure.tickster.com/y5eb8j7mc7ve4y5"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "humor"
+        ]
+      }
+    },
+    {
+      "id": "tickster-5mk041j56bludkj",
+      "titel": "Marika och Klimakteriet",
+      "start": "2027-03-12T19:30:00+01:00",
+      "slut": "2027-03-12T21:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/5mk041j56bludkj/2027-03-12/marika-och-klimakteriet",
+          "biljetter": "https://secure.tickster.com/5mk041j56bludkj"
         }
       ],
       "langvarig": false,
@@ -8426,6 +8294,32 @@
       "installd": false
     },
     {
+      "id": "tickster-1a3g30a0zklr189",
+      "titel": "Angélique Kidjo & Youssou N’Dour",
+      "start": "2027-04-02T19:30:00+02:00",
+      "slut": "2027-04-02T21:00:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/1a3g30a0zklr189/2027-04-02/angelique-kidjo-and-youssou-n-dour",
+          "biljetter": "https://secure.tickster.com/1a3g30a0zklr189"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-4lhdytm58kaaj2e",
       "titel": "Marcus Berggren – Hittar hem",
       "start": "2027-04-02T20:00:00+02:00",
@@ -8555,6 +8449,37 @@
           "eddie hultén",
           "monolog",
           "teater"
+        ]
+      }
+    },
+    {
+      "id": "tickster-m11jbxj6c2uvcny",
+      "titel": "Björn Rosenström – 30 jävla år",
+      "start": "2027-04-09T20:00:00+02:00",
+      "slut": "2027-04-09T21:50:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/m11jbxj6c2uvcny/2027-04-09/bjorn-rosenstrom-30-javla-ar",
+          "biljetter": "https://secure.tickster.com/m11jbxj6c2uvcny"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "rock"
         ]
       }
     },

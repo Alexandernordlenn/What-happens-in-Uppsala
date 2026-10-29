@@ -1,68 +1,9 @@
 {
   "kalla": "Katalin",
   "webbsida": "https://www.katalin.com/",
-  "hamtad": "2026-10-28T10:39:47.902Z",
-  "antal": 100,
+  "hamtad": "2026-10-29T10:56:16.941Z",
+  "antal": 99,
   "evenemang": [
-    {
-      "id": "katalin-17138",
-      "titel": "Terra – Extrakonsert",
-      "start": "2026-10-28T20:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Stora scen"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Slutsåld",
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/terra-extrakonsert/",
-          "biljetter": "https://secure.tickster.com/fj2mkwvn0terxl1"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "indie"
-        ]
-      }
-    },
-    {
-      "id": "katalin-17012",
-      "titel": "Jonatan Stenson",
-      "start": "2026-10-28T20:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Bakfickan"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/jonatan-stenson-katalins-bakficka/",
-          "biljetter": "https://secure.tickster.com/sv/5k13eg4wze32f7l/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "blues"
-        ]
-      }
-    },
     {
       "id": "katalin-17089",
       "titel": "Terra",
@@ -1477,6 +1418,36 @@
           "namn": "Katalin",
           "url": "https://www.katalin.com/events/froken-elvis-jul-2/",
           "biljetter": "https://secure.tickster.com/c5mwgtfxmh27cma"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "julkonsert"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17535",
+      "titel": "Julen enligt Timo – Solo",
+      "start": "2026-12-04T20:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Bakfickan"
+      },
+      "kategori": "musik",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "notering": "Få biljetter kvar",
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/julen-enligt-timo-solo/",
+          "biljetter": "https://biljett.kulturaktiebolaget.se/sv/wvbb07338wr1fzt/products?_gl=1%2Aam6g2s%2A_gcl_au%2AMTQ2ODM3ODM1OC4xNzkxODMwNzA5"
         }
       ],
       "langvarig": false,

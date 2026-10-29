@@ -1,67 +1,9 @@
 {
   "kalla": "Bror Hjorths Hus",
   "webbsida": "https://brorhjorthshus.se/",
-  "hamtad": "2026-10-28T10:40:10.499Z",
-  "antal": 47,
+  "hamtad": "2026-10-29T10:56:39.630Z",
+  "antal": 45,
   "evenemang": [
-    {
-      "id": "bror-hjorths-hus-20485",
-      "titel": "Höstlovskonstskola för barn 8-12 år",
-      "start": "2026-10-28T09:00:00+01:00",
-      "slut": "2026-10-28T14:00:00+01:00",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "aktivitet",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "bror-hjorths-hus",
-          "namn": "Bror Hjorths Hus",
-          "url": "https://brorhjorthshus.se/evenemang/hostlovskonstskola-2026-2026-10-28/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Barn & Familj",
-          "Verkstad/kurs"
-        ],
-        "adress": "Norbyvägen 26, 752 39"
-      }
-    },
-    {
-      "id": "bror-hjorths-hus-20435",
-      "titel": "Målerikurs för vuxna – Måla porträtt i olja",
-      "start": "2026-10-28T18:00:00+01:00",
-      "slut": "2026-10-28T20:30:00+01:00",
-      "plats": {
-        "namn": "Bror Hjorths Hus",
-        "id": "brorhjorth"
-      },
-      "kategori": "aktivitet",
-      "format": "kurs",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "bror-hjorths-hus",
-          "namn": "Bror Hjorths Hus",
-          "url": "https://brorhjorthshus.se/evenemang/malerikurs-for-vuxna-mala-portratt-i-olja/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Verkstad/kurs"
-        ],
-        "adress": "Norbyvägen 26, 752 39"
-      }
-    },
     {
       "id": "bror-hjorths-hus-20493",
       "titel": "Höstlov: Familjeverkstad",

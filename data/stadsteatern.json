@@ -1,34 +1,9 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-10-28T10:33:42.173Z",
-  "antal": 196,
+  "hamtad": "2026-10-29T10:52:57.733Z",
+  "antal": 195,
   "evenemang": [
-    {
-      "id": "stadsteatern-131527",
-      "titel": "Monster och gudar",
-      "start": "2026-10-28T13:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala stadsteater",
-        "id": "stadsteatern",
-        "rum": "Ettan"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "notering": "Slutsåld",
-      "kallor": [
-        {
-          "id": "stadsteatern",
-          "namn": "Uppsala stadsteater",
-          "url": "https://www.uppsalastadsteater.se/forestallningar/monster-och-gudar/",
-          "biljetter": "https://biljett.uppsalastadsteater.se/sv/buyingflow/tickets/32275/131527/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "stadsteatern-131536",
       "titel": "Monster och gudar",
@@ -42,7 +17,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": true,
-      "notering": "Få biljetter kvar",
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -408,7 +383,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
-      "notering": "Få biljetter kvar",
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",

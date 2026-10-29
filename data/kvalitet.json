@@ -1,15 +1,15 @@
 {
-  "matt": "2026-10-28T10:40:22.578Z",
-  "idag": "2026-10-28",
+  "matt": "2026-10-29T10:56:52.023Z",
+  "idag": "2026-10-29",
   "totalt": {
-    "antal": 1519,
-    "utanKlockslag": 0.035,
+    "antal": 1484,
+    "utanKlockslag": 0.04,
     "ovrigt": 0.033,
-    "familjUtanAlder": 0.192,
-    "utanOmrade": 0.018,
-    "sammanslagna": 477,
+    "familjUtanAlder": 0.194,
+    "utanOmrade": 0.02,
+    "sammanslagna": 478,
     "pagar14": 10,
-    "borttagnaKurser": 24,
+    "borttagnaKurser": 23,
     "aiEvenemang": 0,
     "misstanktaDubbletter": 0,
     "aiTackning": 0,
@@ -19,10 +19,10 @@
       "serie-uttryckliga-datum": 6,
       "speltid-mot-tillfallen": 10,
       "festival": 14,
-      "lika": 240,
-      "innehaller": 53,
+      "lika": 238,
+      "innehaller": 51,
       "likhet": 1,
-      "sport": 37
+      "sport": 45
     }
   },
   "perKalla": {
@@ -33,7 +33,7 @@
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.01,
-      "sammanslagna": 37,
+      "sammanslagna": 45,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -41,7 +41,7 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 121,
+      "antal": 123,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 305,
+      "antal": 292,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 94,
+      "sammanslagna": 89,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 618,
-      "utanKlockslag": 0.045,
+      "antal": 593,
+      "utanKlockslag": 0.047,
       "ovrigt": 0.013,
-      "familjUtanAlder": 0.112,
-      "utanOmrade": 0.006,
-      "sammanslagna": 131,
+      "familjUtanAlder": 0.113,
+      "utanOmrade": 0.008,
+      "sammanslagna": 124,
       "pagar14": 0,
       "borttagnaKurser": 23,
       "aiEvenemang": 0,
@@ -106,7 +106,7 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 81,
+      "antal": 82,
       "utanKlockslag": 0,
       "ovrigt": 0.037,
       "familjUtanAlder": 0.682,
@@ -119,9 +119,9 @@
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 54,
+      "antal": 52,
       "utanKlockslag": 0,
-      "ovrigt": 0.037,
+      "ovrigt": 0.038,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
       "sammanslagna": 1,
@@ -132,25 +132,25 @@
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 46,
+      "antal": 45,
       "utanKlockslag": 0,
       "ovrigt": 0,
-      "familjUtanAlder": 0.833,
+      "familjUtanAlder": 1,
       "utanOmrade": 0,
       "sammanslagna": 0,
       "pagar14": 0,
-      "borttagnaKurser": 1,
+      "borttagnaKurser": 0,
       "aiEvenemang": 0,
       "misstanktaDubbletter": 0
     },
     "n": {
       "namn": "Biotopia",
       "antal": 29,
-      "utanKlockslag": 0.609,
+      "utanKlockslag": 0.652,
       "ovrigt": 0,
-      "familjUtanAlder": 0.438,
+      "familjUtanAlder": 0.467,
       "utanOmrade": 0.103,
-      "sammanslagna": 12,
+      "sammanslagna": 11,
       "pagar14": 1,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -158,9 +158,9 @@
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 47,
+      "antal": 46,
       "utanKlockslag": 0,
-      "ovrigt": 0.021,
+      "ovrigt": 0.022,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
       "sammanslagna": 36,
@@ -184,12 +184,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 247,
-      "utanKlockslag": 0.07,
-      "ovrigt": 0.117,
-      "familjUtanAlder": 0.81,
-      "utanOmrade": 0.04,
-      "sammanslagna": 239,
+      "antal": 256,
+      "utanKlockslag": 0.091,
+      "ovrigt": 0.109,
+      "familjUtanAlder": 0.817,
+      "utanOmrade": 0.039,
+      "sammanslagna": 244,
       "pagar14": 9,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -197,9 +197,9 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 236,
+      "antal": 232,
       "utanKlockslag": 0,
-      "ovrigt": 0.051,
+      "ovrigt": 0.052,
       "familjUtanAlder": 0.68,
       "utanOmrade": 0.047,
       "sammanslagna": 232,
@@ -302,11 +302,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-28",
+      "dag": "2026-11-04",
       "plats": "stadsbib",
       "kallor": [
         "u",
-        "b",
         "b",
         "b",
         "b",
@@ -469,7 +468,7 @@
       "titlar": [
         "Höstlovskul: Formstarkt och eldigt"
       ],
-      "tillfallen": 5
+      "tillfallen": 4
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -483,7 +482,7 @@
         "Ficklampsvisning i slottskällarens mörker",
         "Höstlov: Ficklampsvisning i slottskällarens mörker"
       ],
-      "tillfallen": 3
+      "tillfallen": 2
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -496,7 +495,7 @@
       "titlar": [
         "Monster och gudar"
       ],
-      "tillfallen": 6
+      "tillfallen": 5
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -523,7 +522,7 @@
         "Teater: Lotten von Kræmer",
         "Lotten von Kræmer"
       ],
-      "tillfallen": 11
+      "tillfallen": 12
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -758,58 +757,6 @@
       ],
       "titlar": [
         "Nyhetsklubb"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-28",
-      "plats": "savjabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Pyssla stickers!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-28",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Enhörningsmys med Anna Ahlund"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-28",
-      "plats": "storvretabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Ficklampsläsning"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-29",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Babyrytmik"
       ],
       "poang": 1
     },
@@ -1867,20 +1814,6 @@
       "poang": 0.5
     },
     {
-      "regel": "innehaller",
-      "dag": "2026-10-28",
-      "plats": "hammarskog",
-      "kallor": [
-        "u",
-        "n"
-      ],
-      "titlar": [
-        "Spök- och monsterpyssel i Hammarskog",
-        "Spök- och monsterpyssel samt korvgrillning i Karlssons källare"
-      ],
-      "poang": 0.5
-    },
-    {
       "regel": "lika",
       "dag": "2026-10-31",
       "plats": "hammarskog",
@@ -2375,20 +2308,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-10-28",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d"
-      ],
-      "titlar": [
-        "Terra – Extrakonsert",
-        "Terra – extrakonsert"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-10-29",
       "plats": "katalin",
       "kallor": [
@@ -2453,6 +2372,20 @@
         "Marky Ramone’s Blitzkrieg"
       ],
       "poang": 0.8
+    },
+    {
+      "regel": "sport",
+      "dag": "2026-10-31",
+      "plats": "studenternas",
+      "kallor": [
+        "i",
+        "d"
+      ],
+      "titlar": [
+        "IK Sirius – IFK Vänersborg",
+        "Bandy: IK Sirius – Vänersborg"
+      ],
+      "poang": 1
     },
     {
       "regel": "lika",
@@ -2591,6 +2524,20 @@
       "poang": 1
     },
     {
+      "regel": "sport",
+      "dag": "2026-11-13",
+      "plats": "studenternas",
+      "kallor": [
+        "i",
+        "d"
+      ],
+      "titlar": [
+        "IK Sirius – Vetlanda BK",
+        "Bandy: IK Sirius – Vetlanda"
+      ],
+      "poang": 1
+    },
+    {
       "regel": "lika",
       "dag": "2026-11-13",
       "plats": "ukk",
@@ -2656,6 +2603,20 @@
         "Ana Moura – Fado utan gränser"
       ],
       "poang": 0.4
+    },
+    {
+      "regel": "sport",
+      "dag": "2026-11-20",
+      "plats": "studenternas",
+      "kallor": [
+        "i",
+        "d"
+      ],
+      "titlar": [
+        "IK Sirius – Gripen Trollhättan BK",
+        "Bandy: IK Sirius – Gripen"
+      ],
+      "poang": 1
     },
     {
       "regel": "lika",
@@ -2742,6 +2703,20 @@
       "poang": 1
     },
     {
+      "regel": "sport",
+      "dag": "2026-11-24",
+      "plats": "studenternas",
+      "kallor": [
+        "i",
+        "d"
+      ],
+      "titlar": [
+        "IK Sirius – Edsbyns IF Bandyförening",
+        "Bandy: IK Sirius – Edsbyn"
+      ],
+      "poang": 1
+    },
+    {
       "regel": "innehaller",
       "dag": "2026-11-26",
       "plats": "ukk",
@@ -2820,6 +2795,20 @@
       ],
       "titlar": [
         "Christmas in Ireland"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "sport",
+      "dag": "2026-12-01",
+      "plats": "studenternas",
+      "kallor": [
+        "i",
+        "d"
+      ],
+      "titlar": [
+        "IK Sirius – TB Västerås",
+        "Bandy: IK Sirius – Tillberga"
       ],
       "poang": 1
     },
@@ -2943,6 +2932,20 @@
       "poang": 1
     },
     {
+      "regel": "sport",
+      "dag": "2026-12-11",
+      "plats": "studenternas",
+      "kallor": [
+        "i",
+        "d"
+      ],
+      "titlar": [
+        "IK Sirius – Västerås SK",
+        "Bandy: IK Sirius – Västerås"
+      ],
+      "poang": 1
+    },
+    {
       "regel": "lika",
       "dag": "2026-12-11",
       "plats": "ukk",
@@ -3020,6 +3023,34 @@
       "titlar": [
         "Hogwarts Magic Symphony – med Lords of the Sound",
         "Hogwarts Magic Symphony med Lords of the Sound"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "sport",
+      "dag": "2026-12-26",
+      "plats": "studenternas",
+      "kallor": [
+        "i",
+        "d"
+      ],
+      "titlar": [
+        "IK Sirius – Hammarby IF",
+        "Bandy: IK Sirius – Hammarby"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "sport",
+      "dag": "2027-01-02",
+      "plats": "studenternas",
+      "kallor": [
+        "i",
+        "d"
+      ],
+      "titlar": [
+        "IK Sirius – Åby/Tjureda IF",
+        "Bandy: IK Sirius – Åby Tjureda"
       ],
       "poang": 1
     },
@@ -3190,36 +3221,6 @@
         "Jesper Rönndahl och Marie Agerhäll – Detta ser man fram emot"
       ],
       "poang": 0.44
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-28",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Terra – Extrakonsert",
-        "Terra – extrakonsert",
-        "Terra - Extrakonsert"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-28",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Jonatan Stenson",
-        "Jonatan Stenson - Katalins Bakficka"
-      ],
-      "poang": 0.67
     },
     {
       "regel": "innehaller",
@@ -4506,11 +4507,10 @@
       "plats": "ukk",
       "kallor": [
         "c",
-        "d",
         "t"
       ],
       "titlar": [
-        "LABERO – A Magic Night"
+        "Jul med Franska Trion"
       ],
       "poang": 1
     },
@@ -4520,10 +4520,11 @@
       "plats": "ukk",
       "kallor": [
         "c",
+        "d",
         "t"
       ],
       "titlar": [
-        "Jul med Franska Trion"
+        "LABERO – A Magic Night"
       ],
       "poang": 1
     },
@@ -4606,6 +4607,19 @@
       ],
       "titlar": [
         "The Last Waltz!"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-12-13",
+      "plats": "missionskyrkan",
+      "kallor": [
+        "d",
+        "t"
+      ],
+      "titlar": [
+        "Allsång i juletid"
       ],
       "poang": 1
     },
@@ -4856,6 +4870,19 @@
     },
     {
       "regel": "lika",
+      "dag": "2027-01-22",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "LKN"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
       "dag": "2027-01-23",
       "plats": "ukk",
       "kallor": [
@@ -4964,6 +4991,20 @@
       ],
       "titlar": [
         "Hannes Aitman"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-01-30",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Soul Pack – Motown & Beatles",
+        "Soul Pack - Motown & Beatles"
       ],
       "poang": 1
     },
@@ -5268,6 +5309,19 @@
         "Jesper Rönndahl och Marie Agerhäll – Detta ser man fram emot"
       ],
       "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-26",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Tingsek"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -5310,21 +5364,21 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 25,
+      "varde": 24,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 12,
+      "varde": 10,
       "krav": "minst 10"
     },
     {
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 62,
+      "varde": 53,
       "krav": "minst 5"
     },
     {
@@ -5352,14 +5406,14 @@
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "1.8 %",
+      "varde": "2 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "3.5 %",
+      "varde": "4 %",
       "krav": "under 5 %"
     }
   ]
