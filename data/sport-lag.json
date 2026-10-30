@@ -1,5 +1,5 @@
 {
-  "uppdaterad": "2026-10-29T10:56:06.080Z",
+  "uppdaterad": "2026-10-30T10:53:34.052Z",
   "antalMatcherIUppsala": 122,
   "lag": [
     {
@@ -89,7 +89,7 @@
       "niva": 2,
       "liga": "Allsvenskan dam",
       "antal": 7,
-      "hemmamatcher30": 3,
+      "hemmamatcher30": 5,
       "iSasong": false
     },
     {
@@ -119,7 +119,7 @@
       "niva": 1,
       "liga": "Basketligan dam",
       "antal": 8,
-      "hemmamatcher30": 1,
+      "hemmamatcher30": 2,
       "iSasong": true
     },
     {

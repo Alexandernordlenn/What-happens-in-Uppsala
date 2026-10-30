@@ -2,10 +2,6 @@
   "stadsteatern": {
     "antal": [
       {
-        "datum": "2026-10-16",
-        "antal": 172
-      },
-      {
         "datum": "2026-10-17",
         "antal": 170
       },
@@ -56,21 +52,21 @@
       {
         "datum": "2026-10-29",
         "antal": 195
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 193
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
-      "antal": 195,
+      "datum": "2026-10-30",
+      "antal": 193,
       "status": "ok"
     }
   },
   "destination-uppsala": {
     "antal": [
-      {
-        "datum": "2026-10-16",
-        "antal": 184
-      },
       {
         "datum": "2026-10-17",
         "antal": 182
@@ -122,21 +118,21 @@
       {
         "datum": "2026-10-29",
         "antal": 182
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 178
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
-      "antal": 182,
+      "datum": "2026-10-30",
+      "antal": 178,
       "status": "ok"
     }
   },
   "tickster": {
     "antal": [
-      {
-        "datum": "2026-10-16",
-        "antal": 319
-      },
       {
         "datum": "2026-10-17",
         "antal": 316
@@ -188,12 +184,16 @@
       {
         "datum": "2026-10-29",
         "antal": 292
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 287
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
-      "antal": 292,
+      "datum": "2026-10-30",
+      "antal": 287,
       "status": "ok"
     }
   },
@@ -266,10 +266,6 @@
   "kubik": {
     "antal": [
       {
-        "datum": "2026-10-16",
-        "antal": 290
-      },
-      {
         "datum": "2026-10-17",
         "antal": 291
       },
@@ -320,21 +316,21 @@
       {
         "datum": "2026-10-29",
         "antal": 237
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 215
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
-      "antal": 237,
+      "datum": "2026-10-30",
+      "antal": 215,
       "status": "ok"
     }
   },
   "sport": {
     "antal": [
-      {
-        "datum": "2026-10-16",
-        "antal": 136
-      },
       {
         "datum": "2026-10-17",
         "antal": 136
@@ -386,21 +382,21 @@
       {
         "datum": "2026-10-29",
         "antal": 122
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 122
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
+      "datum": "2026-10-30",
       "antal": 122,
       "status": "ok"
     }
   },
   "bibliotek": {
     "antal": [
-      {
-        "datum": "2026-10-15",
-        "antal": 385
-      },
       {
         "datum": "2026-10-16",
         "antal": 375
@@ -452,21 +448,21 @@
       {
         "datum": "2026-10-29",
         "antal": 294
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 285
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
-      "antal": 294,
+      "datum": "2026-10-30",
+      "antal": 285,
       "status": "ok"
     }
   },
   "katalin": {
     "antal": [
-      {
-        "datum": "2026-10-16",
-        "antal": 99
-      },
       {
         "datum": "2026-10-17",
         "antal": 100
@@ -518,21 +514,21 @@
       {
         "datum": "2026-10-29",
         "antal": 99
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 97
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
-      "antal": 99,
+      "datum": "2026-10-30",
+      "antal": 97,
       "status": "ok"
     }
   },
   "missionskyrkan": {
     "antal": [
-      {
-        "datum": "2026-10-16",
-        "antal": 65
-      },
       {
         "datum": "2026-10-17",
         "antal": 64
@@ -584,21 +580,21 @@
       {
         "datum": "2026-10-29",
         "antal": 52
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 52
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
+      "datum": "2026-10-30",
       "antal": 52,
       "status": "ok"
     }
   },
   "bror-hjorths-hus": {
     "antal": [
-      {
-        "datum": "2026-10-16",
-        "antal": 54
-      },
       {
         "datum": "2026-10-17",
         "antal": 53
@@ -650,21 +646,21 @@
       {
         "datum": "2026-10-29",
         "antal": 45
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 43
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
-      "antal": 45,
+      "datum": "2026-10-30",
+      "antal": 43,
       "status": "ok"
     }
   },
   "biotopia": {
     "antal": [
-      {
-        "datum": "2026-10-16",
-        "antal": 29
-      },
       {
         "datum": "2026-10-17",
         "antal": 29
@@ -716,11 +712,15 @@
       {
         "datum": "2026-10-29",
         "antal": 29
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 29
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
+      "datum": "2026-10-30",
       "antal": 29,
       "status": "ok"
     }
@@ -778,11 +778,15 @@
       {
         "datum": "2026-10-29",
         "antal": 17
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 17
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
+      "datum": "2026-10-30",
       "antal": 17,
       "status": "ok"
     }
@@ -840,11 +844,15 @@
       {
         "datum": "2026-10-29",
         "antal": 113
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 113
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
+      "datum": "2026-10-30",
       "antal": 113,
       "status": "ok"
     }
@@ -902,12 +910,16 @@
       {
         "datum": "2026-10-29",
         "antal": 54
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 53
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
-      "antal": 54,
+      "datum": "2026-10-30",
+      "antal": 53,
       "status": "ok"
     }
   },
@@ -920,11 +932,15 @@
       {
         "datum": "2026-10-29",
         "antal": 6
+      },
+      {
+        "datum": "2026-10-30",
+        "antal": 6
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-10-29",
+      "datum": "2026-10-30",
       "antal": 6,
       "status": "ok"
     }

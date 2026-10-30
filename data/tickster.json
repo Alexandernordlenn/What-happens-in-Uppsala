@@ -1,184 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-29T10:54:31.720Z",
-  "antal": 292,
+  "hamtad": "2026-10-30T10:52:05.894Z",
+  "antal": 287,
   "evenemang": [
-    {
-      "id": "tickster-l5yewmgpzflnue0",
-      "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
-      "start": "2026-10-29T11:30:00+01:00",
-      "slut": "2026-10-29T12:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala slottshistoriska",
-        "id": "slottshist",
-        "lat": 59.8542,
-        "lng": 17.6351
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/l5yewmgpzflnue0/2026-10-29/hostlov-ficklampsvisning-i-slottskallarens-morker",
-          "biljetter": "https://secure.tickster.com/l5yewmgpzflnue0"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-e3kv5j6lu5rkxb7",
-      "titel": "Konsert: Feras Charestan Sound from the North",
-      "start": "2026-10-29T19:00:00+01:00",
-      "slut": "2026-10-29T20:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/e3kv5j6lu5rkxb7/2026-10-29/konsert-feras-charestan-sound-from-the-north",
-          "biljetter": "https://secure.tickster.com/e3kv5j6lu5rkxb7"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-j6xw36fnh6d638y",
-      "titel": "Viktor Norén & Linus Wahlgren",
-      "start": "2026-10-29T19:30:00+01:00",
-      "slut": "2026-10-29T21:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/j6xw36fnh6d638y/2026-10-29/viktor-noren-and-linus-wahlgren",
-          "biljetter": "https://secure.tickster.com/j6xw36fnh6d638y"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "musik"
-        ]
-      }
-    },
-    {
-      "id": "tickster-wmbpfkx17ehr3pl",
-      "titel": "Gamla Grubblerier – En komisk kabaré om att åldras",
-      "start": "2026-10-29T20:00:00+01:00",
-      "slut": "2026-10-29T23:00:00+01:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/wmbpfkx17ehr3pl/2026-10-29/gamla-grubblerier-en-komisk-kabare-om-att-aldras",
-          "biljetter": "https://secure.tickster.com/wmbpfkx17ehr3pl"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinuppsala",
-          "katalinandallthatjazz",
-          "katalinsjazzbar"
-        ]
-      }
-    },
-    {
-      "id": "tickster-l2ygdth812avj6e",
-      "titel": "Terra",
-      "start": "2026-10-29T20:00:00+01:00",
-      "slut": "2026-10-29T22:00:00+01:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8595,
-        "lng": 17.6465
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/l2ygdth812avj6e/2026-10-29/terra",
-          "biljetter": "https://secure.tickster.com/l2ygdth812avj6e"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinlive",
-          "uppsala",
-          "katalin",
-          "musik",
-          "konsert",
-          "kaliber live",
-          "terra",
-          "luger",
-          "indie",
-          "pop"
-        ]
-      }
-    },
-    {
-      "id": "tickster-l3leggvprmf3rf7",
-      "titel": "Halloween - Höstlovet!",
-      "start": "2026-10-29T20:00:00+01:00",
-      "slut": "2026-10-30T00:00:00+01:00",
-      "plats": {
-        "namn": "Birger Jarl",
-        "id": "birgerjarl",
-        "lat": 59.8542,
-        "lng": 17.6377
-      },
-      "kategori": "natt",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/l3leggvprmf3rf7/2026-10-29/halloween-hostlovet",
-          "biljetter": "https://secure.tickster.com/l3leggvprmf3rf7"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "tickster-upltrfh6ejfbgc9",
       "titel": "Från Aladdin till Elsa",
@@ -598,6 +423,29 @@
       "installd": false
     },
     {
+      "id": "tickster-axfwrh6drhg7wa1",
+      "titel": "Filosoficafé: Kärlek - om visdom till kärlek",
+      "start": "2026-11-01T14:00:00+01:00",
+      "slut": "2026-11-01T15:30:00+01:00",
+      "plats": {
+        "namn": "Uppsala konstmuseum",
+        "id": "konstmuseum"
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/axfwrh6drhg7wa1/2026-11-01/filosoficafe-karlek-om-visdom-till-karlek",
+          "biljetter": "https://secure.tickster.com/axfwrh6drhg7wa1"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-n6zu4plvze6vdb8",
       "titel": "Fem myror – Konsert!",
       "start": "2026-11-01T14:00:00+01:00",
@@ -627,29 +475,6 @@
           "barn"
         ]
       }
-    },
-    {
-      "id": "tickster-axfwrh6drhg7wa1",
-      "titel": "Filosoficafé: Kärlek - om visdom till kärlek",
-      "start": "2026-11-01T14:00:00+01:00",
-      "slut": "2026-11-01T15:30:00+01:00",
-      "plats": {
-        "namn": "Uppsala konstmuseum",
-        "id": "konstmuseum"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/axfwrh6drhg7wa1/2026-11-01/filosoficafe-karlek-om-visdom-till-karlek",
-          "biljetter": "https://secure.tickster.com/axfwrh6drhg7wa1"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
     },
     {
       "id": "tickster-x29dukujjlzlpt9",
@@ -2762,37 +2587,6 @@
       "installd": false
     },
     {
-      "id": "tickster-cxjuc093yvbnyul",
-      "titel": "Poste Restante 22/11",
-      "start": "2026-11-22T16:00:00+01:00",
-      "slut": "2026-11-22T18:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/cxjuc093yvbnyul/2026-11-22/poste-restante-22-11",
-          "biljetter": "https://secure.tickster.com/cxjuc093yvbnyul"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "klassiskt"
-        ]
-      }
-    },
-    {
       "id": "tickster-uj90utypjpun05a",
       "titel": "Niklas Strömstedt – Tyck OM mig",
       "start": "2026-11-22T16:00:00+01:00",
@@ -2820,6 +2614,37 @@
       "fakta": {
         "taggar": [
           "musik"
+        ]
+      }
+    },
+    {
+      "id": "tickster-cxjuc093yvbnyul",
+      "titel": "Poste Restante 22/11",
+      "start": "2026-11-22T16:00:00+01:00",
+      "slut": "2026-11-22T18:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8586,
+        "lng": 17.6389,
+        "rum": "Sal B"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/cxjuc093yvbnyul/2026-11-22/poste-restante-22-11",
+          "biljetter": "https://secure.tickster.com/cxjuc093yvbnyul"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
         ]
       }
     },
@@ -6628,6 +6453,37 @@
       "fakta": {
         "taggar": [
           "samhälle"
+        ]
+      }
+    },
+    {
+      "id": "tickster-5h55c17rpp5ztel",
+      "titel": "Januarikalaset 2027 – Jacke Sjödin med gäster",
+      "start": "2027-01-30T19:00:00+01:00",
+      "slut": "2027-01-30T20:30:00+01:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8617,
+        "lng": 17.6469,
+        "rum": "Stora salen"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/5h55c17rpp5ztel/2027-01-30/januarikalaset-2027-jacke-sjodin-med-gaster",
+          "biljetter": "https://secure.tickster.com/5h55c17rpp5ztel"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "klassiskt"
         ]
       }
     },

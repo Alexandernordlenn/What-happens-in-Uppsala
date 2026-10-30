@@ -1,68 +1,9 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-29T10:56:23.765Z",
+  "hamtad": "2026-10-30T10:53:50.039Z",
   "antal": 113,
   "evenemang": [
-    {
-      "id": "ukk-33441",
-      "titel": "Viktor Norén & Linus Wahlgren – Våra liv, våra musikaler",
-      "start": "2026-10-29T19:30:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/viktor-noren-linus-wahlgren/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "pop-rock"
-        ],
-        "taggar": []
-      }
-    },
-    {
-      "id": "ukk-45879",
-      "titel": "Från Aladdin till Elsa",
-      "start": "2026-10-30T11:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/fran-aladdin-till-elsa-2/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "barn"
-        ],
-        "taggar": [
-          "familj",
-          "hostlov"
-        ]
-      }
-    },
     {
       "id": "ukk-45138",
       "titel": "Från Aladdin till Elsa",
@@ -90,8 +31,8 @@
           "teater"
         ],
         "taggar": [
-          "hostlov",
-          "familj"
+          "familj",
+          "hostlov"
         ]
       }
     },
@@ -183,10 +124,10 @@
           "barn"
         ],
         "taggar": [
-          "jazz",
           "familj",
           "aktuellt",
-          "hostlov"
+          "hostlov",
+          "jazz"
         ]
       }
     },
@@ -333,10 +274,10 @@
           "jazz"
         ],
         "taggar": [
-          "jazz",
-          "publikfavoriter",
           "student",
-          "mhv"
+          "mhv",
+          "jazz",
+          "publikfavoriter"
         ]
       }
     },
@@ -672,8 +613,8 @@
           "jazz"
         ],
         "taggar": [
-          "student",
-          "mhv"
+          "mhv",
+          "student"
         ]
       }
     },
@@ -703,10 +644,10 @@
           "nostalgi-tribute"
         ],
         "taggar": [
-          "jazz",
-          "lunchkonsert",
           "student",
-          "mhv"
+          "mhv",
+          "jazz",
+          "lunchkonsert"
         ]
       }
     },
@@ -1065,9 +1006,9 @@
       "fakta": {
         "kategorier": [
           "dans",
-          "barn",
           "klassiskt",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "barn"
         ],
         "taggar": [
           "dans",
@@ -1133,9 +1074,9 @@
           "pop-rock"
         ],
         "taggar": [
+          "publikfavoriter",
           "student",
-          "mhv",
-          "publikfavoriter"
+          "mhv"
         ]
       }
     },
@@ -1253,14 +1194,14 @@
       "fakta": {
         "kategorier": [
           "dans",
+          "barn",
           "klassiskt",
-          "festligheter-hogtider",
-          "barn"
+          "festligheter-hogtider"
         ],
         "taggar": [
-          "familj",
           "jul",
-          "dans"
+          "dans",
+          "familj"
         ]
       }
     },
@@ -1290,9 +1231,9 @@
           "jazz"
         ],
         "taggar": [
-          "aktuellt",
           "student",
-          "mhv"
+          "mhv",
+          "aktuellt"
         ]
       }
     },
@@ -1354,8 +1295,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "dinnershow",
-          "jul"
+          "jul",
+          "dinnershow"
         ]
       }
     },
@@ -1386,8 +1327,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "publikfavoriter",
-          "jul"
+          "jul",
+          "publikfavoriter"
         ]
       }
     },
@@ -1418,9 +1359,9 @@
           "klassiskt"
         ],
         "taggar": [
-          "aktuellt",
           "mhv",
-          "jul"
+          "jul",
+          "aktuellt"
         ]
       }
     },
@@ -1498,7 +1439,7 @@
       },
       "kategori": "musik",
       "gratis": null,
-      "barnOchFamilj": true,
+      "barnOchFamilj": false,
       "kallor": [
         {
           "id": "ukk",
@@ -1511,8 +1452,7 @@
       "fakta": {
         "kategorier": [
           "festligheter-hogtider",
-          "klassiskt",
-          "barn"
+          "klassiskt"
         ],
         "taggar": [
           "student",
@@ -1548,10 +1488,10 @@
           "dans"
         ],
         "taggar": [
-          "aktuellt",
-          "jul",
           "dinnershow",
-          "publikfavoriter"
+          "publikfavoriter",
+          "aktuellt",
+          "jul"
         ]
       }
     },
@@ -1613,11 +1553,11 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "mhv",
-          "jul",
           "jazz",
           "aktuellt",
-          "student"
+          "student",
+          "mhv",
+          "jul"
         ]
       }
     },
@@ -1682,7 +1622,8 @@
         "taggar": [
           "publikfavoriter",
           "aktuellt",
-          "jul"
+          "jul",
+          "dinnershow"
         ]
       }
     },
@@ -1713,11 +1654,11 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "familj",
           "publikfavoriter",
           "aktuellt",
           "student",
-          "jul"
+          "jul",
+          "familj"
         ]
       }
     },
@@ -1779,8 +1720,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "publikfavoriter",
-          "jul"
+          "jul",
+          "publikfavoriter"
         ]
       }
     },
@@ -1808,13 +1749,13 @@
       "fakta": {
         "kategorier": [
           "festligheter-hogtider",
-          "klassiskt",
-          "barn"
+          "barn",
+          "klassiskt"
         ],
         "taggar": [
-          "jul",
           "familj",
-          "aktuellt"
+          "aktuellt",
+          "jul"
         ]
       }
     },
@@ -1842,15 +1783,15 @@
       "fakta": {
         "kategorier": [
           "nostalgi-tribute",
-          "festligheter-hogtider",
-          "jazz"
+          "jazz",
+          "festligheter-hogtider"
         ],
         "taggar": [
-          "mhv",
-          "jul",
           "jazz",
           "lunchkonsert",
-          "student"
+          "student",
+          "mhv",
+          "jul"
         ]
       }
     },
@@ -2186,6 +2127,39 @@
           "samtal"
         ],
         "taggar": []
+      }
+    },
+    {
+      "id": "ukk-47191",
+      "titel": "Januarikalaset 2027 – Jacke Sjödin med gäster",
+      "start": "2027-01-30T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/januarikalaset-2027-jacke-sjodin-med-gaster/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor",
+          "klassiskt",
+          "pop-rock"
+        ],
+        "taggar": [
+          "publikfavoriter",
+          "aktuellt"
+        ]
       }
     },
     {
@@ -2572,8 +2546,8 @@
           "barn"
         ],
         "taggar": [
-          "aktuellt",
-          "familj"
+          "familj",
+          "aktuellt"
         ]
       }
     },
@@ -2765,7 +2739,7 @@
       },
       "kategori": "musik",
       "gratis": null,
-      "barnOchFamilj": true,
+      "barnOchFamilj": false,
       "kallor": [
         {
           "id": "ukk",
@@ -2777,8 +2751,7 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "pop-rock",
-          "barn"
+          "pop-rock"
         ],
         "taggar": [
           "publikfavoriter",
@@ -2828,7 +2801,7 @@
       },
       "kategori": "musik",
       "gratis": null,
-      "barnOchFamilj": true,
+      "barnOchFamilj": false,
       "kallor": [
         {
           "id": "ukk",
@@ -2840,8 +2813,7 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "pop-rock",
-          "barn"
+          "pop-rock"
         ],
         "taggar": [
           "aktuellt"
@@ -2998,8 +2970,8 @@
           "hantverk-marknader"
         ],
         "taggar": [
-          "publikfavoriter",
-          "aktuellt"
+          "aktuellt",
+          "publikfavoriter"
         ]
       }
     },
@@ -3043,7 +3015,7 @@
         "namn": "Uppsala Konsert & Kongress",
         "id": "ukk"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -3057,7 +3029,8 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "pop-rock"
+          "pop-rock",
+          "humor"
         ],
         "taggar": []
       }
@@ -3152,8 +3125,8 @@
           "barn"
         ],
         "taggar": [
-          "aktuellt",
-          "familj"
+          "familj",
+          "aktuellt"
         ]
       }
     },
@@ -3272,6 +3245,39 @@
         ],
         "taggar": [
           "humor"
+        ]
+      }
+    },
+    {
+      "id": "ukk-47254",
+      "titel": "Labyrint",
+      "start": "2027-04-10T21:30:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/labyrint/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "pop-rock"
+        ],
+        "taggar": [
+          "student",
+          "mhv",
+          "publikfavoriter",
+          "aktuellt"
         ]
       }
     },

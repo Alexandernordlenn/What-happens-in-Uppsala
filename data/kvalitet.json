@@ -1,13 +1,13 @@
 {
-  "matt": "2026-10-29T10:56:52.023Z",
-  "idag": "2026-10-29",
+  "matt": "2026-10-30T10:54:14.417Z",
+  "idag": "2026-10-30",
   "totalt": {
-    "antal": 1484,
-    "utanKlockslag": 0.04,
-    "ovrigt": 0.033,
-    "familjUtanAlder": 0.194,
-    "utanOmrade": 0.02,
-    "sammanslagna": 478,
+    "antal": 1439,
+    "utanKlockslag": 0.041,
+    "ovrigt": 0.032,
+    "familjUtanAlder": 0.195,
+    "utanOmrade": 0.019,
+    "sammanslagna": 470,
     "pagar14": 10,
     "borttagnaKurser": 23,
     "aiEvenemang": 0,
@@ -15,12 +15,12 @@
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
       "langvariga": 5,
-      "samma-kalla": 2,
+      "samma-kalla": 1,
       "serie-uttryckliga-datum": 6,
       "speltid-mot-tillfallen": 10,
       "festival": 14,
-      "lika": 238,
-      "innehaller": 51,
+      "lika": 234,
+      "innehaller": 50,
       "likhet": 1,
       "sport": 45
     }
@@ -28,11 +28,11 @@
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 104,
+      "antal": 105,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.01,
+      "utanOmrade": 0.019,
       "sammanslagna": 45,
       "pagar14": 0,
       "borttagnaKurser": 0,
@@ -46,7 +46,7 @@
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 88,
+      "sammanslagna": 87,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 292,
+      "antal": 283,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 89,
+      "sammanslagna": 86,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 593,
-      "utanKlockslag": 0.047,
-      "ovrigt": 0.013,
-      "familjUtanAlder": 0.113,
-      "utanOmrade": 0.008,
-      "sammanslagna": 124,
+      "antal": 561,
+      "utanKlockslag": 0.049,
+      "ovrigt": 0.009,
+      "familjUtanAlder": 0.114,
+      "utanOmrade": 0.005,
+      "sammanslagna": 119,
       "pagar14": 0,
       "borttagnaKurser": 23,
       "aiEvenemang": 0,
@@ -93,12 +93,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 85,
+      "antal": 84,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 77,
+      "sammanslagna": 75,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -109,9 +109,9 @@
       "antal": 82,
       "utanKlockslag": 0,
       "ovrigt": 0.037,
-      "familjUtanAlder": 0.682,
+      "familjUtanAlder": 0.7,
       "utanOmrade": 0,
-      "sammanslagna": 144,
+      "sammanslagna": 142,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -132,7 +132,7 @@
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 45,
+      "antal": 43,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -158,7 +158,7 @@
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 46,
+      "antal": 45,
       "utanKlockslag": 0,
       "ovrigt": 0.022,
       "familjUtanAlder": 0,
@@ -184,12 +184,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 256,
-      "utanKlockslag": 0.091,
-      "ovrigt": 0.109,
-      "familjUtanAlder": 0.817,
-      "utanOmrade": 0.039,
-      "sammanslagna": 244,
+      "antal": 250,
+      "utanKlockslag": 0.093,
+      "ovrigt": 0.112,
+      "familjUtanAlder": 0.821,
+      "utanOmrade": 0.04,
+      "sammanslagna": 238,
       "pagar14": 9,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -197,12 +197,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 232,
+      "antal": 229,
       "utanKlockslag": 0,
       "ovrigt": 0.052,
       "familjUtanAlder": 0.68,
-      "utanOmrade": 0.047,
-      "sammanslagna": 232,
+      "utanOmrade": 0.048,
+      "sammanslagna": 229,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -289,18 +289,6 @@
       ]
     },
     {
-      "regel": "samma-kalla",
-      "dag": "2026-10-28",
-      "plats": "fyrishov",
-      "kallor": [
-        "u",
-        "u"
-      ],
-      "titlar": [
-        "Gymnastikläger"
-      ]
-    },
-    {
       "regel": "serie-uttryckliga-datum",
       "dag": "2026-11-04",
       "plats": "stadsbib",
@@ -370,7 +358,7 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-29",
+      "dag": "2026-11-05",
       "plats": "biotopia",
       "kallor": [
         "u",
@@ -455,7 +443,7 @@
       "titlar": [
         "Studie i mänskligt beteende"
       ],
-      "tillfallen": 25
+      "tillfallen": 24
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -468,7 +456,7 @@
       "titlar": [
         "Höstlovskul: Formstarkt och eldigt"
       ],
-      "tillfallen": 4
+      "tillfallen": 3
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -482,7 +470,7 @@
         "Ficklampsvisning i slottskällarens mörker",
         "Höstlov: Ficklampsvisning i slottskällarens mörker"
       ],
-      "tillfallen": 2
+      "tillfallen": 1
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -495,7 +483,7 @@
       "titlar": [
         "Monster och gudar"
       ],
-      "tillfallen": 5
+      "tillfallen": 4
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -522,7 +510,7 @@
         "Teater: Lotten von Kræmer",
         "Lotten von Kræmer"
       ],
-      "tillfallen": 12
+      "tillfallen": 13
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -757,45 +745,6 @@
       ],
       "titlar": [
         "Nyhetsklubb"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-29",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Ficklampsläsning"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-29",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Teckna manga"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-29",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Författarträff med Maria Frensborg"
       ],
       "poang": 1
     },
@@ -1666,19 +1615,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-10-30",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c"
-      ],
-      "titlar": [
-        "Från Aladdin till Elsa"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-11-01",
       "plats": "ukk",
       "kallor": [
@@ -2308,37 +2244,10 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-10-29",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d"
-      ],
-      "titlar": [
-        "Terra"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-29",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d"
-      ],
-      "titlar": [
-        "Viktor Norén & Linus Wahlgren – Våra liv, våra musikaler"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-10-30",
       "plats": "ukk",
       "kallor": [
         "u",
-        "c",
         "d"
       ],
       "titlar": [
@@ -3223,44 +3132,15 @@
       "poang": 0.44
     },
     {
-      "regel": "innehaller",
-      "dag": "2026-10-29",
+      "regel": "lika",
+      "dag": "2027-02-27",
       "plats": "ukk",
       "kallor": [
         "c",
-        "d",
-        "t"
+        "d"
       ],
       "titlar": [
-        "Viktor Norén & Linus Wahlgren – Våra liv, våra musikaler",
-        "Viktor Norén & Linus Wahlgren"
-      ],
-      "poang": 0.57
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-29",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Gamla Grubblerier – En komisk kabaré om att åldras"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-29",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Terra"
+        "No Business Like Show Business"
       ],
       "poang": 1
     },
@@ -3270,7 +3150,6 @@
       "plats": "ukk",
       "kallor": [
         "u",
-        "c",
         "d",
         "t"
       ],
@@ -4017,14 +3896,11 @@
       "dag": "2026-11-22",
       "plats": "ukk",
       "kallor": [
-        "r",
         "c",
-        "d",
         "t"
       ],
       "titlar": [
-        "Poste Restante 22/11",
-        "Poste Restante"
+        "Niklas Strömstedt – Tyck OM mig"
       ],
       "poang": 1
     },
@@ -4033,11 +3909,14 @@
       "dag": "2026-11-22",
       "plats": "ukk",
       "kallor": [
+        "r",
         "c",
+        "d",
         "t"
       ],
       "titlar": [
-        "Niklas Strömstedt – Tyck OM mig"
+        "Poste Restante 22/11",
+        "Poste Restante"
       ],
       "poang": 1
     },
@@ -4997,6 +4876,19 @@
     {
       "regel": "lika",
       "dag": "2027-01-30",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "t"
+      ],
+      "titlar": [
+        "Januarikalaset 2027 – Jacke Sjödin med gäster"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-01-30",
       "plats": "katalin",
       "kallor": [
         "l",
@@ -5322,6 +5214,33 @@
         "Tingsek"
       ],
       "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-27",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "d",
+        "t"
+      ],
+      "titlar": [
+        "No Business Like Show Business"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-27",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Familjen"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -5364,7 +5283,7 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 24,
+      "varde": 22,
       "krav": "minst 10"
     },
     {
@@ -5378,7 +5297,7 @@
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 53,
+      "varde": 38,
       "krav": "minst 5"
     },
     {
@@ -5399,21 +5318,21 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "3.3 %",
+      "varde": "3.2 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "2 %",
+      "varde": "1.9 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "4 %",
+      "varde": "4.1 %",
       "krav": "under 5 %"
     }
   ]

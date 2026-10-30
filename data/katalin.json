@@ -1,68 +1,9 @@
 {
   "kalla": "Katalin",
   "webbsida": "https://www.katalin.com/",
-  "hamtad": "2026-10-29T10:56:16.941Z",
-  "antal": 99,
+  "hamtad": "2026-10-30T10:53:44.341Z",
+  "antal": 97,
   "evenemang": [
-    {
-      "id": "katalin-17089",
-      "titel": "Terra",
-      "start": "2026-10-29T20:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Stora scen"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "notering": "Slutsåld",
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/terra-2/",
-          "biljetter": "https://secure.tickster.com/l2ygdth812avj6e"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "indie"
-        ]
-      }
-    },
-    {
-      "id": "katalin-17055",
-      "titel": "Gamla Grubblerier – En komisk kabaré om att åldras",
-      "start": "2026-10-29T20:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Bakfickan"
-      },
-      "kategori": "scen",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/gamla-grubblerier-en-komisk-kabare-om-att-aldras-4/",
-          "biljetter": "https://secure.tickster.com/sv/wmbpfkx17ehr3pl/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "underhallning"
-        ]
-      }
-    },
     {
       "id": "katalin-17412",
       "titel": "OTTO – Tribute till TOTO",

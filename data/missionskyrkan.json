@@ -1,7 +1,7 @@
 {
   "kalla": "Uppsala Missionskyrka",
   "webbsida": "https://www.uppsalamissionskyrka.se/",
-  "hamtad": "2026-10-29T10:56:36.878Z",
+  "hamtad": "2026-10-30T10:54:02.570Z",
   "antal": 52,
   "evenemang": [
     {
@@ -362,7 +362,7 @@
     {
       "id": "missionskyrkan-13217",
       "titel": "Konsert Eric Ericssons Kammarkör & Sveriges Ungdomskör",
-      "start": "2026-11-14T16:00:00+01:00",
+      "start": "2026-11-14T18:00:00+01:00",
       "slut": null,
       "plats": {
         "namn": "Missionskyrkan",

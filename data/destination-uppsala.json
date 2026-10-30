@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-29T10:53:58.090Z",
-  "antal": 182,
+  "hamtad": "2026-10-30T10:51:37.257Z",
+  "antal": 178,
   "evenemang": [
     {
       "id": "du-katarina-jagellonica-500-ar",
@@ -572,35 +572,6 @@
       }
     },
     {
-      "id": "du-hostlovslager-uppsala-sport-camp",
-      "titel": "Höstlovsläger – Uppsala Sport Camp",
-      "start": "2026-10-26",
-      "slut": "2026-10-29",
-      "plats": {
-        "namn": "Svandammshallarna",
-        "id": "svandammshallarna"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/hostlovslager-uppsala-sport-camp/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "barn-familj",
-          "hostlov",
-          "sport"
-        ]
-      }
-    },
-    {
       "id": "du-hostlov-mat-och-snacks-pa-vikingatiden",
       "titel": "Höstlov: Mat och snacks på vikingatiden",
       "start": "2026-10-26",
@@ -741,106 +712,6 @@
           "hostlov",
           "teater"
         ]
-      }
-    },
-    {
-      "id": "du-ozzy-black-sabbath-back-to-the-beginning",
-      "titel": "Ozzy & Black Sabbath: Back To The Beginning",
-      "start": "2026-10-28T18:15:00+01:00",
-      "slut": "2026-10-29",
-      "plats": {
-        "namn": "Nordisk Film Gränbystaden",
-        "id": "nordisk"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/ozzy-black-sabbath-back-to-the-beginning/",
-          "arrangor": "https://www.nfbio.se/ozzy-black-sabbath-back-beginning?city=uppsala#buy-btn"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "film",
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-29"
-        ],
-        "tider": {
-          "start": "18:15"
-        }
-      }
-    },
-    {
-      "id": "du-terra",
-      "titel": "Terra",
-      "start": "2026-10-29",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/terra/",
-          "arrangor": "https://secure.tickster.com/sv/l2ygdth812avj6e/selectproductgroup"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-29"
-        ]
-      }
-    },
-    {
-      "id": "du-viktor-noren-linus-wahlgren-vara-liv-vara-musikaler",
-      "titel": "Viktor Norén & Linus Wahlgren – Våra liv, våra musikaler",
-      "start": "2026-10-29T19:30:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/viktor-noren-linus-wahlgren-vara-liv-vara-musikaler/",
-          "arrangor": "https://ukk.se/viktor-noren-linus-wahlgren/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-29"
-        ],
-        "tider": {
-          "start": "19:30"
-        }
       }
     },
     {

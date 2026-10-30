@@ -1,69 +1,4 @@
 {
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-medicinhistoriska-museet/": {
-    "dagar": [
-      "to",
-      "sö"
-    ],
-    "hamtad": "2026-10-29"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/innebandylaeger-hoestlov-foer-barn-foedda-2019-20/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/gymnastiklaeger/": {
-    "dagar": [
-      "må",
-      "ti",
-      "on",
-      "to"
-    ],
-    "tider": {
-      "start": "08:30"
-    },
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovskul-i-gottsunda/": {
-    "dagar": [],
-    "hamtad": "2026-10-23"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/pop-up-med-gottsunda-allaktivitetshus/": {
-    "dagar": [
-      "må",
-      "ti",
-      "on",
-      "to",
-      "fr"
-    ],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/gameplan-open-court/": {
-    "dagar": [],
-    "hamtad": "2026-10-29"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/skraecklov-paa-gdt-kulturis-hoestlovslaeger-27-29-oktober/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovslaeger-paa-fyrisfjaedern/": {
-    "dagar": [],
-    "hamtad": "2026-10-24"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/haestlaeger-paa-4h-gaardarna/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/skaparlaeger-paa-hoestlovet/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-kontakten/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-graenby-fritidsgaard/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/sloga-uppsalas-hoestlov-skills-basketlaeger-kvarngaerdesskolan/": {
     "dagar": [],
     "hamtad": "2026-10-28"
@@ -102,19 +37,23 @@
     "tider": {
       "start": "10:00"
     },
-    "hamtad": "2026-10-23"
+    "hamtad": "2026-10-30"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/uppsala-hk-hoestlovslaeger/": {
     "dagar": [],
     "hamtad": "2026-10-27"
   },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/innebandylaeger-hoestlov-foer-barn-foedda-2019-20/": {
+    "dagar": [],
+    "hamtad": "2026-10-28"
+  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-storvreta-ponnyklubb/": {
     "dagar": [],
-    "hamtad": "2026-10-23"
+    "hamtad": "2026-10-30"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovslaeger-artistisk-gymnastik/": {
     "dagar": [],
-    "hamtad": "2026-10-23"
+    "hamtad": "2026-10-30"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/djurlaeger-paa-4h-gaardarna/": {
     "dagar": [],
@@ -180,9 +119,16 @@
     },
     "hamtad": "2026-10-29"
   },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-medicinhistoriska-museet/": {
+    "dagar": [
+      "to",
+      "sö"
+    ],
+    "hamtad": "2026-10-29"
+  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovsskoj-i-naturum-faernebofjaerden/": {
     "dagar": [],
-    "hamtad": "2026-10-23"
+    "hamtad": "2026-10-30"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-mat-och-snacks-paa-vikingatiden/": {
     "dagar": [],
