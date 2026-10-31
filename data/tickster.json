@@ -1,199 +1,9 @@
 {
   "kalla": "Tickster",
   "webbsida": "https://www.tickster.com/se/sv/events/in/uppsala",
-  "hamtad": "2026-10-30T10:52:05.894Z",
-  "antal": 287,
+  "hamtad": "2026-10-31T10:23:31.308Z",
+  "antal": 284,
   "evenemang": [
-    {
-      "id": "tickster-upltrfh6ejfbgc9",
-      "titel": "Från Aladdin till Elsa",
-      "start": "2026-10-30T11:00:00+01:00",
-      "slut": "2026-10-30T12:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/upltrfh6ejfbgc9/2026-10-30/fran-aladdin-till-elsa",
-          "biljetter": "https://secure.tickster.com/upltrfh6ejfbgc9"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "barn"
-        ]
-      }
-    },
-    {
-      "id": "tickster-cf7dgdzav0k4mxk",
-      "titel": "Höstlov: Ficklampsvisning i slottskällarens mörker",
-      "start": "2026-10-30T11:30:00+01:00",
-      "slut": "2026-10-30T12:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala slottshistoriska",
-        "id": "slottshist",
-        "lat": 59.8542,
-        "lng": 17.6351
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/cf7dgdzav0k4mxk/2026-10-30/hostlov-ficklampsvisning-i-slottskallarens-morker",
-          "biljetter": "https://secure.tickster.com/cf7dgdzav0k4mxk"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "tickster-wke3m53wxa4blbj",
-      "titel": "Från Aladdin till Elsa",
-      "start": "2026-10-30T13:00:00+01:00",
-      "slut": "2026-10-30T14:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8586,
-        "lng": 17.6389,
-        "rum": "Sal B"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/wke3m53wxa4blbj/2026-10-30/fran-aladdin-till-elsa",
-          "biljetter": "https://secure.tickster.com/wke3m53wxa4blbj"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "barn"
-        ]
-      }
-    },
-    {
-      "id": "tickster-n7ju6ftr5f2dkg9",
-      "titel": "Elton John meets Freddie Mercury",
-      "start": "2026-10-30T19:30:00+01:00",
-      "slut": "2026-10-30T22:00:00+01:00",
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk",
-        "lat": 59.8617,
-        "lng": 17.6469,
-        "rum": "Stora salen"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/n7ju6ftr5f2dkg9/2026-10-30/elton-john-meets-freddie-mercury",
-          "biljetter": "https://secure.tickster.com/n7ju6ftr5f2dkg9"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "musik"
-        ]
-      }
-    },
-    {
-      "id": "tickster-4gyb5n9pxd40zvt",
-      "titel": "The Mwuanas",
-      "start": "2026-10-30T20:00:00+01:00",
-      "slut": "2026-10-30T22:00:00+01:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8595,
-        "lng": 17.6465
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/4gyb5n9pxd40zvt/2026-10-30/the-mwuanas",
-          "biljetter": "https://secure.tickster.com/4gyb5n9pxd40zvt"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinlive",
-          "uppsala",
-          "katalin",
-          "musik",
-          "konsert",
-          "kaliber live",
-          "mwuana",
-          "luger",
-          "hip hop",
-          "rnb"
-        ]
-      }
-    },
-    {
-      "id": "tickster-u51tcb05ahpfgth",
-      "titel": "OTTO - Tribute till TOTO",
-      "start": "2026-10-30T20:00:00+01:00",
-      "slut": "2026-10-30T23:00:00+01:00",
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "lat": 59.8621,
-        "lng": 17.6523
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "tickster",
-          "namn": "Tickster",
-          "url": "https://www.tickster.com/se/sv/events/u51tcb05ahpfgth/2026-10-30/otto-tribute-till-toto",
-          "biljetter": "https://secure.tickster.com/u51tcb05ahpfgth"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": [
-          "katalinsbakficka",
-          "bakfickan",
-          "otto",
-          "katalinuppsala"
-        ]
-      }
-    },
     {
       "id": "tickster-bdhxpyce6rxw2mr",
       "titel": "HALLOWEEN 21+",
@@ -1193,6 +1003,31 @@
       }
     },
     {
+      "id": "tickster-376efekykv3f8ag",
+      "titel": "Familjeverkstad: Uppsala brinner!",
+      "start": "2026-11-08T12:15:00+01:00",
+      "slut": "2026-11-08T13:15:00+01:00",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
+      },
+      "kategori": "aktivitet",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/376efekykv3f8ag/2026-11-08/familjeverkstad-uppsala-brinner",
+          "biljetter": "https://secure.tickster.com/376efekykv3f8ag"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
       "id": "tickster-yfuurubx7e7c2ah",
       "titel": "Familjekonsert: Gärna ville jag vara ett träd",
       "start": "2026-11-08T14:00:00+01:00",
@@ -1210,6 +1045,31 @@
           "namn": "Tickster",
           "url": "https://www.tickster.com/se/sv/events/yfuurubx7e7c2ah/2026-11-08/familjekonsert-garna-ville-jag-vara-ett-trad",
           "biljetter": "https://secure.tickster.com/yfuurubx7e7c2ah"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "tickster-wggn46d9yg4dh6m",
+      "titel": "Visning: Slottet brinner!",
+      "start": "2026-11-08T14:00:00+01:00",
+      "slut": "2026-11-08T15:00:00+01:00",
+      "plats": {
+        "namn": "Uppsala slottshistoriska",
+        "id": "slottshist",
+        "lat": 59.8542,
+        "lng": 17.6351
+      },
+      "kategori": "museum",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/wggn46d9yg4dh6m/2026-11-08/visning-slottet-brinner",
+          "biljetter": "https://secure.tickster.com/wggn46d9yg4dh6m"
         }
       ],
       "langvarig": false,
@@ -8398,6 +8258,37 @@
       "fakta": {
         "taggar": [
           "humor"
+        ]
+      }
+    },
+    {
+      "id": "tickster-9edwmhck2d6h7wc",
+      "titel": "Labyrint",
+      "start": "2027-04-10T21:30:00+02:00",
+      "slut": "2027-04-10T23:00:00+02:00",
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk",
+        "lat": 59.8611,
+        "lng": 17.6458,
+        "rum": "Sal D (ståplats)"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "tickster",
+          "namn": "Tickster",
+          "url": "https://www.tickster.com/se/sv/events/9edwmhck2d6h7wc/2027-04-10/labyrint",
+          "biljetter": "https://secure.tickster.com/9edwmhck2d6h7wc"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "hiphop"
         ]
       }
     },

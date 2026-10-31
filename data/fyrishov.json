@@ -1,35 +1,9 @@
 {
   "kalla": "Fyrishov",
   "webbsida": "https://fyrishov.se/",
-  "hamtad": "2026-10-30T10:54:08.265Z",
-  "antal": 53,
+  "hamtad": "2026-10-31T10:25:25.536Z",
+  "antal": 52,
   "evenemang": [
-    {
-      "id": "fyrishov-26963",
-      "titel": "Mega Dance WKND",
-      "plats": {
-        "namn": "Fyrishov",
-        "id": "fyrishov",
-        "rum": "Hall A, B, C, D"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "fyrishov",
-          "namn": "Fyrishov",
-          "url": "https://fyrishov.se/aktivitet/mega-dance-wknd-3/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "taggar": []
-      },
-      "start": "2026-10-30T10:00:00+01:00",
-      "slut": "2026-10-30T21:00:00+01:00"
-    },
     {
       "id": "fyrishov-26967",
       "titel": "Mega Dance WKND",

@@ -1,67 +1,9 @@
 {
   "kalla": "Katalin",
   "webbsida": "https://www.katalin.com/",
-  "hamtad": "2026-10-30T10:53:44.341Z",
-  "antal": 97,
+  "hamtad": "2026-10-31T10:25:00.798Z",
+  "antal": 96,
   "evenemang": [
-    {
-      "id": "katalin-17412",
-      "titel": "OTTO – Tribute till TOTO",
-      "start": "2026-10-30T20:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Bakfickan"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/otto-tribute-till-toto-2/",
-          "biljetter": "https://secure.tickster.com/sv/u51tcb05ahpfgth/products"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "rock"
-        ]
-      }
-    },
-    {
-      "id": "katalin-16979",
-      "titel": "The Mwuanas",
-      "start": "2026-10-30T20:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Stora scen"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/mwuana-3/",
-          "biljetter": "https://secure.tickster.com/4gyb5n9pxd40zvt"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "hip-hop"
-        ]
-      }
-    },
     {
       "id": "katalin-17410",
       "titel": "Halloween med Fat Lizzy",
@@ -2820,6 +2762,35 @@
       "fakta": {
         "kategorier": [
           "forestallning"
+        ]
+      }
+    },
+    {
+      "id": "katalin-17539",
+      "titel": "Ola Aurell – Mänsklighetens lyckligaste tid",
+      "start": "2027-05-20T20:00:00+02:00",
+      "slut": null,
+      "plats": {
+        "namn": "Katalin",
+        "id": "katalin",
+        "rum": "Stora scen"
+      },
+      "kategori": "scen",
+      "gratis": false,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "katalin",
+          "namn": "Katalin",
+          "url": "https://www.katalin.com/events/ola-aurell-mansklighetens-lyckligaste-tid/",
+          "biljetter": "https://biljett.kulturaktiebolaget.se/sv/29zfc21z70p5n80/selectproductgroup?_gl=1%2Aekwxtv%2A_gcl_au%2AMTQ2ODM3ODM1OC4xNzkxODMwNzA5"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "stand-up"
         ]
       }
     }

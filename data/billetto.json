@@ -1,38 +1,9 @@
 {
   "kalla": "Billetto",
   "webbsida": "https://billetto.se/",
-  "hamtad": "2026-10-30T10:54:13.569Z",
-  "antal": 6,
+  "hamtad": "2026-10-31T10:25:31.229Z",
+  "antal": 5,
   "evenemang": [
-    {
-      "id": "billetto-2023083",
-      "titel": "Senapstillverkning på höstlovet!",
-      "start": "2026-10-29T13:30:00+01:00",
-      "slut": "2026-10-30T15:30:00+01:00",
-      "plats": {
-        "namn": "Medicinhistoriska museet"
-      },
-      "kategori": "mat",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "billetto",
-          "namn": "Billetto",
-          "url": "https://billetto.se/e/senapstillverkning-pa-hostlovet-biljetter-2023083?utm_campaign=websites&utm_content=SE+7503207&utm_medium=publishers&utm_source=billetto+advertising"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "food_drink",
-          "other",
-          "class_training"
-        ],
-        "adress": "Eva Lagerwalls väg 8, 756 43"
-      }
-    },
     {
       "id": "billetto-2023153",
       "titel": "Senapstillverkning i apoteket",

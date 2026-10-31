@@ -1,36 +1,9 @@
 {
   "kalla": "Uppsala Missionskyrka",
   "webbsida": "https://www.uppsalamissionskyrka.se/",
-  "hamtad": "2026-10-30T10:54:02.570Z",
+  "hamtad": "2026-10-31T10:25:18.897Z",
   "antal": 52,
   "evenemang": [
-    {
-      "id": "missionskyrkan-13210",
-      "titel": "Kl 19.00 Konsert Norrlands Nations Kammarkör",
-      "start": "2026-10-30T19:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/konsert-norrlands-nations-kammarkor/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Extern arrangör"
-        ]
-      }
-    },
     {
       "id": "missionskyrkan-13095",
       "titel": "Från mörker till ljus: I evig tid",
@@ -301,6 +274,31 @@
           "id": "missionskyrkan",
           "namn": "Uppsala Missionskyrka",
           "url": "https://uppsalamissionskyrka.se/kalender/poetiskt-till-lunch-11/2026-11-10/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": []
+      }
+    },
+    {
+      "id": "missionskyrkan-13477",
+      "titel": "Religion i valet 2026 – webbsändning",
+      "start": "2026-11-10T15:00:00+01:00",
+      "slut": "2026-11-10T17:30:00+01:00",
+      "plats": {
+        "namn": "Missionskyrkan",
+        "id": "missionskyrkan"
+      },
+      "kategori": "musik",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "missionskyrkan",
+          "namn": "Uppsala Missionskyrka",
+          "url": "https://uppsalamissionskyrka.se/kalender/religion-i-valet-2026-webbsandning/"
         }
       ],
       "langvarig": false,

@@ -1,13 +1,13 @@
 {
-  "matt": "2026-10-30T10:54:14.417Z",
-  "idag": "2026-10-30",
+  "matt": "2026-10-31T10:25:32.062Z",
+  "idag": "2026-10-31",
   "totalt": {
-    "antal": 1439,
-    "utanKlockslag": 0.041,
-    "ovrigt": 0.032,
-    "familjUtanAlder": 0.195,
+    "antal": 1402,
+    "utanKlockslag": 0.042,
+    "ovrigt": 0.03,
+    "familjUtanAlder": 0.199,
     "utanOmrade": 0.019,
-    "sammanslagna": 470,
+    "sammanslagna": 462,
     "pagar14": 10,
     "borttagnaKurser": 23,
     "aiEvenemang": 0,
@@ -19,21 +19,21 @@
       "serie-uttryckliga-datum": 6,
       "speltid-mot-tillfallen": 10,
       "festival": 14,
-      "lika": 234,
-      "innehaller": 50,
+      "lika": 228,
+      "innehaller": 51,
       "likhet": 1,
-      "sport": 45
+      "sport": 46
     }
   },
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 105,
+      "antal": 106,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.019,
-      "sammanslagna": 45,
+      "sammanslagna": 46,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -41,12 +41,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 123,
+      "antal": 120,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 87,
+      "sammanslagna": 84,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 283,
+      "antal": 281,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 86,
+      "sammanslagna": 85,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 561,
-      "utanKlockslag": 0.049,
-      "ovrigt": 0.009,
-      "familjUtanAlder": 0.114,
-      "utanOmrade": 0.005,
-      "sammanslagna": 119,
+      "antal": 528,
+      "utanKlockslag": 0.051,
+      "ovrigt": 0.004,
+      "familjUtanAlder": 0.12,
+      "utanOmrade": 0.004,
+      "sammanslagna": 114,
       "pagar14": 0,
       "borttagnaKurser": 23,
       "aiEvenemang": 0,
@@ -80,12 +80,12 @@
     },
     "r": {
       "namn": "Musik i Uppland",
-      "antal": 10,
+      "antal": 11,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 17,
+      "sammanslagna": 20,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -93,12 +93,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 84,
+      "antal": 82,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 75,
+      "sammanslagna": 73,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -109,7 +109,7 @@
       "antal": 82,
       "utanKlockslag": 0,
       "ovrigt": 0.037,
-      "familjUtanAlder": 0.7,
+      "familjUtanAlder": 0.737,
       "utanOmrade": 0,
       "sammanslagna": 142,
       "pagar14": 0,
@@ -163,7 +163,7 @@
       "ovrigt": 0.022,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 36,
+      "sammanslagna": 37,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -171,10 +171,10 @@
     },
     "o": {
       "namn": "Billetto",
-      "antal": 6,
+      "antal": 5,
       "utanKlockslag": 0,
       "ovrigt": 0,
-      "familjUtanAlder": 1,
+      "familjUtanAlder": 0,
       "utanOmrade": 0,
       "sammanslagna": 3,
       "pagar14": 0,
@@ -184,12 +184,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 250,
-      "utanKlockslag": 0.093,
-      "ovrigt": 0.112,
-      "familjUtanAlder": 0.821,
-      "utanOmrade": 0.04,
-      "sammanslagna": 238,
+      "antal": 245,
+      "utanKlockslag": 0.1,
+      "ovrigt": 0.11,
+      "familjUtanAlder": 0.827,
+      "utanOmrade": 0.041,
+      "sammanslagna": 233,
       "pagar14": 9,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -197,12 +197,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 229,
+      "antal": 228,
       "utanKlockslag": 0,
-      "ovrigt": 0.052,
-      "familjUtanAlder": 0.68,
+      "ovrigt": 0.053,
+      "familjUtanAlder": 0.75,
       "utanOmrade": 0.048,
-      "sammanslagna": 229,
+      "sammanslagna": 224,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -380,7 +380,7 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-10-30",
+      "dag": "2026-11-06",
       "plats": "gottsundabib",
       "kallor": [
         "u",
@@ -430,7 +430,7 @@
       "titlar": [
         "Stadens ljus"
       ],
-      "tillfallen": 12
+      "tillfallen": 11
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -443,7 +443,7 @@
       "titlar": [
         "Studie i mänskligt beteende"
       ],
-      "tillfallen": 24
+      "tillfallen": 23
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -456,19 +456,19 @@
       "titlar": [
         "Höstlovskul: Formstarkt och eldigt"
       ],
-      "tillfallen": 3
+      "tillfallen": 2
     },
     {
       "regel": "speltid-mot-tillfallen",
-      "dag": "2026-10-25",
-      "plats": "slottshist",
+      "dag": "2026-10-26",
+      "plats": "fyrishov",
       "kallor": [
         "d",
-        "t"
+        "u"
       ],
       "titlar": [
-        "Ficklampsvisning i slottskällarens mörker",
-        "Höstlov: Ficklampsvisning i slottskällarens mörker"
+        "Höstlov på Fyrishov",
+        "Höstlov med bad och bus på Fyrishov"
       ],
       "tillfallen": 1
     },
@@ -483,7 +483,7 @@
       "titlar": [
         "Monster och gudar"
       ],
-      "tillfallen": 4
+      "tillfallen": 3
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -745,19 +745,6 @@
       ],
       "titlar": [
         "Nyhetsklubb"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-30",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Fredagsmys"
       ],
       "poang": 1
     },
@@ -1602,19 +1589,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-10-30",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c"
-      ],
-      "titlar": [
-        "Från Aladdin till Elsa"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-11-01",
       "plats": "ukk",
       "kallor": [
@@ -1748,6 +1722,19 @@
         "Korngolds violinkonsert – Uppsala Kammarorkester"
       ],
       "poang": 0.5
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-28",
+      "plats": "ukk",
+      "kallor": [
+        "r",
+        "c"
+      ],
+      "titlar": [
+        "Poste Restante 28/2"
+      ],
+      "poang": 1
     },
     {
       "regel": "lika",
@@ -2243,28 +2230,16 @@
       "poang": 1
     },
     {
-      "regel": "lika",
-      "dag": "2026-10-30",
-      "plats": "ukk",
+      "regel": "sport",
+      "dag": "2027-02-28",
+      "plats": "fyrishov",
       "kallor": [
-        "u",
-        "d"
+        "i",
+        "f"
       ],
       "titlar": [
-        "Från Aladdin till Elsa"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-30",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d"
-      ],
-      "titlar": [
-        "Elton John meets Freddie Mercury"
+        "Uppsala VBS – Hästhagen IF",
+        "Uppsala Volleyboll – Hästhagen IF Volleyboll"
       ],
       "poang": 1
     },
@@ -3145,74 +3120,19 @@
       "poang": 1
     },
     {
-      "regel": "lika",
-      "dag": "2026-10-30",
+      "regel": "innehaller",
+      "dag": "2027-02-28",
       "plats": "ukk",
       "kallor": [
-        "u",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Från Aladdin till Elsa"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-30",
-      "plats": "ukk",
-      "kallor": [
-        "u",
+        "r",
         "c",
-        "t"
+        "d"
       ],
       "titlar": [
-        "Från Aladdin till Elsa"
+        "Poste Restante 28/2",
+        "Poste Restante"
       ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-30",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Elton John meets Freddie Mercury"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-30",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "The Mwuanas",
-        "The Mwuanas"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-30",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "OTTO – Tribute till TOTO",
-        "OTTO - Tribute till TOTO"
-      ],
-      "poang": 1
+      "poang": 0.5
     },
     {
       "regel": "innehaller",
@@ -5241,6 +5161,35 @@
         "Familjen"
       ],
       "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-28",
+      "plats": "ukk",
+      "kallor": [
+        "r",
+        "c",
+        "d",
+        "t"
+      ],
+      "titlar": [
+        "Poste Restante 28/2",
+        "Poste Restante"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-28",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "t"
+      ],
+      "titlar": [
+        "Jethro Tull – The Curiosity Tour"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -5283,21 +5232,21 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 22,
+      "varde": 20,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 10,
+      "varde": 12,
       "krav": "minst 10"
     },
     {
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 38,
+      "varde": 26,
       "krav": "minst 5"
     },
     {
@@ -5318,7 +5267,7 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "3.2 %",
+      "varde": "3 %",
       "krav": "under 10 %"
     },
     {
@@ -5332,7 +5281,7 @@
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "4.1 %",
+      "varde": "4.2 %",
       "krav": "under 5 %"
     }
   ]

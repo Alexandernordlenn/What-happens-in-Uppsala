@@ -1,16 +1,4 @@
 {
-  "https://destinationuppsala.se/event/elton-john-meets-freddie-mercury/": {
-    "nar": "30 oktober 2026 kl. 19.30",
-    "pris": "",
-    "arrangorensSida": "https://ukk.se/elton-john-meets-freddie-mercury/",
-    "hamtad": "2026-10-08"
-  },
-  "https://destinationuppsala.se/event/fran-aladdin-till-elsa/": {
-    "nar": "30 oktober, 2026, kl. 11.00 och 13.00",
-    "pris": "Betald biljett krävs",
-    "arrangorensSida": "https://ukk.se/fran-aladdin-till-elsa/",
-    "hamtad": "2026-10-08"
-  },
   "https://destinationuppsala.se/event/marky-ramones-blitzkrieg/": {
     "nar": "Lördag 31 oktober 2026",
     "pris": "",
@@ -136,6 +124,12 @@
     "pris": "Betald biljett krävs",
     "arrangorensSida": "https://slottshistoriska.uppsala.se/sv/kalendarium/historiska-uppsalavyer-med-konsten-som-kallmaterial/",
     "hamtad": "2026-10-21"
+  },
+  "https://destinationuppsala.se/event/uppsala-light-run-2026/": {
+    "nar": "12 november",
+    "pris": "",
+    "arrangorensSida": "https://alltljuspauppsala.se/events/uppsala-light-run-2026/",
+    "hamtad": "2026-10-31"
   },
   "https://destinationuppsala.se/event/christoffer-nyqvist-lejonet-fran-norden/": {
     "nar": "13 november 2026 kl. 19.30",

@@ -1,70 +1,9 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-30T10:53:50.039Z",
-  "antal": 113,
+  "hamtad": "2026-10-31T10:25:06.853Z",
+  "antal": 111,
   "evenemang": [
-    {
-      "id": "ukk-45138",
-      "titel": "Från Aladdin till Elsa",
-      "start": "2026-10-30T13:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "scen",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/fran-aladdin-till-elsa/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "barn",
-          "teater"
-        ],
-        "taggar": [
-          "familj",
-          "hostlov"
-        ]
-      }
-    },
-    {
-      "id": "ukk-33270",
-      "titel": "Elton John meets Freddie Mercury",
-      "start": "2026-10-30T19:30:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/elton-john-meets-freddie-mercury/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "pop-rock",
-          "nostalgi-tribute"
-        ],
-        "taggar": []
-      }
-    },
     {
       "id": "ukk-44693",
       "titel": "Oktoberstämman 2026 – med Hoven Droven",
@@ -124,10 +63,10 @@
           "barn"
         ],
         "taggar": [
+          "jazz",
           "familj",
           "aktuellt",
-          "hostlov",
-          "jazz"
+          "hostlov"
         ]
       }
     },
@@ -613,8 +552,8 @@
           "jazz"
         ],
         "taggar": [
-          "mhv",
-          "student"
+          "student",
+          "mhv"
         ]
       }
     },
@@ -644,10 +583,10 @@
           "nostalgi-tribute"
         ],
         "taggar": [
-          "student",
           "mhv",
           "jazz",
-          "lunchkonsert"
+          "lunchkonsert",
+          "student"
         ]
       }
     },
@@ -1199,9 +1138,9 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "jul",
           "dans",
-          "familj"
+          "familj",
+          "jul"
         ]
       }
     },
@@ -1231,9 +1170,9 @@
           "jazz"
         ],
         "taggar": [
+          "aktuellt",
           "student",
-          "mhv",
-          "aktuellt"
+          "mhv"
         ]
       }
     },
@@ -1327,8 +1266,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "jul",
-          "publikfavoriter"
+          "publikfavoriter",
+          "jul"
         ]
       }
     },
@@ -1359,9 +1298,9 @@
           "klassiskt"
         ],
         "taggar": [
+          "aktuellt",
           "mhv",
-          "jul",
-          "aktuellt"
+          "jul"
         ]
       }
     },
@@ -1654,11 +1593,11 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "familj",
           "publikfavoriter",
           "aktuellt",
           "student",
-          "jul",
-          "familj"
+          "jul"
         ]
       }
     },
@@ -1753,9 +1692,9 @@
           "klassiskt"
         ],
         "taggar": [
+          "jul",
           "familj",
-          "aktuellt",
-          "jul"
+          "aktuellt"
         ]
       }
     },
@@ -1915,8 +1854,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "miu",
-          "jul"
+          "jul",
+          "miu"
         ]
       }
     },
@@ -2188,8 +2127,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "publikfavoriter",
-          "aktuellt"
+          "aktuellt",
+          "publikfavoriter"
         ]
       }
     },
@@ -2577,8 +2516,8 @@
           "humor"
         ],
         "taggar": [
-          "humor",
-          "aktuellt"
+          "aktuellt",
+          "humor"
         ]
       }
     },
@@ -2785,8 +2724,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "aktuellt",
+          "familj"
         ]
       }
     },
@@ -2970,8 +2909,8 @@
           "hantverk-marknader"
         ],
         "taggar": [
-          "aktuellt",
-          "publikfavoriter"
+          "publikfavoriter",
+          "aktuellt"
         ]
       }
     },
@@ -3061,10 +3000,10 @@
           "jazz"
         ],
         "taggar": [
-          "publikfavoriter",
           "aktuellt",
           "student",
-          "mhv"
+          "mhv",
+          "publikfavoriter"
         ]
       }
     },
@@ -3167,7 +3106,7 @@
         "namn": "Uppsala Konsert & Kongress",
         "id": "ukk"
       },
-      "kategori": "musik",
+      "kategori": "scen",
       "gratis": null,
       "barnOchFamilj": false,
       "kallor": [
@@ -3181,7 +3120,8 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "pop-rock"
+          "pop-rock",
+          "humor"
         ],
         "taggar": [
           "aktuellt"

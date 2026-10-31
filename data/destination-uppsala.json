@@ -1,8 +1,8 @@
 {
   "kalla": "Destination Uppsala",
   "webbsida": "https://destinationuppsala.se/event/",
-  "hamtad": "2026-10-30T10:51:37.257Z",
-  "antal": 178,
+  "hamtad": "2026-10-31T10:22:56.490Z",
+  "antal": 176,
   "evenemang": [
     {
       "id": "du-katarina-jagellonica-500-ar",
@@ -543,35 +543,6 @@
       }
     },
     {
-      "id": "du-ficklampsvisning-i-slottskallarens-morker",
-      "titel": "Ficklampsvisning i slottskällarens mörker",
-      "start": "2026-10-25",
-      "slut": "2026-10-30",
-      "plats": {
-        "namn": "Uppsala slottshistoriska",
-        "id": "slottshist"
-      },
-      "kategori": "museum",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/ficklampsvisning-i-slottskallarens-morker/"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "barn-familj",
-          "hostlov",
-          "visningar"
-        ]
-      }
-    },
-    {
       "id": "du-hostlov-mat-och-snacks-pa-vikingatiden",
       "titel": "Höstlov: Mat och snacks på vikingatiden",
       "start": "2026-10-26",
@@ -741,76 +712,6 @@
           "forestallning",
           "mat-dryck"
         ]
-      }
-    },
-    {
-      "id": "du-fran-aladdin-till-elsa",
-      "titel": "Från Aladdin till Elsa",
-      "start": "2026-10-30T11:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/fran-aladdin-till-elsa/",
-          "arrangor": "https://ukk.se/fran-aladdin-till-elsa/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "barn-familj",
-          "hostlov",
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-30"
-        ],
-        "tider": {
-          "start": "11:00"
-        }
-      }
-    },
-    {
-      "id": "du-elton-john-meets-freddie-mercury",
-      "titel": "Elton John meets Freddie Mercury",
-      "start": "2026-10-30T19:30:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "destination-uppsala",
-          "namn": "Destination Uppsala",
-          "url": "https://destinationuppsala.se/event/elton-john-meets-freddie-mercury/",
-          "arrangor": "https://ukk.se/elton-john-meets-freddie-mercury/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "konsert"
-        ],
-        "datum": [
-          "2026-10-30"
-        ],
-        "tider": {
-          "start": "19:30"
-        }
       }
     },
     {
@@ -1507,6 +1408,35 @@
         "tider": {
           "start": "18:30"
         }
+      }
+    },
+    {
+      "id": "du-uppsala-light-run-2026",
+      "titel": "Uppsala Light Run 2026",
+      "start": "2026-11-12",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala",
+        "id": "uppsala"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "destination-uppsala",
+          "namn": "Destination Uppsala",
+          "url": "https://destinationuppsala.se/event/uppsala-light-run-2026/",
+          "arrangor": "https://alltljuspauppsala.se/events/uppsala-light-run-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "aktiviteter",
+          "sport"
+        ]
       }
     },
     {
