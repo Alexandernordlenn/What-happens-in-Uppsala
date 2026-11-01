@@ -1,42 +1,9 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-10-31T10:25:06.853Z",
-  "antal": 111,
+  "hamtad": "2026-11-01T11:17:48.106Z",
+  "antal": 110,
   "evenemang": [
-    {
-      "id": "ukk-44693",
-      "titel": "Oktoberstämman 2026 – med Hoven Droven",
-      "start": "2026-10-31T12:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/oktoberstamman-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "jazz"
-        ],
-        "taggar": [
-          "familj",
-          "publikfavoriter",
-          "aktuellt",
-          "hostlov"
-        ]
-      }
-    },
     {
       "id": "ukk-45143",
       "titel": "Fem myror – Konsert!",
@@ -213,10 +180,10 @@
           "jazz"
         ],
         "taggar": [
-          "student",
-          "mhv",
           "jazz",
-          "publikfavoriter"
+          "publikfavoriter",
+          "student",
+          "mhv"
         ]
       }
     },
@@ -583,10 +550,10 @@
           "nostalgi-tribute"
         ],
         "taggar": [
-          "mhv",
           "jazz",
           "lunchkonsert",
-          "student"
+          "student",
+          "mhv"
         ]
       }
     },
@@ -945,9 +912,9 @@
       "fakta": {
         "kategorier": [
           "dans",
+          "barn",
           "klassiskt",
-          "festligheter-hogtider",
-          "barn"
+          "festligheter-hogtider"
         ],
         "taggar": [
           "dans",
@@ -1013,9 +980,9 @@
           "pop-rock"
         ],
         "taggar": [
-          "publikfavoriter",
           "student",
-          "mhv"
+          "mhv",
+          "publikfavoriter"
         ]
       }
     },
@@ -1133,14 +1100,14 @@
       "fakta": {
         "kategorier": [
           "dans",
-          "barn",
           "klassiskt",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "barn"
         ],
         "taggar": [
-          "dans",
           "familj",
-          "jul"
+          "jul",
+          "dans"
         ]
       }
     },
@@ -1170,9 +1137,9 @@
           "jazz"
         ],
         "taggar": [
-          "aktuellt",
           "student",
-          "mhv"
+          "mhv",
+          "aktuellt"
         ]
       }
     },
@@ -1266,8 +1233,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "publikfavoriter",
-          "jul"
+          "jul",
+          "publikfavoriter"
         ]
       }
     },
@@ -1298,9 +1265,9 @@
           "klassiskt"
         ],
         "taggar": [
-          "aktuellt",
           "mhv",
-          "jul"
+          "jul",
+          "aktuellt"
         ]
       }
     },
@@ -1427,10 +1394,10 @@
           "dans"
         ],
         "taggar": [
-          "dinnershow",
-          "publikfavoriter",
           "aktuellt",
-          "jul"
+          "jul",
+          "dinnershow",
+          "publikfavoriter"
         ]
       }
     },
@@ -1492,11 +1459,10 @@
           "festligheter-hogtider"
         ],
         "taggar": [
+          "jul",
           "jazz",
-          "aktuellt",
           "student",
-          "mhv",
-          "jul"
+          "mhv"
         ]
       }
     },
@@ -1659,8 +1625,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "jul",
-          "publikfavoriter"
+          "publikfavoriter",
+          "jul"
         ]
       }
     },
@@ -1692,9 +1658,9 @@
           "klassiskt"
         ],
         "taggar": [
-          "jul",
           "familj",
-          "aktuellt"
+          "aktuellt",
+          "jul"
         ]
       }
     },
@@ -1722,15 +1688,15 @@
       "fakta": {
         "kategorier": [
           "nostalgi-tribute",
-          "jazz",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "jazz"
         ],
         "taggar": [
+          "jul",
           "jazz",
           "lunchkonsert",
           "student",
-          "mhv",
-          "jul"
+          "mhv"
         ]
       }
     },
@@ -1854,8 +1820,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "jul",
-          "miu"
+          "miu",
+          "jul"
         ]
       }
     },
@@ -2092,8 +2058,8 @@
       "fakta": {
         "kategorier": [
           "humor",
-          "klassiskt",
-          "pop-rock"
+          "pop-rock",
+          "klassiskt"
         ],
         "taggar": [
           "publikfavoriter",
@@ -2127,8 +2093,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "aktuellt",
-          "publikfavoriter"
+          "publikfavoriter",
+          "aktuellt"
         ]
       }
     },
@@ -2516,8 +2482,8 @@
           "humor"
         ],
         "taggar": [
-          "aktuellt",
-          "humor"
+          "humor",
+          "aktuellt"
         ]
       }
     },
@@ -2724,8 +2690,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "aktuellt",
-          "familj"
+          "familj",
+          "aktuellt"
         ]
       }
     },
@@ -3000,10 +2966,10 @@
           "jazz"
         ],
         "taggar": [
-          "aktuellt",
-          "student",
           "mhv",
-          "publikfavoriter"
+          "publikfavoriter",
+          "aktuellt",
+          "student"
         ]
       }
     },

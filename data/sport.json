@@ -1,130 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-10-31T10:24:50.668Z",
-  "antal": 122,
+  "hamtad": "2026-11-01T11:17:31.494Z",
+  "antal": 118,
   "evenemang": [
-    {
-      "id": "sport-sportality-ib0g7hxjoc",
-      "titel": "Storvreta IBK – KAIS Mora IF (dam)",
-      "start": "2026-10-31T13:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "IFU Arena",
-        "id": "ifu"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Innebandy",
-      "liga": "SSL dam",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Ligans webbplats",
-          "url": "https://www.ssl.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-profixio-2026-10-31-IK-Sirius-IFK-V-nersborg",
-      "titel": "IK Sirius – IFK Vänersborg",
-      "start": "2026-10-31T15:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Bandy",
-      "liga": "Elitserien herr",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584303?t=schedule"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-swehockey-90131114",
-      "titel": "Almtuna IS – AIK",
-      "start": "2026-10-31T18:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Gränby ishall",
-        "id": "granbyishall"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Ishockey",
-      "liga": "HockeyAllsvenskan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Svenska Ishockeyförbundet",
-          "url": "https://stats.swehockey.se/ScheduleAndResults/Schedule/20962",
-          "biljetter": "https://www.almtuna.com/biljettinformation"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-profixio-2026-10-31-IK-Sirius-Umedalens-Sel-nger",
-      "titel": "IK Sirius – Umedalens/Selånger (dam)",
-      "start": "2026-10-31T18:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Bandy",
-      "liga": "Allsvenskan dam",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1588764?t=schedule"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
-    {
-      "id": "sport-profixio-2026-11-01-Uppsala-BOIS-Umedalens-Sel-nger",
-      "titel": "Uppsala BOIS – Umedalens/Selånger (dam)",
-      "start": "2026-11-01T12:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Serwenthallen",
-        "id": "serwenthallen"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Bandy",
-      "liga": "Allsvenskan dam",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Profixio",
-          "url": "https://www.profixio.com/app/lx/competition/leagueid28503/teams/1590944?t=schedule"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-sportality-w54roblbp6",
       "titel": "IK Uppsala – Hammarby (dam)",
@@ -1499,6 +1378,30 @@
           "id": "sport",
           "namn": "Ligans webbplats",
           "url": "https://www.ssl.se"
+        }
+      ],
+      "langvarig": false,
+      "installd": false
+    },
+    {
+      "id": "sport-profixio-2027-01-05-IK-Sirius-Bolln-s-GOIF-BF",
+      "titel": "IK Sirius – Bollnäs GOIF BF",
+      "start": "2027-01-05T19:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Studenternas",
+        "id": "studenternas"
+      },
+      "kategori": "sport",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "sport": "Bandy",
+      "liga": "Elitserien herr",
+      "kallor": [
+        {
+          "id": "sport",
+          "namn": "Profixio",
+          "url": "https://www.profixio.com/app/lx/competition/leagueid28500/teams/1584303?t=schedule"
         }
       ],
       "langvarig": false,

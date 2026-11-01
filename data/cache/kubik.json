@@ -1,24 +1,4 @@
 {
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-med-bad-och-bus-paa-fyrishov/": {
-    "dagar": [
-      "on",
-      "to",
-      "fr",
-      "lö"
-    ],
-    "tider": {
-      "start": "17:00"
-    },
-    "hamtad": "2026-10-29"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hittaut/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/pumpataevling-roesta-paa-din-favorit/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/laes-foer-sotis/": {
     "dagar": [],
     "hamtad": "2026-10-28"

@@ -1,13 +1,13 @@
 {
-  "matt": "2026-10-31T10:25:32.062Z",
-  "idag": "2026-10-31",
+  "matt": "2026-11-01T11:18:13.887Z",
+  "idag": "2026-11-01",
   "totalt": {
-    "antal": 1402,
-    "utanKlockslag": 0.042,
+    "antal": 1367,
+    "utanKlockslag": 0.041,
     "ovrigt": 0.03,
-    "familjUtanAlder": 0.199,
-    "utanOmrade": 0.019,
-    "sammanslagna": 462,
+    "familjUtanAlder": 0.194,
+    "utanOmrade": 0.02,
+    "sammanslagna": 451,
     "pagar14": 10,
     "borttagnaKurser": 23,
     "aiEvenemang": 0,
@@ -15,12 +15,12 @@
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
       "langvariga": 5,
-      "samma-kalla": 1,
+      "samma-kalla": 2,
       "serie-uttryckliga-datum": 6,
-      "speltid-mot-tillfallen": 10,
-      "festival": 14,
-      "lika": 228,
-      "innehaller": 51,
+      "speltid-mot-tillfallen": 9,
+      "festival": 13,
+      "lika": 227,
+      "innehaller": 47,
       "likhet": 1,
       "sport": 46
     }
@@ -28,7 +28,7 @@
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 106,
+      "antal": 103,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
@@ -41,12 +41,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 120,
+      "antal": 117,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 84,
+      "sammanslagna": 81,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -58,8 +58,8 @@
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0,
-      "sammanslagna": 85,
+      "utanOmrade": 0.004,
+      "sammanslagna": 84,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 528,
-      "utanKlockslag": 0.051,
+      "antal": 515,
+      "utanKlockslag": 0.05,
       "ovrigt": 0.004,
-      "familjUtanAlder": 0.12,
+      "familjUtanAlder": 0.123,
       "utanOmrade": 0.004,
-      "sammanslagna": 114,
+      "sammanslagna": 110,
       "pagar14": 0,
       "borttagnaKurser": 23,
       "aiEvenemang": 0,
@@ -93,12 +93,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 82,
+      "antal": 80,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 73,
+      "sammanslagna": 70,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -106,12 +106,12 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 82,
+      "antal": 81,
       "utanKlockslag": 0,
       "ovrigt": 0.037,
-      "familjUtanAlder": 0.737,
+      "familjUtanAlder": 0.722,
       "utanOmrade": 0,
-      "sammanslagna": 142,
+      "sammanslagna": 141,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -119,9 +119,9 @@
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 52,
+      "antal": 51,
       "utanKlockslag": 0,
-      "ovrigt": 0.038,
+      "ovrigt": 0.039,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
       "sammanslagna": 1,
@@ -132,7 +132,7 @@
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 43,
+      "antal": 41,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -145,12 +145,12 @@
     },
     "n": {
       "namn": "Biotopia",
-      "antal": 29,
-      "utanKlockslag": 0.652,
+      "antal": 27,
+      "utanKlockslag": 0.682,
       "ovrigt": 0,
-      "familjUtanAlder": 0.467,
-      "utanOmrade": 0.103,
-      "sammanslagna": 11,
+      "familjUtanAlder": 0.462,
+      "utanOmrade": 0.074,
+      "sammanslagna": 10,
       "pagar14": 1,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -158,9 +158,9 @@
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 45,
+      "antal": 44,
       "utanKlockslag": 0,
-      "ovrigt": 0.022,
+      "ovrigt": 0.023,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
       "sammanslagna": 37,
@@ -184,12 +184,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 245,
-      "utanKlockslag": 0.1,
-      "ovrigt": 0.11,
-      "familjUtanAlder": 0.827,
-      "utanOmrade": 0.041,
-      "sammanslagna": 233,
+      "antal": 234,
+      "utanKlockslag": 0.094,
+      "ovrigt": 0.111,
+      "familjUtanAlder": 0.844,
+      "utanOmrade": 0.043,
+      "sammanslagna": 226,
       "pagar14": 9,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -197,12 +197,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 228,
+      "antal": 221,
       "utanKlockslag": 0,
-      "ovrigt": 0.053,
-      "familjUtanAlder": 0.75,
-      "utanOmrade": 0.048,
-      "sammanslagna": 224,
+      "ovrigt": 0.054,
+      "familjUtanAlder": 0.739,
+      "utanOmrade": 0.05,
+      "sammanslagna": 220,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -286,6 +286,18 @@
       ],
       "titlar": [
         "Babysagostund"
+      ]
+    },
+    {
+      "regel": "samma-kalla",
+      "dag": "2026-11-27",
+      "plats": "stadsbib",
+      "kallor": [
+        "b",
+        "b"
+      ],
+      "titlar": [
+        "Fredagsmys"
       ]
     },
     {
@@ -430,7 +442,7 @@
       "titlar": [
         "Stadens ljus"
       ],
-      "tillfallen": 11
+      "tillfallen": 10
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -443,7 +455,7 @@
       "titlar": [
         "Studie i mänskligt beteende"
       ],
-      "tillfallen": 23
+      "tillfallen": 22
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -455,20 +467,6 @@
       ],
       "titlar": [
         "Höstlovskul: Formstarkt och eldigt"
-      ],
-      "tillfallen": 2
-    },
-    {
-      "regel": "speltid-mot-tillfallen",
-      "dag": "2026-10-26",
-      "plats": "fyrishov",
-      "kallor": [
-        "d",
-        "u"
-      ],
-      "titlar": [
-        "Höstlov på Fyrishov",
-        "Höstlov med bad och bus på Fyrishov"
       ],
       "tillfallen": 1
     },
@@ -483,7 +481,7 @@
       "titlar": [
         "Monster och gudar"
       ],
-      "tillfallen": 3
+      "tillfallen": 2
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -695,19 +693,6 @@
       "titlar": [
         "Upzala Terminus 2027 Warhammer Tournament",
         "Upzala Terminus 2027 – Warhammer Tournament"
-      ]
-    },
-    {
-      "regel": "festival",
-      "dag": "2026-10-31",
-      "plats": "ukk",
-      "kallor": [
-        "t",
-        "c"
-      ],
-      "titlar": [
-        "Oktoberstämman 2026",
-        "Oktoberstämman 2026 – med Hoven Droven"
       ]
     },
     {
@@ -1234,20 +1219,6 @@
       "poang": 1
     },
     {
-      "regel": "innehaller",
-      "dag": "2026-11-27",
-      "plats": "rosendalbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Småsånger med Ako",
-        "Småsånger"
-      ],
-      "poang": 0.5
-    },
-    {
       "regel": "lika",
       "dag": "2026-11-28",
       "plats": "stadsbib",
@@ -1733,19 +1704,6 @@
       ],
       "titlar": [
         "Poste Restante 28/2"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-10-31",
-      "plats": "hammarskog",
-      "kallor": [
-        "u",
-        "n"
-      ],
-      "titlar": [
-        "Brasmys vid Östbergstorpet"
       ],
       "poang": 1
     },
@@ -2240,34 +2198,6 @@
       "titlar": [
         "Uppsala VBS – Hästhagen IF",
         "Uppsala Volleyboll – Hästhagen IF Volleyboll"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-31",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d"
-      ],
-      "titlar": [
-        "Marky Ramone´s Blitzkrieg (US)",
-        "Marky Ramone’s Blitzkrieg"
-      ],
-      "poang": 0.8
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-10-31",
-      "plats": "studenternas",
-      "kallor": [
-        "i",
-        "d"
-      ],
-      "titlar": [
-        "IK Sirius – IFK Vänersborg",
-        "Bandy: IK Sirius – Vänersborg"
       ],
       "poang": 1
     },
@@ -2954,6 +2884,20 @@
       "poang": 0.33
     },
     {
+      "regel": "sport",
+      "dag": "2027-01-05",
+      "plats": "studenternas",
+      "kallor": [
+        "i",
+        "d"
+      ],
+      "titlar": [
+        "IK Sirius – Bollnäs GOIF BF",
+        "Bandy: IK Sirius – Bollnäs"
+      ],
+      "poang": 1
+    },
+    {
       "regel": "lika",
       "dag": "2027-01-23",
       "plats": "ukk",
@@ -3133,36 +3077,6 @@
         "Poste Restante"
       ],
       "poang": 0.5
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-31",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Marky Ramone´s Blitzkrieg (US)",
-        "Marky Ramone’s Blitzkrieg",
-        "Marky Ramone´s Blitzkrieg"
-      ],
-      "poang": 0.8
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-10-31",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Halloween med Fat Lizzy",
-        "Halloween med Fat Lizzy - Bakfickan"
-      ],
-      "poang": 0.75
     },
     {
       "regel": "lika",
@@ -5197,7 +5111,7 @@
       "person": "Lisa",
       "namn": "Helgen, 0–4 år: evenemang med känd ålder",
       "ok": false,
-      "varde": 4,
+      "varde": 2,
       "krav": "minst 5"
     },
     {
@@ -5211,7 +5125,7 @@
       "person": "Lisa",
       "namn": "Familjeevenemang utan ålder (eller 0–99) syns under \"ålder ej angiven\"",
       "ok": true,
-      "varde": "15 av 15",
+      "varde": "4 av 4",
       "krav": "alla"
     },
     {
@@ -5274,14 +5188,14 @@
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "1.9 %",
+      "varde": "2 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "4.2 %",
+      "varde": "4.1 %",
       "krav": "under 5 %"
     }
   ]

@@ -1,8 +1,8 @@
 {
   "kalla": "Biotopia",
   "webbsida": "https://biotopia.nu/kalender/",
-  "hamtad": "2026-10-31T10:25:21.982Z",
-  "antal": 29,
+  "hamtad": "2026-11-01T11:18:03.614Z",
+  "antal": 27,
   "evenemang": [
     {
       "id": "biotopia-2224",
@@ -61,63 +61,6 @@
         "kategorier": [
           "För en grön framtid",
           "För barn"
-        ]
-      }
-    },
-    {
-      "id": "biotopia-2491",
-      "titel": "Höstlovsskoj i Gredelby hagar",
-      "start": "2026-10-29",
-      "slut": "2026-10-31",
-      "plats": {
-        "namn": "Fågeltornet i naturreservatet Gredelby hagar och Trunsta träsk"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": null,
-      "kallor": [
-        {
-          "id": "biotopia",
-          "namn": "Biotopia",
-          "url": "https://biotopia.nu/?post_type=post&p=2491"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "På Biotopia"
-        ]
-      }
-    },
-    {
-      "id": "biotopia-1193",
-      "titel": "Brasmys vid Östbergstorpet",
-      "start": "2026-10-31",
-      "slut": null,
-      "plats": {
-        "namn": "Hammarskog",
-        "id": "hammarskog",
-        "rum": "Östbergstorpet"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "alder": null,
-      "kallor": [
-        {
-          "id": "biotopia",
-          "namn": "Biotopia",
-          "url": "https://biotopia.nu/?post_type=post&p=1193"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "Lördagar i Hammarskog",
-          "Utflyktsprogrammet"
         ]
       }
     },

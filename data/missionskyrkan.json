@@ -1,34 +1,9 @@
 {
   "kalla": "Uppsala Missionskyrka",
   "webbsida": "https://www.uppsalamissionskyrka.se/",
-  "hamtad": "2026-10-31T10:25:18.897Z",
-  "antal": 52,
+  "hamtad": "2026-11-01T11:18:00.155Z",
+  "antal": 51,
   "evenemang": [
-    {
-      "id": "missionskyrkan-13095",
-      "titel": "Från mörker till ljus: I evig tid",
-      "start": "2026-10-31T16:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Missionskyrkan",
-        "id": "missionskyrkan"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "missionskyrkan",
-          "namn": "Uppsala Missionskyrka",
-          "url": "https://uppsalamissionskyrka.se/kalender/konsert-massa-i-evig-tid/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": []
-      }
-    },
     {
       "id": "missionskyrkan-10005274",
       "titel": "Poetiskt till lunch",
