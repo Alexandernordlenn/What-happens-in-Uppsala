@@ -1,25 +1,25 @@
 {
-  "matt": "2026-11-01T11:18:13.887Z",
-  "idag": "2026-11-01",
+  "matt": "2026-11-02T10:41:29.451Z",
+  "idag": "2026-11-02",
   "totalt": {
-    "antal": 1367,
+    "antal": 1341,
     "utanKlockslag": 0.041,
-    "ovrigt": 0.03,
-    "familjUtanAlder": 0.194,
-    "utanOmrade": 0.02,
-    "sammanslagna": 451,
+    "ovrigt": 0.029,
+    "familjUtanAlder": 0.193,
+    "utanOmrade": 0.018,
+    "sammanslagna": 440,
     "pagar14": 10,
     "borttagnaKurser": 23,
     "aiEvenemang": 0,
     "misstanktaDubbletter": 0,
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
-      "langvariga": 5,
+      "langvariga": 1,
       "samma-kalla": 2,
       "serie-uttryckliga-datum": 6,
-      "speltid-mot-tillfallen": 9,
+      "speltid-mot-tillfallen": 8,
       "festival": 13,
-      "lika": 227,
+      "lika": 222,
       "innehaller": 47,
       "likhet": 1,
       "sport": 46
@@ -28,11 +28,11 @@
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 103,
+      "antal": 102,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.019,
+      "utanOmrade": 0.02,
       "sammanslagna": 46,
       "pagar14": 0,
       "borttagnaKurser": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 515,
-      "utanKlockslag": 0.05,
-      "ovrigt": 0.004,
-      "familjUtanAlder": 0.123,
-      "utanOmrade": 0.004,
-      "sammanslagna": 110,
+      "antal": 499,
+      "utanKlockslag": 0.049,
+      "ovrigt": 0.002,
+      "familjUtanAlder": 0.127,
+      "utanOmrade": 0.002,
+      "sammanslagna": 102,
       "pagar14": 0,
       "borttagnaKurser": 23,
       "aiEvenemang": 0,
@@ -106,12 +106,12 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 81,
+      "antal": 79,
       "utanKlockslag": 0,
-      "ovrigt": 0.037,
-      "familjUtanAlder": 0.722,
+      "ovrigt": 0.038,
+      "familjUtanAlder": 0.765,
       "utanOmrade": 0,
-      "sammanslagna": 141,
+      "sammanslagna": 136,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -132,7 +132,7 @@
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 41,
+      "antal": 38,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -145,12 +145,12 @@
     },
     "n": {
       "namn": "Biotopia",
-      "antal": 27,
+      "antal": 25,
       "utanKlockslag": 0.682,
       "ovrigt": 0,
-      "familjUtanAlder": 0.462,
-      "utanOmrade": 0.074,
-      "sammanslagna": 10,
+      "familjUtanAlder": 0.455,
+      "utanOmrade": 0.08,
+      "sammanslagna": 7,
       "pagar14": 1,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -184,12 +184,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 234,
-      "utanKlockslag": 0.094,
+      "antal": 225,
+      "utanKlockslag": 0.095,
       "ovrigt": 0.111,
-      "familjUtanAlder": 0.844,
-      "utanOmrade": 0.043,
-      "sammanslagna": 226,
+      "familjUtanAlder": 0.946,
+      "utanOmrade": 0.04,
+      "sammanslagna": 215,
       "pagar14": 9,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -197,12 +197,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 221,
+      "antal": 217,
       "utanKlockslag": 0,
-      "ovrigt": 0.054,
-      "familjUtanAlder": 0.739,
-      "utanOmrade": 0.05,
-      "sammanslagna": 220,
+      "ovrigt": 0.055,
+      "familjUtanAlder": 0.773,
+      "utanOmrade": 0.046,
+      "sammanslagna": 215,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -211,45 +211,6 @@
   },
   "exempelDubbletter": [],
   "sammanslagningar": [
-    {
-      "regel": "langvariga",
-      "dag": "2026-10-24",
-      "plats": "pumphuset",
-      "kallor": [
-        "u",
-        "n",
-        "d"
-      ],
-      "titlar": [
-        "Leksaksbyte på höstlovet",
-        "Leksaksbyte på höstlovet!"
-      ]
-    },
-    {
-      "regel": "langvariga",
-      "dag": "2026-10-26",
-      "plats": "gamlauppsalamuseum",
-      "kallor": [
-        "u",
-        "d"
-      ],
-      "titlar": [
-        "Höstlov: Mat och snacks på vikingatiden"
-      ]
-    },
-    {
-      "regel": "langvariga",
-      "dag": "2026-10-27",
-      "plats": "upplandsmuseet",
-      "kallor": [
-        "u",
-        "d"
-      ],
-      "titlar": [
-        "Höstlov på Upplandsmuseet!",
-        "Höstlov på Upplandsmuseet"
-      ]
-    },
     {
       "regel": "langvariga",
       "dag": "2026-11-07",
@@ -261,19 +222,6 @@
       "titlar": [
         "Återbruksverkstad Helgtema på Biotopia",
         "Återbruksverkstad: helgtema i november"
-      ]
-    },
-    {
-      "regel": "langvariga",
-      "dag": "2026-10-24",
-      "plats": "biotopia",
-      "kallor": [
-        "n",
-        "d"
-      ],
-      "titlar": [
-        "Höstlov: Återbruksverkstad",
-        "Höstlov på Biotopia: återbruksverkstad"
       ]
     },
     {
@@ -456,19 +404,6 @@
         "Studie i mänskligt beteende"
       ],
       "tillfallen": 22
-    },
-    {
-      "regel": "speltid-mot-tillfallen",
-      "dag": "2026-10-24",
-      "plats": "botaniska",
-      "kallor": [
-        "d",
-        "u"
-      ],
-      "titlar": [
-        "Höstlovskul: Formstarkt och eldigt"
-      ],
-      "tillfallen": 1
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -1560,20 +1495,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-11-01",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c"
-      ],
-      "titlar": [
-        "Fem myror - Konsert!",
-        "Fem myror – Konsert!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-11-08",
       "plats": "ukk",
       "kallor": [
@@ -2198,36 +2119,6 @@
       "titlar": [
         "Uppsala VBS – Hästhagen IF",
         "Uppsala Volleyboll – Hästhagen IF Volleyboll"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-01",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c",
-        "d"
-      ],
-      "titlar": [
-        "Fem myror - Konsert!",
-        "Fem myror – Konsert!",
-        "Fem myror"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-01",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d"
-      ],
-      "titlar": [
-        "Elvis, Elvis, Elvis!",
-        "Elvis, Elvis, Elvis! 2026"
       ],
       "poang": 1
     },
@@ -3077,51 +2968,6 @@
         "Poste Restante"
       ],
       "poang": 0.5
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-01",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Fem myror - Konsert!",
-        "Fem myror – Konsert!",
-        "Fem myror"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-01",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Elvis, Elvis, Elvis!",
-        "Elvis, Elvis, Elvis! 2026"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-01",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Dungen"
-      ],
-      "poang": 1
     },
     {
       "regel": "lika",
@@ -5104,14 +4950,28 @@
         "Jethro Tull – The Curiosity Tour"
       ],
       "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-02",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Jazz på Svenska – Bröderna Johansson",
+        "Jazz på Svenska - Bröderna Johansson"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
     {
       "person": "Lisa",
       "namn": "Helgen, 0–4 år: evenemang med känd ålder",
-      "ok": false,
-      "varde": 2,
+      "ok": true,
+      "varde": 5,
       "krav": "minst 5"
     },
     {
@@ -5125,7 +4985,7 @@
       "person": "Lisa",
       "namn": "Familjeevenemang utan ålder (eller 0–99) syns under \"ålder ej angiven\"",
       "ok": true,
-      "varde": "4 av 4",
+      "varde": "12 av 12",
       "krav": "alla"
     },
     {
@@ -5146,7 +5006,7 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 20,
+      "varde": 18,
       "krav": "minst 10"
     },
     {
@@ -5160,7 +5020,7 @@
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 26,
+      "varde": 24,
       "krav": "minst 5"
     },
     {
@@ -5181,14 +5041,14 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "3 %",
+      "varde": "2.9 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "2 %",
+      "varde": "1.8 %",
       "krav": "under 2 %"
     },
     {
