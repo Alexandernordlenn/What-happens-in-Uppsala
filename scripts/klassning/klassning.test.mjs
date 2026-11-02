@@ -66,3 +66,12 @@ test("kön: bara luckor, de närmaste först, och inte om svaret redan finns", (
   const igen = byggKo(filer, {}, { poster: { "heja-3": { hash: ko[0].hash, promptversion: 1 } } }, "2026-10-06");
   assert.deepEqual(igen.map((x) => x.id), ["heja-1"]);
 });
+
+test("kön: källor med källtext hoppas över när texten saknas (bara bygg, ingen hämtning)", () => {
+  const ev = (id, titel, start) => ({ id, titel, start, slut: null, plats: { namn: "P", id: "p" }, kategori: "ovrigt", barnOchFamilj: false, kallor: [{ url: "u" }] });
+  const filer = { bibliotek: [ev("bibliotek-1", "Något", "2026-10-07")], ticketmaster: [ev("tm-1", "Något", "2026-10-07")] };
+  assert.deepEqual(byggKo(filer, {}, null, "2026-10-06").map((x) => x.id), ["tm-1"]);
+  const medText = byggKo(filer, { bibliotek: { "bibliotek-1": "Sagostund för barn" } }, null, "2026-10-06");
+  assert.deepEqual(medText.map((x) => x.id).sort(), ["bibliotek-1", "tm-1"]);
+  assert.equal(medText.find((x) => x.id === "bibliotek-1").kalltext, "Sagostund för barn");
+});
