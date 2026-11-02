@@ -9,6 +9,8 @@ Mer om varje källa och vem man kontaktar: [`KALLOR.md`](KALLOR.md). Tekniken: [
 
 ## Nu
 
+- [ ] **Du:** Läs `LANSERING.md` (plan för lansering i fyra steg, nov 2026–apr 2027) och `API-METOD.md` (hur vi hittar API:er, med handlingsplan). Bestäm vad du vill följa.
+
 - [ ] **Du:** Test med fem personer i oktober 2026, se `TEST.md` (välkomsttext och checklista). Ta bort testbanderollen när testet är slut.
 
 - [ ] **Du:** Skapa en token för Claude-prenumerationen, så att AI-klassningen kommer igång:
