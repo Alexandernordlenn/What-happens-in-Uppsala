@@ -1,38 +1,9 @@
 {
   "kalla": "Katalin",
   "webbsida": "https://www.katalin.com/",
-  "hamtad": "2026-11-01T11:17:42.095Z",
-  "antal": 94,
+  "hamtad": "2026-11-02T12:24:05.398Z",
+  "antal": 93,
   "evenemang": [
-    {
-      "id": "katalin-17212",
-      "titel": "Dungen",
-      "start": "2026-11-01T20:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Katalin",
-        "id": "katalin",
-        "rum": "Stora scen"
-      },
-      "kategori": "musik",
-      "gratis": false,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "katalin",
-          "namn": "Katalin",
-          "url": "https://www.katalin.com/events/dungen-4/",
-          "biljetter": "https://secure.tickster.com/hay7utmctlpkd36"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "indie"
-        ]
-      }
-    },
     {
       "id": "katalin-17323",
       "titel": "Jazzlunch med Maggie & Matti Andersson och Per V Johansson",
@@ -482,6 +453,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "katalin",

@@ -1,8 +1,8 @@
 {
   "kalla": "Fyrishov",
   "webbsida": "https://fyrishov.se/",
-  "hamtad": "2026-11-01T11:18:06.501Z",
-  "antal": 51,
+  "hamtad": "2026-11-02T12:24:32.698Z",
+  "antal": 54,
   "evenemang": [
     {
       "id": "fyrishov-12768",
@@ -697,6 +697,37 @@
       "slut": "2026-12-20T19:00:00+01:00"
     },
     {
+      "id": "fyrishov-3998",
+      "titel": "Storvretacupen – Stars",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall B-F"
+      },
+      "kategori": "sport",
+      "sport": "Innebandy",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/storvretacupen-stars/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "Innebandy",
+          "Storvreta IBK",
+          "Storvretacupen"
+        ]
+      },
+      "start": "2026-12-27T09:00:00+01:00",
+      "slut": "2026-12-29T19:00:00+01:00"
+    },
+    {
       "id": "fyrishov-12772",
       "titel": "Uppsala Basket – Norrköping Dolphins",
       "plats": {
@@ -722,6 +753,68 @@
       },
       "start": "2026-12-30T19:04:00+01:00",
       "slut": "2026-12-30T20:30:00+01:00"
+    },
+    {
+      "id": "fyrishov-4000",
+      "titel": "Storvretacupen – Challenge",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A-F"
+      },
+      "kategori": "sport",
+      "sport": "Innebandy",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/storvretacupen-challenge/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "Innebandy",
+          "Storvreta IBK",
+          "Storvretacupen"
+        ]
+      },
+      "start": "2027-01-02T09:00:00+01:00",
+      "slut": "2027-01-04T11:00:00+01:00"
+    },
+    {
+      "id": "fyrishov-21460",
+      "titel": "Storvretacupen – Next gen",
+      "plats": {
+        "namn": "Fyrishov",
+        "id": "fyrishov",
+        "rum": "Hall A-F"
+      },
+      "kategori": "sport",
+      "sport": "Innebandy",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "fyrishov",
+          "namn": "Fyrishov",
+          "url": "https://fyrishov.se/aktivitet/storvretacupen-next-gen/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "taggar": [
+          "Innebandy",
+          "Storvreta IBK",
+          "Storvretacupen"
+        ]
+      },
+      "start": "2027-01-05T09:00:00+01:00",
+      "slut": "2027-01-06T20:00:00+01:00"
     },
     {
       "id": "fyrishov-23808",

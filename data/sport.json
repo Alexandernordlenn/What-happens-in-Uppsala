@@ -1,33 +1,9 @@
 {
   "kalla": "Förbund och ligor",
   "webbsida": "https://www.profixio.com/",
-  "hamtad": "2026-11-01T11:17:31.494Z",
-  "antal": 118,
+  "hamtad": "2026-11-02T12:23:54.717Z",
+  "antal": 117,
   "evenemang": [
-    {
-      "id": "sport-sportality-w54roblbp6",
-      "titel": "IK Uppsala – Hammarby (dam)",
-      "start": "2026-11-01T15:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Studenternas",
-        "id": "studenternas"
-      },
-      "kategori": "sport",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "sport": "Fotboll",
-      "liga": "OBOS Damallsvenskan",
-      "kallor": [
-        {
-          "id": "sport",
-          "namn": "Ligans webbplats",
-          "url": "https://www.obosdamallsvenskan.se"
-        }
-      ],
-      "langvarig": false,
-      "installd": false
-    },
     {
       "id": "sport-profixio-32636891",
       "titel": "Uppsala Basket – Borås Basket",

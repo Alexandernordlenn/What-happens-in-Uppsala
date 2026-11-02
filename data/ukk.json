@@ -1,73 +1,9 @@
 {
   "kalla": "Uppsala Konsert & Kongress",
   "webbsida": "https://ukk.se/",
-  "hamtad": "2026-11-01T11:17:48.106Z",
+  "hamtad": "2026-11-02T12:24:11.559Z",
   "antal": 110,
   "evenemang": [
-    {
-      "id": "ukk-45143",
-      "titel": "Fem myror – Konsert!",
-      "start": "2026-11-01T14:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/fem-myror-konsert/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "barn"
-        ],
-        "taggar": [
-          "jazz",
-          "familj",
-          "aktuellt",
-          "hostlov"
-        ]
-      }
-    },
-    {
-      "id": "ukk-27166",
-      "titel": "Elvis, Elvis, Elvis!",
-      "start": "2026-11-01T18:00:00+01:00",
-      "slut": null,
-      "plats": {
-        "namn": "Uppsala Konsert & Kongress",
-        "id": "ukk"
-      },
-      "kategori": "musik",
-      "gratis": null,
-      "barnOchFamilj": false,
-      "kallor": [
-        {
-          "id": "ukk",
-          "namn": "Uppsala Konsert & Kongress",
-          "url": "https://ukk.se/elvis-elvis-elvis-2026/"
-        }
-      ],
-      "langvarig": false,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "pop-rock",
-          "nostalgi-tribute"
-        ],
-        "taggar": [
-          "publikfavoriter"
-        ]
-      }
-    },
     {
       "id": "ukk-34890",
       "titel": "Maksim – Segmenti World Tour",
@@ -180,10 +116,10 @@
           "jazz"
         ],
         "taggar": [
+          "mhv",
           "jazz",
           "publikfavoriter",
-          "student",
-          "mhv"
+          "student"
         ]
       }
     },
@@ -336,8 +272,8 @@
           "klassiskt"
         ],
         "taggar": [
-          "aktuellt",
-          "miu"
+          "miu",
+          "aktuellt"
         ]
       }
     },
@@ -912,9 +848,9 @@
       "fakta": {
         "kategorier": [
           "dans",
-          "barn",
           "klassiskt",
-          "festligheter-hogtider"
+          "festligheter-hogtider",
+          "barn"
         ],
         "taggar": [
           "dans",
@@ -949,8 +885,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "publikfavoriter",
-          "jul"
+          "jul",
+          "publikfavoriter"
         ]
       }
     },
@@ -980,9 +916,9 @@
           "pop-rock"
         ],
         "taggar": [
+          "publikfavoriter",
           "student",
-          "mhv",
-          "publikfavoriter"
+          "mhv"
         ]
       }
     },
@@ -1077,6 +1013,36 @@
       }
     },
     {
+      "id": "ukk-47312",
+      "titel": "Firande av Finlands självständighetsdag",
+      "start": "2026-12-05T15:00:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "prat",
+      "gratis": null,
+      "barnOchFamilj": true,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/firande-av-finlands-sjalvstandighetsdag-2026/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "samtal"
+        ],
+        "taggar": [
+          "familj"
+        ]
+      }
+    },
+    {
       "id": "ukk-39314",
       "titel": "Isprinsessan – Julbalett med stråkkvartett",
       "start": "2026-12-05T16:00:00+01:00",
@@ -1100,14 +1066,14 @@
       "fakta": {
         "kategorier": [
           "dans",
+          "barn",
           "klassiskt",
-          "festligheter-hogtider",
-          "barn"
+          "festligheter-hogtider"
         ],
         "taggar": [
+          "dans",
           "familj",
-          "jul",
-          "dans"
+          "jul"
         ]
       }
     },
@@ -1137,9 +1103,9 @@
           "jazz"
         ],
         "taggar": [
+          "aktuellt",
           "student",
-          "mhv",
-          "aktuellt"
+          "mhv"
         ]
       }
     },
@@ -1233,8 +1199,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "jul",
-          "publikfavoriter"
+          "publikfavoriter",
+          "jul"
         ]
       }
     },
@@ -1265,9 +1231,9 @@
           "klassiskt"
         ],
         "taggar": [
+          "aktuellt",
           "mhv",
-          "jul",
-          "aktuellt"
+          "jul"
         ]
       }
     },
@@ -1394,10 +1360,10 @@
           "dans"
         ],
         "taggar": [
-          "aktuellt",
-          "jul",
           "dinnershow",
-          "publikfavoriter"
+          "publikfavoriter",
+          "aktuellt",
+          "jul"
         ]
       }
     },
@@ -1459,10 +1425,10 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "jul",
           "jazz",
           "student",
-          "mhv"
+          "mhv",
+          "jul"
         ]
       }
     },
@@ -1688,15 +1654,15 @@
       "fakta": {
         "kategorier": [
           "nostalgi-tribute",
-          "festligheter-hogtider",
-          "jazz"
+          "jazz",
+          "festligheter-hogtider"
         ],
         "taggar": [
-          "jul",
           "jazz",
           "lunchkonsert",
           "student",
-          "mhv"
+          "mhv",
+          "jul"
         ]
       }
     },
@@ -1723,8 +1689,8 @@
       "installd": false,
       "fakta": {
         "kategorier": [
-          "barn",
-          "klassiskt"
+          "klassiskt",
+          "barn"
         ],
         "taggar": [
           "familj"
@@ -1820,8 +1786,8 @@
           "festligheter-hogtider"
         ],
         "taggar": [
-          "miu",
-          "jul"
+          "jul",
+          "miu"
         ]
       }
     },
@@ -2058,12 +2024,12 @@
       "fakta": {
         "kategorier": [
           "humor",
-          "pop-rock",
-          "klassiskt"
+          "klassiskt",
+          "pop-rock"
         ],
         "taggar": [
-          "publikfavoriter",
-          "aktuellt"
+          "aktuellt",
+          "publikfavoriter"
         ]
       }
     },
@@ -2093,8 +2059,8 @@
           "pop-rock"
         ],
         "taggar": [
-          "publikfavoriter",
-          "aktuellt"
+          "aktuellt",
+          "publikfavoriter"
         ]
       }
     },
@@ -2451,8 +2417,8 @@
           "barn"
         ],
         "taggar": [
-          "familj",
-          "aktuellt"
+          "aktuellt",
+          "familj"
         ]
       }
     },
@@ -2966,10 +2932,10 @@
           "jazz"
         ],
         "taggar": [
+          "student",
           "mhv",
           "publikfavoriter",
-          "aktuellt",
-          "student"
+          "aktuellt"
         ]
       }
     },
@@ -3180,10 +3146,10 @@
           "pop-rock"
         ],
         "taggar": [
-          "student",
-          "mhv",
           "publikfavoriter",
-          "aktuellt"
+          "aktuellt",
+          "student",
+          "mhv"
         ]
       }
     },
@@ -3397,6 +3363,34 @@
         "taggar": [
           "humor"
         ]
+      }
+    },
+    {
+      "id": "ukk-47307",
+      "titel": "Fredrik Andersson – Too soon 2027",
+      "start": "2027-11-26T19:30:00+01:00",
+      "slut": null,
+      "plats": {
+        "namn": "Uppsala Konsert & Kongress",
+        "id": "ukk"
+      },
+      "kategori": "scen",
+      "gratis": null,
+      "barnOchFamilj": false,
+      "kallor": [
+        {
+          "id": "ukk",
+          "namn": "Uppsala Konsert & Kongress",
+          "url": "https://ukk.se/fredrik-andersson-too-soon-2027/"
+        }
+      ],
+      "langvarig": false,
+      "installd": false,
+      "fakta": {
+        "kategorier": [
+          "humor"
+        ],
+        "taggar": []
       }
     }
   ]

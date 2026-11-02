@@ -1,69 +1,9 @@
 {
   "kalla": "Biotopia",
   "webbsida": "https://biotopia.nu/kalender/",
-  "hamtad": "2026-11-01T11:18:03.614Z",
-  "antal": 27,
+  "hamtad": "2026-11-02T12:24:28.317Z",
+  "antal": 25,
   "evenemang": [
-    {
-      "id": "biotopia-2224",
-      "titel": "Höstlov: Återbruksverkstad",
-      "start": "2026-10-24",
-      "slut": "2026-11-01",
-      "plats": {
-        "namn": "Biotopia",
-        "id": "biotopia"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": null,
-      "kallor": [
-        {
-          "id": "biotopia",
-          "namn": "Biotopia",
-          "url": "https://biotopia.nu/?post_type=post&p=2224"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "På Biotopia",
-          "Familjeaktivitet",
-          "För barn",
-          "Med Biotopia"
-        ]
-      }
-    },
-    {
-      "id": "biotopia-2481",
-      "titel": "Leksaksbyte på höstlovet!",
-      "start": "2026-10-24",
-      "slut": "2026-11-01",
-      "plats": {
-        "namn": "Pumphuset",
-        "id": "pumphuset"
-      },
-      "kategori": "aktivitet",
-      "gratis": null,
-      "barnOchFamilj": true,
-      "alder": null,
-      "kallor": [
-        {
-          "id": "biotopia",
-          "namn": "Biotopia",
-          "url": "https://biotopia.nu/?post_type=post&p=2481"
-        }
-      ],
-      "langvarig": true,
-      "installd": false,
-      "fakta": {
-        "kategorier": [
-          "För en grön framtid",
-          "För barn"
-        ]
-      }
-    },
     {
       "id": "biotopia-2426",
       "titel": "We Love Uppsala",

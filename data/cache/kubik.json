@@ -1,70 +1,4 @@
 {
-  "https://www.kubikuppsala.se/hitta-aktiviteter/laes-foer-sotis/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovskul-formstarkt-och-eldigt/": {
-    "dagar": [
-      "må",
-      "ti",
-      "on",
-      "to",
-      "fr",
-      "lö",
-      "sö"
-    ],
-    "tider": {
-      "start": "10:00",
-      "slut": "15:00"
-    },
-    "hamtad": "2026-10-29"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-medicinhistoriska-museet/": {
-    "dagar": [
-      "to",
-      "sö"
-    ],
-    "hamtad": "2026-10-29"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovsskoj-i-naturum-faernebofjaerden/": {
-    "dagar": [],
-    "hamtad": "2026-10-30"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-mat-och-snacks-paa-vikingatiden/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/leksaksbyte-paa-hoestlovet/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlovsbio-paa-fyrisbiografen/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/aterbruksverkstad-paa-hoestlovet/": {
-    "dagar": [],
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/digital-skattjakt-med-musse-helium/": {
-    "dagar": [
-      "må",
-      "ti",
-      "on",
-      "to",
-      "fr",
-      "lö",
-      "sö"
-    ],
-    "tider": {
-      "start": "10:00"
-    },
-    "hamtad": "2026-10-28"
-  },
-  "https://www.kubikuppsala.se/hitta-aktiviteter/hoestlov-paa-upplandsmuseet/": {
-    "dagar": [],
-    "hamtad": "2026-10-31"
-  },
   "https://www.kubikuppsala.se/hitta-aktiviteter/intensivskridskoskola/": {
     "dagar": [],
     "hamtad": "2026-10-28"
@@ -112,6 +46,10 @@
     "dagar": [
       "on"
     ],
+    "hamtad": "2026-10-28"
+  },
+  "https://www.kubikuppsala.se/hitta-aktiviteter/laes-foer-sotis/": {
+    "dagar": [],
     "hamtad": "2026-10-28"
   },
   "https://www.kubikuppsala.se/hitta-aktiviteter/laes-tillsammans/": {

@@ -1,13 +1,13 @@
 {
-  "matt": "2026-11-02T10:43:18.484Z",
+  "matt": "2026-11-02T12:24:54.763Z",
   "idag": "2026-11-02",
   "totalt": {
-    "antal": 1341,
+    "antal": 1345,
     "utanKlockslag": 0.041,
     "ovrigt": 0.029,
-    "familjUtanAlder": 0.193,
+    "familjUtanAlder": 0.195,
     "utanOmrade": 0.018,
-    "sammanslagna": 440,
+    "sammanslagna": 442,
     "pagar14": 10,
     "borttagnaKurser": 23,
     "aiEvenemang": 0,
@@ -15,12 +15,12 @@
     "aiTackning": 0,
     "sammanslagningarPerRegel": {
       "langvariga": 1,
-      "samma-kalla": 2,
+      "samma-kalla": 1,
       "serie-uttryckliga-datum": 6,
       "speltid-mot-tillfallen": 8,
       "festival": 13,
-      "lika": 222,
-      "innehaller": 47,
+      "lika": 223,
+      "innehaller": 48,
       "likhet": 1,
       "sport": 46
     }
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 281,
+      "antal": 283,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.004,
-      "sammanslagna": 84,
+      "sammanslagna": 86,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -72,7 +72,7 @@
       "ovrigt": 0.002,
       "familjUtanAlder": 0.127,
       "utanOmrade": 0.002,
-      "sammanslagna": 102,
+      "sammanslagna": 104,
       "pagar14": 0,
       "borttagnaKurser": 23,
       "aiEvenemang": 0,
@@ -106,10 +106,10 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 79,
+      "antal": 80,
       "utanKlockslag": 0,
       "ovrigt": 0.038,
-      "familjUtanAlder": 0.765,
+      "familjUtanAlder": 0.778,
       "utanOmrade": 0,
       "sammanslagna": 136,
       "pagar14": 0,
@@ -158,9 +158,9 @@
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 44,
+      "antal": 47,
       "utanKlockslag": 0,
-      "ovrigt": 0.023,
+      "ovrigt": 0.021,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
       "sammanslagna": 37,
@@ -234,18 +234,6 @@
       ],
       "titlar": [
         "Babysagostund"
-      ]
-    },
-    {
-      "regel": "samma-kalla",
-      "dag": "2026-11-27",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "b"
-      ],
-      "titlar": [
-        "Fredagsmys"
       ]
     },
     {
@@ -1154,6 +1142,20 @@
       "poang": 1
     },
     {
+      "regel": "innehaller",
+      "dag": "2026-11-27",
+      "plats": "rosendalbib",
+      "kallor": [
+        "b",
+        "u"
+      ],
+      "titlar": [
+        "Småsånger med Ako",
+        "Småsånger"
+      ],
+      "poang": 0.5
+    },
+    {
       "regel": "lika",
       "dag": "2026-11-28",
       "plats": "stadsbib",
@@ -1409,6 +1411,20 @@
       "titlar": [
         "Sagostund på kinesiska – 汉语角沙龙",
         "Sagostund på kinesiska / (汉语角沙龙)"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-12-13",
+      "plats": "stadsbib",
+      "kallor": [
+        "b",
+        "u"
+      ],
+      "titlar": [
+        "Sagostund på portugisiska –Contação de histórias em português",
+        "Sagostund på portugisiska / Contação de histórias em português"
       ],
       "poang": 1
     },

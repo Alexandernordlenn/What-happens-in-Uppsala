@@ -1,7 +1,7 @@
 {
   "kalla": "Uppsala stadsteater",
   "webbsida": "https://www.uppsalastadsteater.se/",
-  "hamtad": "2026-11-01T11:15:14.872Z",
+  "hamtad": "2026-11-02T12:21:40.455Z",
   "antal": 187,
   "evenemang": [
     {
@@ -213,7 +213,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
-      "notering": "Få biljetter kvar",
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -238,7 +238,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
-      "notering": "Få biljetter kvar",
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -263,7 +263,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
-      "notering": "Få biljetter kvar",
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",
@@ -435,7 +435,7 @@
       "kategori": "scen",
       "gratis": false,
       "barnOchFamilj": false,
-      "notering": "Få biljetter kvar",
+      "notering": "Slutsåld",
       "kallor": [
         {
           "id": "stadsteatern",
