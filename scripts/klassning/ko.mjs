@@ -10,6 +10,11 @@
 // och som inte redan har ett godkänt AI-svar för samma innehåll och
 // promptversion (data/etiketter.json). Högst 150 per körning, de närmaste
 // i tid först. Källtexten läses från tmp/kalltext/ och skrivs aldrig ut.
+//
+// Källor som skriver källtext under hämtningen (MED_KALLTEXT) hoppas över när
+// texten saknas, till exempel när workflowet bara bygger om utan att hämta.
+// Annars skulle Claude bara se titeln, och svaret sparas så att evenemanget
+// inte frågas om när texten finns.
 
 import { readFile, writeFile, mkdir, appendFile } from "node:fs/promises";
 import { KALLOR } from "../bygg-sida.mjs";
@@ -19,6 +24,7 @@ import { innehallshash } from "../gemensamt/kalltext.mjs";
 
 export const PROMPTVERSION = 1;
 export const MAX_PER_KORNING = 150;
+export const MED_KALLTEXT = new Set(["bibliotek", "tickster", "kubik"]);
 
 const lasJson = async (fil, reserv) => {
   try {
@@ -48,6 +54,7 @@ function textFor(e, texter) {
 export function byggKo(evenemangPerKalla, texterPerKalla, etiketter, idag) {
   const ko = [];
   for (const { id, bokstav } of KALLOR) {
+    if (MED_KALLTEXT.has(id) && !texterPerKalla[id]) continue;
     const texter = texterPerKalla[id] || {};
     for (const original of evenemangPerKalla[id] || []) {
       const e = klassa(normaliseraPlats(original), bokstav);
@@ -82,7 +89,7 @@ async function main() {
   const texter = {};
   for (const { id } of KALLOR) {
     evenemang[id] = (await lasJson(`data/${id}.json`, { evenemang: [] })).evenemang;
-    texter[id] = await lasJson(`tmp/kalltext/${id}.json`, {});
+    texter[id] = await lasJson(`tmp/kalltext/${id}.json`, null);
   }
   const ko = byggKo(evenemang, texter, await lasJson("data/etiketter.json", null), idag);
   await mkdir("tmp", { recursive: true });
