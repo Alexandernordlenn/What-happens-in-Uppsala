@@ -182,6 +182,19 @@ jobs:
             --max-turns 20
             --allowedTools "Read(./tmp/ko.json),Write(./tmp/svar.json)"
 
+      - name: Visa varför Claude-steget misslyckades
+        # Bara felmeddelandet från Claude Code, aldrig källtexten.
+        if: steps.claude.outcome == 'failure'
+        continue-on-error: true
+        run: |
+          fil="$RUNNER_TEMP/claude-execution-output.json"
+          if [ -f "$fil" ]; then
+            svar=$(jq -r '.. | objects | select(.type? == "result") | (.result // .subtype // "okänt")' "$fil" | tail -1 | cut -c1-300)
+            echo "Fel från Claude Code: ${svar:-inget felmeddelande}"
+          else
+            echo "Ingen utdatafil från Claude Code."
+          fi
+
       - name: Kontrollera AI-svaren (data/etiketter.json)
         if: steps.claude.outcome == 'success'
         continue-on-error: true
