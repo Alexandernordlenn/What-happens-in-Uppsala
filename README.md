@@ -35,7 +35,8 @@ GitHub Actions kör skripten i scripts/<källa>/hamta.mjs
 scripts/bygg-sida.mjs slår ihop allt och tar bort dubbletter
         │   data/sida.json
         ▼
-GitHub sparar filerna och publicerar sidan
+GitHub sparar sida.json och publicerar sidan
+        │   (källornas filer sparas krypterade, inte i repot)
         ▼
 index.html läser data/sida.json i besökarens webbläsare
 ```
@@ -62,7 +63,7 @@ Sexton källor är byggda: Tickster, Billetto, Destination Uppsala, Uppsala stad
 | `integritet.html` | Integritet och hur man begär att ett evenemang tas bort |
 | `TEST.md` | Underlaget för testet med testpersoner: välkomsttext och checklista |
 | `UPPDRAG-KVALITET.md` | Uppdraget om kvalitetslyftet, fas för fas |
-| `data/` | Hämtad data. `data/cache/` minns sidor som redan lästs. |
+| `data/` | Det sidan läser (`sida.json`), kvalitetsrapporten, rättelser och AI-etiketter. Källornas filer och `data/cache/` ligger inte i repot, se `scripts/kalldata.mjs`. |
 | `.github/workflows/` | Schemat för GitHub Actions |
 | `CLAUDE.md` | Beslut, regler och teknisk beskrivning (läses också av Claude) |
 
@@ -115,5 +116,6 @@ API-nycklar skrivs aldrig i koden. De sparas som hemligheter i GitHub (*Settings
 - `SVK_API_KEY`: Svenska kyrkans nyckel
 - `TICKETMASTER_API_KEY`: Ticketmasters nyckel
 - `TICKSTER_API_KEY`: Ticksters nyckel (utan den hämtas inget från Tickster)
+- `DATA_NYCKEL`: krypterar källornas filer och rådatan mellan körningarna (en slumpad lång sträng, skapa med `openssl rand -base64 32`)
 - `CLAUDE_CODE_OAUTH_TOKEN`: token för Claude-prenumerationen, för AI-klassningen (utan den byggs sidan med bara reglerna)
 - `FIREBASE_SERVICE_ACCOUNT`: Firebase, när det är inställt

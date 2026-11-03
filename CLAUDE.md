@@ -105,7 +105,7 @@ Se `BACKLOG.md`. Där står allt som återstår, i prioritetsordning, och vem so
 
 ## Hämtningarna
 
-Allt körs av `.github/workflows/hamta-evenemang.yml` varje dag 04:13 UTC, och kan startas för hand under Actions. Varje källa är ett eget steg, så att en trasig källa inte stoppar de andra. Resultatet hamnar i `data/<källa>.json`, som workflowet sparar i repot.
+Allt körs av `.github/workflows/hamta-evenemang.yml` varje dag 04:13 UTC, och kan startas för hand under Actions. Varje källa är ett eget steg, så att en trasig källa inte stoppar de andra. Resultatet hamnar i `data/<källa>.json`. Bara det som sidan och kvalitetsmätningen behöver sparas i repot, se "Vad som ligger i repot" nedan.
 
 | Källa | Mapp | Hur | Status |
 |---|---|---|---|
@@ -139,7 +139,8 @@ Gemensamma delar i `scripts/gemensamt/`:
 
 - `start` är datum och tid med tidszon (`2026-09-24T19:00:00+02:00`), eller bara datum (`2026-09-24`) när källan inte anger klockslag.
 - `data/cache/` minns evenemangssidor vi redan läst, så att de inte hämtas varje dag.
-- Rådatan (`data/radata/`) läggs inte i repot. Den sparas i Firestore och som bilaga till varje körning i 14 dagar.
+- **Vad som ligger i repot (beslut 3 nov 2026):** repot är publikt, så där ligger bara `data/sida.json`, `kvalitet.json`, `kvalitet-fore.json`, `historik.json`, `rattelser.json`, `etiketter.json` och `sport-lag.json` (listan `I_REPOT` i `scripts/kalldata.mjs` och `.gitignore`). Källornas filer och `data/cache/` krypteras med hemligheten `DATA_NYCKEL` och sparas i GitHubs cache mellan körningarna. Rådatan (`data/radata/`) krypteras och sparas som bilaga till körningen i 14 dagar. Utan `DATA_NYCKEL` sparas ingen rådata. Försvinner cachen (till exempel efter 7 dagar utan körning) börjar nästa körning om från noll, utan att något går sönder.
+- I en Claude-session finns källornas filer alltså inte lokalt. Använd `data/sida.json`, eller kör hämtningen för en källa.
 - Testerna körs med `npm test`. Varje källa har en `regler.test.mjs` med sparad exempeldata.
 - Dubbletter slås ihop i `scripts/bygg-sida.mjs` (`slaIhop`), med titeljämförelsen i `scripts/gemensamt/dubbletter.mjs`. Sex steg: långvariga med samma titel och plats, samma källas identiska poster, serier mot en annan källas uttryckliga datum, speltider mot föreställningar, festivaler med sina programpunkter, och huvudregeln (olika källor, samma dag och plats eller byggnad, klockslag inom 60 minuter, titlar som matchar). Sport: samma dag, arena och tid. Varje sammanslagning loggas i kvalitetsrapporten. Facit finns som tester i `scripts/bygg-sida.test.mjs`.
 
