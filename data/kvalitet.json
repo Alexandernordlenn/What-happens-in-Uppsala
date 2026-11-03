@@ -1,13 +1,13 @@
 {
-  "matt": "2026-11-02T12:24:54.763Z",
-  "idag": "2026-11-02",
+  "matt": "2026-11-03T11:53:56.132Z",
+  "idag": "2026-11-03",
   "totalt": {
-    "antal": 1345,
-    "utanKlockslag": 0.041,
+    "antal": 1336,
+    "utanKlockslag": 0.04,
     "ovrigt": 0.029,
-    "familjUtanAlder": 0.195,
+    "familjUtanAlder": 0.194,
     "utanOmrade": 0.018,
-    "sammanslagna": 442,
+    "sammanslagna": 440,
     "pagar14": 10,
     "borttagnaKurser": 23,
     "aiEvenemang": 0,
@@ -16,24 +16,24 @@
     "sammanslagningarPerRegel": {
       "langvariga": 1,
       "samma-kalla": 1,
-      "serie-uttryckliga-datum": 6,
+      "serie-uttryckliga-datum": 5,
       "speltid-mot-tillfallen": 8,
       "festival": 13,
-      "lika": 223,
+      "lika": 225,
       "innehaller": 48,
       "likhet": 1,
-      "sport": 46
+      "sport": 45
     }
   },
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 102,
+      "antal": 101,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.02,
-      "sammanslagna": 46,
+      "sammanslagna": 45,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 283,
+      "antal": 280,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.004,
-      "sammanslagna": 86,
+      "sammanslagna": 84,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 499,
-      "utanKlockslag": 0.049,
+      "antal": 491,
+      "utanKlockslag": 0.048,
       "ovrigt": 0.002,
-      "familjUtanAlder": 0.127,
+      "familjUtanAlder": 0.124,
       "utanOmrade": 0.002,
-      "sammanslagna": 104,
+      "sammanslagna": 102,
       "pagar14": 0,
       "borttagnaKurser": 23,
       "aiEvenemang": 0,
@@ -106,12 +106,12 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 80,
+      "antal": 81,
       "utanKlockslag": 0,
-      "ovrigt": 0.038,
+      "ovrigt": 0.037,
       "familjUtanAlder": 0.778,
       "utanOmrade": 0,
-      "sammanslagna": 136,
+      "sammanslagna": 137,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -158,12 +158,12 @@
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 47,
+      "antal": 46,
       "utanKlockslag": 0,
-      "ovrigt": 0.021,
+      "ovrigt": 0.022,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 37,
+      "sammanslagna": 36,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -197,12 +197,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 217,
+      "antal": 218,
       "utanKlockslag": 0,
       "ovrigt": 0.055,
       "familjUtanAlder": 0.773,
       "utanOmrade": 0.046,
-      "sammanslagna": 215,
+      "sammanslagna": 216,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -257,25 +257,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-02",
+      "dag": "2026-11-09",
       "plats": "gottsundabib",
       "kallor": [
         "u",
-        "b",
-        "b"
-      ],
-      "titlar": [
-        "Läs tillsammans!"
-      ],
-      "serie": "kubik-laes-tillsammans"
-    },
-    {
-      "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-02",
-      "plats": "gottsundabib",
-      "kallor": [
-        "u",
-        "b",
         "b",
         "b",
         "b",
@@ -653,6 +638,19 @@
       ],
       "titlar": [
         "Nyhetsklubb"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-11-30",
+      "plats": "gottsundabib",
+      "kallor": [
+        "b",
+        "u"
+      ],
+      "titlar": [
+        "Läs tillsammans!"
       ],
       "poang": 1
     },
@@ -1641,19 +1639,6 @@
       ],
       "titlar": [
         "Poste Restante 28/2"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
-      "dag": "2026-11-02",
-      "plats": "fyrishov",
-      "kallor": [
-        "i",
-        "f"
-      ],
-      "titlar": [
-        "Uppsala Basket – Borås Basket"
       ],
       "poang": 1
     },
@@ -4980,6 +4965,19 @@
         "Jazz på Svenska - Bröderna Johansson"
       ],
       "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-03",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "t"
+      ],
+      "titlar": [
+        "Night of Famous Musicals"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -5022,7 +5020,7 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 18,
+      "varde": 19,
       "krav": "minst 10"
     },
     {
@@ -5071,7 +5069,7 @@
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "4.1 %",
+      "varde": "4 %",
       "krav": "under 5 %"
     }
   ]
