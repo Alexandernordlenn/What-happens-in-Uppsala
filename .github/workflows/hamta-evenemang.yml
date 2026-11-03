@@ -41,6 +41,8 @@ jobs:
       # Mindre modell först. Byt till en större om facit visar för låg träffsäkerhet.
       KLASSA_MODELL: claude-haiku-4-5-20251001
       FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+      # Krypterar källornas filer och rådatan, som inte ska ligga öppet (scripts/kalldata.mjs).
+      DATA_NYCKEL: ${{ secrets.DATA_NYCKEL }}
       # "false" när någon startar körningen för hand med "Bara bygg om sidan".
       # Då hämtas inget från källorna (högst en hämtning per källa och dygn).
       HAMTA: ${{ github.event.inputs.bara_bygg != 'true' }}
@@ -56,6 +58,22 @@ jobs:
 
       - name: Installera paket
         run: npm ci
+
+      - name: Hämta förra körningens källdata (krypterad)
+        # Källornas filer ligger inte i repot. Senaste sparade versionen hämtas från GitHubs cache.
+        continue-on-error: true
+        uses: actions/cache/restore@v4
+        with:
+          path: tmp/kalldata.enc
+          key: kalldata-${{ github.run_id }}
+          restore-keys: kalldata-
+
+      - name: Packa upp förra körningens källdata
+        if: env.DATA_NYCKEL != '' && hashFiles('tmp/kalldata.enc') != ''
+        continue-on-error: true
+        run: |
+          openssl enc -d -aes-256-cbc -pbkdf2 -pass env:DATA_NYCKEL -in tmp/kalldata.enc | tar -xzf -
+          echo "Packade upp $(node scripts/kalldata.mjs | wc -l) filer."
 
       - name: Kör testerna
         run: npm test
@@ -210,14 +228,39 @@ jobs:
         continue-on-error: true
         run: npm run kvalitet
 
-      - name: Spara rådatan som bilaga till körningen
-        if: always()
+      - name: Spara källdatan krypterad till nästa körning
+        id: packa
+        if: always() && env.DATA_NYCKEL != ''
+        continue-on-error: true
+        run: |
+          mkdir -p tmp
+          node scripts/kalldata.mjs > tmp/kalldata.txt
+          tar -czf - -T tmp/kalldata.txt | openssl enc -aes-256-cbc -pbkdf2 -salt -pass env:DATA_NYCKEL -out tmp/kalldata.enc
+          echo "Sparade $(wc -l < tmp/kalldata.txt) filer krypterade."
+
+      - name: Lägg källdatan i cachen
+        if: always() && steps.packa.outcome == 'success'
+        continue-on-error: true
+        uses: actions/cache/save@v4
+        with:
+          path: tmp/kalldata.enc
+          key: kalldata-${{ github.run_id }}-${{ github.run_attempt }}
+
+      - name: Kryptera rådatan
+        # Bilagor i ett öppet repo kan laddas ner av alla, så rådatan krypteras alltid.
+        # Utan DATA_NYCKEL sparas ingen rådata alls.
+        id: radata
+        if: always() && env.DATA_NYCKEL != '' && hashFiles('data/radata/*.json') != ''
+        continue-on-error: true
+        run: tar -czf - data/radata | openssl enc -aes-256-cbc -pbkdf2 -salt -pass env:DATA_NYCKEL -out tmp/radata.enc
+
+      - name: Spara den krypterade rådatan som bilaga till körningen
+        if: always() && steps.radata.outcome == 'success'
         uses: actions/upload-artifact@v7
         with:
           name: radata
-          path: data/radata/
+          path: tmp/radata.enc
           retention-days: 14
-          if-no-files-found: ignore
 
       - name: Spara datafilerna i repot om de har ändrats
         run: |
