@@ -1,6 +1,19 @@
 node_modules/
-# Rådatan sparas i Firestore, inte i repot.
+# Rådatan läggs aldrig i repot. Den sparas krypterad som bilaga till körningen.
 data/radata/
 
 # Tillfälliga filer från bygget och klassningen. Läggs aldrig i repot.
 tmp/
+
+# Källornas egna filer och minnet av lästa sidor. De sparas krypterade
+# mellan körningarna (scripts/kalldata.mjs), inte i det öppna repot.
+# Samma lista som I_REPOT i scripts/kalldata.mjs.
+data/*.json
+!data/sida.json
+!data/kvalitet.json
+!data/kvalitet-fore.json
+!data/historik.json
+!data/rattelser.json
+!data/etiketter.json
+!data/sport-lag.json
+data/cache/
