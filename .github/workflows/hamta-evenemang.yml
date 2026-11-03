@@ -211,6 +211,16 @@ jobs:
             --max-turns 20
             --allowedTools "Read(./tmp/ko.json),Write(./tmp/svar.json)"
 
+      - name: Sammanfatta Claude-steget
+        # Bara siffror, verktyg och filnamn. Aldrig källtexten eller svaren.
+        if: steps.claude.outcome == 'success'
+        continue-on-error: true
+        run: |
+          fil="$RUNNER_TEMP/claude-execution-output.json"
+          [ -f "$fil" ] && jq -r '.. | objects | select(.type? == "result") | "Claude: \(.subtype), \(.num_turns) vändor, \((.duration_ms // 0) / 1000 | floor) sekunder, \(.permission_denials | length) nekade verktyg"' "$fil" | tail -1
+          [ -f "$fil" ] && jq -r '.. | objects | select(.type? == "result") | .permission_denials[]? | "Nekat: \(.tool_name) \(.tool_input.file_path // .tool_input.path // "")"' "$fil" | sort | uniq -c | head -10
+          if [ -f tmp/svar.json ]; then echo "tmp/svar.json: $(jq '.svar | length' tmp/svar.json) svar"; else echo "tmp/svar.json saknas"; fi
+
       - name: Visa varför Claude-steget misslyckades
         # Bara felmeddelandet från Claude Code, aldrig källtexten.
         if: steps.claude.outcome == 'failure'
