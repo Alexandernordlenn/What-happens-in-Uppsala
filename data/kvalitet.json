@@ -1,18 +1,18 @@
 {
-  "matt": "2026-11-03T12:18:09.413Z",
+  "matt": "2026-11-03T12:22:39.426Z",
   "idag": "2026-11-03",
   "totalt": {
     "antal": 1341,
     "utanKlockslag": 0.041,
-    "ovrigt": 0.031,
+    "ovrigt": 0.025,
     "familjUtanAlder": 0.194,
     "utanOmrade": 0.019,
     "sammanslagna": 441,
     "pagar14": 10,
     "borttagnaKurser": 23,
-    "aiEvenemang": 0,
+    "aiEvenemang": 34,
     "misstanktaDubbletter": 0,
-    "aiTackning": 0,
+    "aiTackning": 1,
     "sammanslagningarPerRegel": {
       "langvariga": 1,
       "samma-kalla": 1,
@@ -36,7 +36,7 @@
       "sammanslagna": 45,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     },
     "s": {
@@ -49,7 +49,7 @@
       "sammanslagna": 81,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     },
     "b": {
@@ -62,7 +62,7 @@
       "sammanslagna": 84,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     },
     "u": {
@@ -75,7 +75,7 @@
       "sammanslagna": 102,
       "pagar14": 0,
       "borttagnaKurser": 23,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     },
     "r": {
@@ -88,7 +88,7 @@
       "sammanslagna": 20,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     },
     "l": {
@@ -101,7 +101,7 @@
       "sammanslagna": 70,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     },
     "c": {
@@ -114,7 +114,7 @@
       "sammanslagna": 138,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     },
     "e": {
@@ -127,7 +127,7 @@
       "sammanslagna": 1,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     },
     "j": {
@@ -140,7 +140,7 @@
       "sammanslagna": 0,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     },
     "n": {
@@ -153,7 +153,7 @@
       "sammanslagna": 7,
       "pagar14": 1,
       "borttagnaKurser": 0,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     },
     "f": {
@@ -166,7 +166,7 @@
       "sammanslagna": 36,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     },
     "o": {
@@ -179,20 +179,20 @@
       "sammanslagna": 3,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     },
     "d": {
       "namn": "Destination Uppsala",
       "antal": 227,
       "utanKlockslag": 0.094,
-      "ovrigt": 0.119,
+      "ovrigt": 0.088,
       "familjUtanAlder": 0.946,
       "utanOmrade": 0.04,
       "sammanslagna": 215,
       "pagar14": 9,
       "borttagnaKurser": 0,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     },
     "t": {
@@ -205,7 +205,7 @@
       "sammanslagna": 217,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 0,
+      "aiEvenemang": 34,
       "misstanktaDubbletter": 0
     }
   },
@@ -5068,7 +5068,7 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "3.1 %",
+      "varde": "2.5 %",
       "krav": "under 10 %"
     },
     {

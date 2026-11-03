@@ -1,0 +1,546 @@
+{
+ "poster": {
+  "biotopia-2369": {
+   "hash": "be4bce7ece93",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "biotopia-2143": {
+   "hash": "54f0de60b021",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "billetto-2023153": {
+   "hash": "3920dee61f67",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-katarina-jagellonica-500-ar": {
+   "hash": "706c5d88ccdd",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-art-night-2026": {
+   "hash": "f8522ae4bb1f",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-familjelordagar-pa-uppsala-konstmuseum-2026": {
+   "hash": "c602cd3169e6",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-vem-blir-du-interaktiv-konstutstallning-med-carl-larsson": {
+   "hash": "3cbc1ea03948",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-monster-och-gudar": {
+   "hash": "d882da71b39c",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-halloween-pa-odinsborg": {
+   "hash": "19eaa940dee4",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "format": "enstaka"
+  },
+  "du-13x13-3d-skrivning-av-magnesium-for-framtidens-implantat": {
+   "hash": "bcb3e5d870b5",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "prat"
+  },
+  "stadsteatern-125896": {
+   "hash": "40bcb813459f",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "stadsteatern-125905": {
+   "hash": "8fdac5bf8d08",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-allt-ljus-pa-uppsala-2026": {
+   "hash": "15f844e920df",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "stadsteatern-125906": {
+   "hash": "60c44fb24c4a",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-45722": {
+   "hash": "12468f2687d8",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "bror-hjorths-hus-20648": {
+   "hash": "75b9ea5e7607",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "bror-hjorths-hus-20655": {
+   "hash": "523bf72c3a67",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "biotopia-2403": {
+   "hash": "94a4437877b9",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-museidagen-2026": {
+   "hash": "a6c41215fa3a",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "biotopia-2152": {
+   "hash": "c54e7ecacfb1",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-13x13-radioaktiva-lakemedel-en-stralande-ide-for-framtidens-cancerbehandling": {
+   "hash": "6469a9414d65",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "prat"
+  },
+  "stadsteatern-125907": {
+   "hash": "000b9282a5b2",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "stadsteatern-131539": {
+   "hash": "4cc0f52c0859",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "stadsteatern-125908": {
+   "hash": "6d6c31bb7ca7",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-comovement": {
+   "hash": "d72607d82889",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "stadsteatern-125909": {
+   "hash": "6e4d9549857b",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-13x13-framtidens-energisystem-i-en-komplex-varld": {
+   "hash": "afeedaacbdb8",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "prat"
+  },
+  "ukk-44805": {
+   "hash": "4fc55aede02e",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "stadsteatern-131540": {
+   "hash": "78cf68e2f549",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "stadsteatern-125910": {
+   "hash": "aaa2ecb8537c",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-45834": {
+   "hash": "ac17de39babd",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-45832": {
+   "hash": "41ccd575bfc0",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-45842": {
+   "hash": "adcc53efef8a",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-julmarknad-pa-kaleido": {
+   "hash": "0bcd250a1279",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "format": "utstallning",
+   "kategori": "ovrigt"
+  },
+  "du-ulva-julmarknad-2026": {
+   "hash": "76d72d983bed",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-saffransmysteriet-lassemajas-detektivbyra": {
+   "hash": "41ccd575bfc0",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "biotopia-2154": {
+   "hash": "512a683bc9c9",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-13x13-att-tamja-litium": {
+   "hash": "8cd4ab74c91b",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "prat"
+  },
+  "du-musse-helium-digital-skattjakt-i-uppsala-city": {
+   "hash": "c657e6de2764",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "format": "period"
+  },
+  "stadsteatern-136292": {
+   "hash": "c0acddcd5f2e",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "stadsteatern-136293": {
+   "hash": "d9364a9915de",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "biotopia-1195": {
+   "hash": "c1e14d7a65b3",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-julmarknad-pa-chokladfabriken-2026": {
+   "hash": "f6b64ae46437",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-julmarknad-med-drop-in-vigsel": {
+   "hash": "79ceb55311ee",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-historisk-julmarknad-i-gamla-uppsala-2026": {
+   "hash": "91bd674c3ff8",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-julmarknad-i-kopphagen-lanna": {
+   "hash": "bd61652e82cc",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-lilla-juloratoriet-bachs-juloratorium-for-barn-2": {
+   "hash": "8ff06512489e",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-40024": {
+   "hash": "4deeda3c9635",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "fyrishov-24290": {
+   "hash": "7dd8204c0818",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-julskyltningstavling-2026": {
+   "hash": "58f66b267669",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "format": "enstaka",
+   "kategori": "ovrigt"
+  },
+  "du-notknapparen-med-international-festival-ballet": {
+   "hash": "2e5705ad71f6",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-33841": {
+   "hash": "6cfea76f7990",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-pop-up-korkonserter-i-uppsala-2026": {
+   "hash": "29636354d3b0",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "format": "period"
+  },
+  "ukk-34121": {
+   "hash": "60d7f7653d93",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-uf-julmarknad-pa-forumtorget-2026": {
+   "hash": "7d6698334fc2",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "ukk-47312": {
+   "hash": "aafdd7b8888e",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-39314": {
+   "hash": "5eab77c73567",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "missionskyrkan-13395": {
+   "hash": "00662c089200",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-uppsala-historiska-julmarknad-2026": {
+   "hash": "7688ceeceb48",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-julmarknad-vid-storvreta-forsamlingsgard-2026": {
+   "hash": "48c786f9d5bd",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "ukk-44223": {
+   "hash": "2f80787a1357",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-local-femmes-julmarknad": {
+   "hash": "024522d3a51a",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-julmarknad-vid-hammarskogs-herrgard": {
+   "hash": "e36ac628b2f6",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "ukk-33345": {
+   "hash": "a03edcdf1703",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-traffa-tomten-och-nissan-i-uppsala-city": {
+   "hash": "b4a47ccd32cc",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "aktivitet"
+  },
+  "stadsteatern-125911": {
+   "hash": "9f0e6efd5ee1",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-44522": {
+   "hash": "8586b00da319",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-45958": {
+   "hash": "b6eb436bc757",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "missionskyrkan-13397": {
+   "hash": "02df62c0a1fe",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-lantlig-julmarknad-pa-ekbolanda-gard": {
+   "hash": "16c91519992a",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-hagaby-julmarknad-2026": {
+   "hash": "03d81dab7c41",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-schysst-jul-uppsala-2026": {
+   "hash": "0e9659b0eb83",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-barnens-julvarld-med-nassim-al-fakir": {
+   "hash": "30c8a085b145",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "missionskyrkan-13235": {
+   "hash": "05c5b89be22b",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-luciakonsert-for-yngre-i-uppsala-domkyrka": {
+   "hash": "ee3c85b4d9e7",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-julklappshogen-2026": {
+   "hash": "845d18a80ba2",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "aktivitet"
+  },
+  "stadsteatern-125897": {
+   "hash": "5bb9b9d0e5dc",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-46237": {
+   "hash": "c86e9ea441b2",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "stadsteatern-125912": {
+   "hash": "4bcc5f14bfec",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-34070": {
+   "hash": "178f8c822112",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-34067": {
+   "hash": "e5a550a026ff",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-julmarknad-pa-forumtorget-2026": {
+   "hash": "272133d8fa5c",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-nyarsoppet-i-tropiska-vaxthuset-2026": {
+   "hash": "33b43967d067",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "aktivitet"
+  },
+  "katalin-17483": {
+   "hash": "6b1583c30fd4",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-30712": {
+   "hash": "c7404325f7c6",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-30711": {
+   "hash": "e918d6293a94",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-djungelboken-the-musical": {
+   "hash": "4568106a4824",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-46703": {
+   "hash": "49bc9d359212",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-upzala-terminus-2027-warhammer-tournament": {
+   "hash": "a85e45b63aea",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "aktivitet"
+  },
+  "du-twa-ceremony-i-vasaborgen": {
+   "hash": "bdb2b202af47",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-45745": {
+   "hash": "dccb8d725cee",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "katalin-17525": {
+   "hash": "399629455265",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-46049": {
+   "hash": "532ef1f90827",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "ukk-46471": {
+   "hash": "5f9a7254d127",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "mat"
+  },
+  "ukk-46519": {
+   "hash": "a6f62a978858",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "mat"
+  },
+  "ukk-46319": {
+   "hash": "faf8e833d355",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "stadsteatern-134626": {
+   "hash": "4a6c4aeabd90",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-valborg-2027": {
+   "hash": "0596e8334f9e",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "stadsteatern-134628": {
+   "hash": "a8f43c6b5a1f",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "stadsteatern-134629": {
+   "hash": "5c7c2002174b",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "stadsteatern-134630": {
+   "hash": "504fbf7f8287",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  }
+ },
+ "promptversion": 1
+}
