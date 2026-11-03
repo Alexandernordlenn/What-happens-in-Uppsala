@@ -183,6 +183,17 @@ jobs:
         continue-on-error: true
         run: node scripts/klassning/ko.mjs
 
+      - name: Städa Claude-koden
+        # Tar bort radbrytningar och mellanslag, som lätt följer med när koden
+        # kopieras från ett smalt Terminal-fönster. Koden skrivs aldrig ut.
+        if: env.HAR_CLAUDE == 'true'
+        env:
+          RA_KOD: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          ren=$(printf '%s' "$RA_KOD" | tr -d '[:space:]')
+          echo "::add-mask::$ren"
+          echo "CLAUDE_KOD=$ren" >> "$GITHUB_ENV"
+
       - name: Claude klassar det reglerna missade
         id: claude
         # Bara om hemligheten finns och kön inte är tom. Sidan fungerar fullt ut utan det här steget.
@@ -191,7 +202,7 @@ jobs:
         timeout-minutes: 15
         uses: anthropics/claude-code-action@v1
         with:
-          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_code_oauth_token: ${{ env.CLAUDE_KOD }}
           github_token: ${{ github.token }} # så att Claudes GitHub-app inte behövs
           allowed_bots: "github-actions[bot]"
           prompt: "/klassa"
