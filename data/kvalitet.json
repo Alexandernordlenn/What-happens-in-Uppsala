@@ -1,13 +1,13 @@
 {
-  "matt": "2026-11-03T11:53:56.132Z",
+  "matt": "2026-11-03T11:58:40.583Z",
   "idag": "2026-11-03",
   "totalt": {
-    "antal": 1336,
-    "utanKlockslag": 0.04,
-    "ovrigt": 0.029,
+    "antal": 1341,
+    "utanKlockslag": 0.041,
+    "ovrigt": 0.031,
     "familjUtanAlder": 0.194,
-    "utanOmrade": 0.018,
-    "sammanslagna": 440,
+    "utanOmrade": 0.019,
+    "sammanslagna": 441,
     "pagar14": 10,
     "borttagnaKurser": 23,
     "aiEvenemang": 0,
@@ -19,7 +19,7 @@
       "serie-uttryckliga-datum": 5,
       "speltid-mot-tillfallen": 8,
       "festival": 13,
-      "lika": 225,
+      "lika": 226,
       "innehaller": 48,
       "likhet": 1,
       "sport": 45
@@ -93,8 +93,8 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 80,
-      "utanKlockslag": 0,
+      "antal": 82,
+      "utanKlockslag": 0.012,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
@@ -111,7 +111,7 @@
       "ovrigt": 0.037,
       "familjUtanAlder": 0.778,
       "utanOmrade": 0,
-      "sammanslagna": 137,
+      "sammanslagna": 138,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -119,9 +119,9 @@
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 51,
+      "antal": 50,
       "utanKlockslag": 0,
-      "ovrigt": 0.039,
+      "ovrigt": 0.04,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
       "sammanslagna": 1,
@@ -171,11 +171,11 @@
     },
     "o": {
       "namn": "Billetto",
-      "antal": 5,
+      "antal": 6,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0,
+      "utanOmrade": 0.167,
       "sammanslagna": 3,
       "pagar14": 0,
       "borttagnaKurser": 0,
@@ -184,9 +184,9 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 225,
-      "utanKlockslag": 0.095,
-      "ovrigt": 0.111,
+      "antal": 227,
+      "utanKlockslag": 0.094,
+      "ovrigt": 0.119,
       "familjUtanAlder": 0.946,
       "utanOmrade": 0.04,
       "sammanslagna": 215,
@@ -197,12 +197,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 218,
+      "antal": 220,
       "utanKlockslag": 0,
       "ovrigt": 0.055,
-      "familjUtanAlder": 0.773,
-      "utanOmrade": 0.046,
-      "sammanslagna": 216,
+      "familjUtanAlder": 0.783,
+      "utanOmrade": 0.045,
+      "sammanslagna": 217,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 0,
@@ -3467,8 +3467,7 @@
         "t"
       ],
       "titlar": [
-        "En kväll på Operan…",
-        "En kväll på operan"
+        "Pascal"
       ],
       "poang": 1
     },
@@ -3481,7 +3480,8 @@
         "t"
       ],
       "titlar": [
-        "Pascal"
+        "En kväll på Operan…",
+        "En kväll på operan"
       ],
       "poang": 1
     },
@@ -3906,6 +3906,19 @@
         "The Fantastic Four - A Motown Christmas - Uppsala"
       ],
       "poang": 0.8
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-12-05",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "t"
+      ],
+      "titlar": [
+        "Firande av Finlands självständighetsdag"
+      ],
+      "poang": 1
     },
     {
       "regel": "lika",
@@ -5027,7 +5040,7 @@
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 12,
+      "varde": 11,
       "krav": "minst 10"
     },
     {
@@ -5055,21 +5068,21 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "2.9 %",
+      "varde": "3.1 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "1.8 %",
+      "varde": "1.9 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "4 %",
+      "varde": "4.1 %",
       "krav": "under 5 %"
     }
   ]
