@@ -1,7 +1,7 @@
 ---
 name: klassa
 description: Klassar evenemang i Uppsala just nu som reglerna inte kunde sortera. Läser tmp/ko.json och skriver tmp/svar.json. Körs av morgonkörningen i GitHub Actions.
-allowed-tools: Read(./tmp/ko.json), Write(./tmp/svar.json)
+allowed-tools: Read(./tmp/ko.json), Write(./tmp/svar.json), Edit(./tmp/svar.json)
 ---
 
 # Klassa evenemang (promptversion 1)

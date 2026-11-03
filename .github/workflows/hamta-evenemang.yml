@@ -209,7 +209,7 @@ jobs:
           claude_args: |
             --model ${{ env.KLASSA_MODELL }}
             --max-turns 20
-            --allowedTools "Read(./tmp/ko.json),Write(./tmp/svar.json)"
+            --allowedTools "Read(./tmp/ko.json),Write(./tmp/svar.json),Edit(./tmp/svar.json),Edit(/tmp/svar.json),Edit(/${{ github.workspace }}/tmp/svar.json)"
 
       - name: Sammanfatta Claude-steget
         # Bara siffror, verktyg och filnamn. Aldrig källtexten eller svaren.
