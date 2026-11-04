@@ -540,6 +540,264 @@
    "hash": "504fbf7f8287",
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1
+  },
+  "kubik-fotboll-med-late-starters-foer-nyboerjare-10-15-aar": {
+   "hash": "26004fcd36e9",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-designlabbet-i-savja-arskurs-4-9": {
+   "hash": "a413213ea785",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-designlabbet-i-granby-arskurs-4-9": {
+   "hash": "1e9a857ef95f",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-designlabbet-i-gottsunda-arskurs-1-3": {
+   "hash": "f2da441a944d",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-designlabbet-i-almunge-arskurs-3-9": {
+   "hash": "b83d0f2d3a8a",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-designlabbet-i-stenhagen-arskurs-4-9": {
+   "hash": "9ab1cac434aa",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-designlabbet-i-ekeby-bruk-arskurs-4-9": {
+   "hash": "f09fce400a0a",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-designlabbet-i-stenhagen-arskurs-1-3": {
+   "hash": "4dfa8da19d25",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-designlabbet-i-savja-arskurs-1-3": {
+   "hash": "ae533259a02d",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-teater-foer-mellanstadiet-i-stenhagen": {
+   "hash": "56734697e691",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-designlabbet-i-almunge-arskurs-1-2": {
+   "hash": "68464537b162",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-teater-foer-hoegstadiet-i-graenby": {
+   "hash": "36500672630d",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-teater-foer-aak-2-3-i-graenby": {
+   "hash": "71f30eb15597",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-teater-foer-mellanstadiet-i-graenby": {
+   "hash": "6b7eca0cf8fa",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-designlabbet-i-gottsunda-arskurs-4-9": {
+   "hash": "949c407faf5c",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-designlabbet-funkis-pa-grand-fr-13-aar-m": {
+   "hash": "0aaf8955979a",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-sportis": {
+   "hash": "31cc63e0fc4a",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-laes-foer-sotis": {
+   "hash": "7d3a5db279f1",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-producera-en-hiphop-laat": {
+   "hash": "ad362c245541",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-fj41pzyh2bcfcvd": {
+   "hash": "1b7054a3a188",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "aktivitet"
+  },
+  "kubik-aterbruksverkstad-helgtema-paa-biotopia": {
+   "hash": "e59db9ae3fdd",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-4n9tyntpn3bh3pd": {
+   "hash": "e5efaa3af287",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-376efekykv3f8ag": {
+   "hash": "eef84c4e7313",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-yfuurubx7e7c2ah": {
+   "hash": "6648cfb81322",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-p2z000mu1akw1p1": {
+   "hash": "b91b995b1431",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "prat"
+  },
+  "tickster-83a2gr80uxzaet2": {
+   "hash": "f76e46488bb4",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-zxtda4nfhuafn6t": {
+   "hash": "a06eebdc18df",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-th6r0ntr7lzp04e": {
+   "hash": "ab1d77281375",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-prova-vr-2026-11-28-1300": {
+   "hash": "371597a7cf46",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "aktivitet"
+  },
+  "tickster-yag7vm5ypkr2pgp": {
+   "hash": "9b36dba72c1c",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "musik"
+  },
+  "tickster-glvtmlgvh76pp3a": {
+   "hash": "4daf2f7530a9",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-5xnxdpdt8cxz425": {
+   "hash": "2674f3bd7094",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-n36v330rk1utg68": {
+   "hash": "bc1bbe74776a",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-upf7tl4zpt54rug": {
+   "hash": "c1ea6e564073",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-9la5g9mx066r8mv": {
+   "hash": "d113ad64f498",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-6c67nlpz8e76g8j": {
+   "hash": "6f7c4a317ca8",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-julmarknad-i-ekeby-by": {
+   "hash": "b6ea55c4fed9",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "tickster-8r4h27crbvtxug8": {
+   "hash": "74e478a8dfd5",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-wu8522ltuz6meuc": {
+   "hash": "96b7afe5f493",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-j4t5l1a8bvxm4ea": {
+   "hash": "051b16eeba4c",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "musik"
+  },
+  "tickster-ul04ankdb3g0wlv": {
+   "hash": "50bbfb2db0a9",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-adbg24052n8j0r4": {
+   "hash": "7df2edfc5500",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-1t0bg5ypeydh4g1": {
+   "hash": "ef26552b639e",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-hkprwp78cnkmcbh": {
+   "hash": "a808c2f54f41",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-km07uvhkym1br54": {
+   "hash": "3fbe87291ace",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-retro-antikmassa-2026-10-2": {
+   "hash": "2154a8f7afe7",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "tickster-abw0z29x84w9dzc": {
+   "hash": "2e0bf168558e",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-k45xdlnljt6c72r": {
+   "hash": "89265b5b8557",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-f6038wx7mre45rw": {
+   "hash": "976178d2e6a8",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-6tpyxlllywvucer": {
+   "hash": "c4bdf22fe98c",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "musik"
   }
  },
  "promptversion": 1
