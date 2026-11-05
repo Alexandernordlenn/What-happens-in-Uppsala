@@ -1,5 +1,5 @@
 {
-  "uppdaterad": "2026-11-04T12:11:40.749Z",
+  "uppdaterad": "2026-11-05T12:20:20.464Z",
   "antalMatcherIUppsala": 114,
   "lag": [
     {
@@ -99,7 +99,7 @@
       "niva": 1,
       "liga": "Basketligan herr",
       "antal": 15,
-      "hemmamatcher30": 2,
+      "hemmamatcher30": 3,
       "iSasong": true
     },
     {
@@ -129,7 +129,7 @@
       "niva": 3,
       "liga": "Herr 1",
       "antal": 9,
-      "hemmamatcher30": 2,
+      "hemmamatcher30": 3,
       "iSasong": true
     },
     {

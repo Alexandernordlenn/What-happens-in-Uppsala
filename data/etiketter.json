@@ -798,6 +798,23 @@
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1,
    "kategori": "musik"
+  },
+  "du-framtidsglod": {
+   "hash": "12468f2687d8",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-retro-antikmassa-2027-02": {
+   "hash": "2154a8f7afe7",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "tickster-n13253ku4ldhx61": {
+   "hash": "5d6eedb9574b",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "natt"
   }
  },
  "promptversion": 1
