@@ -815,6 +815,11 @@
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1,
    "kategori": "natt"
+  },
+  "biotopia-2558": {
+   "hash": "ca99c6ea876c",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
   }
  },
  "promptversion": 1

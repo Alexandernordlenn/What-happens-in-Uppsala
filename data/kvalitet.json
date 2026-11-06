@@ -1,16 +1,16 @@
 {
-  "matt": "2026-11-05T12:21:48.896Z",
-  "idag": "2026-11-05",
+  "matt": "2026-11-06T12:08:26.555Z",
+  "idag": "2026-11-06",
   "totalt": {
-    "antal": 1350,
+    "antal": 1341,
     "utanKlockslag": 0.038,
     "ovrigt": 0.023,
-    "familjUtanAlder": 0.181,
+    "familjUtanAlder": 0.18,
     "utanOmrade": 0.019,
-    "sammanslagna": 446,
+    "sammanslagna": 445,
     "pagar14": 10,
     "borttagnaKurser": 23,
-    "aiEvenemang": 42,
+    "aiEvenemang": 41,
     "misstanktaDubbletter": 0,
     "aiTackning": 1,
     "sammanslagningarPerRegel": {
@@ -22,21 +22,21 @@
       "lika": 232,
       "innehaller": 49,
       "likhet": 1,
-      "sport": 44
+      "sport": 45
     }
   },
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 100,
+      "antal": 103,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.02,
-      "sammanslagna": 44,
+      "utanOmrade": 0.019,
+      "sammanslagna": 45,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     },
     "s": {
@@ -46,15 +46,15 @@
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 81,
+      "sammanslagna": 80,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 268,
+      "antal": 265,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
@@ -62,20 +62,20 @@
       "sammanslagna": 82,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     },
     "u": {
       "namn": "Kubik",
-      "antal": 508,
-      "utanKlockslag": 0.046,
+      "antal": 501,
+      "utanKlockslag": 0.045,
       "ovrigt": 0.002,
-      "familjUtanAlder": 0.111,
+      "familjUtanAlder": 0.106,
       "utanOmrade": 0.002,
-      "sammanslagna": 101,
+      "sammanslagna": 100,
       "pagar14": 0,
       "borttagnaKurser": 23,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     },
     "r": {
@@ -88,7 +88,7 @@
       "sammanslagna": 20,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     },
     "l": {
@@ -101,20 +101,20 @@
       "sammanslagna": 71,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     },
     "c": {
       "namn": "UKK",
-      "antal": 84,
+      "antal": 86,
       "utanKlockslag": 0,
-      "ovrigt": 0.036,
-      "familjUtanAlder": 0.778,
+      "ovrigt": 0.035,
+      "familjUtanAlder": 0.789,
       "utanOmrade": 0,
       "sammanslagna": 145,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     },
     "e": {
@@ -127,12 +127,12 @@
       "sammanslagna": 1,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 41,
+      "antal": 40,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -140,7 +140,7 @@
       "sammanslagna": 0,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     },
     "n": {
@@ -148,25 +148,25 @@
       "antal": 21,
       "utanKlockslag": 0.722,
       "ovrigt": 0,
-      "familjUtanAlder": 0.4,
+      "familjUtanAlder": 0.5,
       "utanOmrade": 0.095,
-      "sammanslagna": 7,
+      "sammanslagna": 6,
       "pagar14": 1,
       "borttagnaKurser": 0,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 46,
+      "antal": 47,
       "utanKlockslag": 0,
-      "ovrigt": 0.022,
+      "ovrigt": 0.021,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 36,
+      "sammanslagna": 37,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     },
     "o": {
@@ -179,33 +179,33 @@
       "sammanslagna": 3,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 232,
-      "utanKlockslag": 0.093,
-      "ovrigt": 0.095,
-      "familjUtanAlder": 0.921,
+      "antal": 230,
+      "utanKlockslag": 0.089,
+      "ovrigt": 0.096,
+      "familjUtanAlder": 0.919,
       "utanOmrade": 0.039,
-      "sammanslagna": 222,
+      "sammanslagna": 219,
       "pagar14": 9,
       "borttagnaKurser": 0,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     },
     "t": {
       "namn": "Tickster",
-      "antal": 224,
+      "antal": 221,
       "utanKlockslag": 0,
-      "ovrigt": 0.031,
-      "familjUtanAlder": 0.783,
+      "ovrigt": 0.032,
+      "familjUtanAlder": 0.792,
       "utanOmrade": 0.045,
       "sammanslagna": 224,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 42,
+      "aiEvenemang": 41,
       "misstanktaDubbletter": 0
     }
   },
@@ -290,11 +290,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-05",
+      "dag": "2026-11-12",
       "plats": "biotopia",
       "kallor": [
         "u",
-        "n",
         "n",
         "n",
         "n",
@@ -362,7 +361,7 @@
       "titlar": [
         "Stadens ljus"
       ],
-      "tillfallen": 10
+      "tillfallen": 9
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -375,7 +374,7 @@
       "titlar": [
         "Studie i mänskligt beteende"
       ],
-      "tillfallen": 21
+      "tillfallen": 20
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -415,7 +414,7 @@
         "Teater: Lotten von Kræmer",
         "Lotten von Kræmer"
       ],
-      "tillfallen": 15
+      "tillfallen": 16
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -2108,15 +2107,16 @@
       "poang": 1
     },
     {
-      "regel": "lika",
-      "dag": "2026-11-05",
-      "plats": "ukk",
+      "regel": "sport",
+      "dag": "2027-03-06",
+      "plats": "fyrishov",
       "kallor": [
-        "c",
-        "d"
+        "i",
+        "f"
       ],
       "titlar": [
-        "Maksim – Segmenti World Tour"
+        "Uppsala HK – Bodens BK HF",
+        "Uppsala HK – Boden BK HF"
       ],
       "poang": 1
     },
@@ -2990,20 +2990,6 @@
       ],
       "titlar": [
         "Jethro Tull – The Curiosity Tour"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-05",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Maksim – Segmenti World Tour"
       ],
       "poang": 1
     },
@@ -5069,6 +5055,32 @@
         "Lisa Ekdahl"
       ],
       "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-06",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "t"
+      ],
+      "titlar": [
+        "Laleh vårturné 2027 – Jag såg hur vi var stjärnor"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-06",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "t"
+      ],
+      "titlar": [
+        "Laleh vårturné 2027 – Jag såg hur vi var stjärnor"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -5118,7 +5130,7 @@
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 14,
+      "varde": 12,
       "krav": "minst 10"
     },
     {
