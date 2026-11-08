@@ -2,10 +2,6 @@
   "stadsteatern": {
     "antal": [
       {
-        "datum": "2026-10-24",
-        "antal": 166
-      },
-      {
         "datum": "2026-10-25",
         "antal": 164
       },
@@ -56,21 +52,21 @@
       {
         "datum": "2026-11-07",
         "antal": 181
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 179
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
-      "antal": 181,
+      "datum": "2026-11-08",
+      "antal": 179,
       "status": "ok"
     }
   },
   "destination-uppsala": {
     "antal": [
-      {
-        "datum": "2026-10-24",
-        "antal": 182
-      },
       {
         "datum": "2026-10-25",
         "antal": 175
@@ -122,21 +118,21 @@
       {
         "datum": "2026-11-07",
         "antal": 166
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 162
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
-      "antal": 166,
+      "datum": "2026-11-08",
+      "antal": 162,
       "status": "ok"
     }
   },
   "tickster": {
     "antal": [
-      {
-        "datum": "2026-10-24",
-        "antal": 306
-      },
       {
         "datum": "2026-10-25",
         "antal": 299
@@ -188,12 +184,16 @@
       {
         "datum": "2026-11-07",
         "antal": 271
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 266
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
-      "antal": 271,
+      "datum": "2026-11-08",
+      "antal": 266,
       "status": "ok"
     }
   },
@@ -266,10 +266,6 @@
   "kubik": {
     "antal": [
       {
-        "datum": "2026-10-24",
-        "antal": 279
-      },
-      {
         "datum": "2026-10-25",
         "antal": 272
       },
@@ -320,21 +316,21 @@
       {
         "datum": "2026-11-07",
         "antal": 168
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 164
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
-      "antal": 168,
+      "datum": "2026-11-08",
+      "antal": 164,
       "status": "ok"
     }
   },
   "sport": {
     "antal": [
-      {
-        "datum": "2026-10-24",
-        "antal": 130
-      },
       {
         "datum": "2026-10-25",
         "antal": 125
@@ -386,21 +382,21 @@
       {
         "datum": "2026-11-07",
         "antal": 114
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 113
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
-      "antal": 114,
+      "datum": "2026-11-08",
+      "antal": 113,
       "status": "ok"
     }
   },
   "bibliotek": {
     "antal": [
-      {
-        "datum": "2026-10-24",
-        "antal": 327
-      },
       {
         "datum": "2026-10-25",
         "antal": 323
@@ -452,21 +448,21 @@
       {
         "datum": "2026-11-07",
         "antal": 264
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 261
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
-      "antal": 264,
+      "datum": "2026-11-08",
+      "antal": 261,
       "status": "ok"
     }
   },
   "katalin": {
     "antal": [
-      {
-        "datum": "2026-10-24",
-        "antal": 98
-      },
       {
         "datum": "2026-10-25",
         "antal": 97
@@ -518,21 +514,21 @@
       {
         "datum": "2026-11-07",
         "antal": 92
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 91
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
-      "antal": 92,
+      "datum": "2026-11-08",
+      "antal": 91,
       "status": "ok"
     }
   },
   "missionskyrkan": {
     "antal": [
-      {
-        "datum": "2026-10-24",
-        "antal": 55
-      },
       {
         "datum": "2026-10-25",
         "antal": 54
@@ -584,21 +580,21 @@
       {
         "datum": "2026-11-07",
         "antal": 47
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 46
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
-      "antal": 47,
+      "datum": "2026-11-08",
+      "antal": 46,
       "status": "ok"
     }
   },
   "bror-hjorths-hus": {
     "antal": [
-      {
-        "datum": "2026-10-24",
-        "antal": 49
-      },
       {
         "datum": "2026-10-25",
         "antal": 49
@@ -650,21 +646,21 @@
       {
         "datum": "2026-11-07",
         "antal": 39
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 39
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
+      "datum": "2026-11-08",
       "antal": 39,
       "status": "ok"
     }
   },
   "biotopia": {
     "antal": [
-      {
-        "datum": "2026-10-24",
-        "antal": 31
-      },
       {
         "datum": "2026-10-25",
         "antal": 30
@@ -716,11 +712,15 @@
       {
         "datum": "2026-11-07",
         "antal": 21
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 21
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
+      "datum": "2026-11-08",
       "antal": 21,
       "status": "ok"
     }
@@ -728,10 +728,6 @@
   "musik-i-uppland": {
     "antal": [
       {
-        "datum": "2026-10-24",
-        "antal": 19
-      },
-      {
         "datum": "2026-10-25",
         "antal": 17
       },
@@ -782,11 +778,15 @@
       {
         "datum": "2026-11-07",
         "antal": 17
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 17
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
+      "datum": "2026-11-08",
       "antal": 17,
       "status": "ok"
     }
@@ -794,10 +794,6 @@
   "ukk": {
     "antal": [
       {
-        "datum": "2026-10-24",
-        "antal": 118
-      },
-      {
         "datum": "2026-10-25",
         "antal": 112
       },
@@ -848,21 +844,21 @@
       {
         "datum": "2026-11-07",
         "antal": 109
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 106
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
-      "antal": 109,
+      "datum": "2026-11-08",
+      "antal": 106,
       "status": "ok"
     }
   },
   "fyrishov": {
     "antal": [
-      {
-        "datum": "2026-10-24",
-        "antal": 55
-      },
       {
         "datum": "2026-10-25",
         "antal": 54
@@ -914,11 +910,15 @@
       {
         "datum": "2026-11-07",
         "antal": 52
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 52
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
+      "datum": "2026-11-08",
       "antal": 52,
       "status": "ok"
     }
@@ -964,12 +964,16 @@
       {
         "datum": "2026-11-07",
         "antal": 7
+      },
+      {
+        "datum": "2026-11-08",
+        "antal": 6
       }
     ],
     "dagarBehallen": 0,
     "senaste": {
-      "datum": "2026-11-07",
-      "antal": 7,
+      "datum": "2026-11-08",
+      "antal": 6,
       "status": "ok"
     }
   }
