@@ -1,38 +1,39 @@
 {
-  "matt": "2026-11-08T11:18:50.629Z",
-  "idag": "2026-11-08",
+  "matt": "2026-11-09T12:53:53.796Z",
+  "idag": "2026-11-09",
   "totalt": {
-    "antal": 1303,
+    "antal": 1286,
     "utanKlockslag": 0.036,
-    "ovrigt": 0.025,
-    "familjUtanAlder": 0.177,
-    "utanOmrade": 0.02,
-    "sammanslagna": 428,
-    "pagar14": 11,
+    "ovrigt": 0.024,
+    "familjUtanAlder": 0.172,
+    "utanOmrade": 0.019,
+    "sammanslagna": 423,
+    "pagar14": 10,
     "borttagnaKurser": 23,
     "aiEvenemang": 40,
     "misstanktaDubbletter": 0,
+    "aiTackning": 1,
     "sammanslagningarPerRegel": {
       "langvariga": 1,
       "samma-kalla": 1,
       "serie-uttryckliga-datum": 5,
       "speltid-mot-tillfallen": 8,
       "festival": 12,
-      "lika": 218,
-      "innehaller": 50,
+      "lika": 213,
+      "innehaller": 49,
       "likhet": 1,
-      "sport": 46
+      "sport": 47
     }
   },
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 102,
+      "antal": 103,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.02,
-      "sammanslagna": 46,
+      "utanOmrade": 0.019,
+      "sammanslagna": 47,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 40,
@@ -53,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 260,
+      "antal": 259,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.004,
-      "sammanslagna": 78,
+      "sammanslagna": 77,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 40,
@@ -66,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 487,
-      "utanKlockslag": 0.044,
+      "antal": 482,
+      "utanKlockslag": 0.042,
       "ovrigt": 0.002,
-      "familjUtanAlder": 0.107,
+      "familjUtanAlder": 0.108,
       "utanOmrade": 0.002,
-      "sammanslagna": 96,
+      "sammanslagna": 93,
       "pagar14": 0,
       "borttagnaKurser": 23,
       "aiEvenemang": 40,
@@ -79,7 +80,7 @@
     },
     "r": {
       "namn": "Musik i Uppland",
-      "antal": 11,
+      "antal": 12,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
@@ -105,12 +106,12 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 80,
+      "antal": 77,
       "utanKlockslag": 0,
-      "ovrigt": 0.038,
-      "familjUtanAlder": 0.789,
+      "ovrigt": 0.039,
+      "familjUtanAlder": 0.833,
       "utanOmrade": 0,
-      "sammanslagna": 137,
+      "sammanslagna": 132,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 40,
@@ -118,9 +119,9 @@
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 46,
+      "antal": 44,
       "utanKlockslag": 0,
-      "ovrigt": 0.043,
+      "ovrigt": 0.045,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
       "sammanslagna": 1,
@@ -131,10 +132,10 @@
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 39,
+      "antal": 36,
       "utanKlockslag": 0,
       "ovrigt": 0,
-      "familjUtanAlder": 1,
+      "familjUtanAlder": 0,
       "utanOmrade": 0,
       "sammanslagna": 0,
       "pagar14": 0,
@@ -145,9 +146,9 @@
     "n": {
       "namn": "Biotopia",
       "antal": 21,
-      "utanKlockslag": 0.722,
+      "utanKlockslag": 0.778,
       "ovrigt": 0,
-      "familjUtanAlder": 0.5,
+      "familjUtanAlder": 0.545,
       "utanOmrade": 0.095,
       "sammanslagna": 6,
       "pagar14": 1,
@@ -162,7 +163,7 @@
       "ovrigt": 0.021,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 37,
+      "sammanslagna": 38,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 40,
@@ -183,25 +184,25 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 219,
-      "utanKlockslag": 0.082,
-      "ovrigt": 0.1,
-      "familjUtanAlder": 0.912,
-      "utanOmrade": 0.037,
-      "sammanslagna": 207,
-      "pagar14": 10,
+      "antal": 212,
+      "utanKlockslag": 0.078,
+      "ovrigt": 0.104,
+      "familjUtanAlder": 0.935,
+      "utanOmrade": 0.033,
+      "sammanslagna": 203,
+      "pagar14": 9,
       "borttagnaKurser": 0,
       "aiEvenemang": 40,
       "misstanktaDubbletter": 0
     },
     "t": {
       "namn": "Tickster",
-      "antal": 213,
+      "antal": 210,
       "utanKlockslag": 0,
-      "ovrigt": 0.038,
-      "familjUtanAlder": 0.783,
-      "utanOmrade": 0.052,
-      "sammanslagna": 214,
+      "ovrigt": 0.033,
+      "familjUtanAlder": 0.773,
+      "utanOmrade": 0.048,
+      "sammanslagna": 211,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 40,
@@ -635,19 +636,6 @@
       ],
       "titlar": [
         "Läs tillsammans!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-08",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Å bebis, bebis"
       ],
       "poang": 1
     },
@@ -1424,19 +1412,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-11-08",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c"
-      ],
-      "titlar": [
-        "Framtidsglöd"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-11-21",
       "plats": "ukk",
       "kallor": [
@@ -2052,30 +2027,16 @@
       "poang": 1
     },
     {
-      "regel": "innehaller",
-      "dag": "2026-11-08",
-      "plats": "ukk",
+      "regel": "sport",
+      "dag": "2027-03-09",
+      "plats": "fyrishov",
       "kallor": [
-        "c",
-        "d"
+        "i",
+        "f"
       ],
       "titlar": [
-        "Jag är Carola – En musikalisk unik livsberättelse",
-        "Jag är Carola – en musikalisk livsberättelse"
-      ],
-      "poang": 0.83
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-08",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c",
-        "d"
-      ],
-      "titlar": [
-        "Framtidsglöd"
+        "Uppsala Basket – Sloga Uppsala",
+        "Uppsala Basket – Sloga Basket 9 mars"
       ],
       "poang": 1
     },
@@ -2884,34 +2845,6 @@
       ],
       "titlar": [
         "Jethro Tull – The Curiosity Tour"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-08",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "t"
-      ],
-      "titlar": [
-        "Linnékvintetten 40 år – Jubileumskonsert"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-08",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Jag är Carola – En musikalisk unik livsberättelse",
-        "Jag är Carola – en musikalisk livsberättelse"
       ],
       "poang": 1
     },
@@ -4914,7 +4847,7 @@
       "person": "Lisa",
       "namn": "Helgen, 0–4 år: evenemang med känd ålder",
       "ok": false,
-      "varde": 1,
+      "varde": 4,
       "krav": "minst 5"
     },
     {
@@ -4928,14 +4861,14 @@
       "person": "Lisa",
       "namn": "Familjeevenemang utan ålder (eller 0–99) syns under \"ålder ej angiven\"",
       "ok": true,
-      "varde": "7 av 7",
+      "varde": "8 av 8",
       "krav": "alla"
     },
     {
       "person": "Lisa",
       "namn": "Konst & museum, raden \"Pågår\": andel utställningar",
       "ok": true,
-      "varde": "100 % (10 av 10)",
+      "varde": "100 % (9 av 9)",
       "krav": "minst 80 %"
     },
     {
@@ -4949,7 +4882,7 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 19,
+      "varde": 18,
       "krav": "minst 10"
     },
     {
@@ -4984,14 +4917,14 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "2.5 %",
+      "varde": "2.4 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": true,
-      "varde": "2 %",
+      "varde": "1.9 %",
       "krav": "under 2 %"
     },
     {

@@ -820,6 +820,16 @@
    "hash": "ca99c6ea876c",
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1
+  },
+  "biotopia-2572": {
+   "hash": "8633ff360abc",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "biotopia-2575": {
+   "hash": "3eb68e9d5023",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
   }
  },
  "promptversion": 1
