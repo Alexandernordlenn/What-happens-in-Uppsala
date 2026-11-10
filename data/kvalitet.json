@@ -1,42 +1,42 @@
 {
-  "matt": "2026-11-09T12:53:53.796Z",
-  "idag": "2026-11-09",
+  "matt": "2026-11-10T12:41:05.573Z",
+  "idag": "2026-11-10",
   "totalt": {
-    "antal": 1286,
+    "antal": 1263,
     "utanKlockslag": 0.036,
-    "ovrigt": 0.024,
-    "familjUtanAlder": 0.172,
-    "utanOmrade": 0.019,
-    "sammanslagna": 423,
+    "ovrigt": 0.027,
+    "familjUtanAlder": 0.175,
+    "utanOmrade": 0.021,
+    "sammanslagna": 426,
     "pagar14": 10,
     "borttagnaKurser": 23,
-    "aiEvenemang": 40,
+    "aiEvenemang": 43,
     "misstanktaDubbletter": 0,
     "aiTackning": 1,
     "sammanslagningarPerRegel": {
       "langvariga": 1,
-      "samma-kalla": 1,
+      "samma-kalla": 2,
       "serie-uttryckliga-datum": 5,
       "speltid-mot-tillfallen": 8,
-      "festival": 12,
-      "lika": 213,
-      "innehaller": 49,
-      "likhet": 1,
-      "sport": 47
+      "festival": 15,
+      "lika": 215,
+      "innehaller": 48,
+      "likhet": 2,
+      "sport": 46
     }
   },
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 103,
+      "antal": 102,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.019,
-      "sammanslagna": 47,
+      "utanOmrade": 0.02,
+      "sammanslagna": 46,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "s": {
@@ -49,38 +49,38 @@
       "sammanslagna": 76,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 259,
+      "antal": 250,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.004,
-      "sammanslagna": 77,
+      "sammanslagna": 74,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "u": {
       "namn": "Kubik",
-      "antal": 482,
+      "antal": 462,
       "utanKlockslag": 0.042,
       "ovrigt": 0.002,
       "familjUtanAlder": 0.108,
       "utanOmrade": 0.002,
-      "sammanslagna": 93,
+      "sammanslagna": 90,
       "pagar14": 0,
       "borttagnaKurser": 23,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "r": {
       "namn": "Musik i Uppland",
-      "antal": 12,
+      "antal": 11,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
@@ -88,20 +88,20 @@
       "sammanslagna": 20,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "l": {
       "namn": "Katalin",
-      "antal": 78,
+      "antal": 82,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 70,
+      "sammanslagna": 73,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "c": {
@@ -114,20 +114,20 @@
       "sammanslagna": 132,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 44,
+      "antal": 42,
       "utanKlockslag": 0,
-      "ovrigt": 0.045,
+      "ovrigt": 0.048,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 1,
+      "sammanslagna": 2,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "j": {
@@ -140,7 +140,7 @@
       "sammanslagna": 0,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "n": {
@@ -153,20 +153,20 @@
       "sammanslagna": 6,
       "pagar14": 1,
       "borttagnaKurser": 0,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 47,
+      "antal": 46,
       "utanKlockslag": 0,
-      "ovrigt": 0.021,
+      "ovrigt": 0.022,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 38,
+      "sammanslagna": 37,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "o": {
@@ -179,33 +179,33 @@
       "sammanslagna": 3,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 212,
-      "utanKlockslag": 0.078,
-      "ovrigt": 0.104,
+      "antal": 217,
+      "utanKlockslag": 0.077,
+      "ovrigt": 0.115,
       "familjUtanAlder": 0.935,
-      "utanOmrade": 0.033,
-      "sammanslagna": 203,
+      "utanOmrade": 0.046,
+      "sammanslagna": 207,
       "pagar14": 9,
       "borttagnaKurser": 0,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "t": {
       "namn": "Tickster",
-      "antal": 210,
+      "antal": 213,
       "utanKlockslag": 0,
       "ovrigt": 0.033,
       "familjUtanAlder": 0.773,
-      "utanOmrade": 0.048,
-      "sammanslagna": 211,
+      "utanOmrade": 0.047,
+      "sammanslagna": 217,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 40,
+      "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     }
   },
@@ -237,6 +237,18 @@
       ]
     },
     {
+      "regel": "samma-kalla",
+      "dag": "2026-11-20",
+      "plats": "stadsbib",
+      "kallor": [
+        "b",
+        "b"
+      ],
+      "titlar": [
+        "Fredagsmys"
+      ]
+    },
+    {
       "regel": "serie-uttryckliga-datum",
       "dag": "2026-11-11",
       "plats": "stadsbib",
@@ -256,11 +268,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-09",
+      "dag": "2026-11-16",
       "plats": "gottsundabib",
       "kallor": [
         "u",
-        "b",
         "b",
         "b",
         "b",
@@ -428,6 +439,51 @@
         "Greczula"
       ],
       "tillfallen": 1
+    },
+    {
+      "regel": "festival",
+      "dag": "2026-11-28",
+      "plats": "slott",
+      "kallor": [
+        "d",
+        "t"
+      ],
+      "titlar": [
+        "Jul på Slottet med Allmänna Sången",
+        "Jul på slottet med Allmänna Sången - Lör kl. 17"
+      ]
+    },
+    {
+      "regel": "festival",
+      "dag": "2026-11-28",
+      "plats": "slott",
+      "kallor": [
+        "d",
+        "t",
+        "t"
+      ],
+      "titlar": [
+        "Jul på Slottet med Allmänna Sången",
+        "Jul på slottet med Allmänna Sången - Lör kl. 17",
+        "Jul på slottet med Allmänna Sången - Sön kl. 14"
+      ]
+    },
+    {
+      "regel": "festival",
+      "dag": "2026-11-28",
+      "plats": "slott",
+      "kallor": [
+        "d",
+        "t",
+        "t",
+        "t"
+      ],
+      "titlar": [
+        "Jul på Slottet med Allmänna Sången",
+        "Jul på slottet med Allmänna Sången - Lör kl. 17",
+        "Jul på slottet med Allmänna Sången - Sön kl. 14",
+        "Jul på slottet med Allmänna Sången - Sön kl. 17"
+      ]
     },
     {
       "regel": "festival",
@@ -638,33 +694,6 @@
         "Läs tillsammans!"
       ],
       "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-10",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Å bebis bebis"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-10",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Sagostund på svenska för barn 1–3 år",
-        "Sagostund för barn 1-3 år"
-      ],
-      "poang": 0.83
     },
     {
       "regel": "lika",
@@ -1534,19 +1563,6 @@
     },
     {
       "regel": "sport",
-      "dag": "2026-11-09",
-      "plats": "fyrishov",
-      "kallor": [
-        "i",
-        "f"
-      ],
-      "titlar": [
-        "Sloga Uppsala – Borås Basket"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "sport",
       "dag": "2026-11-13",
       "plats": "fyrishov",
       "kallor": [
@@ -2368,6 +2384,20 @@
         "Seinabo Sey"
       ],
       "poang": 1
+    },
+    {
+      "regel": "likhet",
+      "dag": "2026-12-04",
+      "plats": "missionskyrkan",
+      "kallor": [
+        "e",
+        "d"
+      ],
+      "titlar": [
+        "Julkonsert: Loa Falkman och Tina Ahlin",
+        "Julen med Loa Falkman & Tina Ahlin"
+      ],
+      "poang": 0.8
     },
     {
       "regel": "lika",
@@ -3824,19 +3854,6 @@
         "t"
       ],
       "titlar": [
-        "Bombus & Mass Worship"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-12-11",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
         "En kväll på operan…",
         "En kväll på operan"
       ],
@@ -4103,6 +4120,20 @@
     },
     {
       "regel": "lika",
+      "dag": "2026-12-22",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Sånger från Brottsregistret – Jazz möter brott",
+        "Sånger från Brottsregistret - Jazz möter brott"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
       "dag": "2026-12-26",
       "plats": "katalin",
       "kallor": [
@@ -4140,6 +4171,20 @@
       ],
       "titlar": [
         "Per Persson & Nya Packet"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-01-13",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Jonas Knutsson – Konsert & Jamsession",
+        "Jonas Knutsson - Konsert & Jamsession"
       ],
       "poang": 1
     },
@@ -4432,6 +4477,20 @@
         "The Very Best of Thin Lizzy"
       ],
       "poang": 0.44
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-10",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Johan Alenius – Konsert & Jamsession",
+        "Johan Alenius - Konsert & Jamsession"
+      ],
+      "poang": 1
     },
     {
       "regel": "lika",
@@ -4778,6 +4837,19 @@
     },
     {
       "regel": "lika",
+      "dag": "2027-03-03",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Tim “Ripper” Owens (US)"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
       "dag": "2027-03-05",
       "plats": "ukk",
       "kallor": [
@@ -4882,21 +4954,21 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 18,
+      "varde": 17,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 11,
+      "varde": 10,
       "krav": "minst 10"
     },
     {
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 28,
+      "varde": 29,
       "krav": "minst 5"
     },
     {
@@ -4917,14 +4989,14 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "2.4 %",
+      "varde": "2.7 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
-      "ok": true,
-      "varde": "1.9 %",
+      "ok": false,
+      "varde": "2.1 %",
       "krav": "under 2 %"
     },
     {

@@ -830,6 +830,29 @@
    "hash": "3eb68e9d5023",
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1
+  },
+  "du-ull-i-upplands-julmarknad": {
+   "hash": "cb865abae904",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-julmarknad-pa-skoklosters-slott-2026": {
+   "hash": "6db94ae79b8f",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-julmarknad-vid-vallhovs-sateri-2026": {
+   "hash": "0309c63c58e6",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "du-pontus-lindman-levande-begravd": {
+   "hash": "faf8e833d355",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
   }
  },
  "promptversion": 1
