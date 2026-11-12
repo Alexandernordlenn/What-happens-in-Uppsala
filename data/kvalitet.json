@@ -1,13 +1,13 @@
 {
-  "matt": "2026-11-11T11:57:54.534Z",
-  "idag": "2026-11-11",
+  "matt": "2026-11-12T12:44:55.801Z",
+  "idag": "2026-11-12",
   "totalt": {
-    "antal": 1248,
+    "antal": 1245,
     "utanKlockslag": 0.041,
-    "ovrigt": 0.027,
-    "familjUtanAlder": 0.176,
+    "ovrigt": 0.029,
+    "familjUtanAlder": 0.172,
     "utanOmrade": 0.022,
-    "sammanslagna": 424,
+    "sammanslagna": 425,
     "pagar14": 10,
     "borttagnaKurser": 23,
     "aiEvenemang": 43,
@@ -20,7 +20,7 @@
       "speltid-mot-tillfallen": 8,
       "festival": 14,
       "lika": 215,
-      "innehaller": 48,
+      "innehaller": 50,
       "likhet": 2,
       "sport": 46
     }
@@ -28,7 +28,7 @@
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 102,
+      "antal": 101,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
@@ -41,7 +41,7 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 116,
+      "antal": 117,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 240,
+      "antal": 230,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.004,
-      "sammanslagna": 72,
+      "sammanslagna": 70,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 451,
+      "antal": 454,
       "utanKlockslag": 0.043,
       "ovrigt": 0.002,
-      "familjUtanAlder": 0.105,
+      "familjUtanAlder": 0.1,
       "utanOmrade": 0.002,
-      "sammanslagna": 88,
+      "sammanslagna": 86,
       "pagar14": 0,
       "borttagnaKurser": 23,
       "aiEvenemang": 43,
@@ -80,7 +80,7 @@
     },
     "r": {
       "namn": "Musik i Uppland",
-      "antal": 11,
+      "antal": 12,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
@@ -98,7 +98,7 @@
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 74,
+      "sammanslagna": 75,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -106,12 +106,12 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 77,
+      "antal": 79,
       "utanKlockslag": 0,
-      "ovrigt": 0.039,
+      "ovrigt": 0.051,
       "familjUtanAlder": 0.833,
       "utanOmrade": 0,
-      "sammanslagna": 131,
+      "sammanslagna": 133,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -135,7 +135,7 @@
       "antal": 35,
       "utanKlockslag": 0,
       "ovrigt": 0,
-      "familjUtanAlder": 0,
+      "familjUtanAlder": 1,
       "utanOmrade": 0,
       "sammanslagna": 0,
       "pagar14": 0,
@@ -145,11 +145,11 @@
     },
     "n": {
       "namn": "Biotopia",
-      "antal": 27,
-      "utanKlockslag": 0.87,
+      "antal": 26,
+      "utanKlockslag": 0.864,
       "ovrigt": 0,
-      "familjUtanAlder": 0.583,
-      "utanOmrade": 0.074,
+      "familjUtanAlder": 0.545,
+      "utanOmrade": 0.077,
       "sammanslagna": 6,
       "pagar14": 1,
       "borttagnaKurser": 0,
@@ -171,11 +171,11 @@
     },
     "o": {
       "namn": "Billetto",
-      "antal": 6,
+      "antal": 7,
       "utanKlockslag": 0,
-      "ovrigt": 0,
+      "ovrigt": 0.143,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.167,
+      "utanOmrade": 0.143,
       "sammanslagna": 3,
       "pagar14": 0,
       "borttagnaKurser": 0,
@@ -184,9 +184,9 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 217,
-      "utanKlockslag": 0.077,
-      "ovrigt": 0.115,
+      "antal": 216,
+      "utanKlockslag": 0.078,
+      "ovrigt": 0.12,
       "familjUtanAlder": 0.935,
       "utanOmrade": 0.046,
       "sammanslagna": 205,
@@ -197,12 +197,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 213,
+      "antal": 216,
       "utanKlockslag": 0,
-      "ovrigt": 0.033,
+      "ovrigt": 0.037,
       "familjUtanAlder": 0.773,
-      "utanOmrade": 0.047,
-      "sammanslagna": 217,
+      "utanOmrade": 0.046,
+      "sammanslagna": 220,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -238,11 +238,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-11",
+      "dag": "2026-11-18",
       "plats": "stadsbib",
       "kallor": [
         "u",
-        "b",
         "b",
         "b",
         "b",
@@ -346,7 +345,7 @@
       "titlar": [
         "Medan vi brinner"
       ],
-      "tillfallen": 5
+      "tillfallen": 4
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -412,7 +411,7 @@
         "Teater: Lotten von Kræmer",
         "Lotten von Kræmer"
       ],
-      "tillfallen": 16
+      "tillfallen": 17
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -670,19 +669,6 @@
     {
       "regel": "lika",
       "dag": "2026-11-12",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Babyrytmik"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-12",
       "plats": "gottsundabib",
       "kallor": [
         "b",
@@ -829,7 +815,7 @@
       "poang": 1
     },
     {
-      "regel": "lika",
+      "regel": "innehaller",
       "dag": "2026-11-19",
       "plats": "gottsundabib",
       "kallor": [
@@ -837,9 +823,10 @@
         "u"
       ],
       "titlar": [
+        "Inställt: Torsdagsbibblan",
         "Torsdagsbibblan"
       ],
-      "poang": 1
+      "poang": 0.5
     },
     {
       "regel": "lika",
@@ -2331,7 +2318,7 @@
       "poang": 0.67
     },
     {
-      "regel": "lika",
+      "regel": "innehaller",
       "dag": "2026-12-03",
       "plats": "ukk",
       "kallor": [
@@ -2339,9 +2326,10 @@
         "d"
       ],
       "titlar": [
+        "Inställt: Seinabo Sey",
         "Seinabo Sey"
       ],
-      "poang": 1
+      "poang": 0.67
     },
     {
       "regel": "likhet",
@@ -2833,32 +2821,6 @@
       ],
       "titlar": [
         "Jethro Tull – The Curiosity Tour"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-11",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Happy Birthday Neil Young!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-11",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Rotting Christ & Grand Harvest"
       ],
       "poang": 1
     },
@@ -3550,6 +3512,7 @@
         "t"
       ],
       "titlar": [
+        "Inställt: Seinabo Sey",
         "Seinabo Sey"
       ],
       "poang": 1
@@ -4395,6 +4358,19 @@
     },
     {
       "regel": "lika",
+      "dag": "2027-02-03",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "The Jazz Heritage Band"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
       "dag": "2027-02-04",
       "plats": "ukk",
       "kallor": [
@@ -4448,6 +4424,19 @@
         "The Very Best of Thin Lizzy"
       ],
       "poang": 0.44
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-02-09",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Jailhouse Rock – en hyllning till Elvis Presley"
+      ],
+      "poang": 1
     },
     {
       "regel": "lika",
@@ -4883,6 +4872,45 @@
         "Laleh vårturné 2027 – Jag såg hur vi var stjärnor"
       ],
       "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-12",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "t"
+      ],
+      "titlar": [
+        "Marika och Klimakteriet"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-12",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "t"
+      ],
+      "titlar": [
+        "Christoffer Nyqvist – Lejonet från Norden"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-12",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Sunnan"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -4925,21 +4953,21 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 17,
+      "varde": 19,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 11,
+      "varde": 12,
       "krav": "minst 10"
     },
     {
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 30,
+      "varde": 32,
       "krav": "minst 5"
     },
     {
@@ -4960,7 +4988,7 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "2.7 %",
+      "varde": "2.9 %",
       "krav": "under 10 %"
     },
     {

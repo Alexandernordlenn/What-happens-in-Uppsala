@@ -863,6 +863,22 @@
    "hash": "a9686ad95343",
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1
+  },
+  "billetto-2048559": {
+   "hash": "8ee8e5435af0",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "ovrigt"
+  },
+  "ukk-33002": {
+   "hash": "7ab6e23fbbcf",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "bror-hjorths-hus-20701": {
+   "hash": "d0cdc94af4b3",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
   }
  },
  "promptversion": 1
