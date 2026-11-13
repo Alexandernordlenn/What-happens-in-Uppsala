@@ -1,25 +1,24 @@
 {
-  "matt": "2026-11-12T12:44:55.801Z",
-  "idag": "2026-11-12",
+  "matt": "2026-11-13T12:13:23.527Z",
+  "idag": "2026-11-13",
   "totalt": {
-    "antal": 1245,
-    "utanKlockslag": 0.041,
+    "antal": 1227,
+    "utanKlockslag": 0.04,
     "ovrigt": 0.029,
-    "familjUtanAlder": 0.172,
+    "familjUtanAlder": 0.169,
     "utanOmrade": 0.022,
-    "sammanslagna": 425,
+    "sammanslagna": 418,
     "pagar14": 10,
     "borttagnaKurser": 23,
     "aiEvenemang": 43,
     "misstanktaDubbletter": 0,
-    "aiTackning": 1,
     "sammanslagningarPerRegel": {
       "langvariga": 1,
       "samma-kalla": 1,
       "serie-uttryckliga-datum": 5,
       "speltid-mot-tillfallen": 8,
       "festival": 14,
-      "lika": 215,
+      "lika": 209,
       "innehaller": 50,
       "likhet": 2,
       "sport": 46
@@ -41,7 +40,7 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 117,
+      "antal": 118,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -54,12 +53,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 230,
+      "antal": 221,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.004,
-      "sammanslagna": 70,
+      "utanOmrade": 0.005,
+      "sammanslagna": 68,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -67,12 +66,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 454,
-      "utanKlockslag": 0.043,
+      "antal": 444,
+      "utanKlockslag": 0.042,
       "ovrigt": 0.002,
-      "familjUtanAlder": 0.1,
+      "familjUtanAlder": 0.095,
       "utanOmrade": 0.002,
-      "sammanslagna": 86,
+      "sammanslagna": 83,
       "pagar14": 0,
       "borttagnaKurser": 23,
       "aiEvenemang": 43,
@@ -93,12 +92,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 82,
+      "antal": 81,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 75,
+      "sammanslagna": 74,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -106,12 +105,12 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 79,
+      "antal": 78,
       "utanKlockslag": 0,
       "ovrigt": 0.051,
       "familjUtanAlder": 0.833,
       "utanOmrade": 0,
-      "sammanslagna": 133,
+      "sammanslagna": 131,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -119,9 +118,9 @@
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 40,
+      "antal": 45,
       "utanKlockslag": 0,
-      "ovrigt": 0.05,
+      "ovrigt": 0.044,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
       "sammanslagna": 2,
@@ -132,7 +131,7 @@
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 35,
+      "antal": 32,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -145,12 +144,12 @@
     },
     "n": {
       "namn": "Biotopia",
-      "antal": 26,
-      "utanKlockslag": 0.864,
+      "antal": 25,
+      "utanKlockslag": 0.857,
       "ovrigt": 0,
-      "familjUtanAlder": 0.545,
-      "utanOmrade": 0.077,
-      "sammanslagna": 6,
+      "familjUtanAlder": 0.6,
+      "utanOmrade": 0.08,
+      "sammanslagna": 5,
       "pagar14": 1,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -158,7 +157,7 @@
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 46,
+      "antal": 45,
       "utanKlockslag": 0,
       "ovrigt": 0.022,
       "familjUtanAlder": 0,
@@ -184,12 +183,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 216,
-      "utanKlockslag": 0.078,
-      "ovrigt": 0.12,
+      "antal": 213,
+      "utanKlockslag": 0.073,
+      "ovrigt": 0.122,
       "familjUtanAlder": 0.935,
-      "utanOmrade": 0.046,
-      "sammanslagna": 205,
+      "utanOmrade": 0.047,
+      "sammanslagna": 202,
       "pagar14": 9,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -197,12 +196,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 216,
+      "antal": 214,
       "utanKlockslag": 0,
       "ovrigt": 0.037,
       "familjUtanAlder": 0.773,
-      "utanOmrade": 0.046,
-      "sammanslagna": 220,
+      "utanOmrade": 0.047,
+      "sammanslagna": 216,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -287,11 +286,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-12",
+      "dag": "2026-11-19",
       "plats": "biotopia",
       "kallor": [
         "u",
-        "n",
         "n",
         "n",
         "n",
@@ -299,7 +297,6 @@
       ],
       "titlar": [
         "Torsdagskul på Biotopia",
-        "Torsdagskul: Utter!",
         "Torsdagskul: solsystemet",
         "Torsdagskul: NOBELFEST!",
         "Torsdagskul - Avslutning: Nobelfest!"
@@ -371,7 +368,7 @@
       "titlar": [
         "Studie i mänskligt beteende"
       ],
-      "tillfallen": 20
+      "tillfallen": 19
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -411,7 +408,7 @@
         "Teater: Lotten von Kræmer",
         "Lotten von Kræmer"
       ],
-      "tillfallen": 17
+      "tillfallen": 18
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -663,33 +660,6 @@
       ],
       "titlar": [
         "Läs tillsammans!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-12",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Torsdagsbibblan"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-12",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Torsdagshäng",
-        "Torsdagshäng!"
       ],
       "poang": 1
     },
@@ -2002,19 +1972,6 @@
       "poang": 1
     },
     {
-      "regel": "lika",
-      "dag": "2026-11-12",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d"
-      ],
-      "titlar": [
-        "The Simon & Garfunkel Story"
-      ],
-      "poang": 1
-    },
-    {
       "regel": "sport",
       "dag": "2026-11-13",
       "plats": "studenternas",
@@ -2825,60 +2782,6 @@
       "poang": 1
     },
     {
-      "regel": "innehaller",
-      "dag": "2026-11-12",
-      "plats": "slottshist",
-      "kallor": [
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Historiska Uppsalavyer: med konsten som källmaterial",
-        "Visning: Historiska Uppsalavyer"
-      ],
-      "poang": 0.4
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-12",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "The Simon & Garfunkel Story"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-12",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Happy Birthday Neil Young!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-12",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "GERD"
-      ],
-      "poang": 1
-    },
-    {
       "regel": "lika",
       "dag": "2026-11-13",
       "plats": "ukk",
@@ -3295,6 +3198,19 @@
       "poang": 0.8
     },
     {
+      "regel": "lika",
+      "dag": "2026-11-26",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Den Svenska Björnstammen"
+      ],
+      "poang": 1
+    },
+    {
       "regel": "innehaller",
       "dag": "2026-11-26",
       "plats": "katalin",
@@ -3308,19 +3224,6 @@
         "Mia Karlsson – Coming Home Tour 2026"
       ],
       "poang": 0.8
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-26",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Den Svenska Björnstammen"
-      ],
-      "poang": 1
     },
     {
       "regel": "lika",
@@ -4911,6 +4814,20 @@
         "Sunnan"
       ],
       "poang": 1
+    },
+    {
+      "regel": "innehaller",
+      "dag": "2027-03-13",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Thorbjørn Risager & The Black Tornado (DK)",
+        "Thorbjørn Risager & The Black Tornado"
+      ],
+      "poang": 0.8
     }
   ],
   "personer": [
@@ -4953,7 +4870,7 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 19,
+      "varde": 21,
       "krav": "minst 10"
     },
     {
@@ -4967,7 +4884,7 @@
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 32,
+      "varde": 33,
       "krav": "minst 5"
     },
     {
@@ -5002,7 +4919,7 @@
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "4.1 %",
+      "varde": "4 %",
       "krav": "under 5 %"
     }
   ]
