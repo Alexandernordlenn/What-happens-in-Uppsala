@@ -879,6 +879,12 @@
    "hash": "d0cdc94af4b3",
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1
+  },
+  "tickster-ux4lmk92vyy8a34": {
+   "hash": "488e04cbf1e2",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "format": "enstaka"
   }
  },
  "promptversion": 1
