@@ -1,25 +1,24 @@
 {
-  "matt": "2026-11-14T11:30:01.384Z",
-  "idag": "2026-11-14",
+  "matt": "2026-11-15T11:59:07.921Z",
+  "idag": "2026-11-15",
   "totalt": {
-    "antal": 1205,
-    "utanKlockslag": 0.04,
-    "ovrigt": 0.03,
-    "familjUtanAlder": 0.168,
-    "utanOmrade": 0.022,
-    "sammanslagna": 409,
-    "pagar14": 10,
+    "antal": 1178,
+    "utanKlockslag": 0.037,
+    "ovrigt": 0.031,
+    "familjUtanAlder": 0.166,
+    "utanOmrade": 0.023,
+    "sammanslagna": 401,
+    "pagar14": 11,
     "borttagnaKurser": 23,
     "aiEvenemang": 43,
     "misstanktaDubbletter": 0,
-    "aiTackning": 1,
     "sammanslagningarPerRegel": {
       "langvariga": 1,
-      "samma-kalla": 1,
+      "samma-kalla": 2,
       "serie-uttryckliga-datum": 5,
-      "speltid-mot-tillfallen": 8,
+      "speltid-mot-tillfallen": 7,
       "festival": 14,
-      "lika": 203,
+      "lika": 199,
       "innehaller": 50,
       "likhet": 2,
       "sport": 45
@@ -28,11 +27,11 @@
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 101,
+      "antal": 98,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.03,
+      "utanOmrade": 0.031,
       "sammanslagna": 45,
       "pagar14": 0,
       "borttagnaKurser": 0,
@@ -41,12 +40,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 113,
+      "antal": 110,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 74,
+      "sammanslagna": 71,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -54,12 +53,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 218,
+      "antal": 213,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.005,
-      "sammanslagna": 66,
+      "sammanslagna": 65,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -67,12 +66,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 437,
-      "utanKlockslag": 0.042,
+      "antal": 429,
+      "utanKlockslag": 0.038,
       "ovrigt": 0.002,
-      "familjUtanAlder": 0.094,
+      "familjUtanAlder": 0.095,
       "utanOmrade": 0.002,
-      "sammanslagna": 81,
+      "sammanslagna": 79,
       "pagar14": 0,
       "borttagnaKurser": 23,
       "aiEvenemang": 43,
@@ -93,12 +92,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 79,
+      "antal": 77,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 72,
+      "sammanslagna": 69,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -119,9 +118,9 @@
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 44,
+      "antal": 43,
       "utanKlockslag": 0,
-      "ovrigt": 0.045,
+      "ovrigt": 0.047,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
       "sammanslagna": 2,
@@ -145,20 +144,20 @@
     },
     "n": {
       "namn": "Biotopia",
-      "antal": 25,
-      "utanKlockslag": 0.857,
+      "antal": 24,
+      "utanKlockslag": 0.85,
       "ovrigt": 0,
       "familjUtanAlder": 0.6,
-      "utanOmrade": 0.08,
+      "utanOmrade": 0.083,
       "sammanslagna": 5,
-      "pagar14": 1,
+      "pagar14": 2,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
       "misstanktaDubbletter": 0
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 44,
+      "antal": 43,
       "utanKlockslag": 0,
       "ovrigt": 0.023,
       "familjUtanAlder": 0,
@@ -184,12 +183,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 209,
-      "utanKlockslag": 0.069,
-      "ovrigt": 0.124,
-      "familjUtanAlder": 0.933,
-      "utanOmrade": 0.048,
-      "sammanslagna": 198,
+      "antal": 201,
+      "utanKlockslag": 0.061,
+      "ovrigt": 0.129,
+      "familjUtanAlder": 0.926,
+      "utanOmrade": 0.05,
+      "sammanslagna": 192,
       "pagar14": 9,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -197,12 +196,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 210,
+      "antal": 207,
       "utanKlockslag": 0,
-      "ovrigt": 0.038,
+      "ovrigt": 0.039,
       "familjUtanAlder": 0.773,
       "utanOmrade": 0.043,
-      "sammanslagna": 212,
+      "sammanslagna": 209,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -234,6 +233,18 @@
       ],
       "titlar": [
         "Babysagostund"
+      ]
+    },
+    {
+      "regel": "samma-kalla",
+      "dag": "2026-11-19",
+      "plats": "stadsbib",
+      "kallor": [
+        "b",
+        "b"
+      ],
+      "titlar": [
+        "Queer bokcirkel"
       ]
     },
     {
@@ -321,20 +332,6 @@
     {
       "regel": "speltid-mot-tillfallen",
       "dag": "2026-09-19",
-      "plats": "sprakateatern",
-      "kallor": [
-        "u",
-        "d"
-      ],
-      "titlar": [
-        "“Så enkelt går du ner 10 kg!” (teaterföreställning om att överleva anorexia, med Teater Elin)",
-        "”Så enkelt går du ner 10 kg!” – Teater Elin"
-      ],
-      "tillfallen": 1
-    },
-    {
-      "regel": "speltid-mot-tillfallen",
-      "dag": "2026-09-19",
       "plats": "stadsteatern",
       "kallor": [
         "d",
@@ -343,7 +340,7 @@
       "titlar": [
         "Medan vi brinner"
       ],
-      "tillfallen": 3
+      "tillfallen": 2
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -356,7 +353,7 @@
       "titlar": [
         "Stadens ljus"
       ],
-      "tillfallen": 6
+      "tillfallen": 5
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -382,7 +379,7 @@
       "titlar": [
         "Monster och gudar"
       ],
-      "tillfallen": 2
+      "tillfallen": 1
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -661,19 +658,6 @@
       ],
       "titlar": [
         "Läs tillsammans!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-14",
-      "plats": "storvretabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Lilla deckarskolan med Karolina Schützer"
       ],
       "poang": 1
     },
@@ -1935,19 +1919,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-11-14",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d"
-      ],
-      "titlar": [
-        "Dessi Hietala – Sveriges sämsta norrlänning"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-11-17",
       "plats": "katalin",
       "kallor": [
@@ -2727,33 +2698,6 @@
       ],
       "titlar": [
         "Jethro Tull – The Curiosity Tour"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-14",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Jonas Lundqvist"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-14",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Dessi Hietala – Sveriges sämsta norrlänning"
       ],
       "poang": 1
     },
@@ -4744,7 +4688,7 @@
       "person": "Lisa",
       "namn": "Helgen, 0–4 år: evenemang med känd ålder",
       "ok": false,
-      "varde": 4,
+      "varde": 1,
       "krav": "minst 5"
     },
     {
@@ -4758,14 +4702,14 @@
       "person": "Lisa",
       "namn": "Familjeevenemang utan ålder (eller 0–99) syns under \"ålder ej angiven\"",
       "ok": true,
-      "varde": "8 av 8",
+      "varde": "2 av 2",
       "krav": "alla"
     },
     {
       "person": "Lisa",
       "namn": "Konst & museum, raden \"Pågår\": andel utställningar",
       "ok": true,
-      "varde": "100 % (9 av 9)",
+      "varde": "100 % (10 av 10)",
       "krav": "minst 80 %"
     },
     {
@@ -4779,7 +4723,7 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 20,
+      "varde": 22,
       "krav": "minst 10"
     },
     {
@@ -4793,7 +4737,7 @@
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 33,
+      "varde": 36,
       "krav": "minst 5"
     },
     {
@@ -4814,21 +4758,21 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "3 %",
+      "varde": "3.1 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": false,
-      "varde": "2.2 %",
+      "varde": "2.3 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "4 %",
+      "varde": "3.7 %",
       "krav": "under 5 %"
     }
   ]
