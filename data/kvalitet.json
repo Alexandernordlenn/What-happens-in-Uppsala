@@ -1,11 +1,11 @@
 {
-  "matt": "2026-11-16T12:46:22.387Z",
-  "idag": "2026-11-16",
+  "matt": "2026-11-17T13:25:31.592Z",
+  "idag": "2026-11-17",
   "totalt": {
-    "antal": 1169,
+    "antal": 1158,
     "utanKlockslag": 0.037,
     "ovrigt": 0.031,
-    "familjUtanAlder": 0.165,
+    "familjUtanAlder": 0.167,
     "utanOmrade": 0.024,
     "sammanslagna": 397,
     "pagar14": 11,
@@ -15,25 +15,25 @@
     "aiTackning": 1,
     "sammanslagningarPerRegel": {
       "langvariga": 1,
-      "samma-kalla": 2,
+      "samma-kalla": 1,
       "serie-uttryckliga-datum": 5,
       "speltid-mot-tillfallen": 7,
       "festival": 14,
-      "lika": 197,
-      "innehaller": 50,
+      "lika": 198,
+      "innehaller": 49,
       "likhet": 2,
-      "sport": 44
+      "sport": 45
     }
   },
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 95,
+      "antal": 96,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.032,
-      "sammanslagna": 44,
+      "utanOmrade": 0.031,
+      "sammanslagna": 45,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -54,12 +54,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 211,
+      "antal": 207,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.005,
-      "sammanslagna": 63,
+      "sammanslagna": 62,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -67,12 +67,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 425,
-      "utanKlockslag": 0.036,
+      "antal": 413,
+      "utanKlockslag": 0.035,
       "ovrigt": 0.002,
-      "familjUtanAlder": 0.096,
+      "familjUtanAlder": 0.094,
       "utanOmrade": 0.002,
-      "sammanslagna": 77,
+      "sammanslagna": 76,
       "pagar14": 0,
       "borttagnaKurser": 23,
       "aiEvenemang": 43,
@@ -93,12 +93,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 77,
+      "antal": 78,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 69,
+      "sammanslagna": 70,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -106,12 +106,12 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 77,
+      "antal": 78,
       "utanKlockslag": 0,
-      "ovrigt": 0.052,
-      "familjUtanAlder": 0.833,
+      "ovrigt": 0.051,
+      "familjUtanAlder": 0.842,
       "utanOmrade": 0,
-      "sammanslagna": 129,
+      "sammanslagna": 128,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -119,9 +119,9 @@
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 42,
+      "antal": 41,
       "utanKlockslag": 0,
-      "ovrigt": 0.048,
+      "ovrigt": 0.049,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
       "sammanslagna": 2,
@@ -158,12 +158,12 @@
     },
     "f": {
       "namn": "Fyrishov",
-      "antal": 42,
+      "antal": 44,
       "utanKlockslag": 0,
-      "ovrigt": 0.024,
+      "ovrigt": 0.023,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 35,
+      "sammanslagna": 36,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 43,
@@ -197,7 +197,7 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 207,
+      "antal": 208,
       "utanKlockslag": 0,
       "ovrigt": 0.043,
       "familjUtanAlder": 0.773,
@@ -237,18 +237,6 @@
       ]
     },
     {
-      "regel": "samma-kalla",
-      "dag": "2026-11-20",
-      "plats": "savjabib",
-      "kallor": [
-        "b",
-        "b"
-      ],
-      "titlar": [
-        "Sagostund med tema ljud"
-      ]
-    },
-    {
       "regel": "serie-uttryckliga-datum",
       "dag": "2026-11-18",
       "plats": "stadsbib",
@@ -267,11 +255,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-16",
+      "dag": "2026-11-23",
       "plats": "gottsundabib",
       "kallor": [
         "u",
-        "b",
         "b",
         "b",
         "b",
@@ -663,20 +650,6 @@
       "poang": 1
     },
     {
-      "regel": "innehaller",
-      "dag": "2026-11-17",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Sagostund på svenska för barn 1–3 år",
-        "Sagostund för barn 1-3 år"
-      ],
-      "poang": 0.83
-    },
-    {
       "regel": "lika",
       "dag": "2026-11-17",
       "plats": "gottsundabib",
@@ -755,6 +728,19 @@
       "titlar": [
         "Torsdagshäng",
         "Torsdagshäng!"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-11-20",
+      "plats": "stadsbib",
+      "kallor": [
+        "b",
+        "u"
+      ],
+      "titlar": [
+        "Fredagsmys"
       ],
       "poang": 1
     },
@@ -1874,6 +1860,19 @@
       "titlar": [
         "Uppsala Basket – Sloga Uppsala",
         "Uppsala Basket – Sloga Basket 9 mars"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "sport",
+      "dag": "2027-03-17",
+      "plats": "fyrishov",
+      "kallor": [
+        "i",
+        "f"
+      ],
+      "titlar": [
+        "Sloga Uppsala – Umeå Basket"
       ],
       "poang": 1
     },
@@ -3203,20 +3202,6 @@
         "Livets Orkester i Bakfickan"
       ],
       "poang": 0.67
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-12-03",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "t"
-      ],
-      "titlar": [
-        "Inställt: Kulturfrukost – Klimatsmart kultur i praktiken",
-        "Inställt: Kulturfrukost – Klimatsmart kultur"
-      ],
-      "poang": 0.8
     },
     {
       "regel": "lika",
@@ -4641,6 +4626,20 @@
         "Thorbjørn Risager & The Black Tornado"
       ],
       "poang": 0.8
+    },
+    {
+      "regel": "innehaller",
+      "dag": "2027-03-17",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Anders Bergcrantz / Sven Berggren – Konsert & Jamsession",
+        "Anders Bergcrantz / Sven Berggren"
+      ],
+      "poang": 0.67
     }
   ],
   "personer": [
@@ -4683,21 +4682,21 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 23,
+      "varde": 24,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 13,
+      "varde": 14,
       "krav": "minst 10"
     },
     {
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 36,
+      "varde": 34,
       "krav": "minst 5"
     },
     {

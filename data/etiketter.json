@@ -884,6 +884,11 @@
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1,
    "format": "enstaka"
+  },
+  "ukk-48232": {
+   "hash": "63691c2dc03e",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
   }
  },
  "promptversion": 1
