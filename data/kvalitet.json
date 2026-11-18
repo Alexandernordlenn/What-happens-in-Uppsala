@@ -1,26 +1,25 @@
 {
-  "matt": "2026-11-17T13:25:31.592Z",
-  "idag": "2026-11-17",
+  "matt": "2026-11-18T13:08:01.904Z",
+  "idag": "2026-11-18",
   "totalt": {
-    "antal": 1158,
+    "antal": 1164,
     "utanKlockslag": 0.037,
-    "ovrigt": 0.031,
-    "familjUtanAlder": 0.167,
-    "utanOmrade": 0.024,
-    "sammanslagna": 397,
-    "pagar14": 11,
+    "ovrigt": 0.03,
+    "familjUtanAlder": 0.156,
+    "utanOmrade": 0.021,
+    "sammanslagna": 395,
+    "pagar14": 14,
     "borttagnaKurser": 23,
-    "aiEvenemang": 43,
+    "aiEvenemang": 51,
     "misstanktaDubbletter": 0,
     "aiTackning": 1,
     "sammanslagningarPerRegel": {
-      "langvariga": 1,
-      "samma-kalla": 1,
+      "langvariga": 2,
       "serie-uttryckliga-datum": 5,
       "speltid-mot-tillfallen": 7,
       "festival": 14,
-      "lika": 198,
-      "innehaller": 49,
+      "lika": 193,
+      "innehaller": 51,
       "likhet": 2,
       "sport": 45
     }
@@ -28,20 +27,20 @@
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 96,
+      "antal": 95,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.031,
+      "utanOmrade": 0.032,
       "sammanslagna": 45,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 109,
+      "antal": 110,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -49,72 +48,72 @@
       "sammanslagna": 70,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 207,
+      "antal": 196,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.005,
-      "sammanslagna": 62,
+      "sammanslagna": 59,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "u": {
       "namn": "Kubik",
-      "antal": 413,
-      "utanKlockslag": 0.035,
+      "antal": 431,
+      "utanKlockslag": 0.034,
       "ovrigt": 0.002,
-      "familjUtanAlder": 0.094,
+      "familjUtanAlder": 0.084,
       "utanOmrade": 0.002,
-      "sammanslagna": 76,
-      "pagar14": 0,
+      "sammanslagna": 74,
+      "pagar14": 3,
       "borttagnaKurser": 23,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "r": {
       "namn": "Musik i Uppland",
-      "antal": 12,
+      "antal": 13,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 20,
+      "sammanslagna": 23,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "l": {
       "namn": "Katalin",
-      "antal": 78,
+      "antal": 77,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 70,
+      "sammanslagna": 69,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "c": {
       "namn": "UKK",
-      "antal": 78,
+      "antal": 79,
       "utanKlockslag": 0,
       "ovrigt": 0.051,
       "familjUtanAlder": 0.842,
       "utanOmrade": 0,
-      "sammanslagna": 128,
+      "sammanslagna": 131,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "e": {
@@ -127,7 +126,7 @@
       "sammanslagna": 2,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "j": {
@@ -140,7 +139,7 @@
       "sammanslagna": 0,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "n": {
@@ -153,7 +152,7 @@
       "sammanslagna": 5,
       "pagar14": 2,
       "borttagnaKurser": 0,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "f": {
@@ -166,7 +165,7 @@
       "sammanslagna": 36,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "o": {
@@ -176,36 +175,36 @@
       "ovrigt": 0.143,
       "familjUtanAlder": 0,
       "utanOmrade": 0.143,
-      "sammanslagna": 3,
+      "sammanslagna": 2,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 199,
-      "utanKlockslag": 0.061,
-      "ovrigt": 0.126,
-      "familjUtanAlder": 0.923,
-      "utanOmrade": 0.05,
+      "antal": 197,
+      "utanKlockslag": 0.062,
+      "ovrigt": 0.127,
+      "familjUtanAlder": 0.885,
+      "utanOmrade": 0.041,
       "sammanslagna": 191,
-      "pagar14": 9,
+      "pagar14": 10,
       "borttagnaKurser": 0,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "t": {
       "namn": "Tickster",
-      "antal": 208,
+      "antal": 206,
       "utanKlockslag": 0,
-      "ovrigt": 0.043,
+      "ovrigt": 0.039,
       "familjUtanAlder": 0.773,
-      "utanOmrade": 0.048,
-      "sammanslagna": 209,
+      "utanOmrade": 0.044,
+      "sammanslagna": 210,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 43,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     }
   },
@@ -225,15 +224,16 @@
       ]
     },
     {
-      "regel": "samma-kalla",
-      "dag": "2026-11-18",
-      "plats": "balingebib",
+      "regel": "langvariga",
+      "dag": "2026-11-27",
+      "plats": "uppsala",
       "kallor": [
-        "b",
-        "b"
+        "u",
+        "d"
       ],
       "titlar": [
-        "Babysagostund"
+        "Digital skattjakt med Musse & Helium",
+        "Musse & Helium – digital skattjakt i Uppsala city"
       ]
     },
     {
@@ -272,7 +272,7 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-17",
+      "dag": "2026-11-24",
       "plats": "stadsbib",
       "kallor": [
         "u",
@@ -650,48 +650,7 @@
       "poang": 1
     },
     {
-      "regel": "lika",
-      "dag": "2026-11-17",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Barnrytmik 3–5-åringar",
-        "Barnrytmik 3-5 åringar"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-17",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Bokklubb 10–13 år"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-18",
-      "plats": "granbyallaktivitetshus",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Sagostund",
-        "Sagostund på Gränby allaktivitetshus"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
+      "regel": "innehaller",
       "dag": "2026-11-19",
       "plats": "stadsbib",
       "kallor": [
@@ -699,9 +658,10 @@
         "u"
       ],
       "titlar": [
+        "Inställt: Babyrytmik",
         "Babyrytmik"
       ],
-      "poang": 1
+      "poang": 0.5
     },
     {
       "regel": "innehaller",
@@ -1397,6 +1357,20 @@
     },
     {
       "regel": "innehaller",
+      "dag": "2027-03-18",
+      "plats": "ukk",
+      "kallor": [
+        "r",
+        "c"
+      ],
+      "titlar": [
+        "Bästa Byström",
+        "Bästa Byström – Uppsala Kammarorkester"
+      ],
+      "poang": 0.5
+    },
+    {
+      "regel": "innehaller",
       "dag": "2026-11-21",
       "plats": "fyrishov",
       "kallor": [
@@ -1875,33 +1849,6 @@
         "Sloga Uppsala – Umeå Basket"
       ],
       "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-17",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d"
-      ],
-      "titlar": [
-        "Moonica Mac"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-17",
-      "plats": "kaliber",
-      "kallor": [
-        "o",
-        "d"
-      ],
-      "titlar": [
-        "Fyris Comedy – Stand up med Kodjo Akolor - Work in Progress \"Obekväma sanningar\"",
-        "Kodjo Akolor – Obekväma sanningar"
-      ],
-      "poang": 0.36
     },
     {
       "regel": "innehaller",
@@ -2661,45 +2608,19 @@
       "poang": 1
     },
     {
-      "regel": "lika",
-      "dag": "2026-11-17",
-      "plats": "slottshist",
-      "kallor": [
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Dolda rum: Rikssalen och drottning Kristina"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-17",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Moonica Mac"
-      ],
-      "poang": 1
-    },
-    {
       "regel": "innehaller",
-      "dag": "2026-11-17",
-      "plats": "katalin",
+      "dag": "2027-03-18",
+      "plats": "ukk",
       "kallor": [
-        "l",
-        "t"
+        "r",
+        "c",
+        "d"
       ],
       "titlar": [
-        "Mathilde Deborah",
-        "Mathilde Deborah - Bakfickan"
+        "Bästa Byström",
+        "Bästa Byström – Uppsala Kammarorkester"
       ],
-      "poang": 0.67
+      "poang": 0.5
     },
     {
       "regel": "lika",
@@ -3313,6 +3234,20 @@
       "titlar": [
         "Pernilla Andersson – Vintersånger från Garbo",
         "Pernilla Andersson - Vintersånger från Garbo"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2026-12-05",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "The Blues Uppsala – Bergman Blues",
+        "The Blues Uppsala - Bergman Blues"
       ],
       "poang": 1
     },
@@ -4640,6 +4575,35 @@
         "Anders Bergcrantz / Sven Berggren"
       ],
       "poang": 0.67
+    },
+    {
+      "regel": "innehaller",
+      "dag": "2027-03-18",
+      "plats": "ukk",
+      "kallor": [
+        "r",
+        "c",
+        "d",
+        "t"
+      ],
+      "titlar": [
+        "Bästa Byström",
+        "Bästa Byström – Uppsala Kammarorkester"
+      ],
+      "poang": 0.5
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-18",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Henning"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -4682,14 +4646,14 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 24,
+      "varde": 22,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 14,
+      "varde": 12,
       "krav": "minst 10"
     },
     {
@@ -4717,14 +4681,14 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "3.1 %",
+      "varde": "3 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": false,
-      "varde": "2.4 %",
+      "varde": "2.1 %",
       "krav": "under 2 %"
     },
     {

@@ -889,6 +889,54 @@
    "hash": "63691c2dc03e",
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1
+  },
+  "bibliotek-68e46cc0-8bc1-41ab-8f60-f6c8d7471552": {
+   "hash": "8a536bd9ee43",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "prat"
+  },
+  "kubik-digital-skattjakt-med-musse-helium": {
+   "hash": "0bbc1a2b814e",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "format": "utstallning"
+  },
+  "kubik-julskyltstaevling-i-uppsala-city": {
+   "hash": "8085ede1dccd",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "format": "utstallning"
+  },
+  "bibliotek-91eb0a94-1525-43d5-b42e-7d881ced24e5": {
+   "hash": "5307c7940755",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "prat"
+  },
+  "kubik-skicka-brev-till-tomten": {
+   "hash": "20caea486e1b",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "format": "utstallning"
+  },
+  "bibliotek-96f6ceeb-3b07-4d29-853e-b32c6fa834cd": {
+   "hash": "6f0b2cd99fe3",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "prat"
+  },
+  "bibliotek-9eda69d9-815a-4b0a-be8a-68aa9b52cd88": {
+   "hash": "e3d0a17308f7",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "prat"
+  },
+  "bibliotek-55b9148f-8dc2-4d8d-af10-9526c3f9d021": {
+   "hash": "13feb46ce133",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "prat"
   }
  },
  "promptversion": 1
