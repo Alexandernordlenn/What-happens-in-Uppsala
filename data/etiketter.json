@@ -880,7 +880,7 @@
    "promptversion": 1
   },
   "tickster-ux4lmk92vyy8a34": {
-   "hash": "488e04cbf1e2",
+   "hash": "200b2a31bea9",
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1,
    "format": "enstaka"
@@ -937,6 +937,17 @@
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1,
    "kategori": "prat"
+  },
+  "ukk-48376": {
+   "hash": "5b876ff191c7",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "kubik-jullovslaeger-i-truppgymnastik-och-cheerleading": {
+   "hash": "7aff1c1b0c46",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "format": "enstaka"
   }
  },
  "promptversion": 1
