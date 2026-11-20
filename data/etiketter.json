@@ -948,6 +948,17 @@
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1,
    "format": "enstaka"
+  },
+  "tickster-f9chr6pulyyhfmh": {
+   "hash": "be770ca8e19d",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "tickster-vc4v14u84fewkh3": {
+   "hash": "f07fb424135c",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "scen"
   }
  },
  "promptversion": 1

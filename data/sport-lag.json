@@ -1,5 +1,5 @@
 {
-  "uppdaterad": "2026-11-19T13:03:50.690Z",
+  "uppdaterad": "2026-11-20T12:54:29.048Z",
   "antalMatcherIUppsala": 101,
   "lag": [
     {
@@ -79,7 +79,7 @@
       "niva": 2,
       "liga": "Allsvenskan dam",
       "antal": 5,
-      "hemmamatcher30": 0,
+      "hemmamatcher30": 1,
       "iSasong": true
     },
     {
@@ -139,7 +139,7 @@
       "niva": 1,
       "liga": "Elitserien herr",
       "antal": 8,
-      "hemmamatcher30": 2,
+      "hemmamatcher30": 3,
       "iSasong": true
     },
     {
