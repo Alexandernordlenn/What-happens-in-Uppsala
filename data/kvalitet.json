@@ -1,38 +1,37 @@
 {
-  "matt": "2026-11-20T12:55:55.072Z",
-  "idag": "2026-11-20",
+  "matt": "2026-11-21T12:40:03.828Z",
+  "idag": "2026-11-21",
   "totalt": {
-    "antal": 1123,
-    "utanKlockslag": 0.037,
-    "ovrigt": 0.03,
-    "familjUtanAlder": 0.153,
-    "utanOmrade": 0.022,
-    "sammanslagna": 389,
-    "pagar14": 14,
+    "antal": 1106,
+    "utanKlockslag": 0.038,
+    "ovrigt": 0.031,
+    "familjUtanAlder": 0.156,
+    "utanOmrade": 0.024,
+    "sammanslagna": 377,
+    "pagar14": 15,
     "borttagnaKurser": 23,
     "aiEvenemang": 52,
     "misstanktaDubbletter": 0,
-    "aiTackning": 1,
     "sammanslagningarPerRegel": {
       "langvariga": 2,
-      "serie-uttryckliga-datum": 5,
-      "speltid-mot-tillfallen": 6,
+      "serie-uttryckliga-datum": 4,
+      "speltid-mot-tillfallen": 5,
       "festival": 17,
-      "lika": 186,
+      "lika": 179,
       "innehaller": 48,
       "likhet": 2,
-      "sport": 49
+      "sport": 48
     }
   },
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 97,
+      "antal": 98,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.031,
-      "sammanslagna": 49,
+      "sammanslagna": 48,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 52,
@@ -40,12 +39,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 111,
+      "antal": 108,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 68,
+      "sammanslagna": 66,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 52,
@@ -53,12 +52,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 179,
+      "antal": 170,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.006,
-      "sammanslagna": 55,
+      "sammanslagna": 51,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 52,
@@ -66,12 +65,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 413,
-      "utanKlockslag": 0.035,
+      "antal": 407,
+      "utanKlockslag": 0.036,
       "ovrigt": 0.002,
-      "familjUtanAlder": 0.075,
+      "familjUtanAlder": 0.073,
       "utanOmrade": 0.002,
-      "sammanslagna": 71,
+      "sammanslagna": 64,
       "pagar14": 3,
       "borttagnaKurser": 23,
       "aiEvenemang": 52,
@@ -92,12 +91,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 77,
+      "antal": 75,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 66,
+      "sammanslagna": 67,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 52,
@@ -105,12 +104,12 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 77,
+      "antal": 74,
       "utanKlockslag": 0,
-      "ovrigt": 0.052,
-      "familjUtanAlder": 0.842,
+      "ovrigt": 0.054,
+      "familjUtanAlder": 0.941,
       "utanOmrade": 0,
-      "sammanslagna": 129,
+      "sammanslagna": 121,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 52,
@@ -118,9 +117,9 @@
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 38,
+      "antal": 36,
       "utanKlockslag": 0,
-      "ovrigt": 0.053,
+      "ovrigt": 0.056,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
       "sammanslagna": 2,
@@ -131,7 +130,7 @@
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 27,
+      "antal": 26,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -183,25 +182,25 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 192,
-      "utanKlockslag": 0.064,
-      "ovrigt": 0.125,
+      "antal": 189,
+      "utanKlockslag": 0.066,
+      "ovrigt": 0.127,
       "familjUtanAlder": 0.852,
       "utanOmrade": 0.042,
-      "sammanslagna": 190,
-      "pagar14": 10,
+      "sammanslagna": 184,
+      "pagar14": 11,
       "borttagnaKurser": 0,
       "aiEvenemang": 52,
       "misstanktaDubbletter": 0
     },
     "t": {
       "namn": "Tickster",
-      "antal": 199,
+      "antal": 198,
       "utanKlockslag": 0,
       "ovrigt": 0.04,
-      "familjUtanAlder": 0.773,
-      "utanOmrade": 0.045,
-      "sammanslagna": 203,
+      "familjUtanAlder": 0.818,
+      "utanOmrade": 0.056,
+      "sammanslagna": 198,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 52,
@@ -303,20 +302,6 @@
       "serie": "kubik-torsdagskul-paa-biotopia"
     },
     {
-      "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-20",
-      "plats": "gottsundabib",
-      "kallor": [
-        "u",
-        "b",
-        "b"
-      ],
-      "titlar": [
-        "Hörlurar på!"
-      ],
-      "serie": "kubik-hoerlurar-paa-1"
-    },
-    {
       "regel": "speltid-mot-tillfallen",
       "dag": "2026-09-25",
       "plats": "stadsteatern",
@@ -340,20 +325,7 @@
       "titlar": [
         "Studie i mänskligt beteende"
       ],
-      "tillfallen": 19
-    },
-    {
-      "regel": "speltid-mot-tillfallen",
-      "dag": "2026-10-28",
-      "plats": "stadsteatern",
-      "kallor": [
-        "d",
-        "s"
-      ],
-      "titlar": [
-        "Monster och gudar"
-      ],
-      "tillfallen": 1
+      "tillfallen": 18
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -677,41 +649,14 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-11-20",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Fredagsmys"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-21",
-      "plats": "storvretabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Minibio"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-21",
+      "dag": "2026-12-18",
       "plats": "gottsundabib",
       "kallor": [
         "b",
         "u"
       ],
       "titlar": [
-        "Sagostund på arabiska",
-        "Sagostund på arabiska / وقت قراءة القصص باللغة العربية"
+        "Hörlurar på!"
       ],
       "poang": 1
     },
@@ -1216,34 +1161,6 @@
         "Sångstund på engelska/ Song time in English for kids 0-6 years"
       ],
       "poang": 0.9
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-21",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c"
-      ],
-      "titlar": [
-        "Saffransmysteriet LasseMajas detektivbyrå",
-        "Saffransmysteriet – LasseMajas detektivbyrå"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-21",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c"
-      ],
-      "titlar": [
-        "Saffransmysteriet LasseMajas detektivbyrå",
-        "Saffransmysteriet – LasseMajas detektivbyrå"
-      ],
-      "poang": 1
     },
     {
       "regel": "lika",
@@ -1889,39 +1806,11 @@
       "poang": 1
     },
     {
-      "regel": "sport",
-      "dag": "2026-11-20",
-      "plats": "studenternas",
-      "kallor": [
-        "i",
-        "d"
-      ],
-      "titlar": [
-        "IK Sirius – Gripen Trollhättan BK",
-        "Bandy: IK Sirius – Gripen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-20",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d"
-      ],
-      "titlar": [
-        "Hansson de Wolfe United"
-      ],
-      "poang": 1
-    },
-    {
       "regel": "lika",
       "dag": "2026-11-21",
       "plats": "ukk",
       "kallor": [
         "u",
-        "c",
         "d"
       ],
       "titlar": [
@@ -2648,67 +2537,10 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-11-20",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Hansson de Wolfe United"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-20",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Pascal"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-20",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "En kväll på Operan…",
-        "En kväll på operan"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-11-21",
       "plats": "ukk",
       "kallor": [
         "u",
-        "c",
-        "t"
-      ],
-      "titlar": [
-        "Saffransmysteriet LasseMajas detektivbyrå",
-        "Saffransmysteriet – LasseMajas detektivbyrå"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-21",
-      "plats": "ukk",
-      "kallor": [
-        "u",
-        "c",
         "d",
         "t"
       ],
@@ -2873,19 +2705,6 @@
         "Mia Karlsson – Coming Home Tour 2026"
       ],
       "poang": 0.8
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-27",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "t"
-      ],
-      "titlar": [
-        "Framtidsdagen 2026 – Se längre än alla andra"
-      ],
-      "poang": 1
     },
     {
       "regel": "lika",
@@ -3565,6 +3384,19 @@
     },
     {
       "regel": "lika",
+      "dag": "2026-12-18",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "THILINI GULDBRAND OCH BLUEBELL"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
       "dag": "2026-12-19",
       "plats": "ukk",
       "kallor": [
@@ -4005,6 +3837,20 @@
     },
     {
       "regel": "lika",
+      "dag": "2027-02-09",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "David Ramirez – Klubb Uffe",
+        "David Ramirez - Klubb Uffe"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
       "dag": "2027-02-10",
       "plats": "katalin",
       "kallor": [
@@ -4427,6 +4273,19 @@
     },
     {
       "regel": "lika",
+      "dag": "2027-03-05",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "MR BOB´S MACHINERY"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
       "dag": "2027-03-06",
       "plats": "ukk",
       "kallor": [
@@ -4553,7 +4412,7 @@
       "person": "Lisa",
       "namn": "Helgen, 0–4 år: evenemang med känd ålder",
       "ok": true,
-      "varde": 10,
+      "varde": 5,
       "krav": "minst 5"
     },
     {
@@ -4588,7 +4447,7 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 19,
+      "varde": 18,
       "krav": "minst 10"
     },
     {
@@ -4602,14 +4461,14 @@
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 31,
+      "varde": 30,
       "krav": "minst 5"
     },
     {
       "person": "Sportfan",
       "namn": "Lag mitt i säsongen har en hemmamatch inom 30 dagar",
       "ok": false,
-      "varde": "IK Uppsala",
+      "varde": "IK Uppsala, Storvreta IBK",
       "krav": "alla"
     },
     {
@@ -4623,21 +4482,21 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "3 %",
+      "varde": "3.1 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": false,
-      "varde": "2.2 %",
+      "varde": "2.4 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "3.7 %",
+      "varde": "3.8 %",
       "krav": "under 5 %"
     }
   ]

@@ -1,6 +1,6 @@
 {
-  "uppdaterad": "2026-11-20T12:54:29.048Z",
-  "antalMatcherIUppsala": 101,
+  "uppdaterad": "2026-11-21T12:39:31.216Z",
+  "antalMatcherIUppsala": 99,
   "lag": [
     {
       "lag": "IK Sirius",
@@ -48,8 +48,8 @@
       "kon": "herr",
       "niva": 1,
       "liga": "SSL herr",
-      "antal": 8,
-      "hemmamatcher30": 1,
+      "antal": 7,
+      "hemmamatcher30": 0,
       "iSasong": true
     },
     {
@@ -68,8 +68,8 @@
       "kon": "herr",
       "niva": 1,
       "liga": "Elitserien herr",
-      "antal": 9,
-      "hemmamatcher30": 4,
+      "antal": 8,
+      "hemmamatcher30": 3,
       "iSasong": true
     },
     {
