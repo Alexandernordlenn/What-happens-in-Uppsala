@@ -959,6 +959,11 @@
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1,
    "kategori": "scen"
+  },
+  "ukk-48463": {
+   "hash": "f8d78172b196",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
   }
  },
  "promptversion": 1
