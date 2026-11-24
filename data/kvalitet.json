@@ -1,24 +1,23 @@
 {
-  "matt": "2026-11-23T14:38:24.023Z",
-  "idag": "2026-11-23",
+  "matt": "2026-11-24T14:53:29.442Z",
+  "idag": "2026-11-24",
   "totalt": {
-    "antal": 1065,
-    "utanKlockslag": 0.035,
+    "antal": 1054,
+    "utanKlockslag": 0.034,
     "ovrigt": 0.03,
-    "familjUtanAlder": 0.15,
-    "utanOmrade": 0.024,
-    "sammanslagna": 355,
+    "familjUtanAlder": 0.148,
+    "utanOmrade": 0.025,
+    "sammanslagna": 358,
     "pagar14": 14,
     "borttagnaKurser": 22,
-    "aiEvenemang": 51,
+    "aiEvenemang": 50,
     "misstanktaDubbletter": 0,
-    "aiTackning": 1,
     "sammanslagningarPerRegel": {
       "langvariga": 1,
       "serie-uttryckliga-datum": 4,
       "speltid-mot-tillfallen": 5,
       "festival": 17,
-      "lika": 167,
+      "lika": 171,
       "innehaller": 44,
       "likhet": 2,
       "sport": 44
@@ -35,7 +34,7 @@
       "sammanslagna": 44,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     },
     "s": {
@@ -48,33 +47,33 @@
       "sammanslagna": 65,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 165,
+      "antal": 160,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.006,
-      "sammanslagna": 49,
+      "sammanslagna": 47,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     },
     "u": {
       "namn": "Kubik",
-      "antal": 394,
-      "utanKlockslag": 0.032,
+      "antal": 385,
+      "utanKlockslag": 0.03,
       "ovrigt": 0.003,
-      "familjUtanAlder": 0.076,
+      "familjUtanAlder": 0.072,
       "utanOmrade": 0.003,
-      "sammanslagna": 56,
+      "sammanslagna": 54,
       "pagar14": 3,
       "borttagnaKurser": 22,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     },
     "r": {
@@ -87,51 +86,51 @@
       "sammanslagna": 20,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     },
     "l": {
       "namn": "Katalin",
-      "antal": 73,
+      "antal": 74,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 64,
+      "sammanslagna": 66,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     },
     "c": {
       "namn": "UKK",
-      "antal": 70,
+      "antal": 72,
       "utanKlockslag": 0,
-      "ovrigt": 0.057,
+      "ovrigt": 0.056,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 113,
+      "sammanslagna": 116,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 35,
+      "antal": 34,
       "utanKlockslag": 0,
-      "ovrigt": 0.057,
+      "ovrigt": 0.059,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
       "sammanslagna": 2,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 24,
+      "antal": 25,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -139,7 +138,7 @@
       "sammanslagna": 0,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     },
     "n": {
@@ -152,7 +151,7 @@
       "sammanslagna": 4,
       "pagar14": 2,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     },
     "f": {
@@ -165,20 +164,20 @@
       "sammanslagna": 36,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     },
     "o": {
       "namn": "Billetto",
-      "antal": 7,
+      "antal": 6,
       "utanKlockslag": 0,
-      "ovrigt": 0.143,
+      "ovrigt": 0.167,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.143,
+      "utanOmrade": 0.167,
       "sammanslagna": 2,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     },
     "d": {
@@ -191,20 +190,20 @@
       "sammanslagna": 175,
       "pagar14": 10,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     },
     "t": {
       "namn": "Tickster",
-      "antal": 186,
+      "antal": 190,
       "utanKlockslag": 0,
-      "ovrigt": 0.043,
-      "familjUtanAlder": 0.895,
-      "utanOmrade": 0.054,
-      "sammanslagna": 185,
+      "ovrigt": 0.042,
+      "familjUtanAlder": 0.9,
+      "utanOmrade": 0.053,
+      "sammanslagna": 190,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 50,
       "misstanktaDubbletter": 0
     }
   },
@@ -241,11 +240,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-23",
+      "dag": "2026-11-30",
       "plats": "gottsundabib",
       "kallor": [
         "u",
-        "b",
         "b",
         "b",
         "b",
@@ -647,20 +645,6 @@
         "Hörlurar på!"
       ],
       "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-24",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Sagostund på svenska för barn 1–3 år",
-        "Sagostund för barn 1-3 år"
-      ],
-      "poang": 0.83
     },
     {
       "regel": "lika",
@@ -2883,8 +2867,7 @@
         "t"
       ],
       "titlar": [
-        "En kväll på operan…",
-        "En kväll på operan"
+        "Bombus & Långfinger"
       ],
       "poang": 1
     },
@@ -2897,7 +2880,8 @@
         "t"
       ],
       "titlar": [
-        "Bombus & Långfinger"
+        "En kväll på operan…",
+        "En kväll på operan"
       ],
       "poang": 1
     },
@@ -3905,6 +3889,19 @@
     },
     {
       "regel": "lika",
+      "dag": "2027-03-01",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "t"
+      ],
+      "titlar": [
+        "Svansjön med Etoile Ballet"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
       "dag": "2027-03-02",
       "plats": "katalin",
       "kallor": [
@@ -3942,6 +3939,19 @@
         "Tim “Ripper” Owens (US)"
       ],
       "poang": 1
+    },
+    {
+      "regel": "innehaller",
+      "dag": "2027-03-04",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Sara Aldén på Bakfickan"
+      ],
+      "poang": 0.67
     },
     {
       "regel": "lika",
@@ -4116,6 +4126,45 @@
         "Henning"
       ],
       "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-24",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "t"
+      ],
+      "titlar": [
+        "The Rock Orchestra by Candlelight"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-24",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Knock-Out Greg & The Blue Flames"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-24",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "t"
+      ],
+      "titlar": [
+        "The Rock Orchestra by Candlelight"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -4172,7 +4221,7 @@
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 28,
+      "varde": 29,
       "krav": "minst 5"
     },
     {
@@ -4200,14 +4249,14 @@
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": false,
-      "varde": "2.4 %",
+      "varde": "2.5 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "3.5 %",
+      "varde": "3.4 %",
       "krav": "under 5 %"
     }
   ]
