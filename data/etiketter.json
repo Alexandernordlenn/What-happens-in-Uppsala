@@ -964,6 +964,23 @@
    "hash": "f8d78172b196",
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1
+  },
+  "du-julvisningar-i-professorshemmet-i-walmstedtska-garden": {
+   "hash": "52048cc207b0",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "format": "utstallning"
+  },
+  "du-jul-sing-along-i-helga-trefaldighets-kyrka": {
+   "hash": "091b8553fea6",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
+  },
+  "du-julgransplundring-pa-salsta-slott-2027": {
+   "hash": "06f9b3676b78",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "kategori": "aktivitet"
   }
  },
  "promptversion": 1
