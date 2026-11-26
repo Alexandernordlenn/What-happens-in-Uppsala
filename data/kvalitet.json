@@ -1,25 +1,24 @@
 {
-  "matt": "2026-11-25T14:25:19.683Z",
-  "idag": "2026-11-25",
+  "matt": "2026-11-26T13:55:09.904Z",
+  "idag": "2026-11-26",
   "totalt": {
-    "antal": 1042,
+    "antal": 1025,
     "utanKlockslag": 0.034,
     "ovrigt": 0.031,
-    "familjUtanAlder": 0.149,
+    "familjUtanAlder": 0.148,
     "utanOmrade": 0.027,
-    "sammanslagna": 357,
+    "sammanslagna": 352,
     "pagar14": 16,
     "borttagnaKurser": 22,
-    "aiEvenemang": 52,
+    "aiEvenemang": 51,
     "misstanktaDubbletter": 0,
-    "aiTackning": 1,
     "sammanslagningarPerRegel": {
       "langvariga": 1,
       "serie-uttryckliga-datum": 4,
       "speltid-mot-tillfallen": 5,
       "festival": 17,
-      "lika": 171,
-      "innehaller": 43,
+      "lika": 168,
+      "innehaller": 42,
       "likhet": 2,
       "sport": 44
     }
@@ -27,15 +26,15 @@
   "perKalla": {
     "i": {
       "namn": "Sport",
-      "antal": 93,
+      "antal": 92,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.032,
+      "utanOmrade": 0.033,
       "sammanslagna": 44,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "s": {
@@ -48,33 +47,33 @@
       "sammanslagna": 65,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 152,
+      "antal": 144,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.007,
-      "sammanslagna": 45,
+      "sammanslagna": 42,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "u": {
       "namn": "Kubik",
-      "antal": 374,
+      "antal": 364,
       "utanKlockslag": 0.031,
       "ovrigt": 0.003,
-      "familjUtanAlder": 0.068,
+      "familjUtanAlder": 0.064,
       "utanOmrade": 0.003,
-      "sammanslagna": 52,
+      "sammanslagna": 49,
       "pagar14": 3,
       "borttagnaKurser": 22,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "r": {
@@ -87,20 +86,20 @@
       "sammanslagna": 20,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "l": {
       "namn": "Katalin",
-      "antal": 73,
+      "antal": 72,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 66,
+      "sammanslagna": 64,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "c": {
@@ -113,7 +112,7 @@
       "sammanslagna": 117,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "e": {
@@ -126,12 +125,12 @@
       "sammanslagna": 2,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 25,
+      "antal": 24,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -139,20 +138,20 @@
       "sammanslagna": 0,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "n": {
       "namn": "Biotopia",
-      "antal": 19,
-      "utanKlockslag": 0.941,
+      "antal": 21,
+      "utanKlockslag": 0.842,
       "ovrigt": 0,
       "familjUtanAlder": 0.571,
-      "utanOmrade": 0.053,
+      "utanOmrade": 0.048,
       "sammanslagna": 4,
       "pagar14": 2,
       "borttagnaKurser": 0,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "f": {
@@ -165,7 +164,7 @@
       "sammanslagna": 36,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "o": {
@@ -178,33 +177,33 @@
       "sammanslagna": 1,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 186,
+      "antal": 185,
       "utanKlockslag": 0.054,
-      "ovrigt": 0.118,
+      "ovrigt": 0.119,
       "familjUtanAlder": 0.875,
       "utanOmrade": 0.059,
       "sammanslagna": 175,
       "pagar14": 12,
       "borttagnaKurser": 0,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     },
     "t": {
       "namn": "Tickster",
-      "antal": 191,
+      "antal": 189,
       "utanKlockslag": 0,
       "ovrigt": 0.042,
       "familjUtanAlder": 0.9,
-      "utanOmrade": 0.052,
-      "sammanslagna": 192,
+      "utanOmrade": 0.053,
+      "sammanslagna": 190,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 52,
+      "aiEvenemang": 51,
       "misstanktaDubbletter": 0
     }
   },
@@ -225,11 +224,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-25",
+      "dag": "2026-12-02",
       "plats": "stadsbib",
       "kallor": [
         "u",
-        "b",
         "b",
         "b",
         "b"
@@ -610,19 +608,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-11-25",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Nyhetsklubb"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-11-30",
       "plats": "gottsundabib",
       "kallor": [
@@ -644,19 +629,6 @@
       ],
       "titlar": [
         "Hörlurar på!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-26",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Babyrytmik"
       ],
       "poang": 1
     },
@@ -2305,20 +2277,6 @@
     },
     {
       "regel": "lika",
-      "dag": "2026-11-25",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Den Eviga Ungdomens Stad – Rimeika hyllar Uppsala",
-        "Den Eviga Ungdomens Stad - Rimeika hyllar Uppsala"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
       "dag": "2026-11-26",
       "plats": "slottshist",
       "kallor": [
@@ -3915,19 +3873,6 @@
       "poang": 1
     },
     {
-      "regel": "innehaller",
-      "dag": "2027-03-04",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Sara Aldén på Bakfickan"
-      ],
-      "poang": 0.67
-    },
-    {
       "regel": "lika",
       "dag": "2027-03-05",
       "plats": "ukk",
@@ -3956,19 +3901,6 @@
     {
       "regel": "lika",
       "dag": "2027-03-05",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "t"
-      ],
-      "titlar": [
-        "Merit Hemmingson – Jazzhörnan"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2027-03-05",
       "plats": "katalin",
       "kallor": [
         "l",
@@ -3976,6 +3908,19 @@
       ],
       "titlar": [
         "MR BOB´S MACHINERY"
+      ],
+      "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-05",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "t"
+      ],
+      "titlar": [
+        "Merit Hemmingson – Jazzhörnan"
       ],
       "poang": 1
     },
@@ -4195,7 +4140,7 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 23,
+      "varde": 27,
       "krav": "minst 10"
     },
     {
@@ -4209,7 +4154,7 @@
       "person": "Tonåring",
       "namn": "7 dagar: evenemang för 13–15 år",
       "ok": true,
-      "varde": 29,
+      "varde": 31,
       "krav": "minst 5"
     },
     {
