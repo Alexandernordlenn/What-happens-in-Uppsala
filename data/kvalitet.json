@@ -1,24 +1,25 @@
 {
-  "matt": "2026-11-26T13:55:09.904Z",
-  "idag": "2026-11-26",
+  "matt": "2026-11-27T13:53:43.639Z",
+  "idag": "2026-11-27",
   "totalt": {
-    "antal": 1025,
-    "utanKlockslag": 0.034,
-    "ovrigt": 0.031,
-    "familjUtanAlder": 0.148,
-    "utanOmrade": 0.027,
-    "sammanslagna": 352,
-    "pagar14": 16,
+    "antal": 1006,
+    "utanKlockslag": 0.035,
+    "ovrigt": 0.032,
+    "familjUtanAlder": 0.147,
+    "utanOmrade": 0.028,
+    "sammanslagna": 342,
+    "pagar14": 17,
     "borttagnaKurser": 22,
-    "aiEvenemang": 51,
+    "aiEvenemang": 53,
     "misstanktaDubbletter": 0,
+    "aiTackning": 1,
     "sammanslagningarPerRegel": {
       "langvariga": 1,
       "serie-uttryckliga-datum": 4,
       "speltid-mot-tillfallen": 5,
       "festival": 17,
-      "lika": 168,
-      "innehaller": 42,
+      "lika": 164,
+      "innehaller": 37,
       "likhet": 2,
       "sport": 44
     }
@@ -34,12 +35,12 @@
       "sammanslagna": 44,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 109,
+      "antal": 111,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -47,90 +48,90 @@
       "sammanslagna": 65,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 144,
+      "antal": 134,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0.007,
-      "sammanslagna": 42,
+      "sammanslagna": 38,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "u": {
       "namn": "Kubik",
-      "antal": 364,
-      "utanKlockslag": 0.031,
+      "antal": 352,
+      "utanKlockslag": 0.03,
       "ovrigt": 0.003,
-      "familjUtanAlder": 0.064,
+      "familjUtanAlder": 0.057,
       "utanOmrade": 0.003,
-      "sammanslagna": 49,
+      "sammanslagna": 44,
       "pagar14": 3,
       "borttagnaKurser": 22,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "r": {
       "namn": "Musik i Uppland",
-      "antal": 12,
+      "antal": 11,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
       "utanOmrade": 0,
-      "sammanslagna": 20,
+      "sammanslagna": 18,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "l": {
       "namn": "Katalin",
-      "antal": 72,
+      "antal": 71,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 64,
+      "sammanslagna": 62,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "c": {
       "namn": "UKK",
-      "antal": 73,
+      "antal": 72,
       "utanKlockslag": 0,
-      "ovrigt": 0.055,
+      "ovrigt": 0.056,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
       "sammanslagna": 117,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "e": {
       "namn": "Missionskyrkan",
-      "antal": 33,
+      "antal": 32,
       "utanKlockslag": 0,
-      "ovrigt": 0.061,
+      "ovrigt": 0.063,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
       "sammanslagna": 2,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "j": {
       "namn": "Bror Hjorths Hus",
-      "antal": 24,
+      "antal": 23,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
@@ -138,7 +139,7 @@
       "sammanslagna": 0,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "n": {
@@ -146,12 +147,12 @@
       "antal": 21,
       "utanKlockslag": 0.842,
       "ovrigt": 0,
-      "familjUtanAlder": 0.571,
+      "familjUtanAlder": 0.667,
       "utanOmrade": 0.048,
-      "sammanslagna": 4,
+      "sammanslagna": 3,
       "pagar14": 2,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "f": {
@@ -164,7 +165,7 @@
       "sammanslagna": 36,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "o": {
@@ -177,33 +178,33 @@
       "sammanslagna": 1,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 185,
-      "utanKlockslag": 0.054,
-      "ovrigt": 0.119,
-      "familjUtanAlder": 0.875,
-      "utanOmrade": 0.059,
-      "sammanslagna": 175,
-      "pagar14": 12,
+      "antal": 184,
+      "utanKlockslag": 0.055,
+      "ovrigt": 0.12,
+      "familjUtanAlder": 0.88,
+      "utanOmrade": 0.06,
+      "sammanslagna": 170,
+      "pagar14": 13,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "t": {
       "namn": "Tickster",
-      "antal": 189,
+      "antal": 186,
       "utanKlockslag": 0,
-      "ovrigt": 0.042,
+      "ovrigt": 0.043,
       "familjUtanAlder": 0.9,
-      "utanOmrade": 0.053,
-      "sammanslagna": 190,
+      "utanOmrade": 0.054,
+      "sammanslagna": 185,
       "pagar14": 0,
       "borttagnaKurser": 0,
-      "aiEvenemang": 51,
+      "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     }
   },
@@ -269,11 +270,10 @@
     },
     {
       "regel": "serie-uttryckliga-datum",
-      "dag": "2026-11-26",
+      "dag": "2026-12-03",
       "plats": "biotopia",
       "kallor": [
         "u",
-        "n",
         "n",
         "n",
         "t"
@@ -631,60 +631,6 @@
         "Hörlurar på!"
       ],
       "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-26",
-      "plats": "gottsundabib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Torsdagsbibblan"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-26",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Torsdagshäng",
-        "Torsdagshäng!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-27",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Fredagsmys"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-27",
-      "plats": "rosendalbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Småsånger med Ako",
-        "Småsånger"
-      ],
-      "poang": 0.5
     },
     {
       "regel": "lika",
@@ -1616,34 +1562,6 @@
       "poang": 1
     },
     {
-      "regel": "innehaller",
-      "dag": "2026-11-26",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "d"
-      ],
-      "titlar": [
-        "Chaplins City Lights",
-        "Chaplins City Lights – Uppsala Kammarorkester"
-      ],
-      "poang": 0.6
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-26",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d"
-      ],
-      "titlar": [
-        "Mia Karlsson – Coming Home",
-        "Mia Karlsson – Coming Home Tour 2026"
-      ],
-      "poang": 0.8
-    },
-    {
       "regel": "lika",
       "dag": "2026-11-27",
       "plats": "ukk",
@@ -2274,63 +2192,6 @@
         "Bästa Byström – Uppsala Kammarorkester"
       ],
       "poang": 0.5
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-26",
-      "plats": "slottshist",
-      "kallor": [
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "History and bar: Nordens modernaste fästning?"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-26",
-      "plats": "ukk",
-      "kallor": [
-        "r",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Chaplins City Lights",
-        "Chaplins City Lights – Uppsala Kammarorkester",
-        "City Lights – Uppsala Kammarorkester"
-      ],
-      "poang": 0.8
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-26",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Den Svenska Björnstammen"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "innehaller",
-      "dag": "2026-11-26",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "d",
-        "t"
-      ],
-      "titlar": [
-        "Mia Karlsson – Coming Home",
-        "Mia Karlsson – Coming Home Tour 2026"
-      ],
-      "poang": 0.8
     },
     {
       "regel": "lika",
@@ -4098,6 +3959,19 @@
         "The Rock Orchestra by Candlelight"
       ],
       "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-27",
+      "plats": "katalin",
+      "kallor": [
+        "l",
+        "t"
+      ],
+      "titlar": [
+        "Robin Winther"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -4126,7 +4000,7 @@
       "person": "Lisa",
       "namn": "Konst & museum, raden \"Pågår\": andel utställningar",
       "ok": true,
-      "varde": "100 % (12 av 12)",
+      "varde": "100 % (13 av 13)",
       "krav": "minst 80 %"
     },
     {
@@ -4140,14 +4014,14 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 27,
+      "varde": 24,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 12,
+      "varde": 11,
       "krav": "minst 10"
     },
     {
@@ -4175,21 +4049,21 @@
       "person": "Allmänt",
       "namn": "Andel i kategorin övrigt",
       "ok": true,
-      "varde": "3.1 %",
+      "varde": "3.2 %",
       "krav": "under 10 %"
     },
     {
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": false,
-      "varde": "2.7 %",
+      "varde": "2.8 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "3.4 %",
+      "varde": "3.5 %",
       "krav": "under 5 %"
     }
   ]

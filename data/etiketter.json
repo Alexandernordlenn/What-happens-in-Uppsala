@@ -981,6 +981,23 @@
    "modell": "claude-haiku-4-5-20251001",
    "promptversion": 1,
    "kategori": "aktivitet"
+  },
+  "du-visningar-i-domkyrkan-i-vinter": {
+   "hash": "07bf0965a363",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "format": "utstallning"
+  },
+  "du-jullovet-pa-uppsala-slottshistoriska": {
+   "hash": "007e698c8126",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1,
+   "format": "utstallning"
+  },
+  "du-allt-ljus-pa-uppsala-2027": {
+   "hash": "11cae6c414ca",
+   "modell": "claude-haiku-4-5-20251001",
+   "promptversion": 1
   }
  },
  "promptversion": 1
