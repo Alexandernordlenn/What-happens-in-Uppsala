@@ -1,24 +1,23 @@
 {
-  "matt": "2026-11-27T13:53:43.639Z",
-  "idag": "2026-11-27",
+  "matt": "2026-11-28T13:00:25.003Z",
+  "idag": "2026-11-28",
   "totalt": {
-    "antal": 1006,
-    "utanKlockslag": 0.035,
+    "antal": 988,
+    "utanKlockslag": 0.034,
     "ovrigt": 0.032,
-    "familjUtanAlder": 0.147,
-    "utanOmrade": 0.028,
-    "sammanslagna": 342,
+    "familjUtanAlder": 0.141,
+    "utanOmrade": 0.027,
+    "sammanslagna": 337,
     "pagar14": 17,
-    "borttagnaKurser": 22,
+    "borttagnaKurser": 23,
     "aiEvenemang": 53,
     "misstanktaDubbletter": 0,
-    "aiTackning": 1,
     "sammanslagningarPerRegel": {
       "langvariga": 1,
       "serie-uttryckliga-datum": 4,
       "speltid-mot-tillfallen": 5,
       "festival": 17,
-      "lika": 164,
+      "lika": 160,
       "innehaller": 37,
       "likhet": 2,
       "sport": 44
@@ -40,12 +39,12 @@
     },
     "s": {
       "namn": "Stadsteatern",
-      "antal": 111,
+      "antal": 108,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 65,
+      "sammanslagna": 64,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 53,
@@ -53,12 +52,12 @@
     },
     "b": {
       "namn": "Biblioteket",
-      "antal": 134,
+      "antal": 131,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 0,
-      "utanOmrade": 0.007,
-      "sammanslagna": 38,
+      "utanOmrade": 0.008,
+      "sammanslagna": 36,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 53,
@@ -66,12 +65,12 @@
     },
     "u": {
       "namn": "Kubik",
-      "antal": 352,
+      "antal": 345,
       "utanKlockslag": 0.03,
       "ovrigt": 0.003,
-      "familjUtanAlder": 0.057,
+      "familjUtanAlder": 0.055,
       "utanOmrade": 0.003,
-      "sammanslagna": 44,
+      "sammanslagna": 42,
       "pagar14": 3,
       "borttagnaKurser": 22,
       "aiEvenemang": 53,
@@ -92,12 +91,12 @@
     },
     "l": {
       "namn": "Katalin",
-      "antal": 71,
+      "antal": 69,
       "utanKlockslag": 0,
       "ovrigt": 0,
       "familjUtanAlder": 1,
       "utanOmrade": 0,
-      "sammanslagna": 62,
+      "sammanslagna": 60,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 53,
@@ -105,7 +104,7 @@
     },
     "c": {
       "namn": "UKK",
-      "antal": 72,
+      "antal": 71,
       "utanKlockslag": 0,
       "ovrigt": 0.056,
       "familjUtanAlder": 1,
@@ -138,17 +137,17 @@
       "utanOmrade": 0,
       "sammanslagna": 0,
       "pagar14": 0,
-      "borttagnaKurser": 0,
+      "borttagnaKurser": 1,
       "aiEvenemang": 53,
       "misstanktaDubbletter": 0
     },
     "n": {
       "namn": "Biotopia",
-      "antal": 21,
-      "utanKlockslag": 0.842,
+      "antal": 19,
+      "utanKlockslag": 0.824,
       "ovrigt": 0,
-      "familjUtanAlder": 0.667,
-      "utanOmrade": 0.048,
+      "familjUtanAlder": 0.6,
+      "utanOmrade": 0,
       "sammanslagna": 3,
       "pagar14": 2,
       "borttagnaKurser": 0,
@@ -183,12 +182,12 @@
     },
     "d": {
       "namn": "Destination Uppsala",
-      "antal": 184,
-      "utanKlockslag": 0.055,
+      "antal": 183,
+      "utanKlockslag": 0.056,
       "ovrigt": 0.12,
       "familjUtanAlder": 0.88,
       "utanOmrade": 0.06,
-      "sammanslagna": 170,
+      "sammanslagna": 169,
       "pagar14": 13,
       "borttagnaKurser": 0,
       "aiEvenemang": 53,
@@ -196,12 +195,12 @@
     },
     "t": {
       "namn": "Tickster",
-      "antal": 186,
+      "antal": 182,
       "utanKlockslag": 0,
-      "ovrigt": 0.043,
+      "ovrigt": 0.044,
       "familjUtanAlder": 0.9,
-      "utanOmrade": 0.054,
-      "sammanslagna": 185,
+      "utanOmrade": 0.055,
+      "sammanslagna": 183,
       "pagar14": 0,
       "borttagnaKurser": 0,
       "aiEvenemang": 53,
@@ -323,7 +322,7 @@
       "titlar": [
         "Förnuft och känsla"
       ],
-      "tillfallen": 26
+      "tillfallen": 25
     },
     {
       "regel": "speltid-mot-tillfallen",
@@ -629,34 +628,6 @@
       ],
       "titlar": [
         "Hörlurar på!"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-28",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Sagostund på italienska – Ora delle fiabe in italiano",
-        "Sagostund på italienska / Ora delle fiabe in italiano"
-      ],
-      "poang": 1
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-28",
-      "plats": "stadsbib",
-      "kallor": [
-        "b",
-        "u"
-      ],
-      "titlar": [
-        "Sagostund på persiska",
-        "Sagostund på persiska / داستان خوانی به زبان فارسی"
       ],
       "poang": 1
     },
@@ -1562,19 +1533,6 @@
       "poang": 1
     },
     {
-      "regel": "lika",
-      "dag": "2026-11-27",
-      "plats": "ukk",
-      "kallor": [
-        "c",
-        "d"
-      ],
-      "titlar": [
-        "Evigt Edvin – Edvin Törnblom"
-      ],
-      "poang": 1
-    },
-    {
       "regel": "innehaller",
       "dag": "2026-11-28",
       "plats": "solglimtsparken",
@@ -2194,45 +2152,18 @@
       "poang": 0.5
     },
     {
-      "regel": "lika",
-      "dag": "2026-11-27",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Den Svenska Björnstammen"
-      ],
-      "poang": 1
-    },
-    {
       "regel": "innehaller",
-      "dag": "2026-11-27",
-      "plats": "katalin",
-      "kallor": [
-        "l",
-        "t"
-      ],
-      "titlar": [
-        "Gustavz Orkester",
-        "Gustavz Orkester – Bakfickan"
-      ],
-      "poang": 0.67
-    },
-    {
-      "regel": "lika",
-      "dag": "2026-11-27",
+      "dag": "2027-03-28",
       "plats": "ukk",
       "kallor": [
         "c",
-        "d",
-        "t"
+        "d"
       ],
       "titlar": [
-        "Evigt Edvin – Edvin Törnblom"
+        "BRUNOZ – En konsert med Bruno Mitsogiannis",
+        "BRUNOZ"
       ],
-      "poang": 1
+      "poang": 0.33
     },
     {
       "regel": "innehaller",
@@ -3972,6 +3903,21 @@
         "Robin Winther"
       ],
       "poang": 1
+    },
+    {
+      "regel": "lika",
+      "dag": "2027-03-28",
+      "plats": "ukk",
+      "kallor": [
+        "c",
+        "d",
+        "t"
+      ],
+      "titlar": [
+        "BRUNOZ – En konsert med Bruno Mitsogiannis",
+        "BRUNOZ"
+      ],
+      "poang": 1
     }
   ],
   "personer": [
@@ -3979,7 +3925,7 @@
       "person": "Lisa",
       "namn": "Helgen, 0–4 år: evenemang med känd ålder",
       "ok": true,
-      "varde": 6,
+      "varde": 5,
       "krav": "minst 5"
     },
     {
@@ -3993,7 +3939,7 @@
       "person": "Lisa",
       "namn": "Familjeevenemang utan ålder (eller 0–99) syns under \"ålder ej angiven\"",
       "ok": true,
-      "varde": "14 av 14",
+      "varde": "12 av 12",
       "krav": "alla"
     },
     {
@@ -4014,14 +3960,14 @@
       "person": "Student",
       "namn": "7 dagar: kvällar med musik eller natt",
       "ok": true,
-      "varde": 24,
+      "varde": 26,
       "krav": "minst 10"
     },
     {
       "person": "Pensionär",
       "namn": "7 dagar: vardagar 10–16 med prat eller musik",
       "ok": true,
-      "varde": 11,
+      "varde": 13,
       "krav": "minst 10"
     },
     {
@@ -4056,14 +4002,14 @@
       "person": "Allmänt",
       "namn": "Andel utan område",
       "ok": false,
-      "varde": "2.8 %",
+      "varde": "2.7 %",
       "krav": "under 2 %"
     },
     {
       "person": "Allmänt",
       "namn": "Endagsevenemang utan klockslag",
       "ok": true,
-      "varde": "3.5 %",
+      "varde": "3.4 %",
       "krav": "under 5 %"
     }
   ]
